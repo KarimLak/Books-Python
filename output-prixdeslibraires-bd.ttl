@@ -1,0 +1,504 @@
+@prefix ns1: <http://schema.org/> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+schema:Book062ff455-89f8-4fe8-bbc7-53ab1c61b7e4 a ns1:Book ;
+    ns1:author "Anne-Caroline Pandolfo"^^xsd:string,
+        "Terkel Risbjerg"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Préliminaire volet adulte : 2023 volet adulte"^^xsd:string,
+        "Sara, qui n’a jamais connu ses parents, ignore tout de ses origines. Sur son lit de mort, la vieille tante qui l’a élevée lui confie le seul indice en sa possession, la moitié déchirée d’un bracelet de naissance portant un nom de lieu, Sousbrouillard. En quête de son passé, elle laisse derrière elle sa vie parisienne pour gagner le village, construit autour d’un lac sombre et mystérieux."^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Sousbrouillard"^^xsd:string ;
+    ns1:publisher "Dargaud"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Hors Québec&firstid=10662&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10659%3Bi%3A1%3Bi%3A10665%3Bi%3A2%3Bi%3A10664%3Bi%3A3%3Bi%3A10663%3Bi%3A4%3Bi%3A10662%3Bi%3A5%3Bi%3A10661%3B%7D"^^xsd:string .
+
+schema:Book227eba09-1174-4a55-863e-96a6faad9765 a ns1:Book ;
+    ns1:author "Sophie Escabasse"^^xsd:string ;
+    ns1:award "Lauréat BD Jeunesse"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Effie a perdu sa mère et sa maison. Elle doit maintenant vivre avec deux lointaines tantes, Selimene et Carlota, qu’elle n’a jamais rencontrées. Elle intègre aussi une nouvelle école et se fait rapidement des amis. Elle découvre un jour que la magie est présente dans sa famille. Aidée de ses tantes et ses nouveaux amis, Effie commence son apprentissage et vient en aide à sa pop star préférée."^^xsd:string,
+        "Lauréat BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Les socières de Brooklyn T.1"^^xsd:string ;
+    ns1:publisher "Bayard"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréats BD Jeunesse Hors Québec&firstid=10355&theme=bd&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10355%3B%7D"^^xsd:string .
+
+schema:Book2b154601-e33a-4ef7-b0d4-fd5d6f4ce2e2 a ns1:Book ;
+    ns1:author "Alexandre Clérisse"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "A trois époques différentes, trois personnages racontent des histoires avec des images, affrontant dangers et désillusions de leur temps : un moine copiste du Moyen Age qui invente un récit imagé et un procédé d’impression, un jeune homme des années 1990 qui découvre le pouvoir de la bande dessinée et sa fille qui en 2070 vit de la création virtuelle."^^xsd:string,
+        "Finaliste 2023 volet adulte : 2023 volet adulte"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Feuilles volantes"^^xsd:string ;
+    ns1:publisher "Dargaud"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 volet adulte Hors Québec&firstid=10665&theme=bd&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10665%3Bi%3A1%3Bi%3A10664%3Bi%3A2%3Bi%3A10663%3B%7D"^^xsd:string .
+
+schema:Book2e99dd44-0bc8-4934-a1a1-13cbfcfe3ca7 a ns1:Book ;
+    ns1:author "Guillaume Perreault"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Bob a l’estomac dans les talons ce matin. Mais notre Terrien affamé est loin de se douter que ce sera le moindre de ses tracas en cette journée rocambolesque. Se faire comprendre aux quatre coins de la galaxie risque bien d’être le véritable défi. Voici enfin le troisième tome des aventures de notre facteur de l’espace préféré !"^^xsd:string,
+        "Finaliste BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Le facteur de l’espace T.3 : La faim du monde"^^xsd:string ;
+    ns1:publisher "La Pastèque"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes BD Jeunesse Québec&firstid=10369&theme=bd&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10369%3Bi%3A1%3Bi%3A10351%3Bi%3A2%3Bi%3A10359%3B%7D"^^xsd:string .
+
+schema:Book3593af2c-0b73-47a4-b546-3d375d568697 a ns1:Book ;
+    ns1:author "Joris Mertens"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Chauffeur pour une société de blanchisserie, François n’est pas satisfait de son existence, de son célibat et de ses loisirs qui se résument à jouer au loto sans succès et à boire un verre avec Maryvonne. Confronté à une scène de crime au cours d’une de ses livraisons, il fait face à une dizaine de cadavres et à un sac rempli de billets, qu’il décide de voler."^^xsd:string,
+        "Finaliste 2023 volet adulte : 2023 volet adulte"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Nettoyage à sec"^^xsd:string ;
+    ns1:publisher "Rue De Sèvres"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 volet adulte Hors Québec&firstid=10663&theme=bd&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10665%3Bi%3A1%3Bi%3A10664%3Bi%3A2%3Bi%3A10663%3B%7D"^^xsd:string .
+
+schema:Book38f99e9a-d73d-43b4-8ffb-bbebc091de5e a ns1:Book ;
+    ns1:author "Geneviève Bigué"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Finaliste 2023 volet adulte : 2023 volet adulte"^^xsd:string,
+        "Un phénomène naturel très rare cause tout un émoi à Rivière-aux-Corbeaux : le lac Kijikone a pris feu et est devenu un véritable brasier. On dit que lorsqu’il s’enflamme, tout ce qu’on y plonge se transforme en or. Curieux, un groupe d’adolescents décide de partir à l’aventure pour découvrir si la légende dit vrai…"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Parfois les lacs brûlent"^^xsd:string ;
+    ns1:publisher "Front Froid"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 volet adulte Québec&firstid=10645&theme=bd&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10649%3Bi%3A1%3Bi%3A10650%3Bi%3A2%3Bi%3A10645%3B%7D"^^xsd:string .
+
+schema:Book4183f5ca-144b-4b9c-8c41-e2bb943a32e8 a ns1:Book ;
+    ns1:author "Shiro Kuroi"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Au fin fond de la galaxie, le Léviathan, un immense vaisseau spatial, flotte à la dérive. Des pilleurs d’épaves s’y introduisent et découvrent le journal intime de Kazuma, un collégien qui raconte les événements dramatiques qui s’y sont déroulés des années plus tôt. Ils sont en outre convaincus qu’un survivant de la catastrophe se cache encore à bord."^^xsd:string,
+        "Finaliste 2023 volet adulte : 2023 volet adulte"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Léviathan T.1"^^xsd:string ;
+    ns1:publisher "La Fondation Pour L'Alphabétisation"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 volet adulte Hors Québec&firstid=10664&theme=bd&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10665%3Bi%3A1%3Bi%3A10664%3Bi%3A2%3Bi%3A10663%3B%7D"^^xsd:string .
+
+schema:Book4e5bc763-4631-497e-b0bd-8e52ffb32609 a ns1:Book ;
+    ns1:author "Marc Tessier"^^xsd:string,
+        "Siris"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Préliminaire volet adulte : 2023 volet adulte"^^xsd:string,
+        "Une biographie sur Jean Dallaire, un artiste québécois reconnu, qui pavera la voie au retour de la peinture figurative au Canada à la fin des années 1960."^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Un Paris pour Dallaire"^^xsd:string ;
+    ns1:publisher "La Pastèque"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Québec&firstid=10649&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10645%3Bi%3A1%3Bi%3A10652%3Bi%3A2%3Bi%3A10651%3Bi%3A3%3Bi%3A10650%3Bi%3A4%3Bi%3A10649%3Bi%3A5%3Bi%3A10648%3B%7D"^^xsd:string .
+
+schema:Book4f6349de-d1d7-4243-a214-1496f27a2045 a ns1:Book ;
+    ns1:author "Shiro Kuroi"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Au fin fond de la galaxie, le Léviathan, un immense vaisseau spatial, flotte à la dérive. Des pilleurs d’épaves s’y introduisent et découvrent le journal intime de Kazuma, un collégien qui raconte les événements dramatiques qui s’y sont déroulés des années plus tôt. Ils sont en outre convaincus qu’un survivant de la catastrophe se cache encore à bord."^^xsd:string,
+        "Préliminaire volet adulte : 2023 volet adulte"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Léviathan T.1"^^xsd:string ;
+    ns1:publisher "La Fondation Pour L'Alphabétisation"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Hors Québec&firstid=10664&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10659%3Bi%3A1%3Bi%3A10665%3Bi%3A2%3Bi%3A10664%3Bi%3A3%3Bi%3A10663%3Bi%3A4%3Bi%3A10662%3Bi%3A5%3Bi%3A10661%3B%7D"^^xsd:string .
+
+schema:Book4f9b8483-d2dc-4059-be5f-e8e25c2972de a ns1:Book ;
+    ns1:author "Tatsuki Fujimoto"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Deux adolescentes sont unies par leur amour du dessin. Si Fujino a une confiance absolue dans son talent, Kyômoto passe le plus clair de son temps enfermée dans sa chambre et pratique sans cesse."^^xsd:string,
+        "Finaliste BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Look Back"^^xsd:string ;
+    ns1:publisher "Kazé Manga"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes BD Jeunesse Hors Québec&firstid=10381&theme=bd&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10355%3Bi%3A1%3Bi%3A10381%3Bi%3A2%3Bi%3A10373%3B%7D"^^xsd:string .
+
+schema:Book53140b8e-93bd-445a-ae47-ebaac43b71eb a ns1:Book ;
+    ns1:author "Grégory Panaccione"^^xsd:string,
+        "Rémi Courgeon d’après le roman de Daniel Pennac"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Jugé trop laid pour être adopté, le Chien est abandonné dans une décharge. Gueule noire, une vieille chienne, lui conseille de trouver une maîtresse au plus vite, et surtout de bien la dresser. Le Chien jette son dévolu sur Pomme, une fillette au fort caractère qui s’avère difficile à apprivoiser."^^xsd:string,
+        "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Cabot-Caboche"^^xsd:string ;
+    ns1:publisher "Delcourt"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Hors Québec&firstid=10373&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10355%3Bi%3A1%3Bi%3A10376%3Bi%3A2%3Bi%3A10375%3Bi%3A3%3Bi%3A10381%3Bi%3A4%3Bi%3A10374%3Bi%3A5%3Bi%3A10373%3B%7D"^^xsd:string .
+
+schema:Book5f9fe1dc-2caf-496d-a025-9599fd276d78 a ns1:Book ;
+    ns1:author "Mirion Malle"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Préliminaire volet adulte : 2023 volet adulte"^^xsd:string,
+        "Un jour, Cléo réalise qu’elle ne connaît pas vraiment la personne avec qui elle partage sa vie. Comment continuer à aimer quelqu’un en qui on n’a plus confiance? Jeune autrice de bandes dessinées qui a quitté la France pour s’installer à Montréal avec son amoureux, elle se retrouve alors perdue, et essaie de répondre à cette question: rester et essayer, ou partir et se trouver? Adieu triste amour est un livre de printemps, de soleil qui revient, un livre dans lequel, après avoir été réveillé·e par le grand froid, on se laisse aller la douceur de la nature qui renaît."^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Adieu triste amour"^^xsd:string ;
+    ns1:publisher "Pow Pow"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Québec&firstid=10652&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10645%3Bi%3A1%3Bi%3A10652%3Bi%3A2%3Bi%3A10651%3Bi%3A3%3Bi%3A10650%3Bi%3A4%3Bi%3A10649%3Bi%3A5%3Bi%3A10648%3B%7D"^^xsd:string .
+
+schema:Book67be7cba-20cf-461d-9cf4-62ff84484adb a ns1:Book ;
+    ns1:author "Geneviève Bigué"^^xsd:string ;
+    ns1:award "Lauréat 2023 volet adulte"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Lauréat 2023 volet adulte : 2023 volet adulte"^^xsd:string,
+        "Un phénomène naturel très rare cause tout un émoi à Rivière-aux-Corbeaux : le lac Kijikone a pris feu et est devenu un véritable brasier. On dit que lorsqu’il s’enflamme, tout ce qu’on y plonge se transforme en or. Curieux, un groupe d’adolescents décide de partir à l’aventure pour découvrir si la légende dit vrai…"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Parfois les lacs brûlent"^^xsd:string ;
+    ns1:publisher "Front Froid"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréats 2023 volet adulte Québec&firstid=10645&theme=bd&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10645%3B%7D"^^xsd:string .
+
+schema:Book6ec7b5e2-85d0-4acf-bde8-00dbaad329ce a ns1:Book ;
+    ns1:author "Sophie Escabasse"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Effie a perdu sa mère et sa maison. Elle doit maintenant vivre avec deux lointaines tantes, Selimene et Carlota, qu’elle n’a jamais rencontrées. Elle intègre aussi une nouvelle école et se fait rapidement des amis. Elle découvre un jour que la magie est présente dans sa famille. Aidée de ses tantes et ses nouveaux amis, Effie commence son apprentissage et vient en aide à sa pop star préférée."^^xsd:string,
+        "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Les socières de Brooklyn T.1"^^xsd:string ;
+    ns1:publisher "Bayard"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Hors Québec&firstid=10355&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10355%3Bi%3A1%3Bi%3A10376%3Bi%3A2%3Bi%3A10375%3Bi%3A3%3Bi%3A10381%3Bi%3A4%3Bi%3A10374%3Bi%3A5%3Bi%3A10373%3B%7D"^^xsd:string .
+
+schema:Book833896e0-0dc4-4512-a5c8-34591418b1db a ns1:Book ;
+    ns1:author "Guillaume Perreault"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Bob a l’estomac dans les talons ce matin. Mais notre Terrien affamé est loin de se douter que ce sera le moindre de ses tracas en cette journée rocambolesque. Se faire comprendre aux quatre coins de la galaxie risque bien d’être le véritable défi. Voici enfin le troisième tome des aventures de notre facteur de l’espace préféré !"^^xsd:string,
+        "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Le facteur de l’espace T.3 : La faim du monde"^^xsd:string ;
+    ns1:publisher "La Pastèque"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Québec&firstid=10369&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10351%3Bi%3A1%3Bi%3A10359%3Bi%3A2%3Bi%3A10369%3Bi%3A3%3Bi%3A10357%3Bi%3A4%3Bi%3A10358%3Bi%3A5%3Bi%3A10356%3B%7D"^^xsd:string .
+
+schema:Book9489fe71-a1c4-43be-ba1c-6eabbb68189d a ns1:Book ;
+    ns1:author "Guillermo Decurgez"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Dans sa nouvelle chambre, Lorenzo est intrigué par un meuble dans lequel il trouve un cahier rempli d’histoires loufoques et extraordinaires. Au fil des pages, le garçon se met à dessiner et à interpréter ces récits peuplés de lapins jouant à la balle avec des autruches et de lampes prenant la forme de monstres."^^xsd:string,
+        "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Quand tu lèves les yeux"^^xsd:string ;
+    ns1:publisher "Seuil Jeunesse"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Hors Québec&firstid=10374&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10355%3Bi%3A1%3Bi%3A10376%3Bi%3A2%3Bi%3A10375%3Bi%3A3%3Bi%3A10381%3Bi%3A4%3Bi%3A10374%3Bi%3A5%3Bi%3A10373%3B%7D"^^xsd:string .
+
+schema:Book96e1e04c-f760-44a3-b9ac-43a5b8209bed a ns1:Book ;
+    ns1:author "Éloïse Marseille"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Dans Confessions d’une femme normale, l’autrice montréalaise remonte le fil de ses tribulations dans le but de terrasser la honte qui lui colle au corps depuis l’enfance dès qu’il est question de sexe. D’une remarquable franchise, ce premier livre est un plaidoyer pour une sexualité décomplexée et sans tabous."^^xsd:string,
+        "Préliminaire volet adulte : 2023 volet adulte"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Confessions d’une femme normale"^^xsd:string ;
+    ns1:publisher "Pow Pow"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Québec&firstid=10651&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10645%3Bi%3A1%3Bi%3A10652%3Bi%3A2%3Bi%3A10651%3Bi%3A3%3Bi%3A10650%3Bi%3A4%3Bi%3A10649%3Bi%3A5%3Bi%3A10648%3B%7D"^^xsd:string .
+
+schema:Book96e7a60a-278c-475c-9497-4dce0df70387 a ns1:Book ;
+    ns1:author "Tatsuki Fujimoto"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Deux adolescentes sont unies par leur amour du dessin. Si Fujino a une confiance absolue dans son talent, Kyômoto passe le plus clair de son temps enfermée dans sa chambre et pratique sans cesse."^^xsd:string,
+        "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Look Back"^^xsd:string ;
+    ns1:publisher "Kazé Manga"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Hors Québec&firstid=10381&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10355%3Bi%3A1%3Bi%3A10376%3Bi%3A2%3Bi%3A10375%3Bi%3A3%3Bi%3A10381%3Bi%3A4%3Bi%3A10374%3Bi%3A5%3Bi%3A10373%3B%7D"^^xsd:string .
+
+schema:Book9b501837-eb60-49c2-8a81-3fe16cdb1bb1 a ns1:Book ;
+    ns1:author "Christophe Blain"^^xsd:string,
+        "Jean-Marc Jancovici"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Préliminaire volet adulte : 2023 volet adulte"^^xsd:string,
+        "Une réflexion sur les conséquences liées au changement climatique. Les enjeux économiques, écologiques et sociétaux ainsi que la transition énergétique sont également abordés."^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Le monde sans fin"^^xsd:string ;
+    ns1:publisher "Dargaud"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Hors Québec&firstid=10659&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10659%3Bi%3A1%3Bi%3A10665%3Bi%3A2%3Bi%3A10664%3Bi%3A3%3Bi%3A10663%3Bi%3A4%3Bi%3A10662%3Bi%3A5%3Bi%3A10661%3B%7D"^^xsd:string .
+
+schema:Book9c67b72f-291f-4d72-bf42-843eda4664e8 a ns1:Book ;
+    ns1:author "Grégory Panaccione"^^xsd:string,
+        "Rémi Courgeon d’après le roman de Daniel Pennac"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Finaliste BD Jeunesse : BD Jeunesse"^^xsd:string,
+        "Jugé trop laid pour être adopté, le Chien est abandonné dans une décharge. Gueule noire, une vieille chienne, lui conseille de trouver une maîtresse au plus vite, et surtout de bien la dresser. Le Chien jette son dévolu sur Pomme, une fillette au fort caractère qui s’avère difficile à apprivoiser."^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Cabot-Caboche"^^xsd:string ;
+    ns1:publisher "Delcourt"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes BD Jeunesse Hors Québec&firstid=10373&theme=bd&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10355%3Bi%3A1%3Bi%3A10381%3Bi%3A2%3Bi%3A10373%3B%7D"^^xsd:string .
+
+schema:Booka0a2c2af-df02-4f28-9f9d-523ca809f946 a ns1:Book ;
+    ns1:author "Sophie Escabasse"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Effie a perdu sa mère et sa maison. Elle doit maintenant vivre avec deux lointaines tantes, Selimene et Carlota, qu’elle n’a jamais rencontrées. Elle intègre aussi une nouvelle école et se fait rapidement des amis. Elle découvre un jour que la magie est présente dans sa famille. Aidée de ses tantes et ses nouveaux amis, Effie commence son apprentissage et vient en aide à sa pop star préférée."^^xsd:string,
+        "Finaliste BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Les socières de Brooklyn T.1"^^xsd:string ;
+    ns1:publisher "Bayard"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes BD Jeunesse Hors Québec&firstid=10355&theme=bd&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10355%3Bi%3A1%3Bi%3A10381%3Bi%3A2%3Bi%3A10373%3B%7D"^^xsd:string .
+
+schema:Booka2e7b036-44ff-429b-85e3-359b85f40594 a ns1:Book ;
+    ns1:author "Alexandre Clérisse"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "A trois époques différentes, trois personnages racontent des histoires avec des images, affrontant dangers et désillusions de leur temps : un moine copiste du Moyen Age qui invente un récit imagé et un procédé d’impression, un jeune homme des années 1990 qui découvre le pouvoir de la bande dessinée et sa fille qui en 2070 vit de la création virtuelle."^^xsd:string,
+        "Préliminaire volet adulte : 2023 volet adulte"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Feuilles volantes"^^xsd:string ;
+    ns1:publisher "Dargaud"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Hors Québec&firstid=10665&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10659%3Bi%3A1%3Bi%3A10665%3Bi%3A2%3Bi%3A10664%3Bi%3A3%3Bi%3A10663%3Bi%3A4%3Bi%3A10662%3Bi%3A5%3Bi%3A10661%3B%7D"^^xsd:string .
+
+schema:Booka53c6484-338e-4c08-9ad7-d4474d2ff159 a ns1:Book ;
+    ns1:author "Rémy Simard"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Finaliste BD Jeunesse : BD Jeunesse"^^xsd:string,
+        "Pauvre princesse Babette, son papa été kidnappé! Sa première décision royale, après son couronnement expéditif, sera de se lancer à la poursuite des kidnappeurs! Voici une nouvelle bande dessinée jeunesse rigolote, fantaisiste et pleine de charme où l’on suit les aventures d’une reine par intérim, qui n’a peur de personne!"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Reine babette"^^xsd:string ;
+    ns1:publisher "La Pastèque"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes BD Jeunesse Québec&firstid=10351&theme=bd&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10369%3Bi%3A1%3Bi%3A10351%3Bi%3A2%3Bi%3A10359%3B%7D"^^xsd:string .
+
+schema:Booka881946f-c88d-4ae2-8d96-a5fbec75359c a ns1:Book ;
+    ns1:author "Julien Castanié"^^xsd:string,
+        "Larry Tremblay"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Finaliste BD Jeunesse : BD Jeunesse"^^xsd:string,
+        "Lorsque Marco dessine la personne la plus extraordinaire qu’il aimerait rencontrer, ça donne… Marco bleu. Avec ce nouvel ami, il visitera l’endroit le plus farfelu de l’univers : une planète où les semaines ne durent que deux jours, le samedi et le dimanche. Une fabuleuse aventure qui fera découvrir à Marco ce qui se cache si près de lui! Julien Castanié unit son immense talent à celui de Larry Tremblay pour illustrer ce texte, écrit au départ pour le théâtre de marionnettes. Leurs deux univers se rejoignent à merveille dans cette ode à l’imaginaire à la fois drôle et poétique."^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Marco bleu"^^xsd:string ;
+    ns1:publisher "La Bagnole"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes BD Jeunesse Québec&firstid=10359&theme=bd&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10369%3Bi%3A1%3Bi%3A10351%3Bi%3A2%3Bi%3A10359%3B%7D"^^xsd:string .
+
+schema:Bookaf9cfdb7-f7f0-48fa-a849-089aa1748120 a ns1:Book ;
+    ns1:author "Patrick Blanchette"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Aube, l’intrépide apprentie du marchand de sable, attendait ce moment avec impatience : le festival des esprits, une grande fête qui marque le jour ou le monde des humains s’est connecté à celui des rêves. Ce sera enfin l’occasion de faire découvrir le réacteur onirique à Twain, son ami de toujours. Or, celui-ci est loin de partager son enthousiasme et s’inquiète de la récente vague d’attaques de cauchemars… et si la réalité de Solcolline était loin d’être un rêve ?"^^xsd:string,
+        "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Aube du monde des rêves T.2 : Le festival des esprits"^^xsd:string ;
+    ns1:publisher "Presses Aventure"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Québec&firstid=10356&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10351%3Bi%3A1%3Bi%3A10359%3Bi%3A2%3Bi%3A10369%3Bi%3A3%3Bi%3A10357%3Bi%3A4%3Bi%3A10358%3Bi%3A5%3Bi%3A10356%3B%7D"^^xsd:string .
+
+schema:Bookb2d0c6e5-9952-4a23-b34b-606d584cdd98 a ns1:Book ;
+    ns1:author "Anne Villeneuve"^^xsd:string,
+        "Fadi Malek"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Fadi a grandi au Liban dans une famille aimante mais stricte, avec de grandes attentes professionnelles et matrimoniales. Il a beau vouloir leur plaire, il porte en lui depuis toujours un lourd secret : il est gai. Pour vivre son existence, il ne voit donc pas d’autre choix que de s’exiler. Mais son départ ne règle pas tout, la libération est lente. Les barrières qu’il a intériorisées et les fantômes du passé le poursuivent au-delà les frontières. À travers les souvenirs de sa jeunesse, quelques discussions avec Winston Churchill et son quotidien à Montréal, Fadi trouvera tranquillement l’espace pour affirmer qui il est."^^xsd:string,
+        "Préliminaire volet adulte : 2023 volet adulte"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "La fin du commencement"^^xsd:string ;
+    ns1:publisher "Nouvelle Adresse"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Québec&firstid=10648&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10645%3Bi%3A1%3Bi%3A10652%3Bi%3A2%3Bi%3A10651%3Bi%3A3%3Bi%3A10650%3Bi%3A4%3Bi%3A10649%3Bi%3A5%3Bi%3A10648%3B%7D"^^xsd:string .
+
+schema:Bookbb28b524-b172-40c4-8f8b-a052b9be0ccf a ns1:Book ;
+    ns1:author "Guillaume Perreault"^^xsd:string ;
+    ns1:award "Lauréat BD Jeunesse"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Bob a l’estomac dans les talons ce matin. Mais notre Terrien affamé est loin de se douter que ce sera le moindre de ses tracas en cette journée rocambolesque. Se faire comprendre aux quatre coins de la galaxie risque bien d’être le véritable défi. Voici enfin le troisième tome des aventures de notre facteur de l’espace préféré !"^^xsd:string,
+        "Lauréat BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Le facteur de l’espace T.3 : La faim du monde"^^xsd:string ;
+    ns1:publisher "La Pastèque"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréats BD Jeunesse Québec&firstid=10369&theme=bd&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10369%3B%7D"^^xsd:string .
+
+schema:Bookbf18e04e-defd-400d-a9d3-5854af98923c a ns1:Book ;
+    ns1:author "Joris Mertens"^^xsd:string ;
+    ns1:award "Lauréat 2023 volet adulte"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Chauffeur pour une société de blanchisserie, François n’est pas satisfait de son existence, de son célibat et de ses loisirs qui se résument à jouer au loto sans succès et à boire un verre avec Maryvonne. Confronté à une scène de crime au cours d’une de ses livraisons, il fait face à une dizaine de cadavres et à un sac rempli de billets, qu’il décide de voler."^^xsd:string,
+        "Lauréat 2023 volet adulte : 2023 volet adulte"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Nettoyage à sec"^^xsd:string ;
+    ns1:publisher "Rue De Sèvres"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréats 2023 volet adulte Hors Québec&firstid=10663&theme=bd&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10663%3B%7D"^^xsd:string .
+
+schema:Bookd9839a17-5bf7-48fe-a9c7-9b9ef3b8e749 a ns1:Book ;
+    ns1:author "Collectif"^^xsd:string,
+        "Marc Tessier (scénariste)"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Finaliste 2023 volet adulte : 2023 volet adulte"^^xsd:string,
+        "René Lévesque est le Québécois à l’origine des plus grands changements économiques, politiques et sociaux survenus au Québec au 20e siècle. Pendant sa carrière, il a été démonisé par une partie de la presse anglophone et francophone, traité d’ami de Khrouchtchev, de communiste et de « Castro du nord » par les Libéraux et l’Union nationale. Que sait-on vraiment de lui ? Quels évènements ont façonnés ses convictions profondes ? Qui se rappelle des hauts faits de sa brillante carrière de journaliste ? Cette bande dessinée retrace la vie professionnelle et intime de René Lévesque. Elle explique et contextualise la révolution tranquille, que l’on considère comme l’émergence du Québec moderne."^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "René Lévesque : Quelque chose comme un grand homme"^^xsd:string ;
+    ns1:publisher "Moelle Graphik"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 volet adulte Québec&firstid=10650&theme=bd&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10649%3Bi%3A1%3Bi%3A10650%3Bi%3A2%3Bi%3A10645%3B%7D"^^xsd:string .
+
+schema:Bookda8483f1-5d62-43ec-92ce-f2aef823bc01 a ns1:Book ;
+    ns1:author "Élise Gravel"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description """Arlo découvre un jour qu’il a envie de la compagnie d’autres corbeaux. Il décide alors de faire de nouvelles rencontres avec l’aide de Pips, et fait la connaissance de Marla, un corbeau femelle très intelligent, peut-être même plus que lui! Est-ce que Marla parviendra à enseigner une chose ou deux à notre héros?
+Cette suite charmante et brillante du Roi des oiseaux, d’Elise Gravel, renferme des illustrations hilarantes et des faits fascinants sur les corbeaux."""^^xsd:string,
+        "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Arlo et Pips : Le clique des corbeaux"^^xsd:string ;
+    ns1:publisher "Scholastic"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Québec&firstid=10358&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10351%3Bi%3A1%3Bi%3A10359%3Bi%3A2%3Bi%3A10369%3Bi%3A3%3Bi%3A10357%3Bi%3A4%3Bi%3A10358%3Bi%3A5%3Bi%3A10356%3B%7D"^^xsd:string .
+
+schema:Bookdf4419a1-bde0-4fec-a509-97ecaedc7834 a ns1:Book ;
+    ns1:author "Joris Mertens"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Chauffeur pour une société de blanchisserie, François n’est pas satisfait de son existence, de son célibat et de ses loisirs qui se résument à jouer au loto sans succès et à boire un verre avec Maryvonne. Confronté à une scène de crime au cours d’une de ses livraisons, il fait face à une dizaine de cadavres et à un sac rempli de billets, qu’il décide de voler."^^xsd:string,
+        "Préliminaire volet adulte : 2023 volet adulte"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Nettoyage à sec"^^xsd:string ;
+    ns1:publisher "Rue De Sèvres"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Hors Québec&firstid=10663&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10659%3Bi%3A1%3Bi%3A10665%3Bi%3A2%3Bi%3A10664%3Bi%3A3%3Bi%3A10663%3Bi%3A4%3Bi%3A10662%3Bi%3A5%3Bi%3A10661%3B%7D"^^xsd:string .
+
+schema:Booke696b839-5db8-468c-955d-9c19f997e91d a ns1:Book ;
+    ns1:author "Julien Castanié"^^xsd:string,
+        "Larry Tremblay"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Lorsque Marco dessine la personne la plus extraordinaire qu’il aimerait rencontrer, ça donne… Marco bleu. Avec ce nouvel ami, il visitera l’endroit le plus farfelu de l’univers : une planète où les semaines ne durent que deux jours, le samedi et le dimanche. Une fabuleuse aventure qui fera découvrir à Marco ce qui se cache si près de lui! Julien Castanié unit son immense talent à celui de Larry Tremblay pour illustrer ce texte, écrit au départ pour le théâtre de marionnettes. Leurs deux univers se rejoignent à merveille dans cette ode à l’imaginaire à la fois drôle et poétique."^^xsd:string,
+        "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Marco bleu"^^xsd:string ;
+    ns1:publisher "La Bagnole"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Québec&firstid=10359&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10351%3Bi%3A1%3Bi%3A10359%3Bi%3A2%3Bi%3A10369%3Bi%3A3%3Bi%3A10357%3Bi%3A4%3Bi%3A10358%3Bi%3A5%3Bi%3A10356%3B%7D"^^xsd:string .
+
+schema:Booke6aeacab-6a48-4ace-89c5-53354a258d64 a ns1:Book ;
+    ns1:author "Alex S. Girard"^^xsd:string,
+        "Pierre Rig Rodrigue"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description """En quête d’inspiration pour un nouveau projet, les illustrateurs Alex et Rig se rendent dans le sous-sol d’une bibliothèque. Sur place, ils mettent la main sur un livre mystérieux qui les entraîne dans une aventure délirante où seules leur imagination et leur aptitude à dessiner pourraient les tirer d’affaire. S’ils réussissent la série d’épreuves qui leur est imposée, ils intégreront la SSCRIPT : la Société Secrète des Crayonneurs, Rogneurs et Illustratrices PhylacTerribles.
+Et s’ils échouaient ? Mieux vaut ne pas y penser…"""^^xsd:string,
+        "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Les Phylacterribles T.1 : Le grimoire secret"^^xsd:string ;
+    ns1:publisher "Michel Quintin"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Québec&firstid=10357&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10351%3Bi%3A1%3Bi%3A10359%3Bi%3A2%3Bi%3A10369%3Bi%3A3%3Bi%3A10357%3Bi%3A4%3Bi%3A10358%3Bi%3A5%3Bi%3A10356%3B%7D"^^xsd:string .
+
+schema:Booke97575d1-183d-4053-9ecb-57194cf9ca4b a ns1:Book ;
+    ns1:author "Fabien Bedouel"^^xsd:string,
+        "Pat Perna"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Le 20 juillet 1969, le monde entier assiste sidéré aux premiers pas de Neil Armstrong sur la Lune. Malgré une frayeur technique, tout s’est bien déroulé. Au moment de repartir, l’astronaute américain se retourne une dernière fois pour observer le paysage et reste figé car dans la visière de son casque se reflètent un drapeau et un LEM soviétiques."^^xsd:string,
+        "Préliminaire volet adulte : 2023 volet adulte"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Kosmos"^^xsd:string ;
+    ns1:publisher "Delcourt"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Hors Québec&firstid=10661&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10659%3Bi%3A1%3Bi%3A10665%3Bi%3A2%3Bi%3A10664%3Bi%3A3%3Bi%3A10663%3Bi%3A4%3Bi%3A10662%3Bi%3A5%3Bi%3A10661%3B%7D"^^xsd:string .
+
+schema:Bookec9c041c-a261-40d6-ad7e-282ea5d61f85 a ns1:Book ;
+    ns1:author "Sophie Guerrive"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Pris dans des pluies diluviennes, les membres du Club des amis se lancent dans une nouvelle aventure loin de leur foyer. Les trois oursons gravissent des montagnes et apprennent à construire une cabane mais, quand l’hiver arrive, ils repensent avec inquiétude à leur mère, restée seule dans sa grotte."^^xsd:string,
+        "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Le club des amis T.2"^^xsd:string ;
+    ns1:publisher "Être Éditions"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Hors Québec&firstid=10376&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10355%3Bi%3A1%3Bi%3A10376%3Bi%3A2%3Bi%3A10375%3Bi%3A3%3Bi%3A10381%3Bi%3A4%3Bi%3A10374%3Bi%3A5%3Bi%3A10373%3B%7D"^^xsd:string .
+
+schema:Booked1bb0fa-3561-4c5a-a89c-f9817389c339 a ns1:Book ;
+    ns1:author "Rémy Simard"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Pauvre princesse Babette, son papa été kidnappé! Sa première décision royale, après son couronnement expéditif, sera de se lancer à la poursuite des kidnappeurs! Voici une nouvelle bande dessinée jeunesse rigolote, fantaisiste et pleine de charme où l’on suit les aventures d’une reine par intérim, qui n’a peur de personne!"^^xsd:string,
+        "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Reine babette"^^xsd:string ;
+    ns1:publisher "La Pastèque"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Québec&firstid=10351&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10351%3Bi%3A1%3Bi%3A10359%3Bi%3A2%3Bi%3A10369%3Bi%3A3%3Bi%3A10357%3Bi%3A4%3Bi%3A10358%3Bi%3A5%3Bi%3A10356%3B%7D"^^xsd:string .
+
+schema:Bookf1df518a-5bcc-4618-9470-cce4462394bc a ns1:Book ;
+    ns1:author "Geneviève Bigué"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Préliminaire volet adulte : 2023 volet adulte"^^xsd:string,
+        "Un phénomène naturel très rare cause tout un émoi à Rivière-aux-Corbeaux : le lac Kijikone a pris feu et est devenu un véritable brasier. On dit que lorsqu’il s’enflamme, tout ce qu’on y plonge se transforme en or. Curieux, un groupe d’adolescents décide de partir à l’aventure pour découvrir si la légende dit vrai…"^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Parfois les lacs brûlent"^^xsd:string ;
+    ns1:publisher "Front Froid"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Québec&firstid=10645&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10645%3Bi%3A1%3Bi%3A10652%3Bi%3A2%3Bi%3A10651%3Bi%3A3%3Bi%3A10650%3Bi%3A4%3Bi%3A10649%3Bi%3A5%3Bi%3A10648%3B%7D"^^xsd:string .
+
+schema:Bookf3507152-4f7d-4c09-90ef-6fe25f07a9dc a ns1:Book ;
+    ns1:author "Marc Tessier"^^xsd:string,
+        "Siris"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Finaliste 2023 volet adulte : 2023 volet adulte"^^xsd:string,
+        "Une biographie sur Jean Dallaire, un artiste québécois reconnu, qui pavera la voie au retour de la peinture figurative au Canada à la fin des années 1960."^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Un Paris pour Dallaire"^^xsd:string ;
+    ns1:publisher "La Pastèque"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 volet adulte Québec&firstid=10649&theme=bd&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10649%3Bi%3A1%3Bi%3A10650%3Bi%3A2%3Bi%3A10645%3B%7D"^^xsd:string .
+
+schema:Bookfbadc949-bff3-434e-b1ac-28242c70f2e2 a ns1:Book ;
+    ns1:author "Andrea Fontana"^^xsd:string,
+        "Claudia Petrazzi"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "En 1988, Clara et son père quittent New York pour s’installer à Brattleboro, village isolé des Etats-Unis. Souffrant d’épilepsie et abandonnée par sa mère, l’adolescente fait des cauchemars étranges. De plus, plusieurs adolescents disparaissent. Un jour, Clara rencontre Robert. Ensemble, ils défient les démons qui la hantent et enquêtent sur les mystères qui pèsent sur Brattleboro."^^xsd:string,
+        "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:genre "BD"^^xsd:string,
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Clara et les ombres"^^xsd:string ;
+    ns1:publisher "Bayard"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Hors Québec&firstid=10375&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10355%3Bi%3A1%3Bi%3A10376%3Bi%3A2%3Bi%3A10375%3Bi%3A3%3Bi%3A10381%3Bi%3A4%3Bi%3A10374%3Bi%3A5%3Bi%3A10373%3B%7D"^^xsd:string .
+
+schema:Bookfce642f0-b30c-4dae-aa86-bad091e75937 a ns1:Book ;
+    ns1:author "Collectif"^^xsd:string,
+        "Marc Tessier (scénariste)"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Préliminaire volet adulte : 2023 volet adulte"^^xsd:string,
+        "René Lévesque est le Québécois à l’origine des plus grands changements économiques, politiques et sociaux survenus au Québec au 20e siècle. Pendant sa carrière, il a été démonisé par une partie de la presse anglophone et francophone, traité d’ami de Khrouchtchev, de communiste et de « Castro du nord » par les Libéraux et l’Union nationale. Que sait-on vraiment de lui ? Quels évènements ont façonnés ses convictions profondes ? Qui se rappelle des hauts faits de sa brillante carrière de journaliste ? Cette bande dessinée retrace la vie professionnelle et intime de René Lévesque. Elle explique et contextualise la révolution tranquille, que l’on considère comme l’émergence du Québec moderne."^^xsd:string ;
+    ns1:genre "Adulte"^^xsd:string,
+        "BD"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "René Lévesque : Quelque chose comme un grand homme"^^xsd:string ;
+    ns1:publisher "Moelle Graphik"^^xsd:string ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Québec&firstid=10650&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10645%3Bi%3A1%3Bi%3A10652%3Bi%3A2%3Bi%3A10651%3Bi%3A3%3Bi%3A10650%3Bi%3A4%3Bi%3A10649%3Bi%3A5%3Bi%3A10648%3B%7D"^^xsd:string .
+
