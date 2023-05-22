@@ -914,7 +914,7 @@ schema:Book103d7ce9-ef27-4268-aeaa-012cc5a38478 a ns1:Book ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Vaurien et Gredin, les affreux jumeaux..."^^xsd:string ;
+    ns1:name "Vaurien et Gredin, les affreux jumeaux.." ;
     ns1:publisher "Kaléidoscope" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-livrentete"^^xsd:string .
 
@@ -1460,7 +1460,7 @@ schema:Book299131c8-b252-4189-9ab5-cc367a281d01 a ns1:Book ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Petit soldat,"^^xsd:string ;
+    ns1:name "Petit soldat" ;
     ns1:publisher "Seuil Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
@@ -1529,7 +1529,7 @@ schema:Book2cd4f9da-7168-4bb3-bcc5-0af197dce152 a ns1:Book ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Oko, un thé en hiver,"^^xsd:string ;
+    ns1:name "Oko, un thé en hiver" ;
     ns1:publisher "MéMo" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
@@ -3230,7 +3230,7 @@ schema:Book982a7d70-471b-455d-b23c-93707f1ea55a a ns1:Book ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Profession crocodile,"^^xsd:string ;
+    ns1:name "Profession crocodile" ;
     ns1:publisher "Les Fourmis Rouges" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
@@ -3302,7 +3302,7 @@ schema:Book9aa36bd6-c368-4a46-a318-57c5f53b35ab a ns1:Book ;
     ns1:countryOfOrigin "Suisse"^^xsd:string ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:illustrator "Ronald Curchod"^^xsd:string ;
-    ns1:title "La nuit quand je dors..."^^xsd:string ;
+    ns1:title "La nuit quand je dors.." ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/biennale-de-lillustration-de-bratislava"^^xsd:string .
 
 schema:Book9aab9a28-2793-4b79-b9c2-cd545d7da9dc a ns1:Book ;
@@ -4011,7 +4011,7 @@ schema:Bookbbf856cf-47ba-4cea-8d5d-06a15cc2d6fd a ns1:Book ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Musée des museaux amusants,"^^xsd:string ;
+    ns1:name "Musée des museaux amusants" ;
     ns1:publisher "L'Atelier Du Poisson Soluble" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
@@ -4365,7 +4365,7 @@ schema:Bookd4e0c82f-7478-4f86-8d22-9b309cef7c29 a ns1:Book ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Les choses qui s'en vont,"^^xsd:string ;
+    ns1:name "Les choses qui s'en vont" ;
     ns1:publisher "Hélium" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
@@ -4577,7 +4577,7 @@ schema:Booke0d7c765-3eda-463e-b950-909ae6a74945 a ns1:Book ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Il était une fois... Contes en haïkus,"^^xsd:string ;
+    ns1:name "Il était une fois... Contes en haïkus" ;
     ns1:publisher "Thierry Magnier" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
@@ -4786,7 +4786,7 @@ schema:Bookec0db182-71ef-4ed8-8861-937ed19a59bd a ns1:Book ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Dans tous les sens,"^^xsd:string ;
+    ns1:name "Dans tous les sens" ;
     ns1:publisher "Seuil Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
@@ -5757,7 +5757,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
 <schema:Book689eab95-7f16-4e5a-a705-d79a769d29d1> a ns1:Book ;
-    ns1:author "Sarah K."^^xsd:string ;
+    ns1:author "Sarah K" ;
     ns1:award "Prix Farniente : Deux Baskets" ;
     ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;

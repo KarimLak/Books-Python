@@ -130,7 +130,7 @@ schema:Book070b5359-1efc-4dd6-92d6-6443bf91e05f a ns1:Book ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "D.O.G."^^xsd:string ;
+    ns1:name "D.O.G" ;
     ns1:publisher "Thierry Magnier" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string .
 
@@ -3159,7 +3159,7 @@ schema:Bookcb7b7456-0ce0-41ba-a61a-93e021da5b4f a ns1:Book ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Une fille de..."^^xsd:string ;
+    ns1:name "Une fille de.." ;
     ns1:publisher "Acte Sud Junior" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lyceens-allemands"^^xsd:string .
 
@@ -3492,7 +3492,7 @@ schema:Booke644610f-e55c-4841-876b-6340a57b50b0 a ns1:Book ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Le jour où..."^^xsd:string ;
+    ns1:name "Le jour où.." ;
     ns1:publisher "Castelmore" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lecteurs-en-seine"^^xsd:string .
 

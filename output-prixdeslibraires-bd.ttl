@@ -365,7 +365,7 @@ schema:Bookd9839a17-5bf7-48fe-a9c7-9b9ef3b8e749 a ns1:Book ;
 schema:Bookda8483f1-5d62-43ec-92ce-f2aef823bc01 a ns1:Book ;
     ns1:author "Élise Gravel"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description """Arlo découvre un jour qu’il a envie de la compagnie d’autres corbeaux. Il décide alors de faire de nouvelles rencontres avec l’aide de Pips, et fait la connaissance de Marla, un corbeau femelle très intelligent, peut-être même plus que lui! Est-ce que Marla parviendra à enseigner une chose ou deux à notre héros?\r\r\r
+    ns1:description """Arlo découvre un jour qu’il a envie de la compagnie d’autres corbeaux. Il décide alors de faire de nouvelles rencontres avec l’aide de Pips, et fait la connaissance de Marla, un corbeau femelle très intelligent, peut-être même plus que lui! Est-ce que Marla parviendra à enseigner une chose ou deux à notre héros?\r\r\r\r
 Cette suite charmante et brillante du Roi des oiseaux, d’Elise Gravel, renferme des illustrations hilarantes et des faits fascinants sur les corbeaux."""^^xsd:string,
         "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
     ns1:genre "BD"^^xsd:string,
@@ -404,7 +404,7 @@ schema:Booke6aeacab-6a48-4ace-89c5-53354a258d64 a ns1:Book ;
     ns1:author "Alex S. Girard"^^xsd:string,
         "Pierre Rig Rodrigue"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description """En quête d’inspiration pour un nouveau projet, les illustrateurs Alex et Rig se rendent dans le sous-sol d’une bibliothèque. Sur place, ils mettent la main sur un livre mystérieux qui les entraîne dans une aventure délirante où seules leur imagination et leur aptitude à dessiner pourraient les tirer d’affaire. S’ils réussissent la série d’épreuves qui leur est imposée, ils intégreront la SSCRIPT : la Société Secrète des Crayonneurs, Rogneurs et Illustratrices PhylacTerribles.\r\r\r
+    ns1:description """En quête d’inspiration pour un nouveau projet, les illustrateurs Alex et Rig se rendent dans le sous-sol d’une bibliothèque. Sur place, ils mettent la main sur un livre mystérieux qui les entraîne dans une aventure délirante où seules leur imagination et leur aptitude à dessiner pourraient les tirer d’affaire. S’ils réussissent la série d’épreuves qui leur est imposée, ils intégreront la SSCRIPT : la Société Secrète des Crayonneurs, Rogneurs et Illustratrices PhylacTerribles.\r\r\r\r
 Et s’ils échouaient ? Mieux vaut ne pas y penser…"""^^xsd:string,
         "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
     ns1:genre "BD"^^xsd:string,
