@@ -328,7 +328,7 @@ schema:Book0d1af90b-00cf-49f8-b248-e285c0e8cc93 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le château des Poulfenc. (T.1) Les morsures de la nuit"^^xsd:string ;
-    ns1:publisher "T1" ;
+    ns1:publisher "Père Castor Flammarion" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-val-cerou"^^xsd:string .
 
 schema:Book0d79b139-0ef6-4a46-b376-6de8068ef7e8 a ns1:Book ;
@@ -403,7 +403,7 @@ schema:Book10f1a918-4290-4f27-9bd4-412e94ccaec1 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Un parfum d’histoire (T.1). L’eau des Anges"^^xsd:string ;
-    ns1:publisher "T1" ;
+    ns1:publisher "L'Archipelle" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-val-cerou"^^xsd:string .
 
 schema:Book110b298e-11a1-474a-a3d7-16facabaa80f a ns1:Book ;
@@ -966,7 +966,7 @@ schema:Book38d5e968-9684-422a-bd89-ec3fdff5094c a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Vango (T. 1). Entre ciel et terre"^^xsd:string ;
-    ns1:publisher "T1" ;
+    ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string .
 
 schema:Book38d965ac-0e33-45ab-93a5-a2ab71c0f59c a ns1:Book ;
@@ -1305,7 +1305,7 @@ schema:Book521955fb-a5dd-40de-8566-b43ea3da7b6a a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le jardin des épitaphes (T. 1). Celui qui est resté debout"^^xsd:string ;
-    ns1:publisher "T1" ;
+    ns1:publisher "Didier Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lecteurs-en-seine"^^xsd:string .
 
 schema:Book5243d25d-d35e-4ace-b1ba-4c6d97318c59 a ns1:Book ;
@@ -1645,7 +1645,7 @@ schema:Book65edc1ae-6aa1-4aa4-ae0d-d70289957a40 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Alma (T. 1). Le vent se lève"^^xsd:string ;
-    ns1:publisher "T1" ;
+    ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-gulli-du-roman"^^xsd:string .
 
 schema:Book66947286-7cde-47b2-814c-0fa5f304b7c7 a ns1:Book ;
@@ -1975,7 +1975,7 @@ schema:Book847119ea-39ed-43cb-9c69-d28d8ebb2e65 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Elia, la passeuse d'âmes (T. 1)"^^xsd:string ;
-    ns1:publisher "T1" ;
+    ns1:publisher "Pocket Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-pierre-bottero"^^xsd:string .
 
 schema:Book86056cfd-f31f-4198-9b91-0e24d402a511 a ns1:Book ;
@@ -2362,7 +2362,7 @@ schema:Book9e3f690e-3a46-489f-a351-08beab1afaa7 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Nom de code Komiko (T.1). Dans la nuit de Hong Kong"^^xsd:string ;
-    ns1:publisher "T1" ;
+    ns1:publisher "Flammarion" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string .
 
 schema:Book9ef9aa45-3cdf-404f-b363-72af5e2cfab9 a ns1:Book ;
@@ -2502,7 +2502,7 @@ schema:Booka75815c2-dedb-4fac-ab25-4b6a0f78551a a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "L’Apprentie de Merlin (T.1). Le dragon et l’épée"^^xsd:string ;
-    ns1:publisher "T1" ;
+    ns1:publisher "Mango Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-val-cerou"^^xsd:string .
 
 schema:Booka7972f67-a13d-4d85-b7e3-2283b69314de a ns1:Book ;
@@ -3345,7 +3345,7 @@ schema:Booke24d4654-f96d-45bb-969e-8d45c6ba9616 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les Autodafeurs (T.1). Mon frère est un gardien"^^xsd:string ;
-    ns1:publisher "T1" ;
+    ns1:publisher "Le Rouergue" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string .
 
 schema:Booke31b1ea5-b88f-4653-b67b-8c0454b317da a ns1:Book ;
@@ -3748,7 +3748,7 @@ schema:Bookfc5c2c03-6564-4eee-b20d-4b2557670d3d a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Magic Charly (T. 1). L'apprenti"^^xsd:string ;
-    ns1:publisher "T1" ;
+    ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:string .
 
 schema:Bookfc980b57-ad9a-45ae-b573-1612c8cc592e a ns1:Book ;
@@ -3758,7 +3758,7 @@ schema:Bookfc980b57-ad9a-45ae-b573-1612c8cc592e a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les mystères de Larispem (t.1). Le sang jamais n’oublie"^^xsd:string ;
-    ns1:publisher "T1" ;
+    ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/concours-du-premier-roman-jeunesse"^^xsd:string .
 
 schema:Bookfd3ed421-feda-4461-bde9-c26cb6a45f69 a ns1:Book ;
