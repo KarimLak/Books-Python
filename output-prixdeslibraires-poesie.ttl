@@ -58,7 +58,7 @@ schema:Book3c697d57-8c83-4479-86d4-e6ccee133b02 a ns1:Book ;
 
 schema:Book660b1528-978c-4c1e-b938-c48ad3d2a86f a ns1:Book ;
     ns1:author "Marie-Hélène Voyer"^^xsd:string ;
-    ns1:award "Lauréat 2023 poésie"^^xsd:string ;
+    ns1:award "Lauréat 2023 Poésie Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Lauréat 2023 poésie"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;

@@ -205,7 +205,7 @@ schema:Book4ee1c36b-47c9-45b5-bd68-f41e73b7660e a ns1:Book ;
 schema:Book50fe9fe4-d4c6-4591-a5a0-e5c7e7a076fe a ns1:Book ;
     ns1:author "Nadine Robert"^^xsd:string,
         "Qin Leng"^^xsd:string ;
-    ns1:award "Lauréat 0-5 ans"^^xsd:string ;
+    ns1:award "Lauréats 0-5 Ans Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Lauréat 0-5 ans : 0-5 ans"^^xsd:string,
         "Trèfle et sa famille habitent dans une ferme . À la chèvrerie, il y a toujours un tas de choses à faire, comme cueillir des bleuets ou ramasser des moules. Trèfle a envie de faire toutes ces choses, mais en choisir une seule est très difficile pour elle. Le jour où la petite chèvre Pivoine s’aventure loin de la ferme, Trèfle comprend que, pour la sauver, elle devra agir rapidement, sans hésiter. En plaçant Trèfle dans une situation difficile, l’autrice Nadine Robert et l’illustratrice Qin Leng montrent l’importance d’apprendre tôt à prendre des décisions. L’histoire de Trèfle sera une source d’inspiration pour les jeunes lecteurs qui apprennent à développer leur confiance et leur autonomie."^^xsd:string ;
@@ -232,7 +232,7 @@ schema:Book5789fd1d-2467-42f9-96aa-a4260508f4da a ns1:Book ;
     ns1:author "Michel Streich"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string,
-        """Un oiseau venu d’ailleurs est arrivé dans la volière… et tout le monde s’agite! Il est étrange et différent… il fait PEUR! Le drôle d’oiseau se sentira-t-il un jour chez lui, entouré des autres oiseaux?\r
+        """Un oiseau venu d’ailleurs est arrivé dans la volière… et tout le monde s’agite! Il est étrange et différent… il fait PEUR! Le drôle d’oiseau se sentira-t-il un jour chez lui, entouré des autres oiseaux?\r\r\r
 Un récit amusant et léger montrant qu’être différent ne veut pas dire être effrayant! Cet album offre un point de vue rafraîchissant sur l’appréciation des différences et l’accueil des nouveaux arrivants."""^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
@@ -270,7 +270,7 @@ schema:Book65c5f988-25ce-4e8f-8314-c409efd26d75 a ns1:Book ;
 schema:Book6790a317-a91f-4d65-802f-c8e919b0cc59 a ns1:Book ;
     ns1:author "Alexandre Côté-Fournier"^^xsd:string,
         "Geneviève Bigué"^^xsd:string ;
-    ns1:award "Lauréat 6-11 ans"^^xsd:string ;
+    ns1:award "Lauréats 6-11 Ans Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Alexis passe la soirée d’Halloween avec ses cousins Clara et Pierre-Luc. Au menu: films et histoires d’horreur. Alex décide de raconter le fait divers dont lui a parlé son père. Jacques Miville, l’ancien quincailler du village, était supposément un meurtrier. Il avait, semble-t-il, comme passe-temps de découper ses victimes et d’en faire disparaître les corps. Or, avant même que la police ait pu prouver quoi que ce soit, un incendie a ravagé la quincaillerie, emportant avec lui le présumé criminel et ses secrets. Depuis, une légende prétend que si on compose l’ancien numéro de la quincaillerie, le fantôme de Miville répond. Les trois cousins sont tentés de vérifier si la légende dit vrai…"^^xsd:string,
         "Lauréat 6-11 ans : 6-11 ans"^^xsd:string ;
@@ -283,7 +283,7 @@ schema:Book6790a317-a91f-4d65-802f-c8e919b0cc59 a ns1:Book ;
 
 schema:Book6970222b-3665-4218-a68f-57a73eba552a a ns1:Book ;
     ns1:author "Guillaume Perreault"^^xsd:string ;
-    ns1:award "Lauréat BD Jeunesse"^^xsd:string ;
+    ns1:award "Lauréats Bd Jeunesse Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Lauréat BD Jeunesse : BD Jeunesse"^^xsd:string ;
     ns1:genre "BD"^^xsd:string,
@@ -323,8 +323,8 @@ schema:Book6ee5b803-1214-42d7-aa6c-3b0084159626 a ns1:Book ;
         "Geneviève Côté"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Finaliste 6-11 ans : 6-11 ans"^^xsd:string,
-        """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!\r
-Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!\r
+        """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!\r\r\r
+Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!\r\r\r
 Aura-t-il assez d’imagination?"""^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
@@ -373,8 +373,8 @@ schema:Book7a21ad59-5b62-49a0-bab8-66531c9387d2 a ns1:Book ;
     ns1:author "Julie Champagne"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Finaliste 12-17 ans : 12-17 ans"^^xsd:string,
-        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r
-Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r
+        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r\r\r
+Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r\r\r
 Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers toute la gamme des émotions."""^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
@@ -385,11 +385,11 @@ Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers t
 
 schema:Book7fa936a7-589e-4d52-b07a-3fd53d2f8ce5 a ns1:Book ;
     ns1:author "Julie Champagne"^^xsd:string ;
-    ns1:award "Lauréat 12-17 ans"^^xsd:string ;
+    ns1:award "Lauréats 12-17 Ans Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Lauréat 12-17 ans : 12-17 ans"^^xsd:string,
-        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r
-Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r
+        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r\r\r
+Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r\r\r
 Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers toute la gamme des émotions."""^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
@@ -465,7 +465,7 @@ schema:Book92ed6024-7b8b-4245-b301-ec84db374002 a ns1:Book ;
         "Tobias Krejtschi"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string,
-        """« Fibie, ta mère est folle! »\r
+        """« Fibie, ta mère est folle! »\r\r\r
 Au début, Fibie ne croyait pas ce que les autres disaient de sa mère. Mais avec le temps, les comportements de cette dernière deviennent de plus en plus bizarres. Quand sa mère refuse de sortir de sa chambre, la colère de Fibie éclate. Alors, son père lui confie un secret : sa mère n’est pas folle, c’est plutôt une fée qui vit parmi les humains. Une telle chose est-elle possible?"""^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
@@ -501,7 +501,7 @@ schema:Book9776ef6b-63a0-4b5d-8bff-4114e9a4123b a ns1:Book ;
 
 schema:Book9a4dba40-9119-492a-ae1a-82d3b406503b a ns1:Book ;
     ns1:author "Sophie Escabasse"^^xsd:string ;
-    ns1:award "Lauréat BD Jeunesse"^^xsd:string ;
+    ns1:award "Lauréats Bd Jeunesse Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Lauréat BD Jeunesse : BD Jeunesse"^^xsd:string ;
     ns1:genre "BD"^^xsd:string,
@@ -538,7 +538,7 @@ schema:Booka4e171cd-a4bf-4723-926e-62c35f9fb209 a ns1:Book ;
 
 schema:Bookaf62ee6f-0966-4fb8-aa1e-c2282d755647 a ns1:Book ;
     ns1:author "Tom Gauld"^^xsd:string ;
-    ns1:award "Lauréat 0-5 ans"^^xsd:string ;
+    ns1:award "Lauréats 0-5 Ans Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Lauréat 0-5 ans : 0-5 ans"^^xsd:string,
         "Pendant de nombreuses années, le roi et la reine espèrent un enfant. Leur souhait est exaucé lorsqu’ils accueillent un petit robot de bois et une princesse-bûchette. Ce duo fraternel est inséparable, jusqu’au jour où la princesse est accidentellement emmenée vers un territoire inconnu. Le dévoué petit robot de bois part à sa recherche et tente de la ramener saine et sauve au royaume. Tour à tour, ils feront preuve de bravoure face aux nombreuses aventures qui les séparent de leur foyer."^^xsd:string ;
@@ -602,8 +602,8 @@ schema:Bookc1d40a07-0378-416a-9403-ad8863f86d0b a ns1:Book ;
     ns1:author "François Gravel"^^xsd:string,
         "Geneviève Côté"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!\r
-Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!\r
+    ns1:description """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!\r\r\r
+Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!\r\r\r
 Aura-t-il assez d’imagination?"""^^xsd:string,
         "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
@@ -641,8 +641,8 @@ schema:Bookd2ce4f68-e445-43ab-a2f1-d5dc08bb6334 a ns1:Book ;
 schema:Bookd696c281-f5f4-44a0-8636-355481f34907 a ns1:Book ;
     ns1:author "Julie Champagne"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r
-Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r
+    ns1:description """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r\r\r
+Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r\r\r
 Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers toute la gamme des émotions."""^^xsd:string,
         "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
@@ -729,7 +729,7 @@ schema:Bookef04c261-ca24-47a5-871a-965d1096a95f a ns1:Book ;
 schema:Bookf1ab8dee-1a4d-4ac4-bd77-b143e8f251a5 a ns1:Book ;
     ns1:author "Jolan Bertrand"^^xsd:string,
         "Tristan Gion"^^xsd:string ;
-    ns1:award "Lauréat 6-11 ans"^^xsd:string ;
+    ns1:award "Lauréats 6-11 Ans Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Depuis que la Petite Hiver a disparu, les habitants du village de Brume sont inquiets car la terrible Grande Hiver sème le chaos. La situation empire lorsqu’en partant à la recherche des objets dérobés par les trolls, l’oncle Alfred disparaît, avalé par la tempête."^^xsd:string,
         "Lauréat 6-11 ans : 6-11 ans"^^xsd:string ;
@@ -767,7 +767,7 @@ schema:Bookf69bc451-8c72-4bd2-8fe6-bbc2d040b486 a ns1:Book ;
 
 schema:Bookfd60f954-b598-4f9b-a2bf-82682d073d3a a ns1:Book ;
     ns1:author "Alice Oseman"^^xsd:string ;
-    ns1:award "Lauréat 12-17 ans"^^xsd:string ;
+    ns1:award "Lauréats 12-17 Ans Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Lauréat 12-17 ans : 12-17 ans"^^xsd:string,
         "Malgré son côté romantique, Georgia n’a jamais été amoureuse. Tandis qu’elle rentre à l’université avec Pip et Jason, ses meilleurs amis, elle compte bien trouver une stratégie pour y remédier. Elle rencontre alors sa nouvelle colocataire très extravertie et obtient une place à la Shakespeare Society. Mais ses plans ne se déroulent pas comme prévu"^^xsd:string ;

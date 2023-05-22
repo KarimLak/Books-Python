@@ -17,7 +17,7 @@ schema:Book062ff455-89f8-4fe8-bbc7-53ab1c61b7e4 a ns1:Book ;
 
 schema:Book227eba09-1174-4a55-863e-96a6faad9765 a ns1:Book ;
     ns1:author "Sophie Escabasse"^^xsd:string ;
-    ns1:award "Lauréat BD Jeunesse"^^xsd:string ;
+    ns1:award "Lauréats Bd Jeunesse Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Effie a perdu sa mère et sa maison. Elle doit maintenant vivre avec deux lointaines tantes, Selimene et Carlota, qu’elle n’a jamais rencontrées. Elle intègre aussi une nouvelle école et se fait rapidement des amis. Elle découvre un jour que la magie est présente dans sa famille. Aidée de ses tantes et ses nouveaux amis, Effie commence son apprentissage et vient en aide à sa pop star préférée."^^xsd:string,
         "Lauréat BD Jeunesse : BD Jeunesse"^^xsd:string ;
@@ -152,7 +152,7 @@ schema:Book5f9fe1dc-2caf-496d-a025-9599fd276d78 a ns1:Book ;
 
 schema:Book67be7cba-20cf-461d-9cf4-62ff84484adb a ns1:Book ;
     ns1:author "Geneviève Bigué"^^xsd:string ;
-    ns1:award "Lauréat 2023 volet adulte"^^xsd:string ;
+    ns1:award "Lauréats 2023 Volet Adulte Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Lauréat 2023 volet adulte : 2023 volet adulte"^^xsd:string,
         "Un phénomène naturel très rare cause tout un émoi à Rivière-aux-Corbeaux : le lac Kijikone a pris feu et est devenu un véritable brasier. On dit que lorsqu’il s’enflamme, tout ce qu’on y plonge se transforme en or. Curieux, un groupe d’adolescents décide de partir à l’aventure pour découvrir si la légende dit vrai…"^^xsd:string ;
@@ -325,7 +325,7 @@ schema:Bookb2d0c6e5-9952-4a23-b34b-606d584cdd98 a ns1:Book ;
 
 schema:Bookbb28b524-b172-40c4-8f8b-a052b9be0ccf a ns1:Book ;
     ns1:author "Guillaume Perreault"^^xsd:string ;
-    ns1:award "Lauréat BD Jeunesse"^^xsd:string ;
+    ns1:award "Lauréats Bd Jeunesse Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Bob a l’estomac dans les talons ce matin. Mais notre Terrien affamé est loin de se douter que ce sera le moindre de ses tracas en cette journée rocambolesque. Se faire comprendre aux quatre coins de la galaxie risque bien d’être le véritable défi. Voici enfin le troisième tome des aventures de notre facteur de l’espace préféré !"^^xsd:string,
         "Lauréat BD Jeunesse : BD Jeunesse"^^xsd:string ;
@@ -338,7 +338,7 @@ schema:Bookbb28b524-b172-40c4-8f8b-a052b9be0ccf a ns1:Book ;
 
 schema:Bookbf18e04e-defd-400d-a9d3-5854af98923c a ns1:Book ;
     ns1:author "Joris Mertens"^^xsd:string ;
-    ns1:award "Lauréat 2023 volet adulte"^^xsd:string ;
+    ns1:award "Lauréats 2023 Volet Adulte Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Chauffeur pour une société de blanchisserie, François n’est pas satisfait de son existence, de son célibat et de ses loisirs qui se résument à jouer au loto sans succès et à boire un verre avec Maryvonne. Confronté à une scène de crime au cours d’une de ses livraisons, il fait face à une dizaine de cadavres et à un sac rempli de billets, qu’il décide de voler."^^xsd:string,
         "Lauréat 2023 volet adulte : 2023 volet adulte"^^xsd:string ;
@@ -365,7 +365,7 @@ schema:Bookd9839a17-5bf7-48fe-a9c7-9b9ef3b8e749 a ns1:Book ;
 schema:Bookda8483f1-5d62-43ec-92ce-f2aef823bc01 a ns1:Book ;
     ns1:author "Élise Gravel"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description """Arlo découvre un jour qu’il a envie de la compagnie d’autres corbeaux. Il décide alors de faire de nouvelles rencontres avec l’aide de Pips, et fait la connaissance de Marla, un corbeau femelle très intelligent, peut-être même plus que lui! Est-ce que Marla parviendra à enseigner une chose ou deux à notre héros?\r
+    ns1:description """Arlo découvre un jour qu’il a envie de la compagnie d’autres corbeaux. Il décide alors de faire de nouvelles rencontres avec l’aide de Pips, et fait la connaissance de Marla, un corbeau femelle très intelligent, peut-être même plus que lui! Est-ce que Marla parviendra à enseigner une chose ou deux à notre héros?\r\r\r
 Cette suite charmante et brillante du Roi des oiseaux, d’Elise Gravel, renferme des illustrations hilarantes et des faits fascinants sur les corbeaux."""^^xsd:string,
         "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
     ns1:genre "BD"^^xsd:string,
@@ -404,7 +404,7 @@ schema:Booke6aeacab-6a48-4ace-89c5-53354a258d64 a ns1:Book ;
     ns1:author "Alex S. Girard"^^xsd:string,
         "Pierre Rig Rodrigue"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description """En quête d’inspiration pour un nouveau projet, les illustrateurs Alex et Rig se rendent dans le sous-sol d’une bibliothèque. Sur place, ils mettent la main sur un livre mystérieux qui les entraîne dans une aventure délirante où seules leur imagination et leur aptitude à dessiner pourraient les tirer d’affaire. S’ils réussissent la série d’épreuves qui leur est imposée, ils intégreront la SSCRIPT : la Société Secrète des Crayonneurs, Rogneurs et Illustratrices PhylacTerribles.\r
+    ns1:description """En quête d’inspiration pour un nouveau projet, les illustrateurs Alex et Rig se rendent dans le sous-sol d’une bibliothèque. Sur place, ils mettent la main sur un livre mystérieux qui les entraîne dans une aventure délirante où seules leur imagination et leur aptitude à dessiner pourraient les tirer d’affaire. S’ils réussissent la série d’épreuves qui leur est imposée, ils intégreront la SSCRIPT : la Société Secrète des Crayonneurs, Rogneurs et Illustratrices PhylacTerribles.\r\r\r
 Et s’ils échouaient ? Mieux vaut ne pas y penser…"""^^xsd:string,
         "Préliminaire BD Jeunesse : BD Jeunesse"^^xsd:string ;
     ns1:genre "BD"^^xsd:string,

@@ -4,7 +4,7 @@
 
 schema:Book008bed97-d2fd-4194-9f49-c007703e0382 a ns1:Book ;
     ns1:author "Annie Dubreuil"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -14,7 +14,7 @@ schema:Book008bed97-d2fd-4194-9f49-c007703e0382 a ns1:Book ;
 
 schema:Book00970f12-4d50-4abe-adec-15d82ed31e7b a ns1:Book ;
     ns1:author "Sonia Sarfati"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1990"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -24,7 +24,7 @@ schema:Book00970f12-4d50-4abe-adec-15d82ed31e7b a ns1:Book ;
 
 schema:Book00b9f554-d233-4ae4-8ad7-2b11676ed480 a ns1:Book ;
     ns1:author "Sylvie Marcoux"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -34,7 +34,7 @@ schema:Book00b9f554-d233-4ae4-8ad7-2b11676ed480 a ns1:Book ;
 
 schema:Book018c8a09-6772-4e91-9d43-f4e24f9fc458 a ns1:Book ;
     ns1:author "Sandra Dussault"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -44,7 +44,7 @@ schema:Book018c8a09-6772-4e91-9d43-f4e24f9fc458 a ns1:Book ;
 
 schema:Book024fb9cb-9ef8-4adb-b9cc-e8ef191a2bfc a ns1:Book ;
     ns1:author "Isabelle Larouche"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -54,7 +54,7 @@ schema:Book024fb9cb-9ef8-4adb-b9cc-e8ef191a2bfc a ns1:Book ;
 
 schema:Book045e0162-b569-4411-b317-7ea8db2a9555 a ns1:Book ;
     ns1:author "Sylvain Meunier"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -64,7 +64,7 @@ schema:Book045e0162-b569-4411-b317-7ea8db2a9555 a ns1:Book ;
 
 schema:Book046fe56f-6682-49a2-9d65-3e371c990ad7 a ns1:Book ;
     ns1:author "Hervé Gagnon"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -74,7 +74,7 @@ schema:Book046fe56f-6682-49a2-9d65-3e371c990ad7 a ns1:Book ;
 
 schema:Book04cb9a61-0d00-4867-8e9e-7cd568436813 a ns1:Book ;
     ns1:author "Michèle Gavazzi"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -84,7 +84,7 @@ schema:Book04cb9a61-0d00-4867-8e9e-7cd568436813 a ns1:Book ;
 
 schema:Book04dd675a-99dd-4a3d-8bc9-fcfb069ae03f a ns1:Book ;
     ns1:author "François Lévesque"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -94,7 +94,7 @@ schema:Book04dd675a-99dd-4a3d-8bc9-fcfb069ae03f a ns1:Book ;
 
 schema:Book052be6c7-8599-4bdd-bf66-fb31bf06dd16 a ns1:Book ;
     ns1:author "Valérie Harvey"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -104,7 +104,7 @@ schema:Book052be6c7-8599-4bdd-bf66-fb31bf06dd16 a ns1:Book ;
 
 schema:Book063484de-543b-4d86-b3b6-9007d5ed5d39 a ns1:Book ;
     ns1:author "Gilles Tibo"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -114,7 +114,7 @@ schema:Book063484de-543b-4d86-b3b6-9007d5ed5d39 a ns1:Book ;
 
 schema:Book0701fb86-bfb0-4486-b554-468344e650ad a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -124,7 +124,7 @@ schema:Book0701fb86-bfb0-4486-b554-468344e650ad a ns1:Book ;
 
 schema:Book079989a3-201e-4000-8817-e9172bab901d a ns1:Book ;
     ns1:author "Jean Lemieux"^^xsd:string ;
-    ns1:award "Prix 12 / 17 Brive-Montréal"^^xsd:string ;
+    ns1:award "Prix 12 / 17 Brive-Montréal" ;
     ns1:datePublished "1995"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -134,7 +134,7 @@ schema:Book079989a3-201e-4000-8817-e9172bab901d a ns1:Book ;
 
 schema:Book09cdb986-75c7-4889-b9c9-d18216082dcf a ns1:Book ;
     ns1:author "Charlotte Gingras"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -145,7 +145,7 @@ schema:Book09cdb986-75c7-4889-b9c9-d18216082dcf a ns1:Book ;
 schema:Book0a2df74b-de6e-4542-a83c-6187adf8b2d6 a ns1:Book ;
     ns1:author "Geneviève Darling (ill.)"^^xsd:string,
         "Lucile de Pesloüan"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -155,7 +155,7 @@ schema:Book0a2df74b-de6e-4542-a83c-6187adf8b2d6 a ns1:Book ;
 
 schema:Book0c44fb3d-9461-4f9e-8eae-865233f0581c a ns1:Book ;
     ns1:author "Christiane Duchesne"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -165,7 +165,7 @@ schema:Book0c44fb3d-9461-4f9e-8eae-865233f0581c a ns1:Book ;
 
 schema:Book0cbc1b4c-4f42-4fe3-82d7-64b78a79a62e a ns1:Book ;
     ns1:author "Wajdi Mouawad"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -175,7 +175,7 @@ schema:Book0cbc1b4c-4f42-4fe3-82d7-64b78a79a62e a ns1:Book ;
 
 schema:Book0da2617c-809f-419c-a614-d2e4d9dfa666 a ns1:Book ;
     ns1:author "Martine Latulippe"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -185,7 +185,7 @@ schema:Book0da2617c-809f-419c-a614-d2e4d9dfa666 a ns1:Book ;
 
 schema:Book0fd7c856-a0e6-4dae-bcd9-23c37e1de026 a ns1:Book ;
     ns1:author "Isabelle Gaul"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -195,7 +195,7 @@ schema:Book0fd7c856-a0e6-4dae-bcd9-23c37e1de026 a ns1:Book ;
 
 schema:Book1012032d-514b-4f8e-8393-8a9ee9db389b a ns1:Book ;
     ns1:author "Sonia Marmen"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -205,7 +205,7 @@ schema:Book1012032d-514b-4f8e-8393-8a9ee9db389b a ns1:Book ;
 
 schema:Book10473306-d822-4eae-8875-1ef7b3c5e480 a ns1:Book ;
     ns1:author "Danielle Simard"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -215,7 +215,7 @@ schema:Book10473306-d822-4eae-8875-1ef7b3c5e480 a ns1:Book ;
 
 schema:Book1164ae42-4659-4ab1-b2e2-f1f6e631d457 a ns1:Book ;
     ns1:author "Michel Marc Bouchard"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "1997"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -225,7 +225,7 @@ schema:Book1164ae42-4659-4ab1-b2e2-f1f6e631d457 a ns1:Book ;
 
 schema:Book1168e687-2f27-404e-b07d-ded8888e2a71 a ns1:Book ;
     ns1:author "Amélie Dumoulin"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -235,7 +235,7 @@ schema:Book1168e687-2f27-404e-b07d-ded8888e2a71 a ns1:Book ;
 
 schema:Book12ac9376-d3ff-4bcd-ace9-635c22634aff a ns1:Book ;
     ns1:author "Yvon Brochu"^^xsd:string ;
-    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec"^^xsd:string ;
+    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -245,7 +245,7 @@ schema:Book12ac9376-d3ff-4bcd-ace9-635c22634aff a ns1:Book ;
 
 schema:Book12af92d2-138a-4c61-849d-ba9f4dd84ba7 a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "1994"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -256,7 +256,7 @@ schema:Book12af92d2-138a-4c61-849d-ba9f4dd84ba7 a ns1:Book ;
 schema:Book13df1eaa-bc17-4ff8-8557-9a1fc83b6193 a ns1:Book ;
     ns1:author "Cécile Gariépy (ill.)"^^xsd:string,
         "Myriam Daguzan Bernier"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -266,7 +266,7 @@ schema:Book13df1eaa-bc17-4ff8-8557-9a1fc83b6193 a ns1:Book ;
 
 schema:Book14726b76-3997-4540-9932-d632399a38f7 a ns1:Book ;
     ns1:author "Philippe Béha"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -276,7 +276,7 @@ schema:Book14726b76-3997-4540-9932-d632399a38f7 a ns1:Book ;
 
 schema:Book1476e174-727b-46e8-9586-920487c20a56 a ns1:Book ;
     ns1:author "non attribué"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -286,7 +286,7 @@ schema:Book1476e174-727b-46e8-9586-920487c20a56 a ns1:Book ;
 
 schema:Book14b0def3-a5db-4ef8-b961-2a0b9333e325 a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -297,7 +297,7 @@ schema:Book14b0def3-a5db-4ef8-b961-2a0b9333e325 a ns1:Book ;
 schema:Book14cf9407-765a-4f36-893a-8610f7fadb92 a ns1:Book ;
     ns1:author "André Marois"^^xsd:string,
         "Patrick Doyon"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -307,7 +307,7 @@ schema:Book14cf9407-765a-4f36-893a-8610f7fadb92 a ns1:Book ;
 
 schema:Book15075aa9-dd09-4049-982d-c1b4494910c8 a ns1:Book ;
     ns1:author "Gilles Gauthier"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -317,7 +317,7 @@ schema:Book15075aa9-dd09-4049-982d-c1b4494910c8 a ns1:Book ;
 
 schema:Book15bd5cfd-450f-4a17-9d70-5325304d0f49 a ns1:Book ;
     ns1:author "Michèle Laframboise"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -327,7 +327,7 @@ schema:Book15bd5cfd-450f-4a17-9d70-5325304d0f49 a ns1:Book ;
 
 schema:Book168c6b12-2b9b-4dc5-ad29-64326df0a9ba a ns1:Book ;
     ns1:author "Véronique Grenier"^^xsd:string ;
-    ns1:award "Prix Littéraire Suzanne Pouliot Et Antoine Sirois"^^xsd:string ;
+    ns1:award "Prix Littéraire Suzanne Pouliot Et Antoine Sirois" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -337,7 +337,7 @@ schema:Book168c6b12-2b9b-4dc5-ad29-64326df0a9ba a ns1:Book ;
 
 schema:Book16f981fc-60b4-4bda-a1ab-f5083ef6f8e1 a ns1:Book ;
     ns1:author "Michel Noël"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -347,18 +347,18 @@ schema:Book16f981fc-60b4-4bda-a1ab-f5083ef6f8e1 a ns1:Book ;
 
 schema:Book19e0d5e5-37b2-4e58-8432-74c3e4f0b7dd a ns1:Book ;
     ns1:author "Valérie Fontaine, Fil (Philippe Arseneau-Bussière)"^^xsd:string ;
-    ns1:award "Prix Magazine Enfants Québec Du Meilleur Album Jeunesse"^^xsd:string ;
+    ns1:award "Prix Magazine Enfants Québec Du Meilleur Album Jeunesse" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Thomas, \r
+    ns1:name """Thomas, \r\r\r
  prince professionnel"""^^xsd:string ;
     ns1:publisher "Fonfon" ;
     ns1:url "https://www.lurelu.net/prixlitt_magenfants.html"^^xsd:string .
 
 schema:Book1bc99a1d-66a7-4d6e-90e9-bb217f4bc69e a ns1:Book ;
     ns1:author "Andrée-Anne Gratton"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -368,7 +368,7 @@ schema:Book1bc99a1d-66a7-4d6e-90e9-bb217f4bc69e a ns1:Book ;
 
 schema:Book1c312c8d-b69d-4e07-b1e6-bac986d8a437 a ns1:Book ;
     ns1:author "Sylvain Hotte"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -378,7 +378,7 @@ schema:Book1c312c8d-b69d-4e07-b1e6-bac986d8a437 a ns1:Book ;
 
 schema:Book1c647c52-d522-4b54-806a-007cb1e2d09a a ns1:Book ;
     ns1:author "Pierre Pratt"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -388,7 +388,7 @@ schema:Book1c647c52-d522-4b54-806a-007cb1e2d09a a ns1:Book ;
 
 schema:Book1d3b9e79-6764-4b38-b19c-4449523611cb a ns1:Book ;
     ns1:author "Suzanne Martel"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1975"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -398,7 +398,7 @@ schema:Book1d3b9e79-6764-4b38-b19c-4449523611cb a ns1:Book ;
 
 schema:Book1ed8fd5b-8e33-4cd1-aff8-47d061033838 a ns1:Book ;
     ns1:author "Marilou Addison"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -408,7 +408,7 @@ schema:Book1ed8fd5b-8e33-4cd1-aff8-47d061033838 a ns1:Book ;
 
 schema:Book1f9aade2-67cd-49eb-85e1-106797d749dc a ns1:Book ;
     ns1:author "Audrée Archambault"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -418,7 +418,7 @@ schema:Book1f9aade2-67cd-49eb-85e1-106797d749dc a ns1:Book ;
 
 schema:Book20f29c6f-6195-4f65-8788-a2e9b08cc847 a ns1:Book ;
     ns1:author "Alexandre Gauthier"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -428,7 +428,7 @@ schema:Book20f29c6f-6195-4f65-8788-a2e9b08cc847 a ns1:Book ;
 
 schema:Book215cb152-7ea9-4e97-a8e2-2809af7ddd67 a ns1:Book ;
     ns1:author "Mario Brassard"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -438,7 +438,7 @@ schema:Book215cb152-7ea9-4e97-a8e2-2809af7ddd67 a ns1:Book ;
 
 schema:Book2316a916-4d0a-459b-b34e-e863dd540f1b a ns1:Book ;
     ns1:author "Orbie"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -449,7 +449,7 @@ schema:Book2316a916-4d0a-459b-b34e-e863dd540f1b a ns1:Book ;
 schema:Book238fca37-dc99-4fc8-b1ee-b7f8733d5d31 a ns1:Book ;
     ns1:author "Julie Pearson"^^xsd:string,
         "Manon Gauthier"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -459,7 +459,7 @@ schema:Book238fca37-dc99-4fc8-b1ee-b7f8733d5d31 a ns1:Book ;
 
 schema:Book23af9928-6175-4b1c-ada0-c4ce0279afd0 a ns1:Book ;
     ns1:author "Hervé Gagnon"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -469,7 +469,7 @@ schema:Book23af9928-6175-4b1c-ada0-c4ce0279afd0 a ns1:Book ;
 
 schema:Book243ac6fc-e55f-41a1-be51-d2dd58601136 a ns1:Book ;
     ns1:author "Karine Lambert"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2023"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -479,7 +479,7 @@ schema:Book243ac6fc-e55f-41a1-be51-d2dd58601136 a ns1:Book ;
 
 schema:Book25050f77-611e-4ad4-886a-4ba3af05ba24 a ns1:Book ;
     ns1:author "Lyne Vanier"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -489,7 +489,7 @@ schema:Book25050f77-611e-4ad4-886a-4ba3af05ba24 a ns1:Book ;
 
 schema:Book259a2e7b-1ac9-4504-a6b8-786b6c7caacb a ns1:Book ;
     ns1:author "Marie-Francine Hébert"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -499,7 +499,7 @@ schema:Book259a2e7b-1ac9-4504-a6b8-786b6c7caacb a ns1:Book ;
 
 schema:Book27d4e45c-dae2-4b64-afbf-eb73e59e445b a ns1:Book ;
     ns1:author "Hervé Gagnon"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -509,7 +509,7 @@ schema:Book27d4e45c-dae2-4b64-afbf-eb73e59e445b a ns1:Book ;
 
 schema:Book28bd0c90-c605-4b51-9ffe-4547d964104b a ns1:Book ;
     ns1:author "Bernadette Renaud"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -520,7 +520,7 @@ schema:Book28bd0c90-c605-4b51-9ffe-4547d964104b a ns1:Book ;
 schema:Book28ebc9ab-ae3b-4ea7-8a82-86409a3d9c01 a ns1:Book ;
     ns1:author "David Schinkel"^^xsd:string,
         "Yves Beauchesne"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1987"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -530,7 +530,7 @@ schema:Book28ebc9ab-ae3b-4ea7-8a82-86409a3d9c01 a ns1:Book ;
 
 schema:Book2977f8a4-5aac-4701-91ed-ac9b7de8e93c a ns1:Book ;
     ns1:author "Michel Grenier"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "1997"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -540,7 +540,7 @@ schema:Book2977f8a4-5aac-4701-91ed-ac9b7de8e93c a ns1:Book ;
 
 schema:Book2a31ad68-2416-4fc4-a897-47aaf913c052 a ns1:Book ;
     ns1:author "Diane Bergeron"^^xsd:string ;
-    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec"^^xsd:string ;
+    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -550,7 +550,7 @@ schema:Book2a31ad68-2416-4fc4-a897-47aaf913c052 a ns1:Book ;
 
 schema:Book2a888fca-9522-4591-b32f-7e9af0db5f2e a ns1:Book ;
     ns1:author "Lucie Ledoux"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1982"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -560,7 +560,7 @@ schema:Book2a888fca-9522-4591-b32f-7e9af0db5f2e a ns1:Book ;
 
 schema:Book2b3c04d5-0900-4d8b-95bf-cf2e917e9bb8 a ns1:Book ;
     ns1:author "Michèle Marineau"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1993"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -570,7 +570,7 @@ schema:Book2b3c04d5-0900-4d8b-95bf-cf2e917e9bb8 a ns1:Book ;
 
 schema:Book2daca96c-1e68-487c-b507-9485f6a0306e a ns1:Book ;
     ns1:author "Marie-Francine Hébert"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -580,7 +580,7 @@ schema:Book2daca96c-1e68-487c-b507-9485f6a0306e a ns1:Book ;
 
 schema:Book31fa8775-40c6-4fd1-9104-fe7e8eb65fc8 a ns1:Book ;
     ns1:author "François Gravel"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1994"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -590,7 +590,7 @@ schema:Book31fa8775-40c6-4fd1-9104-fe7e8eb65fc8 a ns1:Book ;
 
 schema:Book32415515-b16c-4dc5-88b7-655d98b17fd8 a ns1:Book ;
     ns1:author "Bertrand Gauthier"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1985"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -600,7 +600,7 @@ schema:Book32415515-b16c-4dc5-88b7-655d98b17fd8 a ns1:Book ;
 
 schema:Book32bc85da-c626-44ba-a169-02b771632625 a ns1:Book ;
     ns1:author "Yvon Brochu"^^xsd:string ;
-    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec"^^xsd:string ;
+    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -610,7 +610,7 @@ schema:Book32bc85da-c626-44ba-a169-02b771632625 a ns1:Book ;
 
 schema:Book32d4fcfb-3caa-4269-a274-27b8b3792180 a ns1:Book ;
     ns1:author "Aucun lauréat"^^xsd:string ;
-    ns1:award "Prix Littéraire Desjardins / Monique-Corriveau"^^xsd:string ;
+    ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
     ns1:datePublished "1996"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -620,7 +620,7 @@ schema:Book32d4fcfb-3caa-4269-a274-27b8b3792180 a ns1:Book ;
 
 schema:Book32e64132-0dd0-4d79-ac0f-3bb41b27cb2d a ns1:Book ;
     ns1:author "Marie-Andrée Boucher-Mativat"^^xsd:string ;
-    ns1:award "Prix Littéraire Desjardins / Monique-Corriveau"^^xsd:string ;
+    ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
     ns1:datePublished "1992"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -630,7 +630,7 @@ schema:Book32e64132-0dd0-4d79-ac0f-3bb41b27cb2d a ns1:Book ;
 
 schema:Book32fd177a-5c99-4030-9d9c-c719f304af27 a ns1:Book ;
     ns1:author "Anique Poitras"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -640,7 +640,7 @@ schema:Book32fd177a-5c99-4030-9d9c-c719f304af27 a ns1:Book ;
 
 schema:Book339bfafa-95d1-4f80-8520-9f7e5b4fd77b a ns1:Book ;
     ns1:author "Yves Ouellet"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -650,7 +650,7 @@ schema:Book339bfafa-95d1-4f80-8520-9f7e5b4fd77b a ns1:Book ;
 
 schema:Book34950668-2a57-4d1e-bc98-ff51011c4dab a ns1:Book ;
     ns1:author "Nadine Descheneaux"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -660,18 +660,18 @@ schema:Book34950668-2a57-4d1e-bc98-ff51011c4dab a ns1:Book ;
 
 schema:Book34b50e13-72a5-4b04-9b53-dd6893823aa6 a ns1:Book ;
     ns1:author "Martin Fournier"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Les aventures de Radisson t.3 L'année des \r
+    ns1:name """Les aventures de Radisson t.3 L'année des \r\r\r
  surhommes"""^^xsd:string ;
     ns1:publisher "Septentrion" ;
     ns1:url "https://www.lurelu.net/prixlitt_villedequebec.html"^^xsd:string .
 
 schema:Book352e583f-3c8d-4caa-89bc-97b5fe48fe03 a ns1:Book ;
     ns1:author "Jasmine Dubé"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "1996"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -681,7 +681,7 @@ schema:Book352e583f-3c8d-4caa-89bc-97b5fe48fe03 a ns1:Book ;
 
 schema:Book35bc5327-fa14-44a8-9571-7add6877a991 a ns1:Book ;
     ns1:author "La revue en ligne"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -691,7 +691,7 @@ schema:Book35bc5327-fa14-44a8-9571-7add6877a991 a ns1:Book ;
 
 schema:Book3661552f-e694-4e09-89a4-95fa3ff14888 a ns1:Book ;
     ns1:author "Élaine Turgeon"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -701,7 +701,7 @@ schema:Book3661552f-e694-4e09-89a4-95fa3ff14888 a ns1:Book ;
 
 schema:Book37f56209-7d2f-44ab-9a1c-e9128e4e9112 a ns1:Book ;
     ns1:author "Martine Latulippe"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -711,7 +711,7 @@ schema:Book37f56209-7d2f-44ab-9a1c-e9128e4e9112 a ns1:Book ;
 
 schema:Book38985b73-9550-44ee-a828-cedceeadb48a a ns1:Book ;
     ns1:author "Isabelle Gaul"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -721,7 +721,7 @@ schema:Book38985b73-9550-44ee-a828-cedceeadb48a a ns1:Book ;
 
 schema:Book39f417b9-67e2-4047-80cd-cc48ee7e6666 a ns1:Book ;
     ns1:author "Louise Portal"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -731,7 +731,7 @@ schema:Book39f417b9-67e2-4047-80cd-cc48ee7e6666 a ns1:Book ;
 
 schema:Book39f85bd6-ddf6-4693-b726-3cddbc6cf8a6 a ns1:Book ;
     ns1:author "Nathalie Loignon"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -741,7 +741,7 @@ schema:Book39f85bd6-ddf6-4693-b726-3cddbc6cf8a6 a ns1:Book ;
 
 schema:Book3ad23f19-7994-4d70-84ed-6b1d40fe530e a ns1:Book ;
     ns1:author "Yvon Brochu"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -751,7 +751,7 @@ schema:Book3ad23f19-7994-4d70-84ed-6b1d40fe530e a ns1:Book ;
 
 schema:Book3ad9cb99-2581-4ab0-879e-45d88eaeccbb a ns1:Book ;
     ns1:author "Martine Latulippe"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -761,7 +761,7 @@ schema:Book3ad9cb99-2581-4ab0-879e-45d88eaeccbb a ns1:Book ;
 
 schema:Book3b219652-5b54-4360-9726-4aaf69d1ebc1 a ns1:Book ;
     ns1:author "Rogé"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -771,7 +771,7 @@ schema:Book3b219652-5b54-4360-9726-4aaf69d1ebc1 a ns1:Book ;
 
 schema:Book3b469b10-69f3-4038-ba36-f04b0f781c5d a ns1:Book ;
     ns1:author "non attribué"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -781,7 +781,7 @@ schema:Book3b469b10-69f3-4038-ba36-f04b0f781c5d a ns1:Book ;
 
 schema:Book3c2e9075-324e-40e0-a4e3-fc99a963bdb4 a ns1:Book ;
     ns1:author "Martine Latulippe"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -791,7 +791,7 @@ schema:Book3c2e9075-324e-40e0-a4e3-fc99a963bdb4 a ns1:Book ;
 
 schema:Book3c4569f9-de1a-4e00-9124-ce3960b598d7 a ns1:Book ;
     ns1:author "Jean-Rock Gaudreault"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "2003"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -801,7 +801,7 @@ schema:Book3c4569f9-de1a-4e00-9124-ce3960b598d7 a ns1:Book ;
 
 schema:Book3c46480e-6310-4e03-8511-bbdd45f80246 a ns1:Book ;
     ns1:author "Robert Soulières"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1981"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -811,7 +811,7 @@ schema:Book3c46480e-6310-4e03-8511-bbdd45f80246 a ns1:Book ;
 
 schema:Book3d05900e-3dd8-450e-bb2b-2ff11a528eb2 a ns1:Book ;
     ns1:author "Robert Soulières"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2003"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -821,7 +821,7 @@ schema:Book3d05900e-3dd8-450e-bb2b-2ff11a528eb2 a ns1:Book ;
 
 schema:Book3dcd3395-6259-4950-9531-c04e7a1ee534 a ns1:Book ;
     ns1:author "Yves Trottier"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -831,7 +831,7 @@ schema:Book3dcd3395-6259-4950-9531-c04e7a1ee534 a ns1:Book ;
 
 schema:Book3f630bb9-0559-4c8d-ab3d-293d185f678d a ns1:Book ;
     ns1:author "Lyne Vanier"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -840,7 +840,7 @@ schema:Book3f630bb9-0559-4c8d-ab3d-293d185f678d a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_villedequebec.html"^^xsd:string .
 
 schema:Book412fedb4-c47b-41db-a365-ead14ea562b1 a ns1:Book ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -850,7 +850,7 @@ schema:Book412fedb4-c47b-41db-a365-ead14ea562b1 a ns1:Book ;
 
 schema:Book4160fa66-6ca7-4cf9-a12f-0df0c277dc3e a ns1:Book ;
     ns1:author "Jean-Louis Trudel"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -861,7 +861,7 @@ schema:Book4160fa66-6ca7-4cf9-a12f-0df0c277dc3e a ns1:Book ;
 schema:Book42fa10d0-b23f-453f-922e-3b243fd7c5dc a ns1:Book ;
     ns1:author "François Gravel"^^xsd:string,
         "Pierre Pratt"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -871,7 +871,7 @@ schema:Book42fa10d0-b23f-453f-922e-3b243fd7c5dc a ns1:Book ;
 
 schema:Book43540719-9112-44d4-be38-b80531ff46c6 a ns1:Book ;
     ns1:author "Raymond Plante"^^xsd:string ;
-    ns1:award "Prix 12 / 17 Brive-Montréal"^^xsd:string ;
+    ns1:award "Prix 12 / 17 Brive-Montréal" ;
     ns1:datePublished "1994"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -881,7 +881,7 @@ schema:Book43540719-9112-44d4-be38-b80531ff46c6 a ns1:Book ;
 
 schema:Book439c7522-c319-46b5-8abc-5d0b50bca233 a ns1:Book ;
     ns1:author "Chrystine Brouillet"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1986"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -891,7 +891,7 @@ schema:Book439c7522-c319-46b5-8abc-5d0b50bca233 a ns1:Book ;
 
 schema:Book448ac0c1-6226-4376-9e2c-8bf29f996750 a ns1:Book ;
     ns1:author "Jacques Lazure"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1997"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -901,7 +901,7 @@ schema:Book448ac0c1-6226-4376-9e2c-8bf29f996750 a ns1:Book ;
 
 schema:Book478f1f45-ddf6-43e6-8c48-6f6756ff36b0 a ns1:Book ;
     ns1:author "Gilles Tibo"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -911,7 +911,7 @@ schema:Book478f1f45-ddf6-43e6-8c48-6f6756ff36b0 a ns1:Book ;
 
 schema:Book47e35c59-a4ea-458e-954c-3b3396759212 a ns1:Book ;
     ns1:author "Marc Tremblay"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -922,7 +922,7 @@ schema:Book47e35c59-a4ea-458e-954c-3b3396759212 a ns1:Book ;
 schema:Book480e849d-ed10-4c2c-9328-9d5866e64720 a ns1:Book ;
     ns1:author "Danielle Simard"^^xsd:string,
         "Geneviève Côté"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -933,7 +933,7 @@ schema:Book480e849d-ed10-4c2c-9328-9d5866e64720 a ns1:Book ;
 schema:Book48d6cda8-b667-4cb3-8127-520eb0962315 a ns1:Book ;
     ns1:author "Bertrand Gauthier"^^xsd:string,
         "Daniel Sylvestre"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "1985"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -943,7 +943,7 @@ schema:Book48d6cda8-b667-4cb3-8127-520eb0962315 a ns1:Book ;
 
 schema:Book4a180b5e-9d20-4d46-97b8-af3073e754b4 a ns1:Book ;
     ns1:author "Élisabeth Tremblay"^^xsd:string ;
-    ns1:award "Prix Littéraire Suzanne Pouliot Et Antoine Sirois"^^xsd:string ;
+    ns1:award "Prix Littéraire Suzanne Pouliot Et Antoine Sirois" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -954,7 +954,7 @@ schema:Book4a180b5e-9d20-4d46-97b8-af3073e754b4 a ns1:Book ;
 schema:Book4a8dca8f-3f2a-43e5-ba85-3cc375435c11 a ns1:Book ;
     ns1:author "Melinda Josie"^^xsd:string,
         "Mélanie Tellier"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -964,7 +964,7 @@ schema:Book4a8dca8f-3f2a-43e5-ba85-3cc375435c11 a ns1:Book ;
 
 schema:Book4acfcf19-5b1d-44c1-9022-251cd56bbdd5 a ns1:Book ;
     ns1:author "Jean Lemieux"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -974,7 +974,7 @@ schema:Book4acfcf19-5b1d-44c1-9022-251cd56bbdd5 a ns1:Book ;
 
 schema:Book4b918758-708d-4c77-a997-777cca6ddcd9 a ns1:Book ;
     ns1:author "Marie-Louise Gay"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1984"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -984,7 +984,7 @@ schema:Book4b918758-708d-4c77-a997-777cca6ddcd9 a ns1:Book ;
 
 schema:Book4ccecf1c-23ec-480c-ad82-e49efbc3dff7 a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -994,7 +994,7 @@ schema:Book4ccecf1c-23ec-480c-ad82-e49efbc3dff7 a ns1:Book ;
 
 schema:Book4d158e52-7bd0-4b05-b62a-dc3d1c75b6a6 a ns1:Book ;
     ns1:author "Priska Poirier"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1004,7 +1004,7 @@ schema:Book4d158e52-7bd0-4b05-b62a-dc3d1c75b6a6 a ns1:Book ;
 
 schema:Book4d15c3ac-7fe1-48fc-81fb-eb32a4b463f9 a ns1:Book ;
     ns1:author "Stéphane Poulin"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "1990"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1013,7 +1013,7 @@ schema:Book4d15c3ac-7fe1-48fc-81fb-eb32a4b463f9 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_walloniebruxelles.html"^^xsd:string .
 
 schema:Book4e210165-02fd-40f7-9c5e-432c17b4997e a ns1:Book ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1023,7 +1023,7 @@ schema:Book4e210165-02fd-40f7-9c5e-432c17b4997e a ns1:Book ;
 
 schema:Book4e6c0d38-a5de-4090-b405-9df6969240eb a ns1:Book ;
     ns1:author "Christiane Duchesne"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1991"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1033,7 +1033,7 @@ schema:Book4e6c0d38-a5de-4090-b405-9df6969240eb a ns1:Book ;
 
 schema:Book4f7a444c-39fa-4ff1-8820-2240d85ea3ca a ns1:Book ;
     ns1:author "Raymond Plante"^^xsd:string ;
-    ns1:award "Prix Littéraire Desjardins / Monique-Corriveau"^^xsd:string ;
+    ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
     ns1:datePublished "1993"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1043,7 +1043,7 @@ schema:Book4f7a444c-39fa-4ff1-8820-2240d85ea3ca a ns1:Book ;
 
 schema:Book517c7e5a-ce29-49a4-81d8-c026c6a59739 a ns1:Book ;
     ns1:author "Gilles Vigneault"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1980"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1053,7 +1053,7 @@ schema:Book517c7e5a-ce29-49a4-81d8-c026c6a59739 a ns1:Book ;
 
 schema:Book5189a549-1d55-4ac8-96e7-b80a26aab55f a ns1:Book ;
     ns1:author "Daniel Sernine"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "1992"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1063,7 +1063,7 @@ schema:Book5189a549-1d55-4ac8-96e7-b80a26aab55f a ns1:Book ;
 
 schema:Book53199c57-24a7-46b0-9e75-ee9b8da7f130 a ns1:Book ;
     ns1:author "Louise Portal"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1073,7 +1073,7 @@ schema:Book53199c57-24a7-46b0-9e75-ee9b8da7f130 a ns1:Book ;
 
 schema:Book546837a8-b23d-490e-928d-d0bd3fcd9e86 a ns1:Book ;
     ns1:author "Diane Obomsawin (Obom)"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1084,7 +1084,7 @@ schema:Book546837a8-b23d-490e-928d-d0bd3fcd9e86 a ns1:Book ;
 schema:Book55d231fe-a7b3-465c-af93-23cd424e9cb5 a ns1:Book ;
     ns1:author "Carole Tremblay"^^xsd:string,
         "Élodie Duhameau"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1095,11 +1095,11 @@ schema:Book55d231fe-a7b3-465c-af93-23cd424e9cb5 a ns1:Book ;
 schema:Book5725f7a0-7576-41f6-aa6b-42717c4ffb3e a ns1:Book ;
     ns1:author "Geneviève Després"^^xsd:string,
         "Gilles Tibo"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Le petit chevalier \r
+    ns1:name """Le petit chevalier \r\r\r
  qui n'aimait pas la pluie"""^^xsd:string ;
     ns1:publisher "Imagine" ;
     ns1:url "https://www.lurelu.net/prixlitt_walloniebruxelles.html"^^xsd:string .
@@ -1107,7 +1107,7 @@ schema:Book5725f7a0-7576-41f6-aa6b-42717c4ffb3e a ns1:Book ;
 schema:Book5da3a01e-c90e-40a5-8dde-0c30b34ea7e9 a ns1:Book ;
     ns1:author "Lina Rousseau"^^xsd:string,
         "Marie-Claude Favreau"^^xsd:string ;
-    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec"^^xsd:string ;
+    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1118,7 +1118,7 @@ schema:Book5da3a01e-c90e-40a5-8dde-0c30b34ea7e9 a ns1:Book ;
 schema:Book5f7fadee-99c9-4fee-a1a9-0cdeb861ace7 a ns1:Book ;
     ns1:author "Gérard DuBois"^^xsd:string,
         "Nadine Robert"^^xsd:string ;
-    ns1:award "Prix Harry-Black De L’Album Jeunesse"^^xsd:string ;
+    ns1:award "Prix Harry-Black De L’Album Jeunesse" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1128,7 +1128,7 @@ schema:Book5f7fadee-99c9-4fee-a1a9-0cdeb861ace7 a ns1:Book ;
 
 schema:Book60bff9fb-70a0-46bd-85b9-64c309c9f8fe a ns1:Book ;
     ns1:author "Daniel Sernine"^^xsd:string ;
-    ns1:award "Prix 12 / 17 Brive-Montréal"^^xsd:string ;
+    ns1:award "Prix 12 / 17 Brive-Montréal" ;
     ns1:datePublished "1992"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1139,7 +1139,7 @@ schema:Book60bff9fb-70a0-46bd-85b9-64c309c9f8fe a ns1:Book ;
 schema:Book61250b20-0c68-42e4-b023-f2326b88830e a ns1:Book ;
     ns1:author "Fanny Britt"^^xsd:string,
         "Isabelle Arsenault"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1150,7 +1150,7 @@ schema:Book61250b20-0c68-42e4-b023-f2326b88830e a ns1:Book ;
 schema:Book6179394f-177f-47ba-ab8d-5a50e8e02895 a ns1:Book ;
     ns1:author "Fanny Britt"^^xsd:string,
         "Isabelle Arsenault"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1160,7 +1160,7 @@ schema:Book6179394f-177f-47ba-ab8d-5a50e8e02895 a ns1:Book ;
 
 schema:Book62045e64-4c12-4976-aaa0-f7483b80fe6f a ns1:Book ;
     ns1:author "Catherine Ferland"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1170,7 +1170,7 @@ schema:Book62045e64-4c12-4976-aaa0-f7483b80fe6f a ns1:Book ;
 
 schema:Book624d330b-8672-45bb-9641-248110f6e27b a ns1:Book ;
     ns1:author "Claudine Farcy"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1992"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1180,7 +1180,7 @@ schema:Book624d330b-8672-45bb-9641-248110f6e27b a ns1:Book ;
 
 schema:Book62a18aa3-e869-4d80-8461-0992d63e00d9 a ns1:Book ;
     ns1:author "Christiane Duchesne"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "1996"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1190,7 +1190,7 @@ schema:Book62a18aa3-e869-4d80-8461-0992d63e00d9 a ns1:Book ;
 
 schema:Book64580404-1faa-4a81-8108-7eb406378dea a ns1:Book ;
     ns1:author "Gilles Ruel"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1200,7 +1200,7 @@ schema:Book64580404-1faa-4a81-8108-7eb406378dea a ns1:Book ;
 
 schema:Book64bdfb2b-2912-47d6-8d2f-c9e601f1a216 a ns1:Book ;
     ns1:author "Jacques Lazure"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1209,7 +1209,7 @@ schema:Book64bdfb2b-2912-47d6-8d2f-c9e601f1a216 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_monteregie.html"^^xsd:string .
 
 schema:Book65a7e36c-5f97-4d68-9cea-8910046e81d1 a ns1:Book ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1219,7 +1219,7 @@ schema:Book65a7e36c-5f97-4d68-9cea-8910046e81d1 a ns1:Book ;
 
 schema:Book66382690-5338-4401-81eb-c180d4ddb5f3 a ns1:Book ;
     ns1:author "Sébastien Fréchette (Biz)"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1230,7 +1230,7 @@ schema:Book66382690-5338-4401-81eb-c180d4ddb5f3 a ns1:Book ;
 schema:Book66b0b150-29bf-41ea-82f0-fe85b800c9cb a ns1:Book ;
     ns1:author "Roxane Paradis"^^xsd:string,
         "Yvon Brochu"^^xsd:string ;
-    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec"^^xsd:string ;
+    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1240,7 +1240,7 @@ schema:Book66b0b150-29bf-41ea-82f0-fe85b800c9cb a ns1:Book ;
 
 schema:Book66c7b90b-17e8-462a-afb5-d2e59f2723e0 a ns1:Book ;
     ns1:author "Johanne Mercier"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1250,7 +1250,7 @@ schema:Book66c7b90b-17e8-462a-afb5-d2e59f2723e0 a ns1:Book ;
 
 schema:Book69029f7c-2165-4b3d-9e31-3c3fe51d7c83 a ns1:Book ;
     ns1:author "Andrée Poulin"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1260,7 +1260,7 @@ schema:Book69029f7c-2165-4b3d-9e31-3c3fe51d7c83 a ns1:Book ;
 
 schema:Book6b45a40d-3de5-428c-8dc0-7dd10f1f49bf a ns1:Book ;
     ns1:author "Fabrice Boulanger"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2023"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1271,7 +1271,7 @@ schema:Book6b45a40d-3de5-428c-8dc0-7dd10f1f49bf a ns1:Book ;
 schema:Book6b82472a-6146-40df-8cec-1887fca61799 a ns1:Book ;
     ns1:author "Hervé Bouchard"^^xsd:string,
         "Janice Nadeau"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1282,7 +1282,7 @@ schema:Book6b82472a-6146-40df-8cec-1887fca61799 a ns1:Book ;
 schema:Book6bdca487-6f03-41d9-a456-a76e510db288 a ns1:Book ;
     ns1:author "Gilles Vigneault"^^xsd:string,
         "Stéphane Jorisch"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1292,7 +1292,7 @@ schema:Book6bdca487-6f03-41d9-a456-a76e510db288 a ns1:Book ;
 
 schema:Book6c4270d3-39dd-4173-bc00-0cf2dc410ebb a ns1:Book ;
     ns1:author "Michel Noël"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1302,7 +1302,7 @@ schema:Book6c4270d3-39dd-4173-bc00-0cf2dc410ebb a ns1:Book ;
 
 schema:Book6e291652-cb95-4bdb-9d76-e73ab9d3a5f3 a ns1:Book ;
     ns1:author "Richard Blaimert"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1312,7 +1312,7 @@ schema:Book6e291652-cb95-4bdb-9d76-e73ab9d3a5f3 a ns1:Book ;
 
 schema:Book6f356840-370a-4ad5-8588-728e706d7ed3 a ns1:Book ;
     ns1:author "Martine Latulippe"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1322,7 +1322,7 @@ schema:Book6f356840-370a-4ad5-8588-728e706d7ed3 a ns1:Book ;
 
 schema:Book6fad896e-62d5-4ffd-badb-a86a96b572f6 a ns1:Book ;
     ns1:author "Anne Villeneuve"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1332,7 +1332,7 @@ schema:Book6fad896e-62d5-4ffd-badb-a86a96b572f6 a ns1:Book ;
 
 schema:Book7050b9ee-de74-4318-83d3-cb4b270fbd19 a ns1:Book ;
     ns1:author "Jasmine Dubé"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1342,7 +1342,7 @@ schema:Book7050b9ee-de74-4318-83d3-cb4b270fbd19 a ns1:Book ;
 
 schema:Book7139c914-ee73-456b-97db-4bbcf2920936 a ns1:Book ;
     ns1:author "Alain Beaulieu"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1352,7 +1352,7 @@ schema:Book7139c914-ee73-456b-97db-4bbcf2920936 a ns1:Book ;
 
 schema:Book7255c31e-ef30-489e-af08-8d9cd141d87e a ns1:Book ;
     ns1:author "Hervé Gagnon"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1362,7 +1362,7 @@ schema:Book7255c31e-ef30-489e-af08-8d9cd141d87e a ns1:Book ;
 
 schema:Book725aa1c8-05fd-4958-84d2-a5418d84b740 a ns1:Book ;
     ns1:author "Maryse Pelletier"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1372,7 +1372,7 @@ schema:Book725aa1c8-05fd-4958-84d2-a5418d84b740 a ns1:Book ;
 
 schema:Book73a02f4a-4006-46f3-89ac-155c3189849e a ns1:Book ;
     ns1:author "François Barcelo"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1382,7 +1382,7 @@ schema:Book73a02f4a-4006-46f3-89ac-155c3189849e a ns1:Book ;
 
 schema:Book746b1c28-d388-4c8e-8a9a-91ba709e6457 a ns1:Book ;
     ns1:author "Ginette Anfousse"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "1988"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1392,7 +1392,7 @@ schema:Book746b1c28-d388-4c8e-8a9a-91ba709e6457 a ns1:Book ;
 
 schema:Book7475160b-a935-4782-bf54-c52d6850b30c a ns1:Book ;
     ns1:author "Yvon Brochu"^^xsd:string ;
-    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec"^^xsd:string ;
+    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1402,7 +1402,7 @@ schema:Book7475160b-a935-4782-bf54-c52d6850b30c a ns1:Book ;
 
 schema:Book7a97e181-c8fe-4537-a4f5-090a092144f2 a ns1:Book ;
     ns1:author "Jean-Frédéric Messier"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1412,7 +1412,7 @@ schema:Book7a97e181-c8fe-4537-a4f5-090a092144f2 a ns1:Book ;
 
 schema:Book7b7795f5-ec14-4d67-8e94-5f6939541062 a ns1:Book ;
     ns1:author "Élaine Turgeon"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1424,7 +1424,7 @@ schema:Book7bbfc46c-977b-472c-81f5-d8c25fd84caa a ns1:Book ;
     ns1:author "Louise Pelletier"^^xsd:string,
         "Phillipe Béha (illustrations). Collection Bébé-livres:"^^xsd:string,
         "Sylvie Assathiany (texte)"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1983"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1434,7 +1434,7 @@ schema:Book7bbfc46c-977b-472c-81f5-d8c25fd84caa a ns1:Book ;
 
 schema:Book7c4406bc-1522-41ad-b04c-7d5efde4bf12 a ns1:Book ;
     ns1:author "Monique Corriveau"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1976"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1444,7 +1444,7 @@ schema:Book7c4406bc-1522-41ad-b04c-7d5efde4bf12 a ns1:Book ;
 
 schema:Book7cd04b5b-a54e-4094-8072-69b46e7001ff a ns1:Book ;
     ns1:author "Marilou Addison"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1454,7 +1454,7 @@ schema:Book7cd04b5b-a54e-4094-8072-69b46e7001ff a ns1:Book ;
 
 schema:Book7d2626cd-3a6f-4a52-985e-fd9da64074a2 a ns1:Book ;
     ns1:author "Lyne Vanier"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1464,7 +1464,7 @@ schema:Book7d2626cd-3a6f-4a52-985e-fd9da64074a2 a ns1:Book ;
 
 schema:Book7d3c38da-2400-4778-bfc6-6f44c353e26c a ns1:Book ;
     ns1:author "Larry Tremblay"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1474,7 +1474,7 @@ schema:Book7d3c38da-2400-4778-bfc6-6f44c353e26c a ns1:Book ;
 
 schema:Book7d5e1306-b75e-4984-ba09-b8a0cf882d27 a ns1:Book ;
     ns1:author "Michèle Marineau"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1484,7 +1484,7 @@ schema:Book7d5e1306-b75e-4984-ba09-b8a0cf882d27 a ns1:Book ;
 
 schema:Book7eac7aa9-efbd-4123-887e-62749383796f a ns1:Book ;
     ns1:author "Raymond Plante"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "1982"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1494,7 +1494,7 @@ schema:Book7eac7aa9-efbd-4123-887e-62749383796f a ns1:Book ;
 
 schema:Book7fb0aa78-cb81-41e0-9c1e-cdb6b623f1c9 a ns1:Book ;
     ns1:author "Magali Laurent"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1504,7 +1504,7 @@ schema:Book7fb0aa78-cb81-41e0-9c1e-cdb6b623f1c9 a ns1:Book ;
 
 schema:Book8062cdfc-ea7a-4ac4-8a4c-ffdd6ec68a42 a ns1:Book ;
     ns1:author "Jacques Lazure"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "1992"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1515,7 +1515,7 @@ schema:Book8062cdfc-ea7a-4ac4-8a4c-ffdd6ec68a42 a ns1:Book ;
 schema:Book820b9648-8659-4840-b75c-0cde1f42834a a ns1:Book ;
     ns1:author "Dominique Leroux"^^xsd:string,
         "Marie-Andrée Arsenault"^^xsd:string ;
-    ns1:award "Prix Harry-Black De L’Album Jeunesse"^^xsd:string ;
+    ns1:award "Prix Harry-Black De L’Album Jeunesse" ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1525,7 +1525,7 @@ schema:Book820b9648-8659-4840-b75c-0cde1f42834a a ns1:Book ;
 
 schema:Book838ff989-26bf-486d-b3b5-ddbc53016c05 a ns1:Book ;
     ns1:author "Charlotte Gingras"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1535,7 +1535,7 @@ schema:Book838ff989-26bf-486d-b3b5-ddbc53016c05 a ns1:Book ;
 
 schema:Book83bc0655-5788-4c6b-ab49-f554b7b0d6fa a ns1:Book ;
     ns1:author "Gabrielle Grandbois-Paquin"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1979"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1545,7 +1545,7 @@ schema:Book83bc0655-5788-4c6b-ab49-f554b7b0d6fa a ns1:Book ;
 
 schema:Book83d099a4-6f85-4ce5-a501-b166d4488477 a ns1:Book ;
     ns1:author "Denis Côté (pour l'ensemble de son oeuvre)"^^xsd:string ;
-    ns1:award "Prix 12 / 17 Brive-Montréal"^^xsd:string ;
+    ns1:award "Prix 12 / 17 Brive-Montréal" ;
     ns1:datePublished "1991"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1555,7 +1555,7 @@ schema:Book83d099a4-6f85-4ce5-a501-b166d4488477 a ns1:Book ;
 
 schema:Book84e7a134-ddd0-47f5-97ce-788fe695371e a ns1:Book ;
     ns1:author "Michèle Marineau"^^xsd:string ;
-    ns1:award "Prix 12 / 17 Brive-Montréal"^^xsd:string ;
+    ns1:award "Prix 12 / 17 Brive-Montréal" ;
     ns1:datePublished "1993"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1565,7 +1565,7 @@ schema:Book84e7a134-ddd0-47f5-97ce-788fe695371e a ns1:Book ;
 
 schema:Book8574c00d-954f-4d32-b847-92a1e718041e a ns1:Book ;
     ns1:author "Lyne Vanier"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1575,7 +1575,7 @@ schema:Book8574c00d-954f-4d32-b847-92a1e718041e a ns1:Book ;
 
 schema:Book872c0a5c-4a1d-476c-a029-cc7bc3d9c63f a ns1:Book ;
     ns1:author "Isabelle Roy"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1585,7 +1585,7 @@ schema:Book872c0a5c-4a1d-476c-a029-cc7bc3d9c63f a ns1:Book ;
 
 schema:Book8744d15a-cd2a-43b2-b6d6-5d97e0f1e5d6 a ns1:Book ;
     ns1:author "Anne Villeneuve"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1595,7 +1595,7 @@ schema:Book8744d15a-cd2a-43b2-b6d6-5d97e0f1e5d6 a ns1:Book ;
 
 schema:Book879e849e-fbdb-4dc2-9008-6bf6fb8f5417 a ns1:Book ;
     ns1:author "Henriette Major"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1978"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1605,7 +1605,7 @@ schema:Book879e849e-fbdb-4dc2-9008-6bf6fb8f5417 a ns1:Book ;
 
 schema:Book88d2dd3d-547c-45f1-b356-66dd8603aeed a ns1:Book ;
     ns1:author "Mylène Arpin"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1615,7 +1615,7 @@ schema:Book88d2dd3d-547c-45f1-b356-66dd8603aeed a ns1:Book ;
 
 schema:Book88e5ed0b-8c36-490a-a367-410f40f1f460 a ns1:Book ;
     ns1:author "Bertrand Gauthier"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1625,7 +1625,7 @@ schema:Book88e5ed0b-8c36-490a-a367-410f40f1f460 a ns1:Book ;
 
 schema:Book8a44f34c-40ce-4129-8cfc-12a9ab4b9f47 a ns1:Book ;
     ns1:author "La librairie Monet"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1634,7 +1634,7 @@ schema:Book8a44f34c-40ce-4129-8cfc-12a9ab4b9f47 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_raymondplante.html"^^xsd:string .
 
 schema:Book8b3e77e7-4911-4aed-b09d-7507b926eaee a ns1:Book ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1644,7 +1644,7 @@ schema:Book8b3e77e7-4911-4aed-b09d-7507b926eaee a ns1:Book ;
 
 schema:Book8bcd82c8-9125-4f76-8581-a08897163fb3 a ns1:Book ;
     ns1:author "Élaine Turgeon"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1655,7 +1655,7 @@ schema:Book8bcd82c8-9125-4f76-8581-a08897163fb3 a ns1:Book ;
 schema:Book8c2d3b3e-c031-43dd-ac85-036d88d6cb6b a ns1:Book ;
     ns1:author "Bruce Roberts"^^xsd:string,
         "Claire Vigneau"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1665,7 +1665,7 @@ schema:Book8c2d3b3e-c031-43dd-ac85-036d88d6cb6b a ns1:Book ;
 
 schema:Book8d3c3065-61f3-44d2-b399-5e18ee47ce7d a ns1:Book ;
     ns1:author "François Gravel"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1675,7 +1675,7 @@ schema:Book8d3c3065-61f3-44d2-b399-5e18ee47ce7d a ns1:Book ;
 
 schema:Book8dccf1cf-faaa-4f08-a808-aa21cc421907 a ns1:Book ;
     ns1:author "Christiane Duchesne"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1685,7 +1685,7 @@ schema:Book8dccf1cf-faaa-4f08-a808-aa21cc421907 a ns1:Book ;
 
 schema:Book8e04e22c-44f3-4586-b329-fb0fb9d181d8 a ns1:Book ;
     ns1:author "Sophie Girard"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1695,7 +1695,7 @@ schema:Book8e04e22c-44f3-4586-b329-fb0fb9d181d8 a ns1:Book ;
 
 schema:Book8f14b362-1f0c-40fe-96c1-852853544f81 a ns1:Book ;
     ns1:author "Daniel Sernine"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "1996"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1705,7 +1705,7 @@ schema:Book8f14b362-1f0c-40fe-96c1-852853544f81 a ns1:Book ;
 
 schema:Book8fddeea8-9b00-4bd5-b312-581e2353d403 a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
-    ns1:award "Prix Harry-Black De L’Album Jeunesse"^^xsd:string ;
+    ns1:award "Prix Harry-Black De L’Album Jeunesse" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1715,7 +1715,7 @@ schema:Book8fddeea8-9b00-4bd5-b312-581e2353d403 a ns1:Book ;
 
 schema:Book934d140b-b1c8-4177-a49f-2fe187ce9b37 a ns1:Book ;
     ns1:author "Anne Vallières"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1974"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1725,7 +1725,7 @@ schema:Book934d140b-b1c8-4177-a49f-2fe187ce9b37 a ns1:Book ;
 
 schema:Book942db415-17c2-4742-a720-74dc4fc854f1 a ns1:Book ;
     ns1:author "Michel J. Lévesque"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1735,7 +1735,7 @@ schema:Book942db415-17c2-4742-a720-74dc4fc854f1 a ns1:Book ;
 
 schema:Book942e936f-e31b-4669-b8f8-ea4b430ced7a a ns1:Book ;
     ns1:author "Félix Maltais (magazine"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1746,7 +1746,7 @@ schema:Book942e936f-e31b-4669-b8f8-ea4b430ced7a a ns1:Book ;
 schema:Book9498561b-37a2-4069-98a6-07ea0bf11a42 a ns1:Book ;
     ns1:author "Charlotte Gingras"^^xsd:string,
         "Daniel Sylvestre"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1756,7 +1756,7 @@ schema:Book9498561b-37a2-4069-98a6-07ea0bf11a42 a ns1:Book ;
 
 schema:Book9756e976-430b-4622-9118-20c8a1bfe913 a ns1:Book ;
     ns1:author "Vigg (Vincent Gagnon)"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1766,7 +1766,7 @@ schema:Book9756e976-430b-4622-9118-20c8a1bfe913 a ns1:Book ;
 
 schema:Book988bb3db-ab8b-4520-85b2-65345e897dda a ns1:Book ;
     ns1:author "Hélène Grégoire"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1777,7 +1777,7 @@ schema:Book988bb3db-ab8b-4520-85b2-65345e897dda a ns1:Book ;
 schema:Book9a007984-83cb-4490-8641-7beafc4f6c2a a ns1:Book ;
     ns1:author "Aurélie Grand (ill.)"^^xsd:string,
         "Rhéa Dufresne"^^xsd:string ;
-    ns1:award "Prix Harry-Black De L’Album Jeunesse"^^xsd:string ;
+    ns1:award "Prix Harry-Black De L’Album Jeunesse" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1787,7 +1787,7 @@ schema:Book9a007984-83cb-4490-8641-7beafc4f6c2a a ns1:Book ;
 
 schema:Book9b4c9549-5e45-4721-9a5b-45fb4cdf72c4 a ns1:Book ;
     ns1:author "Denis Côté"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "1984"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1798,7 +1798,7 @@ schema:Book9b4c9549-5e45-4721-9a5b-45fb4cdf72c4 a ns1:Book ;
 schema:Book9c414df1-d76b-447a-820c-79878739a0a1 a ns1:Book ;
     ns1:author "Agathe Bray-Bourret (ill.)"^^xsd:string,
         "Stéphanie Boulay"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1808,7 +1808,7 @@ schema:Book9c414df1-d76b-447a-820c-79878739a0a1 a ns1:Book ;
 
 schema:Book9c5f7e91-147e-4d0f-bf2d-11588ae1b4c4 a ns1:Book ;
     ns1:author "Louis-Dominique Lavigne"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1818,7 +1818,7 @@ schema:Book9c5f7e91-147e-4d0f-bf2d-11588ae1b4c4 a ns1:Book ;
 
 schema:Booka11b14c9-c3ec-4ecf-9f20-3c48f958137a a ns1:Book ;
     ns1:author "Amélie Bibeau"^^xsd:string ;
-    ns1:award "Prix Littéraire Suzanne Pouliot Et Antoine Sirois"^^xsd:string ;
+    ns1:award "Prix Littéraire Suzanne Pouliot Et Antoine Sirois" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1828,7 +1828,7 @@ schema:Booka11b14c9-c3ec-4ecf-9f20-3c48f958137a a ns1:Book ;
 
 schema:Booka140919b-41c1-4a96-b9ab-5b40671e7926 a ns1:Book ;
     ns1:author "Sylvie Desrosiers"^^xsd:string ;
-    ns1:award "Prix 12 / 17 Brive-Montréal"^^xsd:string ;
+    ns1:award "Prix 12 / 17 Brive-Montréal" ;
     ns1:datePublished "1996"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1839,18 +1839,18 @@ schema:Booka140919b-41c1-4a96-b9ab-5b40671e7926 a ns1:Book ;
 schema:Booka1cbb8d5-ddd0-44ad-9e30-acd9274ea94b a ns1:Book ;
     ns1:author "Alain M. Bergeron"^^xsd:string,
         "Pierre-Yves Cezard"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Le géant qui sentait \r
+    ns1:name """Le géant qui sentait \r\r\r
  les petits pieds"""^^xsd:string ;
     ns1:publisher "Québec Amérique" ;
     ns1:url "https://www.lurelu.net/prixlitt_walloniebruxelles.html"^^xsd:string .
 
 schema:Booka1d8b90d-b7f3-49e1-9bfd-d8c4c3f8cd56 a ns1:Book ;
     ns1:author "Élizabeth Lepage-Boily"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1860,7 +1860,7 @@ schema:Booka1d8b90d-b7f3-49e1-9bfd-d8c4c3f8cd56 a ns1:Book ;
 
 schema:Booka2637a24-01ad-46af-b94e-9ba7b6547325 a ns1:Book ;
     ns1:author "Jean Bélisle"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1995"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1870,7 +1870,7 @@ schema:Booka2637a24-01ad-46af-b94e-9ba7b6547325 a ns1:Book ;
 
 schema:Booka57159d5-eb9e-4f10-ae78-0a644342d908 a ns1:Book ;
     ns1:author "Sylvain Hotte"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1880,7 +1880,7 @@ schema:Booka57159d5-eb9e-4f10-ae78-0a644342d908 a ns1:Book ;
 
 schema:Booka71c32f2-5347-4df6-b6e7-a09b70a9e761 a ns1:Book ;
     ns1:author "Johanne Mercier"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1890,7 +1890,7 @@ schema:Booka71c32f2-5347-4df6-b6e7-a09b70a9e761 a ns1:Book ;
 
 schema:Booka81386c3-3982-4f47-9c5d-3a875b305d31 a ns1:Book ;
     ns1:author "Marie-Louise Gay"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1900,7 +1900,7 @@ schema:Booka81386c3-3982-4f47-9c5d-3a875b305d31 a ns1:Book ;
 
 schema:Booka976da7f-5c10-46ee-9f0c-31bc395f67ec a ns1:Book ;
     ns1:author "Linda Amyot"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1910,7 +1910,7 @@ schema:Booka976da7f-5c10-46ee-9f0c-31bc395f67ec a ns1:Book ;
 
 schema:Booka981a771-1d86-48fa-b307-f1e7b29d070a a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1921,7 +1921,7 @@ schema:Booka981a771-1d86-48fa-b307-f1e7b29d070a a ns1:Book ;
 schema:Bookaa231eed-d27e-476a-acaf-56318c92fb1b a ns1:Book ;
     ns1:author "Julie"^^xsd:string,
         "Martine Latulippe, Fil"^^xsd:string ;
-    ns1:award "Prix Magazine Enfants Québec Du Meilleur Album Jeunesse"^^xsd:string ;
+    ns1:award "Prix Magazine Enfants Québec Du Meilleur Album Jeunesse" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1931,7 +1931,7 @@ schema:Bookaa231eed-d27e-476a-acaf-56318c92fb1b a ns1:Book ;
 
 schema:Bookabb093d4-12c0-41d1-a04a-62be10a13018 a ns1:Book ;
     ns1:author "Jean Lemieux"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1941,7 +1941,7 @@ schema:Bookabb093d4-12c0-41d1-a04a-62be10a13018 a ns1:Book ;
 
 schema:Bookad981f66-d879-482a-887c-5d0ff4eb4d59 a ns1:Book ;
     ns1:author "Jean-François Sénéchal"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1950,7 +1950,7 @@ schema:Bookad981f66-d879-482a-887c-5d0ff4eb4d59 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_monteregie.html"^^xsd:string .
 
 schema:Bookadc2d083-ef8c-4f2a-8671-f7a67f16140a a ns1:Book ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1960,7 +1960,7 @@ schema:Bookadc2d083-ef8c-4f2a-8671-f7a67f16140a a ns1:Book ;
 
 schema:Bookadf5f55a-e61f-4555-837d-611447ae4a15 a ns1:Book ;
     ns1:author "Lista Boudalika"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1971,7 +1971,7 @@ schema:Bookadf5f55a-e61f-4555-837d-611447ae4a15 a ns1:Book ;
 schema:Bookafa74734-7f4b-4e6e-9b64-873de85c3c88 a ns1:Book ;
     ns1:author "Anne Villeneuve"^^xsd:string,
         "François Barcelo"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1981,7 +1981,7 @@ schema:Bookafa74734-7f4b-4e6e-9b64-873de85c3c88 a ns1:Book ;
 
 schema:Bookb0f89148-c4c7-4238-b609-423732b6c698 a ns1:Book ;
     ns1:author "André Leblanc"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1992,7 +1992,7 @@ schema:Bookb0f89148-c4c7-4238-b609-423732b6c698 a ns1:Book ;
 schema:Bookb0fc3ff4-f291-480a-b2e3-07523317b041 a ns1:Book ;
     ns1:author "François Vigneault (ill.)"^^xsd:string,
         "Geneviève Pettersen"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2002,7 +2002,7 @@ schema:Bookb0fc3ff4-f291-480a-b2e3-07523317b041 a ns1:Book ;
 
 schema:Bookb134dfb6-2eda-4357-86d8-80f68335e50b a ns1:Book ;
     ns1:author "Francis Monty"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2012,7 +2012,7 @@ schema:Bookb134dfb6-2eda-4357-86d8-80f68335e50b a ns1:Book ;
 
 schema:Bookb1924f4f-59f5-4935-b5bf-2fa25d826ee9 a ns1:Book ;
     ns1:author "Valérie Fontaine"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2022,7 +2022,7 @@ schema:Bookb1924f4f-59f5-4935-b5bf-2fa25d826ee9 a ns1:Book ;
 
 schema:Bookb2c4560a-1237-4977-af49-7bad501f833d a ns1:Book ;
     ns1:author "Cécile Gagnon"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2032,7 +2032,7 @@ schema:Bookb2c4560a-1237-4977-af49-7bad501f833d a ns1:Book ;
 
 schema:Bookb2d07dcb-354d-405c-b527-b21ca4d3389f a ns1:Book ;
     ns1:author "Johanne Mercier"^^xsd:string ;
-    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec"^^xsd:string ;
+    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2042,7 +2042,7 @@ schema:Bookb2d07dcb-354d-405c-b527-b21ca4d3389f a ns1:Book ;
 
 schema:Bookb3070d56-905b-478e-810b-4ac82f5baf96 a ns1:Book ;
     ns1:author "Linda Amyot"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2052,7 +2052,7 @@ schema:Bookb3070d56-905b-478e-810b-4ac82f5baf96 a ns1:Book ;
 
 schema:Bookb31874f4-d8fc-405b-a338-bac9ffc4494b a ns1:Book ;
     ns1:author "Sylvain Hotte"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2062,7 +2062,7 @@ schema:Bookb31874f4-d8fc-405b-a338-bac9ffc4494b a ns1:Book ;
 
 schema:Bookb3306618-6253-4b49-9efe-f2c704499225 a ns1:Book ;
     ns1:author "Fabrice Boulanger"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2023"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2072,7 +2072,7 @@ schema:Bookb3306618-6253-4b49-9efe-f2c704499225 a ns1:Book ;
 
 schema:Bookb3e9428c-330b-4f6a-b619-da15d4620d45 a ns1:Book ;
     ns1:author "Gilles Gauthier"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2082,7 +2082,7 @@ schema:Bookb3e9428c-330b-4f6a-b619-da15d4620d45 a ns1:Book ;
 
 schema:Bookb43a1716-1d46-4bd7-9d0b-38c50ebfe160 a ns1:Book ;
     ns1:author "Sandra Dussault"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2092,7 +2092,7 @@ schema:Bookb43a1716-1d46-4bd7-9d0b-38c50ebfe160 a ns1:Book ;
 
 schema:Bookb49238ac-fdab-47bf-a8d5-a4a7f6d97a5a a ns1:Book ;
     ns1:author "Victoria Grondin"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2102,7 +2102,7 @@ schema:Bookb49238ac-fdab-47bf-a8d5-a4a7f6d97a5a a ns1:Book ;
 
 schema:Bookb4e46b0f-4008-4845-9144-2a2bbe5b261f a ns1:Book ;
     ns1:author "Jean-François Sénéchal"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2112,7 +2112,7 @@ schema:Bookb4e46b0f-4008-4845-9144-2a2bbe5b261f a ns1:Book ;
 
 schema:Bookb71e6d15-0702-4dd2-9586-ee3417fc604a a ns1:Book ;
     ns1:author "Marie Roberge"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2122,7 +2122,7 @@ schema:Bookb71e6d15-0702-4dd2-9586-ee3417fc604a a ns1:Book ;
 
 schema:Bookb9c27607-b9c9-400c-bc4a-f40fd6067306 a ns1:Book ;
     ns1:author "Nancy Montour"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2003"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2133,7 +2133,7 @@ schema:Bookb9c27607-b9c9-400c-bc4a-f40fd6067306 a ns1:Book ;
 schema:Bookba3103dc-f01a-4152-b99f-1f7384b98870 a ns1:Book ;
     ns1:author "Guillaume Perreault"^^xsd:string,
         "Larry Tremblay"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2143,7 +2143,7 @@ schema:Bookba3103dc-f01a-4152-b99f-1f7384b98870 a ns1:Book ;
 
 schema:Bookbc3f2de9-3f3e-40cb-b3ca-87e64e53a892 a ns1:Book ;
     ns1:author "Alain Bergeron (publié sous le pseudonyme Brian Eaglenor)"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2153,7 +2153,7 @@ schema:Bookbc3f2de9-3f3e-40cb-b3ca-87e64e53a892 a ns1:Book ;
 
 schema:Bookbc4c5cc6-3f1a-44b9-8972-e84419b28515 a ns1:Book ;
     ns1:author "Lyne Vanier"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2163,7 +2163,7 @@ schema:Bookbc4c5cc6-3f1a-44b9-8972-e84419b28515 a ns1:Book ;
 
 schema:Bookbdcefb6d-5aa2-402b-a678-d2a8b59ff5dc a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2172,7 +2172,7 @@ schema:Bookbdcefb6d-5aa2-402b-a678-d2a8b59ff5dc a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_walloniebruxelles.html"^^xsd:string .
 
 schema:Bookbf7612fd-d735-4035-8251-8baebf35f7f8 a ns1:Book ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2182,7 +2182,7 @@ schema:Bookbf7612fd-d735-4035-8251-8baebf35f7f8 a ns1:Book ;
 
 schema:Bookbf7df238-461a-43b1-a6a2-9b2c853a7c45 a ns1:Book ;
     ns1:author "Lyne Vanier"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2193,7 +2193,7 @@ schema:Bookbf7df238-461a-43b1-a6a2-9b2c853a7c45 a ns1:Book ;
 schema:Bookc16bd802-1ba8-4e24-aba0-414ca4b9392e a ns1:Book ;
     ns1:author "Caroline Hamel"^^xsd:string,
         "Pierrette Dubé"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2203,7 +2203,7 @@ schema:Bookc16bd802-1ba8-4e24-aba0-414ca4b9392e a ns1:Book ;
 
 schema:Bookc17a1f9b-ef0f-4f68-bc9a-792560d68491 a ns1:Book ;
     ns1:author "Véronique Drouin"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2214,7 +2214,7 @@ schema:Bookc17a1f9b-ef0f-4f68-bc9a-792560d68491 a ns1:Book ;
 schema:Bookc1a578a6-d94e-49bc-aa65-fe438bcd9d8c a ns1:Book ;
     ns1:author "Lire"^^xsd:string,
         "faire lire"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2224,7 +2224,7 @@ schema:Bookc1a578a6-d94e-49bc-aa65-fe438bcd9d8c a ns1:Book ;
 
 schema:Bookc416a0e7-837c-4031-979c-5a28dad33f7d a ns1:Book ;
     ns1:author "Bernadette Renaud"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1977"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2234,7 +2234,7 @@ schema:Bookc416a0e7-837c-4031-979c-5a28dad33f7d a ns1:Book ;
 
 schema:Bookc46e60d4-e3a3-4965-9b2d-397c2ff7e61c a ns1:Book ;
     ns1:author "Philippe Soldevila"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2244,7 +2244,7 @@ schema:Bookc46e60d4-e3a3-4965-9b2d-397c2ff7e61c a ns1:Book ;
 
 schema:Bookc504126a-5fb8-41c6-803c-7e5c5b10ec70 a ns1:Book ;
     ns1:author "Anique Poitras"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2255,7 +2255,7 @@ schema:Bookc504126a-5fb8-41c6-803c-7e5c5b10ec70 a ns1:Book ;
 schema:Bookc58337c7-a621-4b85-b80e-0efa76477d94 a ns1:Book ;
     ns1:author "Henriette Major"^^xsd:string,
         "Philippe Béha"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2265,7 +2265,7 @@ schema:Bookc58337c7-a621-4b85-b80e-0efa76477d94 a ns1:Book ;
 
 schema:Bookc65bf6ff-d775-46f2-bdb4-777b18871688 a ns1:Book ;
     ns1:author "Yvon Brochu"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2275,7 +2275,7 @@ schema:Bookc65bf6ff-d775-46f2-bdb4-777b18871688 a ns1:Book ;
 
 schema:Bookc662bbbe-c46c-4aae-a111-474611725d63 a ns1:Book ;
     ns1:author "Jonathan Bécotte"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2285,7 +2285,7 @@ schema:Bookc662bbbe-c46c-4aae-a111-474611725d63 a ns1:Book ;
 
 schema:Bookc6c4b9f8-91cf-4559-b446-91142d61d3ff a ns1:Book ;
     ns1:author "Martine Latulippe"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2295,7 +2295,7 @@ schema:Bookc6c4b9f8-91cf-4559-b446-91142d61d3ff a ns1:Book ;
 
 schema:Bookc7843a47-b3ac-4877-93f2-8c8bf993cd17 a ns1:Book ;
     ns1:author "Marie-Josée Soucy"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2305,7 +2305,7 @@ schema:Bookc7843a47-b3ac-4877-93f2-8c8bf993cd17 a ns1:Book ;
 
 schema:Bookc800e878-178f-423c-ac53-ddd9ef054208 a ns1:Book ;
     ns1:author "Linda Brousseau"^^xsd:string ;
-    ns1:award "Prix Littéraire Desjardins / Monique-Corriveau"^^xsd:string ;
+    ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
     ns1:datePublished "1994"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2315,7 +2315,7 @@ schema:Bookc800e878-178f-423c-ac53-ddd9ef054208 a ns1:Book ;
 
 schema:Bookc861ccca-1b6e-48dd-959e-c90170134fec a ns1:Book ;
     ns1:author "Andrée Poulin"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2325,7 +2325,7 @@ schema:Bookc861ccca-1b6e-48dd-959e-c90170134fec a ns1:Book ;
 
 schema:Bookc9f8b42a-9e12-448a-a00e-35c570028005 a ns1:Book ;
     ns1:author "Hélène Vachon"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1996"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2335,7 +2335,7 @@ schema:Bookc9f8b42a-9e12-448a-a00e-35c570028005 a ns1:Book ;
 
 schema:Bookca03ec7d-c91d-4609-ab91-236a66744df1 a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2345,7 +2345,7 @@ schema:Bookca03ec7d-c91d-4609-ab91-236a66744df1 a ns1:Book ;
 
 schema:Bookca52286f-806a-4bf8-a00a-3253dd85dac1 a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2354,7 +2354,7 @@ schema:Bookca52286f-806a-4bf8-a00a-3253dd85dac1 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string .
 
 schema:Bookca92c8d8-f055-4d9e-88c4-11b043220e4a a ns1:Book ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2364,7 +2364,7 @@ schema:Bookca92c8d8-f055-4d9e-88c4-11b043220e4a a ns1:Book ;
 
 schema:Bookca9d63ba-1ee8-4bd7-bbc9-65b725835da5 a ns1:Book ;
     ns1:author "Rachel Gilbert"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2374,7 +2374,7 @@ schema:Bookca9d63ba-1ee8-4bd7-bbc9-65b725835da5 a ns1:Book ;
 
 schema:Bookcb20354c-6dc3-4ce6-aaa0-9c4f2af64a35 a ns1:Book ;
     ns1:author "D'après Andersen"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "1995"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2384,7 +2384,7 @@ schema:Bookcb20354c-6dc3-4ce6-aaa0-9c4f2af64a35 a ns1:Book ;
 
 schema:Bookcb46ab3c-dc28-4702-8810-1f7d9454f397 a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2394,7 +2394,7 @@ schema:Bookcb46ab3c-dc28-4702-8810-1f7d9454f397 a ns1:Book ;
 
 schema:Bookcbfbb9a7-b902-4544-80c1-82483b949624 a ns1:Book ;
     ns1:author "Gilles Gauthier"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2404,7 +2404,7 @@ schema:Bookcbfbb9a7-b902-4544-80c1-82483b949624 a ns1:Book ;
 
 schema:Bookccdaecc1-3576-4bb7-8f00-98f2e475696e a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2414,7 +2414,7 @@ schema:Bookccdaecc1-3576-4bb7-8f00-98f2e475696e a ns1:Book ;
 
 schema:Bookce2c174e-4048-42cf-9c64-eb91b41063f7 a ns1:Book ;
     ns1:author "Jean-Frédéric Messier"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2425,7 +2425,7 @@ schema:Bookce2c174e-4048-42cf-9c64-eb91b41063f7 a ns1:Book ;
 schema:Bookcef5bb1c-6ca8-4cfb-b790-abc4b25a0107 a ns1:Book ;
     ns1:author "Andrée Poulin"^^xsd:string,
         "Jean Morin"^^xsd:string ;
-    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec"^^xsd:string ;
+    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2435,7 +2435,7 @@ schema:Bookcef5bb1c-6ca8-4cfb-b790-abc4b25a0107 a ns1:Book ;
 
 schema:Bookcf66712d-01dd-40db-9c6b-96d85fc1eb69 a ns1:Book ;
     ns1:author "Joël Champetier"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "1995"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2445,7 +2445,7 @@ schema:Bookcf66712d-01dd-40db-9c6b-96d85fc1eb69 a ns1:Book ;
 
 schema:Bookcfe7f873-1e44-47ba-a731-4e70da8c870d a ns1:Book ;
     ns1:author "Danielle Simard"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2455,7 +2455,7 @@ schema:Bookcfe7f873-1e44-47ba-a731-4e70da8c870d a ns1:Book ;
 
 schema:Bookd02b22f0-3ad6-4e14-b6be-67dcdf772efc a ns1:Book ;
     ns1:author "Carole Tremblay"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2465,7 +2465,7 @@ schema:Bookd02b22f0-3ad6-4e14-b6be-67dcdf772efc a ns1:Book ;
 
 schema:Bookd1b4144a-2f33-4265-bf42-115accc16f3d a ns1:Book ;
     ns1:author "Marie-Francine Hébert"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1988"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2476,7 +2476,7 @@ schema:Bookd1b4144a-2f33-4265-bf42-115accc16f3d a ns1:Book ;
 schema:Bookd298445f-c32b-4cc6-8a58-303c7a2a38bb a ns1:Book ;
     ns1:author "Alain M. Bergeron, Fil"^^xsd:string,
         "Julie"^^xsd:string ;
-    ns1:award "Prix Magazine Enfants Québec Du Meilleur Album Jeunesse"^^xsd:string ;
+    ns1:award "Prix Magazine Enfants Québec Du Meilleur Album Jeunesse" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2486,7 +2486,7 @@ schema:Bookd298445f-c32b-4cc6-8a58-303c7a2a38bb a ns1:Book ;
 
 schema:Bookd314d615-27b9-4a61-95f3-802bf1aff64a a ns1:Book ;
     ns1:author "Christiane Duchesne"^^xsd:string ;
-    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
+    ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2496,7 +2496,7 @@ schema:Bookd314d615-27b9-4a61-95f3-802bf1aff64a a ns1:Book ;
 
 schema:Bookd371335b-0580-46cf-809f-445744b533af a ns1:Book ;
     ns1:author "Angèle Delaunois"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2506,7 +2506,7 @@ schema:Bookd371335b-0580-46cf-809f-445744b533af a ns1:Book ;
 
 schema:Bookd419e8c3-7388-49c3-9df7-b5f1cf63ea47 a ns1:Book ;
     ns1:author "Hélène Gagnier"^^xsd:string ;
-    ns1:award "Prix Littéraire Desjardins / Monique-Corriveau"^^xsd:string ;
+    ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
     ns1:datePublished "1991"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2516,7 +2516,7 @@ schema:Bookd419e8c3-7388-49c3-9df7-b5f1cf63ea47 a ns1:Book ;
 
 schema:Bookd43a3675-6e2e-4691-8a6f-9966097b87b7 a ns1:Book ;
     ns1:author "Pierre Labrie"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2526,7 +2526,7 @@ schema:Bookd43a3675-6e2e-4691-8a6f-9966097b87b7 a ns1:Book ;
 
 schema:Bookd53ffb85-ce51-4687-9226-4edcd62fe887 a ns1:Book ;
     ns1:author "Annie Legrandeur"^^xsd:string ;
-    ns1:award "Prix Littéraire Suzanne Pouliot Et Antoine Sirois"^^xsd:string ;
+    ns1:award "Prix Littéraire Suzanne Pouliot Et Antoine Sirois" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2536,7 +2536,7 @@ schema:Bookd53ffb85-ce51-4687-9226-4edcd62fe887 a ns1:Book ;
 
 schema:Bookd5612b85-f963-46af-9df4-b817c466d66a a ns1:Book ;
     ns1:author "Louise Leblanc"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
+    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
     ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2546,7 +2546,7 @@ schema:Bookd5612b85-f963-46af-9df4-b817c466d66a a ns1:Book ;
 
 schema:Bookd566c7cf-d069-4720-9023-27c472f62a86 a ns1:Book ;
     ns1:author "Orbie"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2556,7 +2556,7 @@ schema:Bookd566c7cf-d069-4720-9023-27c472f62a86 a ns1:Book ;
 
 schema:Bookd5d20bf7-3e70-41a1-9db3-b7fb51868b0b a ns1:Book ;
     ns1:author "Yves Nadon"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2566,7 +2566,7 @@ schema:Bookd5d20bf7-3e70-41a1-9db3-b7fb51868b0b a ns1:Book ;
 
 schema:Bookd663c49e-6621-4549-a2d7-2edea9c64631 a ns1:Book ;
     ns1:author "Suzanne Lebeau"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "1994"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2576,7 +2576,7 @@ schema:Bookd663c49e-6621-4549-a2d7-2edea9c64631 a ns1:Book ;
 
 schema:Bookd6e37f5d-a382-413a-9652-9ce0557c11fd a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2586,7 +2586,7 @@ schema:Bookd6e37f5d-a382-413a-9652-9ce0557c11fd a ns1:Book ;
 
 schema:Bookd8a6e920-09dc-409c-af5f-66023a6e7cd1 a ns1:Book ;
     ns1:author "Anne-Marie Théroux"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2596,7 +2596,7 @@ schema:Bookd8a6e920-09dc-409c-af5f-66023a6e7cd1 a ns1:Book ;
 
 schema:Bookd9095772-5b97-463f-9d21-4e2b0b163b16 a ns1:Book ;
     ns1:author "Patrice Cazeault"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2606,7 +2606,7 @@ schema:Bookd9095772-5b97-463f-9d21-4e2b0b163b16 a ns1:Book ;
 
 schema:Bookd91843ae-12d0-49b8-b33f-098933e46769 a ns1:Book ;
     ns1:author "Danielle Simard"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2616,7 +2616,7 @@ schema:Bookd91843ae-12d0-49b8-b33f-098933e46769 a ns1:Book ;
 
 schema:Bookda461772-943e-4800-a357-9d1976ecadee a ns1:Book ;
     ns1:author "Vigg (Vincent Gagnon)"^^xsd:string ;
-    ns1:award "Prix Harry-Black De L’Album Jeunesse"^^xsd:string ;
+    ns1:award "Prix Harry-Black De L’Album Jeunesse" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2626,7 +2626,7 @@ schema:Bookda461772-943e-4800-a357-9d1976ecadee a ns1:Book ;
 
 schema:Bookdcae2234-f2f1-4053-8664-648925629cf2 a ns1:Book ;
     ns1:author "Jasmine Dubé"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2636,7 +2636,7 @@ schema:Bookdcae2234-f2f1-4053-8664-648925629cf2 a ns1:Book ;
 
 schema:Bookdcbbd561-d2b9-4962-926f-a0847f6b926c a ns1:Book ;
     ns1:author "Hervé Gagnon"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2646,7 +2646,7 @@ schema:Bookdcbbd561-d2b9-4962-926f-a0847f6b926c a ns1:Book ;
 
 schema:Bookde96112d-7d5c-45d7-93c2-117268b1d2b4 a ns1:Book ;
     ns1:author "Marjolaine Bouchard"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2656,7 +2656,7 @@ schema:Bookde96112d-7d5c-45d7-93c2-117268b1d2b4 a ns1:Book ;
 
 schema:Bookdefc0a26-8d08-47fb-bc48-6f4e912c40c0 a ns1:Book ;
     ns1:author "non attribué"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2666,7 +2666,7 @@ schema:Bookdefc0a26-8d08-47fb-bc48-6f4e912c40c0 a ns1:Book ;
 
 schema:Bookdf3bae2d-ed80-4bff-9132-39e68abc330b a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2676,7 +2676,7 @@ schema:Bookdf3bae2d-ed80-4bff-9132-39e68abc330b a ns1:Book ;
 
 schema:Bookdfd61390-9f9c-4e87-bb37-b3083fe279f7 a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2686,18 +2686,18 @@ schema:Bookdfd61390-9f9c-4e87-bb37-b3083fe279f7 a ns1:Book ;
 
 schema:Booke10b1b63-a8dc-4ba6-ad5e-77cc93479683 a ns1:Book ;
     ns1:author "Martin Fournier"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Les aventures de Radisson t.3 L'année des \r
+    ns1:name """Les aventures de Radisson t.3 L'année des \r\r\r
  surhommes"""^^xsd:string ;
     ns1:publisher "Septentrion" ;
     ns1:url "https://www.lurelu.net/prixlitt_villedequebec.html"^^xsd:string .
 
 schema:Booke27e218f-a22c-4227-9dbb-3b642dd5fcf8 a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
-    ns1:award "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string ;
+    ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2707,7 +2707,7 @@ schema:Booke27e218f-a22c-4227-9dbb-3b642dd5fcf8 a ns1:Book ;
 
 schema:Booke2cb7f08-facc-4571-a96a-40ad0dff1db8 a ns1:Book ;
     ns1:author "Louis-Pier Sicard"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2717,7 +2717,7 @@ schema:Booke2cb7f08-facc-4571-a96a-40ad0dff1db8 a ns1:Book ;
 
 schema:Booke66bf858-b311-41ab-90ff-5ec2a173e1c8 a ns1:Book ;
     ns1:author "Marie-Francine Hébert"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2003"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2728,7 +2728,7 @@ schema:Booke66bf858-b311-41ab-90ff-5ec2a173e1c8 a ns1:Book ;
 schema:Booke6afa1f8-44ff-47a9-8270-3e0f6a87ba2b a ns1:Book ;
     ns1:author "R. Lacroix, A. Laliberté"^^xsd:string,
         "R. Morin"^^xsd:string ;
-    ns1:award "Masque De La Production «Jeunes Publics»"^^xsd:string ;
+    ns1:award "Masque De La Production «Jeunes Publics»" ;
     ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2737,7 +2737,7 @@ schema:Booke6afa1f8-44ff-47a9-8270-3e0f6a87ba2b a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_masque.html"^^xsd:string .
 
 schema:Booke73ccc0a-df94-48b7-a715-0ff7f8c86f88 a ns1:Book ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2747,7 +2747,7 @@ schema:Booke73ccc0a-df94-48b7-a715-0ff7f8c86f88 a ns1:Book ;
 
 schema:Booke98759cd-b551-49f0-8ab4-b4232d5220a4 a ns1:Book ;
     ns1:author "Catherine Ferland"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2757,7 +2757,7 @@ schema:Booke98759cd-b551-49f0-8ab4-b4232d5220a4 a ns1:Book ;
 
 schema:Booke9bba1d4-212b-48b8-bfaa-e3f8e5db08f4 a ns1:Book ;
     ns1:author "Bryan Perro"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2767,18 +2767,18 @@ schema:Booke9bba1d4-212b-48b8-bfaa-e3f8e5db08f4 a ns1:Book ;
 
 schema:Bookea5d58ee-6f82-46e9-9ad6-23b9f9610706 a ns1:Book ;
     ns1:author "Jean-François Sénéchal"^^xsd:string ;
-    ns1:award "Grand Prix Du Livre De La Montérégie"^^xsd:string ;
+    ns1:award "Grand Prix Du Livre De La Montérégie" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """L'enquête secrète \r
+    ns1:name """L'enquête secrète \r\r\r
  de la ruelle"""^^xsd:string ;
     ns1:publisher "Jules La Mouche" ;
     ns1:url "https://www.lurelu.net/prixlitt_monteregie.html"^^xsd:string .
 
 schema:Bookeb0ad541-d0bb-49c1-8385-1a1c9cec7a2a a ns1:Book ;
     ns1:author "Samuel Archibald"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2788,7 +2788,7 @@ schema:Bookeb0ad541-d0bb-49c1-8385-1a1c9cec7a2a a ns1:Book ;
 
 schema:Bookec4b62ef-82fd-4f13-bf61-47960fb03a8f a ns1:Book ;
     ns1:author "Hélène Vachon"^^xsd:string ;
-    ns1:award "Prix Littéraire Desjardins / Monique-Corriveau"^^xsd:string ;
+    ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
     ns1:datePublished "1995"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2798,7 +2798,7 @@ schema:Bookec4b62ef-82fd-4f13-bf61-47960fb03a8f a ns1:Book ;
 
 schema:Bookec588a74-a698-44ac-afd5-3f12ca49d723 a ns1:Book ;
     ns1:author "Marc-André Pilon"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2809,7 +2809,7 @@ schema:Bookec588a74-a698-44ac-afd5-3f12ca49d723 a ns1:Book ;
 schema:Bookeef2bbd9-1da1-4eca-a2d8-32dd8a1b8c16 a ns1:Book ;
     ns1:author "Lina Rousseau"^^xsd:string,
         "Marie-Claude Favreau"^^xsd:string ;
-    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec"^^xsd:string ;
+    ns1:award "Prix Des Abonnés De La Bibliothèque De Québec" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2819,7 +2819,7 @@ schema:Bookeef2bbd9-1da1-4eca-a2d8-32dd8a1b8c16 a ns1:Book ;
 
 schema:Bookf01b2c83-8c91-4536-a3a1-337839bee96d a ns1:Book ;
     ns1:author "Véronique Drouin"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Univers Parallèles"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2829,7 +2829,7 @@ schema:Bookf01b2c83-8c91-4536-a3a1-337839bee96d a ns1:Book ;
 
 schema:Bookf166499c-f130-438c-ac60-6e3911509b3f a ns1:Book ;
     ns1:author "Sandra Dussault"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2839,7 +2839,7 @@ schema:Bookf166499c-f130-438c-ac60-6e3911509b3f a ns1:Book ;
 
 schema:Bookf2129def-0e96-4349-a3a2-cda1884a4003 a ns1:Book ;
     ns1:author "Communication-Jeunesse"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2849,7 +2849,7 @@ schema:Bookf2129def-0e96-4349-a3a2-cda1884a4003 a ns1:Book ;
 
 schema:Bookf32803ec-c31f-4b46-b7f7-7f40bcb55137 a ns1:Book ;
     ns1:author "La revue"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2859,7 +2859,7 @@ schema:Bookf32803ec-c31f-4b46-b7f7-7f40bcb55137 a ns1:Book ;
 
 schema:Bookf387bdd5-32a5-49b6-bfd1-a31e36916688 a ns1:Book ;
     ns1:author "Frédéric Tremblay"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon"^^xsd:string ;
+    ns1:award "Prix Cécile-Gagnon" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2869,7 +2869,7 @@ schema:Bookf387bdd5-32a5-49b6-bfd1-a31e36916688 a ns1:Book ;
 
 schema:Bookf4038777-636a-4549-af1a-2760dc939b05 a ns1:Book ;
     ns1:author "Lyne Vanier"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2879,7 +2879,7 @@ schema:Bookf4038777-636a-4549-af1a-2760dc939b05 a ns1:Book ;
 
 schema:Bookf470360c-cfc6-417d-8389-2310cc6da5af a ns1:Book ;
     ns1:author "François Gravel"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2889,7 +2889,7 @@ schema:Bookf470360c-cfc6-417d-8389-2310cc6da5af a ns1:Book ;
 
 schema:Bookf6262a0c-3732-4f2c-946f-c76a6b17340a a ns1:Book ;
     ns1:author "Lyne Vanier"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2899,7 +2899,7 @@ schema:Bookf6262a0c-3732-4f2c-946f-c76a6b17340a a ns1:Book ;
 
 schema:Bookf65eca2e-04e0-4085-a8ee-b3876bc0b69f a ns1:Book ;
     ns1:author "Alain Beaulieu"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2909,7 +2909,7 @@ schema:Bookf65eca2e-04e0-4085-a8ee-b3876bc0b69f a ns1:Book ;
 
 schema:Bookf73e95ae-9f69-49ed-95f6-b77ec8243476 a ns1:Book ;
     ns1:author "Élizabeth Lepage-Boily"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliotheque De Québec — Salon International Du Livre De Québec"^^xsd:string ;
+    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2919,7 +2919,7 @@ schema:Bookf73e95ae-9f69-49ed-95f6-b77ec8243476 a ns1:Book ;
 
 schema:Bookf8a97eb7-5e16-48ae-bd12-921c216016df a ns1:Book ;
     ns1:author "La Fondation pour l'Alphabétisation"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante"^^xsd:string ;
+    ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2929,7 +2929,7 @@ schema:Bookf8a97eb7-5e16-48ae-bd12-921c216016df a ns1:Book ;
 
 schema:Bookf9335470-9478-498d-9151-f618a041fbfe a ns1:Book ;
     ns1:author "Isabel Brochu"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay—Lac-Saint-Jean"^^xsd:string ;
+    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2003"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2939,7 +2939,7 @@ schema:Bookf9335470-9478-498d-9151-f618a041fbfe a ns1:Book ;
 
 schema:Bookfa885b36-a7f4-48cc-b6cc-36ea9e079e09 a ns1:Book ;
     ns1:author "Gilles Gauthier"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1989"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;

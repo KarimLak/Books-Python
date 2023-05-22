@@ -84,7 +84,7 @@ schema:Book89274a64-758b-45d7-88ad-124245c42bf8 a ns1:Book ;
 
 schema:Book9d8ea186-1088-4b6f-83b5-4afc96fe0a04 a ns1:Book ;
     ns1:author "Marie-Hélène Voyer"^^xsd:string ;
-    ns1:award "Lauréat 2023 essai"^^xsd:string ;
+    ns1:award "Lauréat 2023 Essai Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Avec L’habitude des ruines, Marie-Hélène Voyer signe un texte magnifique sur le rapport trouble du Québec au temps et à l’espace. Elle y parle de nos démolitions en série, de notre manière d’habiter ce territoire en nous berçant trop souvent d’images empruntées. Elle pose ainsi une question fondamentale: peut-on bâtir ce pays sans le détruire et sans verser dans l’insignifiance? Son essai offre un plaidoyer pour ces lieux modestes qui forment l’ordinaire de nos vies et qui dessinent les refuges de nos espoirs et de nos solidarités."^^xsd:string,
         "Lauréat 2023 essai"^^xsd:string ;

@@ -125,7 +125,7 @@ schema:Book27fce1f6-4c1b-475d-ba94-f7b8d952069f a ns1:Book ;
 
 schema:Book40eb9b7c-e6ea-4722-a837-c4344e5018d8 a ns1:Book ;
     ns1:author "Dominique Scali"^^xsd:string ;
-    ns1:award "Lauréat Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:award "Lauréats Roman-Nouvelles-Récit 2023 Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Danaé Berrubé-Portanguen dite Poussin possède le rare don de savoir nager. Orpheline, tour à tour sauveuse et naufrageuse, elle vit au milieu de l’Atlantique, sur l’île d’Ys, berceau d’un peuple obsédé par l’honneur et le courage. Une île où même les terriens se vantent d’être marins, où seuls les plus braves ont le privilège de vivre dans la cité fortifiée à l’abri des grandes marées d’équinoxe. Suivant le destin des riverains qui doivent se partager plages et marges, Danaé Poussin se soumettra aux cycles qui animent les mouvements de la mer comme à ceux qui régissent le cœur des hommes."^^xsd:string,
         "Lauréat Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
@@ -258,7 +258,7 @@ schema:Book9cc05e9e-39cf-4ba0-ae89-25d8a3722998 a ns1:Book ;
 
 schema:Bookafa26191-31ed-49ef-ab30-e6c5bdec1e0f a ns1:Book ;
     ns1:author "Andreï Kourkov"^^xsd:string ;
-    ns1:award "Lauréat Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:award "Lauréats Roman-Nouvelles-Récit 2023 Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Lauréat Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
         "Seuls habitants d’un petit village de la zone grise, coincé entre l’armée ukrainienne et les séparatistes prorusses, Sergueïtch et Pachka s’associent malgré leurs opinions divergentes vis-à-vis du conflit. Apiculteur passionné, Sergueïtch attend le printemps pour déplacer ses six ruches dans un lieu plus calme dans l’ouest de l’Ukraine."^^xsd:string ;
