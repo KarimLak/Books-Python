@@ -6,7 +6,7 @@ schema:Book01bbdc33-2215-4720-8bfe-581ca95c8333 a ns1:Book ;
     ns1:author "Nathalie Dion"^^xsd:string,
         "Valérie Fontaine"^^xsd:string ;
     ns1:award "Le Prix Espiègle" ;
-    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Primaire"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -17,7 +17,7 @@ schema:Book01bbdc33-2215-4720-8bfe-581ca95c8333 a ns1:Book ;
 schema:Book03447256-3b85-4daa-ba27-94a45a60effc a ns1:Book ;
     ns1:author "Ginette Anfousse"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1978"^^xsd:gYear ;
+    ns1:datePublished "1976"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -28,7 +28,7 @@ schema:Book03447256-3b85-4daa-ba27-94a45a60effc a ns1:Book ;
 schema:Book03adace3-331a-44da-9369-4435b1928c4a a ns1:Book ;
     ns1:author "Delphie Côté Lacroix etStéphanie Lapointe"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Livre illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -39,7 +39,7 @@ schema:Book03adace3-331a-44da-9369-4435b1928c4a a ns1:Book ;
 schema:Book03fcd73c-944d-49b8-8449-92d9f51ba5e2 a ns1:Book ;
     ns1:author "Marie-Louise Gay"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "1987"^^xsd:gYear ;
+    ns1:datePublished "1985"^^xsd:gYear ;
     ns1:genre "Illustration, volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -50,7 +50,7 @@ schema:Book03fcd73c-944d-49b8-8449-92d9f51ba5e2 a ns1:Book ;
 schema:Book048d2993-31da-47e9-9dd8-30ddf8d73f2a a ns1:Book ;
     ns1:author "Stéphane Jorisch"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "1999"^^xsd:gYear ;
+    ns1:datePublished "1997"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -61,7 +61,7 @@ schema:Book048d2993-31da-47e9-9dd8-30ddf8d73f2a a ns1:Book ;
 schema:Book06a22c6c-12e0-4e3f-b8f3-5220dfa3f8cc a ns1:Book ;
     ns1:author "Nathalie Dion"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -72,7 +72,7 @@ schema:Book06a22c6c-12e0-4e3f-b8f3-5220dfa3f8cc a ns1:Book ;
 schema:Book06de60ab-483f-4148-a09b-71eb538aaa9a a ns1:Book ;
     ns1:author "Marilyn Faucher"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -83,7 +83,7 @@ schema:Book06de60ab-483f-4148-a09b-71eb538aaa9a a ns1:Book ;
 schema:Book07012ffd-5475-49a0-8428-ddc1161a753d a ns1:Book ;
     ns1:author "Luc Melanson"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "1999"^^xsd:gYear ;
+    ns1:datePublished "1997"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -94,7 +94,7 @@ schema:Book07012ffd-5475-49a0-8428-ddc1161a753d a ns1:Book ;
 schema:Book07cf91d5-a065-4927-a776-dc5f39ec0aa2 a ns1:Book ;
     ns1:author "Bertrand Gauthier"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1980"^^xsd:gYear ;
+    ns1:datePublished "1978"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -105,7 +105,7 @@ schema:Book07cf91d5-a065-4927-a776-dc5f39ec0aa2 a ns1:Book ;
 schema:Book08443576-9c37-4af7-a6bb-d8e2b5ea53a9 a ns1:Book ;
     ns1:author "ValMo"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2020"^^xsd:gYear ;
+    ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -116,7 +116,7 @@ schema:Book08443576-9c37-4af7-a6bb-d8e2b5ea53a9 a ns1:Book ;
 schema:Book09b3467b-64af-4b43-88ef-e2e7ee316137 a ns1:Book ;
     ns1:author "Roger Paré"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1979"^^xsd:gYear ;
+    ns1:datePublished "1977"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -127,7 +127,7 @@ schema:Book09b3467b-64af-4b43-88ef-e2e7ee316137 a ns1:Book ;
 schema:Book0a1e1d75-d31e-4e49-91bb-c650d8c98176 a ns1:Book ;
     ns1:author "Suzanne Duranceau. Illustration dans le recueil"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1981"^^xsd:gYear ;
+    ns1:datePublished "1979"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Professionnel"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -138,7 +138,7 @@ schema:Book0a1e1d75-d31e-4e49-91bb-c650d8c98176 a ns1:Book ;
 schema:Book0c02c939-acb0-4ef8-b2f6-634e1072584d a ns1:Book ;
     ns1:author "Isabelle Arsenault"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -149,7 +149,7 @@ schema:Book0c02c939-acb0-4ef8-b2f6-634e1072584d a ns1:Book ;
 schema:Book0c9428f4-3b24-4e0e-8cd2-18df9807ae19 a ns1:Book ;
     ns1:author "Linda Bailey"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -160,7 +160,7 @@ schema:Book0c9428f4-3b24-4e0e-8cd2-18df9807ae19 a ns1:Book ;
 schema:Book0da42a11-56e6-43c4-9ed4-3eae7362fb0a a ns1:Book ;
     ns1:author "Émilie Rivard"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -171,7 +171,7 @@ schema:Book0da42a11-56e6-43c4-9ed4-3eae7362fb0a a ns1:Book ;
 schema:Book0f31107b-ae48-47bd-9c7a-b23980f426e8 a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Album 5 à 8 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -182,7 +182,7 @@ schema:Book0f31107b-ae48-47bd-9c7a-b23980f426e8 a ns1:Book ;
 schema:Book0fadbace-361e-43f2-864f-4730e9cc7fe5 a ns1:Book ;
     ns1:author "Isabelle Arsenault"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Illustration, volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -193,7 +193,7 @@ schema:Book0fadbace-361e-43f2-864f-4730e9cc7fe5 a ns1:Book ;
 schema:Book103cb469-6921-45c6-bca5-49e4bfcc34e8 a ns1:Book ;
     ns1:author "Stéphane Poulin"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -204,7 +204,7 @@ schema:Book103cb469-6921-45c6-bca5-49e4bfcc34e8 a ns1:Book ;
 schema:Book10e61647-96ae-463d-bacb-58a999cb4963 a ns1:Book ;
     ns1:author "Stéphane Poulin"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1986"^^xsd:gYear ;
+    ns1:datePublished "1984"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -215,7 +215,7 @@ schema:Book10e61647-96ae-463d-bacb-58a999cb4963 a ns1:Book ;
 schema:Book1156a9f0-8a84-457c-b5f9-44d2bc64fd1c a ns1:Book ;
     ns1:author "Christiane Duchesne"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1994"^^xsd:gYear ;
+    ns1:datePublished "1992"^^xsd:gYear ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -226,7 +226,7 @@ schema:Book1156a9f0-8a84-457c-b5f9-44d2bc64fd1c a ns1:Book ;
 schema:Book12daa076-7646-4b04-a3b9-a4b4102b5370 a ns1:Book ;
     ns1:author "Charlotte Gingras"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -237,7 +237,7 @@ schema:Book12daa076-7646-4b04-a3b9-a4b4102b5370 a ns1:Book ;
 schema:Book1478a3ca-8652-4c17-96ec-d629338a0cd9 a ns1:Book ;
     ns1:author "Josée Bisaillon"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -248,7 +248,7 @@ schema:Book1478a3ca-8652-4c17-96ec-d629338a0cd9 a ns1:Book ;
 schema:Book14a66e16-d7ef-4d57-8094-2c634f7238c0 a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1994"^^xsd:gYear ;
+    ns1:datePublished "1992"^^xsd:gYear ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -259,7 +259,7 @@ schema:Book14a66e16-d7ef-4d57-8094-2c634f7238c0 a ns1:Book ;
 schema:Book14ee3a4a-5558-4742-abf5-4f0f80b99d97 a ns1:Book ;
     ns1:author "Céline Malépart"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -270,7 +270,7 @@ schema:Book14ee3a4a-5558-4742-abf5-4f0f80b99d97 a ns1:Book ;
 schema:Book1671c26a-6641-4a8f-9c63-11fe87a9d516 a ns1:Book ;
     ns1:author "Renée Grégoire"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1981"^^xsd:gYear ;
+    ns1:datePublished "1979"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -281,7 +281,7 @@ schema:Book1671c26a-6641-4a8f-9c63-11fe87a9d516 a ns1:Book ;
 schema:Book171f4eed-3bdf-4d80-b7fe-0e178372a5bc a ns1:Book ;
     ns1:author "Christiane Duchesne"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1996"^^xsd:gYear ;
+    ns1:datePublished "1994"^^xsd:gYear ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -292,7 +292,7 @@ schema:Book171f4eed-3bdf-4d80-b7fe-0e178372a5bc a ns1:Book ;
 schema:Book180ffc88-c2c4-4354-a83a-67d6a9968c66 a ns1:Book ;
     ns1:author "Michelle Lemieux"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1988"^^xsd:gYear ;
+    ns1:datePublished "1986"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Professionnel"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -303,7 +303,7 @@ schema:Book180ffc88-c2c4-4354-a83a-67d6a9968c66 a ns1:Book ;
 schema:Book1a534bfe-e59c-4aa0-997b-ab83b0a40780 a ns1:Book ;
     ns1:author "Véronique Drouin"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -314,7 +314,7 @@ schema:Book1a534bfe-e59c-4aa0-997b-ab83b0a40780 a ns1:Book ;
 schema:Book1c5b1b61-01dd-420e-9e56-67c4c37393d4 a ns1:Book ;
     ns1:author "Jean-Rock Gaudreault"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Théâtre"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -325,7 +325,7 @@ schema:Book1c5b1b61-01dd-420e-9e56-67c4c37393d4 a ns1:Book ;
 schema:Book1c6add99-08e7-4f23-9a5b-d21678728bc4 a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2020"^^xsd:gYear ;
+    ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -336,7 +336,7 @@ schema:Book1c6add99-08e7-4f23-9a5b-d21678728bc4 a ns1:Book ;
 schema:Book1ca0a57d-f94b-45ca-9ed2-808dbd099e49 a ns1:Book ;
     ns1:author "Roger Paré"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1985"^^xsd:gYear ;
+    ns1:datePublished "1983"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -347,7 +347,7 @@ schema:Book1ca0a57d-f94b-45ca-9ed2-808dbd099e49 a ns1:Book ;
 schema:Book1ca84879-a33f-4e15-bbec-3c9f914d3d44 a ns1:Book ;
     ns1:author "Jean Lacombe"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -358,7 +358,7 @@ schema:Book1ca84879-a33f-4e15-bbec-3c9f914d3d44 a ns1:Book ;
 schema:Book1de5827a-ea56-4694-ab58-5aa31c958609 a ns1:Book ;
     ns1:author "Samuel Parent"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -369,7 +369,7 @@ schema:Book1de5827a-ea56-4694-ab58-5aa31c958609 a ns1:Book ;
 schema:Book1df334e9-b7ba-49fc-a768-53bb9eadf86b a ns1:Book ;
     ns1:author "Stanley Péan"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -381,7 +381,7 @@ schema:Book1e62e746-65c5-4000-8af7-d489ce7e0502 a ns1:Book ;
     ns1:author "Geneviève Darling"^^xsd:string,
         "Lucile de Peslouan"^^xsd:string ;
     ns1:award "Le Prix Espiègle" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Secondaire"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -393,7 +393,7 @@ schema:Book1e94aab0-0497-48d7-a8aa-0e1a102f4e0b a ns1:Book ;
     ns1:author "Gabriella Gendreau"^^xsd:string,
         "Nahid Kazemi"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Album 5 à 8 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -404,7 +404,7 @@ schema:Book1e94aab0-0497-48d7-a8aa-0e1a102f4e0b a ns1:Book ;
 schema:Book1f104b84-134b-4344-a62e-425553bec270 a ns1:Book ;
     ns1:author "Linda Amyot"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -415,7 +415,7 @@ schema:Book1f104b84-134b-4344-a62e-425553bec270 a ns1:Book ;
 schema:Book1f6e1c07-c329-4abc-9b30-83cdb60ae753 a ns1:Book ;
     ns1:author "Angèle Delaunois"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "1998"^^xsd:gYear ;
+    ns1:datePublished "1996"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -426,7 +426,7 @@ schema:Book1f6e1c07-c329-4abc-9b30-83cdb60ae753 a ns1:Book ;
 schema:Book1f965b45-4735-4b01-b0fc-0f2c7d313d02 a ns1:Book ;
     ns1:author "Anne Villeneuve"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -437,7 +437,7 @@ schema:Book1f965b45-4735-4b01-b0fc-0f2c7d313d02 a ns1:Book ;
 schema:Book20372999-5d0e-4ae8-bd30-0ae32586d3b7 a ns1:Book ;
     ns1:author "Matthieu Legault"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "13 ans et +"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -448,7 +448,7 @@ schema:Book20372999-5d0e-4ae8-bd30-0ae32586d3b7 a ns1:Book ;
 schema:Book20854918-7035-4758-b739-b1c20aca1008 a ns1:Book ;
     ns1:author "Marie-Louise Gay"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -459,7 +459,7 @@ schema:Book20854918-7035-4758-b739-b1c20aca1008 a ns1:Book ;
 schema:Book20b456d0-8c4d-4964-a1ea-42a78f4fde17 a ns1:Book ;
     ns1:author "Jean Lemieux"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1996"^^xsd:gYear ;
+    ns1:datePublished "1994"^^xsd:gYear ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -470,7 +470,7 @@ schema:Book20b456d0-8c4d-4964-a1ea-42a78f4fde17 a ns1:Book ;
 schema:Book21c398b5-c229-4219-bfc0-1a97eab8e870 a ns1:Book ;
     ns1:author "Dominique Jolin"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1993"^^xsd:gYear ;
+    ns1:datePublished "1991"^^xsd:gYear ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -481,7 +481,7 @@ schema:Book21c398b5-c229-4219-bfc0-1a97eab8e870 a ns1:Book ;
 schema:Book2223c0b6-18ea-46c9-9d40-17464646fd3c a ns1:Book ;
     ns1:author "Philippe Béha"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1990"^^xsd:gYear ;
+    ns1:datePublished "1988"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -493,7 +493,7 @@ schema:Book23a24a24-1ffa-4c56-aca0-7f9317a50a08 a ns1:Book ;
     ns1:author "Pierre Pratt"^^xsd:string,
         "Rémy Simard"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1995"^^xsd:gYear ;
+    ns1:datePublished "1993"^^xsd:gYear ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -504,7 +504,7 @@ schema:Book23a24a24-1ffa-4c56-aca0-7f9317a50a08 a ns1:Book ;
 schema:Book23bb391b-33f7-42fe-8ff7-385abf19d573 a ns1:Book ;
     ns1:author "Pierre Labrie"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Roman 9 à 12 ans"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -515,7 +515,7 @@ schema:Book23bb391b-33f7-42fe-8ff7-385abf19d573 a ns1:Book ;
 schema:Book24b871f9-e602-4180-a0e2-a5f6457a0755 a ns1:Book ;
     ns1:author "François Barcelo"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -526,7 +526,7 @@ schema:Book24b871f9-e602-4180-a0e2-a5f6457a0755 a ns1:Book ;
 schema:Book2585dbdd-449d-4c5f-9b5d-d8048b72d4fe a ns1:Book ;
     ns1:author "Stéphane Jorisch"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Illustration, volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -537,7 +537,7 @@ schema:Book2585dbdd-449d-4c5f-9b5d-d8048b72d4fe a ns1:Book ;
 schema:Book26d80e85-cd29-4d01-b0b4-c1d637b5351e a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "5 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -548,7 +548,7 @@ schema:Book26d80e85-cd29-4d01-b0b4-c1d637b5351e a ns1:Book ;
 schema:Book26f50d6e-9de5-4e12-b738-f24a1a6c3769 a ns1:Book ;
     ns1:author "Sylvain Trudel"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -559,7 +559,7 @@ schema:Book26f50d6e-9de5-4e12-b738-f24a1a6c3769 a ns1:Book ;
 schema:Book276b2cde-6a14-4af3-96f4-d2bd211579ac a ns1:Book ;
     ns1:author "Véronique Drouin"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2020"^^xsd:gYear ;
+    ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -570,7 +570,7 @@ schema:Book276b2cde-6a14-4af3-96f4-d2bd211579ac a ns1:Book ;
 schema:Book2836c93c-502a-498a-a064-96ed00253e31 a ns1:Book ;
     ns1:author "Jacques Lazure"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -581,7 +581,7 @@ schema:Book2836c93c-502a-498a-a064-96ed00253e31 a ns1:Book ;
 schema:Book28aceb8b-74a8-4884-968b-2356f13b2d6c a ns1:Book ;
     ns1:author "Luc Melanson"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -592,7 +592,7 @@ schema:Book28aceb8b-74a8-4884-968b-2356f13b2d6c a ns1:Book ;
 schema:Book2a4e837e-3343-4e54-b76d-a0ba9d79f04f a ns1:Book ;
     ns1:author "Isabelle Arsenault"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -603,7 +603,7 @@ schema:Book2a4e837e-3343-4e54-b76d-a0ba9d79f04f a ns1:Book ;
 schema:Book2a95963f-81f5-40e2-ab5b-cfc25880d423 a ns1:Book ;
     ns1:author "Matilde Beausoleil"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1987"^^xsd:gYear ;
+    ns1:datePublished "1985"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -614,7 +614,7 @@ schema:Book2a95963f-81f5-40e2-ab5b-cfc25880d423 a ns1:Book ;
 schema:Book2b2a22ad-a487-4211-9483-7126e2504b7c a ns1:Book ;
     ns1:author "Pierre Pratt"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "1998"^^xsd:gYear ;
+    ns1:datePublished "1996"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -625,7 +625,7 @@ schema:Book2b2a22ad-a487-4211-9483-7126e2504b7c a ns1:Book ;
 schema:Book2c9304a8-6bc3-410b-8f62-1383c8217e33 a ns1:Book ;
     ns1:author "Élise Turcotte"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -636,7 +636,7 @@ schema:Book2c9304a8-6bc3-410b-8f62-1383c8217e33 a ns1:Book ;
 schema:Book2dd18ac9-3a81-4876-984c-0c9bc99444c4 a ns1:Book ;
     ns1:author "Sylvie Desrosiers"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "9 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -647,7 +647,7 @@ schema:Book2dd18ac9-3a81-4876-984c-0c9bc99444c4 a ns1:Book ;
 schema:Book2ee3b18e-a72d-4962-a84e-4d36c52d7a00 a ns1:Book ;
     ns1:author "Mario Brassard"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -658,7 +658,7 @@ schema:Book2ee3b18e-a72d-4962-a84e-4d36c52d7a00 a ns1:Book ;
 schema:Book2ff4534a-6185-4366-8612-862cece15b92 a ns1:Book ;
     ns1:author "Anne Villeneuve"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:datePublished "2003"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -670,7 +670,7 @@ schema:Book30f7dcca-d0e8-4164-8aca-19143a26041a a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string,
         "Stéphane Poulin"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -681,7 +681,7 @@ schema:Book30f7dcca-d0e8-4164-8aca-19143a26041a a ns1:Book ;
 schema:Book320d21f4-cffc-4bf6-8989-caa34783e316 a ns1:Book ;
     ns1:author "Stéphane Jorisch"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -692,7 +692,7 @@ schema:Book320d21f4-cffc-4bf6-8989-caa34783e316 a ns1:Book ;
 schema:Book3329d4a5-0a69-486f-9e2e-c0846d41c579 a ns1:Book ;
     ns1:author "Samuel Parent"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -703,7 +703,7 @@ schema:Book3329d4a5-0a69-486f-9e2e-c0846d41c579 a ns1:Book ;
 schema:Book337f93a4-a7c4-44c7-b2e8-6349a311bdef a ns1:Book ;
     ns1:author "Anne Villeneuve"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -714,7 +714,7 @@ schema:Book337f93a4-a7c4-44c7-b2e8-6349a311bdef a ns1:Book ;
 schema:Book34cdba42-9b18-4b57-b780-bc36afbcc460 a ns1:Book ;
     ns1:author "Pierre Pratt"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1991"^^xsd:gYear ;
+    ns1:datePublished "1989"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -726,7 +726,7 @@ schema:Book371c93ab-5859-4d87-9e37-f02c8d9489eb a ns1:Book ;
     ns1:author "Jean Claverie"^^xsd:string,
         "Yves Nadon"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -737,7 +737,7 @@ schema:Book371c93ab-5859-4d87-9e37-f02c8d9489eb a ns1:Book ;
 schema:Book375a76f8-f0e5-4b9c-897e-90ca7fd2acbb a ns1:Book ;
     ns1:author "Louis-Philippe Hébert"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -748,7 +748,7 @@ schema:Book375a76f8-f0e5-4b9c-897e-90ca7fd2acbb a ns1:Book ;
 schema:Book37a93ebf-6f5c-480e-ba67-40e9e6299fca a ns1:Book ;
     ns1:author "Julie Champagne"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -759,7 +759,7 @@ schema:Book37a93ebf-6f5c-480e-ba67-40e9e6299fca a ns1:Book ;
 schema:Book3a8ff34d-943c-4980-a6ab-39094db49ccd a ns1:Book ;
     ns1:author "Kyo Maclear"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "0 à 4 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -770,7 +770,7 @@ schema:Book3a8ff34d-943c-4980-a6ab-39094db49ccd a ns1:Book ;
 schema:Book3ade7768-2a37-4f2d-8580-3784c4213ddc a ns1:Book ;
     ns1:author "Anik Lafrenière"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1985"^^xsd:gYear ;
+    ns1:datePublished "1983"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Professionnel"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -782,7 +782,7 @@ schema:Book3bcdd299-345d-43e0-b461-7e52fef5aea9 a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string,
         "Stéphane Poulin"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -793,7 +793,7 @@ schema:Book3bcdd299-345d-43e0-b461-7e52fef5aea9 a ns1:Book ;
 schema:Book3be01d25-27c3-46f0-99b1-1b4b9dae165d a ns1:Book ;
     ns1:author "Darcia Labrosse"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "1987"^^xsd:gYear ;
+    ns1:datePublished "1985"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -804,7 +804,7 @@ schema:Book3be01d25-27c3-46f0-99b1-1b4b9dae165d a ns1:Book ;
 schema:Book3d5c22b7-7f16-4463-a923-aeb41a8f5b03 a ns1:Book ;
     ns1:author "Stéphane Jorisch"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "1999"^^xsd:gYear ;
+    ns1:datePublished "1997"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -815,7 +815,7 @@ schema:Book3d5c22b7-7f16-4463-a923-aeb41a8f5b03 a ns1:Book ;
 schema:Book3d6df3d5-70e5-4039-866b-810c015d388c a ns1:Book ;
     ns1:author "Simon Boulerice"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "5 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -826,7 +826,7 @@ schema:Book3d6df3d5-70e5-4039-866b-810c015d388c a ns1:Book ;
 schema:Book3dee401c-1584-4d24-8e10-003be7978070 a ns1:Book ;
     ns1:author "Geneviève Després"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -838,7 +838,7 @@ schema:Book3e45115e-ee6d-45fb-9cc3-feb25847f7e4 a ns1:Book ;
     ns1:author "Christine Baldacchino"^^xsd:string,
         "Isabelle Malenfant"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Album 5 à 8 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -849,7 +849,7 @@ schema:Book3e45115e-ee6d-45fb-9cc3-feb25847f7e4 a ns1:Book ;
 schema:Book3f7de22d-d2bb-4955-bc82-ccc4d458434b a ns1:Book ;
     ns1:author "Stéphane Poulin"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1992"^^xsd:gYear ;
+    ns1:datePublished "1990"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -861,7 +861,7 @@ schema:Book4145038d-f0db-411b-8801-90c7e80dead0 a ns1:Book ;
     ns1:author "David Schinkel"^^xsd:string,
         "Yves Beauchesne"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "1987"^^xsd:gYear ;
+    ns1:datePublished "1985"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -872,7 +872,7 @@ schema:Book4145038d-f0db-411b-8801-90c7e80dead0 a ns1:Book ;
 schema:Book43b62177-b8a9-4975-a88d-e168c4a8e9e7 a ns1:Book ;
     ns1:author "Delphie Côté-Lacroix"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -883,7 +883,7 @@ schema:Book43b62177-b8a9-4975-a88d-e168c4a8e9e7 a ns1:Book ;
 schema:Book45fe10fb-4b3e-430f-893d-c91aebc25e90 a ns1:Book ;
     ns1:author "Ayumi Harada"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -894,7 +894,7 @@ schema:Book45fe10fb-4b3e-430f-893d-c91aebc25e90 a ns1:Book ;
 schema:Book468c528d-4ded-47cd-87e2-8268e69aac0c a ns1:Book ;
     ns1:author "Anne Villeneuve"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:datePublished "2003"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -905,7 +905,7 @@ schema:Book468c528d-4ded-47cd-87e2-8268e69aac0c a ns1:Book ;
 schema:Book46c2a7d8-5864-4425-8551-cc09af246951 a ns1:Book ;
     ns1:author "Françoise Barraud"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1984"^^xsd:gYear ;
+    ns1:datePublished "1982"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -916,7 +916,7 @@ schema:Book46c2a7d8-5864-4425-8551-cc09af246951 a ns1:Book ;
 schema:Book46eed6c2-f500-46e5-8a0c-0de33dffe7a7 a ns1:Book ;
     ns1:author "Samuel Parent"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -927,7 +927,7 @@ schema:Book46eed6c2-f500-46e5-8a0c-0de33dffe7a7 a ns1:Book ;
 schema:Book47c1de8c-7b88-4928-85f0-a031d9086520 a ns1:Book ;
     ns1:author "Marie-Louise Gay"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1984"^^xsd:gYear ;
+    ns1:datePublished "1982"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -938,7 +938,7 @@ schema:Book47c1de8c-7b88-4928-85f0-a031d9086520 a ns1:Book ;
 schema:Book4834f50a-4bab-4595-9002-5fe0d8c0a673 a ns1:Book ;
     ns1:author "Aline Apostolska"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -949,7 +949,7 @@ schema:Book4834f50a-4bab-4595-9002-5fe0d8c0a673 a ns1:Book ;
 schema:Book48834d1f-59ef-43b7-8109-d7477f49b649 a ns1:Book ;
     ns1:author "Valérie Boivin"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -961,7 +961,7 @@ schema:Book488f7593-a433-498b-b1da-c85bc0a4b47d a ns1:Book ;
     ns1:author "André Marois"^^xsd:string,
         "Patrick Doyon"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Livre illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -972,7 +972,7 @@ schema:Book488f7593-a433-498b-b1da-c85bc0a4b47d a ns1:Book ;
 schema:Book489f2ada-48f4-4a9c-abdc-1f41d4c69d00 a ns1:Book ;
     ns1:author "Joanne Ouellet, série «Les Papinachois», Hurtubise HMH"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1981"^^xsd:gYear ;
+    ns1:datePublished "1979"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -983,7 +983,7 @@ schema:Book489f2ada-48f4-4a9c-abdc-1f41d4c69d00 a ns1:Book ;
 schema:Book4be5595b-8c3e-4040-8fd7-01472cdfe8df a ns1:Book ;
     ns1:author "Janice Nadeau"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:datePublished "2003"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -994,7 +994,7 @@ schema:Book4be5595b-8c3e-4040-8fd7-01472cdfe8df a ns1:Book ;
 schema:Book4c66b40c-90be-41b3-9ccb-cc3a03de77f0 a ns1:Book ;
     ns1:author "Robert Soulières"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1985"^^xsd:gYear ;
+    ns1:datePublished "1983"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1005,7 +1005,7 @@ schema:Book4c66b40c-90be-41b3-9ccb-cc3a03de77f0 a ns1:Book ;
 schema:Book4cc3cffe-de2f-4ba4-a620-e290986af088 a ns1:Book ;
     ns1:author "Geneviève Côté"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1016,7 +1016,7 @@ schema:Book4cc3cffe-de2f-4ba4-a620-e290986af088 a ns1:Book ;
 schema:Book4d4a4ca8-adf7-4945-98e7-259c38a1f658 a ns1:Book ;
     ns1:author "Ninon Pelletier"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1027,7 +1027,7 @@ schema:Book4d4a4ca8-adf7-4945-98e7-259c38a1f658 a ns1:Book ;
 schema:Book4facd17f-1e6f-4873-bcea-f97e10206e63 a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "9 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1038,7 +1038,7 @@ schema:Book4facd17f-1e6f-4873-bcea-f97e10206e63 a ns1:Book ;
 schema:Book51b2bdf2-24cd-4f9e-8442-2bbcff8d4f87 a ns1:Book ;
     ns1:author "Yayo"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1049,7 +1049,7 @@ schema:Book51b2bdf2-24cd-4f9e-8442-2bbcff8d4f87 a ns1:Book ;
 schema:Book523396ed-9c4a-45dd-a97e-8441adb7a086 a ns1:Book ;
     ns1:author "Jean-François Sénéchal"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1060,7 +1060,7 @@ schema:Book523396ed-9c4a-45dd-a97e-8441adb7a086 a ns1:Book ;
 schema:Book526af473-bce1-4264-809b-06e75215c6be a ns1:Book ;
     ns1:author "Suzanne Martel"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1981"^^xsd:gYear ;
+    ns1:datePublished "1979"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1071,7 +1071,7 @@ schema:Book526af473-bce1-4264-809b-06e75215c6be a ns1:Book ;
 schema:Book52889397-e7be-4bb1-a2b1-9a5b56d4c21c a ns1:Book ;
     ns1:author "Jasmine Mirra Turcotte"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1082,7 +1082,7 @@ schema:Book52889397-e7be-4bb1-a2b1-9a5b56d4c21c a ns1:Book ;
 schema:Book529b39d6-5b99-4512-88e5-90498f79618c a ns1:Book ;
     ns1:author "Isabelle Arsenault"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1093,7 +1093,7 @@ schema:Book529b39d6-5b99-4512-88e5-90498f79618c a ns1:Book ;
 schema:Book5354682d-9a6d-46aa-bb1b-826db779b5a8 a ns1:Book ;
     ns1:author "Oussama Mezher"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1104,7 +1104,7 @@ schema:Book5354682d-9a6d-46aa-bb1b-826db779b5a8 a ns1:Book ;
 schema:Book56d27355-137a-4d2d-858d-cef8d197334e a ns1:Book ;
     ns1:author "Linda Amyot"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1115,7 +1115,7 @@ schema:Book56d27355-137a-4d2d-858d-cef8d197334e a ns1:Book ;
 schema:Book571081cf-65e5-43f2-b0b3-e139510a2206 a ns1:Book ;
     ns1:author "Geneviève Billette"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:datePublished "2003"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Théâtre"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1126,7 +1126,7 @@ schema:Book571081cf-65e5-43f2-b0b3-e139510a2206 a ns1:Book ;
 schema:Book582a22e8-0dad-4ca7-b092-97c369d733e3 a ns1:Book ;
     ns1:author "Geneviève Bourguignon"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1138,7 +1138,7 @@ schema:Book59200a86-0c97-482b-8cbf-41e080d192a3 a ns1:Book ;
     ns1:author "Lucie Papineau"^^xsd:string,
         "Marisol Sarrasin"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1998"^^xsd:gYear ;
+    ns1:datePublished "1996"^^xsd:gYear ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1149,7 +1149,7 @@ schema:Book59200a86-0c97-482b-8cbf-41e080d192a3 a ns1:Book ;
 schema:Book5a00e6c5-083d-47cb-bf80-a984de0a97eb a ns1:Book ;
     ns1:author "Serge Déry"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1982"^^xsd:gYear ;
+    ns1:datePublished "1980"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1160,7 +1160,7 @@ schema:Book5a00e6c5-083d-47cb-bf80-a984de0a97eb a ns1:Book ;
 schema:Book5a6ae29d-a480-41ca-b62d-1725ee94b38b a ns1:Book ;
     ns1:author "François Gilbert"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1171,7 +1171,7 @@ schema:Book5a6ae29d-a480-41ca-b62d-1725ee94b38b a ns1:Book ;
 schema:Book5b442af0-6b9c-4bec-be2c-763490af14b3 a ns1:Book ;
     ns1:author "Jean Hudon"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1986"^^xsd:gYear ;
+    ns1:datePublished "1984"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1182,7 +1182,7 @@ schema:Book5b442af0-6b9c-4bec-be2c-763490af14b3 a ns1:Book ;
 schema:Book5c628124-0746-49bf-8a5b-a6c4c733dd48 a ns1:Book ;
     ns1:author "Mathieu Potvin"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1193,7 +1193,7 @@ schema:Book5c628124-0746-49bf-8a5b-a6c4c733dd48 a ns1:Book ;
 schema:Book5db49e9b-0ce8-41ec-b52a-7378bbc228e6 a ns1:Book ;
     ns1:author "Darcia Labrosse"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1982"^^xsd:gYear ;
+    ns1:datePublished "1980"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1204,7 +1204,7 @@ schema:Book5db49e9b-0ce8-41ec-b52a-7378bbc228e6 a ns1:Book ;
 schema:Book5efaef8e-063f-4180-925d-4f7acd704e12 a ns1:Book ;
     ns1:author "Samuel Champagne"^^xsd:string ;
     ns1:award "Le Prix Espiègle" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Secondaire"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1215,7 +1215,7 @@ schema:Book5efaef8e-063f-4180-925d-4f7acd704e12 a ns1:Book ;
 schema:Book5fd5d044-f97f-4f49-9e36-7fb1f9a0919c a ns1:Book ;
     ns1:author "Isabelle Malenfant"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1226,7 +1226,7 @@ schema:Book5fd5d044-f97f-4f49-9e36-7fb1f9a0919c a ns1:Book ;
 schema:Book60f7db78-388a-48c8-9089-387f1ef9b68c a ns1:Book ;
     ns1:author "Philippe Béha"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1237,7 +1237,7 @@ schema:Book60f7db78-388a-48c8-9089-387f1ef9b68c a ns1:Book ;
 schema:Book612cdc55-6ed0-4983-9593-0d8d68db1263 a ns1:Book ;
     ns1:author "François Blais"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2020"^^xsd:gYear ;
+    ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1248,7 +1248,7 @@ schema:Book612cdc55-6ed0-4983-9593-0d8d68db1263 a ns1:Book ;
 schema:Book6159586f-76d5-4b92-a93c-ef98d82a059d a ns1:Book ;
     ns1:author "Stéphane Jorisch"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Illustration, volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1259,7 +1259,7 @@ schema:Book6159586f-76d5-4b92-a93c-ef98d82a059d a ns1:Book ;
 schema:Book61e8b4e3-fd26-4935-a797-786270f6fa73 a ns1:Book ;
     ns1:author "Geneviève Côté"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1271,7 +1271,7 @@ schema:Book62eebcdf-679e-44c4-a73c-37cfe0fb34f2 a ns1:Book ;
     ns1:author "Charlotte Gingras"^^xsd:string,
         "Stéphane Jorisch"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1282,7 +1282,7 @@ schema:Book62eebcdf-679e-44c4-a73c-37cfe0fb34f2 a ns1:Book ;
 schema:Book63fed82c-c7a7-4fa1-966b-cac437ae6d82 a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1293,7 +1293,7 @@ schema:Book63fed82c-c7a7-4fa1-966b-cac437ae6d82 a ns1:Book ;
 schema:Book641cc737-2c39-4c4e-b125-65cc1fe6d991 a ns1:Book ;
     ns1:author "Julie Rocheleau"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1304,7 +1304,7 @@ schema:Book641cc737-2c39-4c4e-b125-65cc1fe6d991 a ns1:Book ;
 schema:Book65fe57d0-5d69-42ed-a2bd-754e44b96430 a ns1:Book ;
     ns1:author "Yayo"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1315,7 +1315,7 @@ schema:Book65fe57d0-5d69-42ed-a2bd-754e44b96430 a ns1:Book ;
 schema:Book66a2d12f-9425-4e56-8052-61ce70d63cab a ns1:Book ;
     ns1:author "Caroline Merola"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1326,7 +1326,7 @@ schema:Book66a2d12f-9425-4e56-8052-61ce70d63cab a ns1:Book ;
 schema:Book67535826-e06d-4c8e-b64f-a3246f2d9f63 a ns1:Book ;
     ns1:author "Angèle Delaunois"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "13 ans et +"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1337,7 +1337,7 @@ schema:Book67535826-e06d-4c8e-b64f-a3246f2d9f63 a ns1:Book ;
 schema:Book676a5ac7-260e-4cb8-a8cd-91da60729df2 a ns1:Book ;
     ns1:author "François Caumartin"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1986"^^xsd:gYear ;
+    ns1:datePublished "1984"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Professionnel"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1348,7 +1348,7 @@ schema:Book676a5ac7-260e-4cb8-a8cd-91da60729df2 a ns1:Book ;
 schema:Book678ee6bb-6634-4163-9119-def0c6beb3cc a ns1:Book ;
     ns1:author "Claude Lafortune"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1977"^^xsd:gYear ;
+    ns1:datePublished "1975"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1360,7 +1360,7 @@ schema:Book67a049a8-eaac-4465-b63f-5a8ebc0e8f1c a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string,
         "Geneviève Després"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Album 5 à 8 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1371,7 +1371,7 @@ schema:Book67a049a8-eaac-4465-b63f-5a8ebc0e8f1c a ns1:Book ;
 schema:Book6a273d67-fde5-49dd-a0ba-4d7b73de0cc0 a ns1:Book ;
     ns1:author "Lino"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2006"^^xsd:gYear ;
+    ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1382,7 +1382,7 @@ schema:Book6a273d67-fde5-49dd-a0ba-4d7b73de0cc0 a ns1:Book ;
 schema:Book6ad85e35-b78f-4280-9cd7-c7f41d2d6a54 a ns1:Book ;
     ns1:author "Denise Houle"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1977"^^xsd:gYear ;
+    ns1:datePublished "1975"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1393,7 +1393,7 @@ schema:Book6ad85e35-b78f-4280-9cd7-c7f41d2d6a54 a ns1:Book ;
 schema:Book6b0f2af4-4fee-45a0-b625-859a3e0f63bd a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "9 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1405,7 +1405,7 @@ schema:Book6b85b147-e5c2-4efb-badc-b73e6bb65ab2 a ns1:Book ;
     ns1:author "Marie-Francine Hébert"^^xsd:string,
         "Steve Adams"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1416,7 +1416,7 @@ schema:Book6b85b147-e5c2-4efb-badc-b73e6bb65ab2 a ns1:Book ;
 schema:Book6c3066cf-0385-4116-9d5b-095c9f4687c3 a ns1:Book ;
     ns1:author "Mika"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1427,7 +1427,7 @@ schema:Book6c3066cf-0385-4116-9d5b-095c9f4687c3 a ns1:Book ;
 schema:Book6c6f9dff-069a-465e-94a4-a34720ab14ec a ns1:Book ;
     ns1:author "Geneviève Bigué"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2023"^^xsd:gYear ;
+    ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Bande dessinée"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1439,7 +1439,7 @@ schema:Book6cbe2009-2704-41d4-a4d0-65598d3f0a6e a ns1:Book ;
     ns1:author "Carine Paquin"^^xsd:string,
         "Freg"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Roman 9 à 12 ans"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1450,7 +1450,7 @@ schema:Book6cbe2009-2704-41d4-a4d0-65598d3f0a6e a ns1:Book ;
 schema:Book6de0fa98-f5b4-42c6-ad68-dbf8bdb3bca4 a ns1:Book ;
     ns1:author "Geneviève Côté"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1988"^^xsd:gYear ;
+    ns1:datePublished "1986"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1461,7 +1461,7 @@ schema:Book6de0fa98-f5b4-42c6-ad68-dbf8bdb3bca4 a ns1:Book ;
 schema:Book6eec04f2-f9f7-4692-8458-50df8289e046 a ns1:Book ;
     ns1:author "Nicole Leroux"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1472,7 +1472,7 @@ schema:Book6eec04f2-f9f7-4692-8458-50df8289e046 a ns1:Book ;
 schema:Book6febdd47-1e72-4303-96eb-f1728d13e5ae a ns1:Book ;
     ns1:author "Julie Cossette"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1483,7 +1483,7 @@ schema:Book6febdd47-1e72-4303-96eb-f1728d13e5ae a ns1:Book ;
 schema:Book70fe717f-d782-4cf4-9b50-bbd0023a3943 a ns1:Book ;
     ns1:author "Josée Bisaillon"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1494,7 +1494,7 @@ schema:Book70fe717f-d782-4cf4-9b50-bbd0023a3943 a ns1:Book ;
 schema:Book7289a421-9c18-4853-8883-20c34d0b33d1 a ns1:Book ;
     ns1:author "Pierrette Dubé"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "0 à 4 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1505,7 +1505,7 @@ schema:Book7289a421-9c18-4853-8883-20c34d0b33d1 a ns1:Book ;
 schema:Book72f2ab88-8cc8-46a6-8c54-b8ed566d3e80 a ns1:Book ;
     ns1:author "Gilles Gauthier"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1993"^^xsd:gYear ;
+    ns1:datePublished "1991"^^xsd:gYear ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1516,7 +1516,7 @@ schema:Book72f2ab88-8cc8-46a6-8c54-b8ed566d3e80 a ns1:Book ;
 schema:Book73350d02-6d3d-41c7-836c-636e09890f98 a ns1:Book ;
     ns1:author "Pierre Pratt"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2006"^^xsd:gYear ;
+    ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1527,7 +1527,7 @@ schema:Book73350d02-6d3d-41c7-836c-636e09890f98 a ns1:Book ;
 schema:Book73ebbb94-d5ee-41ab-98d6-f0ad196c261f a ns1:Book ;
     ns1:author "Jocelyn Boisvert"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "13 ans et +"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1538,7 +1538,7 @@ schema:Book73ebbb94-d5ee-41ab-98d6-f0ad196c261f a ns1:Book ;
 schema:Book75cd090d-5662-468d-8c70-b7db55a761f4 a ns1:Book ;
     ns1:author "Camille Bouchard"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:datePublished "2003"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1549,7 +1549,7 @@ schema:Book75cd090d-5662-468d-8c70-b7db55a761f4 a ns1:Book ;
 schema:Book794859c2-7246-485c-a7dd-11d652590ca2 a ns1:Book ;
     ns1:author "Patrick Isabelle"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1560,7 +1560,7 @@ schema:Book794859c2-7246-485c-a7dd-11d652590ca2 a ns1:Book ;
 schema:Book79e0a435-2948-421f-914a-4281ef5b11af a ns1:Book ;
     ns1:author "Rogé"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "0 à 4 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1572,7 +1572,7 @@ schema:Book7aa0cd76-709e-4253-afa4-1896e7adeee8 a ns1:Book ;
     ns1:author "Carole Tremblay"^^xsd:string,
         "Élodie Duhameau"^^xsd:string ;
     ns1:award "Le Prix Espiègle" ;
-    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Primaire"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1584,7 +1584,7 @@ schema:Book7b843a0a-5a4e-4313-9bf5-a2b2fdad3be8 a ns1:Book ;
     ns1:author "Marion Arbona"^^xsd:string,
         "Marylène Monette"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Album 5 à 8 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1595,7 +1595,7 @@ schema:Book7b843a0a-5a4e-4313-9bf5-a2b2fdad3be8 a ns1:Book ;
 schema:Book7e1d4570-3757-4928-91ee-e72324a27183 a ns1:Book ;
     ns1:author "Pierre Roy"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "9 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1606,7 +1606,7 @@ schema:Book7e1d4570-3757-4928-91ee-e72324a27183 a ns1:Book ;
 schema:Book7e291d4d-fa8b-4dd5-b97a-9b89f67bf146 a ns1:Book ;
     ns1:author "Amélie Dumoulin"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1617,7 +1617,7 @@ schema:Book7e291d4d-fa8b-4dd5-b97a-9b89f67bf146 a ns1:Book ;
 schema:Book7e5707ca-2deb-4ccd-9a3b-97e310aafc91 a ns1:Book ;
     ns1:author "Samuel Archibald"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1628,7 +1628,7 @@ schema:Book7e5707ca-2deb-4ccd-9a3b-97e310aafc91 a ns1:Book ;
 schema:Book7f87936f-9aa2-4a46-957d-e8d700f37386 a ns1:Book ;
     ns1:author "Patrick Isabelle"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1639,7 +1639,7 @@ schema:Book7f87936f-9aa2-4a46-957d-e8d700f37386 a ns1:Book ;
 schema:Book7fd1c92b-e410-45f0-90d2-0c0a9d2a16a9 a ns1:Book ;
     ns1:author "Sylvie Desrosiers"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1651,7 +1651,7 @@ schema:Book7fff39c4-cfa7-45fb-a68f-b07bcd019d72 a ns1:Book ;
     ns1:author "Pierrette Dubé"^^xsd:string,
         "Yayo"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1996"^^xsd:gYear ;
+    ns1:datePublished "1994"^^xsd:gYear ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1662,7 +1662,7 @@ schema:Book7fff39c4-cfa7-45fb-a68f-b07bcd019d72 a ns1:Book ;
 schema:Book80043232-6a7e-4b45-8e16-c11207984eac a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2020"^^xsd:gYear ;
+    ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1673,7 +1673,7 @@ schema:Book80043232-6a7e-4b45-8e16-c11207984eac a ns1:Book ;
 schema:Book80be5ec9-c68a-4beb-adee-d649d584ebde a ns1:Book ;
     ns1:author "Denis Côté"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1684,7 +1684,7 @@ schema:Book80be5ec9-c68a-4beb-adee-d649d584ebde a ns1:Book ;
 schema:Book834589e9-2983-4f09-91c1-69dffd90feb5 a ns1:Book ;
     ns1:author "Denis Côté"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1995"^^xsd:gYear ;
+    ns1:datePublished "1993"^^xsd:gYear ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1695,7 +1695,7 @@ schema:Book834589e9-2983-4f09-91c1-69dffd90feb5 a ns1:Book ;
 schema:Book83bdbb59-3062-4b01-9957-0fb4074bcf7f a ns1:Book ;
     ns1:author "Stéphanie Lapointe"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Roman 9 à 12 ans"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1706,7 +1706,7 @@ schema:Book83bdbb59-3062-4b01-9957-0fb4074bcf7f a ns1:Book ;
 schema:Book847510ff-6783-43ab-a923-a6e162e878ba a ns1:Book ;
     ns1:author "Isabelle Arsenault"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:datePublished "2003"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "llustration"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1718,7 +1718,7 @@ schema:Book849c2106-8097-4367-b228-7ca33ff5b0ea a ns1:Book ;
     ns1:author "Fil"^^xsd:string,
         "Julie"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1729,7 +1729,7 @@ schema:Book849c2106-8097-4367-b228-7ca33ff5b0ea a ns1:Book ;
 schema:Book861e01e8-75d7-4bb3-bf6e-b5185386c528 a ns1:Book ;
     ns1:author "Daniel Sernine"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1984"^^xsd:gYear ;
+    ns1:datePublished "1982"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1740,7 +1740,7 @@ schema:Book861e01e8-75d7-4bb3-bf6e-b5185386c528 a ns1:Book ;
 schema:Book88682926-52a3-4751-b639-737bc2e890c2 a ns1:Book ;
     ns1:author "Anne Villeneuve"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1751,7 +1751,7 @@ schema:Book88682926-52a3-4751-b639-737bc2e890c2 a ns1:Book ;
 schema:Book89d8125e-f0e9-4f63-bf1d-dc2d7b6a729d a ns1:Book ;
     ns1:author "Gabrielle Roy"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1979"^^xsd:gYear ;
+    ns1:datePublished "1977"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1763,7 +1763,7 @@ schema:Book8d12e2f0-3790-42bc-b69d-65cc4b3d5b4d a ns1:Book ;
     ns1:author "Chloloula"^^xsd:string,
         "Vincent Bolduc"^^xsd:string ;
     ns1:award "Le Prix Espiègle" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Primaire"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1774,7 +1774,7 @@ schema:Book8d12e2f0-3790-42bc-b69d-65cc4b3d5b4d a ns1:Book ;
 schema:Book8ffc462f-b451-4b71-986a-1fb3c72599a2 a ns1:Book ;
     ns1:author "Josée Bisaillon"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1785,7 +1785,7 @@ schema:Book8ffc462f-b451-4b71-986a-1fb3c72599a2 a ns1:Book ;
 schema:Book900835e9-be7d-43dc-9bde-6eab5378f3b5 a ns1:Book ;
     ns1:author "Louise Aylwin"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1975"^^xsd:gYear ;
+    ns1:datePublished "1973"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1796,7 +1796,7 @@ schema:Book900835e9-be7d-43dc-9bde-6eab5378f3b5 a ns1:Book ;
 schema:Book90fa35a8-5a70-4536-82cb-03550697cd4c a ns1:Book ;
     ns1:author "Jean-Michel Schembré"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1999"^^xsd:gYear ;
+    ns1:datePublished "1997"^^xsd:gYear ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1808,7 +1808,7 @@ schema:Book93567b4c-a217-4c12-92c4-c45636015d2e a ns1:Book ;
     ns1:author "François Blais"^^xsd:string,
         "Valérie Boivin"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1819,7 +1819,7 @@ schema:Book93567b4c-a217-4c12-92c4-c45636015d2e a ns1:Book ;
 schema:Book95d51c06-ce9e-468c-888d-071da9923f5f a ns1:Book ;
     ns1:author "Guillaume Perreault"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1830,7 +1830,7 @@ schema:Book95d51c06-ce9e-468c-888d-071da9923f5f a ns1:Book ;
 schema:Book9a7bb836-1d50-47df-85cf-59d9f5d627d1 a ns1:Book ;
     ns1:author "François Gravel"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1991"^^xsd:gYear ;
+    ns1:datePublished "1989"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1841,7 +1841,7 @@ schema:Book9a7bb836-1d50-47df-85cf-59d9f5d627d1 a ns1:Book ;
 schema:Book9aa35473-282d-4398-969a-d87010920124 a ns1:Book ;
     ns1:author "Nathalie Lagacé"^^xsd:string ;
     ns1:award "Le Prix Espiègle" ;
-    ns1:datePublished "2023"^^xsd:gYear ;
+    ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Secondaire"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1852,7 +1852,7 @@ schema:Book9aa35473-282d-4398-969a-d87010920124 a ns1:Book ;
 schema:Book9bdb2189-83ae-4278-a69a-7aad1b9466be a ns1:Book ;
     ns1:author "Ginette Anfousse"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1990"^^xsd:gYear ;
+    ns1:datePublished "1988"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1863,7 +1863,7 @@ schema:Book9bdb2189-83ae-4278-a69a-7aad1b9466be a ns1:Book ;
 schema:Book9d162ad0-87fd-4be1-9296-db8b45a41264 a ns1:Book ;
     ns1:author "Isabelle Picard"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Roman 9 à 12 ans"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1874,7 +1874,7 @@ schema:Book9d162ad0-87fd-4be1-9296-db8b45a41264 a ns1:Book ;
 schema:Book9e0c9b6c-76d9-4864-8693-9fbbab324ba1 a ns1:Book ;
     ns1:author "Danielle Simard"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1885,7 +1885,7 @@ schema:Book9e0c9b6c-76d9-4864-8693-9fbbab324ba1 a ns1:Book ;
 schema:Booka016c8f6-b76e-48c4-8fa3-6dbfd4c5131c a ns1:Book ;
     ns1:author "Stéphane Jorisch"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1896,7 +1896,7 @@ schema:Booka016c8f6-b76e-48c4-8fa3-6dbfd4c5131c a ns1:Book ;
 schema:Booka14f58fc-d416-416c-a860-27dbb60f5000 a ns1:Book ;
     ns1:author "Jean-François Sénéchal"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1907,7 +1907,7 @@ schema:Booka14f58fc-d416-416c-a860-27dbb60f5000 a ns1:Book ;
 schema:Booka1cc6638-0ee9-4ddf-9d54-4c4fd19a48e7 a ns1:Book ;
     ns1:author "Bruce Roberts"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1918,7 +1918,7 @@ schema:Booka1cc6638-0ee9-4ddf-9d54-4c4fd19a48e7 a ns1:Book ;
 schema:Booka23686f6-23dc-4f93-9aa9-9834e13e9069 a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1929,7 +1929,7 @@ schema:Booka23686f6-23dc-4f93-9aa9-9834e13e9069 a ns1:Book ;
 schema:Booka2e78592-5b15-4de5-a5c2-e99c680b3297 a ns1:Book ;
     ns1:author "Nadine Poirier"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "13 ans et +"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1940,7 +1940,7 @@ schema:Booka2e78592-5b15-4de5-a5c2-e99c680b3297 a ns1:Book ;
 schema:Booka31d330b-bf67-4089-8ffe-1c54d7f8ac8d a ns1:Book ;
     ns1:author "Marie-Louise Gay"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1951,7 +1951,7 @@ schema:Booka31d330b-bf67-4089-8ffe-1c54d7f8ac8d a ns1:Book ;
 schema:Booka3ef8190-7a1c-4f2b-aa02-efb46c9869f4 a ns1:Book ;
     ns1:author "Janice Nadeau"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1963,7 +1963,7 @@ schema:Booka3f54421-3ac0-4e00-a4f3-31ffb874108f a ns1:Book ;
     ns1:author "Marthe Pelletier"^^xsd:string,
         "Richard Beaulieu"^^xsd:string ;
     ns1:award "Le Prix Espiègle" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Primaire"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1974,7 +1974,7 @@ schema:Booka3f54421-3ac0-4e00-a4f3-31ffb874108f a ns1:Book ;
 schema:Booka48f7f37-130e-4d1e-8682-d566b023c8a9 a ns1:Book ;
     ns1:author "Valérie Boivin"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1985,7 +1985,7 @@ schema:Booka48f7f37-130e-4d1e-8682-d566b023c8a9 a ns1:Book ;
 schema:Booka4b24a1d-e950-4118-b6c7-25a991d54142 a ns1:Book ;
     ns1:author "Suzanne Lebeau"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Théâtre"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1996,7 +1996,7 @@ schema:Booka4b24a1d-e950-4118-b6c7-25a991d54142 a ns1:Book ;
 schema:Booka61a57eb-e3af-4e22-b2d7-8c048748cfb9 a ns1:Book ;
     ns1:author "Christiane Duchesne"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2007,7 +2007,7 @@ schema:Booka61a57eb-e3af-4e22-b2d7-8c048748cfb9 a ns1:Book ;
 schema:Booka67f34a1-adb9-4676-b600-3cc1a566f683 a ns1:Book ;
     ns1:author "Hervé Bouchard"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2018,7 +2018,7 @@ schema:Booka67f34a1-adb9-4676-b600-3cc1a566f683 a ns1:Book ;
 schema:Booka6ee00e4-68ed-43e8-a371-65118a06d67b a ns1:Book ;
     ns1:author "Camille Bouchard"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "9 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2030,7 +2030,7 @@ schema:Booka7a00b63-281d-4541-a073-1ecb50fe89fb a ns1:Book ;
     ns1:author "Jean-Luc Trudel"^^xsd:string,
         "Marie-Francine Hébert"^^xsd:string ;
     ns1:award "Le Prix Espiègle" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Primaire"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2042,7 +2042,7 @@ schema:Booka81e1b43-f5e8-4e0c-9f78-75ca711b048a a ns1:Book ;
     ns1:author "Anne Villeneuve"^^xsd:string,
         "Robert Soulières"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1999"^^xsd:gYear ;
+    ns1:datePublished "1997"^^xsd:gYear ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2053,7 +2053,7 @@ schema:Booka81e1b43-f5e8-4e0c-9f78-75ca711b048a a ns1:Book ;
 schema:Booka8603b8c-d66b-4f0d-909d-3da42ee46688 a ns1:Book ;
     ns1:author "Francis Léveillée"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2023"^^xsd:gYear ;
+    ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2064,7 +2064,7 @@ schema:Booka8603b8c-d66b-4f0d-909d-3da42ee46688 a ns1:Book ;
 schema:Booka910d2dc-ca34-4123-9e1c-b601fb1d862e a ns1:Book ;
     ns1:author "Fabrice Boulanger"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "0 à 4 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2075,7 +2075,7 @@ schema:Booka910d2dc-ca34-4123-9e1c-b601fb1d862e a ns1:Book ;
 schema:Booka963adf1-1c0e-4684-a62d-6fa769cd5319 a ns1:Book ;
     ns1:author "Daniel Sylvestre"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2086,7 +2086,7 @@ schema:Booka963adf1-1c0e-4684-a62d-6fa769cd5319 a ns1:Book ;
 schema:Booka9db8fb8-819e-43b8-8524-f44ab33e4403 a ns1:Book ;
     ns1:author "Mario Brassard"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "5 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2097,7 +2097,7 @@ schema:Booka9db8fb8-819e-43b8-8524-f44ab33e4403 a ns1:Book ;
 schema:Booka9e2a093-e159-423e-b5c5-efe7e0b96cb6 a ns1:Book ;
     ns1:author "Stéphane Poulin"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "1998"^^xsd:gYear ;
+    ns1:datePublished "1996"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2108,7 +2108,7 @@ schema:Booka9e2a093-e159-423e-b5c5-efe7e0b96cb6 a ns1:Book ;
 schema:Bookaad2a299-bba4-4721-b240-693cd49e861c a ns1:Book ;
     ns1:author "Hélène Vachon"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2119,7 +2119,7 @@ schema:Bookaad2a299-bba4-4721-b240-693cd49e861c a ns1:Book ;
 schema:Bookae33f80c-7095-4a46-a568-af84b686b399 a ns1:Book ;
     ns1:author "Geneviève Mativat"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2130,7 +2130,7 @@ schema:Bookae33f80c-7095-4a46-a568-af84b686b399 a ns1:Book ;
 schema:Bookaedbff26-8354-48bb-b659-bae76eee3a1d a ns1:Book ;
     ns1:author "Maude Nepveu-Villeneuve"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2020"^^xsd:gYear ;
+    ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2142,7 +2142,7 @@ schema:Bookaf3ee3cd-be6e-40be-9eaa-ce60e432477d a ns1:Book ;
     ns1:author "Alain M. Bergeron"^^xsd:string,
         "Sampar"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "5 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2153,7 +2153,7 @@ schema:Bookaf3ee3cd-be6e-40be-9eaa-ce60e432477d a ns1:Book ;
 schema:Bookb0268da2-fd0e-4261-bb87-1ef9f65976d9 a ns1:Book ;
     ns1:author "Bernadette Renaud"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1976"^^xsd:gYear ;
+    ns1:datePublished "1974"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2164,7 +2164,7 @@ schema:Bookb0268da2-fd0e-4261-bb87-1ef9f65976d9 a ns1:Book ;
 schema:Bookb03445f9-9ac7-42ce-ae01-f6083edad0fc a ns1:Book ;
     ns1:author "Manon Gauthier"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2175,7 +2175,7 @@ schema:Bookb03445f9-9ac7-42ce-ae01-f6083edad0fc a ns1:Book ;
 schema:Bookb05c73a9-324d-48b1-9203-414340743bbc a ns1:Book ;
     ns1:author "Gilles Tibo"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1999"^^xsd:gYear ;
+    ns1:datePublished "1997"^^xsd:gYear ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2186,7 +2186,7 @@ schema:Bookb05c73a9-324d-48b1-9203-414340743bbc a ns1:Book ;
 schema:Bookb0671e0b-f1e1-414c-adc0-8e0aa194e788 a ns1:Book ;
     ns1:author "Martin Fournier"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2197,7 +2197,7 @@ schema:Bookb0671e0b-f1e1-414c-adc0-8e0aa194e788 a ns1:Book ;
 schema:Bookb0a87961-4c2c-4ad5-baab-ced96c52e9d2 a ns1:Book ;
     ns1:author "Jacques Laplante"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2208,7 +2208,7 @@ schema:Bookb0a87961-4c2c-4ad5-baab-ced96c52e9d2 a ns1:Book ;
 schema:Bookb107ce2f-aa29-46d3-9cf5-b1f5c2b73835 a ns1:Book ;
     ns1:author "Jacinthe Chevalier"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2219,7 +2219,7 @@ schema:Bookb107ce2f-aa29-46d3-9cf5-b1f5c2b73835 a ns1:Book ;
 schema:Bookb28755b5-dffc-4cf9-a52e-2ca9c352c283 a ns1:Book ;
     ns1:author "Dominique Jolin"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2229,7 +2229,7 @@ schema:Bookb28755b5-dffc-4cf9-a52e-2ca9c352c283 a ns1:Book ;
 
 schema:Bookb2d308df-d93c-4a0b-9ee4-34ca1952adcb a ns1:Book ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2241,7 +2241,7 @@ schema:Bookb3a42f71-9596-48e1-bd55-023e891161bc a ns1:Book ;
     ns1:author "Hélène Desputeaux"^^xsd:string,
         "Joceline Sanschagrin"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1994"^^xsd:gYear ;
+    ns1:datePublished "1992"^^xsd:gYear ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2252,7 +2252,7 @@ schema:Bookb3a42f71-9596-48e1-bd55-023e891161bc a ns1:Book ;
 schema:Bookb458089c-a106-494a-b608-9d64e5167e43 a ns1:Book ;
     ns1:author "Miyuki Tanobe"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1980"^^xsd:gYear ;
+    ns1:datePublished "1978"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2263,7 +2263,7 @@ schema:Bookb458089c-a106-494a-b608-9d64e5167e43 a ns1:Book ;
 schema:Bookbca2f924-522a-41f6-a9d6-7b3b1300555e a ns1:Book ;
     ns1:author "Claudie Stanké"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "9 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2274,7 +2274,7 @@ schema:Bookbca2f924-522a-41f6-a9d6-7b3b1300555e a ns1:Book ;
 schema:Bookbd192320-1ef3-4243-9fe4-76a0acfd83a9 a ns1:Book ;
     ns1:author "Janice Nadeau"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2285,7 +2285,7 @@ schema:Bookbd192320-1ef3-4243-9fe4-76a0acfd83a9 a ns1:Book ;
 schema:Bookbef5d69d-7e71-40a6-8d35-d8bf823dd29d a ns1:Book ;
     ns1:author "Raymond Plante"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1995"^^xsd:gYear ;
+    ns1:datePublished "1993"^^xsd:gYear ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2296,7 +2296,7 @@ schema:Bookbef5d69d-7e71-40a6-8d35-d8bf823dd29d a ns1:Book ;
 schema:Bookbf073e6c-b046-4d49-bd20-d0f2e37b6a9d a ns1:Book ;
     ns1:author "Charlotte Gingras"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "1999"^^xsd:gYear ;
+    ns1:datePublished "1997"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2307,7 +2307,7 @@ schema:Bookbf073e6c-b046-4d49-bd20-d0f2e37b6a9d a ns1:Book ;
 schema:Bookbf432c6e-0f20-40a1-b01c-332113720847 a ns1:Book ;
     ns1:author "Marie-Louise Gay"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1984"^^xsd:gYear ;
+    ns1:datePublished "1982"^^xsd:gYear ;
     ns1:genre "Illustration volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2318,11 +2318,11 @@ schema:Bookbf432c6e-0f20-40a1-b01c-332113720847 a ns1:Book ;
 schema:Bookbf9f5359-ff42-463c-9592-d33b2a240953 a ns1:Book ;
     ns1:author "Un collectif d'écoliers innus"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "5 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
     ns1:illustrator "Rogé"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Mingan, mon village"^^xsd:string ;
     ns1:publisher "La Bagnole" ;
     ns1:url "https://www.lurelu.net/prixlitt_jeunesse-librair.html"^^xsd:string .
@@ -2330,7 +2330,7 @@ schema:Bookbf9f5359-ff42-463c-9592-d33b2a240953 a ns1:Book ;
 schema:Bookc0249c28-c686-4b16-b2cd-c5d0b541fb6e a ns1:Book ;
     ns1:author "ValMo"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2341,7 +2341,7 @@ schema:Bookc0249c28-c686-4b16-b2cd-c5d0b541fb6e a ns1:Book ;
 schema:Bookc054d765-4a23-463f-8a58-6c22ffa3edfd a ns1:Book ;
     ns1:author "Camille Pomerlo"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2020"^^xsd:gYear ;
+    ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2352,7 +2352,7 @@ schema:Bookc054d765-4a23-463f-8a58-6c22ffa3edfd a ns1:Book ;
 schema:Bookc2b8c1ad-2b8a-4a1c-8b5c-f83fd060225e a ns1:Book ;
     ns1:author "Denis Côté"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1983"^^xsd:gYear ;
+    ns1:datePublished "1981"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2363,7 +2363,7 @@ schema:Bookc2b8c1ad-2b8a-4a1c-8b5c-f83fd060225e a ns1:Book ;
 schema:Bookc6abe057-01d7-4ef0-ac76-fcebec3e7ea6 a ns1:Book ;
     ns1:author "Pierre Pratt"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2374,7 +2374,7 @@ schema:Bookc6abe057-01d7-4ef0-ac76-fcebec3e7ea6 a ns1:Book ;
 schema:Bookc6e72ee0-d6c4-49db-abf1-bd09ebd6732d a ns1:Book ;
     ns1:author "Daniel Sylvestre"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2385,7 +2385,7 @@ schema:Bookc6e72ee0-d6c4-49db-abf1-bd09ebd6732d a ns1:Book ;
 schema:Bookc7b4d201-18d8-4382-9017-a63f8029c56b a ns1:Book ;
     ns1:author "Philippe Béha"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1983"^^xsd:gYear ;
+    ns1:datePublished "1981"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2396,7 +2396,7 @@ schema:Bookc7b4d201-18d8-4382-9017-a63f8029c56b a ns1:Book ;
 schema:Bookc869b7d2-4dd8-4d02-910b-0d08a0dfbf92 a ns1:Book ;
     ns1:author "Élise Gravel"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2407,7 +2407,7 @@ schema:Bookc869b7d2-4dd8-4d02-910b-0d08a0dfbf92 a ns1:Book ;
 schema:Bookca150307-7d41-44b9-8191-e0542005616f a ns1:Book ;
     ns1:author "Sébastien Fréchette"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2418,7 +2418,7 @@ schema:Bookca150307-7d41-44b9-8191-e0542005616f a ns1:Book ;
 schema:Bookcb6d8e8f-83e1-4815-b2cf-cf725b986190 a ns1:Book ;
     ns1:author "Jacques Lazure"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1997"^^xsd:gYear ;
+    ns1:datePublished "1995"^^xsd:gYear ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2429,7 +2429,7 @@ schema:Bookcb6d8e8f-83e1-4815-b2cf-cf725b986190 a ns1:Book ;
 schema:Bookcbdab452-2aad-461a-9436-0faac07200c8 a ns1:Book ;
     ns1:author "Philippe Béha"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2440,7 +2440,7 @@ schema:Bookcbdab452-2aad-461a-9436-0faac07200c8 a ns1:Book ;
 schema:Bookcc55f6c4-4462-4aa2-8286-670ed55e9c2a a ns1:Book ;
     ns1:author "Roger Girard"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2006"^^xsd:gYear ;
+    ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2451,7 +2451,7 @@ schema:Bookcc55f6c4-4462-4aa2-8286-670ed55e9c2a a ns1:Book ;
 schema:Bookcd41a997-baff-4433-8d9a-bca6abf2979c a ns1:Book ;
     ns1:author "Robert Davidts"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1997"^^xsd:gYear ;
+    ns1:datePublished "1995"^^xsd:gYear ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2462,7 +2462,7 @@ schema:Bookcd41a997-baff-4433-8d9a-bca6abf2979c a ns1:Book ;
 schema:Bookcf23e54d-049b-42d0-9a37-edde2d12088e a ns1:Book ;
     ns1:author "Stéphane Poulin"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1984"^^xsd:gYear ;
+    ns1:datePublished "1982"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Professionnel"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2473,7 +2473,7 @@ schema:Bookcf23e54d-049b-42d0-9a37-edde2d12088e a ns1:Book ;
 schema:Bookd17eb624-9ed0-49d1-9261-f88ee77c8b34 a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Livre illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2484,7 +2484,7 @@ schema:Bookd17eb624-9ed0-49d1-9261-f88ee77c8b34 a ns1:Book ;
 schema:Bookd1d5e9cc-6323-4ffc-8e63-1ce91d7da987 a ns1:Book ;
     ns1:author "Bruce Robert"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2495,7 +2495,7 @@ schema:Bookd1d5e9cc-6323-4ffc-8e63-1ce91d7da987 a ns1:Book ;
 schema:Bookd214c5a2-1dcb-47a4-a635-80cd9cfadd28 a ns1:Book ;
     ns1:author "Sophie Perreault-Allen"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2506,7 +2506,7 @@ schema:Bookd214c5a2-1dcb-47a4-a635-80cd9cfadd28 a ns1:Book ;
 schema:Bookd2c48107-2188-464c-9cc8-7ebb8f0573d1 a ns1:Book ;
     ns1:author "Virginie Egger"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2517,7 +2517,7 @@ schema:Bookd2c48107-2188-464c-9cc8-7ebb8f0573d1 a ns1:Book ;
 schema:Bookd7ac2236-7118-4ab7-bc95-be7e1fee1a3a a ns1:Book ;
     ns1:author "Geneviève Pettersen"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2020"^^xsd:gYear ;
+    ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Bande dessinée"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2528,7 +2528,7 @@ schema:Bookd7ac2236-7118-4ab7-bc95-be7e1fee1a3a a ns1:Book ;
 schema:Bookd7bbf8ef-2669-4400-8a48-160d649f9303 a ns1:Book ;
     ns1:author "Anne Villeneuve"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2539,7 +2539,7 @@ schema:Bookd7bbf8ef-2669-4400-8a48-160d649f9303 a ns1:Book ;
 schema:Bookd8454ce4-5688-4bff-bb8d-56e0292afec2 a ns1:Book ;
     ns1:author "Jacqueline Roy"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1983"^^xsd:gYear ;
+    ns1:datePublished "1981"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2550,7 +2550,7 @@ schema:Bookd8454ce4-5688-4bff-bb8d-56e0292afec2 a ns1:Book ;
 schema:Bookd8493605-9247-4eb3-9202-217611910c14 a ns1:Book ;
     ns1:author "Mélanie Baillargé"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2023"^^xsd:gYear ;
+    ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2561,7 +2561,7 @@ schema:Bookd8493605-9247-4eb3-9202-217611910c14 a ns1:Book ;
 schema:Bookd9ae4829-af7d-4f14-b6b4-27a1fa922044 a ns1:Book ;
     ns1:author "Mireille Levert"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "Illustration, volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2572,7 +2572,7 @@ schema:Bookd9ae4829-af7d-4f14-b6b4-27a1fa922044 a ns1:Book ;
 schema:Bookd9f50f45-2634-477b-8862-615c06f94f40 a ns1:Book ;
     ns1:author "Pierre Pratt"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2583,7 +2583,7 @@ schema:Bookd9f50f45-2634-477b-8862-615c06f94f40 a ns1:Book ;
 schema:Bookdc5853cd-3338-4f15-9def-ea6e9447f90e a ns1:Book ;
     ns1:author "Annie Carbonneau"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2594,7 +2594,7 @@ schema:Bookdc5853cd-3338-4f15-9def-ea6e9447f90e a ns1:Book ;
 schema:Bookdca81f99-a2a0-43a0-9ccb-413aaa99d116 a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Livre illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2605,7 +2605,7 @@ schema:Bookdca81f99-a2a0-43a0-9ccb-413aaa99d116 a ns1:Book ;
 schema:Bookdd8f9cdd-7158-434c-80bc-e41307c90a98 a ns1:Book ;
     ns1:author "Dany Laferrière"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2006"^^xsd:gYear ;
+    ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2616,7 +2616,7 @@ schema:Bookdd8f9cdd-7158-434c-80bc-e41307c90a98 a ns1:Book ;
 schema:Bookddaec579-f034-471c-93b5-0aaf41775ab1 a ns1:Book ;
     ns1:author "Marie-Claude Favreau"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2627,7 +2627,7 @@ schema:Bookddaec579-f034-471c-93b5-0aaf41775ab1 a ns1:Book ;
 schema:Booke0118f50-a650-45f4-97db-a4503bf1e4f0 a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2638,7 +2638,7 @@ schema:Booke0118f50-a650-45f4-97db-a4503bf1e4f0 a ns1:Book ;
 schema:Booke116f580-2cb4-4b0a-bfaa-281ad5011fa1 a ns1:Book ;
     ns1:author "Eveline Payette"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2649,7 +2649,7 @@ schema:Booke116f580-2cb4-4b0a-bfaa-281ad5011fa1 a ns1:Book ;
 schema:Booke11aa69f-7809-4ffa-81c0-ca806b375e58 a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1993"^^xsd:gYear ;
+    ns1:datePublished "1991"^^xsd:gYear ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2660,7 +2660,7 @@ schema:Booke11aa69f-7809-4ffa-81c0-ca806b375e58 a ns1:Book ;
 schema:Booke15973e0-edb9-4fec-8ce0-29e0d8427398 a ns1:Book ;
     ns1:author "Marie-Louise Gay"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Album 5 à 8 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2671,7 +2671,7 @@ schema:Booke15973e0-edb9-4fec-8ce0-29e0d8427398 a ns1:Book ;
 schema:Booke176afc6-6a78-4a2b-9aa7-97af9ffcf304 a ns1:Book ;
     ns1:author "Christine Battuz"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2683,7 +2683,7 @@ schema:Booke47eb7a4-8910-41ab-9286-eae4a068e616 a ns1:Book ;
     ns1:author "Danielle Marcotte"^^xsd:string,
         "Stéphane Poulin"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1997"^^xsd:gYear ;
+    ns1:datePublished "1995"^^xsd:gYear ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2694,7 +2694,7 @@ schema:Booke47eb7a4-8910-41ab-9286-eae4a068e616 a ns1:Book ;
 schema:Booke61ba365-0524-4453-8ea1-f4ce53b8592d a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1998"^^xsd:gYear ;
+    ns1:datePublished "1996"^^xsd:gYear ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2706,7 +2706,7 @@ schema:Booke7ae7c0c-ecaa-4a1a-a242-74d00336ffde a ns1:Book ;
     ns1:author "Marie-Francine Hébert"^^xsd:string,
         "Mylène Pratt"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2717,7 +2717,7 @@ schema:Booke7ae7c0c-ecaa-4a1a-a242-74d00336ffde a ns1:Book ;
 schema:Bookea42bd22-e285-44b8-b5e6-3472f2d455e1 a ns1:Book ;
     ns1:author "Gilles Tibo"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2728,7 +2728,7 @@ schema:Bookea42bd22-e285-44b8-b5e6-3472f2d455e1 a ns1:Book ;
 schema:Bookeb4e230d-15db-41aa-a3a1-75c9bef21645 a ns1:Book ;
     ns1:author "Marie-Francine Hébert"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2739,7 +2739,7 @@ schema:Bookeb4e230d-15db-41aa-a3a1-75c9bef21645 a ns1:Book ;
 schema:Bookec625bbe-9443-4d6a-8d3d-e63558d79479 a ns1:Book ;
     ns1:author "Gérard Dubois"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "1999"^^xsd:gYear ;
+    ns1:datePublished "1997"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2750,7 +2750,7 @@ schema:Bookec625bbe-9443-4d6a-8d3d-e63558d79479 a ns1:Book ;
 schema:Booked42b426-d8c5-4859-8eac-cde3bc9162e2 a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "0 à 4 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2761,7 +2761,7 @@ schema:Booked42b426-d8c5-4859-8eac-cde3bc9162e2 a ns1:Book ;
 schema:Bookef0e4f94-3e8d-4afd-9fb4-afc072c71e93 a ns1:Book ;
     ns1:author "Catherine Lepage"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2006"^^xsd:gYear ;
+    ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2772,7 +2772,7 @@ schema:Bookef0e4f94-3e8d-4afd-9fb4-afc072c71e93 a ns1:Book ;
 schema:Bookef4980d4-3765-4154-91e1-2d584f3eda44 a ns1:Book ;
     ns1:author "Valérie Boivin"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2783,7 +2783,7 @@ schema:Bookef4980d4-3765-4154-91e1-2d584f3eda44 a ns1:Book ;
 schema:Bookef4a6aac-1308-4275-b54c-b3483d0c4c9a a ns1:Book ;
     ns1:author "Marie-Louise Gay"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Illustration, volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2794,7 +2794,7 @@ schema:Bookef4a6aac-1308-4275-b54c-b3483d0c4c9a a ns1:Book ;
 schema:Bookeff2965c-a5ff-4c52-bbca-2ae190a0ffe3 a ns1:Book ;
     ns1:author "Louise Martel"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1985"^^xsd:gYear ;
+    ns1:datePublished "1983"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2805,7 +2805,7 @@ schema:Bookeff2965c-a5ff-4c52-bbca-2ae190a0ffe3 a ns1:Book ;
 schema:Bookf06a98f3-422d-45c0-a622-a6e2d4edac6c a ns1:Book ;
     ns1:author "Pierre Pratt"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2816,7 +2816,7 @@ schema:Bookf06a98f3-422d-45c0-a622-a6e2d4edac6c a ns1:Book ;
 schema:Bookf0aa9c75-16c3-4eb7-92e6-7aa2de9330b6 a ns1:Book ;
     ns1:author "Renée Grégoire"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1983"^^xsd:gYear ;
+    ns1:datePublished "1981"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Professionnel"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2828,7 +2828,7 @@ schema:Bookf0afa064-b245-412a-8600-57784b539cc9 a ns1:Book ;
     ns1:author "Rogé"^^xsd:string,
         "Stéphanie Lapointe"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Livre illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2839,7 +2839,7 @@ schema:Bookf0afa064-b245-412a-8600-57784b539cc9 a ns1:Book ;
 schema:Bookf12bf527-acd2-4161-b930-a4269cdece6c a ns1:Book ;
     ns1:author "Michèle Marineau"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:datePublished "1999"^^xsd:gYear ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2850,7 +2850,7 @@ schema:Bookf12bf527-acd2-4161-b930-a4269cdece6c a ns1:Book ;
 schema:Bookf176cd56-c77c-43c6-a506-5d3a3d090844 a ns1:Book ;
     ns1:author "Patrick Isabelle"^^xsd:string ;
     ns1:award "Le Prix Espiègle" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Secondaire"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2861,7 +2861,7 @@ schema:Bookf176cd56-c77c-43c6-a506-5d3a3d090844 a ns1:Book ;
 schema:Bookf2167afc-e1f9-4ad8-a1e8-4b3dfab2b4d0 a ns1:Book ;
     ns1:author "Marie-Louise Gay"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2872,7 +2872,7 @@ schema:Bookf2167afc-e1f9-4ad8-a1e8-4b3dfab2b4d0 a ns1:Book ;
 schema:Bookf3fb1e4f-7a93-41b9-ad58-02f83e55ec99 a ns1:Book ;
     ns1:author "Maryse Pagé"^^xsd:string ;
     ns1:award "Le Prix Espiègle" ;
-    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Secondaire"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2883,7 +2883,7 @@ schema:Bookf3fb1e4f-7a93-41b9-ad58-02f83e55ec99 a ns1:Book ;
 schema:Bookf45760a7-2139-4da6-9817-7757eee8f787 a ns1:Book ;
     ns1:author "Christiane Duchesne"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1992"^^xsd:gYear ;
+    ns1:datePublished "1990"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2894,7 +2894,7 @@ schema:Bookf45760a7-2139-4da6-9817-7757eee8f787 a ns1:Book ;
 schema:Bookf470a33c-6a3e-4e5b-91c7-d0ff8419446a a ns1:Book ;
     ns1:author "François Barcelo"^^xsd:string ;
     ns1:award "Prix Littéraires Des Enseignants Aqpf-Anel" ;
-    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "9 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2905,7 +2905,7 @@ schema:Bookf470a33c-6a3e-4e5b-91c7-d0ff8419446a a ns1:Book ;
 schema:Bookf694d5eb-ec5c-4011-a8ea-62fed2e886d9 a ns1:Book ;
     ns1:author "Ginette Anfousse"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1982"^^xsd:gYear ;
+    ns1:datePublished "1980"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2917,7 +2917,7 @@ schema:Bookf77b89ec-e085-40f7-821f-f35ae8222ddd a ns1:Book ;
     ns1:author "Samuel Larochelle"^^xsd:string,
         "Ève Patenaude"^^xsd:string ;
     ns1:award "Le Prix Espiègle" ;
-    ns1:datePublished "2023"^^xsd:gYear ;
+    ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Primaire"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2928,7 +2928,7 @@ schema:Bookf77b89ec-e085-40f7-821f-f35ae8222ddd a ns1:Book ;
 schema:Bookf7881316-14b2-46c5-b5b4-8851901be47a a ns1:Book ;
     ns1:author "Bruce Roberts"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2939,7 +2939,7 @@ schema:Bookf7881316-14b2-46c5-b5b4-8851901be47a a ns1:Book ;
 schema:Bookf7f0d34e-8b41-47d8-b1b9-ed17d27cbc7f a ns1:Book ;
     ns1:author "Raymond Plante"^^xsd:string ;
     ns1:award "Prix Du Conseil Des Arts Du Canada" ;
-    ns1:datePublished "1986"^^xsd:gYear ;
+    ns1:datePublished "1984"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2950,7 +2950,7 @@ schema:Bookf7f0d34e-8b41-47d8-b1b9-ed17d27cbc7f a ns1:Book ;
 schema:Bookf91aca92-972c-4201-a175-987bd719f815 a ns1:Book ;
     ns1:author "Sarah Lalonde"^^xsd:string ;
     ns1:award "Le Prix Espiègle" ;
-    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Secondaire"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2961,7 +2961,7 @@ schema:Bookf91aca92-972c-4201-a175-987bd719f815 a ns1:Book ;
 schema:Bookf98487ff-a2ae-4bae-b81e-0bcc6cd4aea8 a ns1:Book ;
     ns1:author "Mireille Levert"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
-    ns1:datePublished "1987"^^xsd:gYear ;
+    ns1:datePublished "1985"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Professionnel"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2972,7 +2972,7 @@ schema:Bookf98487ff-a2ae-4bae-b81e-0bcc6cd4aea8 a ns1:Book ;
 schema:Bookf9af6151-7868-4255-a2c6-185574493992 a ns1:Book ;
     ns1:author "Rémy Simard"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Bande dessinée"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2983,7 +2983,7 @@ schema:Bookf9af6151-7868-4255-a2c6-185574493992 a ns1:Book ;
 schema:Bookfa7f2049-79e4-48bc-8e29-f9aa45c1f481 a ns1:Book ;
     ns1:author "Non attribué"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2994,7 +2994,7 @@ schema:Bookfa7f2049-79e4-48bc-8e29-f9aa45c1f481 a ns1:Book ;
 schema:Bookfc4ff60d-97b3-40fa-abb7-69f6663674a0 a ns1:Book ;
     ns1:author "Hélène Vachon"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -3005,7 +3005,7 @@ schema:Bookfc4ff60d-97b3-40fa-abb7-69f6663674a0 a ns1:Book ;
 schema:Bookfdd92c10-2ae9-48ab-92f4-51819e02087e a ns1:Book ;
     ns1:author "Janice Nadeau"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
-    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -3016,7 +3016,7 @@ schema:Bookfdd92c10-2ae9-48ab-92f4-51819e02087e a ns1:Book ;
 schema:Bookfddccf4f-f970-4925-81fb-552bc7aaf88a a ns1:Book ;
     ns1:author "André Marois"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -3027,7 +3027,7 @@ schema:Bookfddccf4f-f970-4925-81fb-552bc7aaf88a a ns1:Book ;
 schema:Bookfe016209-e66b-4f2c-b682-f5fb8a3ecb60 a ns1:Book ;
     ns1:author "Élise Gravel"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -3038,7 +3038,7 @@ schema:Bookfe016209-e66b-4f2c-b682-f5fb8a3ecb60 a ns1:Book ;
 schema:Bookff858f8e-c065-4f83-bae6-ec9cfa9a89ce a ns1:Book ;
     ns1:author "Robert Soulières"^^xsd:string ;
     ns1:award "Prix Du Livre M. Christie" ;
-    ns1:datePublished "1998"^^xsd:gYear ;
+    ns1:datePublished "1996"^^xsd:gYear ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -3049,7 +3049,7 @@ schema:Bookff858f8e-c065-4f83-bae6-ec9cfa9a89ce a ns1:Book ;
 schema:Bookffee7482-1490-4346-b18d-e657c7fc5df4 a ns1:Book ;
     ns1:author "Janice Nadeau"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Relève"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
