@@ -1202,7 +1202,8 @@ schema:Book1c9d2954-0bca-4d6c-aa51-fa9245bc90a1 a ns1:Book ;
     ns1:award "Biennale De L'illustration De Bratislava : Grand Prix" ;
     ns1:countryOfOrigin "Suisse"^^xsd:string ;
     ns1:datePublished "2013"^^xsd:gYear ;
-    ns1:illustrator "Evelyne Laube et Nina Wehrle"^^xsd:string ;
+    ns1:illustrator "Evelyne Laube"^^xsd:string,
+        "Nina Wehrle"^^xsd:string ;
     ns1:title "Die Grosse Flut"^^xsd:string ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/biennale-de-lillustration-de-bratislava"^^xsd:string .
 
