@@ -143,12 +143,12 @@ schema:Book09cdb986-75c7-4889-b9c9-d18216082dcf a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string .
 
 schema:Book0a2df74b-de6e-4542-a83c-6187adf8b2d6 a ns1:Book ;
-    ns1:author "Geneviève Darling (ill.)"^^xsd:string,
-        "Lucile de Pesloüan"^^xsd:string ;
+    ns1:author "Lucile de Pesloüan"^^xsd:string ;
     ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
+    ns1:illustrator "Geneviève Darling"^^xsd:string ;
     ns1:name "J'ai mal et pourtant ça ne se voit pas"^^xsd:string ;
     ns1:publisher "L'Isatis" ;
     ns1:url "https://www.lurelu.net/prixlitt_biblioMTL.html"^^xsd:string .
@@ -254,12 +254,12 @@ schema:Book12af92d2-138a-4c61-849d-ba9f4dd84ba7 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_walloniebruxelles.html"^^xsd:string .
 
 schema:Book13df1eaa-bc17-4ff8-8557-9a1fc83b6193 a ns1:Book ;
-    ns1:author "Cécile Gariépy (ill.)"^^xsd:string,
-        "Myriam Daguzan Bernier"^^xsd:string ;
+    ns1:author "Myriam Daguzan Bernier"^^xsd:string,
     ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
+    ns1:illustrator "Cécile Gariépy"^^xsd:string ;
     ns1:name "Tout nu! Le dictionnaire bienveillant de la sexualité"^^xsd:string ;
     ns1:publisher "Cardinal" ;
     ns1:url "https://www.lurelu.net/prixlitt_biblioMTL.html"^^xsd:string .
@@ -346,7 +346,8 @@ schema:Book16f981fc-60b4-4bda-a1ab-f5083ef6f8e1 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_TDjeunesse.html"^^xsd:string .
 
 schema:Book19e0d5e5-37b2-4e58-8432-74c3e4f0b7dd a ns1:Book ;
-    ns1:author "Valérie Fontaine, Fil (Philippe Arseneau-Bussière)"^^xsd:string ;
+    ns1:author "Valérie Fontaine"^^xsd:string,
+        "Philippe Arseneau-Bussière"^^xsd:string ;
     ns1:award "Prix Magazine Enfants Québec Du Meilleur Album Jeunesse" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1070,7 +1071,7 @@ schema:Book53199c57-24a7-46b0-9e75-ee9b8da7f130 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_slslsj.html"^^xsd:string .
 
 schema:Book546837a8-b23d-490e-928d-d0bd3fcd9e86 a ns1:Book ;
-    ns1:author "Diane Obomsawin (Obom)"^^xsd:string ;
+    ns1:author "Diane Obomsawin"^^xsd:string ;
     ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1215,7 +1216,7 @@ schema:Book65a7e36c-5f97-4d68-9cea-8910046e81d1 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_cecilegagnon.html"^^xsd:string .
 
 schema:Book66382690-5338-4401-81eb-c180d4ddb5f3 a ns1:Book ;
-    ns1:author "Sébastien Fréchette (Biz)"^^xsd:string ;
+    ns1:author "Sébastien Fréchette"^^xsd:string ;
     ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1419,12 +1420,12 @@ schema:Book7b7795f5-ec14-4d67-8e94-5f6939541062 a ns1:Book ;
 
 schema:Book7bbfc46c-977b-472c-81f5-d8c25fd84caa a ns1:Book ;
     ns1:author "Louise Pelletier"^^xsd:string,
-        "Phillipe Béha (illustrations). Collection Bébé-livres:"^^xsd:string,
-        "Sylvie Assathiany (texte)"^^xsd:string ;
+        "Sylvie Assathiany"^^xsd:string ;
     ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "1983"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
+    ns1:illustrator "Phillipe Béha"^^xsd:string ;
     ns1:name "J'aime Claire"^^xsd:string ;
     ns1:publisher "Ovale" ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string .
@@ -1541,13 +1542,9 @@ schema:Book83bc0655-5788-4c6b-ab49-f554b7b0d6fa a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string .
 
 schema:Book83d099a4-6f85-4ce5-a501-b166d4488477 a ns1:Book ;
-    ns1:author "Denis Côté (pour l'ensemble de son oeuvre)"^^xsd:string ;
+    ns1:author "Denis Côté"^^xsd:string ;
     ns1:award "Prix 12 / 17 Brive-Montréal" ;
     ns1:datePublished "1991"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "None"^^xsd:string ;
-    ns1:publisher "Les Grandes Personnes" ;
     ns1:url "https://www.lurelu.net/prixlitt_brivemontreal.html"^^xsd:string .
 
 schema:Book84e7a134-ddd0-47f5-97ce-788fe695371e a ns1:Book ;
@@ -1731,7 +1728,7 @@ schema:Book942db415-17c2-4742-a720-74dc4fc854f1 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
 
 schema:Book942e936f-e31b-4669-b8f8-ea4b430ced7a a ns1:Book ;
-    ns1:author "Félix Maltais (magazine"^^xsd:string ;
+    ns1:author "Félix Maltais"^^xsd:string ;
     ns1:award "Prix Raymond-Plante" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1752,7 +1749,7 @@ schema:Book9498561b-37a2-4069-98a6-07ea0bf11a42 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_biblioMTL.html"^^xsd:string .
 
 schema:Book9756e976-430b-4622-9118-20c8a1bfe913 a ns1:Book ;
-    ns1:author "Vigg (Vincent Gagnon)"^^xsd:string ;
+    ns1:author "Vincent Gagnon"^^xsd:string ;
     ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1772,7 +1769,7 @@ schema:Book988bb3db-ab8b-4520-85b2-65345e897dda a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_cecilegagnon.html"^^xsd:string .
 
 schema:Book9a007984-83cb-4490-8641-7beafc4f6c2a a ns1:Book ;
-    ns1:author "Aurélie Grand (ill.)"^^xsd:string,
+    ns1:author "Aurélie Grand"^^xsd:string,
         "Rhéa Dufresne"^^xsd:string ;
     ns1:award "Prix Harry-Black De L’Album Jeunesse" ;
     ns1:datePublished "2019"^^xsd:gYear ;
@@ -1793,12 +1790,12 @@ schema:Book9b4c9549-5e45-4721-9a5b-45fb4cdf72c4 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
 
 schema:Book9c414df1-d76b-447a-820c-79878739a0a1 a ns1:Book ;
-    ns1:author "Agathe Bray-Bourret (ill.)"^^xsd:string,
-        "Stéphanie Boulay"^^xsd:string ;
+    ns1:author "Stéphanie Boulay"^^xsd:string ;
     ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
+    ns1:illustrator "Agathe Bray-Bourret"^^xsd:string ;
     ns1:name "Anatole qui ne séchait jamais"^^xsd:string ;
     ns1:publisher "Fonfon" ;
     ns1:url "https://www.lurelu.net/prixlitt_TDjeunesse.html"^^xsd:string .
@@ -1986,12 +1983,12 @@ schema:Bookb0f89148-c4c7-4238-b609-423732b6c698 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_TDjeunesse.html"^^xsd:string .
 
 schema:Bookb0fc3ff4-f291-480a-b2e3-07523317b041 a ns1:Book ;
-    ns1:author "François Vigneault (ill.)"^^xsd:string,
-        "Geneviève Pettersen"^^xsd:string ;
+    ns1:author "Geneviève Pettersen"^^xsd:string ;
     ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
+    ns1:illustrator "François Vigneault"^^xsd:string ;
     ns1:name "13e Avenue. Tome 1"^^xsd:string ;
     ns1:publisher "La Pastèque" ;
     ns1:url "https://www.lurelu.net/prixlitt_slslsj.html"^^xsd:string .
@@ -2138,7 +2135,7 @@ schema:Bookba3103dc-f01a-4152-b99f-1f7384b98870 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_TDjeunesse.html"^^xsd:string .
 
 schema:Bookbc3f2de9-3f3e-40cb-b3ca-87e64e53a892 a ns1:Book ;
-    ns1:author "Alain Bergeron (publié sous le pseudonyme Brian Eaglenor)"^^xsd:string ;
+    ns1:author "Alain Bergeron"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Univers Parallèles" ;
     ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2611,7 +2608,7 @@ schema:Bookd91843ae-12d0-49b8-b33f-098933e46769 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_monteregie.html"^^xsd:string .
 
 schema:Bookda461772-943e-4800-a357-9d1976ecadee a ns1:Book ;
-    ns1:author "Vigg (Vincent Gagnon)"^^xsd:string ;
+    ns1:author "Vincent Gagnon"^^xsd:string ;
     ns1:award "Prix Harry-Black De L’Album Jeunesse" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;

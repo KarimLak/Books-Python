@@ -356,7 +356,7 @@ schema:Book1ca84879-a33f-4e15-bbec-3c9f914d3d44 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string .
 
 schema:Book1de5827a-ea56-4694-ab58-5aa31c958609 a ns1:Book ;
-    ns1:author "Samuel Parent (Sampar)"^^xsd:string ;
+    ns1:author "Samuel Parent"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
@@ -914,7 +914,7 @@ schema:Book46c2a7d8-5864-4425-8551-cc09af246951 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 schema:Book46eed6c2-f500-46e5-8a0c-0de33dffe7a7 a ns1:Book ;
-    ns1:author "Samuel Parent (Sampar)"^^xsd:string ;
+    ns1:author "Samuel Parent"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string,
@@ -2316,13 +2316,13 @@ schema:Bookbf432c6e-0f20-40a1-b01c-332113720847 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_conseildesarts.html"^^xsd:string .
 
 schema:Bookbf9f5359-ff42-463c-9592-d33b2a240953 a ns1:Book ;
-    ns1:author "Rogé (ill.)"^^xsd:string,
-        "un collectif d'écoliers innus"^^xsd:string ;
+    ns1:author "Un collectif d'écoliers innus"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "5 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
+    ns1:illustrator "Rogé"^^xsd:string ;
     ns1:name "Mingan, mon village"^^xsd:string ;
     ns1:publisher "La Bagnole" ;
     ns1:url "https://www.lurelu.net/prixlitt_jeunesse-librair.html"^^xsd:string .
@@ -2405,7 +2405,7 @@ schema:Bookc869b7d2-4dd8-4d02-910b-0d08a0dfbf92 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_gouverneur.html"^^xsd:string .
 
 schema:Bookca150307-7d41-44b9-8191-e0542005616f a ns1:Book ;
-    ns1:author "Sébastien Fréchette (Biz)"^^xsd:string ;
+    ns1:author "Sébastien Fréchette"^^xsd:string ;
     ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "12 à 17 ans"^^xsd:string,
@@ -2438,7 +2438,7 @@ schema:Bookcbdab452-2aad-461a-9436-0faac07200c8 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string .
 
 schema:Bookcc55f6c4-4462-4aa2-8286-670ed55e9c2a a ns1:Book ;
-    ns1:author "Roger Girard (Rogé)"^^xsd:string ;
+    ns1:author "Roger Girard"^^xsd:string ;
     ns1:award "Prix Littéraires Du Gouverneur Général Du Canada" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Illustration"^^xsd:string,
