@@ -4,7 +4,7 @@
 ns1:Book0d4f2af3-5b68-4a37-a7b4-ff48d3a3e5c9 a ns1:Book ;
     ns1:author "Joanne Schwartz"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2017-01-01"^^xsd:date ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -16,7 +16,7 @@ ns1:Book0d4f2af3-5b68-4a37-a7b4-ff48d3a3e5c9 a ns1:Book ;
 ns1:Book0d73f0b9-37f0-4d9c-839a-eb4b3cfc68d2 a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2019-01-01"^^xsd:date ;
+    ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -27,7 +27,7 @@ ns1:Book0d73f0b9-37f0-4d9c-839a-eb4b3cfc68d2 a ns1:Book ;
 ns1:Book1b4457f3-1333-4e0e-b6c1-3c6711f5e37b a ns1:Book ;
     ns1:author "Nicola I. Campbell"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2008-01-01"^^xsd:date ;
+    ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -39,7 +39,7 @@ ns1:Book1b4457f3-1333-4e0e-b6c1-3c6711f5e37b a ns1:Book ;
 ns1:Book204fd1e5-9810-4d4e-8b89-5e0e89f827d0 a ns1:Book ;
     ns1:author "Heather Smith"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2018-01-01"^^xsd:date ;
+    ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -50,7 +50,7 @@ ns1:Book204fd1e5-9810-4d4e-8b89-5e0e89f827d0 a ns1:Book ;
 ns1:Book25b6e934-39f4-4b29-9509-8b6e6cbb9c96 a ns1:Book ;
     ns1:author "Erin Bow"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2010-01-01"^^xsd:date ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -61,7 +61,7 @@ ns1:Book25b6e934-39f4-4b29-9509-8b6e6cbb9c96 a ns1:Book ;
 ns1:Book2f6e1fa0-059a-41b1-8e6a-4a91c6f8e1dd a ns1:Book ;
     ns1:author "Mario Brassard"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2011-01-01"^^xsd:date ;
+    ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -73,7 +73,7 @@ ns1:Book2f6e1fa0-059a-41b1-8e6a-4a91c6f8e1dd a ns1:Book ;
 ns1:Book4dd1e0b7-7e5a-49b3-a4e6-55a6ac4d9e95 a ns1:Book ;
     ns1:author "Marthe Jocelyn"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2004-01-01"^^xsd:date ;
+    ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -84,7 +84,7 @@ ns1:Book4dd1e0b7-7e5a-49b3-a4e6-55a6ac4d9e95 a ns1:Book ;
 ns1:Book4ec90321-5de5-4ec1-948f-5f9d0a3a6c25 a ns1:Book ;
     ns1:author "Julie Flett"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2019-01-01"^^xsd:date ;
+    ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -95,7 +95,7 @@ ns1:Book4ec90321-5de5-4ec1-948f-5f9d0a3a6c25 a ns1:Book ;
 ns1:Book576fd2a0-9f7a-4101-8351-2e27a4359a4d a ns1:Book ;
     ns1:author "Christopher Paul Curtis"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2007-01-01"^^xsd:date ;
+    ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -106,7 +106,7 @@ ns1:Book576fd2a0-9f7a-4101-8351-2e27a4359a4d a ns1:Book ;
 ns1:Book5d2ebeec-4d23-4c3f-aa1f-8cc84d3e8b47 a ns1:Book ;
     ns1:author "André Leblanc"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2006-01-01"^^xsd:date ;
+    ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -117,7 +117,7 @@ ns1:Book5d2ebeec-4d23-4c3f-aa1f-8cc84d3e8b47 a ns1:Book ;
 ns1:Book6a3a5c3d-3cde-4b52-86b5-078c8e5155b9 a ns1:Book ;
     ns1:author "Orbie"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2021-01-01"^^xsd:date ;
+    ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -128,7 +128,7 @@ ns1:Book6a3a5c3d-3cde-4b52-86b5-078c8e5155b9 a ns1:Book ;
 ns1:Book6a9f3ed9-8af3-4b1c-87b1-4a8d20b36a9e a ns1:Book ;
     ns1:author "Melanie Florence"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2015-01-01"^^xsd:date ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -140,7 +140,7 @@ ns1:Book6a9f3ed9-8af3-4b1c-87b1-4a8d20b36a9e a ns1:Book ;
 ns1:Book6eb6cbea-1c72-4f3b-b8e9-9c6f9af9e8e1 a ns1:Book ;
     ns1:author "Trilby Kent"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2011-01-01"^^xsd:date ;
+    ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -151,7 +151,7 @@ ns1:Book6eb6cbea-1c72-4f3b-b8e9-9c6f9af9e8e1 a ns1:Book ;
 ns1:Book77d5a84f-98a3-4a22-89d3-5f9da1b947f7 a ns1:Book ;
     ns1:author "Linda Amyot"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2010-01-01"^^xsd:date ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -162,7 +162,7 @@ ns1:Book77d5a84f-98a3-4a22-89d3-5f9da1b947f7 a ns1:Book ;
 ns1:Book7c62a413-39c5-4b76-8b5d-fc0e997a6e2b a ns1:Book ;
     ns1:author "Gilles Vigneault"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2007-01-01"^^xsd:date ;
+    ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -174,7 +174,7 @@ ns1:Book7c62a413-39c5-4b76-8b5d-fc0e997a6e2b a ns1:Book ;
 ns1:Book7e158b4b-2b12-4bbd-bb5b-35c6b28a602d a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2015-01-01"^^xsd:date ;
+    ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -185,7 +185,7 @@ ns1:Book7e158b4b-2b12-4bbd-bb5b-35c6b28a602d a ns1:Book ;
 ns1:Book883e43e5-0f5e-46a5-a8a7-7f8c7b0e4a15 a ns1:Book ;
     ns1:author "Jonathan Auxier"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2014-01-01"^^xsd:date ;
+    ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -196,7 +196,7 @@ ns1:Book883e43e5-0f5e-46a5-a8a7-7f8c7b0e4a15 a ns1:Book ;
 ns1:Book8a0c4e39-7f40-4a4f-bdd4-4b5a3c83f9b7 a ns1:Book ;
     ns1:author "Pamela Porter"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2005-01-01"^^xsd:date ;
+    ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -207,7 +207,7 @@ ns1:Book8a0c4e39-7f40-4a4f-bdd4-4b5a3c83f9b7 a ns1:Book ;
 ns1:Book8d6a0b94-cf9e-4ec6-af17-3c4f3f02f041 a ns1:Book ;
     ns1:author "Larry Tremblay"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2016-01-01"^^xsd:date ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -219,7 +219,7 @@ ns1:Book8d6a0b94-cf9e-4ec6-af17-3c4f3f02f041 a ns1:Book ;
 ns1:Book9ebd49f3-42b7-4ef0-afe3-4a4e4e4e685b a ns1:Book ;
     ns1:author "Sarah Ellis"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2006-01-01"^^xsd:date ;
+    ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -230,7 +230,7 @@ ns1:Book9ebd49f3-42b7-4ef0-afe3-4a4e4e4e685b a ns1:Book ;
 ns1:Booka2d7e628-0f34-4e8c-bf44-f2aa3a8a5b18 a ns1:Book ;
     ns1:author "Arthur Slade"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2009-01-01"^^xsd:date ;
+    ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -241,7 +241,7 @@ ns1:Booka2d7e628-0f34-4e8c-bf44-f2aa3a8a5b18 a ns1:Book ;
 ns1:Bookaf4a0f4e-7217-4a6b-9c1f-4e1024c2d851 a ns1:Book ;
     ns1:author "François Barcelo"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2004-01-01"^^xsd:date ;
+    ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -253,7 +253,7 @@ ns1:Bookaf4a0f4e-7217-4a6b-9c1f-4e1024c2d851 a ns1:Book ;
 ns1:Bookb15b4d7d-6dcb-40d4-b882-073d2c4a9c41 a ns1:Book ;
     ns1:author "Anne Villeneuve"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2008-01-01"^^xsd:date ;
+    ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -264,7 +264,7 @@ ns1:Bookb15b4d7d-6dcb-40d4-b882-073d2c4a9c41 a ns1:Book ;
 ns1:Bookb6a1f8c3-7da7-41fb-98ed-e1c50f7c68fd a ns1:Book ;
     ns1:author "Vigg"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2020-01-01"^^xsd:date ;
+    ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -275,7 +275,7 @@ ns1:Bookb6a1f8c3-7da7-41fb-98ed-e1c50f7c68fd a ns1:Book ;
 ns1:Bookb7a8f6fd-8d40-40c4-bd6f-431d6a9baf6c a ns1:Book ;
     ns1:author "François Gravel"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2005-01-01"^^xsd:date ;
+    ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -287,7 +287,7 @@ ns1:Bookb7a8f6fd-8d40-40c4-bd6f-431d6a9baf6c a ns1:Book ;
 ns1:Bookb92a76f4-6e2b-4a8f-99d9-048b6a02b5e3 a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2017-01-01"^^xsd:date ;
+    ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -298,7 +298,7 @@ ns1:Bookb92a76f4-6e2b-4a8f-99d9-048b6a02b5e3 a ns1:Book ;
 ns1:Bookbf9f2c3e-5473-4d5d-9986-4e4f595b328f a ns1:Book ;
     ns1:author "Stéphanie Boulay"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2018-01-01"^^xsd:date ;
+    ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -310,7 +310,7 @@ ns1:Bookbf9f2c3e-5473-4d5d-9986-4e4f595b328f a ns1:Book ;
 ns1:Bookc3a72983-5c7b-4c9b-98b1-94a23c17d6f5 a ns1:Book ;
     ns1:author "Kathy Stinson"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2013-01-01"^^xsd:date ;
+    ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -322,7 +322,7 @@ ns1:Bookc3a72983-5c7b-4c9b-98b1-94a23c17d6f5 a ns1:Book ;
 ns1:Bookc5f22f9d-641b-4d4b-8c02-4c7d132c4a07 a ns1:Book ;
     ns1:author "Andrée Poulin"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2013-01-01"^^xsd:date ;
+    ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -333,7 +333,7 @@ ns1:Bookc5f22f9d-641b-4d4b-8c02-4c7d132c4a07 a ns1:Book ;
 ns1:Bookc8147bde-5586-4e92-b40e-0e5a6e5c7f3d a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2014-01-01"^^xsd:date ;
+    ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -344,7 +344,7 @@ ns1:Bookc8147bde-5586-4e92-b40e-0e5a6e5c7f3d a ns1:Book ;
 ns1:Bookc8d8e97c-1f5f-4de1-87a5-5e65e7eae01c a ns1:Book ;
     ns1:author "Polly Horvath"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2012-01-01"^^xsd:date ;
+    ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -355,7 +355,7 @@ ns1:Bookc8d8e97c-1f5f-4de1-87a5-5e65e7eae01c a ns1:Book ;
 ns1:Bookc9b9e5d2-8c23-4ee9-8ff3-9e07dc4c1ee9 a ns1:Book ;
     ns1:author "Mélanie Tellier"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2010-01-01"^^xsd:date ;
+    ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -369,7 +369,7 @@ ns1:Bookc9bce53b-8425-4d64-ba56-3e318dfc97c9 a ns1:Book ;
         "Eric Fan"^^xsd:string,
         "Terry Fan"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2020-01-01"^^xsd:date ;
+    ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -380,7 +380,7 @@ ns1:Bookc9bce53b-8425-4d64-ba56-3e318dfc97c9 a ns1:Book ;
 ns1:Bookd015d61a-8e30-4ea0-86c6-c5b67b2181b9 a ns1:Book ;
     ns1:author "Michel Noël"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2012-01-01"^^xsd:date ;
+    ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -391,7 +391,7 @@ ns1:Bookd015d61a-8e30-4ea0-86c6-c5b67b2181b9 a ns1:Book ;
 ns1:Bookd4a94ec9-7d33-49e3-97b5-4d17ad84db19 a ns1:Book ;
     ns1:author "Jan Thornhill"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2016-01-01"^^xsd:date ;
+    ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
@@ -402,7 +402,7 @@ ns1:Bookd4a94ec9-7d33-49e3-97b5-4d17ad84db19 a ns1:Book ;
 ns1:Bookdbe2aa9e-4c19-4685-94ef-7734cf6df295 a ns1:Book ;
     ns1:author "David A. Robertson"^^xsd:string ;
     ns1:award "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse" ;
-    ns1:datePublished "2021-01-01"^^xsd:date ;
+    ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "0 à 12 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
