@@ -3,7 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 schema:Book00a1dc84-7b00-4883-a781-e90942a4db53 a ns1:Book ;
-    ns1:author "Thomas VINAU"^^xsd:string ;
+    ns1:author "Thomas Vinau"^^xsd:string ;
     ns1:award "Prix Joël Sadeler" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -34,27 +34,22 @@ schema:Book037df848-cec7-4250-bdea-ace7b918cc0c a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
 
 schema:Book04733595-8d0b-425a-89be-960a3565a4ef a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/livres/livre/46970-les-proies-\"><i>Les proies</i></a> d’Amélie Sarn"^^xsd:string ;
+    ns1:author "Amélie Sarn"^^xsd:string ;
     ns1:award "Prix Des Lecteurs En Seine" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>Les proies</i>"^^xsd:string ;
+    ns1:name "Les proies"^^xsd:string ;
     ns1:publisher "Milan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lecteurs-en-seine"^^xsd:string .
 
 schema:Book0486270b-8311-4b01-abf4-c9d9cb2ea848 a ns1:Book ;
-    ns1:author "L'auteur-illustrateur <a href=\"https://www.ricochet-jeunes.org/auteurs/shaun-tan\">Shaun Tan</a>"^^xsd:string ;
+    ns1:author "Shaun Tan"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2011"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Shaun Tan"^^xsd:string ;
-    ns1:publisher "Paulines" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Book0494a42a-758a-4f34-bb0f-e69a4c9d6126 a ns1:Book ;
-    ns1:author "Jon Klassen, <i>This Is Not My Hat </i>"^^xsd:string ;
+    ns1:author "Jon Klassen"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -74,12 +69,12 @@ schema:Book050eebdd-1271-4434-a545-df6a56e30c02 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-rts-litterature-ados"^^xsd:string .
 
 schema:Book05a22c1e-6e5f-469e-a5b9-1a70ae37beef a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/livres/poemes-sans-queue-ni-tete\"><i>Poèmes sans queue ni tête</i></a> d’après Edward Lear, adapté par François David"^^xsd:string ;
+    ns1:author "François David"^^xsd:string ;
     ns1:award "Prix Poésie Des Lecteurs Lire Et Faire Lire" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>Poèmes sans queue ni tête</i>"^^xsd:string ;
+    ns1:name "Poèmes sans queue ni tête"^^xsd:string ;
     ns1:publisher "Møtus" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-poesie-des-lecteurs-lire-et-faire-lire"^^xsd:string .
 
@@ -94,12 +89,12 @@ schema:Book064b015f-9ee8-4534-9f68-b85b1aed7b29 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
 
 schema:Book067d300f-b684-428e-a0b5-36fab4795889 a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/livres/livre/4018-l-espionne-du-roi-soleil\" target=\"_blank\"><i>L’espionne du Roi-Soleil</i></a> d’Annie Pietri"^^xsd:string ;
+    ns1:author "Annie Pietri"^^xsd:string ;
     ns1:award "Prix Ados Rennes/Ille-Et-Vilaine" ;
     ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>L’espionne du Roi-Soleil</i>"^^xsd:string ;
+    ns1:name "L’espionne du Roi-Soleil"^^xsd:string ;
     ns1:publisher "Bayard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:string .
 
@@ -185,7 +180,7 @@ schema:Book077da240-64c1-456c-97f2-a5ad266fa4bc a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-poesie-des-lecteurs-lire-et-faire-lire"^^xsd:string .
 
 schema:Book08858810-b37a-49f5-9f15-bc9e6aabd3d8 a ns1:Book ;
-    ns1:author "-sarah-fisher\">Le fantôme de Sarah Fisher</a> </em>d'Agnès Laroche"^^xsd:string ;
+    ns1:author "Agnès Laroche"^^xsd:string ;
     ns1:award "Prix Livrentête : Albums" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -306,13 +301,13 @@ schema:Book0c9efeb9-327b-4c09-8c1b-5397783a6348 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-poesie-des-lecteurs-lire-et-faire-lire"^^xsd:string .
 
 schema:Book0ca2e57d-c13c-4e33-a004-865590d7d6cd a ns1:Book ;
-    ns1:author "Suzi Pilet"^^xsd:string,
-        "b> <a href=\"https://www.ricochet-jeunes.org/livres/livre/58155-amadou-marchand-d-escargots\" target=\"_blank\"><i>Amadou, marchand d'escargots</i></a> d'Alexis Peiry"^^xsd:string ;
+    ns1:author "Alexis Peiry"^^xsd:string,
+        "Suzi Pilet"^^xsd:string ;
     ns1:award "Prix Petit Angle" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>Amadou, marchand d'escargots</i>"^^xsd:string ;
+    ns1:name "Amadou, marchand d'escargots"^^xsd:string ;
     ns1:publisher "La Joie De Lire" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-petit-angle"^^xsd:string .
 
@@ -377,23 +372,18 @@ schema:Book0e9a4f2b-5bc4-4229-a817-ad185a387c44 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund"^^xsd:string .
 
 schema:Book0eaf4f1f-74a6-43a7-ba3a-27a723a26355 a ns1:Book ;
-    ns1:author "Marie-Francine Hébert. <a href=\"https://www.ricochet-jeunes.org/livres/nul-poisson-ou-aller\"><i>Nul poisson où aller</i> </a>"^^xsd:string ;
+    ns1:author "Marie-Francine Hébert"^^xsd:string ;
     ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>Nul poisson où aller</i>"^^xsd:string ;
+    ns1:name "Nul poisson où aller"^^xsd:string ;
     ns1:publisher "Les 400 Coups" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
 schema:Book0f015ba5-6515-4adb-aad8-c5279336012c a ns1:Book ;
-    ns1:author "L'autrice <a href=\"https://www.ricochet-jeunes.org/auteurs/sonya-hartnett\">Sonya Hartnett</a>"^^xsd:string ;
+    ns1:author "Sonya Hartnett"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2008"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Sonya Hartnett"^^xsd:string ;
-    ns1:publisher "Paulines" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Book0f7203f4-42c2-48e7-b4e0-c144aeeb4abe a ns1:Book ;
@@ -467,13 +457,8 @@ schema:Book14dc51fd-c10f-4f7e-813c-0348eaeaff4c a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-pitchou"^^xsd:string .
 
 schema:Book156677ae-fbfc-43fd-b522-9faca5b9801a a ns1:Book ;
-    ns1:author "L'autrice <a href=\"https://www.ricochet-jeunes.org/auteurs/lygia-bojunga-nunes\">Lygia Bojunga Nunes</a>"^^xsd:string ;
+    ns1:author "Lygia Bojunga Nunes"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2004"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Lygia Bojunga Nunes"^^xsd:string ;
-    ns1:publisher "Boréal" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Book15e71776-6689-4029-ad2b-0ff636aaf149 a ns1:Book ;
@@ -487,8 +472,8 @@ schema:Book15e71776-6689-4029-ad2b-0ff636aaf149 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-poesie-des-lecteurs-lire-et-faire-lire"^^xsd:string .
 
 schema:Book160588cc-fe2d-45a3-9812-12891513b8ad a ns1:Book ;
-    ns1:author "\">Tout un monde</a> </i>de Katy Couprie"^^xsd:string,
-        "Antonin Louchard"^^xsd:string ;
+    ns1:author "Antonin Louchard"^^xsd:string,
+        "Katy Couprie"^^xsd:string ;
     ns1:award "Prix Pitchou" ;
     ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -518,7 +503,7 @@ schema:Book166edfa9-d36e-476d-9cd4-cb6a09a517ea a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-val-cerou"^^xsd:string .
 
 schema:Book17fcf265-5d9d-497b-9c43-32ed0badb01a a ns1:Book ;
-    ns1:author "-sarasvati\" target=\"_blank\">Le Chemin de Sarasvati </a></i> de Claire Ubac"^^xsd:string ;
+    ns1:author "Claire Ubac"^^xsd:string ;
     ns1:award "Grand Prix Sgdl Du Roman Jeunesse" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -528,12 +513,12 @@ schema:Book17fcf265-5d9d-497b-9c43-32ed0badb01a a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
 
 schema:Book1870e3f9-dd2a-4956-bae6-8ebe2e9e9827 a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/livres/le-secret-10\"><i>Le secret</i> </a>d'Éric Battut"^^xsd:string ;
+    ns1:author "Éric Battut"^^xsd:string ;
     ns1:award "Prix Pitchou" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>Le secret</i>"^^xsd:string ;
+    ns1:name "Le secret"^^xsd:string ;
     ns1:publisher "Didier Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-pitchou"^^xsd:string .
 
@@ -609,13 +594,8 @@ schema:Book1b9a58b5-0b0d-41c8-9309-f6efc013ea8d a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:string .
 
 schema:Book1c62945b-a19e-4891-b580-b2297c9edb9a a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/auteurs/wenxuan-cao\">Cao Wenxuan</a>"^^xsd:string ;
+    ns1:author "Cao Wenxuan"^^xsd:string ;
     ns1:award "Prix Des Lecteurs En Seine" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Cao Wenxuan"^^xsd:string ;
-    ns1:publisher "Cheyne" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-hans-christian-andersen"^^xsd:string .
 
 schema:Book1cac12bf-b3aa-4038-95bb-f81f74a67e6c a ns1:Book ;
@@ -639,13 +619,8 @@ schema:Book1d0dc4ce-60af-4c25-a97e-886a37bcaa0a a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/goncourt-des-lyceens"^^xsd:string .
 
 schema:Book1efe6124-33b2-47d4-b94a-83e5f1b6e509 a ns1:Book ;
-    ns1:author "L'autrice-illustratrice <a href=\"https://www.ricochet-jeunes.org/auteurs/hee-na-baek\">Hee-Na Baek</a>"^^xsd:string ;
+    ns1:author "Hee-Na Baek"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2020"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Hee-Na Baek"^^xsd:string ;
-    ns1:publisher "Rue Du Monde" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Book1f1a6692-7f81-43cc-bc1f-04e34252f783 a ns1:Book ;
@@ -790,7 +765,7 @@ schema:Book24d59146-f270-4acc-aa0a-51d0b05597a8 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/goncourt-des-lyceens"^^xsd:string .
 
 schema:Book25640cac-2fab-49f6-a7f7-2c9fa99188e7 a ns1:Book ;
-    ns1:author "-lilou-la-fee\" target=\"_blank\">Les voyages merveilleux de Lilou la fée </a></i> de Emmanuelle Houdart"^^xsd:string ;
+    ns1:author "Emmanuelle Houdart"^^xsd:string ;
     ns1:award "Grand Prix Sgdl Du Roman Jeunesse" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -810,12 +785,12 @@ schema:Book26f3682c-1729-4c03-af27-eb9e1fb7634c a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-gulli-du-roman"^^xsd:string .
 
 schema:Book294c9c2a-92ec-40f3-b651-980bc435e92a a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/livres/petites-meteorologies\"><i>Petites météorologies</i></a> d'Anne Herbauts"^^xsd:string ;
+    ns1:author "Anne Herbauts"^^xsd:string ;
     ns1:award "Prix Pitchou" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>Petites météorologies</i>"^^xsd:string ;
+    ns1:name "Petites météorologies"^^xsd:string ;
     ns1:publisher "Casterman" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-pitchou"^^xsd:string .
 
@@ -850,13 +825,8 @@ schema:Book2aa8ad3b-f5f7-4467-b2a8-e9b9ec407593 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/baobab-de-lalbum"^^xsd:string .
 
 schema:Book2bc36646-f893-4bd2-9885-4aa86107693d a ns1:Book ;
-    ns1:author "L'auteure américaine <a href=\"https://www.ricochet-jeunes.org/auteurs/katherine-paterson\">Katherine Paterson</a>"^^xsd:string ;
+    ns1:author "Katherine Paterson"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2006"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Katherine Paterson"^^xsd:string ;
-    ns1:publisher "Talents Hauts" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Book2d616d97-0997-4c66-bc71-2fca6a38abfe a ns1:Book ;
@@ -1112,13 +1082,8 @@ schema:Book3e78e4a4-ca39-4f63-8f66-f4c27049ffd7 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-pitchou"^^xsd:string .
 
 schema:Book40aba53c-2e9d-4614-a281-76b8b6685805 a ns1:Book ;
-    ns1:author "L'auteur <a href=\"https://www.ricochet-jeunes.org/auteurs/bart-moeyaert\">Bart Moeyaert</a>"^^xsd:string ;
+    ns1:author "Bart Moeyaert"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2019"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Bart Moeyaert"^^xsd:string ;
-    ns1:publisher "Bilboquet" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Book40b5d6c2-512a-4668-96c6-ff747509ba1c a ns1:Book ;
@@ -1183,7 +1148,7 @@ schema:Book43667cff-b0de-4248-9d61-22d0bf3a68ec a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
 
 schema:Book47aca5e8-e837-4aee-b9b4-0c650563e884 a ns1:Book ;
-    ns1:author "s-croisades\">La petite princesse des croisades</a> </i>de Sophie Lamoureux"^^xsd:string ;
+    ns1:author "Sophie Lamoureux"^^xsd:string ;
     ns1:award "Prix Val Cérou" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1444,13 +1409,12 @@ schema:Book56f25f53-4ebb-4c07-b0fa-ba0249239254 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/goncourt-des-lyceens"^^xsd:string .
 
 schema:Book57a4e153-c1ce-4db0-b90a-74c67f2d1fff a ns1:Book ;
-    ns1:author "Marianne Dubuc. <a href=\"https://www.ricochet-jeunes.org/livres/livre/56635-le-lion-et-l-oiseau\" target=\"_blank\"><i>Le lion"^^xsd:string,
-        "l’oiseau</i></a>"^^xsd:string ;
+    ns1:author "Marianne Dubuc"^^xsd:string ;
     ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>Le lion et l’oiseau</i>"^^xsd:string ;
+    ns1:name "Le lion et l’oiseau"^^xsd:string ;
     ns1:publisher "La Pastèque" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -1505,12 +1469,12 @@ schema:Book5b907c91-7c35-4c3a-904f-60a6669acc09 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string .
 
 schema:Book5bc9e6e7-c22e-483b-96e3-62c16bc5ea4d a ns1:Book ;
-    ns1:author "Sydney Smith, <em>Small in the city</em>"^^xsd:string ;
+    ns1:author "Sydney Smith"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>Perdu dans la ville</em>"^^xsd:string ;
+    ns1:name "Perdu dans la ville"^^xsd:string ;
     ns1:publisher "Tundra Books" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-kate-greenaway"^^xsd:string .
 
@@ -1576,28 +1540,25 @@ schema:Book5e372492-dd25-46c5-ba74-e1a182c6032a a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-poesie-des-lecteurs-lire-et-faire-lire"^^xsd:string .
 
 schema:Book5f0db26a-29be-4e1a-9d1d-21aaec8da27d a ns1:Book ;
-    ns1:author "strong><br/><a href=\"https://www.ricochet-jeunes.org/livres/le-magicien-cest-toi\"><em>Le magicien c’est toi</em></a>, Anna Guillet"^^xsd:string ;
+    ns1:author "Anna Guillet"^^xsd:string ;
     ns1:award "Prix Talents Cultura : Les Talents Romans 2021" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>Le magicien c’est toi</em>"^^xsd:string ;
+    ns1:name "Le magicien c’est toi"^^xsd:string ;
     ns1:publisher "Milan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-talents-cultura"^^xsd:string .
 
 schema:Book5f65faf4-d378-416f-bc91-d67d6c85b5f2 a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/auteurs/albertine\">Albertine</a>"^^xsd:string ;
+    ns1:author "Albertine"^^xsd:string ;
     ns1:award "Prix Des Lecteurs En Seine" ;
-    ns1:datePublished "2020"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Albertine"^^xsd:string ;
-    ns1:publisher "Seuil Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-hans-christian-andersen"^^xsd:string .
 
 schema:Book5f687bce-f694-4e69-8d77-0ce0f8219616 a ns1:Book ;
-    ns1:author "Fernando Puig Rosado"^^xsd:string,
-        "Sylvie Girardet, Claire Merleau-Ponty, Anne Tardy"^^xsd:string ;
+    ns1:author "Anne Tardy"^^xsd:string,
+        "Claire Merleau-Ponty"^^xsd:string,
+        "Fernando Puig Rosado"^^xsd:string,
+        "Sylvie Girardet"^^xsd:string ;
     ns1:award "Prix Jacques Asklund" ;
     ns1:datePublished "1990"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1657,12 +1618,12 @@ schema:Book633a2e50-34e4-440d-bb95-2ad4f3b0ddbe a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lyceens-allemands"^^xsd:string .
 
 schema:Book64fa9785-18ca-4f2d-be73-804e07bfc15c a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/livres/livre/50237-le-tout-petit\"><i>Le tout petit</i></a> d'Anne Letuffe"^^xsd:string ;
+    ns1:author "Anne Letuffe"^^xsd:string ;
     ns1:award "Prix Pitchou" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>Le tout petit</i>"^^xsd:string ;
+    ns1:name "Le tout petit"^^xsd:string ;
     ns1:publisher "L'Atelier Du Poisson Soluble" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-pitchou"^^xsd:string .
 
@@ -1718,13 +1679,8 @@ schema:Book6a90e0fd-1130-42ba-a0de-df4fc30bb9d5 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund"^^xsd:string .
 
 schema:Book6b8ee677-c594-4b22-aa2f-5f0c2d045a26 a ns1:Book ;
-    ns1:author "L'autrice <a href=\"https://www.ricochet-jeunes.org/auteurs/barbro-lindgren\">Barbro Lindgren</a>"^^xsd:string ;
+    ns1:author "Barbro Lindgren"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2014"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Barbro Lindgren"^^xsd:string ;
-    ns1:publisher "Soulières" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Book6b984593-01dc-4b9f-9abf-a1805707b4b9 a ns1:Book ;
@@ -1911,13 +1867,8 @@ schema:Book784c9fc1-b3ac-4055-afed-09e557f14f16 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
 
 schema:Book79456b65-3ed5-4566-9f37-58c7f3404d16 a ns1:Book ;
-    ns1:author "L'auteur <a href=\"https://www.ricochet-jeunes.org/auteurs/guus-kuijer\">Guus Kuijer</a>"^^xsd:string ;
+    ns1:author "Guus Kuijer"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2012"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Guus Kuijer"^^xsd:string ;
-    ns1:publisher "Bayard" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Book794db7a0-4470-4b99-ae05-24bc9f25ce85 a ns1:Book ;
@@ -1972,13 +1923,8 @@ schema:Book7fb8a24c-1f91-456e-8e56-ef9f61a68b83 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:string .
 
 schema:Book80361626-bffe-4910-8adb-ca6f5b58739d a ns1:Book ;
-    ns1:author "L'illustrateur <a href=\"https://www.ricochet-jeunes.org/auteurs/ryoji-arai\">Ryôji Arai</a>"^^xsd:string ;
+    ns1:author "Ryôji Arai"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2005"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Ryôji Arai"^^xsd:string ;
-    ns1:publisher "Plon" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Book8160e5ca-f9db-448e-9068-216c853815a1 a ns1:Book ;
@@ -2003,12 +1949,12 @@ schema:Book826a3cb5-ab5f-4a93-b9f8-fa96e59378aa a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler"^^xsd:string .
 
 schema:Book82f55501-0993-4cee-8a43-f080524fca90 a ns1:Book ;
-    ns1:author "s-enfants\"><em>La tribu des enfants</em></a>"^^xsd:string ;
+    ns1:author "Lane Smith"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>La tribu des enfants</em>"^^xsd:string ;
+    ns1:name "La tribu des enfants"^^xsd:string ;
     ns1:publisher "Groundwood Books" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-kate-greenaway"^^xsd:string .
 
@@ -2043,12 +1989,12 @@ schema:Book86056cfd-f31f-4198-9b91-0e24d402a511 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-rts-litterature-ados"^^xsd:string .
 
 schema:Book869c52a5-a217-4c4d-bd87-3984133012f7 a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/livres/mercredi\"><i>Mercredi</i></a> d'Anne Bertier"^^xsd:string ;
+    ns1:author "Anne Bertier"^^xsd:string ;
     ns1:award "Prix Pitchou" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>Mercredi</i>"^^xsd:string ;
+    ns1:name "Mercredi"^^xsd:string ;
     ns1:publisher "MeMo" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-pitchou"^^xsd:string .
 
@@ -2083,7 +2029,7 @@ schema:Book884b8a82-3d1a-4361-a286-15c5ca3b9cce a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund"^^xsd:string .
 
 schema:Book88cba5be-1d67-4152-96c3-b6818608723b a ns1:Book ;
-    ns1:author "s-reflets\">La maison des reflets</a> </i>de Camille Brissot"^^xsd:string ;
+    ns1:author "Camille Brissot"^^xsd:string ;
     ns1:award "Prix Rts Littérature Ados" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2114,28 +2060,29 @@ schema:Book8a35fefe-87a6-41b6-b2db-9789c94b2628 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/goncourt-des-lyceens"^^xsd:string .
 
 schema:Book8a819d6c-414a-4839-9916-2e08c3de3c86 a ns1:Book ;
-    ns1:author "Jan Pieńkowski, <i>The Haunted House </i>"^^xsd:string ;
+    ns1:author "Jan Pieńkowski"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
     ns1:datePublished "1979"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>La maison hantée</em>"^^xsd:string ;
+    ns1:name "La maison hantée"^^xsd:string ;
     ns1:publisher "Cheyne" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-kate-greenaway"^^xsd:string .
 
 schema:Book8b03515e-db3e-4b35-a919-2d1c924135a1 a ns1:Book ;
-    ns1:author "s-bebes\"><em>La guerre des bébés</em></a>"^^xsd:string ;
+    ns1:author "Carole Tremblay"^^xsd:string,
+        "Élodie Duhameau"^^xsd:string ;
     ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>La guerre des bébés</em>"^^xsd:string ;
+    ns1:name "La guerre des bébés"^^xsd:string ;
     ns1:publisher "La Courte Échelle" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
 schema:Book8b4e176b-6f7f-4743-b9d3-dd6c7f6af314 a ns1:Book ;
     ns1:author "Gaëlle Charlot"^^xsd:string,
-        "parts-d-enfants\" target=\"_blank\">Départs d’enfants</a></i> de Nicolas Gerrier"^^xsd:string ;
+        "Nicolas Gerrier"^^xsd:string ;
     ns1:award "Grand Prix Sgdl Du Roman Jeunesse" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2217,7 +2164,7 @@ schema:Book8fe06df6-26ba-4d1e-b0b0-4366b11e4319 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/livre-mon-ami"^^xsd:string .
 
 schema:Book90e3310f-966b-472f-b43a-91be5f79be7e a ns1:Book ;
-    ns1:author "Jackie Morris, <em>The Lost Words </em>"^^xsd:string ;
+    ns1:author "Jackie Morris"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2287,7 +2234,7 @@ schema:Book944c155e-bb95-4c30-99d8-cddaf1ad679d a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/goncourt-des-lyceens"^^xsd:string .
 
 schema:Book957ce4eb-8803-4475-b58d-5fb4dbce98a9 a ns1:Book ;
-    ns1:author "-fatimzahra\" target=\"_blank\">Le voyage de Fatimzahra</a></i> de Kochka"^^xsd:string ;
+    ns1:author "Kochka"^^xsd:string ;
     ns1:award "Prix Jacques Asklund" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2307,13 +2254,13 @@ schema:Book96cb1b4e-f45b-4fa7-bab6-9cf619c2da77 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler"^^xsd:string .
 
 schema:Book971e0f5a-d4f2-4abb-a71c-8ff8b03c8c71 a ns1:Book ;
-    ns1:author "Fanny Britt, <a href=\"https://www.ricochet-jeunes.org/livres/louis-parmi-les-spectres\"><em>Louis parmi les spectres</em></a>"^^xsd:string,
+    ns1:author "Fanny Britt"^^xsd:string,
         "Isabelle Arsenault"^^xsd:string ;
     ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>Louis parmi les spectres</em>"^^xsd:string ;
+    ns1:name "Louis parmi les spectres"^^xsd:string ;
     ns1:publisher "La Pastèque" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -2328,13 +2275,8 @@ schema:Book9873608c-235c-47ad-9d95-23b07ed5befd a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-pitchou"^^xsd:string .
 
 schema:Book989bfbfe-d37c-4a45-ab68-4a53f677a181 a ns1:Book ;
-    ns1:author "L'autrice-illustratrice <a href=\"https://www.ricochet-jeunes.org/auteurs/kitty-crowther\">Kitty Crowther</a>"^^xsd:string ;
+    ns1:author "Kitty Crowther"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2010"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Kitty Crowther"^^xsd:string ;
-    ns1:publisher "Bilboquet" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Book98ed3fa3-f896-4b35-8d55-dd5e38194a69 a ns1:Book ;
@@ -2358,17 +2300,12 @@ schema:Book98f91bbe-b20a-4201-bfa8-d96773df3290 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sesame"^^xsd:string .
 
 schema:Book996ad582-1790-40a3-ad58-2dc779b285a6 a ns1:Book ;
-    ns1:author "L'auteur <a href=\"https://www.ricochet-jeunes.org/auteurs/jean-claude-mourlevat\">Jean-Claude Mourlevat</a>"^^xsd:string ;
+    ns1:author "Jean-Claude Mourlevat"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2021"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Jean-Claude Mourlevat"^^xsd:string ;
-    ns1:publisher "Mortagne" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Book9993be8f-8e39-4c07-adc3-4a26f038cbf3 a ns1:Book ;
-    ns1:author "moiselle-sauve-qui-peut\" target=\"_blank\">Mademoiselle sauve-qui-peut</a></i> de Philippe Corentin"^^xsd:string ;
+    ns1:author "Philippe Corentin"^^xsd:string ;
     ns1:award "Grand Prix Sgdl Du Roman Jeunesse" ;
     ns1:datePublished "1997"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2388,7 +2325,7 @@ schema:Book9a5bf148-c555-4a74-8042-359c93871591 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-harry-black-de-lalbum-jeunesse"^^xsd:string .
 
 schema:Book9aee1c7b-c947-412b-9494-55fb634d4004 a ns1:Book ;
-    ns1:author "m> <a href=\"https://www.jeunesse.magnard.fr//livre/9782210962767-encore-faut-il-rester-vivants\" target=\"_blank\">Encore faut-il rester vivants</a></em> d'Anne Ferrier"^^xsd:string ;
+    ns1:author "Anne Ferrier"^^xsd:string ;
     ns1:award "Prix Ados Rennes/Ille-Et-Vilaine" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2489,7 +2426,7 @@ schema:Booka11f0670-8310-46fd-8a74-b38c8188f6fb a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lyceens-allemands"^^xsd:string .
 
 schema:Booka16eb817-3469-46c2-b550-52b0c0204436 a ns1:Book ;
-    ns1:author "Amélie Dumoulin, <em><a href=\"https://www.quebec-amerique.com/livres/jeunesse/14-ans-et-plus/titan-14/fe-verte-2347\" target=\"_blank\">Fé verte</a> </em>"^^xsd:string ;
+    ns1:author "Amélie Dumoulin"^^xsd:string ;
     ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2529,7 +2466,7 @@ schema:Booka264ae06-054d-4c16-aa5f-55be5a48b8fa a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/goncourt-des-lyceens"^^xsd:string .
 
 schema:Booka26c9d6c-5999-4477-82a3-b0fb18b19e81 a ns1:Book ;
-    ns1:author "Levi Pinfold, <i>Black Dog </i>"^^xsd:string ;
+    ns1:author "Levi Pinfold"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2579,12 +2516,12 @@ schema:Booka7972f67-a13d-4d85-b7e3-2283b69314de a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string .
 
 schema:Bookaa111705-9b36-42f6-9a12-35ae42a7b635 a ns1:Book ;
-    ns1:author "a href=\"http://www.cadex-editions.net/En-toutes-circonstances\" target=\"_blank\"><i>En toutes circonstances</i></a> d’Albane Gellé"^^xsd:string ;
+    ns1:author "Albane Gellé"^^xsd:string ;
     ns1:award "Prix Poésie Des Lecteurs Lire Et Faire Lire" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>En toutes circonstances</i>"^^xsd:string ;
+    ns1:name "En toutes circonstances"^^xsd:string ;
     ns1:publisher "D’Eux" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-poesie-des-lecteurs-lire-et-faire-lire"^^xsd:string .
 
@@ -2609,12 +2546,12 @@ schema:Bookaa981133-4aa1-4c5e-8e56-c6171d17f033 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string .
 
 schema:Bookaaed4b4b-8b61-4028-847e-415bd155f02e a ns1:Book ;
-    ns1:author "Lauren Child, <i>I Will Not Ever Never Eat a Tomato </i>"^^xsd:string ;
+    ns1:author "Lauren Child"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
     ns1:datePublished "2000"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>Moi, j'aime pas les tomates</em>"^^xsd:string ;
+    ns1:name "Moi, j'aime pas les tomates"^^xsd:string ;
     ns1:publisher "Tundra Books" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-kate-greenaway"^^xsd:string .
 
@@ -2629,13 +2566,8 @@ schema:Bookac4bd4f5-4509-426e-b311-940c644d112a a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/goncourt-des-lyceens"^^xsd:string .
 
 schema:Bookac529844-b52d-475a-8c46-803aad31b743 a ns1:Book ;
-    ns1:author "L'autrice-illustratrice <a href=\"https://www.ricochet-jeunes.org/auteurs/isol\">Isol</a>"^^xsd:string ;
+    ns1:author "Isol"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2013"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Isol"^^xsd:string ;
-    ns1:publisher "Imagine" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Bookadf26219-61b9-41e4-a66b-8bcfb9e4e019 a ns1:Book ;
@@ -2649,22 +2581,22 @@ schema:Bookadf26219-61b9-41e4-a66b-8bcfb9e4e019 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sesame"^^xsd:string .
 
 schema:Bookae22349e-9e68-4b2c-84d5-c840f0718386 a ns1:Book ;
-    ns1:author "a href=\"https://www.ecoledesloisirs.fr/livre/age-dange\" target=\"_blank\"><i>L’Age d’Ange</i></a> d'Anne Percin"^^xsd:string ;
+    ns1:author "Anne Percin"^^xsd:string ;
     ns1:award "Prix Rts Littérature Ados" ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>L’Age d’Ange</i>"^^xsd:string ;
+    ns1:name "L’Age d’Ange"^^xsd:string ;
     ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-rts-litterature-ados"^^xsd:string .
 
 schema:Bookaf3a167d-eb6b-4c23-9a66-fbea6a553575 a ns1:Book ;
-    ns1:author "Jacques Goldstyn, <a href=\"https://www.ricochet-jeunes.org/livres/le-tricot\"><em>Le tricot</em></a>"^^xsd:string ;
+    ns1:author "Jacques Goldstyn"^^xsd:string ;
     ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>Le tricot</em>"^^xsd:string ;
+    ns1:name "Le tricot"^^xsd:string ;
     ns1:publisher "La Pastèque" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -2740,7 +2672,7 @@ schema:Bookb5ce48fe-c31d-414a-9799-11b83905d9d7 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/livre-mon-ami"^^xsd:string .
 
 schema:Bookb6bb0ccf-6861-4e6e-833b-c6c4633bacd1 a ns1:Book ;
-    ns1:author "-gaza\">Une bouteille dans la mer de Gaza</a> </i>de Valérie Zenatti"^^xsd:string ;
+    ns1:author "Valérie Zenatti"^^xsd:string ;
     ns1:award "Prix Sésame" ;
     ns1:datePublished "2006"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2750,13 +2682,8 @@ schema:Bookb6bb0ccf-6861-4e6e-833b-c6c4633bacd1 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sesame"^^xsd:string .
 
 schema:Bookb6f5b999-b86e-4b99-b9b5-ad82e2fc3361 a ns1:Book ;
-    ns1:author "a href=\"https://www.praesa.org.za/\" rel=\"noopener\" target=\"_blank\">Project for the Study of Alternative Education in South Africa"^^xsd:string ;
+    ns1:author "Project for the Study of Alternative Education in South Africa"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2015"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Project for the Study of Alternative Education in South Africa (PRAESA)"^^xsd:string ;
-    ns1:publisher "Paulines" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Bookb6f5d605-d932-4816-b254-f54c99c1c8ed a ns1:Book ;
@@ -2821,13 +2748,8 @@ schema:Bookb9617f2d-55ac-422b-8c2c-bee5eaac1df0 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sesame"^^xsd:string .
 
 schema:Bookbb4430e3-706f-446d-bb00-2f809d1ff02e a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/auteurs/marie-aude-murail\">Marie-Aude Murail</a>"^^xsd:string ;
+    ns1:author "Marie-Aude Murail"^^xsd:string ;
     ns1:award "Prix Des Lecteurs En Seine" ;
-    ns1:datePublished "2022"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Marie-Aude Murail"^^xsd:string ;
-    ns1:publisher "Mortagne" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-hans-christian-andersen"^^xsd:string .
 
 schema:Bookbb4d8815-83b9-4e5a-a626-f708dec34a92 a ns1:Book ;
@@ -2841,13 +2763,8 @@ schema:Bookbb4d8815-83b9-4e5a-a626-f708dec34a92 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund"^^xsd:string .
 
 schema:Bookbb638934-58d8-4809-b243-cbec9e5fcecc a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/auteurs/suzy-lee\">Suzy Lee</a>"^^xsd:string ;
+    ns1:author "Suzy Lee"^^xsd:string ;
     ns1:award "Prix Des Lecteurs En Seine" ;
-    ns1:datePublished "2022"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Suzy Lee"^^xsd:string ;
-    ns1:publisher "Rue De Sèvres" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-hans-christian-andersen"^^xsd:string .
 
 schema:Bookbc1341a1-37cf-4396-93b0-a747005c9420 a ns1:Book ;
@@ -2892,7 +2809,7 @@ schema:Bookbd0abeba-f8f3-4f93-bfda-21921727ab15 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund"^^xsd:string .
 
 schema:Bookbddde84d-7710-4600-816c-fd4e3e2a71ac a ns1:Book ;
-    ns1:author "m><a href=\"https://www.ricochet-jeunes.org/livres/la-meute\">La meute</a></em> d'Adèle Tariel"^^xsd:string ;
+    ns1:author "Adèle Tariel"^^xsd:string ;
     ns1:award "Prix Ados Rennes/Ille-Et-Vilaine" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2932,12 +2849,12 @@ schema:Bookbfadc202-0988-4633-9930-728a1f434f04 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string .
 
 schema:Bookc0c376e3-05c3-4bbe-ba95-f1d6741c7418 a ns1:Book ;
-    ns1:author "Emily Gravett, <i>Wolves</i>"^^xsd:string ;
+    ns1:author "Emily Gravett"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>Les loups</em>"^^xsd:string ;
+    ns1:name "Les loups"^^xsd:string ;
     ns1:publisher "Milan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-kate-greenaway"^^xsd:string .
 
@@ -2953,12 +2870,12 @@ schema:Bookc2dcef7e-647b-41cb-98ad-53e3c10c893b a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund"^^xsd:string .
 
 schema:Bookc544feb0-849d-4620-9874-567781c466da a ns1:Book ;
-    ns1:author "Jonathan Bécotte, <a href=\"http://www.lemeac.com/catalogue/1679-maman-veut-partir.html?page=1\" target=\"_blank\"><em>Maman veut partir</em></a>"^^xsd:string ;
+    ns1:author "Jonathan Bécotte"^^xsd:string ;
     ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>Maman veut partir</em>"^^xsd:string ;
+    ns1:name "Maman veut partir"^^xsd:string ;
     ns1:publisher "Leméac" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -2983,7 +2900,7 @@ schema:Bookc5a3b308-f193-4b80-8508-8604cc5ac66b a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/goncourt-des-lyceens"^^xsd:string .
 
 schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35bc a ns1:Book ;
-    ns1:author "m><a href=\"https://www.ricochet-jeunes.org/livres/vachement-moi\">Vachement moi !</a> </em>d'Emmanuel Bourdier"^^xsd:string ;
+    ns1:author "Emmanuel Bourdier"^^xsd:string ;
     ns1:award "Prix Livrentête : Albums" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -3013,13 +2930,8 @@ schema:Bookc6231436-aed1-446e-a8bf-65c57cd082ac a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/goncourt-des-lyceens"^^xsd:string .
 
 schema:Bookc64a47bd-90e9-4ebc-9fae-0fc94bfc694e a ns1:Book ;
-    ns1:author "L'auteur-illustrateur <a href=\"https://www.ricochet-jeunes.org/auteurs/wolf-erlbruch\">Wolf Erlbruch</a>"^^xsd:string ;
+    ns1:author "Wolf Erlbruch"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Wolf Erlbruch"^^xsd:string ;
-    ns1:publisher "L’Hexagone" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Bookc68670d4-f347-462d-a833-de171d0e9c76 a ns1:Book ;
@@ -3033,22 +2945,22 @@ schema:Bookc68670d4-f347-462d-a833-de171d0e9c76 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lyceens-allemands"^^xsd:string .
 
 schema:Bookc69ead4d-5ee9-4dc8-a798-131f0f2499cd a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/livres/livre/43816-premier-chagrin\"><i>Premier chagrin</i></a> d'Eva Kavian"^^xsd:string ;
+    ns1:author "Eva Kavian"^^xsd:string ;
     ns1:award "Prix Sésame" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>Premier chagrin</i>"^^xsd:string ;
+    ns1:name "Premier chagrin"^^xsd:string ;
     ns1:publisher "Mijade" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sesame"^^xsd:string .
 
 schema:Bookc719a977-9d37-4d16-8a32-46bf77126d0e a ns1:Book ;
-    ns1:author "Jean-Christophe Réhel, <a href=\"https://www.groupecourteechelle.com/la-courte-echelle/livres/peigner-le-feu/\" target=\"_blank\"><em>Peigner le feu</em></a>"^^xsd:string ;
+    ns1:author "Jean-Christophe Réhel"^^xsd:string ;
     ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>Peigner le feu</em>"^^xsd:string ;
+    ns1:name "Peigner le feu"^^xsd:string ;
     ns1:publisher "La Courte Échelle" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -3154,7 +3066,7 @@ schema:Bookcb5e81d4-219b-4aa7-b4ea-95a22ebc03db a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
 
 schema:Bookcb7b7456-0ce0-41ba-a61a-93e021da5b4f a ns1:Book ;
-    ns1:author "\">Une fille de...</a></em> Jo Witek"^^xsd:string ;
+    ns1:author "Jo Witek"^^xsd:string ;
     ns1:award "Prix Des Lecteurs En Seine" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -3347,7 +3259,7 @@ schema:Bookdaa17815-6394-460d-8255-1c0a971467e6 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler"^^xsd:string .
 
 schema:Bookdafd0e72-de08-4f60-84c8-ccee05b167d4 a ns1:Book ;
-    ns1:author "m><a href=\"https://www.ricochet-jeunes.org/livres/moi-jai-peur-du-loup\">Moi, j’ai peur du loup</a> </em>d'Emilie Vast"^^xsd:string ;
+    ns1:author "Emilie Vast"^^xsd:string ;
     ns1:award "Prix Pitchou" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -3447,12 +3359,12 @@ schema:Booke31b1ea5-b88f-4653-b67b-8c0454b317da a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-kate-greenaway"^^xsd:string .
 
 schema:Booke3b69dbd-0d00-48d7-9769-2e80a04c4aae a ns1:Book ;
-    ns1:author "Charlotte Gingras. <a href=\"https://www.ricochet-jeunes.org/livres/guerres\"><i>Guerres</i></a>"^^xsd:string ;
+    ns1:author "Charlotte Gingras"^^xsd:string ;
     ns1:award "Prix Alvine-Bélisle" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>Guerres</i>"^^xsd:string ;
+    ns1:name "Guerres"^^xsd:string ;
     ns1:publisher "La Courte Échelle" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -3467,17 +3379,12 @@ schema:Booke3c91433-f22d-4c7a-b0fc-fdcbe51f024a a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sesame"^^xsd:string .
 
 schema:Booke4afb3a8-229e-4713-ac67-2743cafcd151 a ns1:Book ;
-    ns1:author "L'auteure <a href=\"https://www.ricochet-jeunes.org/auteurs/meg-rosoff\">Meg Rosoff</a>"^^xsd:string ;
+    ns1:author "Meg Rosoff"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Meg Rosoff"^^xsd:string ;
-    ns1:publisher "Rouergue" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Booke5f72ed3-7b7a-49d1-a0d8-3065156e969b a ns1:Book ;
-    ns1:author "Jim Kay, <i>A Monster Calls </i>"^^xsd:string ;
+    ns1:author "Jim Kay"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -3507,7 +3414,7 @@ schema:Booke67ced40-7d90-40e9-812a-41c7883d1d18 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sesame"^^xsd:string .
 
 schema:Booke680b825-1abf-459f-9437-7bba3184229e a ns1:Book ;
-    ns1:author "m><a href=\"https://www.ricochet-jeunes.org/livres/meme-dusa\">Mémé Dusa</a> </em>d'Anne Schmauch"^^xsd:string ;
+    ns1:author "Anne Schmauch"^^xsd:string ;
     ns1:award "Prix Jacques Asklund" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -3527,12 +3434,12 @@ schema:Booke6adc2ba-f6b8-4eb0-8c27-fa87ea45c84c a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-val-cerou"^^xsd:string .
 
 schema:Booke6f79002-cd73-4ca5-a242-c971ee767849 a ns1:Book ;
-    ns1:author "Sydney Smith, <em>Town is by the Sea</em>"^^xsd:string ;
+    ns1:author "Sydney Smith"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>D'ici, je vois la mer</em>"^^xsd:string ;
+    ns1:name "D'ici, je vois la mer"^^xsd:string ;
     ns1:publisher "Tundra Books" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-kate-greenaway"^^xsd:string .
 
@@ -3547,7 +3454,7 @@ schema:Booke751e5ba-cc12-4ff2-9e99-22f013290163 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/concours-du-premier-roman-jeunesse"^^xsd:string .
 
 schema:Booke751f213-91d2-48aa-aa1e-cb70d0df5551 a ns1:Book ;
-    ns1:author "-lursari\">Le fils de l'Ursari</a> </i>de Xavier-Laurent Petit"^^xsd:string ;
+    ns1:author "Xavier-Laurent Petit"^^xsd:string ;
     ns1:award "Prix Des Lecteurs En Seine" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -3608,12 +3515,12 @@ schema:Booke81b9ee6-b21b-4369-870d-26e666ce4d47 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler"^^xsd:string .
 
 schema:Booke85ac604-011d-48b1-9893-6850f658e780 a ns1:Book ;
-    ns1:author "a href=\"https://www.ricochet-jeunes.org/livres/livre/51985-le-noir-est-ma-couleur-t-1-le-pari\"><i>Le noir est ma couleur</i></a> d’Olivier Gay"^^xsd:string ;
+    ns1:author "Olivier Gay"^^xsd:string ;
     ns1:award "Prix Des Lecteurs En Seine" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<i>Le noir est ma couleur</i>"^^xsd:string ;
+    ns1:name "Le noir est ma couleur"^^xsd:string ;
     ns1:publisher "Rageot" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lecteurs-en-seine"^^xsd:string .
 
@@ -3628,13 +3535,13 @@ schema:Booke8a5485e-77e4-4f0c-b954-c534f434606b a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:string .
 
 schema:Booke8b65dac-725c-41b0-bd83-7b38f577a108 a ns1:Book ;
-    ns1:author "s-betes\">Petite souris. Le grand livre des bêtes</a></em>"^^xsd:string ;
+    ns1:author "Emily Gravett"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
     ns1:datePublished "2008"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Petite souris. Le grand livre des bêtes"^^xsd:string ;
-    ns1:publisher "Milan" ;
+    ns1:publisher "MacMilan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-kate-greenaway"^^xsd:string .
 
 schema:Booke92ec720-2993-43f0-afbc-b8cfec1188c7 a ns1:Book ;
@@ -3658,13 +3565,8 @@ schema:Booke952ac50-305f-4b33-81a4-0064ace29289 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-val-cerou"^^xsd:string .
 
 schema:Booke9d7622f-1507-4aab-9f78-9115252163d5 a ns1:Book ;
-    ns1:author "L'autrice-illustratrice <a href=\"https://www.ricochet-jeunes.org/auteurs/eva-lindstrom\">Eva Lindström</a>"^^xsd:string ;
+    ns1:author "Eva Lindström"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2022"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Eva Lindström"^^xsd:string ;
-    ns1:publisher "Soulières" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Bookeab7ab2e-ea92-4029-a7b3-6f5a57f46aeb a ns1:Book ;
@@ -3769,13 +3671,8 @@ schema:Bookf5f618d4-2bc2-4fb3-ac99-3328434d07e3 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse"^^xsd:string .
 
 schema:Bookf5fa0f38-ecb2-4fcb-8b4b-08539b5a0b8a a ns1:Book ;
-    ns1:author "L'autrice <a href=\"https://www.ricochet-jeunes.org/auteurs/jacqueline-woodson\">Jacqueline Woodson</a>"^^xsd:string ;
+    ns1:author "Jacqueline Woodson"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2018"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Jacqueline Woodson"^^xsd:string ;
-    ns1:publisher "Talents Hauts" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Bookf6795d5e-7310-40c0-9aae-a39929684ba2 a ns1:Book ;
@@ -3789,7 +3686,7 @@ schema:Bookf6795d5e-7310-40c0-9aae-a39929684ba2 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-gulli-du-roman"^^xsd:string .
 
 schema:Bookf6d3ebcd-7550-4090-8cd8-00a9fe8e586a a ns1:Book ;
-    ns1:author "Chris Riddell, <i>The Sleeper and the Spindle</i>"^^xsd:string ;
+    ns1:author "Chris Riddell"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -3814,7 +3711,7 @@ schema:Bookf7a6096c-8a8b-4242-ba71-d0d753b62a92 a ns1:Book ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "<em>Le vent m'a dit bonjour</em>"^^xsd:string ;
+    ns1:name "Le vent m'a dit bonjour"^^xsd:string ;
     ns1:publisher "Les Éditions Des Éléphants" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler"^^xsd:string .
 
@@ -3829,13 +3726,8 @@ schema:Bookf80242cf-b20f-457b-b6da-9d0baca0ed76 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lecteurs-en-seine"^^xsd:string .
 
 schema:Bookf81b328b-5042-4da6-ba26-b370d2a6f2f2 a ns1:Book ;
-    ns1:author "L'autrice <a href=\"https://www.ricochet-jeunes.org/auteurs/laurie-halse-anderson\">Laurie Halse Anderson</a>"^^xsd:string ;
+    ns1:author "Laurie Halse Anderson"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2023"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Laurie Halse Anderson"^^xsd:string ;
-    ns1:publisher "Talents Hauts" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Bookfaacb6ab-d655-498b-aaef-752ffb8a884a a ns1:Book ;
@@ -3910,12 +3802,7 @@ schema:Bookff8be54e-a904-4ced-9aa7-0b726ff1a447 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund"^^xsd:string .
 
 schema:Bookffe517e7-25fa-4c23-a6e0-dd569a6cf024 a ns1:Book ;
-    ns1:author "a href=\"http://www.tamerinst.org\" rel=\"noopener\" target=\"_blank\">Tamer Institute for Community Education</a>"^^xsd:string ;
+    ns1:author "Tamer Institute for Community Education"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
-    ns1:datePublished "2009"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Tamer Institute for Community Education"^^xsd:string ;
-    ns1:publisher "Paulines" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
