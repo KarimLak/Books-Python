@@ -8,7 +8,7 @@ schema:Book0de4ac0f-b6ef-46d6-b889-955c60e441ab a ns1:Book ;
     ns1:description "Préliminaire 2023"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Refuge pour ténèbres"^^xsd:string ;
-    ns1:publisher "Les Herbes Rouges"^^xsd:string ;
+    ns1:publisher "Les Herbes Rouges" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 2023 Québec&firstid=10503&theme=poesie&book_id_list=a%3A8%3A%7Bi%3A0%3Bi%3A10501%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10498%3Bi%3A3%3Bi%3A10503%3Bi%3A4%3Bi%3A10500%3Bi%3A5%3Bi%3A10497%3Bi%3A6%3Bi%3A10496%3Bi%3A7%3Bi%3A10502%3B%7D"^^xsd:string .
 
 schema:Book11b9defe-90d9-487a-89ef-8ed976699188 a ns1:Book ;
@@ -17,7 +17,7 @@ schema:Book11b9defe-90d9-487a-89ef-8ed976699188 a ns1:Book ;
     ns1:description "Finaliste 2023 poésie"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Domaine du repos"^^xsd:string ;
-    ns1:publisher "Le Noroît"^^xsd:string ;
+    ns1:publisher "Le Noroît" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 poésie Québec&firstid=10497&theme=poesie&book_id_list=a%3A4%3A%7Bi%3A0%3Bi%3A10502%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10500%3Bi%3A3%3Bi%3A10497%3B%7D"^^xsd:string .
 
 schema:Book1ecbe59b-c9f5-495b-8c80-dea70e1ddecd a ns1:Book ;
@@ -26,7 +26,7 @@ schema:Book1ecbe59b-c9f5-495b-8c80-dea70e1ddecd a ns1:Book ;
     ns1:description "Préliminaire 2023"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Exercices de joie"^^xsd:string ;
-    ns1:publisher "Le Noroît"^^xsd:string ;
+    ns1:publisher "Le Noroît" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 2023 Québec&firstid=10498&theme=poesie&book_id_list=a%3A8%3A%7Bi%3A0%3Bi%3A10501%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10498%3Bi%3A3%3Bi%3A10503%3Bi%3A4%3Bi%3A10500%3Bi%3A5%3Bi%3A10497%3Bi%3A6%3Bi%3A10496%3Bi%3A7%3Bi%3A10502%3B%7D"^^xsd:string .
 
 schema:Book200b7bf3-b9f2-45bc-97a4-86d3a0f96981 a ns1:Book ;
@@ -35,7 +35,7 @@ schema:Book200b7bf3-b9f2-45bc-97a4-86d3a0f96981 a ns1:Book ;
     ns1:description "Préliminaire 2023"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Mouron des champs"^^xsd:string ;
-    ns1:publisher "La Peuplade"^^xsd:string ;
+    ns1:publisher "La Peuplade" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 2023 Québec&firstid=10502&theme=poesie&book_id_list=a%3A8%3A%7Bi%3A0%3Bi%3A10501%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10498%3Bi%3A3%3Bi%3A10503%3Bi%3A4%3Bi%3A10500%3Bi%3A5%3Bi%3A10497%3Bi%3A6%3Bi%3A10496%3Bi%3A7%3Bi%3A10502%3B%7D"^^xsd:string .
 
 schema:Book3baaf1a6-8625-4332-8701-6b0f1fb767e8 a ns1:Book ;
@@ -44,7 +44,7 @@ schema:Book3baaf1a6-8625-4332-8701-6b0f1fb767e8 a ns1:Book ;
     ns1:description "Préliminaire 2023"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Sainte Chloé de l’amour"^^xsd:string ;
-    ns1:publisher "L’Hexagone"^^xsd:string ;
+    ns1:publisher "L’Hexagone" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 2023 Québec&firstid=10496&theme=poesie&book_id_list=a%3A8%3A%7Bi%3A0%3Bi%3A10501%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10498%3Bi%3A3%3Bi%3A10503%3Bi%3A4%3Bi%3A10500%3Bi%3A5%3Bi%3A10497%3Bi%3A6%3Bi%3A10496%3Bi%3A7%3Bi%3A10502%3B%7D"^^xsd:string .
 
 schema:Book3c697d57-8c83-4479-86d4-e6ccee133b02 a ns1:Book ;
@@ -53,7 +53,7 @@ schema:Book3c697d57-8c83-4479-86d4-e6ccee133b02 a ns1:Book ;
     ns1:description "Préliminaire 2023"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Marche à voix basse"^^xsd:string ;
-    ns1:publisher "Le Quartanier"^^xsd:string ;
+    ns1:publisher "Le Quartanier" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 2023 Québec&firstid=10501&theme=poesie&book_id_list=a%3A8%3A%7Bi%3A0%3Bi%3A10501%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10498%3Bi%3A3%3Bi%3A10503%3Bi%3A4%3Bi%3A10500%3Bi%3A5%3Bi%3A10497%3Bi%3A6%3Bi%3A10496%3Bi%3A7%3Bi%3A10502%3B%7D"^^xsd:string .
 
 schema:Book660b1528-978c-4c1e-b938-c48ad3d2a86f a ns1:Book ;
@@ -63,7 +63,7 @@ schema:Book660b1528-978c-4c1e-b938-c48ad3d2a86f a ns1:Book ;
     ns1:description "Lauréat 2023 poésie"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Mouron des champs"^^xsd:string ;
-    ns1:publisher "La Peuplade"^^xsd:string ;
+    ns1:publisher "La Peuplade" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréat 2023 poésie Québec&firstid=10502&theme=poesie&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10502%3B%7D"^^xsd:string .
 
 schema:Book6ece45fe-9606-444a-8dc6-a47c3743f613 a ns1:Book ;
@@ -72,7 +72,7 @@ schema:Book6ece45fe-9606-444a-8dc6-a47c3743f613 a ns1:Book ;
     ns1:description "Finaliste 2023 poésie"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Une flambée mes mains"^^xsd:string ;
-    ns1:publisher "Poètes De Brousse"^^xsd:string ;
+    ns1:publisher "Poètes De Brousse" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 poésie Québec&firstid=10499&theme=poesie&book_id_list=a%3A4%3A%7Bi%3A0%3Bi%3A10502%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10500%3Bi%3A3%3Bi%3A10497%3B%7D"^^xsd:string .
 
 schema:Book70ed5711-102f-4b20-a4e8-dbb03727d481 a ns1:Book ;
@@ -81,7 +81,7 @@ schema:Book70ed5711-102f-4b20-a4e8-dbb03727d481 a ns1:Book ;
     ns1:description "Finaliste 2023 poésie"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Surtout, ne pas faire de listes"^^xsd:string ;
-    ns1:publisher "Rodrigol"^^xsd:string ;
+    ns1:publisher "Rodrigol" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 poésie Québec&firstid=10500&theme=poesie&book_id_list=a%3A4%3A%7Bi%3A0%3Bi%3A10502%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10500%3Bi%3A3%3Bi%3A10497%3B%7D"^^xsd:string .
 
 schema:Book9259c573-3560-4021-a0a2-8df63638e70f a ns1:Book ;
@@ -90,7 +90,7 @@ schema:Book9259c573-3560-4021-a0a2-8df63638e70f a ns1:Book ;
     ns1:description "Préliminaire 2023"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Surtout, ne pas faire de listes"^^xsd:string ;
-    ns1:publisher "Rodrigol"^^xsd:string ;
+    ns1:publisher "Rodrigol" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 2023 Québec&firstid=10500&theme=poesie&book_id_list=a%3A8%3A%7Bi%3A0%3Bi%3A10501%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10498%3Bi%3A3%3Bi%3A10503%3Bi%3A4%3Bi%3A10500%3Bi%3A5%3Bi%3A10497%3Bi%3A6%3Bi%3A10496%3Bi%3A7%3Bi%3A10502%3B%7D"^^xsd:string .
 
 schema:Book9a75b4dd-f1c9-4ce2-a166-e9539a93f47d a ns1:Book ;
@@ -99,7 +99,7 @@ schema:Book9a75b4dd-f1c9-4ce2-a166-e9539a93f47d a ns1:Book ;
     ns1:description "Finaliste 2023 poésie"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Mouron des champs"^^xsd:string ;
-    ns1:publisher "La Peuplade"^^xsd:string ;
+    ns1:publisher "La Peuplade" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 poésie Québec&firstid=10502&theme=poesie&book_id_list=a%3A4%3A%7Bi%3A0%3Bi%3A10502%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10500%3Bi%3A3%3Bi%3A10497%3B%7D"^^xsd:string .
 
 schema:Booka477d4d3-965f-4f79-bc9a-8e80e935c6d1 a ns1:Book ;
@@ -108,7 +108,7 @@ schema:Booka477d4d3-965f-4f79-bc9a-8e80e935c6d1 a ns1:Book ;
     ns1:description "Préliminaire 2023"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Domaine du repos"^^xsd:string ;
-    ns1:publisher "Le Noroît"^^xsd:string ;
+    ns1:publisher "Le Noroît" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 2023 Québec&firstid=10497&theme=poesie&book_id_list=a%3A8%3A%7Bi%3A0%3Bi%3A10501%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10498%3Bi%3A3%3Bi%3A10503%3Bi%3A4%3Bi%3A10500%3Bi%3A5%3Bi%3A10497%3Bi%3A6%3Bi%3A10496%3Bi%3A7%3Bi%3A10502%3B%7D"^^xsd:string .
 
 schema:Booke2fb1fde-c917-4b94-8ce7-6aa730c037f0 a ns1:Book ;
@@ -117,6 +117,6 @@ schema:Booke2fb1fde-c917-4b94-8ce7-6aa730c037f0 a ns1:Book ;
     ns1:description "Préliminaire 2023"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Une flambée mes mains"^^xsd:string ;
-    ns1:publisher "Poètes De Brousse"^^xsd:string ;
+    ns1:publisher "Poètes De Brousse" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 2023 Québec&firstid=10499&theme=poesie&book_id_list=a%3A8%3A%7Bi%3A0%3Bi%3A10501%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10498%3Bi%3A3%3Bi%3A10503%3Bi%3A4%3Bi%3A10500%3Bi%3A5%3Bi%3A10497%3Bi%3A6%3Bi%3A10496%3Bi%3A7%3Bi%3A10502%3B%7D"^^xsd:string .
 

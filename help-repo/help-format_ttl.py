@@ -20,32 +20,46 @@ def best_matching_publisher(publisher, publisher_list):
 # Define the namespace
 ns1 = Namespace("http://schema.org/")
 
-# Parse the ttl files
-g = Graph()
-g.parse("./output-ricochet.ttl", format="n3", encoding='utf-8')
-
 # Load the list of publishers from the CSV file
 with open('./query-result-publishers_modified.csv', 'r', encoding='utf-8') as f:
     reader = csv.reader(f)
     publisher_list = [row[0] for row in reader]  # Assuming one publisher per line
 
-# Get all books from the graph
-books = list(g.subjects(predicate=ns1["publisher"]))
+# List of TTL files to process
+filepaths = [
+    "./output-bookcentre.ttl",
+    "./output-fmdoc.ttl",
+    "./output-lurelu-tables.ttl",
+    "./output-lurelu.ttl",
+    "./output-prixdeslibraires-bd.ttl",
+    "./output-prixdeslibraires-essai.ttl",
+    "./output-prixdeslibraires-jeunesse.ttl",
+    "./output-prixdeslibraires-poesie.ttl",
+    "./output-prixdeslibraires-roman.ttl",
+    "./output-ricochet-tables.ttl",
+    "./output-ricochet.ttl",
+]
 
-for book in books:
-    # Extract the current publisher
-    publisher = str(g.value(subject=book, predicate=ns1["publisher"]))
+for filepath in filepaths:
+    # Parse the ttl files
+    g = Graph()
+    g.parse(filepath, format="n3")
 
-    # Find the best matching publisher in the list
-    best_match = best_matching_publisher(publisher, publisher_list)
+    # Get all books from the graph
+    books = list(g.subjects(predicate=ns1["publisher"]))
 
-    # Update the book's publisher in the graph
-    g.set((book, ns1["publisher"], Literal(best_match)))
+    for book in books:
+        # Extract the current publisher
+        publisher = str(g.value(subject=book, predicate=ns1["publisher"]))
 
-output_data = g.serialize(format="turtle")
+        # Find the best matching publisher in the list
+        best_match = best_matching_publisher(publisher, publisher_list)
 
-# Write the updated data back to the TTL file
-with open("./output-ricochet.ttl", "w", encoding="utf-8") as f:
-    f.write(output_data)
+        # Update the book's publisher in the graph
+        g.set((book, ns1["publisher"], Literal(best_match)))
 
+    output_data = g.serialize(format="turtle")
 
+    # Write the updated data back to the TTL file
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(output_data)

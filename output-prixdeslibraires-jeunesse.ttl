@@ -11,7 +11,7 @@ schema:Book00e3b022-07e2-4076-85cb-14698f330b3d a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Mon meilleur ami"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 0-5 ans Hors Québec&firstid=10266&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10245%3Bi%3A1%3Bi%3A10255%3Bi%3A2%3Bi%3A10258%3Bi%3A3%3Bi%3A10262%3Bi%3A4%3Bi%3A10266%3Bi%3A5%3Bi%3A10251%3B%7D"^^xsd:string .
 
 schema:Book09d0f9a8-2c20-43ae-93c4-7b1c5885e720 a ns1:Book ;
@@ -24,7 +24,7 @@ schema:Book09d0f9a8-2c20-43ae-93c4-7b1c5885e720 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Trèfle"^^xsd:string ;
-    ns1:publisher "Comme Des Géants"^^xsd:string ;
+    ns1:publisher "Comme Des Géants" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 0-5 ans Québec&firstid=10236&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10215%3Bi%3A1%3Bi%3A10220%3Bi%3A2%3Bi%3A10229%3Bi%3A3%3Bi%3A10223%3Bi%3A4%3Bi%3A10236%3Bi%3A5%3Bi%3A10241%3B%7D"^^xsd:string .
 
 schema:Book15dc502a-33f2-46a1-80a3-985f22b4107f a ns1:Book ;
@@ -36,7 +36,7 @@ schema:Book15dc502a-33f2-46a1-80a3-985f22b4107f a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Motel Calivista : Réception, bonjour!"^^xsd:string ;
-    ns1:publisher "Scholastic"^^xsd:string ;
+    ns1:publisher "Scholastic" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Hors Québec&firstid=10307&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10307%3Bi%3A1%3Bi%3A10304%3Bi%3A2%3Bi%3A10300%3Bi%3A3%3Bi%3A10297%3Bi%3A4%3Bi%3A10293%3Bi%3A5%3Bi%3A10290%3B%7D"^^xsd:string .
 
 schema:Book1b34bc27-3083-41aa-aaca-147f9d6e2328 a ns1:Book ;
@@ -49,7 +49,7 @@ schema:Book1b34bc27-3083-41aa-aaca-147f9d6e2328 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Ma peau"^^xsd:string ;
-    ns1:publisher "Kata"^^xsd:string ;
+    ns1:publisher "Kata" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 12-17 ans Québec&firstid=10316&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10310%3Bi%3A1%3Bi%3A10314%3Bi%3A2%3Bi%3A10318%3Bi%3A3%3Bi%3A10317%3Bi%3A4%3Bi%3A10316%3Bi%3A5%3Bi%3A10315%3B%7D"^^xsd:string .
 
 schema:Book1fe92d59-145f-4247-b143-56c2ecc35cd9 a ns1:Book ;
@@ -61,7 +61,7 @@ schema:Book1fe92d59-145f-4247-b143-56c2ecc35cd9 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Moi aussi"^^xsd:string ;
-    ns1:publisher "Hurtubise"^^xsd:string ;
+    ns1:publisher "Hurtubise" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 12-17 ans Québec&firstid=10315&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10310%3Bi%3A1%3Bi%3A10314%3Bi%3A2%3Bi%3A10318%3Bi%3A3%3Bi%3A10317%3Bi%3A4%3Bi%3A10316%3Bi%3A5%3Bi%3A10315%3B%7D"^^xsd:string .
 
 schema:Book2b156068-9940-4c8f-a021-013da3a38f48 a ns1:Book ;
@@ -74,7 +74,7 @@ schema:Book2b156068-9940-4c8f-a021-013da3a38f48 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Roselionne"^^xsd:string ;
-    ns1:publisher "Québec Amérique"^^xsd:string ;
+    ns1:publisher "Québec Amérique" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Québec&firstid=10287&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10269%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10277%3Bi%3A3%3Bi%3A10281%3Bi%3A4%3Bi%3A10284%3Bi%3A5%3Bi%3A10287%3B%7D"^^xsd:string .
 
 schema:Book2d70ea2c-6176-4d9a-a7fe-77bd801dc140 a ns1:Book ;
@@ -86,7 +86,7 @@ schema:Book2d70ea2c-6176-4d9a-a7fe-77bd801dc140 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le fracas et le silence"^^xsd:string ;
-    ns1:publisher "Pocket Jeunesse"^^xsd:string ;
+    ns1:publisher "Pocket Jeunesse" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 12-17 ans Hors Québec&firstid=10336&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10331%3Bi%3A1%3Bi%3A10339%3Bi%3A2%3Bi%3A10338%3Bi%3A3%3Bi%3A10337%3Bi%3A4%3Bi%3A10336%3Bi%3A5%3Bi%3A10335%3B%7D"^^xsd:string .
 
 schema:Book38a0012f-be71-41de-938c-aca00f0e80db a ns1:Book ;
@@ -98,7 +98,7 @@ schema:Book38a0012f-be71-41de-938c-aca00f0e80db a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Motel Calivista : Réception, bonjour!"^^xsd:string ;
-    ns1:publisher "Scholastic"^^xsd:string ;
+    ns1:publisher "Scholastic" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 6-11 ans Hors Québec&firstid=10307&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10293%3Bi%3A1%3Bi%3A10304%3Bi%3A2%3Bi%3A10307%3B%7D"^^xsd:string .
 
 schema:Book3926c1b7-107f-4024-badb-f79b9e92a176 a ns1:Book ;
@@ -110,7 +110,7 @@ schema:Book3926c1b7-107f-4024-badb-f79b9e92a176 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le garçon en fleur"^^xsd:string ;
-    ns1:publisher "Kaléidoscope"^^xsd:string ;
+    ns1:publisher "Kaléidoscope" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 0-5 ans Hors Québec&firstid=10258&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10245%3Bi%3A1%3Bi%3A10251%3Bi%3A2%3Bi%3A10258%3B%7D"^^xsd:string .
 
 schema:Book486b0b45-f71f-424c-a762-fe92f8088bb6 a ns1:Book ;
@@ -122,7 +122,7 @@ schema:Book486b0b45-f71f-424c-a762-fe92f8088bb6 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Tiens-toi droite"^^xsd:string ;
-    ns1:publisher "Boréal"^^xsd:string ;
+    ns1:publisher "Boréal" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 12-17 ans Québec&firstid=10314&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10310%3Bi%3A1%3Bi%3A10314%3Bi%3A2%3Bi%3A10318%3Bi%3A3%3Bi%3A10317%3Bi%3A4%3Bi%3A10316%3Bi%3A5%3Bi%3A10315%3B%7D"^^xsd:string .
 
 schema:Book48cb2006-cf00-433d-8a8a-6929bf537e8b a ns1:Book ;
@@ -135,7 +135,7 @@ schema:Book48cb2006-cf00-433d-8a8a-6929bf537e8b a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Ratatin"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 0-5 ans Québec&firstid=10241&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10215%3Bi%3A1%3Bi%3A10220%3Bi%3A2%3Bi%3A10229%3Bi%3A3%3Bi%3A10223%3Bi%3A4%3Bi%3A10236%3Bi%3A5%3Bi%3A10241%3B%7D"^^xsd:string .
 
 schema:Book498e3959-4d60-460d-9647-b87cc7e24ac7 a ns1:Book ;
@@ -148,7 +148,7 @@ schema:Book498e3959-4d60-460d-9647-b87cc7e24ac7 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Orbie, dessine-moi un billibouton"^^xsd:string ;
-    ns1:publisher "Fonfon"^^xsd:string ;
+    ns1:publisher "Fonfon" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Québec&firstid=10284&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10269%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10277%3Bi%3A3%3Bi%3A10281%3Bi%3A4%3Bi%3A10284%3Bi%3A5%3Bi%3A10287%3B%7D"^^xsd:string .
 
 schema:Book4a5c3856-223e-4d86-8a0b-0d6ad57b6e5c a ns1:Book ;
@@ -161,7 +161,7 @@ schema:Book4a5c3856-223e-4d86-8a0b-0d6ad57b6e5c a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Trèfle"^^xsd:string ;
-    ns1:publisher "Comme Des Géants"^^xsd:string ;
+    ns1:publisher "Comme Des Géants" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 0-5 ans Québec&firstid=10236&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10215%3Bi%3A1%3Bi%3A10236%3Bi%3A2%3Bi%3A10241%3B%7D"^^xsd:string .
 
 schema:Book4d0e9440-481a-4365-8b18-aed3e4f84328 a ns1:Book ;
@@ -174,7 +174,7 @@ schema:Book4d0e9440-481a-4365-8b18-aed3e4f84328 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "As-tu vu ma bicyclette?"^^xsd:string ;
-    ns1:publisher "Les 400 Coups"^^xsd:string ;
+    ns1:publisher "Les 400 Coups" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Québec&firstid=10281&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10269%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10277%3Bi%3A3%3Bi%3A10281%3Bi%3A4%3Bi%3A10284%3Bi%3A5%3Bi%3A10287%3B%7D"^^xsd:string .
 
 schema:Book4e3d6ea0-1179-4bf8-85bd-e07b507d8e6b a ns1:Book ;
@@ -187,7 +187,7 @@ schema:Book4e3d6ea0-1179-4bf8-85bd-e07b507d8e6b a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Contes de coyote"^^xsd:string ;
-    ns1:publisher "Planète Rebelle"^^xsd:string ;
+    ns1:publisher "Planète Rebelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 6-11 ans Hors Québec&firstid=10304&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10293%3Bi%3A1%3Bi%3A10304%3Bi%3A2%3Bi%3A10307%3B%7D"^^xsd:string .
 
 schema:Book4ee1c36b-47c9-45b5-bd68-f41e73b7660e a ns1:Book ;
@@ -199,7 +199,7 @@ schema:Book4ee1c36b-47c9-45b5-bd68-f41e73b7660e a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Limonade T.1 : Un été au Lac-Saint-Jean"^^xsd:string ;
-    ns1:publisher "Hurtubise"^^xsd:string ;
+    ns1:publisher "Hurtubise" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 12-17 ans Québec&firstid=10317&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10310%3Bi%3A1%3Bi%3A10314%3Bi%3A2%3Bi%3A10318%3Bi%3A3%3Bi%3A10317%3Bi%3A4%3Bi%3A10316%3Bi%3A5%3Bi%3A10315%3B%7D"^^xsd:string .
 
 schema:Book50fe9fe4-d4c6-4591-a5a0-e5c7e7a076fe a ns1:Book ;
@@ -213,7 +213,7 @@ schema:Book50fe9fe4-d4c6-4591-a5a0-e5c7e7a076fe a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Trèfle"^^xsd:string ;
-    ns1:publisher "Comme Des Géants"^^xsd:string ;
+    ns1:publisher "Comme Des Géants" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréats 0-5 ans Québec&firstid=10236&theme=jeunesse&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10236%3B%7D"^^xsd:string .
 
 schema:Book54a7e100-d9cc-4dc4-aa8a-588b56c86745 a ns1:Book ;
@@ -225,20 +225,20 @@ schema:Book54a7e100-d9cc-4dc4-aa8a-588b56c86745 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Trouve Gustave"^^xsd:string ;
-    ns1:publisher "Bayard"^^xsd:string ;
+    ns1:publisher "Bayard" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 0-5 ans Hors Québec&firstid=10245&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10245%3Bi%3A1%3Bi%3A10251%3Bi%3A2%3Bi%3A10258%3B%7D"^^xsd:string .
 
 schema:Book5789fd1d-2467-42f9-96aa-a4260508f4da a ns1:Book ;
     ns1:author "Michel Streich"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string,
-        """Un oiseau venu d’ailleurs est arrivé dans la volière… et tout le monde s’agite! Il est étrange et différent… il fait PEUR! Le drôle d’oiseau se sentira-t-il un jour chez lui, entouré des autres oiseaux?
+        """Un oiseau venu d’ailleurs est arrivé dans la volière… et tout le monde s’agite! Il est étrange et différent… il fait PEUR! Le drôle d’oiseau se sentira-t-il un jour chez lui, entouré des autres oiseaux?\r
 Un récit amusant et léger montrant qu’être différent ne veut pas dire être effrayant! Cet album offre un point de vue rafraîchissant sur l’appréciation des différences et l’accueil des nouveaux arrivants."""^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Drôle d’oiseau"^^xsd:string ;
-    ns1:publisher "Scholastic"^^xsd:string ;
+    ns1:publisher "Scholastic" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 0-5 ans Hors Québec&firstid=10255&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10245%3Bi%3A1%3Bi%3A10255%3Bi%3A2%3Bi%3A10258%3Bi%3A3%3Bi%3A10262%3Bi%3A4%3Bi%3A10266%3Bi%3A5%3Bi%3A10251%3B%7D"^^xsd:string .
 
 schema:Book59a3f039-3875-4fac-b062-7b9f3c08c9ea a ns1:Book ;
@@ -251,7 +251,7 @@ schema:Book59a3f039-3875-4fac-b062-7b9f3c08c9ea a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Ratatin"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 0-5 ans Québec&firstid=10241&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10215%3Bi%3A1%3Bi%3A10236%3Bi%3A2%3Bi%3A10241%3B%7D"^^xsd:string .
 
 schema:Book65c5f988-25ce-4e8f-8314-c409efd26d75 a ns1:Book ;
@@ -264,7 +264,7 @@ schema:Book65c5f988-25ce-4e8f-8314-c409efd26d75 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Quincaillerie Miville"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 6-11 ans Québec&firstid=10277&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10277%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10269%3B%7D"^^xsd:string .
 
 schema:Book6790a317-a91f-4d65-802f-c8e919b0cc59 a ns1:Book ;
@@ -278,7 +278,7 @@ schema:Book6790a317-a91f-4d65-802f-c8e919b0cc59 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Quincaillerie Miville"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréats 6-11 ans Québec&firstid=10277&theme=jeunesse&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10277%3B%7D"^^xsd:string .
 
 schema:Book6970222b-3665-4218-a68f-57a73eba552a a ns1:Book ;
@@ -290,7 +290,7 @@ schema:Book6970222b-3665-4218-a68f-57a73eba552a a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le facteur de l’espace T.3 : La faim du monde"^^xsd:string ;
-    ns1:publisher "La Pastèque"^^xsd:string ;
+    ns1:publisher "La Pastèque" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréats BD Jeunesse Québec&firstid=10761&theme=jeunesse&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10761%3B%7D"^^xsd:string .
 
 schema:Book6a853c48-0244-4f12-ad6a-c544dbbfb081 a ns1:Book ;
@@ -302,7 +302,7 @@ schema:Book6a853c48-0244-4f12-ad6a-c544dbbfb081 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Loveless"^^xsd:string ;
-    ns1:publisher "Hachette"^^xsd:string ;
+    ns1:publisher "Hachette" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 12-17 ans Hors Québec&firstid=10338&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10335%3Bi%3A1%3Bi%3A10331%3Bi%3A2%3Bi%3A10338%3B%7D"^^xsd:string .
 
 schema:Book6bc287fa-1c42-4bd2-a2a9-f24eaa0699ff a ns1:Book ;
@@ -315,7 +315,7 @@ schema:Book6bc287fa-1c42-4bd2-a2a9-f24eaa0699ff a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Quincaillerie Miville"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Québec&firstid=10277&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10269%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10277%3Bi%3A3%3Bi%3A10281%3Bi%3A4%3Bi%3A10284%3Bi%3A5%3Bi%3A10287%3B%7D"^^xsd:string .
 
 schema:Book6ee5b803-1214-42d7-aa6c-3b0084159626 a ns1:Book ;
@@ -323,14 +323,14 @@ schema:Book6ee5b803-1214-42d7-aa6c-3b0084159626 a ns1:Book ;
         "Geneviève Côté"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Finaliste 6-11 ans : 6-11 ans"^^xsd:string,
-        """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!
-Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!
+        """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!\r
+Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!\r
 Aura-t-il assez d’imagination?"""^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le trésor des Vikings"^^xsd:string ;
-    ns1:publisher "Québec Amérique"^^xsd:string ;
+    ns1:publisher "Québec Amérique" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 6-11 ans Québec&firstid=10273&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10277%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10269%3B%7D"^^xsd:string .
 
 schema:Book7278bf5a-43b7-4edc-b06e-1d63230cb2c2 a ns1:Book ;
@@ -342,7 +342,7 @@ schema:Book7278bf5a-43b7-4edc-b06e-1d63230cb2c2 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Loveless"^^xsd:string ;
-    ns1:publisher "Hachette"^^xsd:string ;
+    ns1:publisher "Hachette" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 12-17 ans Hors Québec&firstid=10338&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10331%3Bi%3A1%3Bi%3A10339%3Bi%3A2%3Bi%3A10338%3Bi%3A3%3Bi%3A10337%3Bi%3A4%3Bi%3A10336%3Bi%3A5%3Bi%3A10335%3B%7D"^^xsd:string .
 
 schema:Book76d0773c-e5b2-47ab-98d3-b8942bc29dd1 a ns1:Book ;
@@ -354,7 +354,7 @@ schema:Book76d0773c-e5b2-47ab-98d3-b8942bc29dd1 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les étincelles invisibles"^^xsd:string ;
-    ns1:publisher "École Des Loisirs"^^xsd:string ;
+    ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 12-17 ans Hors Québec&firstid=10337&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10331%3Bi%3A1%3Bi%3A10339%3Bi%3A2%3Bi%3A10338%3Bi%3A3%3Bi%3A10337%3Bi%3A4%3Bi%3A10336%3Bi%3A5%3Bi%3A10335%3B%7D"^^xsd:string .
 
 schema:Book780c50c6-67dc-40fd-a551-c41ae48b245b a ns1:Book ;
@@ -366,21 +366,21 @@ schema:Book780c50c6-67dc-40fd-a551-c41ae48b245b a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le petit robot de bois et la princesse-bûchette"^^xsd:string ;
-    ns1:publisher "Comme Des Géants"^^xsd:string ;
+    ns1:publisher "Comme Des Géants" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 0-5 ans Hors Québec&firstid=10251&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10245%3Bi%3A1%3Bi%3A10251%3Bi%3A2%3Bi%3A10258%3B%7D"^^xsd:string .
 
 schema:Book7a21ad59-5b62-49a0-bab8-66531c9387d2 a ns1:Book ;
     ns1:author "Julie Champagne"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Finaliste 12-17 ans : 12-17 ans"^^xsd:string,
-        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.
-Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.
+        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r
+Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r
 Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers toute la gamme des émotions."""^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Cancer ascendant autruche"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 12-17 ans Québec&firstid=10310&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10318%3Bi%3A1%3Bi%3A10310%3Bi%3A2%3Bi%3A10317%3B%7D"^^xsd:string .
 
 schema:Book7fa936a7-589e-4d52-b07a-3fd53d2f8ce5 a ns1:Book ;
@@ -388,14 +388,14 @@ schema:Book7fa936a7-589e-4d52-b07a-3fd53d2f8ce5 a ns1:Book ;
     ns1:award "Lauréat 12-17 ans"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Lauréat 12-17 ans : 12-17 ans"^^xsd:string,
-        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.
-Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.
+        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r
+Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r
 Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers toute la gamme des émotions."""^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Cancer ascendant autruche"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréats 12-17 ans Québec&firstid=10310&theme=jeunesse&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10310%3B%7D"^^xsd:string .
 
 schema:Book82121895-a46c-45a9-9fe0-950bd3330316 a ns1:Book ;
@@ -408,7 +408,7 @@ schema:Book82121895-a46c-45a9-9fe0-950bd3330316 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Seuls"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 6-11 ans Québec&firstid=10269&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10277%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10269%3B%7D"^^xsd:string .
 
 schema:Book89775435-602f-4287-ac41-17ab0e270e4d a ns1:Book ;
@@ -420,7 +420,7 @@ schema:Book89775435-602f-4287-ac41-17ab0e270e4d a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Naître fille"^^xsd:string ;
-    ns1:publisher "Du Ricochet"^^xsd:string ;
+    ns1:publisher "Du Ricochet" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 12-17 ans Hors Québec&firstid=10331&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10331%3Bi%3A1%3Bi%3A10339%3Bi%3A2%3Bi%3A10338%3Bi%3A3%3Bi%3A10337%3Bi%3A4%3Bi%3A10336%3Bi%3A5%3Bi%3A10335%3B%7D"^^xsd:string .
 
 schema:Book8b724e00-a0e5-4b14-9d97-9dfda5957f50 a ns1:Book ;
@@ -432,7 +432,7 @@ schema:Book8b724e00-a0e5-4b14-9d97-9dfda5957f50 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La chambre éteinte"^^xsd:string ;
-    ns1:publisher "Leméac"^^xsd:string ;
+    ns1:publisher "Leméac" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 12-17 ans Québec&firstid=10318&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10310%3Bi%3A1%3Bi%3A10314%3Bi%3A2%3Bi%3A10318%3Bi%3A3%3Bi%3A10317%3Bi%3A4%3Bi%3A10316%3Bi%3A5%3Bi%3A10315%3B%7D"^^xsd:string .
 
 schema:Book8bdb900c-d270-4f55-9acc-d80258fa7335 a ns1:Book ;
@@ -444,7 +444,7 @@ schema:Book8bdb900c-d270-4f55-9acc-d80258fa7335 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Des choses formidables"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 12-17 ans Hors Québec&firstid=10339&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10331%3Bi%3A1%3Bi%3A10339%3Bi%3A2%3Bi%3A10338%3Bi%3A3%3Bi%3A10337%3Bi%3A4%3Bi%3A10336%3Bi%3A5%3Bi%3A10335%3B%7D"^^xsd:string .
 
 schema:Book912b19a5-6a4a-4e16-bb45-dbb6e8fca835 a ns1:Book ;
@@ -457,7 +457,7 @@ schema:Book912b19a5-6a4a-4e16-bb45-dbb6e8fca835 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Mémoires de la forêt : Les souvenirs de Ferdinand Taupe"^^xsd:string ;
-    ns1:publisher "École Des Loisirs"^^xsd:string ;
+    ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Hors Québec&firstid=10297&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10307%3Bi%3A1%3Bi%3A10304%3Bi%3A2%3Bi%3A10300%3Bi%3A3%3Bi%3A10297%3Bi%3A4%3Bi%3A10293%3Bi%3A5%3Bi%3A10290%3B%7D"^^xsd:string .
 
 schema:Book92ed6024-7b8b-4245-b301-ec84db374002 a ns1:Book ;
@@ -465,13 +465,13 @@ schema:Book92ed6024-7b8b-4245-b301-ec84db374002 a ns1:Book ;
         "Tobias Krejtschi"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string,
-        """« Fibie, ta mère est folle! »
+        """« Fibie, ta mère est folle! »\r
 Au début, Fibie ne croyait pas ce que les autres disaient de sa mère. Mais avec le temps, les comportements de cette dernière deviennent de plus en plus bizarres. Quand sa mère refuse de sortir de sa chambre, la colère de Fibie éclate. Alors, son père lui confie un secret : sa mère n’est pas folle, c’est plutôt une fée qui vit parmi les humains. Une telle chose est-elle possible?"""^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Maman est une fée"^^xsd:string ;
-    ns1:publisher "Les 400 Coups"^^xsd:string ;
+    ns1:publisher "Les 400 Coups" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Hors Québec&firstid=10300&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10307%3Bi%3A1%3Bi%3A10304%3Bi%3A2%3Bi%3A10300%3Bi%3A3%3Bi%3A10297%3Bi%3A4%3Bi%3A10293%3Bi%3A5%3Bi%3A10290%3B%7D"^^xsd:string .
 
 schema:Book96af982c-4802-4278-bd44-f6d7e1dbd6e0 a ns1:Book ;
@@ -484,7 +484,7 @@ schema:Book96af982c-4802-4278-bd44-f6d7e1dbd6e0 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le dernier léopard"^^xsd:string ;
-    ns1:publisher "Tigre & Cie"^^xsd:string ;
+    ns1:publisher "Tigre & Cie" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Hors Québec&firstid=10290&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10307%3Bi%3A1%3Bi%3A10304%3Bi%3A2%3Bi%3A10300%3Bi%3A3%3Bi%3A10297%3Bi%3A4%3Bi%3A10293%3Bi%3A5%3Bi%3A10290%3B%7D"^^xsd:string .
 
 schema:Book9776ef6b-63a0-4b5d-8bff-4114e9a4123b a ns1:Book ;
@@ -496,7 +496,7 @@ schema:Book9776ef6b-63a0-4b5d-8bff-4114e9a4123b a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Inheritance Games T.1"^^xsd:string ;
-    ns1:publisher "Pocket Jeunesse"^^xsd:string ;
+    ns1:publisher "Pocket Jeunesse" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 12-17 ans Hors Québec&firstid=10335&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10335%3Bi%3A1%3Bi%3A10331%3Bi%3A2%3Bi%3A10338%3B%7D"^^xsd:string .
 
 schema:Book9a4dba40-9119-492a-ae1a-82d3b406503b a ns1:Book ;
@@ -508,7 +508,7 @@ schema:Book9a4dba40-9119-492a-ae1a-82d3b406503b a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les socières de Brooklyn T.1"^^xsd:string ;
-    ns1:publisher "Bayard"^^xsd:string ;
+    ns1:publisher "Bayard" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréats BD Jeunesse Hors Québec&firstid=10763&theme=jeunesse&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10763%3B%7D"^^xsd:string .
 
 schema:Book9bb0f73d-8a7d-495c-8116-1ed5b1f7b29d a ns1:Book ;
@@ -521,7 +521,7 @@ schema:Book9bb0f73d-8a7d-495c-8116-1ed5b1f7b29d a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le sablier de Papijo"^^xsd:string ;
-    ns1:publisher "Dominique Et Compagnie"^^xsd:string ;
+    ns1:publisher "Dominique Et Compagnie" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 0-5 ans Québec&firstid=10223&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10215%3Bi%3A1%3Bi%3A10220%3Bi%3A2%3Bi%3A10229%3Bi%3A3%3Bi%3A10223%3Bi%3A4%3Bi%3A10236%3Bi%3A5%3Bi%3A10241%3B%7D"^^xsd:string .
 
 schema:Booka4e171cd-a4bf-4723-926e-62c35f9fb209 a ns1:Book ;
@@ -533,7 +533,7 @@ schema:Booka4e171cd-a4bf-4723-926e-62c35f9fb209 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le garçon en fleur"^^xsd:string ;
-    ns1:publisher "Kaléidoscope"^^xsd:string ;
+    ns1:publisher "Kaléidoscope" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 0-5 ans Hors Québec&firstid=10258&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10245%3Bi%3A1%3Bi%3A10255%3Bi%3A2%3Bi%3A10258%3Bi%3A3%3Bi%3A10262%3Bi%3A4%3Bi%3A10266%3Bi%3A5%3Bi%3A10251%3B%7D"^^xsd:string .
 
 schema:Bookaf62ee6f-0966-4fb8-aa1e-c2282d755647 a ns1:Book ;
@@ -546,7 +546,7 @@ schema:Bookaf62ee6f-0966-4fb8-aa1e-c2282d755647 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le petit robot de bois et la princesse-bûchette"^^xsd:string ;
-    ns1:publisher "Comme Des Géants"^^xsd:string ;
+    ns1:publisher "Comme Des Géants" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréats 0-5 ans Hors Québec&firstid=10251&theme=jeunesse&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10251%3B%7D"^^xsd:string .
 
 schema:Bookb6336dea-c65c-4c1a-9870-c899d2cc4b74 a ns1:Book ;
@@ -558,7 +558,7 @@ schema:Bookb6336dea-c65c-4c1a-9870-c899d2cc4b74 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le petit robot de bois et la princesse-bûchette"^^xsd:string ;
-    ns1:publisher "Comme Des Géants"^^xsd:string ;
+    ns1:publisher "Comme Des Géants" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 0-5 ans Hors Québec&firstid=10251&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10245%3Bi%3A1%3Bi%3A10255%3Bi%3A2%3Bi%3A10258%3Bi%3A3%3Bi%3A10262%3Bi%3A4%3Bi%3A10266%3Bi%3A5%3Bi%3A10251%3B%7D"^^xsd:string .
 
 schema:Bookbb097a2f-0c0e-401d-a4ab-3e4d0475034f a ns1:Book ;
@@ -570,7 +570,7 @@ schema:Bookbb097a2f-0c0e-401d-a4ab-3e4d0475034f a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Inheritance Games T.1"^^xsd:string ;
-    ns1:publisher "Pocket Jeunesse"^^xsd:string ;
+    ns1:publisher "Pocket Jeunesse" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 12-17 ans Hors Québec&firstid=10335&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10331%3Bi%3A1%3Bi%3A10339%3Bi%3A2%3Bi%3A10338%3Bi%3A3%3Bi%3A10337%3Bi%3A4%3Bi%3A10336%3Bi%3A5%3Bi%3A10335%3B%7D"^^xsd:string .
 
 schema:Bookbd132739-5e0c-40d6-b35b-9e5cebb6ad6f a ns1:Book ;
@@ -582,7 +582,7 @@ schema:Bookbd132739-5e0c-40d6-b35b-9e5cebb6ad6f a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Mon carrosse"^^xsd:string ;
-    ns1:publisher "Talents Hauts"^^xsd:string ;
+    ns1:publisher "Talents Hauts" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 0-5 ans Hors Québec&firstid=10262&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10245%3Bi%3A1%3Bi%3A10255%3Bi%3A2%3Bi%3A10258%3Bi%3A3%3Bi%3A10262%3Bi%3A4%3Bi%3A10266%3Bi%3A5%3Bi%3A10251%3B%7D"^^xsd:string .
 
 schema:Bookbfbd20f5-91c8-44a2-a9d1-fd7e3c2e7c0b a ns1:Book ;
@@ -595,22 +595,22 @@ schema:Bookbfbd20f5-91c8-44a2-a9d1-fd7e3c2e7c0b a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Contes de coyote"^^xsd:string ;
-    ns1:publisher "Planète Rebelle"^^xsd:string ;
+    ns1:publisher "Planète Rebelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Hors Québec&firstid=10304&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10307%3Bi%3A1%3Bi%3A10304%3Bi%3A2%3Bi%3A10300%3Bi%3A3%3Bi%3A10297%3Bi%3A4%3Bi%3A10293%3Bi%3A5%3Bi%3A10290%3B%7D"^^xsd:string .
 
 schema:Bookc1d40a07-0378-416a-9403-ad8863f86d0b a ns1:Book ;
     ns1:author "François Gravel"^^xsd:string,
         "Geneviève Côté"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!
-Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!
+    ns1:description """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!\r
+Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!\r
 Aura-t-il assez d’imagination?"""^^xsd:string,
         "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le trésor des Vikings"^^xsd:string ;
-    ns1:publisher "Québec Amérique"^^xsd:string ;
+    ns1:publisher "Québec Amérique" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Québec&firstid=10273&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10269%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10277%3Bi%3A3%3Bi%3A10281%3Bi%3A4%3Bi%3A10284%3Bi%3A5%3Bi%3A10287%3B%7D"^^xsd:string .
 
 schema:Bookd04a5a12-eba3-4de1-9eb2-5e0d7fa94ffa a ns1:Book ;
@@ -622,7 +622,7 @@ schema:Bookd04a5a12-eba3-4de1-9eb2-5e0d7fa94ffa a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le croco qui vit chez papi"^^xsd:string ;
-    ns1:publisher "Les 400 Coups"^^xsd:string ;
+    ns1:publisher "Les 400 Coups" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 0-5 ans Québec&firstid=10229&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10215%3Bi%3A1%3Bi%3A10220%3Bi%3A2%3Bi%3A10229%3Bi%3A3%3Bi%3A10223%3Bi%3A4%3Bi%3A10236%3Bi%3A5%3Bi%3A10241%3B%7D"^^xsd:string .
 
 schema:Bookd2ce4f68-e445-43ab-a2f1-d5dc08bb6334 a ns1:Book ;
@@ -635,21 +635,21 @@ schema:Bookd2ce4f68-e445-43ab-a2f1-d5dc08bb6334 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La boîte aux lettres"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 0-5 ans Québec&firstid=10215&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10215%3Bi%3A1%3Bi%3A10236%3Bi%3A2%3Bi%3A10241%3B%7D"^^xsd:string .
 
 schema:Bookd696c281-f5f4-44a0-8636-355481f34907 a ns1:Book ;
     ns1:author "Julie Champagne"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.
-Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.
+    ns1:description """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r
+Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r
 Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers toute la gamme des émotions."""^^xsd:string,
         "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Cancer ascendant autruche"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 12-17 ans Québec&firstid=10310&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10310%3Bi%3A1%3Bi%3A10314%3Bi%3A2%3Bi%3A10318%3Bi%3A3%3Bi%3A10317%3Bi%3A4%3Bi%3A10316%3Bi%3A5%3Bi%3A10315%3B%7D"^^xsd:string .
 
 schema:Bookd91b9bca-6e6f-4af6-afad-0adb1f59815c a ns1:Book ;
@@ -662,7 +662,7 @@ schema:Bookd91b9bca-6e6f-4af6-afad-0adb1f59815c a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La boîte aux lettres"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 0-5 ans Québec&firstid=10215&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10215%3Bi%3A1%3Bi%3A10220%3Bi%3A2%3Bi%3A10229%3Bi%3A3%3Bi%3A10223%3Bi%3A4%3Bi%3A10236%3Bi%3A5%3Bi%3A10241%3B%7D"^^xsd:string .
 
 schema:Bookdd9fb2d6-b937-41ab-9981-b0dc79665cce a ns1:Book ;
@@ -674,7 +674,7 @@ schema:Bookdd9fb2d6-b937-41ab-9981-b0dc79665cce a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Trouve Gustave"^^xsd:string ;
-    ns1:publisher "Bayard"^^xsd:string ;
+    ns1:publisher "Bayard" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 0-5 ans Hors Québec&firstid=10245&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10245%3Bi%3A1%3Bi%3A10255%3Bi%3A2%3Bi%3A10258%3Bi%3A3%3Bi%3A10262%3Bi%3A4%3Bi%3A10266%3Bi%3A5%3Bi%3A10251%3B%7D"^^xsd:string .
 
 schema:Booke3bf6789-5496-496a-957c-ac3568471023 a ns1:Book ;
@@ -687,7 +687,7 @@ schema:Booke3bf6789-5496-496a-957c-ac3568471023 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les soeurs Hiver"^^xsd:string ;
-    ns1:publisher "École Des Loisirs"^^xsd:string ;
+    ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 6-11 ans Hors Québec&firstid=10293&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10293%3Bi%3A1%3Bi%3A10304%3Bi%3A2%3Bi%3A10307%3B%7D"^^xsd:string .
 
 schema:Booke4109906-f13d-47d5-9523-ca6160536ec1 a ns1:Book ;
@@ -699,7 +699,7 @@ schema:Booke4109906-f13d-47d5-9523-ca6160536ec1 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Naître fille"^^xsd:string ;
-    ns1:publisher "Du Ricochet"^^xsd:string ;
+    ns1:publisher "Du Ricochet" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 12-17 ans Hors Québec&firstid=10331&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10335%3Bi%3A1%3Bi%3A10331%3Bi%3A2%3Bi%3A10338%3B%7D"^^xsd:string .
 
 schema:Bookea5ea10a-a022-46b3-857d-be39bacc5c9c a ns1:Book ;
@@ -711,7 +711,7 @@ schema:Bookea5ea10a-a022-46b3-857d-be39bacc5c9c a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Limonade T.1 : Un été au Lac-Saint-Jean"^^xsd:string ;
-    ns1:publisher "Hurtubise"^^xsd:string ;
+    ns1:publisher "Hurtubise" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 12-17 ans Québec&firstid=10317&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10318%3Bi%3A1%3Bi%3A10310%3Bi%3A2%3Bi%3A10317%3B%7D"^^xsd:string .
 
 schema:Bookef04c261-ca24-47a5-871a-965d1096a95f a ns1:Book ;
@@ -723,7 +723,7 @@ schema:Bookef04c261-ca24-47a5-871a-965d1096a95f a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Coco, où es-tu?"^^xsd:string ;
-    ns1:publisher "Monsieur"^^xsd:string ;
+    ns1:publisher "Monsieur" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 0-5 ans Québec&firstid=10220&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10215%3Bi%3A1%3Bi%3A10220%3Bi%3A2%3Bi%3A10229%3Bi%3A3%3Bi%3A10223%3Bi%3A4%3Bi%3A10236%3Bi%3A5%3Bi%3A10241%3B%7D"^^xsd:string .
 
 schema:Bookf1ab8dee-1a4d-4ac4-bd77-b143e8f251a5 a ns1:Book ;
@@ -737,7 +737,7 @@ schema:Bookf1ab8dee-1a4d-4ac4-bd77-b143e8f251a5 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les soeurs Hiver"^^xsd:string ;
-    ns1:publisher "École Des Loisirs"^^xsd:string ;
+    ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréats 6-11 ans Hors Québec&firstid=10293&theme=jeunesse&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10293%3B%7D"^^xsd:string .
 
 schema:Bookf38704a6-d876-45d9-9142-0fa2c77ba1aa a ns1:Book ;
@@ -750,7 +750,7 @@ schema:Bookf38704a6-d876-45d9-9142-0fa2c77ba1aa a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les soeurs Hiver"^^xsd:string ;
-    ns1:publisher "École Des Loisirs"^^xsd:string ;
+    ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Hors Québec&firstid=10293&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10307%3Bi%3A1%3Bi%3A10304%3Bi%3A2%3Bi%3A10300%3Bi%3A3%3Bi%3A10297%3Bi%3A4%3Bi%3A10293%3Bi%3A5%3Bi%3A10290%3B%7D"^^xsd:string .
 
 schema:Bookf69bc451-8c72-4bd2-8fe6-bbc2d040b486 a ns1:Book ;
@@ -762,7 +762,7 @@ schema:Bookf69bc451-8c72-4bd2-8fe6-bbc2d040b486 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La chambre éteinte"^^xsd:string ;
-    ns1:publisher "Leméac"^^xsd:string ;
+    ns1:publisher "Leméac" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 12-17 ans Québec&firstid=10318&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10318%3Bi%3A1%3Bi%3A10310%3Bi%3A2%3Bi%3A10317%3B%7D"^^xsd:string .
 
 schema:Bookfd60f954-b598-4f9b-a2bf-82682d073d3a a ns1:Book ;
@@ -775,7 +775,7 @@ schema:Bookfd60f954-b598-4f9b-a2bf-82682d073d3a a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Loveless"^^xsd:string ;
-    ns1:publisher "Hachette"^^xsd:string ;
+    ns1:publisher "Hachette" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Lauréats 12-17 ans Hors Québec&firstid=10338&theme=jeunesse&book_id_list=a%3A1%3A%7Bi%3A0%3Bi%3A10338%3B%7D"^^xsd:string .
 
 schema:Bookff188acb-dcbf-4207-bb95-2d869e385215 a ns1:Book ;
@@ -788,6 +788,6 @@ schema:Bookff188acb-dcbf-4207-bb95-2d869e385215 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Seuls"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string ;
+    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Québec&firstid=10269&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10269%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10277%3Bi%3A3%3Bi%3A10281%3Bi%3A4%3Bi%3A10284%3Bi%3A5%3Bi%3A10287%3B%7D"^^xsd:string .
 

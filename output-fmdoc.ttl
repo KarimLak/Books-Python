@@ -52,6 +52,30 @@ schema:Book1d38d34a-4790-4c19-9f34-ec41850e4055 a ns1:Book ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La ligne de trappe"^^xsd:string .
 
+schema:Book1ed7c6e5-2c6f-4c9e-9f03-77ccbd5e4180 a ns1:Book ;
+    ns1:author "Sarah Lalonde"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:description "Finalistes 2022 : Prix Alvine-Bélisle"^^xsd:string,
+        "Mettant en scène une adolescente autant angoissée que décomplexée; idéaliste que lucide, Trash anxieuse est une oeuvre à mi-chemin entre le roman et la poésie qui se lit d’un seul souffle. Le jury a particulièrement été charmé par cette héroïne fragile de ses émotions, mais forte de ses opinions dont les phrases chocs ponctuent le récit comme autant de points d’exclamation."^^xsd:string ;
+    ns1:genre "0 à 17 ans"^^xsd:string,
+        "Jeunesse"^^xsd:string,
+        "Littérature canadienne"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Trash anxieuse"^^xsd:string ;
+    ns1:publisher "Leméac" .
+
+schema:Book1f70f811-07e3-4a14-9e43-76b10e8e7892 a ns1:Book ;
+    ns1:author "Sébastien Gagnon"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:description "Finalistes 2022 : Prix Alvine-Bélisle"^^xsd:string,
+        "Un récit psychologique haletant qui met en vedette le cadavre noyé de Sierra, une adolescente dont on découvre le destin tragique dans les bois, au Lac St-Jean. Un récit court, fragmenté, le Jury a été captivé par cette histoire racontée au “je” qui présente une jeune femme à la fois frondeuse et fragile et dont la langue inventive surprend les lecteurs à chaque page."^^xsd:string ;
+    ns1:genre "0 à 17 ans"^^xsd:string,
+        "Jeunesse"^^xsd:string,
+        "Littérature canadienne"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Je ne suis pas une outarde"^^xsd:string ;
+    ns1:publisher "Bayard" .
+
 schema:Book216d876b-ebd5-4676-ae84-88ccc2e1b83e a ns1:Book ;
     ns1:author "Carole Tremblay"^^xsd:string,
         "Élodie Duhameau"^^xsd:string ;
@@ -233,6 +257,19 @@ schema:Book78b7003d-1747-4397-96a0-954a986fd37f a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Ma vie ne sait pas nager"^^xsd:string .
+
+schema:Book7b2ceadb-382b-4f1b-b5c7-8b23c44a822e a ns1:Book ;
+    ns1:author "Eve Patenaude"^^xsd:string,
+        "Simon Boulerice"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:description "C’est à travers des bribes de souvenir que se dévoile l’histoire d’Hortense, une jeune fille atteinte d’hémophilie. Avec Papier bulle, Simon Boulerice sait transformer les sujets les plus nichés en histoires universelles. En utilisant la technique du bleeding, les illustrations d’Eve Patenaude complètent et appuient avec justesse l’oeuvre en rappelant la présence du sang sur chacune des pages. Un livre à lire et à admirer lentement, pour bien en profiter."^^xsd:string,
+        "Finalistes 2022 : Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:genre "0 à 17 ans"^^xsd:string,
+        "Jeunesse"^^xsd:string,
+        "Littérature canadienne"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Papier bulle"^^xsd:string ;
+    ns1:publisher "XYZ Éditeur" .
 
 schema:Book89fd6746-7708-46d1-a61f-e23e06e7182d a ns1:Book ;
     ns1:author "Maryse Pelletier"^^xsd:string ;
@@ -474,16 +511,6 @@ schema:Bookf3393283-5b88-4b3b-8745-29609a382dea a ns1:Book ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La sœur de Robert"^^xsd:string .
 
-schema:Bookfcf9c41a-acbd-4942-93ea-04644e90840d a ns1:Book ;
-    ns1:author "Jean Bélisle"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
-    ns1:datePublished "1994"^^xsd:gYear ;
-    ns1:genre "0 à 17 ans"^^xsd:string,
-        "Jeunesse"^^xsd:string,
-        "Littérature canadienne"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "À propos d’un bateau à vapeur"^^xsd:string .
-
 schema:Bookfc8cb48c-128d-44e7-af6e-4b893b1666e4 a ns1:Book ;
     ns1:author "Aimée Verret"^^xsd:string ;
     ns1:datePublished "2021"^^xsd:gYear ;
@@ -494,41 +521,15 @@ schema:Bookfc8cb48c-128d-44e7-af6e-4b893b1666e4 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Dans mon garde-robe"^^xsd:string ;
-    ns1:publisher "La Courte Échelle"^^xsd:string .
+    ns1:publisher "La Courte Échelle" .
 
-schema:Book1f70f811-07e3-4a14-9e43-76b10e8e7892 a ns1:Book ;
-    ns1:author "Sébastien Gagnon"^^xsd:string ;
-    ns1:datePublished "2021"^^xsd:gYear ;
-    ns1:description "Finalistes 2022 : Prix Alvine-Bélisle"^^xsd:string,
-        "Un récit psychologique haletant qui met en vedette le cadavre noyé de Sierra, une adolescente dont on découvre le destin tragique dans les bois, au Lac St-Jean. Un récit court, fragmenté, le Jury a été captivé par cette histoire racontée au “je” qui présente une jeune femme à la fois frondeuse et fragile et dont la langue inventive surprend les lecteurs à chaque page."^^xsd:string ;
+schema:Bookfcf9c41a-acbd-4942-93ea-04644e90840d a ns1:Book ;
+    ns1:author "Jean Bélisle"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle"^^xsd:string ;
+    ns1:datePublished "1994"^^xsd:gYear ;
     ns1:genre "0 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string,
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Je ne suis pas une outarde"^^xsd:string ;
-    ns1:publisher "Bayard"^^xsd:string .
+    ns1:name "À propos d’un bateau à vapeur"^^xsd:string .
 
-schema:Book7b2ceadb-382b-4f1b-b5c7-8b23c44a822e a ns1:Book ;
-    ns1:author "Simon Boulerice"^^xsd:string,
-        "Eve Patenaude"^^xsd:string ;
-    ns1:datePublished "2021"^^xsd:gYear ;
-    ns1:description "C’est à travers des bribes de souvenir que se dévoile l’histoire d’Hortense, une jeune fille atteinte d’hémophilie. Avec Papier bulle, Simon Boulerice sait transformer les sujets les plus nichés en histoires universelles. En utilisant la technique du bleeding, les illustrations d’Eve Patenaude complètent et appuient avec justesse l’oeuvre en rappelant la présence du sang sur chacune des pages. Un livre à lire et à admirer lentement, pour bien en profiter."^^xsd:string,
-        "Finalistes 2022 : Prix Alvine-Bélisle"^^xsd:string ;
-    ns1:genre "0 à 17 ans"^^xsd:string,
-        "Jeunesse"^^xsd:string,
-        "Littérature canadienne"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Papier bulle"^^xsd:string ;
-    ns1:publisher "XYZ Éditeur"^^xsd:string .
-
-schema:Book1ed7c6e5-2c6f-4c9e-9f03-77ccbd5e4180 a ns1:Book ;
-    ns1:author "Sarah Lalonde"^^xsd:string ;
-    ns1:datePublished "2021"^^xsd:gYear ;
-    ns1:description "Finalistes 2022 : Prix Alvine-Bélisle"^^xsd:string,
-        "Mettant en scène une adolescente autant angoissée que décomplexée; idéaliste que lucide, Trash anxieuse est une oeuvre à mi-chemin entre le roman et la poésie qui se lit d’un seul souffle. Le jury a particulièrement été charmé par cette héroïne fragile de ses émotions, mais forte de ses opinions dont les phrases chocs ponctuent le récit comme autant de points d’exclamation."^^xsd:string ;
-    ns1:genre "0 à 17 ans"^^xsd:string,
-        "Jeunesse"^^xsd:string,
-        "Littérature canadienne"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Trash anxieuse"^^xsd:string ;
-    ns1:publisher "Leméac"^^xsd:string .
