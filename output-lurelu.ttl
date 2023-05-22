@@ -351,7 +351,7 @@ schema:Book19e0d5e5-37b2-4e58-8432-74c3e4f0b7dd a ns1:Book ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Thomas, \r\r\r\r
+    ns1:name """Thomas, \r\r\r\r\r\r\r
  prince professionnel"""^^xsd:string ;
     ns1:publisher "Fonfon" ;
     ns1:url "https://www.lurelu.net/prixlitt_magenfants.html"^^xsd:string .
@@ -664,7 +664,7 @@ schema:Book34b50e13-72a5-4b04-9b53-dd6893823aa6 a ns1:Book ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Les aventures de Radisson t.3 L'année des \r\r\r\r
+    ns1:name """Les aventures de Radisson t.3 L'année des \r\r\r\r\r\r\r
  surhommes"""^^xsd:string ;
     ns1:publisher "Septentrion" ;
     ns1:url "https://www.lurelu.net/prixlitt_villedequebec.html"^^xsd:string .
@@ -1099,7 +1099,7 @@ schema:Book5725f7a0-7576-41f6-aa6b-42717c4ffb3e a ns1:Book ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Le petit chevalier \r\r\r\r
+    ns1:name """Le petit chevalier \r\r\r\r\r\r\r
  qui n'aimait pas la pluie"""^^xsd:string ;
     ns1:publisher "Imagine" ;
     ns1:url "https://www.lurelu.net/prixlitt_walloniebruxelles.html"^^xsd:string .
@@ -1843,7 +1843,7 @@ schema:Booka1cbb8d5-ddd0-44ad-9e30-acd9274ea94b a ns1:Book ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Le géant qui sentait \r\r\r\r
+    ns1:name """Le géant qui sentait \r\r\r\r\r\r\r
  les petits pieds"""^^xsd:string ;
     ns1:publisher "Québec Amérique" ;
     ns1:url "https://www.lurelu.net/prixlitt_walloniebruxelles.html"^^xsd:string .
@@ -2690,7 +2690,7 @@ schema:Booke10b1b63-a8dc-4ba6-ad5e-77cc93479683 a ns1:Book ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Les aventures de Radisson t.3 L'année des \r\r\r\r
+    ns1:name """Les aventures de Radisson t.3 L'année des \r\r\r\r\r\r\r
  surhommes"""^^xsd:string ;
     ns1:publisher "Septentrion" ;
     ns1:url "https://www.lurelu.net/prixlitt_villedequebec.html"^^xsd:string .
@@ -2771,7 +2771,7 @@ schema:Bookea5d58ee-6f82-46e9-9ad6-23b9f9610706 a ns1:Book ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """L'enquête secrète \r\r\r\r
+    ns1:name """L'enquête secrète \r\r\r\r\r\r\r
  de la ruelle"""^^xsd:string ;
     ns1:publisher "Jules La Mouche" ;
     ns1:url "https://www.lurelu.net/prixlitt_monteregie.html"^^xsd:string .

@@ -232,7 +232,7 @@ schema:Book5789fd1d-2467-42f9-96aa-a4260508f4da a ns1:Book ;
     ns1:author "Michel Streich"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string,
-        """Un oiseau venu d’ailleurs est arrivé dans la volière… et tout le monde s’agite! Il est étrange et différent… il fait PEUR! Le drôle d’oiseau se sentira-t-il un jour chez lui, entouré des autres oiseaux?\r\r\r\r
+        """Un oiseau venu d’ailleurs est arrivé dans la volière… et tout le monde s’agite! Il est étrange et différent… il fait PEUR! Le drôle d’oiseau se sentira-t-il un jour chez lui, entouré des autres oiseaux?\r\r\r\r\r\r\r
 Un récit amusant et léger montrant qu’être différent ne veut pas dire être effrayant! Cet album offre un point de vue rafraîchissant sur l’appréciation des différences et l’accueil des nouveaux arrivants."""^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
@@ -323,8 +323,8 @@ schema:Book6ee5b803-1214-42d7-aa6c-3b0084159626 a ns1:Book ;
         "Geneviève Côté"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Finaliste 6-11 ans : 6-11 ans"^^xsd:string,
-        """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!\r\r\r\r
-Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!\r\r\r\r
+        """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!\r\r\r\r\r\r\r
+Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!\r\r\r\r\r\r\r
 Aura-t-il assez d’imagination?"""^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
@@ -373,8 +373,8 @@ schema:Book7a21ad59-5b62-49a0-bab8-66531c9387d2 a ns1:Book ;
     ns1:author "Julie Champagne"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Finaliste 12-17 ans : 12-17 ans"^^xsd:string,
-        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r\r\r\r
-Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r\r\r\r
+        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r\r\r\r\r\r\r
+Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r\r\r\r\r\r\r
 Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers toute la gamme des émotions."""^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
@@ -388,8 +388,8 @@ schema:Book7fa936a7-589e-4d52-b07a-3fd53d2f8ce5 a ns1:Book ;
     ns1:award "Lauréats 12-17 Ans Québec" ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Lauréat 12-17 ans : 12-17 ans"^^xsd:string,
-        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r\r\r\r
-Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r\r\r\r
+        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r\r\r\r\r\r\r
+Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r\r\r\r\r\r\r
 Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers toute la gamme des émotions."""^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
@@ -465,7 +465,7 @@ schema:Book92ed6024-7b8b-4245-b301-ec84db374002 a ns1:Book ;
         "Tobias Krejtschi"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
     ns1:description "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string,
-        """« Fibie, ta mère est folle! »\r\r\r\r
+        """« Fibie, ta mère est folle! »\r\r\r\r\r\r\r
 Au début, Fibie ne croyait pas ce que les autres disaient de sa mère. Mais avec le temps, les comportements de cette dernière deviennent de plus en plus bizarres. Quand sa mère refuse de sortir de sa chambre, la colère de Fibie éclate. Alors, son père lui confie un secret : sa mère n’est pas folle, c’est plutôt une fée qui vit parmi les humains. Une telle chose est-elle possible?"""^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
@@ -602,8 +602,8 @@ schema:Bookc1d40a07-0378-416a-9403-ad8863f86d0b a ns1:Book ;
     ns1:author "François Gravel"^^xsd:string,
         "Geneviève Côté"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!\r\r\r\r
-Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!\r\r\r\r
+    ns1:description """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!\r\r\r\r\r\r\r
+Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!\r\r\r\r\r\r\r
 Aura-t-il assez d’imagination?"""^^xsd:string,
         "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
@@ -641,8 +641,8 @@ schema:Bookd2ce4f68-e445-43ab-a2f1-d5dc08bb6334 a ns1:Book ;
 schema:Bookd696c281-f5f4-44a0-8636-355481f34907 a ns1:Book ;
     ns1:author "Julie Champagne"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r\r\r\r
-Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r\r\r\r
+    ns1:description """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r\r\r\r\r\r\r
+Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r\r\r\r\r\r\r
 Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers toute la gamme des émotions."""^^xsd:string,
         "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,

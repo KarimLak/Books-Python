@@ -197,7 +197,7 @@ schema:Book103cb469-6921-45c6-bca5-49e4bfcc34e8 a ns1:Book ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Vieux Thomas \r\r\r\r\r
+    ns1:name """Vieux Thomas \r\r\r\r\r\r\r\r
 et la petite fée"""^^xsd:string ;
     ns1:publisher "Dominique Et Compagnie" ;
     ns1:url "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string .
@@ -286,7 +286,7 @@ schema:Book171f4eed-3bdf-4d80-b7fe-0e178372a5bc a ns1:Book ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """La bergère \r\r\r\r\r
+    ns1:name """La bergère \r\r\r\r\r\r\r\r
 de chevaux"""^^xsd:string ;
     ns1:publisher "Québec Amérique" ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
@@ -487,7 +487,7 @@ schema:Book2223c0b6-18ea-46c9-9d40-17464646fd3c a ns1:Book ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Mais que font les \r\r\r\r\r
+    ns1:name """Mais que font les \r\r\r\r\r\r\r\r
 fées avec toutes ces dents?"""^^xsd:string ;
     ns1:publisher "Raton Laveur" ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
@@ -721,7 +721,7 @@ schema:Book34cdba42-9b18-4b57-b780-bc36afbcc460 a ns1:Book ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Les fantaisies \r\r\r\r\r
+    ns1:name """Les fantaisies \r\r\r\r\r\r\r\r
 de l'oncle Henri"""^^xsd:string ;
     ns1:publisher "Annick Press" ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
@@ -790,7 +790,7 @@ schema:Book3bcdd299-345d-43e0-b461-7e52fef5aea9 a ns1:Book ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Vieux Thomas et la petite \r\r\r\r\r
+    ns1:name """Vieux Thomas et la petite \r\r\r\r\r\r\r\r
 fée"""^^xsd:string ;
     ns1:publisher "Dominique Et Compagnie" ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
@@ -858,7 +858,7 @@ schema:Book3f7de22d-d2bb-4955-bc82-ccc4d458434b a ns1:Book ;
     ns1:genre "Illustration"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Un voyage \r\r\r\r\r
+    ns1:name """Un voyage \r\r\r\r\r\r\r\r
 pour deux"""^^xsd:string ;
     ns1:publisher "Annick Press" ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
@@ -1515,7 +1515,7 @@ schema:Book72f2ab88-8cc8-46a6-8c54-b8ed566d3e80 a ns1:Book ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Le gros problème \r\r\r\r\r
+    ns1:name """Le gros problème \r\r\r\r\r\r\r\r
 du petit Marcus"""^^xsd:string ;
     ns1:publisher "La Courte Échelle" ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
@@ -1662,7 +1662,7 @@ schema:Book7fff39c4-cfa7-45fb-a68f-b07bcd019d72 a ns1:Book ;
     ns1:genre "7 ans et moins"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Au lit, \r\r\r\r\r
+    ns1:name """Au lit, \r\r\r\r\r\r\r\r
 princesse Émilie!"""^^xsd:string ;
     ns1:publisher "Le Raton Laveur" ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
@@ -1820,7 +1820,7 @@ schema:Book93567b4c-a217-4c12-92c4-c45636015d2e a ns1:Book ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Le livre où la poule \r\r\r\r\r
+    ns1:name """Le livre où la poule \r\r\r\r\r\r\r\r
 meurt à la fin"""^^xsd:string ;
     ns1:publisher "Les 400 Coups" ;
     ns1:url "https://www.lurelu.net/prixlitt_jeunesse-librair.html"^^xsd:string .
@@ -1865,7 +1865,7 @@ schema:Book9bdb2189-83ae-4278-a69a-7aad1b9466be a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Rosalie s'en \r\r\r\r\r
+    ns1:name """Rosalie s'en \r\r\r\r\r\r\r\r
 va-t-en guerre"""^^xsd:string ;
     ns1:publisher "La Courte Échelle" ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
@@ -2167,7 +2167,7 @@ schema:Bookb0268da2-fd0e-4261-bb87-1ef9f65976d9 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Émilie, \r\r\r\r\r
+    ns1:name """Émilie, \r\r\r\r\r\r\r\r
 la baignoire à pattes"""^^xsd:string ;
     ns1:publisher "Héritage" ;
     ns1:url "https://www.lurelu.net/prixlitt_conseildesarts.html"^^xsd:string .
@@ -2212,7 +2212,7 @@ schema:Bookb0a87961-4c2c-4ad5-baab-ced96c52e9d2 a ns1:Book ;
     ns1:genre "Album"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Cent enfants imaginent comment\r\r\r\r\r
+    ns1:name """Cent enfants imaginent comment\r\r\r\r\r\r\r\r
 changer le monde"""^^xsd:string ;
     ns1:publisher "La Bagnole" ;
     ns1:url "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string .
@@ -2312,7 +2312,7 @@ schema:Bookbf073e6c-b046-4d49-bd20-d0f2e37b6a9d a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "La liberté? Connais pas.." ;
+    ns1:name "La liberté? Connais pas..." ;
     ns1:publisher "La Courte Échelle" ;
     ns1:url "https://www.lurelu.net/prixlitt_gouverneur.html"^^xsd:string .
 
@@ -2368,7 +2368,7 @@ schema:Bookc2b8c1ad-2b8a-4a1c-8b5c-f83fd060225e a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Hockeyeurs \r\r\r\r\r
+    ns1:name """Hockeyeurs \r\r\r\r\r\r\r\r
 cybernétiques"""^^xsd:string ;
     ns1:publisher "Paulines" ;
     ns1:url "https://www.lurelu.net/prixlitt_conseildesarts.html"^^xsd:string .
@@ -2468,7 +2468,7 @@ schema:Bookcd41a997-baff-4433-8d9a-bca6abf2979c a ns1:Book ;
     ns1:genre "8 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Jean-Baptiste, \r\r\r\r\r
+    ns1:name """Jean-Baptiste, \r\r\r\r\r\r\r\r
 coureur des bois"""^^xsd:string ;
     ns1:publisher "Boréal" ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
@@ -2746,7 +2746,7 @@ schema:Bookeb4e230d-15db-41aa-a3a1-75c9bef21645 a ns1:Book ;
     ns1:genre "12 à 16 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Le ciel \r\r\r\r\r
+    ns1:name """Le ciel \r\r\r\r\r\r\r\r
 tombe à côté"""^^xsd:string ;
     ns1:publisher "Québec Amérique" ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
@@ -2902,7 +2902,7 @@ schema:Bookf45760a7-2139-4da6-9817-7757eee8f787 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string,
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name """Bibitsa ou l'étrange voyage\r\r\r\r\r
+    ns1:name """Bibitsa ou l'étrange voyage\r\r\r\r\r\r\r\r
 de Clara Vic"""^^xsd:string ;
     ns1:publisher "Québec Amérique" ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
