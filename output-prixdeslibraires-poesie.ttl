@@ -5,7 +5,8 @@
 schema:Book0de4ac0f-b6ef-46d6-b889-955c60e441ab a ns1:Book ;
     ns1:author "Stéphane Jean"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Préliminaire 2023"^^xsd:string, 
+        "Contemplation du désastre, Refuge pour ténèbres est l'offrande d'une voix dépouillée qui refuse de céder à l'abattement. Devant l'abîme, le poète ne recule pas. Il a l'habitude : « le vide est mon premier chien ». Avec ferveur, ces poèmes denses et sombres composent une cosmogonie des bas-fonds », le portrait tout en nuances des profondeurs du monde."^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Refuge pour ténèbres"^^xsd:string ;
     ns1:publisher "Les Herbes Rouges" ;
@@ -14,7 +15,8 @@ schema:Book0de4ac0f-b6ef-46d6-b889-955c60e441ab a ns1:Book ;
 schema:Book11b9defe-90d9-487a-89ef-8ed976699188 a ns1:Book ;
     ns1:author "Emmanuelle Riendeau"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 2023 poésie"^^xsd:string ;
+    ns1:description "Finaliste 2023 poésie"^^xsd:string,
+        "Les cendres du père ont été mises en terre. Son nom, gravé sur le tombeau familial. La promesse oratoire des chants démodés se fracasse contre le seuil d'une chambre aux soins palliatifs et d'une maison vidée"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Domaine du repos"^^xsd:string ;
     ns1:publisher "Le Noroît" ;
@@ -23,7 +25,8 @@ schema:Book11b9defe-90d9-487a-89ef-8ed976699188 a ns1:Book ;
 schema:Book1ecbe59b-c9f5-495b-8c80-dea70e1ddecd a ns1:Book ;
     ns1:author "Louise Dupré"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Préliminaire 2023"^^xsd:string, 
+        "Troisième recueil d'un triptyque sur les possibilités du poétique face à l'horreur et à la détresse, Exercices de joie prend le risque de la tendresse en choisissant la douceur comme arme de combat. Dans une écriture fluide qui alterne entre prose et vers, les poèmes explorent la notion de joie, non seulement comme quête d'apaisement, mais comme responsabilité à l'égard des autres : le souci de leur apporter espérance."^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Exercices de joie"^^xsd:string ;
     ns1:publisher "Le Noroît" ;
@@ -32,7 +35,8 @@ schema:Book1ecbe59b-c9f5-495b-8c80-dea70e1ddecd a ns1:Book ;
 schema:Book200b7bf3-b9f2-45bc-97a4-86d3a0f96981 a ns1:Book ;
     ns1:author "Marie-Hélène Voyer"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Préliminaire 2023"^^xsd:string,
+        "Mouron des champs dit l'histoire de vies dures et empêtrées, de destinées de filles de fermiers, de pauvresses du bout du rang, de mères travailleuses infatigables aux désirs corsetés. Revitalisant brillamment le vocabulaire des parlers populaires, Marie-Hélène Voyer fouille les lieux de vie familiaux où se resserrent l'emprise de la domesticité et la violence de la contention. Cette poésie profonde et tassée comme un pain de mie porte la voix des mortes et met en lumière les encagements du passé."^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Mouron des champs"^^xsd:string ;
     ns1:publisher "La Peuplade" ;
@@ -41,7 +45,8 @@ schema:Book200b7bf3-b9f2-45bc-97a4-86d3a0f96981 a ns1:Book ;
 schema:Book3baaf1a6-8625-4332-8701-6b0f1fb767e8 a ns1:Book ;
     ns1:author "Chloé Savoie-Bernard"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Préliminaire 2023"^^xsd:string,
+        "Mais il n'est rien qui puisse contenir les femmes amères nos viscères sont bridés d'euphories dévastatrices qui nous font roter quand elles remontent L'autrice poursuit son exploration poétique du désir, de l'identité, du rapport à l'autre dans un recueil d'une impudeur ardente, et élégante. Dans des vers incarnés qui mettent la lecture sous tension, la réaction - genrée, raciste, sociale - continue de brutaliser l'intellect. Et cette fois, le désir d'élévation et la figure du féminin transcendé, pour le meilleur et pour le pire, entrent en scène."^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Sainte Chloé de l’amour"^^xsd:string ;
     ns1:publisher "L’Hexagone" ;
@@ -50,7 +55,8 @@ schema:Book3baaf1a6-8625-4332-8701-6b0f1fb767e8 a ns1:Book ;
 schema:Book3c697d57-8c83-4479-86d4-e6ccee133b02 a ns1:Book ;
     ns1:author "Nelly Desmarais"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Préliminaire 2023"^^xsd:string,
+        "Quand j'ai emménagé coin Cuvillier et Sainte-Catherine, dans Hochelaga, je pensais avoir tout gâché, tout perdu. Autour de mon appartement, il y avait les ouvrières et les enfants d'autrefois, il y avait les filles de la rue, leur présence comme une menace, mais aussi un mystère, un espoir. Un jour je descendrais les rejoindre, pour de bon."^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Marche à voix basse"^^xsd:string ;
     ns1:publisher "Le Quartanier" ;
@@ -58,9 +64,10 @@ schema:Book3c697d57-8c83-4479-86d4-e6ccee133b02 a ns1:Book ;
 
 schema:Book660b1528-978c-4c1e-b938-c48ad3d2a86f a ns1:Book ;
     ns1:author "Marie-Hélène Voyer"^^xsd:string ;
-    ns1:award "Lauréat 2023 Poésie Québec" ;
+    ns1:award "Lauréat 2023 Poésie Québec"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Lauréat 2023 poésie"^^xsd:string ;
+    ns1:description "Lauréat 2023 poésie"^^xsd:string,
+        "Mouron des champs dit l'histoire de vies dures et empêtrées, de destinées de filles de fermiers, de pauvresses du bout du rang, de mères travailleuses infatigables aux désirs corsetés. Revitalisant brillamment le vocabulaire des parlers populaires, Marie-Hélène Voyer fouille les lieux de vie familiaux où se resserrent l'emprise de la domesticité et la violence de la contention. Cette poésie profonde et tassée comme un pain de mie porte la voix des mortes et met en lumière les encagements du passé."^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Mouron des champs"^^xsd:string ;
     ns1:publisher "La Peuplade" ;
@@ -69,7 +76,18 @@ schema:Book660b1528-978c-4c1e-b938-c48ad3d2a86f a ns1:Book ;
 schema:Book6ece45fe-9606-444a-8dc6-a47c3743f613 a ns1:Book ;
     ns1:author "Alycia Dufour"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 2023 poésie"^^xsd:string ;
+    ns1:description "Finaliste 2023 poésie"^^xsd:string,
+        "Premier recueil d'Alycia Dufour, Une flambée mes mains déploie une écriture toute en finesse qui prend ancrage dans la tradition pour mieux la faire trembler. Campés dans un décor hybride, à cheval sur le folklore et une sorte d'apocalypse intime, les poèmes se déploient tel un fil savamment tendu entre père et mère, enfance et renaissance, nature et barbarie, faisant du contraste le cœur battant et entêté de la métaphore. En résulte un univers fougueux et résolument original où les légendes recommencent le monde comme « fièvre sur peau grise»."^^xsd:string ;
+    ns1:genre "Poésie"^^xsd:string ;
+    ns1:name "Une flambée mes mains"^^xsd:string ;
+    ns1:publisher "Poètes De Brousse" ;
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 poésie Québec&firstid=10499&theme=poesie&book_id_list=a%3A4%3A%7Bi%3A0%3Bi%3A10502%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10500%3Bi%3A3%3Bi%3A10497%3B%7D"^^xsd:string .
+
+schema:Book6ece45fe-9606-444a-8dc6-a47c3743f614 a ns1:Book ;
+    ns1:author "Alycia Dufour"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
+    ns1:description "Préliminaire 2023"^^xsd:string,
+        "Premier recueil d'Alycia Dufour, Une flambée mes mains déploie une écriture toute en finesse qui prend ancrage dans la tradition pour mieux la faire trembler. Campés dans un décor hybride, à cheval sur le folklore et une sorte d'apocalypse intime, les poèmes se déploient tel un fil savamment tendu entre père et mère, enfance et renaissance, nature et barbarie, faisant du contraste le cœur battant et entêté de la métaphore. En résulte un univers fougueux et résolument original où les légendes recommencent le monde comme « fièvre sur peau grise»."^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Une flambée mes mains"^^xsd:string ;
     ns1:publisher "Poètes De Brousse" ;
@@ -78,25 +96,28 @@ schema:Book6ece45fe-9606-444a-8dc6-a47c3743f613 a ns1:Book ;
 schema:Book70ed5711-102f-4b20-a4e8-dbb03727d481 a ns1:Book ;
     ns1:author "Lucile de Pesloüan"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 2023 poésie"^^xsd:string ;
+    ns1:description "Finaliste 2023 poésie"^^xsd:string, 
+        "Sous forme de courts poèmes, ces notes s'agglutinent et laissent se dégager une poésie fine, sensible et personnelle. Lucile de Peslouan y dévoile obsessions, nostalgies, préoccupations, rêves et souhaits.Sans tenter de s'y soustraire, mais bien plutôt en s'y accolant dans la forme esthétique, ces listes inspirées des Notes de chevet de la poétesse Sei Shōnagon laissent toute la place à de Pesloüan d'y poser sa voix humblement."^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Surtout, ne pas faire de listes"^^xsd:string ;
     ns1:publisher "Rodrigol" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 poésie Québec&firstid=10500&theme=poesie&book_id_list=a%3A4%3A%7Bi%3A0%3Bi%3A10502%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10500%3Bi%3A3%3Bi%3A10497%3B%7D"^^xsd:string .
 
-schema:Book9259c573-3560-4021-a0a2-8df63638e70f a ns1:Book ;
+schema:Book70ed5711-102f-4b20-a4e8-dbb03727d482 a ns1:Book ;
     ns1:author "Lucile de Pesloüan"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Préliminaire 2023"^^xsd:string, 
+        "Sous forme de courts poèmes, ces notes s'agglutinent et laissent se dégager une poésie fine, sensible et personnelle. Lucile de Peslouan y dévoile obsessions, nostalgies, préoccupations, rêves et souhaits.Sans tenter de s'y soustraire, mais bien plutôt en s'y accolant dans la forme esthétique, ces listes inspirées des Notes de chevet de la poétesse Sei Shōnagon laissent toute la place à de Pesloüan d'y poser sa voix humblement."^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Surtout, ne pas faire de listes"^^xsd:string ;
     ns1:publisher "Rodrigol" ;
-    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 2023 Québec&firstid=10500&theme=poesie&book_id_list=a%3A8%3A%7Bi%3A0%3Bi%3A10501%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10498%3Bi%3A3%3Bi%3A10503%3Bi%3A4%3Bi%3A10500%3Bi%3A5%3Bi%3A10497%3Bi%3A6%3Bi%3A10496%3Bi%3A7%3Bi%3A10502%3B%7D"^^xsd:string .
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 2023 poésie Québec&firstid=10500&theme=poesie&book_id_list=a%3A4%3A%7Bi%3A0%3Bi%3A10502%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10500%3Bi%3A3%3Bi%3A10497%3B%7D"^^xsd:string .
 
 schema:Book9a75b4dd-f1c9-4ce2-a166-e9539a93f47d a ns1:Book ;
     ns1:author "Marie-Hélène Voyer"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 2023 poésie"^^xsd:string ;
+    ns1:description "Finaliste 2023 poésie"^^xsd:string, 
+        "Mouron des champs dit l'histoire de vies dures et empêtrées, de destinées de filles de fermiers, de pauvresses du bout du rang, de mères travailleuses infatigables aux désirs corsetés. Revitalisant brillamment le vocabulaire des parlers populaires, Marie-Hélène Voyer fouille les lieux de vie familiaux où se resserrent l'emprise de la domesticité et la violence de la contention. Cette poésie profonde et tassée comme un pain de mie porte la voix des mortes et met en lumière les encagements du passé."^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Mouron des champs"^^xsd:string ;
     ns1:publisher "La Peuplade" ;
@@ -105,18 +126,9 @@ schema:Book9a75b4dd-f1c9-4ce2-a166-e9539a93f47d a ns1:Book ;
 schema:Booka477d4d3-965f-4f79-bc9a-8e80e935c6d1 a ns1:Book ;
     ns1:author "Emmanuelle Riendeau"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Préliminaire 2023"^^xsd:string, 
+    "Les cendres du père ont été mises en terre. Son nom, gravé sur le tombeau familial. La promesse oratoire des chants démodés se fracasse contre le seuil d'une chambre aux soins palliatifs et d'une maison vidée"^^xsd:string ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Domaine du repos"^^xsd:string ;
     ns1:publisher "Le Noroît" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 2023 Québec&firstid=10497&theme=poesie&book_id_list=a%3A8%3A%7Bi%3A0%3Bi%3A10501%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10498%3Bi%3A3%3Bi%3A10503%3Bi%3A4%3Bi%3A10500%3Bi%3A5%3Bi%3A10497%3Bi%3A6%3Bi%3A10496%3Bi%3A7%3Bi%3A10502%3B%7D"^^xsd:string .
-
-schema:Booke2fb1fde-c917-4b94-8ce7-6aa730c037f0 a ns1:Book ;
-    ns1:author "Alycia Dufour"^^xsd:string ;
-    ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023"^^xsd:string ;
-    ns1:genre "Poésie"^^xsd:string ;
-    ns1:name "Une flambée mes mains"^^xsd:string ;
-    ns1:publisher "Poètes De Brousse" ;
-    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 2023 Québec&firstid=10499&theme=poesie&book_id_list=a%3A8%3A%7Bi%3A0%3Bi%3A10501%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10498%3Bi%3A3%3Bi%3A10503%3Bi%3A4%3Bi%3A10500%3Bi%3A5%3Bi%3A10497%3Bi%3A6%3Bi%3A10496%3Bi%3A7%3Bi%3A10502%3B%7D"^^xsd:string .
-
