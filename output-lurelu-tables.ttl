@@ -42,7 +42,7 @@ schema:Book03fcd73c-944d-49b8-8449-92d9f51ba5e2 a ns1:Book ;
     ns1:dateReceived "1987"^^xsd:gYear ;
     ns1:genre "Illustration, volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "Rainy Day Magic"^^xsd:string ;
     ns1:publisher "Stoddart" ;
     ns1:url "https://www.lurelu.net/prixlitt_gouverneur.html"^^xsd:string .
@@ -185,7 +185,7 @@ schema:Book0fadbace-361e-43f2-864f-4730e9cc7fe5 a ns1:Book ;
     ns1:dateReceived "2012"^^xsd:gYear ;
     ns1:genre "Illustration, volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "Virginia Wolf"^^xsd:string ;
     ns1:publisher "Kids Can Press" ;
     ns1:url "https://www.lurelu.net/prixlitt_gouverneur.html"^^xsd:string .
@@ -271,11 +271,6 @@ schema:Book1671c26a-6641-4a8f-9c63-11fe87a9d516 a ns1:Book ;
     ns1:author "Renée Grégoire"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
     ns1:dateReceived "1981"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string,
-        "Relève"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Renée Grégoire"^^xsd:string ;
-    ns1:publisher "Nota Bene" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 schema:Book171f4eed-3bdf-4d80-b7fe-0e178372a5bc a ns1:Book ;
@@ -529,7 +524,7 @@ schema:Book2585dbdd-449d-4c5f-9b5d-d8048b72d4fe a ns1:Book ;
     ns1:dateReceived "2008"^^xsd:gYear ;
     ns1:genre "Illustration, volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "The Owl and the Pussycat"^^xsd:string ;
     ns1:publisher "Kids Can Press" ;
     ns1:url "https://www.lurelu.net/prixlitt_gouverneur.html"^^xsd:string .
@@ -604,11 +599,6 @@ schema:Book2a95963f-81f5-40e2-ab5b-cfc25880d423 a ns1:Book ;
     ns1:author "Matilde Beausoleil"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
     ns1:dateReceived "1987"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string,
-        "Relève"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name ""^^xsd:string ;
-    ns1:publisher "Le Raton Laveur" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 schema:Book2b2a22ad-a487-4211-9483-7126e2504b7c a ns1:Book ;
@@ -906,11 +896,6 @@ schema:Book46c2a7d8-5864-4425-8551-cc09af246951 a ns1:Book ;
     ns1:author "Françoise Barraud"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
     ns1:dateReceived "1984"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string,
-        "Relève"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name ""^^xsd:string ;
-    ns1:publisher "Renée Grégoire" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 schema:Book46eed6c2-f500-46e5-8a0c-0de33dffe7a7 a ns1:Book ;
@@ -1150,11 +1135,6 @@ schema:Book5a00e6c5-083d-47cb-bf80-a984de0a97eb a ns1:Book ;
     ns1:author "Serge Déry"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
     ns1:dateReceived "1982"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string,
-        "Relève"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name ""^^xsd:string ;
-    ns1:publisher "Suzanne Duranceau" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 schema:Book5a6ae29d-a480-41ca-b62d-1725ee94b38b a ns1:Book ;
@@ -1172,11 +1152,6 @@ schema:Book5b442af0-6b9c-4bec-be2c-763490af14b3 a ns1:Book ;
     ns1:author "Jean Hudon"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
     ns1:dateReceived "1986"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string,
-        "Relève"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name ""^^xsd:string ;
-    ns1:publisher "Anik Lafrenière" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 schema:Book5c628124-0746-49bf-8a5b-a6c4c733dd48 a ns1:Book ;
@@ -1251,7 +1226,7 @@ schema:Book6159586f-76d5-4b92-a93c-ef98d82a059d a ns1:Book ;
     ns1:dateReceived "2004"^^xsd:gYear ;
     ns1:genre "Illustration, volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "Jabberwocky"^^xsd:string ;
     ns1:publisher "Kids Can Press" ;
     ns1:url "https://www.lurelu.net/prixlitt_gouverneur.html"^^xsd:string .
@@ -1451,11 +1426,6 @@ schema:Book6de0fa98-f5b4-42c6-ad68-dbf8bdb3bca4 a ns1:Book ;
     ns1:author "Geneviève Côté"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
     ns1:dateReceived "1988"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string,
-        "Relève"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name ""^^xsd:string ;
-    ns1:publisher "La Courte Échelle" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 schema:Book6eec04f2-f9f7-4692-8458-50df8289e046 a ns1:Book ;
@@ -2310,7 +2280,7 @@ schema:Bookbf432c6e-0f20-40a1-b01c-332113720847 a ns1:Book ;
     ns1:dateReceived "1984"^^xsd:gYear ;
     ns1:genre "Illustration volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "Lizzy's Lion"^^xsd:string ;
     ns1:publisher "Stoddart" ;
     ns1:url "https://www.lurelu.net/prixlitt_conseildesarts.html"^^xsd:string .
@@ -2540,11 +2510,6 @@ schema:Bookd8454ce4-5688-4bff-bb8d-56e0292afec2 a ns1:Book ;
     ns1:author "Jacqueline Roy"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
     ns1:dateReceived "1983"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string,
-        "Relève"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name ""^^xsd:string ;
-    ns1:publisher "Philippe Béha" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 schema:Bookd8493605-9247-4eb3-9202-217611910c14 a ns1:Book ;
@@ -2564,7 +2529,7 @@ schema:Bookd9ae4829-af7d-4f14-b6b4-27a1fa922044 a ns1:Book ;
     ns1:dateReceived "2001"^^xsd:gYear ;
     ns1:genre "Illustration, volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "An Island in the Soup"^^xsd:string ;
     ns1:publisher "Groundwood Books" ;
     ns1:url "https://www.lurelu.net/prixlitt_gouverneur.html"^^xsd:string .
@@ -2786,7 +2751,7 @@ schema:Bookef4a6aac-1308-4275-b54c-b3483d0c4c9a a ns1:Book ;
     ns1:dateReceived "2000"^^xsd:gYear ;
     ns1:genre "Illustration, volet anglophone"^^xsd:string,
         "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "Yuck, a Love Story"^^xsd:string ;
     ns1:publisher "Stoddart" ;
     ns1:url "https://www.lurelu.net/prixlitt_gouverneur.html"^^xsd:string .
@@ -2795,11 +2760,6 @@ schema:Bookeff2965c-a5ff-4c52-bbca-2ae190a0ffe3 a ns1:Book ;
     ns1:author "Louise Martel"^^xsd:string ;
     ns1:award "Concours Communication-Jeunesse / Culinar" ;
     ns1:dateReceived "1985"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string,
-        "Relève"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name ""^^xsd:string ;
-    ns1:publisher "Stéphane Poulin" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 schema:Bookf06a98f3-422d-45c0-a622-a6e2d4edac6c a ns1:Book ;
@@ -2978,17 +2938,6 @@ schema:Bookf9af6151-7868-4255-a2c6-185574493992 a ns1:Book ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Mon Teddy à moi"^^xsd:string ;
     ns1:publisher "La Bagnole" ;
-    ns1:url "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string .
-
-schema:Bookfa7f2049-79e4-48bc-8e29-f9aa45c1f481 a ns1:Book ;
-    ns1:author "Non attribué"^^xsd:string ;
-    ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-    ns1:dateReceived "2016"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string,
-        "Petit roman illustré"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name ""^^xsd:string ;
-    ns1:publisher "" ;
     ns1:url "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string .
 
 schema:Bookfc4ff60d-97b3-40fa-abb7-69f6663674a0 a ns1:Book ;

@@ -274,16 +274,6 @@ schema:Book14726b76-3997-4540-9932-d632399a38f7 a ns1:Book ;
     ns1:publisher "Hurtubise" ;
     ns1:url "https://www.lurelu.net/prixlitt_biblioMTL.html"^^xsd:string .
 
-schema:Book1476e174-727b-46e8-9586-920487c20a56 a ns1:Book ;
-    ns1:author "non attribué"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante" ;
-    ns1:dateReceived "2020"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "None"^^xsd:string ;
-    ns1:publisher "Front Froid" ;
-    ns1:url "https://www.lurelu.net/prixlitt_raymondplante.html"^^xsd:string .
-
 schema:Book14b0def3-a5db-4ef8-b961-2a0b9333e325 a ns1:Book ;
     ns1:author "Dominique Demers"^^xsd:string ;
     ns1:award "Prix Raymond-Plante" ;
@@ -805,16 +795,6 @@ schema:Book3b219652-5b54-4360-9726-4aaf69d1ebc1 a ns1:Book ;
     ns1:publisher "La Bagnole" ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string .
 
-schema:Book3b469b10-69f3-4038-ba36-f04b0f781c5d a ns1:Book ;
-    ns1:author "non attribué"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
-    ns1:dateReceived "2021"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "None"^^xsd:string ;
-    ns1:publisher "Front Froid" ;
-    ns1:url "https://www.lurelu.net/prixlitt_villedequebec.html"^^xsd:string .
-
 schema:Book3c2e9075-324e-40e0-a4e3-fc99a963bdb4 a ns1:Book ;
     ns1:author "Martine Latulippe"^^xsd:string ;
     ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
@@ -904,6 +884,26 @@ schema:Book4160fa66-6ca7-4cf9-a12f-0df0c277dc3e a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Demain, les étoiles"^^xsd:string ;
+    ns1:publisher "Pierre Tisseyre" ;
+    ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
+
+schema:Book4160fa66-6ca7-4cf9-a12f-0df0c277dc3f a ns1:Book ;
+    ns1:author "Jean-Louis Trudel"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
+    ns1:dateReceived "2001"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Guerre pour un harmonica"^^xsd:string ;
+    ns1:publisher "Médiaspaul" ;
+    ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
+
+schema:Book4160fa66-6ca7-4cf9-a12f-0df0c277dc3g a ns1:Book ;
+    ns1:author "Jean-Louis Trudel"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
+    ns1:dateReceived "2001"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Nigelle par tous les temps"^^xsd:string ;
     ns1:publisher "Médiaspaul" ;
     ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
 
@@ -1077,7 +1077,7 @@ schema:Book4e210165-02fd-40f7-9c5e-432c17b4997e a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_cecilegagnon.html"^^xsd:string .
 
 schema:Book4e210165-02fd-40f7-9c5e-432c17b4997e a ns1:Book ;
-    ns1:author "Brigitte Huppen"^^xsd:string,
+    ns1:author "Brigitte Huppen"^^xsd:string ;
     ns1:award "Prix Cécile-Gagnon" ;
     ns1:dateReceived "2010"^^xsd:gYear ;
     ns1:genre "Roman"^^xsd:string,
@@ -1088,7 +1088,7 @@ schema:Book4e210165-02fd-40f7-9c5e-432c17b4997e a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_cecilegagnon.html"^^xsd:string .
 
 schema:Book4e210165-02fd-40f7-9c5e-432c17b4997l a ns1:Book ;
-    ns1:author "Noëmie Forget"^^xsd:string,
+    ns1:author "Noëmie Forget"^^xsd:string ;
     ns1:award "Prix Cécile-Gagnon" ;
     ns1:dateReceived "2010"^^xsd:gYear ;
     ns1:genre "Album"^^xsd:string,
@@ -1135,6 +1135,16 @@ schema:Book5189a549-1d55-4ac8-96e7-b80a26aab55f a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le cercle de Khaleb"^^xsd:string ;
+    ns1:publisher "Héritage" ;
+    ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
+
+schema:Book5189a549-1d55-4ac8-96e7-b80a26aab55t a ns1:Book ;
+    ns1:author "Daniel Sernine"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
+    ns1:dateReceived "1992"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Les rêves d'Argus"^^xsd:string ;
     ns1:publisher "Paulines" ;
     ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
 
@@ -1787,7 +1797,17 @@ schema:Book8f14b362-1f0c-40fe-96c1-852853544f81 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La traversée de l'apprenti sorcier"^^xsd:string ;
-    ns1:publisher "Dominique Et Compagnie" ;
+    ns1:publisher "Médiaspaul" ;
+    ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
+
+schema:Book8f14b362-1f0c-40fe-96c1-852853544f82 a ns1:Book ;
+    ns1:author "Daniel Sernine"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
+    ns1:dateReceived "1996"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "L'Arc-en-cercle"^^xsd:string ;
+    ns1:publisher "Dominique et compagnie" ;
     ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
 
 schema:Book8fddeea8-9b00-4bd5-b312-581e2353d403 a ns1:Book ;
@@ -1879,6 +1899,26 @@ schema:Book9b4c9549-5e45-4721-9a5b-45fb4cdf72c4 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Hockeyeurs cybernétiques"^^xsd:string ;
+    ns1:publisher "Paulines" ;
+    ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
+
+schema:Book9b4c9549-5e45-4721-9a5b-45fb4cdf72c5 a ns1:Book ;
+    ns1:author "Denis Côté"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
+    ns1:dateReceived "1984"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Les Parallèles célestes"^^xsd:string ;
+    ns1:publisher "Hurtubise" ;
+    ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
+
+schema:Book9b4c9549-5e45-4721-9a5b-45fb4cdf72c5 a ns1:Book ;
+    ns1:author "Denis Côté"^^xsd:string ;
+    ns1:award "Prix Jeunesse Des Univers Parallèles" ;
+    ns1:dateReceived "1984"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Hockeyeurs cybernétiques"^^xsd:string ;
     ns1:publisher "Hurtubise" ;
     ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
 
@@ -1933,16 +1973,6 @@ schema:Booka1cbb8d5-ddd0-44ad-9e30-acd9274ea94b a ns1:Book ;
     ns1:name "Le géant qui sentait les petits pieds"^^xsd:string ;
     ns1:publisher "Québec Amérique" ;
     ns1:url "https://www.lurelu.net/prixlitt_walloniebruxelles.html"^^xsd:string .
-
-schema:Booka1d8b90d-b7f3-49e1-9bfd-d8c4c3f8cd56 a ns1:Book ;
-    ns1:author "Élizabeth Lepage-Boily"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
-    ns1:dateReceived "2014"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Comment survivre au mariage de sa sœur"^^xsd:string ;
-    ns1:publisher "Les Intouchables" ;
-    ns1:url "https://www.lurelu.net/prixlitt_villedequebec.html"^^xsd:string .
 
 schema:Booka2637a24-01ad-46af-b94e-9ba7b6547325 a ns1:Book ;
     ns1:author "Jean Bélisle"^^xsd:string ;
@@ -2339,7 +2369,8 @@ schema:Bookc46e60d4-e3a3-4965-9b2d-397c2ff7e61c a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Conte de la Lune"^^xsd:string ;
-    ns1:publisher "Théâtre Des Confettis" ;
+    ns1:publisher "Théâtre Des Confettis",
+        "Théâtre populaire d'Acadie" ;
     ns1:url "https://www.lurelu.net/prixlitt_masque.html"^^xsd:string .
 
 schema:Bookc504126a-5fb8-41c6-803c-7e5c5b10ec70 a ns1:Book ;
@@ -2771,16 +2802,6 @@ schema:Bookde96112d-7d5c-45d7-93c2-117268b1d2b4 a ns1:Book ;
     ns1:publisher "Carrefour Communication" ;
     ns1:url "https://www.lurelu.net/prixlitt_slslsj.html"^^xsd:string .
 
-schema:Bookdefc0a26-8d08-47fb-bc48-6f4e912c40c0 a ns1:Book ;
-    ns1:author "non attribué"^^xsd:string ;
-    ns1:award "Prix De Création Littéraire Bibliothèque De Québec" ;
-    ns1:dateReceived "2021"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "None"^^xsd:string ;
-    ns1:publisher "Front Froid" ;
-    ns1:url "https://www.lurelu.net/prixlitt_villedequebec.html"^^xsd:string .
-
 schema:Bookdf3bae2d-ed80-4bff-9132-39e68abc330b a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
     ns1:award "Prix Td De Littérature Jeunesse Canadienne" ;
@@ -3039,7 +3060,7 @@ schema:Bookf73e95ae-9f69-49ed-95f6-b77ec8243476 a ns1:Book ;
     ns1:dateReceived "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Comment survivre au mariage de sa sœur"^^xsd:string ;
+    ns1:name "Comment survivre au mariage de sa sœur, Comment survivre à l'adolescence, Comment survivre au temps des Fêtes"^^xsd:string ;
     ns1:publisher "Les Intouchables" ;
     ns1:url "https://www.lurelu.net/prixlitt_villedequebec.html"^^xsd:string .
 
