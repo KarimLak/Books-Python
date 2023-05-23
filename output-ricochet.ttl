@@ -105,7 +105,7 @@ schema:Book06a08109-904b-4ee3-ac56-c7452acb091e a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Journal d'une fille chien"^^xsd:string ;
-    ns1:publisher "La Joie De Lire" ;
+    ns1:publisher "La Ville Brûle" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
 
 schema:Book06cdefde-68f7-49d2-ae07-bbedcbbb9e9f a ns1:Book ;
@@ -177,12 +177,12 @@ schema:Book077da240-64c1-456c-97f2-a5ad266fa4bc a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La vie ne me fait pas peur"^^xsd:string ;
-    ns1:publisher "Syros" ;
+    ns1:publisher "Seghers" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-poesie-des-lecteurs-lire-et-faire-lire"^^xsd:string .
 
 schema:Book08858810-b37a-49f5-9f15-bc9e6aabd3d8 a ns1:Book ;
     ns1:author "Agnès Laroche"^^xsd:string ;
-    ns1:award "Prix Livrentête : Albums" ;
+    ns1:award "Livre, mon ami" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -283,12 +283,12 @@ schema:Book0c253bab-0d06-481f-826a-2417329012e6 a ns1:Book ;
 
 schema:Book0c9dcba8-afc0-4f47-92b9-3e7690506f36 a ns1:Book ;
     ns1:author "Evelyne André-Guidici"^^xsd:string ;
-    ns1:award "Prix Livrentête : Albums" ;
+    ns1:award "Livre, mon ami" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Okaï et Choda"^^xsd:string ;
-    ns1:publisher "Compagnie" ;
+    ns1:publisher "Humains" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/livre-mon-ami"^^xsd:string .
 
 schema:Book0c9efeb9-327b-4c09-8c1b-5397783a6348 a ns1:Book ;
@@ -606,7 +606,7 @@ schema:Book1cac12bf-b3aa-4038-95bb-f81f74a67e6c a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le lac aux deux falaises"^^xsd:string ;
-    ns1:publisher "Théâtre De Sable" ;
+    ns1:publisher "Prise De Parole" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse"^^xsd:string .
 
 schema:Book1d0dc4ce-60af-4c25-a97e-886a37bcaa0a a ns1:Book ;
@@ -676,13 +676,24 @@ schema:Book20794681-c12d-4a3f-8968-3e4ba8ba069f a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-brindacier"^^xsd:string .
 
 schema:Book220efe9d-c3d2-4d2f-8e73-8fdd9f9dc885 a ns1:Book ;
-    ns1:author "Lestrade"^^xsd:string ;
-    ns1:award "Prix Livrentête : Albums" ;
+    ns1:author "Agnès De Lestrade"^^xsd:string ;
+    ns1:award "Livre, mon ami" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le ciel d'Homère"^^xsd:string ;
     ns1:publisher "Bulles De Savon" ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/livre-mon-ami"^^xsd:string .
+
+schema:Book220efe9d-c3d2-4d2f-8e73-8fdd9f9dc886 a ns1:Book ;
+    ns1:author "Eric Sanvoisin"^^xsd:string,
+        "Sylvain Frecon"^^xsd:string ;
+    ns1:award "Livre, mon ami" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "La dame masquée"^^xsd:string ;
+    ns1:publisher "Nathan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/livre-mon-ami"^^xsd:string .
 
 schema:Book22362775-5908-4482-b660-6c6d1ce3553b a ns1:Book ;
@@ -831,13 +842,33 @@ schema:Book2bc36646-f893-4bd2-9885-4aa86107693d a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
 
 schema:Book2d616d97-0997-4c66-bc71-2fca6a38abfe a ns1:Book ;
-    ns1:author "Jean-Pierre Nozière"^^xsd:string ;
+    ns1:author "Antoine Sebbagh"^^xsd:string ;
     ns1:award "Grand Prix Sgdl Du Roman Jeunesse" ;
     ns1:datePublished "1990"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les Années de Gaulle"^^xsd:string ;
+    ns1:publisher "Natha" ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
+
+schema:Book2d616d97-0997-4c66-bc71-2fca6a38abfl a ns1:Book ;
+    ns1:author "Jean-Pierre Nozière"^^xsd:string ;
+    ns1:award "Grand Prix Sgdl Du Roman Jeunesse" ;
+    ns1:datePublished "1990"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Un été algérien"^^xsd:string ;
     ns1:publisher "Gallimard" ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
+
+schema:Book2d616d97-0997-4c66-bc71-2fca6a38abfm a ns1:Book ;
+    ns1:author "François Librini"^^xsd:string ;
+    ns1:award "Grand Prix Sgdl Du Roman Jeunesse" ;
+    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "L'inconnu du 13 octobre"^^xsd:string ;
+    ns1:publisher "Magnard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
 
 schema:Book2da05e26-01ca-49b2-92bb-22d961d9876a a ns1:Book ;
@@ -940,6 +971,16 @@ schema:Book369e1020-0dc9-49de-9aff-534343631760 a ns1:Book ;
     ns1:publisher "Z’Ailées" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse"^^xsd:string .
 
+schema:Book369e1020-0dc9-49de-9aff-534343631761 a ns1:Book ;
+    ns1:author "Loïse Lavallée"^^xsd:string ;
+    ns1:award "Prix Littéraire Le Droit - Jeunesse" ;
+    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Chez les oiseaux"^^xsd:string ;
+    ns1:publisher "Soleil de Minuit" ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse"^^xsd:string .
+
 schema:Book38867388-4de8-4e24-a3f3-5fb557f5b7a3 a ns1:Book ;
     ns1:author "Maryvonne Rippert"^^xsd:string ;
     ns1:award "Prix Rts Littérature Ados" ;
@@ -972,7 +1013,7 @@ schema:Book38d5e968-9684-422a-bd89-ec3fdff5094c a ns1:Book ;
 
 schema:Book38d965ac-0e33-45ab-93a5-a2ab71c0f59c a ns1:Book ;
     ns1:author "Audren"^^xsd:string ;
-    ns1:award "Prix Livrentête : Albums" ;
+    ns1:award "Livre, mon ami" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1012,7 +1053,7 @@ schema:Book3a6ec8c1-71be-4c29-b888-8c65163064c5 a ns1:Book ;
 
 schema:Book3b4c2f46-49c1-4823-98be-e03eb98059eb a ns1:Book ;
     ns1:author "Eric Simard"^^xsd:string ;
-    ns1:award "Prix Livrentête : Albums" ;
+    ns1:award "Livre, mon ami" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1075,16 +1116,6 @@ schema:Book40aba53c-2e9d-4614-a281-76b8b6685805 a ns1:Book ;
     ns1:author "Bart Moeyaert"^^xsd:string ;
     ns1:award "Prix Sorcières : Carrément Beau" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-astrid-lindgren-astrid-lindgren-memorial-award"^^xsd:string .
-
-schema:Book40b5d6c2-512a-4668-96c6-ff747509ba1c a ns1:Book ;
-    ns1:author "Johan Heliot"^^xsd:string ;
-    ns1:award "Les Mordus Du Polar" ;
-    ns1:datePublished "2016"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Virus 57"^^xsd:string ;
-    ns1:publisher "Syros" ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string .
 
 schema:Book40e35abe-57d1-4536-aa82-043a25d890ce a ns1:Book ;
     ns1:author "Jo Hoestlandt"^^xsd:string ;
@@ -1230,7 +1261,7 @@ schema:Book4f60ac4d-83cb-428d-8e17-2932fe5e3160 a ns1:Book ;
 
 schema:Book4fff5d2c-3863-4fab-96fd-6df97a45e5cb a ns1:Book ;
     ns1:author "Sophie Rigal-Goulard"^^xsd:string ;
-    ns1:award "Prix Livrentête : Albums" ;
+    ns1:award "Livre, mon ami" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -1379,7 +1410,7 @@ schema:Book55b50d56-29e8-441d-bf9d-6f638bd50a21 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:string .
 
 schema:Book56860ca4-ad38-4e8f-a833-0469d82fa016 a ns1:Book ;
-    ns1:author "Catherine Locandro"^^xsd:string ;
+    ns1:author "Geneviève Piché"^^xsd:string ;
     ns1:award "Prix Première Victor Du Livre Jeunesse" ;
     ns1:datePublished "2023"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2146,7 +2177,7 @@ schema:Book8ef2737c-1122-42d2-801f-2fab9ca94831 a ns1:Book ;
 
 schema:Book8fe06df6-26ba-4d1e-b0b0-4366b11e4319 a ns1:Book ;
     ns1:author "Marie Diaz"^^xsd:string ;
-    ns1:award "Prix Livrentête : Albums" ;
+    ns1:award "Livre, mon ami" ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2656,7 +2687,7 @@ schema:Bookb5356f06-50e9-45df-b3cd-4d812cb3ef7e a ns1:Book ;
 schema:Bookb5ce48fe-c31d-414a-9799-11b83905d9d7 a ns1:Book ;
     ns1:author "Estelle Faye"^^xsd:string,
         "Nancy Peña"^^xsd:string ;
-    ns1:award "Prix Livrentête : Albums" ;
+    ns1:award "Livre, mon ami" ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -2894,7 +2925,7 @@ schema:Bookc5a3b308-f193-4b80-8508-8604cc5ac66b a ns1:Book ;
 
 schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35bc a ns1:Book ;
     ns1:author "Emmanuel Bourdier"^^xsd:string ;
-    ns1:award "Prix Livrentête : Albums" ;
+    ns1:award "Livre, mon ami" ;
     ns1:datePublished "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -3342,6 +3373,27 @@ schema:Booke24d4654-f96d-45bb-969e-8d45c6ba9616 a ns1:Book ;
     ns1:publisher "Le Rouergue" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string .
 
+schema:Booke24d4654-f96d-45bb-969e-8d45c6ba9617 a ns1:Book ;
+    ns1:author "Christophe Lambert"^^xsd:string,
+        "Sam VanSteen"^^xsd:string ;
+    ns1:award "Les Mordus Du Polar" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Virus 57"^^xsd:string ;
+    ns1:publisher "Syros" ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string .
+
+schema:Booke24d4654-f96d-45bb-969e-8d45c6ba9617 a ns1:Book ;
+    ns1:author "Johan Heliot"^^xsd:string ;
+    ns1:award "Les Mordus Du Polar" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Prédictions"^^xsd:string ;
+    ns1:publisher "Rageot" ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string .
+
 schema:Booke31b1ea5-b88f-4653-b67b-8c0454b317da a ns1:Book ;
     ns1:author "Chris Riddell"^^xsd:string ;
     ns1:award "Prix Livrentête : Romans Enfants" ;
@@ -3565,7 +3617,7 @@ schema:Booke9d7622f-1507-4aab-9f78-9115252163d5 a ns1:Book ;
 
 schema:Bookeab7ab2e-ea92-4029-a7b3-6f5a57f46aeb a ns1:Book ;
     ns1:author "Cécile Alix"^^xsd:string ;
-    ns1:award "Prix Livrentête : Albums" ;
+    ns1:award "Livre, mon ami" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -3783,7 +3835,7 @@ schema:Bookff75159b-7534-4bde-8556-f2594cd335e5 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Malencontre"^^xsd:string ;
-    ns1:publisher "Milan" ;
+    ns1:publisher "In8" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
 
 schema:Bookff8be54e-a904-4ced-9aa7-0b726ff1a447 a ns1:Book ;
