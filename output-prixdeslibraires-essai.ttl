@@ -5,8 +5,7 @@
 schema:Book089e6120-dd7c-4582-9f50-71770928da15 a ns1:Book ;
     ns1:author "Marie-Pier Lafontaine"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Armer la rage est une charge contre la culture du viol, la violence familiale et une société qui, plutôt que d’apprendre aux femmes à contre-attaquer en cas d’agression sexuelle, préfère les mettre en garde contre le risque de se défendre. "^^xsd:string,
-        "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "Armer la rage : Pour une littérature de combat"^^xsd:string ;
     ns1:publisher "Héliotrope" ;
@@ -15,8 +14,7 @@ schema:Book089e6120-dd7c-4582-9f50-71770928da15 a ns1:Book ;
 schema:Book1a9d83b3-3b4e-4b68-b320-a4dfd6a5eace a ns1:Book ;
     ns1:author "Sara Danièle Michaud"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Je n’écris pas ma conversion en mère, ce serait trop beau de correspondre à ce point à sa mise en scène, non, je suis mère parce que j’écris. C’est en poursuivant la cicatrice, en la traçant dans un carnet de conversion que la mère existe. Il y a eu l’incision, puis toi, et la cicatrice qui en reste n’est que superficielle, elle tient très bien à la peau, mais pas au reste. C’est peut-être parce qu’elle ne tient pas qu’il faut constamment la tailler et la recoudre et la retailler et l’écrire. "^^xsd:string,
-        "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "Cicatrices: Carnets de conversion"^^xsd:string ;
     ns1:publisher "Nota Bene" ;
@@ -25,8 +23,7 @@ schema:Book1a9d83b3-3b4e-4b68-b320-a4dfd6a5eace a ns1:Book ;
 schema:Book43e81266-41b1-4217-99c4-cdb72dfc576d a ns1:Book ;
     ns1:author "Marie-Hélène Voyer"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Avec L’habitude des ruines, Marie-Hélène Voyer signe un texte magnifique sur le rapport trouble du Québec au temps et à l’espace. Elle y parle de nos démolitions en série, de notre manière d’habiter ce territoire en nous berçant trop souvent d’images empruntées. Elle pose ainsi une question fondamentale: peut-on bâtir ce pays sans le détruire et sans verser dans l’insignifiance? Son essai offre un plaidoyer pour ces lieux modestes qui forment l’ordinaire de nos vies et qui dessinent les refuges de nos espoirs et de nos solidarités."^^xsd:string,
-        "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "L’habitude des ruines : Le sacré de l’oubli et de la laideur au Québec"^^xsd:string ;
     ns1:publisher "Lux" ;
@@ -35,8 +32,7 @@ schema:Book43e81266-41b1-4217-99c4-cdb72dfc576d a ns1:Book ;
 schema:Book5c036713-6919-42fa-89c8-e68bec74523e a ns1:Book ;
     ns1:author "Francis Dupuis-Déri"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Cet essai s’intéresse à l’histoire ancienne et récente de l’Université. Il appelle à considérer la place réelle des études sur le genre et le racisme dans les réseaux universitaires – des salles de classe aux projets de recherche –, et met en lumière les forces qui mènent la charge aux États-Unis, en France et au Québec, depuis presque cinquante ans. Ultimement, il s’agit d’un exercice de déconstruction d’une propagande réactionnaire. "^^xsd:string,
-        "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "Panique à l’université : Rectitude politique, wokes et autres menaces imaginaires"^^xsd:string ;
     ns1:publisher "Lux" ;
@@ -45,8 +41,7 @@ schema:Book5c036713-6919-42fa-89c8-e68bec74523e a ns1:Book ;
 schema:Book753bab4c-ca6e-48c0-aee9-29746f1edea3 a ns1:Book ;
     ns1:author "Marie-Hélène Voyer"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Avec L’habitude des ruines, Marie-Hélène Voyer signe un texte magnifique sur le rapport trouble du Québec au temps et à l’espace. Elle y parle de nos démolitions en série, de notre manière d’habiter ce territoire en nous berçant trop souvent d’images empruntées. Elle pose ainsi une question fondamentale: peut-on bâtir ce pays sans le détruire et sans verser dans l’insignifiance? Son essai offre un plaidoyer pour ces lieux modestes qui forment l’ordinaire de nos vies et qui dessinent les refuges de nos espoirs et de nos solidarités."^^xsd:string,
-        "Finaliste 2023 essai"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 2023 essai"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "L’habitude des ruines : Le sacré de l’oubli et de la laideur au Québec"^^xsd:string ;
     ns1:publisher "Lux" ;
@@ -55,8 +50,7 @@ schema:Book753bab4c-ca6e-48c0-aee9-29746f1edea3 a ns1:Book ;
 schema:Book783a1c57-62e1-4e91-b511-33467cf6c1bb a ns1:Book ;
     ns1:author "Andréane Frenette-Vallières"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Dans une maison bleue auprès de la mer, une voix se construit hors du monde. Après avoir été contrainte au silence par un système conçu pour faire taire, cette voix choisit délibérément sa disparition. Cet essai poétique crée un dialogue entre les études féministes et les poétiques de la nature, pour explorer le retrait comme moyen de survie, comme tentative de soigner la blessure afin d’habiter à nouveau le corps et l’écriture. "^^xsd:string,
-        "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "Tu choisiras les montagnes"^^xsd:string ;
     ns1:publisher "Le Noroît" ;
@@ -65,8 +59,7 @@ schema:Book783a1c57-62e1-4e91-b511-33467cf6c1bb a ns1:Book ;
 schema:Book88ef265b-6cb1-4a0f-9aac-9b4eebd4f6c3 a ns1:Book ;
     ns1:author "Andréane Frenette-Vallières"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Dans une maison bleue auprès de la mer, une voix se construit hors du monde. Après avoir été contrainte au silence par un système conçu pour faire taire, cette voix choisit délibérément sa disparition. Cet essai poétique crée un dialogue entre les études féministes et les poétiques de la nature, pour explorer le retrait comme moyen de survie, comme tentative de soigner la blessure afin d’habiter à nouveau le corps et l’écriture. "^^xsd:string,
-        "Finaliste 2023 essai"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 2023 essai"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "Tu choisiras les montagnes"^^xsd:string ;
     ns1:publisher "Le Noroît" ;
@@ -75,8 +68,7 @@ schema:Book88ef265b-6cb1-4a0f-9aac-9b4eebd4f6c3 a ns1:Book ;
 schema:Book89274a64-758b-45d7-88ad-124245c42bf8 a ns1:Book ;
     ns1:author "Alain Deneault"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Ce nouvel essai d’Alain Deneault poursuit les réflexions entamées dans La médiocratie quant aux effets délétères qu’ont la technocratie capitaliste et l’individualisme sur le débat public. L’auteur nous invite à rompre avec la dynamique des querelles identitaires où chacun se rapporte à sa conscience comme à un bâton dont on se sert pour frapper autrui. Il déplore la dégradation en clichés de catégories pourtant importantes – privilège, racisme systémique, censure, fascisme – tout en portant un regard critique sur une droite conservatrice qui défend bec et ongles la liberté d’expression pour les seuls discours qui lui conviennent. "^^xsd:string,
-        "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "Mœurs : De la gauche cannibale à la droite vandale"^^xsd:string ;
     ns1:publisher "Lux" ;
@@ -84,10 +76,9 @@ schema:Book89274a64-758b-45d7-88ad-124245c42bf8 a ns1:Book ;
 
 schema:Book9d8ea186-1088-4b6f-83b5-4afc96fe0a04 a ns1:Book ;
     ns1:author "Marie-Hélène Voyer"^^xsd:string ;
-    ns1:award "Lauréat 2023 Essai Québec" ;
+    ns1:award "Prix des libraires : Lauréat 2023 Essai Québec"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Avec L’habitude des ruines, Marie-Hélène Voyer signe un texte magnifique sur le rapport trouble du Québec au temps et à l’espace. Elle y parle de nos démolitions en série, de notre manière d’habiter ce territoire en nous berçant trop souvent d’images empruntées. Elle pose ainsi une question fondamentale: peut-on bâtir ce pays sans le détruire et sans verser dans l’insignifiance? Son essai offre un plaidoyer pour ces lieux modestes qui forment l’ordinaire de nos vies et qui dessinent les refuges de nos espoirs et de nos solidarités."^^xsd:string,
-        "Lauréat 2023 essai"^^xsd:string ;
+    ns1:description "Prix des libraires : Lauréat 2023 essai"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "L’habitude des ruines : Le sacré de l’oubli et de la laideur au Québec"^^xsd:string ;
     ns1:publisher "Lux" ;
@@ -96,8 +87,7 @@ schema:Book9d8ea186-1088-4b6f-83b5-4afc96fe0a04 a ns1:Book ;
 schema:Booka1527d22-42c4-49f3-9eae-da63886c7477 a ns1:Book ;
     ns1:author "Pierre Nepveu"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Le poète et essayiste prend la parole par attachement au Québec. Après cinquante ans d’écriture, il tient à considérer la nation québécoise d’un point de vue littéraire. L’auteur veut « faire entendre » la pluralité, « la polyphonie, les discordances autant que les harmonies »."^^xsd:string,
-        "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "Géographies du pays proche : Poète et citoyen dans un Québec pluriel"^^xsd:string ;
     ns1:publisher "Boréal" ;
@@ -106,8 +96,7 @@ schema:Booka1527d22-42c4-49f3-9eae-da63886c7477 a ns1:Book ;
 schema:Booka6baea36-8a6d-4947-b47f-a792f11b17a7 a ns1:Book ;
     ns1:author "Marie-Pier Lafontaine"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Armer la rage est une charge contre la culture du viol, la violence familiale et une société qui, plutôt que d’apprendre aux femmes à contre-attaquer en cas d’agression sexuelle, préfère les mettre en garde contre le risque de se défendre. "^^xsd:string,
-        "Finaliste 2023 essai"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 2023 essai"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "Armer la rage : Pour une littérature de combat"^^xsd:string ;
     ns1:publisher "Héliotrope" ;
@@ -116,8 +105,7 @@ schema:Booka6baea36-8a6d-4947-b47f-a792f11b17a7 a ns1:Book ;
 schema:Booka7274919-3bfc-4893-ad81-553caade5527 a ns1:Book ;
     ns1:author "Étienne Beaulieu"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Au petit matin, enfant, je découvre un toutou sur la table de la cuisine. C’est un ookpik, une sorte de hibou fabriqué à la main avec une peau de phoque. Mon père l’avait déposé là, au beau milieu de la nuit, sans rien dire, au retour de ses voyages dans le Nord. À quoi rêve ce ookpik avec son intense regard jaune ? Comment savoir tout le chemin qu’il a parcouru pour se retrouver dans les bras d’un petit Blanc du Sud qui ne sait presque rien des Premières Nations, des Inuit, des Métis et de leurs territoires ? J’ai grandi en serrant le ookpik contre moi sans chercher à savoir d’où il venait, à l’image de la nation québécoise qui n’avait pas mesuré jusqu’ici l’ampleur du refoulement des peuples et des cultures autochtones, pourtant si près, vivant juste à côté, mais condamnés au lointain, au silence, au déni. J’ai écrit cette méditation écologique en pleine remise en question de ma mémoire personnelle et collective, de notre relation toxique au territoire. Je marche en écrivant sur la forêt, sur l’art, sur l’autre, sur l’amour."^^xsd:string,
-        "Préliminaire 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "Les rêves du ookpik"^^xsd:string ;
     ns1:publisher "Varia" ;
@@ -126,8 +114,7 @@ schema:Booka7274919-3bfc-4893-ad81-553caade5527 a ns1:Book ;
 schema:Booke077ece9-8f4c-4043-885d-2af58dd8f8b5 a ns1:Book ;
     ns1:author "Sara Danièle Michaud"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 2023 essai"^^xsd:string,
-        "Je n’écris pas ma conversion en mère, ce serait trop beau de correspondre à ce point à sa mise en scène, non, je suis mère parce que j’écris. C’est en poursuivant la cicatrice, en la traçant dans un carnet de conversion que la mère existe. Il y a eu l’incision, puis toi, et la cicatrice qui en reste n’est que superficielle, elle tient très bien à la peau, mais pas au reste. C’est peut-être parce qu’elle ne tient pas qu’il faut constamment la tailler et la recoudre et la retailler et l’écrire. "^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 2023 essai"^^xsd:string ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "Cicatrices: Carnets de conversion"^^xsd:string ;
     ns1:publisher "Nota Bene" ;

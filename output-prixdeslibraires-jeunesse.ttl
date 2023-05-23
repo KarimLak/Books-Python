@@ -5,8 +5,7 @@
 schema:Book00e3b022-07e2-4076-85cb-14698f330b3d a ns1:Book ;
     ns1:author "Rob Hodgson"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Grand Hibou gâte Petite Souris en lui offrant des beignets et en l’invitant dans sa cage. Mais celle-ci ignore qu’il s’agit d’un plan pour la dévorer."^^xsd:string,
-        "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -18,8 +17,7 @@ schema:Book09d0f9a8-2c20-43ae-93c4-7b1c5885e720 a ns1:Book ;
     ns1:author "Nadine Robert"^^xsd:string,
         "Qin Leng"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string,
-        "Trèfle et sa famille habitent dans une ferme . À la chèvrerie, il y a toujours un tas de choses à faire, comme cueillir des bleuets ou ramasser des moules. Trèfle a envie de faire toutes ces choses, mais en choisir une seule est très difficile pour elle. Le jour où la petite chèvre Pivoine s’aventure loin de la ferme, Trèfle comprend que, pour la sauver, elle devra agir rapidement, sans hésiter. En plaçant Trèfle dans une situation difficile, l’autrice Nadine Robert et l’illustratrice Qin Leng montrent l’importance d’apprendre tôt à prendre des décisions. L’histoire de Trèfle sera une source d’inspiration pour les jeunes lecteurs qui apprennent à développer leur confiance et leur autonomie."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -30,8 +28,7 @@ schema:Book09d0f9a8-2c20-43ae-93c4-7b1c5885e720 a ns1:Book ;
 schema:Book15dc502a-33f2-46a1-80a3-985f22b4107f a ns1:Book ;
     ns1:author "Kelly Yang"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Mia Tang a beaucoup de secrets. Le premier, c’est qu’au lieu d’habiter une grande maison, elle vit dans un motel. Tous les jours, pendant que ses parents immigrants font le ménage des chambres, Mia s’occupe de l’accueil du motel Calivista et reçoit les clients. Le deuxième, c’est que ses parents cachent des immigrants. Et si l’horrible propriétaire du motel, M. Yao, découvre que des immigrants occupent gratuitement les chambres libres de son établissement, la famille Tang sera perdue. Et le dernier, c’est que Mia veut devenir écrivaine. Mais sa mère voudrait qu’elle continue à faire des maths, car l’anglais n’est pas sa langue maternelle. Mia saura-t-elle faire preuve d’assez de courage et de gentillesse, et travailler suffisamment pour survivre à cette année scolaire?"^^xsd:string,
-        "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -43,8 +40,7 @@ schema:Book1b34bc27-3083-41aa-aaca-147f9d6e2328 a ns1:Book ;
     ns1:author "Niti Marcelle Mueth"^^xsd:string,
         "Sarahmée Ouellet"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Lancée en 2019, Ma peau est une chanson de l’artiste hip-hop Sarahmée Ouellet où la fierté de ses origines est mis de l’avant. L’œuvre papier souligne ce processus de réappropriation du corps en valorisant la multiplicité des couleurs de peau, des styles de cheveux, des types de corps, et en plongeant la lectrice ou le lecteur dans dans les facettes qui nous composent et qui font de nous des êtres uniques. La transformation des quatre personnages et l’affirmation de leur corps leur permettront de mieux se soutenir, de défendre leur identité et d’être empowered à défendre leurs droits."^^xsd:string,
-        "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -55,8 +51,7 @@ schema:Book1b34bc27-3083-41aa-aaca-147f9d6e2328 a ns1:Book ;
 schema:Book1fe92d59-145f-4247-b143-56c2ecc35cd9 a ns1:Book ;
     ns1:author "Sophie Rondeau"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "J’avais prévu passer une soirée relaxe avec Esteban pour me changer les idées. Mais ça s’est pas déroulé comme d’habitude. Il a profité de moi alors que j’étais pas en état de résister. Sur le coup, j’ai pas trouvé ça si grave, mais là, je file de plus en plus mal. C’était mon ami, je lui faisais confiance… Maintenant, je fais quoi?"^^xsd:string,
-        "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -68,8 +63,7 @@ schema:Book2b156068-9940-4c8f-a021-013da3a38f48 a ns1:Book ;
     ns1:author "Marish Papaya"^^xsd:string,
         "Nancy B.-Pilon"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string,
-        "Roseline possède une magnifique chevelure rousse et aime sentir le vent dans ses longues boucles. Mais elle en a assez que tout le monde touche à sa flamboyante crinière sans le demander! Il est temps que la timide Rosie la souris se transforme en Roseline la lionne. Pas toujours facile de parler haut et fort. Même quand on a raison. Alors Roseline commence par essayer mille et une autres solutions."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -80,8 +74,7 @@ schema:Book2b156068-9940-4c8f-a021-013da3a38f48 a ns1:Book ;
 schema:Book2d70ea2c-6176-4d9a-a7fe-77bd801dc140 a ns1:Book ;
     ns1:author "Cory Anderson"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Dans l’Idaho, au cours d’un hiver glacial, deux frères tentent de survivre sans ressources après la mort de leur mère. Pour éviter que le jeune Matty soit placé dans un orphelinat, Jack Morton part à la recherche du butin qui a envoyé leur père en prison. Il croise la route d’Ava, une jeune femme solitaire qui hésite à venir en aide aux deux garçons."^^xsd:string,
-        "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -92,8 +85,7 @@ schema:Book2d70ea2c-6176-4d9a-a7fe-77bd801dc140 a ns1:Book ;
 schema:Book38a0012f-be71-41de-938c-aca00f0e80db a ns1:Book ;
     ns1:author "Kelly Yang"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 6-11 ans : 6-11 ans"^^xsd:string,
-        "Mia Tang a beaucoup de secrets. Le premier, c’est qu’au lieu d’habiter une grande maison, elle vit dans un motel. Tous les jours, pendant que ses parents immigrants font le ménage des chambres, Mia s’occupe de l’accueil du motel Calivista et reçoit les clients. Le deuxième, c’est que ses parents cachent des immigrants. Et si l’horrible propriétaire du motel, M. Yao, découvre que des immigrants occupent gratuitement les chambres libres de son établissement, la famille Tang sera perdue. Et le dernier, c’est que Mia veut devenir écrivaine. Mais sa mère voudrait qu’elle continue à faire des maths, car l’anglais n’est pas sa langue maternelle. Mia saura-t-elle faire preuve d’assez de courage et de gentillesse, et travailler suffisamment pour survivre à cette année scolaire?"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -104,8 +96,7 @@ schema:Book38a0012f-be71-41de-938c-aca00f0e80db a ns1:Book ;
 schema:Book3926c1b7-107f-4024-badb-f79b9e92a176 a ns1:Book ;
     ns1:author "Jarvis"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 0-5 ans : 0-5 ans"^^xsd:string,
-        "Le narrateur est ami avec David, le garçon aux cheveux fleuris. Alors qu’il arrose sa chevelure, un pétale lui reste dans la main"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -116,8 +107,7 @@ schema:Book3926c1b7-107f-4024-badb-f79b9e92a176 a ns1:Book ;
 schema:Book486b0b45-f71f-424c-a762-fe92f8088bb6 a ns1:Book ;
     ns1:author "Lucile de Pesloüan"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string,
-        "Tiens-toi droite raconte la dernière année au secondaire de Malou sous une forme poétique. Au cours de cette année, l’adolescente découvre des femmes qui l’inspirent et apprend à se tenir droite. Un texte traversé par une pléthore d’émotions : la honte et l’angoisse, mais aussi l’amour naissant."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -129,8 +119,7 @@ schema:Book48cb2006-cf00-433d-8a8a-6929bf537e8b a ns1:Book ;
     ns1:author "Felipe Arriagada-Nunez"^^xsd:string,
         "Mélina Schoenborn"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string,
-        "Ratatin ADORE prendre son bain. Il prend son bain le matin, le midi, le soir et même la nuit. Dès que sa peau perd ses plis, il replonge dans la baignoire pour ratatiner à nouveau. Un beau jour, surprise ! Le lac est complètement sec. Il n’y a plus une seule goutte d’eau ! En secret, les villageois se rassemblent et discutent… Que faire pour que Ratatin cesse d’assécher le lac ? Et puis, ils ont une idée… Un album amusant qui parle en filigrane de protection de l’environnement."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -142,8 +131,7 @@ schema:Book498e3959-4d60-460d-9647-b87cc7e24ac7 a ns1:Book ;
     ns1:author "Frédérick Wolfe"^^xsd:string,
         "Orbie"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string,
-        "Ça ne va pas du tout. Ça fait trois semaines et dix jours que Fred tente de dessiner un billibouton. Désespéré, il se tourne vers l’illustratrice Orbie pour qu’elle lui vienne en aide. Mais qu’est-ce qu’un billibouton ? Un mouton qui s’appelle Billie? Avec les explications toujours plus vagues de Fred et son entêtement à voir son désir se réaliser, ce ne sera pas facile pour Orbie de garder son sang-froid! Un album déjanté au concept original qui joue avec l’objet-livre… et les nerfs de l’illustratrice."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -155,8 +143,7 @@ schema:Book4a5c3856-223e-4d86-8a0b-0d6ad57b6e5c a ns1:Book ;
     ns1:author "Nadine Robert"^^xsd:string,
         "Qin Leng"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 0-5 ans : 0-5 ans"^^xsd:string,
-        "Trèfle et sa famille habitent dans une ferme . À la chèvrerie, il y a toujours un tas de choses à faire, comme cueillir des bleuets ou ramasser des moules. Trèfle a envie de faire toutes ces choses, mais en choisir une seule est très difficile pour elle. Le jour où la petite chèvre Pivoine s’aventure loin de la ferme, Trèfle comprend que, pour la sauver, elle devra agir rapidement, sans hésiter. En plaçant Trèfle dans une situation difficile, l’autrice Nadine Robert et l’illustratrice Qin Leng montrent l’importance d’apprendre tôt à prendre des décisions. L’histoire de Trèfle sera une source d’inspiration pour les jeunes lecteurs qui apprennent à développer leur confiance et leur autonomie."^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -168,8 +155,7 @@ schema:Book4d0e9440-481a-4365-8b18-aed3e4f84328 a ns1:Book ;
     ns1:author "Giulia Sagramola"^^xsd:string,
         "Roxane Brouillard"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Découragée, une jeune fille cherche son vélo. Le jeune garçon insiste pour lui raconter son histoire. Le récit abracadabrant du garçon ne fait pas véritablement de sens, et la jeune fille l’écoute avec détachement tout en continuant à chercher sa bicyclette. Mais peut-être ferait-elle mieux de l’écouter. Peut-être que cette histoire incroyable détient les clés de l’énigme et pourrait lui dévoiler l’identité de celui qui a volé sa bicyclette."^^xsd:string,
-        "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -181,8 +167,7 @@ schema:Book4e3d6ea0-1179-4bf8-85bd-e07b507d8e6b a ns1:Book ;
     ns1:author "Byron Eggenschwiler"^^xsd:string,
         "Thomas King"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "C’était il y a très longtemps, alors que les animaux parlaient encore aux humains… Coyote était alors le plus grand fauteur de troubles de la forêt."^^xsd:string,
-        "Finaliste 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -193,8 +178,7 @@ schema:Book4e3d6ea0-1179-4bf8-85bd-e07b507d8e6b a ns1:Book ;
 schema:Book4ee1c36b-47c9-45b5-bd68-f41e73b7660e a ns1:Book ;
     ns1:author "Lisa-Marie Gagnon"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string,
-        "À 16 ans, Charlie Saint-Pierre est désespérée par sa vie qu’elle juge trop tranquille. Toutefois, un été à travailler comme monitrice au camp Piékouakami, au Lac-Saint-Jean, lui fera vivre une foule de nouvelles expériences."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -205,10 +189,9 @@ schema:Book4ee1c36b-47c9-45b5-bd68-f41e73b7660e a ns1:Book ;
 schema:Book50fe9fe4-d4c6-4591-a5a0-e5c7e7a076fe a ns1:Book ;
     ns1:author "Nadine Robert"^^xsd:string,
         "Qin Leng"^^xsd:string ;
-    ns1:award "Lauréats 0-5 Ans Québec" ;
+    ns1:award "Prix des libraires : Lauréats 0-5 Ans Québec"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Lauréat 0-5 ans : 0-5 ans"^^xsd:string,
-        "Trèfle et sa famille habitent dans une ferme . À la chèvrerie, il y a toujours un tas de choses à faire, comme cueillir des bleuets ou ramasser des moules. Trèfle a envie de faire toutes ces choses, mais en choisir une seule est très difficile pour elle. Le jour où la petite chèvre Pivoine s’aventure loin de la ferme, Trèfle comprend que, pour la sauver, elle devra agir rapidement, sans hésiter. En plaçant Trèfle dans une situation difficile, l’autrice Nadine Robert et l’illustratrice Qin Leng montrent l’importance d’apprendre tôt à prendre des décisions. L’histoire de Trèfle sera une source d’inspiration pour les jeunes lecteurs qui apprennent à développer leur confiance et leur autonomie."^^xsd:string ;
+    ns1:description "Prix des libraires : Lauréat 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -219,8 +202,7 @@ schema:Book50fe9fe4-d4c6-4591-a5a0-e5c7e7a076fe a ns1:Book ;
 schema:Book54a7e100-d9cc-4dc4-aa8a-588b56c86745 a ns1:Book ;
     ns1:author "Mike Boldt"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Dans cet album rigolo et interactif, apprenez à Gustave, adorable gros ours à lunettes, les rudiments de la cachette. Derrière un arbre fin ou dans une foule de lapins, ce ne sont pas les meilleurs endroits pour passer inaperçu. Gustave a du progrès à faire?! Les deux dernières pages de l’album se déplient pour offrir un immense jeu de cherche et trouve aux surprises inépuisables."^^xsd:string,
-        "Finaliste 0-5 ans : 0-5 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -231,9 +213,7 @@ schema:Book54a7e100-d9cc-4dc4-aa8a-588b56c86745 a ns1:Book ;
 schema:Book5789fd1d-2467-42f9-96aa-a4260508f4da a ns1:Book ;
     ns1:author "Michel Streich"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string,
-        """Un oiseau venu d’ailleurs est arrivé dans la volière… et tout le monde s’agite! Il est étrange et différent… il fait PEUR! Le drôle d’oiseau se sentira-t-il un jour chez lui, entouré des autres oiseaux?\r\r\r\r\r\r\r
-Un récit amusant et léger montrant qu’être différent ne veut pas dire être effrayant! Cet album offre un point de vue rafraîchissant sur l’appréciation des différences et l’accueil des nouveaux arrivants."""^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -245,8 +225,7 @@ schema:Book59a3f039-3875-4fac-b062-7b9f3c08c9ea a ns1:Book ;
     ns1:author "Felipe Arriagada-Nunez"^^xsd:string,
         "Mélina Schoenborn"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 0-5 ans : 0-5 ans"^^xsd:string,
-        "Ratatin ADORE prendre son bain. Il prend son bain le matin, le midi, le soir et même la nuit. Dès que sa peau perd ses plis, il replonge dans la baignoire pour ratatiner à nouveau. Un beau jour, surprise ! Le lac est complètement sec. Il n’y a plus une seule goutte d’eau ! En secret, les villageois se rassemblent et discutent… Que faire pour que Ratatin cesse d’assécher le lac ? Et puis, ils ont une idée… Un album amusant qui parle en filigrane de protection de l’environnement."^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -258,8 +237,7 @@ schema:Book65c5f988-25ce-4e8f-8314-c409efd26d75 a ns1:Book ;
     ns1:author "Alexandre Côté-Fournier"^^xsd:string,
         "Geneviève Bigué"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Alexis passe la soirée d’Halloween avec ses cousins Clara et Pierre-Luc. Au menu: films et histoires d’horreur. Alex décide de raconter le fait divers dont lui a parlé son père. Jacques Miville, l’ancien quincailler du village, était supposément un meurtrier. Il avait, semble-t-il, comme passe-temps de découper ses victimes et d’en faire disparaître les corps. Or, avant même que la police ait pu prouver quoi que ce soit, un incendie a ravagé la quincaillerie, emportant avec lui le présumé criminel et ses secrets. Depuis, une légende prétend que si on compose l’ancien numéro de la quincaillerie, le fantôme de Miville répond. Les trois cousins sont tentés de vérifier si la légende dit vrai…"^^xsd:string,
-        "Finaliste 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -270,10 +248,9 @@ schema:Book65c5f988-25ce-4e8f-8314-c409efd26d75 a ns1:Book ;
 schema:Book6790a317-a91f-4d65-802f-c8e919b0cc59 a ns1:Book ;
     ns1:author "Alexandre Côté-Fournier"^^xsd:string,
         "Geneviève Bigué"^^xsd:string ;
-    ns1:award "Lauréats 6-11 Ans Québec" ;
+    ns1:award "Prix des libraires : Lauréats 6-11 Ans Québec"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Alexis passe la soirée d’Halloween avec ses cousins Clara et Pierre-Luc. Au menu: films et histoires d’horreur. Alex décide de raconter le fait divers dont lui a parlé son père. Jacques Miville, l’ancien quincailler du village, était supposément un meurtrier. Il avait, semble-t-il, comme passe-temps de découper ses victimes et d’en faire disparaître les corps. Or, avant même que la police ait pu prouver quoi que ce soit, un incendie a ravagé la quincaillerie, emportant avec lui le présumé criminel et ses secrets. Depuis, une légende prétend que si on compose l’ancien numéro de la quincaillerie, le fantôme de Miville répond. Les trois cousins sont tentés de vérifier si la légende dit vrai…"^^xsd:string,
-        "Lauréat 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Lauréat 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -283,9 +260,9 @@ schema:Book6790a317-a91f-4d65-802f-c8e919b0cc59 a ns1:Book ;
 
 schema:Book6970222b-3665-4218-a68f-57a73eba552a a ns1:Book ;
     ns1:author "Guillaume Perreault"^^xsd:string ;
-    ns1:award "Lauréats Bd Jeunesse Québec" ;
+    ns1:award "Prix des libraires : Lauréats Bd Jeunesse Québec"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Lauréat BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:description "Prix des libraires : Lauréat BD Jeunesse : BD Jeunesse"^^xsd:string ;
     ns1:genre "BD"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -296,8 +273,7 @@ schema:Book6970222b-3665-4218-a68f-57a73eba552a a ns1:Book ;
 schema:Book6a853c48-0244-4f12-ad6a-c544dbbfb081 a ns1:Book ;
     ns1:author "Alice Oseman"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 12-17 ans : 12-17 ans"^^xsd:string,
-        "Malgré son côté romantique, Georgia n’a jamais été amoureuse. Tandis qu’elle rentre à l’université avec Pip et Jason, ses meilleurs amis, elle compte bien trouver une stratégie pour y remédier. Elle rencontre alors sa nouvelle colocataire très extravertie et obtient une place à la Shakespeare Society. Mais ses plans ne se déroulent pas comme prévu"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -309,8 +285,7 @@ schema:Book6bc287fa-1c42-4bd2-a2a9-f24eaa0699ff a ns1:Book ;
     ns1:author "Alexandre Côté-Fournier"^^xsd:string,
         "Geneviève Bigué"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Alexis passe la soirée d’Halloween avec ses cousins Clara et Pierre-Luc. Au menu: films et histoires d’horreur. Alex décide de raconter le fait divers dont lui a parlé son père. Jacques Miville, l’ancien quincailler du village, était supposément un meurtrier. Il avait, semble-t-il, comme passe-temps de découper ses victimes et d’en faire disparaître les corps. Or, avant même que la police ait pu prouver quoi que ce soit, un incendie a ravagé la quincaillerie, emportant avec lui le présumé criminel et ses secrets. Depuis, une légende prétend que si on compose l’ancien numéro de la quincaillerie, le fantôme de Miville répond. Les trois cousins sont tentés de vérifier si la légende dit vrai…"^^xsd:string,
-        "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -322,10 +297,7 @@ schema:Book6ee5b803-1214-42d7-aa6c-3b0084159626 a ns1:Book ;
     ns1:author "François Gravel"^^xsd:string,
         "Geneviève Côté"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 6-11 ans : 6-11 ans"^^xsd:string,
-        """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!\r\r\r\r\r\r\r
-Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!\r\r\r\r\r\r\r
-Aura-t-il assez d’imagination?"""^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -336,8 +308,7 @@ Aura-t-il assez d’imagination?"""^^xsd:string ;
 schema:Book7278bf5a-43b7-4edc-b06e-1d63230cb2c2 a ns1:Book ;
     ns1:author "Alice Oseman"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Malgré son côté romantique, Georgia n’a jamais été amoureuse. Tandis qu’elle rentre à l’université avec Pip et Jason, ses meilleurs amis, elle compte bien trouver une stratégie pour y remédier. Elle rencontre alors sa nouvelle colocataire très extravertie et obtient une place à la Shakespeare Society. Mais ses plans ne se déroulent pas comme prévu"^^xsd:string,
-        "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -348,8 +319,7 @@ schema:Book7278bf5a-43b7-4edc-b06e-1d63230cb2c2 a ns1:Book ;
 schema:Book76d0773c-e5b2-47ab-98d3-b8942bc29dd1 a ns1:Book ;
     ns1:author "Elle McNicoll"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Addie, une jeune autiste, apprend en cours d’histoire que des dizaines de femmes, considérées comme des sorcières, ont été exécutées au Moyen Age dans la ville de Juniper. Elle pense que ces victimes pouvaient être autistes ou neuroatypiques. Elle-même victime de brimades en classe, Addie se sent concernée par leur sort et voudrait que la ville leur rende hommage."^^xsd:string,
-        "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -360,8 +330,7 @@ schema:Book76d0773c-e5b2-47ab-98d3-b8942bc29dd1 a ns1:Book ;
 schema:Book780c50c6-67dc-40fd-a551-c41ae48b245b a ns1:Book ;
     ns1:author "Tom Gauld"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 0-5 ans : 0-5 ans"^^xsd:string,
-        "Pendant de nombreuses années, le roi et la reine espèrent un enfant. Leur souhait est exaucé lorsqu’ils accueillent un petit robot de bois et une princesse-bûchette. Ce duo fraternel est inséparable, jusqu’au jour où la princesse est accidentellement emmenée vers un territoire inconnu. Le dévoué petit robot de bois part à sa recherche et tente de la ramener saine et sauve au royaume. Tour à tour, ils feront preuve de bravoure face aux nombreuses aventures qui les séparent de leur foyer."^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -372,10 +341,7 @@ schema:Book780c50c6-67dc-40fd-a551-c41ae48b245b a ns1:Book ;
 schema:Book7a21ad59-5b62-49a0-bab8-66531c9387d2 a ns1:Book ;
     ns1:author "Julie Champagne"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 12-17 ans : 12-17 ans"^^xsd:string,
-        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r\r\r\r\r\r\r
-Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r\r\r\r\r\r\r
-Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers toute la gamme des émotions."""^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -385,12 +351,9 @@ Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers t
 
 schema:Book7fa936a7-589e-4d52-b07a-3fd53d2f8ce5 a ns1:Book ;
     ns1:author "Julie Champagne"^^xsd:string ;
-    ns1:award "Lauréats 12-17 Ans Québec" ;
+    ns1:award "Prix des libraires : Lauréats 12-17 Ans Québec"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Lauréat 12-17 ans : 12-17 ans"^^xsd:string,
-        """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r\r\r\r\r\r\r
-Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r\r\r\r\r\r\r
-Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers toute la gamme des émotions."""^^xsd:string ;
+    ns1:description "Prix des libraires : Lauréat 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -402,8 +365,7 @@ schema:Book82121895-a46c-45a9-9fe0-950bd3330316 a ns1:Book ;
     ns1:author "Mélanie Baillairgé"^^xsd:string,
         "Paul Tom"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Chaque année, plus de 400 jeunes d’âge mineur arrivent seuls au Canada pour demander le statut de réfugié. Sans parents. Sans adulte pour les accompagner. Seuls raconte le parcours de trois d’entre eux : Afshin, Alain et Patricia. Leurs témoignages ouvrent une fenêtre sur les difficiles sacrifices et les nombreuses épreuves qui jalonnent ce chemin rempli d’obstacles, mais aussi sur le courage et la résilience dont doivent faire preuve ces jeunes avant de pouvoir, enfin, accéder à une vie normale."^^xsd:string,
-        "Finaliste 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -414,8 +376,7 @@ schema:Book82121895-a46c-45a9-9fe0-950bd3330316 a ns1:Book ;
 schema:Book89775435-602f-4287-ac41-17ab0e270e4d a ns1:Book ;
     ns1:author "Alice Dussutour"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Cinq jeunes filles originaires du Népal, du Mexique, de l’Afghanistan, du Kenya et de la France racontent leur quotidien et la manière dont elles vivent leur adolescence en lien avec les coutumes de leur pays. Des pages documentaires apportent un éclairage sur les thèmes abordés : mariage forcé, règles, harcèlement de rue, patriarcat, entre autres."^^xsd:string,
-        "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -426,8 +387,7 @@ schema:Book89775435-602f-4287-ac41-17ab0e270e4d a ns1:Book ;
 schema:Book8b724e00-a0e5-4b14-9d97-9dfda5957f50 a ns1:Book ;
     ns1:author "Jonathan Bécotte"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string,
-        "Un matin d’automne, le narrateur reçoit un appel de son père : celui-ci veut transformer son ancienne chambre d’enfant en établi. Le jeune homme prend alors la route vers sa ville natale, où l’attend la difficile tâche de déterminer ce qui, dans les boîtes de souvenirs accumulés, mérite d’être rescapé. Tandis qu’il retrouve les objets familiers à l’éclat terni par le temps, lui reviennent avec vivacité des moments partagés avec un premier amour, depuis longtemps perdu."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -438,8 +398,7 @@ schema:Book8b724e00-a0e5-4b14-9d97-9dfda5957f50 a ns1:Book ;
 schema:Book8bdb900c-d270-4f55-9acc-d80258fa7335 a ns1:Book ;
     ns1:author "Susin Nielsen"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string,
-        "Wilbur a deux mères très protectrices, ce qui est beaucoup. Et deux amis, ce qui est peu. Surtout que l’un deux passe la majorité de son temps avec son nouvel amoureux, et que l’autre est son voisin de 80 ans. En plus, un événement gênant survenu deux ans auparavant a fait de lui l’éternelle cible de moqueries ; on peut comprendre que son estime personnelle soit fragile. Les choses ne s’arrangent pas lorsque Wilbur tombe amoureux de Charlie, l’ado parisienne qu’il accueille dans le cadre d’un échange étudiant, et que ce n’est pas réciproque. Quand vient son tour de s’envoler pour Paris, le moral est au plus bas. Ses amis mettent alors tout en œuvre pour que Wilbur se fasse enfin confiance."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -451,8 +410,7 @@ schema:Book912b19a5-6a4a-4e16-bb45-dbb6e8fca835 a ns1:Book ;
     ns1:author "Mickaël Brun-Arnaud"^^xsd:string,
         "Sanoe"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Dans la forêt de Bellécore, Archibald Renard collecte dans sa librairie les livres écrits par les animaux. Comme il commence à perdre la mémoire, Ferdinand Taupe souhaite récupérer l’ouvrage qu’il a déposé des années auparavant pour retrouver ses souvenirs. Sauf qu’un inconnu vient d’acquérir son précieux mémoire. Archibald et Ferdinand se lancent alors à sa recherche."^^xsd:string,
-        "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -464,9 +422,7 @@ schema:Book92ed6024-7b8b-4245-b301-ec84db374002 a ns1:Book ;
     ns1:author "Nikola Huppertz"^^xsd:string,
         "Tobias Krejtschi"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string,
-        """« Fibie, ta mère est folle! »\r\r\r\r\r\r\r
-Au début, Fibie ne croyait pas ce que les autres disaient de sa mère. Mais avec le temps, les comportements de cette dernière deviennent de plus en plus bizarres. Quand sa mère refuse de sortir de sa chambre, la colère de Fibie éclate. Alors, son père lui confie un secret : sa mère n’est pas folle, c’est plutôt une fée qui vit parmi les humains. Une telle chose est-elle possible?"""^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -478,8 +434,7 @@ schema:Book96af982c-4802-4278-bd44-f6d7e1dbd6e0 a ns1:Book ;
     ns1:author "Jonny Marx"^^xsd:string,
         "Xuan Le"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Deux explorateurs, Faune et Flore, sont à la recherche d’une espèce réputée perdue de léopard. Un album animé de volets et de pages ajourées pour découvrir les questions de protection de l’environnement et de conservation des espèces."^^xsd:string,
-        "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -490,8 +445,7 @@ schema:Book96af982c-4802-4278-bd44-f6d7e1dbd6e0 a ns1:Book ;
 schema:Book9776ef6b-63a0-4b5d-8bff-4114e9a4123b a ns1:Book ;
     ns1:author "Jennifer Lynn Barnes"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 12-17 ans : 12-17 ans"^^xsd:string,
-        "Lycéenne désargentée, Avery Grambs rêve d’entrer à l’université. A sa grande surprise, elle hérite de Tobias Hawthorne, un célèbre milliardaire qu’elle ne connaît pas, à la condition d’emménager dans la mystérieuse demeure des Hawthorne. Elle se heurte alors à l’hostilité des quatre petits-fils du défunt et fait face à leurs manigances et à leurs trahisons."^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -501,9 +455,9 @@ schema:Book9776ef6b-63a0-4b5d-8bff-4114e9a4123b a ns1:Book ;
 
 schema:Book9a4dba40-9119-492a-ae1a-82d3b406503b a ns1:Book ;
     ns1:author "Sophie Escabasse"^^xsd:string ;
-    ns1:award "Lauréats Bd Jeunesse Québec" ;
+    ns1:award "Prix des libraires : Lauréats Bd Jeunesse Québec"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Lauréat BD Jeunesse : BD Jeunesse"^^xsd:string ;
+    ns1:description "Prix des libraires : Lauréat BD Jeunesse : BD Jeunesse"^^xsd:string ;
     ns1:genre "BD"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -515,8 +469,7 @@ schema:Book9bb0f73d-8a7d-495c-8116-1ed5b1f7b29d a ns1:Book ;
     ns1:author "Lucie Crovatto"^^xsd:string,
         "Roxane Turcotte"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string,
-        "Son papi Joseph, Charlie l’appelle Papijo. Papijo possède un drôle d’objet. Un sablier. Quand il le retourne, les grains de sable glissent lentement dans la bulle de verre. – Cela me rappelle de prendre le temps de faire les choses, dit-il à Charlie. Chez Papijo, les journées s’écoulent simplement, doucement, un grain de temps à la fois."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -527,8 +480,7 @@ schema:Book9bb0f73d-8a7d-495c-8116-1ed5b1f7b29d a ns1:Book ;
 schema:Booka4e171cd-a4bf-4723-926e-62c35f9fb209 a ns1:Book ;
     ns1:author "Jarvis"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Le narrateur est ami avec David, le garçon aux cheveux fleuris. Alors qu’il arrose sa chevelure, un pétale lui reste dans la main"^^xsd:string,
-        "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -538,10 +490,9 @@ schema:Booka4e171cd-a4bf-4723-926e-62c35f9fb209 a ns1:Book ;
 
 schema:Bookaf62ee6f-0966-4fb8-aa1e-c2282d755647 a ns1:Book ;
     ns1:author "Tom Gauld"^^xsd:string ;
-    ns1:award "Lauréats 0-5 Ans Québec" ;
+    ns1:award "Prix des libraires : Lauréats 0-5 Ans Québec"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Lauréat 0-5 ans : 0-5 ans"^^xsd:string,
-        "Pendant de nombreuses années, le roi et la reine espèrent un enfant. Leur souhait est exaucé lorsqu’ils accueillent un petit robot de bois et une princesse-bûchette. Ce duo fraternel est inséparable, jusqu’au jour où la princesse est accidentellement emmenée vers un territoire inconnu. Le dévoué petit robot de bois part à sa recherche et tente de la ramener saine et sauve au royaume. Tour à tour, ils feront preuve de bravoure face aux nombreuses aventures qui les séparent de leur foyer."^^xsd:string ;
+    ns1:description "Prix des libraires : Lauréat 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -552,8 +503,7 @@ schema:Bookaf62ee6f-0966-4fb8-aa1e-c2282d755647 a ns1:Book ;
 schema:Bookb6336dea-c65c-4c1a-9870-c899d2cc4b74 a ns1:Book ;
     ns1:author "Tom Gauld"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Pendant de nombreuses années, le roi et la reine espèrent un enfant. Leur souhait est exaucé lorsqu’ils accueillent un petit robot de bois et une princesse-bûchette. Ce duo fraternel est inséparable, jusqu’au jour où la princesse est accidentellement emmenée vers un territoire inconnu. Le dévoué petit robot de bois part à sa recherche et tente de la ramener saine et sauve au royaume. Tour à tour, ils feront preuve de bravoure face aux nombreuses aventures qui les séparent de leur foyer."^^xsd:string,
-        "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -564,8 +514,7 @@ schema:Bookb6336dea-c65c-4c1a-9870-c899d2cc4b74 a ns1:Book ;
 schema:Bookbb097a2f-0c0e-401d-a4ab-3e4d0475034f a ns1:Book ;
     ns1:author "Jennifer Lynn Barnes"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Lycéenne désargentée, Avery Grambs rêve d’entrer à l’université. A sa grande surprise, elle hérite de Tobias Hawthorne, un célèbre milliardaire qu’elle ne connaît pas, à la condition d’emménager dans la mystérieuse demeure des Hawthorne. Elle se heurte alors à l’hostilité des quatre petits-fils du défunt et fait face à leurs manigances et à leurs trahisons."^^xsd:string,
-        "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -576,8 +525,7 @@ schema:Bookbb097a2f-0c0e-401d-a4ab-3e4d0475034f a ns1:Book ;
 schema:Bookbd132739-5e0c-40d6-b35b-9e5cebb6ad6f a ns1:Book ;
     ns1:author "Séverine Huguet"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "La princesse constate que son carrosse est joli mais peu pratique. Elle sort alors ses outils pour le transformer en véhicule tout-terrain. Un album pour lutter contre les stéréotypes liés au genre."^^xsd:string,
-        "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -589,8 +537,7 @@ schema:Bookbfbd20f5-91c8-44a2-a9d1-fd7e3c2e7c0b a ns1:Book ;
     ns1:author "Byron Eggenschwiler"^^xsd:string,
         "Thomas King"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "C’était il y a très longtemps, alors que les animaux parlaient encore aux humains… Coyote était alors le plus grand fauteur de troubles de la forêt."^^xsd:string,
-        "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -602,10 +549,7 @@ schema:Bookc1d40a07-0378-416a-9403-ad8863f86d0b a ns1:Book ;
     ns1:author "François Gravel"^^xsd:string,
         "Geneviève Côté"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description """François a trouvé une solution pour éviter une cruelle punition : il invente une histoire!\r\r\r\r\r\r\r
-Le problème, c’est qu’il devra en inventer une autre, puis une autre, puis une autre encore!\r\r\r\r\r\r\r
-Aura-t-il assez d’imagination?"""^^xsd:string,
-        "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -616,8 +560,7 @@ Aura-t-il assez d’imagination?"""^^xsd:string,
 schema:Bookd04a5a12-eba3-4de1-9eb2-5e0d7fa94ffa a ns1:Book ;
     ns1:author "Élodie Duhameau"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Le croco qui vit chez Papi est le tout premier album en tant qu’autrice de l’illustratrice Élodie Duhameau. Elle y présente une histoire d’amitié remplie d’humour et de personnages attachants, sensibilisant au détour les jeunes lecteur.trices à la cause et à la réalité animales. Car comme Papi dit : « Personne n’aime vivre en cage. »"^^xsd:string,
-        "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -629,8 +572,7 @@ schema:Bookd2ce4f68-e445-43ab-a2f1-d5dc08bb6334 a ns1:Book ;
     ns1:author "Aurélien Galvan"^^xsd:string,
         "Pierrette Dubé"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 0-5 ans : 0-5 ans"^^xsd:string,
-        "Octave envie beaucoup son amie Félicie qui reçoit des lettres de sa cousine Célestine. Pourquoi n’en reçoit-il jamais, lui? Probablement parce qu’il n’a ni boîte aux lettres ni cousine. Pour régler ces petits détails, Octave se rend chez le quincaillier. Celui-ci lui vend une magnifique boîte aux lettres et lui donne l’adresse de sa cousine Winnifred, qui vit en Australie. Maintenant qu’Octave a tout ce qui lui faut, il peut envoyer sa première lettre. Il choisit le W, pour Winnifred. Commence alors une longue correspondance qui fera voyager l’alphabet d’un bout à l’autre du monde et donnera naissance à une belle amitié."^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -641,10 +583,7 @@ schema:Bookd2ce4f68-e445-43ab-a2f1-d5dc08bb6334 a ns1:Book ;
 schema:Bookd696c281-f5f4-44a0-8636-355481f34907 a ns1:Book ;
     ns1:author "Julie Champagne"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description """Lorsque Sam apprend que sa mère est atteinte d’un cancer, elle a l’impression que son univers s’écroule. Plutôt que de se laisser paralyser par le chagrin, la très cartésienne adolescente décide de plonger dans l’action et de faire tout ce qu’elle peut pour la sauver.\r\r\r\r\r\r\r
-Dans cette quête éperdue, chaque geste compte, pourvu qu’il permette à Sam de ne pas regarder en face la cruelle réalité: sa mère est malade et ses chances de survie diminuent un peu plus chaque jour.\r\r\r\r\r\r\r
-Un roman drôle et touchant, qui nous entraîne en montagnes russes à travers toute la gamme des émotions."""^^xsd:string,
-        "Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -656,8 +595,7 @@ schema:Bookd91b9bca-6e6f-4af6-afad-0adb1f59815c a ns1:Book ;
     ns1:author "Aurélien Galvan"^^xsd:string,
         "Pierrette Dubé"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Octave envie beaucoup son amie Félicie qui reçoit des lettres de sa cousine Célestine. Pourquoi n’en reçoit-il jamais, lui? Probablement parce qu’il n’a ni boîte aux lettres ni cousine. Pour régler ces petits détails, Octave se rend chez le quincaillier. Celui-ci lui vend une magnifique boîte aux lettres et lui donne l’adresse de sa cousine Winnifred, qui vit en Australie. Maintenant qu’Octave a tout ce qui lui faut, il peut envoyer sa première lettre. Il choisit le W, pour Winnifred. Commence alors une longue correspondance qui fera voyager l’alphabet d’un bout à l’autre du monde et donnera naissance à une belle amitié."^^xsd:string,
-        "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -668,8 +606,7 @@ schema:Bookd91b9bca-6e6f-4af6-afad-0adb1f59815c a ns1:Book ;
 schema:Bookdd9fb2d6-b937-41ab-9981-b0dc79665cce a ns1:Book ;
     ns1:author "Mike Boldt"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Dans cet album rigolo et interactif, apprenez à Gustave, adorable gros ours à lunettes, les rudiments de la cachette. Derrière un arbre fin ou dans une foule de lapins, ce ne sont pas les meilleurs endroits pour passer inaperçu. Gustave a du progrès à faire?! Les deux dernières pages de l’album se déplient pour offrir un immense jeu de cherche et trouve aux surprises inépuisables."^^xsd:string,
-        "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -681,8 +618,7 @@ schema:Booke3bf6789-5496-496a-957c-ac3568471023 a ns1:Book ;
     ns1:author "Jolan Bertrand"^^xsd:string,
         "Tristan Gion"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Depuis que la Petite Hiver a disparu, les habitants du village de Brume sont inquiets car la terrible Grande Hiver sème le chaos. La situation empire lorsqu’en partant à la recherche des objets dérobés par les trolls, l’oncle Alfred disparaît, avalé par la tempête."^^xsd:string,
-        "Finaliste 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -693,8 +629,7 @@ schema:Booke3bf6789-5496-496a-957c-ac3568471023 a ns1:Book ;
 schema:Booke4109906-f13d-47d5-9523-ca6160536ec1 a ns1:Book ;
     ns1:author "Alice Dussutour"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Cinq jeunes filles originaires du Népal, du Mexique, de l’Afghanistan, du Kenya et de la France racontent leur quotidien et la manière dont elles vivent leur adolescence en lien avec les coutumes de leur pays. Des pages documentaires apportent un éclairage sur les thèmes abordés : mariage forcé, règles, harcèlement de rue, patriarcat, entre autres."^^xsd:string,
-        "Finaliste 12-17 ans : 12-17 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -705,8 +640,7 @@ schema:Booke4109906-f13d-47d5-9523-ca6160536ec1 a ns1:Book ;
 schema:Bookea5ea10a-a022-46b3-857d-be39bacc5c9c a ns1:Book ;
     ns1:author "Lisa-Marie Gagnon"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 12-17 ans : 12-17 ans"^^xsd:string,
-        "À 16 ans, Charlie Saint-Pierre est désespérée par sa vie qu’elle juge trop tranquille. Toutefois, un été à travailler comme monitrice au camp Piékouakami, au Lac-Saint-Jean, lui fera vivre une foule de nouvelles expériences."^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -717,8 +651,7 @@ schema:Bookea5ea10a-a022-46b3-857d-be39bacc5c9c a ns1:Book ;
 schema:Bookef04c261-ca24-47a5-871a-965d1096a95f a ns1:Book ;
     ns1:author "Aurélien Galvan"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Ce matin, Simone n’a envie de rien. Elle s’ennuie de son ami. Sa mère lui dit que Coco c’est envolé si loin et si haut qu’il ne reviendra plus. Lors d’une promenade en nature, Simone a une idée. Et si Coco était parti vivre dans une fleur? Remplie d’espoir de retrouver son ami, elle part à sa recherche. Surprise! Il répond à son appel. Ensemble, ils visiteront cet extraordinaire pays que Coco appelle maintenant chez lui. De retour à la maison, Simone a le coeur moins lourd. Son ami est heureux, son nouveau pays est rempli de ses choses favorites! Elle sait que même si elle ne peut plus voir Coco, l’amitié qui les a unis restera toujours vivante à travers ses souvenirs."^^xsd:string,
-        "Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 0-5 ans : 0-5 ans"^^xsd:string ;
     ns1:genre "0 à 5 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -729,10 +662,9 @@ schema:Bookef04c261-ca24-47a5-871a-965d1096a95f a ns1:Book ;
 schema:Bookf1ab8dee-1a4d-4ac4-bd77-b143e8f251a5 a ns1:Book ;
     ns1:author "Jolan Bertrand"^^xsd:string,
         "Tristan Gion"^^xsd:string ;
-    ns1:award "Lauréats 6-11 Ans Québec" ;
+    ns1:award "Prix des libraires : Lauréats 6-11 Ans Québec"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Depuis que la Petite Hiver a disparu, les habitants du village de Brume sont inquiets car la terrible Grande Hiver sème le chaos. La situation empire lorsqu’en partant à la recherche des objets dérobés par les trolls, l’oncle Alfred disparaît, avalé par la tempête."^^xsd:string,
-        "Lauréat 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Lauréat 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -744,8 +676,7 @@ schema:Bookf38704a6-d876-45d9-9142-0fa2c77ba1aa a ns1:Book ;
     ns1:author "Jolan Bertrand"^^xsd:string,
         "Tristan Gion"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Depuis que la Petite Hiver a disparu, les habitants du village de Brume sont inquiets car la terrible Grande Hiver sème le chaos. La situation empire lorsqu’en partant à la recherche des objets dérobés par les trolls, l’oncle Alfred disparaît, avalé par la tempête."^^xsd:string,
-        "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -756,8 +687,7 @@ schema:Bookf38704a6-d876-45d9-9142-0fa2c77ba1aa a ns1:Book ;
 schema:Bookf69bc451-8c72-4bd2-8fe6-bbc2d040b486 a ns1:Book ;
     ns1:author "Jonathan Bécotte"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste 12-17 ans : 12-17 ans"^^xsd:string,
-        "Un matin d’automne, le narrateur reçoit un appel de son père : celui-ci veut transformer son ancienne chambre d’enfant en établi. Le jeune homme prend alors la route vers sa ville natale, où l’attend la difficile tâche de déterminer ce qui, dans les boîtes de souvenirs accumulés, mérite d’être rescapé. Tandis qu’il retrouve les objets familiers à l’éclat terni par le temps, lui reviennent avec vivacité des moments partagés avec un premier amour, depuis longtemps perdu."^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -767,10 +697,9 @@ schema:Bookf69bc451-8c72-4bd2-8fe6-bbc2d040b486 a ns1:Book ;
 
 schema:Bookfd60f954-b598-4f9b-a2bf-82682d073d3a a ns1:Book ;
     ns1:author "Alice Oseman"^^xsd:string ;
-    ns1:award "Lauréats 12-17 Ans Québec" ;
+    ns1:award "Prix des libraires : Lauréats 12-17 Ans Québec"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Lauréat 12-17 ans : 12-17 ans"^^xsd:string,
-        "Malgré son côté romantique, Georgia n’a jamais été amoureuse. Tandis qu’elle rentre à l’université avec Pip et Jason, ses meilleurs amis, elle compte bien trouver une stratégie pour y remédier. Elle rencontre alors sa nouvelle colocataire très extravertie et obtient une place à la Shakespeare Society. Mais ses plans ne se déroulent pas comme prévu"^^xsd:string ;
+    ns1:description "Prix des libraires : Lauréat 12-17 ans : 12-17 ans"^^xsd:string ;
     ns1:genre "12 à 17 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
@@ -782,8 +711,7 @@ schema:Bookff188acb-dcbf-4207-bb95-2d869e385215 a ns1:Book ;
     ns1:author "Mélanie Baillairgé"^^xsd:string,
         "Paul Tom"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Chaque année, plus de 400 jeunes d’âge mineur arrivent seuls au Canada pour demander le statut de réfugié. Sans parents. Sans adulte pour les accompagner. Seuls raconte le parcours de trois d’entre eux : Afshin, Alain et Patricia. Leurs témoignages ouvrent une fenêtre sur les difficiles sacrifices et les nombreuses épreuves qui jalonnent ce chemin rempli d’obstacles, mais aussi sur le courage et la résilience dont doivent faire preuve ces jeunes avant de pouvoir, enfin, accéder à une vie normale."^^xsd:string,
-        "Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
     ns1:genre "6 à 11 ans"^^xsd:string,
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;

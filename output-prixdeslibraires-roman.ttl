@@ -5,8 +5,7 @@
 schema:Book05a7e9c8-912b-4b7b-98b1-6826748a1f6f a ns1:Book ;
     ns1:author "Louise Erdrich"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Dakota du Nord, 1953. Thomas Wazhashk, veilleur de nuit dans une usine proche de la réserve indienne de Turtle Mountain, lutte contre le projet du gouvernement fédéral censé émanciper les Indiens. Récit inspiré de la vie du grand-père de l’auteure, évoquant son combat contre la dépossession des populations natives américaines dans les années 1950."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Celui qui veille"^^xsd:string ;
@@ -16,8 +15,7 @@ schema:Book05a7e9c8-912b-4b7b-98b1-6826748a1f6f a ns1:Book ;
 schema:Book05e098f1-a21f-4aff-8176-83321035150d a ns1:Book ;
     ns1:author "Andreï Kourkov"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
-        "Seuls habitants d’un petit village de la zone grise, coincé entre l’armée ukrainienne et les séparatistes prorusses, Sergueïtch et Pachka s’associent malgré leurs opinions divergentes vis-à-vis du conflit. Apiculteur passionné, Sergueïtch attend le printemps pour déplacer ses six ruches dans un lieu plus calme dans l’ouest de l’Ukraine."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les abeilles grises"^^xsd:string ;
@@ -27,8 +25,7 @@ schema:Book05e098f1-a21f-4aff-8176-83321035150d a ns1:Book ;
 schema:Book0930953a-7b8b-4c65-8dc4-f7aae51eebfa a ns1:Book ;
     ns1:author "Heather O’Neill"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Enfant gâtée et charismatique d’un baron du sucre, Marie Antoine est la reine des gamins du Mile doré. Jusqu’à ce jour de 1873 où elle fait la rencontre de la sombre et brillante Sadie Arnett. Elles se lient aussitôt d’une amitié tumultueuse qui les poussera vers des jeux de plus en plus dangereux, au point où on jugera nécessaire de les séparer."^^xsd:string,
-        "Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Perdre la tête"^^xsd:string ;
@@ -38,8 +35,7 @@ schema:Book0930953a-7b8b-4c65-8dc4-f7aae51eebfa a ns1:Book ;
 schema:Book09b4c88e-5586-4491-b384-b5af927e70f9 a ns1:Book ;
     ns1:author "Heather O’Neill"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Enfant gâtée et charismatique d’un baron du sucre, Marie Antoine est la reine des gamins du Mile doré. Jusqu’à ce jour de 1873 où elle fait la rencontre de la sombre et brillante Sadie Arnett. Elles se lient aussitôt d’une amitié tumultueuse qui les poussera vers des jeux de plus en plus dangereux, au point où on jugera nécessaire de les séparer."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Perdre la tête"^^xsd:string ;
@@ -49,8 +45,7 @@ schema:Book09b4c88e-5586-4491-b384-b5af927e70f9 a ns1:Book ;
 schema:Book0d2fa569-ee7e-4bf1-9b31-22a972ce44c1 a ns1:Book ;
     ns1:author "Natasha Trethewey"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
-        "Un récit intime dans lequel l’auteure compare son propre destin avec celui de sa mère Gwendolyn, assassinée le 5 juin 1985 par son second époux Joel, un vétéran de la guerre du Vietnam. Ce récit entremêle la trajectoire des femmes de sa famille et celle d’une Amérique meurtrie par le racisme."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Memorial Drive"^^xsd:string ;
@@ -60,8 +55,7 @@ schema:Book0d2fa569-ee7e-4bf1-9b31-22a972ce44c1 a ns1:Book ;
 schema:Book10b0474c-72b5-4345-91ee-42026752540c a ns1:Book ;
     ns1:author "Myriam Vincent"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
-        "Jessica a tout pour être heureuse : un amoureux attentionné, un bébé à venir, et une maison fraichement acquise qui, bien qu’un peu isolée, leur permettra de jeter les bases d’une vie familiale tout à fait classique. Certes, leur nouvelle demeure a une apparence très étrange, mais en pleine crise de l’immobilier et compte tenu de leur humble budget, ce n’est rien qu’un peu de rénovations et beaucoup d’amour ne sauraient arranger."^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "À la maison"^^xsd:string ;
@@ -71,8 +65,7 @@ schema:Book10b0474c-72b5-4345-91ee-42026752540c a ns1:Book ;
 schema:Book130dfcbb-2fea-4fca-acd2-41f23432206a a ns1:Book ;
     ns1:author "Françoise De Luca"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
-        "À la fin des années 1930, Liliane et Solange vivent une amitié rieuse où se mêlent les sauts de chat et le feuilletage de revues de mode. Rebelle et lumineuse, Solange aide parfois ses parents, juifs polonais, à vendre leurs chapeaux sur les marchés. Au contact de son amie, Liliane, jeune fille inconsolée issue d’un milieu peu stimulant, découvre tout un monde de liberté, d’amour et de respect. Quand la guerre éclate, Solange entre dans la Résistance à sa manière : en organisant la protestation silencieuse des femmes élégantes à une époque qui prône la femme naturelle et la mère au foyer, selon l’idéal de Pétain. Durant cette période, les deux amies suivent des chemins qui tantôt se croisent tantôt s’écartent, mais qui contribuent à consolider l’amitié même à travers la mémoire. La jeune fille à la tresse montre que parfois les souvenirs agissent dans nos vies comme des miracles."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La jeune fille à la tresse"^^xsd:string ;
@@ -82,8 +75,7 @@ schema:Book130dfcbb-2fea-4fca-acd2-41f23432206a a ns1:Book ;
 schema:Book1713e06a-8f57-431a-b12d-9af35c4c5436 a ns1:Book ;
     ns1:author "Anthony Doerr"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "En 1453, Anna, orpheline, est brodeuse à Constantinople alors que le sultan Mehmet II s’apprête à attaquer la ville. En 2020, dans une bibliothèque de l’Idaho, Zeno Ninis fait répéter des comédiens sans savoir qu’il est sur le point de croiser la route d’un jeune terroriste. Dans un futur indéfini, Konstance, 14 ans, vit à bord d’une capsule spatiale. Ces personnages sont liés par un même texte."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La cité des nuages et des oiseaux"^^xsd:string ;
@@ -93,8 +85,7 @@ schema:Book1713e06a-8f57-431a-b12d-9af35c4c5436 a ns1:Book ;
 schema:Book22661880-48a3-44fb-b31a-5c57289963e6 a ns1:Book ;
     ns1:author "Andreï Kourkov"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
-        "Seuls habitants d’un petit village de la zone grise, coincé entre l’armée ukrainienne et les séparatistes prorusses, Sergueïtch et Pachka s’associent malgré leurs opinions divergentes vis-à-vis du conflit. Apiculteur passionné, Sergueïtch attend le printemps pour déplacer ses six ruches dans un lieu plus calme dans l’ouest de l’Ukraine."^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les abeilles grises"^^xsd:string ;
@@ -104,8 +95,7 @@ schema:Book22661880-48a3-44fb-b31a-5c57289963e6 a ns1:Book ;
 schema:Book2414b04e-d8ec-4d89-99b0-6d8d78cd6882 a ns1:Book ;
     ns1:author "Juliana Léveillé-Trudel"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
-        "Septembre au Nunavik, la toundra se couvre de petits fruits rouges flamboyants. Une jeune femme retourne à Salluit, deux ans après sa dernière visite, et quelques leçons d’inuttitut plus tard. Certains des enfants qu’elle a connus au camp de jour sont maintenant adolescents. Maggie, Sarah, Louisa, Elisapie et Nathan aiment sortir en quatre-roues, pêcher ou encore partir plusieurs jours chasser le lagopède. Ils ont leurs secrets, leurs blessures. Leur enfance s’évapore sous les aurores boréales. Dans ce roman, où la résilience d’une communauté tournée vers l’avenir de sa jeunesse ne vacille jamais, il n’y a pas d’âge pour devenir adulte. Alors que soufflent les premiers blizzards de l’automne, Juliana Léveillé-Trudel offre un récit tendre sur le deuil et la peur de perdre ceux que l’on aime…"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "On a tout l’automne"^^xsd:string ;
@@ -115,8 +105,7 @@ schema:Book2414b04e-d8ec-4d89-99b0-6d8d78cd6882 a ns1:Book ;
 schema:Book27fce1f6-4c1b-475d-ba94-f7b8d952069f a ns1:Book ;
     ns1:author "Bernardine Evaristo"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Barrington Jedidiah Walter a émigré d’Antigua avec sa compagne Carmel. A Londres, malgré ses 74 ans, il est plus que jamais dandy, fêtard et séducteur, conservant son amour intact pour Morris Courtney, qu’il s’est toujours retenu d’avouer au grand jour."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Mr. Loverman"^^xsd:string ;
@@ -125,10 +114,9 @@ schema:Book27fce1f6-4c1b-475d-ba94-f7b8d952069f a ns1:Book ;
 
 schema:Book40eb9b7c-e6ea-4722-a837-c4344e5018d8 a ns1:Book ;
     ns1:author "Dominique Scali"^^xsd:string ;
-    ns1:award "Lauréats Roman-Nouvelles-Récit 2023 Québec" ;
+    ns1:award "Prix des libraires : Lauréats Roman-Nouvelles-Récit 2023 Québec"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Danaé Berrubé-Portanguen dite Poussin possède le rare don de savoir nager. Orpheline, tour à tour sauveuse et naufrageuse, elle vit au milieu de l’Atlantique, sur l’île d’Ys, berceau d’un peuple obsédé par l’honneur et le courage. Une île où même les terriens se vantent d’être marins, où seuls les plus braves ont le privilège de vivre dans la cité fortifiée à l’abri des grandes marées d’équinoxe. Suivant le destin des riverains qui doivent se partager plages et marges, Danaé Poussin se soumettra aux cycles qui animent les mouvements de la mer comme à ceux qui régissent le cœur des hommes."^^xsd:string,
-        "Lauréat Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Lauréat Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les marins ne savent pas nager"^^xsd:string ;
@@ -138,8 +126,7 @@ schema:Book40eb9b7c-e6ea-4722-a837-c4344e5018d8 a ns1:Book ;
 schema:Book464fed98-3525-4806-9b2b-802e80a8af36 a ns1:Book ;
     ns1:author "Clara Dupont-Monod"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Dans les Cévennes, l’équilibre d’une famille est bouleversé par la naissance d’un enfant handicapé. Si l’aîné de la fratrie s’attache profondément à ce frère différent et fragile, la cadette se révolte et le rejette."^^xsd:string,
-        "Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "S’adapter"^^xsd:string ;
@@ -149,8 +136,7 @@ schema:Book464fed98-3525-4806-9b2b-802e80a8af36 a ns1:Book ;
 schema:Book4b39ca45-6693-4d59-a7e6-013d85bb09c3 a ns1:Book ;
     ns1:author "Jason Mott"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "En tournée promotionnelle, un écrivain noir américain croise un enfant de 10 ans qui ressemble à la récente victime d’une bavure policière. Il le voit à plusieurs reprises durant son parcours et, sans savoir s’il est réel, remet en question son rapport à sa propre histoire, à sa couleur de peau et à sa place aux États-Unis."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "L’enfant qui voulait disparaître"^^xsd:string ;
@@ -160,8 +146,7 @@ schema:Book4b39ca45-6693-4d59-a7e6-013d85bb09c3 a ns1:Book ;
 schema:Book4d472cb5-5e93-4e5f-82d9-357f6f2e8be3 a ns1:Book ;
     ns1:author "Dominique Scali"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Danaé Berrubé-Portanguen dite Poussin possède le rare don de savoir nager. Orpheline, tour à tour sauveuse et naufrageuse, elle vit au milieu de l’Atlantique, sur l’île d’Ys, berceau d’un peuple obsédé par l’honneur et le courage. Une île où même les terriens se vantent d’être marins, où seuls les plus braves ont le privilège de vivre dans la cité fortifiée à l’abri des grandes marées d’équinoxe. Suivant le destin des riverains qui doivent se partager plages et marges, Danaé Poussin se soumettra aux cycles qui animent les mouvements de la mer comme à ceux qui régissent le cœur des hommes."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les marins ne savent pas nager"^^xsd:string ;
@@ -171,8 +156,7 @@ schema:Book4d472cb5-5e93-4e5f-82d9-357f6f2e8be3 a ns1:Book ;
 schema:Book52b490e0-67c8-4dde-8143-672eb6651b5f a ns1:Book ;
     ns1:author "Clara Dupont-Monod"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Dans les Cévennes, l’équilibre d’une famille est bouleversé par la naissance d’un enfant handicapé. Si l’aîné de la fratrie s’attache profondément à ce frère différent et fragile, la cadette se révolte et le rejette."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "S’adapter"^^xsd:string ;
@@ -182,8 +166,7 @@ schema:Book52b490e0-67c8-4dde-8143-672eb6651b5f a ns1:Book ;
 schema:Book6ddc8ec5-ac71-42be-b2e2-90bf18ea5645 a ns1:Book ;
     ns1:author "Léonora Miano"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
-        "À travers l’histoire de Louise et de sa fille Bliss, l’autrice relate une période de sa vie dans ce texte écrit il y a plus de vingt ans. Après avoir quitté le père de son enfant, incapable d’assumer ses responsabilités, elle se retrouve dans des hôtels misérables, puis est accueillie dans un centre de réinsertion et d’hébergement d’urgence de Paris."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Stardust"^^xsd:string ;
@@ -193,8 +176,7 @@ schema:Book6ddc8ec5-ac71-42be-b2e2-90bf18ea5645 a ns1:Book ;
 schema:Book78e9437d-ac9a-4de8-891e-571dee93aa8a a ns1:Book ;
     ns1:author "Giuliano Da Empoli"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Au cœur du pouvoir russe contemporain, l’énigmatique Vadim Baranov est considéré comme l’éminence grise de Poutine. Après sa démission de son poste de conseiller politique, les légendes et rumeurs à son propos se multiplient. L’homme surnommé le mage du Kremlin confie alors son histoire au narrateur."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le mage du Kremlin"^^xsd:string ;
@@ -204,8 +186,7 @@ schema:Book78e9437d-ac9a-4de8-891e-571dee93aa8a a ns1:Book ;
 schema:Book7cab2b88-d550-447e-8712-d7f672c9bc03 a ns1:Book ;
     ns1:author "Maxime Raymond Bock"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
-        "Ouvrier anonyme, Jean-Claude Morel a consacré sa vie aux grands chantiers de Montréal. Il a creusé le métro et le pont-tunnel Louis-Hippolyte-La Fontaine, fait surgir des îles et s’entrelacer des autoroutes. Mais si les tours qu’il a construites au centre-ville en rapprochent certains du soleil, elles allongent leurs ombres jusqu’en bas de la track : le Faubourg à m’lasse est détruit, la rue Notre-Dame rasée, et la famille Morel expropriée et déplacée tandis que des drames intimes finissent par la disloquer. Le vieux Jean-Claude, né durant la Grande Crise d’une succession de fils déchus et de pères cassés, jongle avec ses souvenirs dont il ne sait que faire jusqu’à l’arrivée en scène de sa petite-fille Catherine qui, curieuse de ses racines, vient libérer la parole et retricoter les liens décousus. Fresque grouillante de vie, tourbillon mémoriel aux fondus enchaînés bouleversants de précision, Morel raconte de l’intérieur la métamorphose de Montréal au 20e siècle, où le génie n’est ni civil ni industriel, mais profondément humain : c’est le cœur même d’une communauté têtue, vive et désordonnée qui trouvera toujours le moyen de fleurir à travers la rouille et le béton."^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Morel"^^xsd:string ;
@@ -215,8 +196,7 @@ schema:Book7cab2b88-d550-447e-8712-d7f672c9bc03 a ns1:Book ;
 schema:Book81f9fe21-c7f9-4072-b005-a170a2484bb6 a ns1:Book ;
     ns1:author "Myriam Vincent"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Jessica a tout pour être heureuse : un amoureux attentionné, un bébé à venir, et une maison fraichement acquise qui, bien qu’un peu isolée, leur permettra de jeter les bases d’une vie familiale tout à fait classique. Certes, leur nouvelle demeure a une apparence très étrange, mais en pleine crise de l’immobilier et compte tenu de leur humble budget, ce n’est rien qu’un peu de rénovations et beaucoup d’amour ne sauraient arranger."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "À la maison"^^xsd:string ;
@@ -226,8 +206,7 @@ schema:Book81f9fe21-c7f9-4072-b005-a170a2484bb6 a ns1:Book ;
 schema:Book8871d2ad-a5aa-4f17-a7c3-64b23233ba1f a ns1:Book ;
     ns1:author "Mali Navia"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Ana López, née d’une mère canadienne et d’un père colombien, grandit au Québec entre deux cultures, prise entre le Nord et le Sud. Elle tente de conjuguer ses identités trouées, acceptant mal ce qui la rend différente dans le regard des autres. Son père, Alejandro, n’a jamais réussi à apprivoiser le Québec. Il y demeure pour ses deux filles, à qui il transmet malgré lui le fardeau de son exil. Puis, un jour, il retourne s’installer en Colombie. Et disparaît."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La banalité d’un tir"^^xsd:string ;
@@ -237,8 +216,7 @@ schema:Book8871d2ad-a5aa-4f17-a7c3-64b23233ba1f a ns1:Book ;
 schema:Book92f65c2d-be04-4c82-a5ef-7935806b2db0 a ns1:Book ;
     ns1:author "Louis-Karl Picard-Sioui"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Alors que s’organise le pow-wow et que la communauté, frappée par un décès, craint de voir un autre des siens s’éteindre, le temps s’accélère et précipite les choses. Avec le roman par nouvelles Éveil à Kitchike : La saignée des possibles, l’auteur tire les fils qui relient l’ordinaire à l’extraordinaire, la douce folie des uns à l’ambition des autres, les anciennes rivalités à une réelle sororité sans jamais sacrifier la nécessité de se serrer les coudes ou le désir tout simple d’entendre battre les cœurs."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Éveil à Kitchike : La saignée des possibles"^^xsd:string ;
@@ -248,8 +226,7 @@ schema:Book92f65c2d-be04-4c82-a5ef-7935806b2db0 a ns1:Book ;
 schema:Book9cc05e9e-39cf-4ba0-ae89-25d8a3722998 a ns1:Book ;
     ns1:author "Bernardine Evaristo"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Barrington Jedidiah Walter a émigré d’Antigua avec sa compagne Carmel. A Londres, malgré ses 74 ans, il est plus que jamais dandy, fêtard et séducteur, conservant son amour intact pour Morris Courtney, qu’il s’est toujours retenu d’avouer au grand jour."^^xsd:string,
-        "Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Mr. Loverman"^^xsd:string ;
@@ -258,10 +235,9 @@ schema:Book9cc05e9e-39cf-4ba0-ae89-25d8a3722998 a ns1:Book ;
 
 schema:Bookafa26191-31ed-49ef-ab30-e6c5bdec1e0f a ns1:Book ;
     ns1:author "Andreï Kourkov"^^xsd:string ;
-    ns1:award "Lauréats Roman-Nouvelles-Récit 2023 Québec" ;
+    ns1:award "Prix des libraires : Lauréats Roman-Nouvelles-Récit 2023 Québec"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Lauréat Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
-        "Seuls habitants d’un petit village de la zone grise, coincé entre l’armée ukrainienne et les séparatistes prorusses, Sergueïtch et Pachka s’associent malgré leurs opinions divergentes vis-à-vis du conflit. Apiculteur passionné, Sergueïtch attend le printemps pour déplacer ses six ruches dans un lieu plus calme dans l’ouest de l’Ukraine."^^xsd:string ;
+    ns1:description "Prix des libraires : Lauréat Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les abeilles grises"^^xsd:string ;
@@ -271,8 +247,7 @@ schema:Bookafa26191-31ed-49ef-ab30-e6c5bdec1e0f a ns1:Book ;
 schema:Bookcc4e456f-bbcd-40c9-94a1-21f52432882a a ns1:Book ;
     ns1:author "Sylvie Drapeau"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Deux enfants, des jumeaux, fille et garçon. Une mère sans mots, sans défenses, sans moyens, en apparence inapte, mais « adorante ». Un père pourvoyeur, violent, terrifiant. Une maison bancale sur un terrain en sable bordé par un précipice ; un « trou » au fond duquel une usine rejette des vapeurs doucereuses et toxiques."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le jeu de l’oiseau"^^xsd:string ;
@@ -282,8 +257,7 @@ schema:Bookcc4e456f-bbcd-40c9-94a1-21f52432882a a ns1:Book ;
 schema:Bookddc6e9ec-fe81-4966-abd7-c54491f23574 a ns1:Book ;
     ns1:author "Dominique Fortier"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Les ombres blanches reprend l’histoire là où se terminait Les villes de papier, pour en raconter la suite improbable, quasi miraculeuse (?) : la naissance d’un livre des années après la mort de son auteure. Dans ces pages sensibles et lumineuses, Dominique Fortier explore, à travers la poésie de Dickinson, le pouvoir mystérieux qu’exercent les livres sur nos vies, et sonde le caractère à la fois fragile et nécessaire de la littérature."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les ombres blanches"^^xsd:string ;
@@ -293,8 +267,7 @@ schema:Bookddc6e9ec-fe81-4966-abd7-c54491f23574 a ns1:Book ;
 schema:Booke97f99fb-6e2c-40ed-8bd1-f8ccdefdb6f1 a ns1:Book ;
     ns1:author "Dominique Scali"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Danaé Berrubé-Portanguen dite Poussin possède le rare don de savoir nager. Orpheline, tour à tour sauveuse et naufrageuse, elle vit au milieu de l’Atlantique, sur l’île d’Ys, berceau d’un peuple obsédé par l’honneur et le courage. Une île où même les terriens se vantent d’être marins, où seuls les plus braves ont le privilège de vivre dans la cité fortifiée à l’abri des grandes marées d’équinoxe. Suivant le destin des riverains qui doivent se partager plages et marges, Danaé Poussin se soumettra aux cycles qui animent les mouvements de la mer comme à ceux qui régissent le cœur des hommes."^^xsd:string,
-        "Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les marins ne savent pas nager"^^xsd:string ;
@@ -304,8 +277,7 @@ schema:Booke97f99fb-6e2c-40ed-8bd1-f8ccdefdb6f1 a ns1:Book ;
 schema:Bookea8668c6-d3c1-4e9c-9340-527195e03107 a ns1:Book ;
     ns1:author "Alex Viens"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Jules rend visite à son père, Denis, un vieux punk imprévisible, afin de lui remettre une énigmatique petite boîte. Après un silence de dix ans, leurs retrouvailles s’orchestrent autour d’un spaghetti bien arrosé. Mais Denis veut dicter les règles du jeu et la tension monte, dévoilant les raisons de ce huis clos qui vire bientôt au cauchemar. Portée par les chansons de The Cure, parmi les flaques d’urine et les débris de la télévision, Jules mettra le point final à ce crescendo de violence, tantôt victime, tantôt bourreau."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Les pénitences"^^xsd:string ;
@@ -315,8 +287,7 @@ schema:Bookea8668c6-d3c1-4e9c-9340-527195e03107 a ns1:Book ;
 schema:Bookecefba05-f8c2-4303-b78c-e74049a8e38e a ns1:Book ;
     ns1:author "Mali Navia"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Ana López, née d’une mère canadienne et d’un père colombien, grandit au Québec entre deux cultures, prise entre le Nord et le Sud. Elle tente de conjuguer ses identités trouées, acceptant mal ce qui la rend différente dans le regard des autres. Son père, Alejandro, n’a jamais réussi à apprivoiser le Québec. Il y demeure pour ses deux filles, à qui il transmet malgré lui le fardeau de son exil. Puis, un jour, il retourne s’installer en Colombie. Et disparaît."^^xsd:string,
-        "Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La banalité d’un tir"^^xsd:string ;
@@ -326,8 +297,7 @@ schema:Bookecefba05-f8c2-4303-b78c-e74049a8e38e a ns1:Book ;
 schema:Bookedbf9cb1-56a2-48c1-995f-205bf677224b a ns1:Book ;
     ns1:author "Sophie Marcotte"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Liv ne sait plus habiter son corps. Dans sa chambre, elle accueille des amants sans nom qu’elle ne garde jamais jusqu’au matin. Sous les néons d’une salle d’examen, elle attend l’inexorable, hantée par les diagnostics imaginaires. Sa mère a été emportée par le cancer il y a longtemps, lui laissant une peur obsessive de la maladie pour seul héritage. Maintenant, la vie de Liv et de son père est pleine de fantômes. Alors que Liv traque sa mère dans les sentiers de course longeant le fleuve à Verdun, son père ne quitte plus son appartement, enfoncé dans son divan, aveugle au monde qui l’entoure et rongé par ses drames intérieurs."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La mère intérieure"^^xsd:string ;
@@ -337,8 +307,7 @@ schema:Bookedbf9cb1-56a2-48c1-995f-205bf677224b a ns1:Book ;
 schema:Bookefbac33b-e063-4eaa-a2f6-5d4076566563 a ns1:Book ;
     ns1:author "Jón Kalman Stefánsson"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
-        "Un homme amnésique se retrouve dans un village des fjords sans savoir pourquoi ni comment il est arrivé là. Tout le monde semble le connaître mais lui n’a aucun souvenir ni de Soley, la propriétaire de l’hôtel, ni de sa soeur, Runa ou d’Aldis, leur regrettée mère. Petit à petit, se déploient différents récits le plongeant dans l’histoire de sa famille, du milieu du XIXe siècle jusqu’en 2020."^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Ton absence n’est que ténèbres"^^xsd:string ;
@@ -348,8 +317,7 @@ schema:Bookefbac33b-e063-4eaa-a2f6-5d4076566563 a ns1:Book ;
 schema:Bookf40438fa-1f31-4e5b-bb47-97e7a45eb90d a ns1:Book ;
     ns1:author "Maxime Raymond Bock"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Ouvrier anonyme, Jean-Claude Morel a consacré sa vie aux grands chantiers de Montréal. Il a creusé le métro et le pont-tunnel Louis-Hippolyte-La Fontaine, fait surgir des îles et s’entrelacer des autoroutes. Mais si les tours qu’il a construites au centre-ville en rapprochent certains du soleil, elles allongent leurs ombres jusqu’en bas de la track : le Faubourg à m’lasse est détruit, la rue Notre-Dame rasée, et la famille Morel expropriée et déplacée tandis que des drames intimes finissent par la disloquer. Le vieux Jean-Claude, né durant la Grande Crise d’une succession de fils déchus et de pères cassés, jongle avec ses souvenirs dont il ne sait que faire jusqu’à l’arrivée en scène de sa petite-fille Catherine qui, curieuse de ses racines, vient libérer la parole et retricoter les liens décousus. Fresque grouillante de vie, tourbillon mémoriel aux fondus enchaînés bouleversants de précision, Morel raconte de l’intérieur la métamorphose de Montréal au 20e siècle, où le génie n’est ni civil ni industriel, mais profondément humain : c’est le cœur même d’une communauté têtue, vive et désordonnée qui trouvera toujours le moyen de fleurir à travers la rouille et le béton."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Morel"^^xsd:string ;
@@ -359,8 +327,7 @@ schema:Bookf40438fa-1f31-4e5b-bb47-97e7a45eb90d a ns1:Book ;
 schema:Bookf5d858be-c063-40e1-8b91-58d455cfc0e2 a ns1:Book ;
     ns1:author "Louise Erdrich"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Dakota du Nord, 1953. Thomas Wazhashk, veilleur de nuit dans une usine proche de la réserve indienne de Turtle Mountain, lutte contre le projet du gouvernement fédéral censé émanciper les Indiens. Récit inspiré de la vie du grand-père de l’auteure, évoquant son combat contre la dépossession des populations natives américaines dans les années 1950."^^xsd:string,
-        "Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Finaliste Roman-Nouvelles-Récit 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Celui qui veille"^^xsd:string ;
@@ -370,8 +337,7 @@ schema:Bookf5d858be-c063-40e1-8b91-58d455cfc0e2 a ns1:Book ;
 schema:Bookf91a173f-fe0a-4477-811e-9b79ca027de0 a ns1:Book ;
     ns1:author "Jón Kalman Stefánsson"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
-        "Un homme amnésique se retrouve dans un village des fjords sans savoir pourquoi ni comment il est arrivé là. Tout le monde semble le connaître mais lui n’a aucun souvenir ni de Soley, la propriétaire de l’hôtel, ni de sa soeur, Runa ou d’Aldis, leur regrettée mère. Petit à petit, se déploient différents récits le plongeant dans l’histoire de sa famille, du milieu du XIXe siècle jusqu’en 2020."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Ton absence n’est que ténèbres"^^xsd:string ;
@@ -381,8 +347,7 @@ schema:Bookf91a173f-fe0a-4477-811e-9b79ca027de0 a ns1:Book ;
 schema:Bookf9804649-b667-4597-ad01-d52f21cdabe0 a ns1:Book ;
     ns1:author "Karine Tuil"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "A 49 ans, Alma Revel est une juge charismatique, puissante et respectée. Pourtant, cette mère de trois enfants est en pleine crise existentielle. Quelques mois plus tôt, elle a trompé son mari écrivain avec un avocat qui représente un jeune homme accusé de faire partie de l’Etat islamique en Syrie. Elle prend alors une décision qui bouleverse son existence et l’avenir de son pays."^^xsd:string,
-        "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La décision"^^xsd:string ;
@@ -392,8 +357,7 @@ schema:Bookf9804649-b667-4597-ad01-d52f21cdabe0 a ns1:Book ;
 schema:Bookfd923580-f167-40e1-b61c-048881df1c25 a ns1:Book ;
     ns1:author "Virginie Despentes"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string,
-        "Roman épistolaire entre Rebecca, une actrice quinquagénaire séduisante, Oscar, un écrivain trentenaire peu connu victime du syndrome de la page blanche et Zoé, une jeune féministe accro aux réseaux sociaux. Ces trois individus à la personnalité abrupte, tourmentés par leurs angoisses, leurs névroses et leurs addictions, sont amenés à baisser les armes quand l’amitié leur tombe dessus."^^xsd:string ;
+    ns1:description "Prix des libraires : Préliminaire 2023 : Roman-Nouvelles-Récit 2023"^^xsd:string ;
     ns1:genre "Roman"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Cher connard"^^xsd:string ;
