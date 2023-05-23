@@ -914,7 +914,7 @@ schema:Book103d7ce9-ef27-4268-aeaa-012cc5a38478 a ns1:Book ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Vaurien et Gredin, les affreux jumeaux.." ;
+    ns1:name "Vaurien et Gredin, les affreux jumeaux..." ;
     ns1:publisher "Kaléidoscope" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-livrentete"^^xsd:string .
 
@@ -1116,7 +1116,6 @@ schema:Book19c5bf65-bd0b-4118-aee9-16d8a3090fd7 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "L'innocent de Palerme"^^xsd:string ;
-    ns1:publisher "" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-livrentete"^^xsd:string .
 
 schema:Book1a33e55c-9086-4dd8-a80d-2c456b5a2b55 a ns1:Book ;
@@ -3303,7 +3302,7 @@ schema:Book9aa36bd6-c368-4a46-a318-57c5f53b35ab a ns1:Book ;
     ns1:countryOfOrigin "Suisse"^^xsd:string ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:illustrator "Ronald Curchod"^^xsd:string ;
-    ns1:title "La nuit quand je dors.." ;
+    ns1:title "La nuit quand je dors..." ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/biennale-de-lillustration-de-bratislava"^^xsd:string .
 
 schema:Book9aab9a28-2793-4b79-b9c2-cd545d7da9dc a ns1:Book ;
@@ -4800,7 +4799,7 @@ schema:Bookec3bdb7c-7f61-4d80-b150-d90c76a8abd5 a ns1:Book ;
     ns1:illustrator "Kim HiorthØy"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Kurt et le poisson"^^xsd:string ;
-    ns1:publisher "" ;
+    ns1:publisher "La Joie De Lire" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/tam-tam-du-livre-de-jeunesse"^^xsd:string .
 
 schema:Booked2f3089-0d90-4ab7-8237-c6deae9637be a ns1:Book ;
@@ -5190,7 +5189,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Rouergue" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
-<schema:Book00c8d187-170f-4287-9b82-aa510e09f8b0> a ns1:Book ;
+schema:Book00c8d187-170f-4287-9b82-aa510e09f8b0 a ns1:Book ;
     ns1:author "Hélène Montardre"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
     ns1:datePublished "2018"^^xsd:gYear ;
@@ -5200,7 +5199,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Rageot" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book04e4c11e-dc4d-44a0-b11b-4cbb8b4c4973> a ns1:Book ;
+schema:Book04e4c11e-dc4d-44a0-b11b-4cbb8b4c4973 a ns1:Book ;
     ns1:author "Axl Cendres"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Orange" ;
     ns1:datePublished "2014"^^xsd:gYear ;
@@ -5210,7 +5209,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Sarbacane" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book051741a2-0368-4ee7-84db-0af0662fe463> a ns1:Book ;
+schema:Book051741a2-0368-4ee7-84db-0af0662fe463 a ns1:Book ;
     ns1:author "Martin Blasco"^^xsd:string ;
     ns1:award "Prix Farniente : Prix Evasion (15+)" ;
     ns1:datePublished "2019"^^xsd:gYear ;
@@ -5220,7 +5219,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-victor"^^xsd:string .
 
-<schema:Book0821818c-94b1-4cf6-ba81-675ca4fdc605> a ns1:Book ;
+schema:Book0821818c-94b1-4cf6-ba81-675ca4fdc605 a ns1:Book ;
     ns1:author "Jacqueline West"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2023"^^xsd:gYear ;
@@ -5230,7 +5229,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Seuil Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book0a8d0660-173f-4ab3-98ed-8729687c7f26> a ns1:Book ;
+schema:Book0a8d0660-173f-4ab3-98ed-8729687c7f26 a ns1:Book ;
     ns1:author "Roland Godel"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
     ns1:datePublished "2016"^^xsd:gYear ;
@@ -5240,7 +5239,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book0b3f32f2-7f96-4d34-bf61-4c81a9f86e9b> a ns1:Book ;
+schema:Book0b3f32f2-7f96-4d34-bf61-4c81a9f86e9b a ns1:Book ;
     ns1:author "Delphine Perre"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2011"^^xsd:gYear ;
@@ -5250,7 +5249,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Thierry Magnier" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book0c16c036-07b2-4fda-8c6e-f2b4fb72379e> a ns1:Book ;
+schema:Book0c16c036-07b2-4fda-8c6e-f2b4fb72379e a ns1:Book ;
     ns1:author "Marie Vareille"^^xsd:string ;
     ns1:award "Prix Farniente : Prix Victor (13+)" ;
     ns1:datePublished "2018"^^xsd:gYear ;
@@ -5260,7 +5259,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Pocket Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-victor"^^xsd:string .
 
-<schema:Book0de11075-2f3a-4143-bb1b-c48e38f0f2f1> a ns1:Book ;
+schema:Book0de11075-2f3a-4143-bb1b-c48e38f0f2f1 a ns1:Book ;
     ns1:author "Magali Favre"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
     ns1:datePublished "2014"^^xsd:gYear ;
@@ -5270,7 +5269,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Oskar Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book0f2abcf3-c53d-4229-b3d7-4c8f86cc90b1> a ns1:Book ;
+schema:Book0f2abcf3-c53d-4229-b3d7-4c8f86cc90b1 a ns1:Book ;
     ns1:author "Ruta Sepetys"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Verte (15+)" ;
     ns1:datePublished "2013"^^xsd:gYear ;
@@ -5280,7 +5279,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book123e42a1-2ac1-41ed-8c3f-9fb6a42b3fd5> a ns1:Book ;
+schema:Book123e42a1-2ac1-41ed-8c3f-9fb6a42b3fd5 a ns1:Book ;
     ns1:author "Aimée de Jongh"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 15-18 Ans" ;
     ns1:datePublished "2022"^^xsd:gYear ;
@@ -5291,7 +5290,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Dargaud" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book15d2c59b-91a0-4c82-aaaf-2a78f98a8b6f> a ns1:Book ;
+schema:Book15d2c59b-91a0-4c82-aaaf-2a78f98a8b6f a ns1:Book ;
     ns1:author "Claire Gratias"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
     ns1:datePublished "2010"^^xsd:gYear ;
@@ -5301,7 +5300,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Syros" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book16ffbb1b-6d6a-4b61-96a1-31a5f24e90b2> a ns1:Book ;
+schema:Book16ffbb1b-6d6a-4b61-96a1-31a5f24e90b2 a ns1:Book ;
     ns1:author "Zep"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 15-18 Ans" ;
     ns1:datePublished "2019"^^xsd:gYear ;
@@ -5312,7 +5311,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Rue De Sèvres" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book17352e2e-41a6-456b-978f-8e5014c2c42d> a ns1:Book ;
+schema:Book17352e2e-41a6-456b-978f-8e5014c2c42d a ns1:Book ;
     ns1:author "Ted Van Lieshout"^^xsd:string ;
     ns1:award "Prix Farniente : Une Basket" ;
     ns1:datePublished "2002"^^xsd:string ;
@@ -5322,7 +5321,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "La Joie De Lire" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book181e6bfc-63c7-45de-a746-84e1a2d1cdae> a ns1:Book ;
+schema:Book181e6bfc-63c7-45de-a746-84e1a2d1cdae a ns1:Book ;
     ns1:author "Rune Michaels"^^xsd:string ;
     ns1:award "Prix Farniente : Deux Baskets" ;
     ns1:datePublished "2010"^^xsd:gYear ;
@@ -5332,7 +5331,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Milan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book1899d4e9-42da-4f75-9944-6a29f3bebb35> a ns1:Book ;
+schema:Book1899d4e9-42da-4f75-9944-6a29f3bebb35 a ns1:Book ;
     ns1:author "Gilles Abier"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Orange" ;
     ns1:datePublished "2013"^^xsd:gYear ;
@@ -5342,7 +5341,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Acte Sud Junior" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book19b94f14-47f1-4b24-9884-eb8d62361a46> a ns1:Book ;
+schema:Book19b94f14-47f1-4b24-9884-eb8d62361a46 a ns1:Book ;
     ns1:author "Magnus Nordin"^^xsd:string ;
     ns1:award "Prix Farniente : Deux Baskets" ;
     ns1:datePublished "2011"^^xsd:gYear ;
@@ -5352,7 +5351,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Le Rouergue" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book1a8d7840-2261-4a4f-93b7-ff41388ee689> a ns1:Book ;
+schema:Book1a8d7840-2261-4a4f-93b7-ff41388ee689 a ns1:Book ;
     ns1:author "David Merveille"^^xsd:string,
         "Davide Cali"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -5363,7 +5362,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Sarbacane" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book1ab9aa97-50ff-43dd-9c3b-0fbfba65c999> a ns1:Book ;
+schema:Book1ab9aa97-50ff-43dd-9c3b-0fbfba65c999 a ns1:Book ;
     ns1:author "Roland Smith"^^xsd:string ;
     ns1:award "Prix Farniente : Une Basket" ;
     ns1:datePublished "2005"^^xsd:gYear ;
@@ -5373,7 +5372,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Flammarion" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book1c3157f6-0e80-43da-b9df-02f8a6334404> a ns1:Book ;
+schema:Book1c3157f6-0e80-43da-b9df-02f8a6334404 a ns1:Book ;
     ns1:author "Sylvain Repos"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 11-14 Ans" ;
     ns1:datePublished "2022"^^xsd:gYear ;
@@ -5384,7 +5383,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Dargaud" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book1c98c89e-d8b1-44f3-b674-9e4b43e9e9e4> a ns1:Book ;
+schema:Book1c98c89e-d8b1-44f3-b674-9e4b43e9e9e4 a ns1:Book ;
     ns1:author "Xavier-Laurent Petit"^^xsd:string ;
     ns1:award "Prix Farniente : Une Basket" ;
     ns1:datePublished "2009"^^xsd:gYear ;
@@ -5394,7 +5393,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book1dd2d22b-2883-4a96-9578-7ee7e77e3db0> a ns1:Book ;
+schema:Book1dd2d22b-2883-4a96-9578-7ee7e77e3db0 a ns1:Book ;
     ns1:author "Margot Bruyère"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Cm2-6ème" ;
     ns1:datePublished "2012"^^xsd:gYear ;
@@ -5404,7 +5403,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Oslo" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book1f3a678b-6310-4b12-bbf0-148b07e9c3b2> a ns1:Book ;
+schema:Book1f3a678b-6310-4b12-bbf0-148b07e9c3b2 a ns1:Book ;
     ns1:author "Catherine Cuenca"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
     ns1:datePublished "2021"^^xsd:gYear ;
@@ -5414,7 +5413,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Talents Hauts" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book1fbadd0e-137b-4db4-b2bc-4e4d4fbde144> a ns1:Book ;
+schema:Book1fbadd0e-137b-4db4-b2bc-4e4d4fbde144 a ns1:Book ;
     ns1:author "Christine Naumann-Villemin"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2013"^^xsd:gYear ;
@@ -5424,7 +5423,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Kaléidoscope" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book2aa8318e-30a5-4d88-96b6-03715c1eeb10> a ns1:Book ;
+schema:Book2aa8318e-30a5-4d88-96b6-03715c1eeb10 a ns1:Book ;
     ns1:author "Amy Reed"^^xsd:string ;
     ns1:award "Prix Farniente : Chameau (15+)" ;
     ns1:datePublished "2020"^^xsd:gYear ;
@@ -5434,7 +5433,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Albin Michel" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book2b4a8672-6128-4bbd-9b54-47072272d4d7> a ns1:Book ;
+schema:Book2b4a8672-6128-4bbd-9b54-47072272d4d7 a ns1:Book ;
     ns1:author "Jon Klassen"^^xsd:string,
         "Sara Pennypacker"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -5445,7 +5444,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book2f8e1719-8e64-4e75-9f7b-79f5b704f401> a ns1:Book ;
+schema:Book2f8e1719-8e64-4e75-9f7b-79f5b704f401 a ns1:Book ;
     ns1:author "Sarah Cohen-Scali"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Lycée" ;
     ns1:datePublished "2020"^^xsd:gYear ;
@@ -5455,7 +5454,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Albin Michel Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book3519b05e-468b-41a4-a670-df4cda60b6cc> a ns1:Book ;
+schema:Book3519b05e-468b-41a4-a670-df4cda60b6cc a ns1:Book ;
     ns1:author "Michaël Escoffier"^^xsd:string,
         "Stéphane Sénégas"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -5466,7 +5465,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Frimousse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book35e1840e-9822-4019-9df5-9b7379a5dc2c> a ns1:Book ;
+schema:Book35e1840e-9822-4019-9df5-9b7379a5dc2c a ns1:Book ;
     ns1:author "David Solomons"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2017"^^xsd:gYear ;
@@ -5476,7 +5475,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book39b042ee-595c-4c7a-9076-4fa0ed03a26a> a ns1:Book ;
+schema:Book39b042ee-595c-4c7a-9076-4fa0ed03a26a a ns1:Book ;
     ns1:author "Nathalie Bernard"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
     ns1:datePublished "2020"^^xsd:gYear ;
@@ -5486,7 +5485,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Thierry Magnier" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book3b268c5e-49c2-4d6c-a2de-93277e8af68a> a ns1:Book ;
+schema:Book3b268c5e-49c2-4d6c-a2de-93277e8af68a a ns1:Book ;
     ns1:author "Ulysse Malassagne"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 11-14 Ans" ;
     ns1:datePublished "2015"^^xsd:gYear ;
@@ -5497,7 +5496,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Ankama" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book3b3e345b-007e-45b2-8b4f-c674c679dcd7> a ns1:Book ;
+schema:Book3b3e345b-007e-45b2-8b4f-c674c679dcd7 a ns1:Book ;
     ns1:author "Michael Morpurgo"^^xsd:string ;
     ns1:award "Prix Farniente : Une Basket" ;
     ns1:datePublished "2006"^^xsd:gYear ;
@@ -5507,7 +5506,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book3ef0b76d-27c7-4f6e-9dc1-28b0d0e96ee2> a ns1:Book ;
+schema:Book3ef0b76d-27c7-4f6e-9dc1-28b0d0e96ee2 a ns1:Book ;
     ns1:author "Ruta Sepetys"^^xsd:string ;
     ns1:award "Prix Farniente : Prix Evasion (15+)" ;
     ns1:datePublished "2018"^^xsd:gYear ;
@@ -5517,7 +5516,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-victor"^^xsd:string .
 
-<schema:Book3f4ee519-fbee-4a4e-a59c-7dbd7d07ce70> a ns1:Book ;
+schema:Book3f4ee519-fbee-4a4e-a59c-7dbd7d07ce70 a ns1:Book ;
     ns1:author "Anne Lecap"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
     ns1:datePublished "2011"^^xsd:gYear ;
@@ -5527,7 +5526,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Flammarion Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book42a22176-0d5c-4349-9e2a-b2a778f4cb3f> a ns1:Book ;
+schema:Book42a22176-0d5c-4349-9e2a-b2a778f4cb3f a ns1:Book ;
     ns1:author "Ronan Badel"^^xsd:string,
         "Valentine Goby"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
@@ -5538,7 +5537,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Autrement Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book456e143c-774d-4a0a-a09e-7680fb9da1af> a ns1:Book ;
+schema:Book456e143c-774d-4a0a-a09e-7680fb9da1af a ns1:Book ;
     ns1:author "Félix Delep"^^xsd:string,
         "Xavier Dorison"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 11-14 Ans" ;
@@ -5550,7 +5549,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Casterman" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book48770d0d-6a5d-4f12-8980-0324db6c86db> a ns1:Book ;
+schema:Book48770d0d-6a5d-4f12-8980-0324db6c86db a ns1:Book ;
     ns1:author "Gaëtan Dorémus"^^xsd:string,
         "Gilles Barraqué"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -5561,7 +5560,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Larousse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book4de3f805-07a4-42d5-8d07-c1d8b3ffaf4d> a ns1:Book ;
+schema:Book4de3f805-07a4-42d5-8d07-c1d8b3ffaf4d a ns1:Book ;
     ns1:author "Delphine de Vigan"^^xsd:string ;
     ns1:award "Prix Farniente : Deux Baskets" ;
     ns1:datePublished "2009"^^xsd:gYear ;
@@ -5571,7 +5570,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "JC Lattès" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book4e535af4-dc2a-41b7-b8bc-4e0e3b2c1b10> a ns1:Book ;
+schema:Book4e535af4-dc2a-41b7-b8bc-4e0e3b2c1b10 a ns1:Book ;
     ns1:author "Valérie Zenatti"^^xsd:string ;
     ns1:award "Prix Farniente : Deux Baskets" ;
     ns1:datePublished "2007"^^xsd:gYear ;
@@ -5581,7 +5580,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book4e8ff4e3-7d44-48df-95a7-4328ac1604b5> a ns1:Book ;
+schema:Book4e8ff4e3-7d44-48df-95a7-4328ac1604b5 a ns1:Book ;
     ns1:author "Jean-Paul Krassinsky"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 15-18 Ans" ;
     ns1:datePublished "2017"^^xsd:gYear ;
@@ -5592,7 +5591,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Casterman" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book4eae647a-cdf1-41d1-8e3a-5bb1c3e8af8d> a ns1:Book ;
+schema:Book4eae647a-cdf1-41d1-8e3a-5bb1c3e8af8d a ns1:Book ;
     ns1:author "Mikaël Thévenot"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
     ns1:datePublished "2019"^^xsd:gYear ;
@@ -5602,7 +5601,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Didier Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book4f180eb4-1de9-4cb4-b1c4-05d8603193ad> a ns1:Book ;
+schema:Book4f180eb4-1de9-4cb4-b1c4-05d8603193ad a ns1:Book ;
     ns1:author "Didier Daenickx"^^xsd:string,
         "Pef"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Cm2-6ème" ;
@@ -5613,7 +5612,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Rue Du Monde" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book513f6e25-bf67-40c2-b124-cf72a207d126> a ns1:Book ;
+schema:Book513f6e25-bf67-40c2-b124-cf72a207d126 a ns1:Book ;
     ns1:author "Jérôme Noirez"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
     ns1:datePublished "2012"^^xsd:gYear ;
@@ -5623,7 +5622,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gulf Stream" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book527b39b0-8e45-4c43-98db-4d20ae445b37> a ns1:Book ;
+schema:Book527b39b0-8e45-4c43-98db-4d20ae445b37 a ns1:Book ;
     ns1:author "Louperigot"^^xsd:string ;
     ns1:award "Prix Farniente : Une Basket" ;
     ns1:datePublished "2004"^^xsd:gYear ;
@@ -5633,7 +5632,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book52e05d25-61a7-42f5-b5bc-6161b9a83f81> a ns1:Book ;
+schema:Book52e05d25-61a7-42f5-b5bc-6161b9a83f81 a ns1:Book ;
     ns1:author "Béatrice Nicodème"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
     ns1:datePublished "2015"^^xsd:gYear ;
@@ -5643,7 +5642,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Nathan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book54759c9d-533f-4b36-85a2-9d7d1b78ad21> a ns1:Book ;
+schema:Book54759c9d-533f-4b36-85a2-9d7d1b78ad21 a ns1:Book ;
     ns1:author "Sophie de Mullenheim"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Cm2-6ème" ;
     ns1:datePublished "2021"^^xsd:gYear ;
@@ -5653,7 +5652,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Fleurus" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book56c7b083-3f9a-4b76-9fe1-0d4dbae3e702> a ns1:Book ;
+schema:Book56c7b083-3f9a-4b76-9fe1-0d4dbae3e702 a ns1:Book ;
     ns1:author "Erik l’Homme"^^xsd:string ;
     ns1:award "Prix Farniente : Deux Baskets" ;
     ns1:datePublished "2008"^^xsd:gYear ;
@@ -5663,7 +5662,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book57abdf7d-96d6-48fe-81a0-90a926f1b898> a ns1:Book ;
+schema:Book57abdf7d-96d6-48fe-81a0-90a926f1b898 a ns1:Book ;
     ns1:author "Michel Piquemal"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Cm2-6ème" ;
     ns1:datePublished "2016"^^xsd:gYear ;
@@ -5673,7 +5672,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Rue Du Monde" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book5c01c7ff-3eb3-4401-8929-24023e5429e9> a ns1:Book ;
+schema:Book5c01c7ff-3eb3-4401-8929-24023e5429e9 a ns1:Book ;
     ns1:author "Pascal Jousselin"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 11-14 Ans" ;
     ns1:datePublished "2018"^^xsd:gYear ;
@@ -5684,7 +5683,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Dupuis" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book5e04af4b-26d1-4e4f-b6e6-2e3d650f94c3> a ns1:Book ;
+schema:Book5e04af4b-26d1-4e4f-b6e6-2e3d650f94c3 a ns1:Book ;
     ns1:author "Françoise Pirart"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
     ns1:datePublished "2009"^^xsd:gYear ;
@@ -5694,7 +5693,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Milan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book5e05e8a7-40db-4d6c-88f7-9b7a68b180e0> a ns1:Book ;
+schema:Book5e05e8a7-40db-4d6c-88f7-9b7a68b180e0 a ns1:Book ;
     ns1:author "Carolin Philipps"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Jaune (13+)" ;
     ns1:datePublished "2014"^^xsd:gYear ;
@@ -5704,7 +5703,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Bayard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book5e37de6e-3ef3-4f2e-9dbf-d6c0ef7e2457> a ns1:Book ;
+schema:Book5e37de6e-3ef3-4f2e-9dbf-d6c0ef7e2457 a ns1:Book ;
     ns1:author "Chris Grabenstein"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2019"^^xsd:gYear ;
@@ -5714,7 +5713,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Milan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book5f5ebcbc-d786-4e45-8c3c-805aeff63b9f> a ns1:Book ;
+schema:Book5f5ebcbc-d786-4e45-8c3c-805aeff63b9f a ns1:Book ;
     ns1:author "Aude Picault"^^xsd:string,
         "Fabrice Parme"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 11-14 Ans" ;
@@ -5726,7 +5725,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Dargaud" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book61496bae-51af-48ac-b2f5-f6ef6e5c6c23> a ns1:Book ;
+schema:Book61496bae-51af-48ac-b2f5-f6ef6e5c6c23 a ns1:Book ;
     ns1:author "Fabcaro"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 15-18 Ans" ;
     ns1:datePublished "2016"^^xsd:gYear ;
@@ -5737,7 +5736,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Six Pieds Sous Terre" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book61dbdc9a-88d7-42e9-9d77-1b1f38f2438a> a ns1:Book ;
+schema:Book61dbdc9a-88d7-42e9-9d77-1b1f38f2438a a ns1:Book ;
     ns1:author "Françoise Jay"^^xsd:string ;
     ns1:award "Prix Farniente : Une Basket" ;
     ns1:datePublished "2011"^^xsd:gYear ;
@@ -5747,7 +5746,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Plon" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book62d83046-4e87-4e0c-bad5-26d73d78b932> a ns1:Book ;
+schema:Book62d83046-4e87-4e0c-bad5-26d73d78b932 a ns1:Book ;
     ns1:author "Carl Hiaasen"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2011"^^xsd:gYear ;
@@ -5757,7 +5756,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book689eab95-7f16-4e5a-a705-d79a769d29d1> a ns1:Book ;
+schema:Book689eab95-7f16-4e5a-a705-d79a769d29d1 a ns1:Book ;
     ns1:author "Sarah K" ;
     ns1:award "Prix Farniente : Deux Baskets" ;
     ns1:datePublished "2004"^^xsd:gYear ;
@@ -5767,7 +5766,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Flammarion" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book6ae33b4f-80fb-4db4-87ef-2714ad6d860d> a ns1:Book ;
+schema:Book6ae33b4f-80fb-4db4-87ef-2714ad6d860d a ns1:Book ;
     ns1:author "Philippe Nessmann"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
     ns1:datePublished "2021"^^xsd:gYear ;
@@ -5777,7 +5776,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Flammarion Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book6b7ed933-9f48-4523-9b0d-26d4c8601025> a ns1:Book ;
+schema:Book6b7ed933-9f48-4523-9b0d-26d4c8601025 a ns1:Book ;
     ns1:author "Philippe Reeve"^^xsd:string,
         "Sarah McIntyre"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -5788,7 +5787,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Seuil" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book6c048d83-5d4b-4763-95b9-8e97f3827252> a ns1:Book ;
+schema:Book6c048d83-5d4b-4763-95b9-8e97f3827252 a ns1:Book ;
     ns1:author "David de Thuin"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 11-14 Ans" ;
     ns1:datePublished "2017"^^xsd:gYear ;
@@ -5799,7 +5798,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Glénat" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book6ce09e7f-31c1-45ae-9c5e-6c1eb7d01304> a ns1:Book ;
+schema:Book6ce09e7f-31c1-45ae-9c5e-6c1eb7d01304 a ns1:Book ;
     ns1:author "Lois Lowry"^^xsd:string ;
     ns1:award "Prix Farniente : Une Basket" ;
     ns1:datePublished "2000"^^xsd:gYear ;
@@ -5809,7 +5808,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book6e0deca2-8f78-44c6-b09c-d8c901fdafed> a ns1:Book ;
+schema:Book6e0deca2-8f78-44c6-b09c-d8c901fdafed a ns1:Book ;
     ns1:author "Marie-Aude Murail"^^xsd:string ;
     ns1:award "Prix Farniente : Une Basket" ;
     ns1:datePublished "2001"^^xsd:gYear ;
@@ -5819,7 +5818,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book6e32b04f-cabb-4b8a-83db-4146b8c11b24> a ns1:Book ;
+schema:Book6e32b04f-cabb-4b8a-83db-4146b8c11b24 a ns1:Book ;
     ns1:author "Charlotte Moundlic"^^xsd:string,
         "Olivier Tallec"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -5830,7 +5829,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Père Castor Flammarion" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book6f2e430e-0e01-487b-95a9-689a3e9a55a5> a ns1:Book ;
+schema:Book6f2e430e-0e01-487b-95a9-689a3e9a55a5 a ns1:Book ;
     ns1:author "Gary D. Schmidt"^^xsd:string ;
     ns1:award "Prix Farniente : Sélection Jaune (13+)" ;
     ns1:datePublished "2021"^^xsd:gYear ;
@@ -5840,7 +5839,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Bayard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-franco-allemand-pour-la-litterature-de-jeunesse"^^xsd:string .
 
-<schema:Book70218e26-2ab0-447a-8d27-2ccaf405c6ce> a ns1:Book ;
+schema:Book70218e26-2ab0-447a-8d27-2ccaf405c6ce a ns1:Book ;
     ns1:author "Davy Mourier"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 15-18 Ans" ;
     ns1:datePublished "2015"^^xsd:gYear ;
@@ -5851,7 +5850,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Delcourt" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book779be1fc-75e9-48d1-976a-37ab46420651> a ns1:Book ;
+schema:Book779be1fc-75e9-48d1-976a-37ab46420651 a ns1:Book ;
     ns1:author "Max de Radigues"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 11-14 Ans" ;
     ns1:datePublished "2012"^^xsd:gYear ;
@@ -5862,7 +5861,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Sarbacane" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book7a6f0f62-3b8f-4b07-b066-3f42c2f601a9> a ns1:Book ;
+schema:Book7a6f0f62-3b8f-4b07-b066-3f42c2f601a9 a ns1:Book ;
     ns1:author "Clémence Pollet"^^xsd:string,
         "Hélène Vignal"^^xsd:string ;
     ns1:award "Prix Du 1èr Album" ;
@@ -5873,7 +5872,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Le Rouergue" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-1er-album"^^xsd:string .
 
-<schema:Book7d1f0dc7-2dd4-4c1e-9d5f-aa1d7322e73d> a ns1:Book ;
+schema:Book7d1f0dc7-2dd4-4c1e-9d5f-aa1d7322e73d a ns1:Book ;
     ns1:author "Sophie de Mullenheim"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Cm2-6ème" ;
     ns1:datePublished "2018"^^xsd:gYear ;
@@ -5883,7 +5882,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Fleurus" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book81b2b7cc-732c-4323-a5a9-5a83dd501542> a ns1:Book ;
+schema:Book81b2b7cc-732c-4323-a5a9-5a83dd501542 a ns1:Book ;
     ns1:author "Anne Fine"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Verte (15+)" ;
     ns1:datePublished "2017"^^xsd:gYear ;
@@ -5893,7 +5892,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book8778ea47-c3b3-4562-a4c6-6959ad2319fc> a ns1:Book ;
+schema:Book8778ea47-c3b3-4562-a4c6-6959ad2319fc a ns1:Book ;
     ns1:author "Sylvain Victor"^^xsd:string,
         "Yves Grevet"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -5905,7 +5904,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Thierry Magnier" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book88e1188a-7ee2-4b7f-8549-3e601d946e8f> a ns1:Book ;
+schema:Book88e1188a-7ee2-4b7f-8549-3e601d946e8f a ns1:Book ;
     ns1:author "Emily Barr"^^xsd:string ;
     ns1:award "Prix Farniente : Prix Victor (13+)" ;
     ns1:datePublished "2019"^^xsd:gYear ;
@@ -5915,7 +5914,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Casterman" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-victor"^^xsd:string .
 
-<schema:Book8bcfe80d-0537-4f9a-82cd-b3a2a9e9d335> a ns1:Book ;
+schema:Book8bcfe80d-0537-4f9a-82cd-b3a2a9e9d335 a ns1:Book ;
     ns1:author "Adeline Yzac"^^xsd:string,
         "Montse Gisbert"^^xsd:string ;
     ns1:award "Prix Enfantaisie" ;
@@ -5926,7 +5925,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Alice Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book8e4d6c47-7557-4956-9066-3fdaae27de25> a ns1:Book ;
+schema:Book8e4d6c47-7557-4956-9066-3fdaae27de25 a ns1:Book ;
     ns1:author "Max Ducos"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2015"^^xsd:gYear ;
@@ -5936,7 +5935,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Sarbacane" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book90a7ce07-2d1e-4b39-9ee0-d5e1367d9367> a ns1:Book ;
+schema:Book90a7ce07-2d1e-4b39-9ee0-d5e1367d9367 a ns1:Book ;
     ns1:author "Marie Colot"^^xsd:string,
         "Nancy Guilbert"^^xsd:string ;
     ns1:award "Prix Farniente : Dromadaire (13+)" ;
@@ -5947,7 +5946,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Magnard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book915bb2f3-ae35-419e-bfe6-07b8a35edec3> a ns1:Book ;
+schema:Book915bb2f3-ae35-419e-bfe6-07b8a35edec3 a ns1:Book ;
     ns1:author "Gilles Bachelet"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2022"^^xsd:gYear ;
@@ -5957,7 +5956,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Seuil Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Book96c372b6-8c55-4a8c-88e2-53fda6f60a2a> a ns1:Book ;
+schema:Book96c372b6-8c55-4a8c-88e2-53fda6f60a2a a ns1:Book ;
     ns1:author "Elise Fontenaille"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Cm2-6ème" ;
     ns1:datePublished "2020"^^xsd:gYear ;
@@ -5967,7 +5966,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Rouergue" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book97b8d1f6-2a6f-4b5c-9e37-c745f55fd49f> a ns1:Book ;
+schema:Book97b8d1f6-2a6f-4b5c-9e37-c745f55fd49f a ns1:Book ;
     ns1:author "Alec Longstreth"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 15-18 Ans" ;
     ns1:datePublished "2014"^^xsd:gYear ;
@@ -5978,7 +5977,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "L'Employé Du Moi" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book99a3c9a2-145e-4916-9b09-963ab4e5e6e3> a ns1:Book ;
+schema:Book99a3c9a2-145e-4916-9b09-963ab4e5e6e3 a ns1:Book ;
     ns1:author "Susin Nielsen"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Jaune (13+)" ;
     ns1:datePublished "2017"^^xsd:gYear ;
@@ -5988,7 +5987,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Hélium" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Book9c1e052f-8daa-4649-8f56-c88b3b26271b> a ns1:Book ;
+schema:Book9c1e052f-8daa-4649-8f56-c88b3b26271b a ns1:Book ;
     ns1:author "Florence Cadier"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
     ns1:datePublished "2009"^^xsd:gYear ;
@@ -5998,7 +5997,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Book9c2f0b24-7b67-476a-96e3-5902df72f5d7> a ns1:Book ;
+schema:Book9c2f0b24-7b67-476a-96e3-5902df72f5d7 a ns1:Book ;
     ns1:author "Christian Simon"^^xsd:string,
         "Erkol"^^xsd:string,
         "Fabrizio Cosentino"^^xsd:string ;
@@ -6011,7 +6010,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Kamiti" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book9c785a9d-2c60-43e3-9d7e-d3d18be54b8b> a ns1:Book ;
+schema:Book9c785a9d-2c60-43e3-9d7e-d3d18be54b8b a ns1:Book ;
     ns1:author "Brüno"^^xsd:string,
         "Fabien Nury"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 15-18 Ans" ;
@@ -6023,7 +6022,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Dargaud" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Book9e3c9c0f-33c6-48e1-9a10-0dcbf5d773ac> a ns1:Book ;
+schema:Book9e3c9c0f-33c6-48e1-9a10-0dcbf5d773ac a ns1:Book ;
     ns1:author "Jo Witek"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Verte (15+)" ;
     ns1:datePublished "2016"^^xsd:gYear ;
@@ -6033,7 +6032,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Acte Sud Junior" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Booka0b0eaf3-dfb7-4f5b-b938-9ebd84d0beaa> a ns1:Book ;
+schema:Booka0b0eaf3-dfb7-4f5b-b938-9ebd84d0beaa a ns1:Book ;
     ns1:author "Rémi Stefani"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2014"^^xsd:gYear ;
@@ -6043,7 +6042,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Rageot" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Booka2be623c-3800-4e23-9f29-7e5d78f9d666> a ns1:Book ;
+schema:Booka2be623c-3800-4e23-9f29-7e5d78f9d666 a ns1:Book ;
     ns1:author "Kate Klise"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2013"^^xsd:gYear ;
@@ -6053,7 +6052,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Albin Michel Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Booka39f2602-317f-49a9-bb7e-6d4af58cfd7e> a ns1:Book ;
+schema:Booka39f2602-317f-49a9-bb7e-6d4af58cfd7e a ns1:Book ;
     ns1:author "Béatrice Nicodème"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
     ns1:datePublished "2019"^^xsd:gYear ;
@@ -6063,7 +6062,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gulf Stream" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Booka3b30917-91d1-48d9-b868-167b5f261609> a ns1:Book ;
+schema:Booka3b30917-91d1-48d9-b868-167b5f261609 a ns1:Book ;
     ns1:author "Alexandra Huard"^^xsd:string,
         "Didier Lévy"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -6074,7 +6073,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Sarbacane" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Booka5dbf3b4-3647-4f09-939f-ee30d76e95c7> a ns1:Book ;
+schema:Booka5dbf3b4-3647-4f09-939f-ee30d76e95c7 a ns1:Book ;
     ns1:author "Chris Mould"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2012"^^xsd:gYear ;
@@ -6084,7 +6083,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Bayard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Booka85df64d-2f8c-46f0-a8f0-9af779f94b47> a ns1:Book ;
+schema:Booka85df64d-2f8c-46f0-a8f0-9af779f94b47 a ns1:Book ;
     ns1:author "Sylvie Baussier"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
     ns1:datePublished "2013"^^xsd:gYear ;
@@ -6094,7 +6093,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Oskar Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Booka8a1a6cc-b083-4a1a-8808-59eb6a2287f6> a ns1:Book ;
+schema:Booka8a1a6cc-b083-4a1a-8808-59eb6a2287f6 a ns1:Book ;
     ns1:author "Alain Grousset"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Cm2-6ème" ;
     ns1:datePublished "2014"^^xsd:gYear ;
@@ -6104,7 +6103,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Nathan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Booka9e38142-4fc5-4f2c-b13c-529b2e10e84d> a ns1:Book ;
+schema:Booka9e38142-4fc5-4f2c-b13c-529b2e10e84d a ns1:Book ;
     ns1:author "Mathieu Bablet"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 15-18 Ans" ;
     ns1:datePublished "2018"^^xsd:gYear ;
@@ -6115,7 +6114,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Ankama" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Bookaadeb27b-6749-4a3a-aa9b-927d84085be5> a ns1:Book ;
+schema:Bookaadeb27b-6749-4a3a-aa9b-927d84085be5 a ns1:Book ;
     ns1:author "Vivian Koenig"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Cm2-6ème" ;
     ns1:datePublished "2009"^^xsd:gYear ;
@@ -6125,7 +6124,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Le Livre De Poche Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookab6e07e0-4bb4-4bb3-9a32-ff7e7bea791e> a ns1:Book ;
+schema:Bookab6e07e0-4bb4-4bb3-9a32-ff7e7bea791e a ns1:Book ;
     ns1:author "Thierry Robberecht"^^xsd:string ;
     ns1:award "Prix Farniente : Une Basket" ;
     ns1:datePublished "2012"^^xsd:gYear ;
@@ -6135,7 +6134,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Rat Noir Syros" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookaf48a4e9-16bc-4e50-a450-530956ce4fd6> a ns1:Book ;
+schema:Bookaf48a4e9-16bc-4e50-a450-530956ce4fd6 a ns1:Book ;
     ns1:author "Mikaël Ollivier"^^xsd:string ;
     ns1:award "Prix Farniente : Deux Baskets" ;
     ns1:datePublished "2005"^^xsd:gYear ;
@@ -6145,7 +6144,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Thierry Magnier" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookaf803b84-32d3-4f70-852f-4a8c38b54270> a ns1:Book ;
+schema:Bookaf803b84-32d3-4f70-852f-4a8c38b54270 a ns1:Book ;
     ns1:author "Marie-Aude Murail"^^xsd:string ;
     ns1:award "Prix Farniente : Deux Baskets" ;
     ns1:datePublished "2006"^^xsd:gYear ;
@@ -6155,7 +6154,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "L'École Des Loisirs" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookb0a52579-2eaa-4c6c-b5e9-d0dd7a92c5ff> a ns1:Book ;
+schema:Bookb0a52579-2eaa-4c6c-b5e9-d0dd7a92c5ff a ns1:Book ;
     ns1:author "Albertine"^^xsd:string,
         "Germano Zullo"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -6166,7 +6165,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "La Joie De Lire" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Bookb2145ae9-60a3-4dc1-bc46-6f9e8e707c7b> a ns1:Book ;
+schema:Bookb2145ae9-60a3-4dc1-bc46-6f9e8e707c7b a ns1:Book ;
     ns1:author "Gipi"^^xsd:string,
         "Luigi Critone"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 15-18 Ans" ;
@@ -6178,7 +6177,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Casterman" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Bookb41414d9-36c3-43ad-94b0-60c65a1fb123> a ns1:Book ;
+schema:Bookb41414d9-36c3-43ad-94b0-60c65a1fb123 a ns1:Book ;
     ns1:author "Coline Pierré"^^xsd:string,
         "Marine Carteron"^^xsd:string ;
     ns1:award "Prix Farniente : Sélection Jaune (13+)" ;
@@ -6189,7 +6188,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Rouergue" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-franco-allemand-pour-la-litterature-de-jeunesse"^^xsd:string .
 
-<schema:Bookb41414d9-36c3-43ad-94b0-60c65a1fb456> a ns1:Book ;
+schema:Bookb41414d9-36c3-43ad-94b0-60c65a1fb456 a ns1:Book ;
     ns1:author "Kim Liggett"^^xsd:string ;
     ns1:award "Prix Farniente : Sélection Verte (15+)" ;
     ns1:datePublished "2022"^^xsd:gYear ;
@@ -6199,7 +6198,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Casterman" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-franco-allemand-pour-la-litterature-de-jeunesse"^^xsd:string .
 
-<schema:Bookb539a032-d6b2-487b-95a1-0b1da07dd45e> a ns1:Book ;
+schema:Bookb539a032-d6b2-487b-95a1-0b1da07dd45e a ns1:Book ;
     ns1:author "David Stahler Jr"^^xsd:string ;
     ns1:award "Prix Farniente : Une Basket" ;
     ns1:datePublished "2010"^^xsd:gYear ;
@@ -6209,7 +6208,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Flammarion" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookb647fbdd-148d-44ef-9619-22c3a2a470bc> a ns1:Book ;
+schema:Bookb647fbdd-148d-44ef-9619-22c3a2a470bc a ns1:Book ;
     ns1:author "Alain Surget"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2008"^^xsd:gYear ;
@@ -6219,7 +6218,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Flammarion" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Bookb6e1f45e-548a-4fb7-98a3-9f9bcdb29b44> a ns1:Book ;
+schema:Bookb6e1f45e-548a-4fb7-98a3-9f9bcdb29b44 a ns1:Book ;
     ns1:author "Anouk Ricard"^^xsd:string,
         "Etienne Chaize"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 11-14 Ans" ;
@@ -6231,7 +6230,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Les Éditions Fei" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Bookbc037831-bc6b-4b82-8b0e-af47e770ef74> a ns1:Book ;
+schema:Bookbc037831-bc6b-4b82-8b0e-af47e770ef74 a ns1:Book ;
     ns1:author "Hicham Charif"^^xsd:string ;
     ns1:award "Prix Farniente : Une Basket" ;
     ns1:datePublished "2008"^^xsd:gYear ;
@@ -6241,7 +6240,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Le Navire En Pleine Ville" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookbf2c7a4c-2e7f-46e6-8ef5-5c60947638a2> a ns1:Book ;
+schema:Bookbf2c7a4c-2e7f-46e6-8ef5-5c60947638a2 a ns1:Book ;
     ns1:author "Louis Sachar"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2010"^^xsd:gYear ;
@@ -6251,7 +6250,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Bayard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Bookbfa7913f-0daa-46a1-868e-08f144545e1b> a ns1:Book ;
+schema:Bookbfa7913f-0daa-46a1-868e-08f144545e1b a ns1:Book ;
     ns1:author "Marie Dorléans"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2017"^^xsd:gYear ;
@@ -6261,7 +6260,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Sarbacane" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Bookc14400c5-8e6d-447e-a9be-bfb65d7e99c3> a ns1:Book ;
+schema:Bookc14400c5-8e6d-447e-a9be-bfb65d7e99c3 a ns1:Book ;
     ns1:author "Jérôme Noirez"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
     ns1:datePublished "2013"^^xsd:gYear ;
@@ -6271,7 +6270,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookc26559e3-34a0-4750-8a4e-8f1ee4a33da3> a ns1:Book ;
+schema:Bookc26559e3-34a0-4750-8a4e-8f1ee4a33da3 a ns1:Book ;
     ns1:author "Loup Michiels"^^xsd:string,
         "Mathieu Burniat"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 15-18 Ans" ;
@@ -6283,7 +6282,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Dargaud" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Bookc2e3b89f-7e0f-4fd2-b5a5-3b516a72e174> a ns1:Book ;
+schema:Bookc2e3b89f-7e0f-4fd2-b5a5-3b516a72e174 a ns1:Book ;
     ns1:author "Delphine Perret"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2019"^^xsd:gYear ;
@@ -6293,7 +6292,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Les Fourmis Rouges" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Bookc4826872-1fcd-43cc-a473-bd33460d01e5> a ns1:Book ;
+schema:Bookc4826872-1fcd-43cc-a473-bd33460d01e5 a ns1:Book ;
     ns1:author "Christiant Léourier"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
     ns1:datePublished "2014"^^xsd:gYear ;
@@ -6303,7 +6302,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Bayard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookc4c24f85-734f-4389-9cbb-6c4ad1ae26b5> a ns1:Book ;
+schema:Bookc4c24f85-734f-4389-9cbb-6c4ad1ae26b5 a ns1:Book ;
     ns1:author "Gwenaële Barussaud"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
     ns1:datePublished "2018"^^xsd:gYear ;
@@ -6313,7 +6312,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Rageot" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookc52ef14b-68a5-4f8c-b67d-894af98e703d> a ns1:Book ;
+schema:Bookc52ef14b-68a5-4f8c-b67d-894af98e703d a ns1:Book ;
     ns1:author "Anne Cassidy"^^xsd:string ;
     ns1:award "Prix Farniente : Deux Baskets" ;
     ns1:datePublished "2008"^^xsd:gYear ;
@@ -6323,7 +6322,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Milan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookc5c7b8be-18cd-4a4b-a129-06237d968a6f> a ns1:Book ;
+schema:Bookc5c7b8be-18cd-4a4b-a129-06237d968a6f a ns1:Book ;
     ns1:author "Anne-Lise Heurtier"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Jaune (13+)" ;
     ns1:datePublished "2016"^^xsd:gYear ;
@@ -6333,7 +6332,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Casterman Poche" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookc61620e1-0670-4e56-aebe-77b0f72969a1> a ns1:Book ;
+schema:Bookc61620e1-0670-4e56-aebe-77b0f72969a1 a ns1:Book ;
     ns1:author "Hubert Ben Kemoun"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Jaune (13+)" ;
     ns1:datePublished "2015"^^xsd:gYear ;
@@ -6343,7 +6342,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Flammarion" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookc64a81b0-d6d7-43b3-80f0-7160a3cbf81e> a ns1:Book ;
+schema:Bookc64a81b0-d6d7-43b3-80f0-7160a3cbf81e a ns1:Book ;
     ns1:author "François-Guillaume Lorrain"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
     ns1:datePublished "2017"^^xsd:gYear ;
@@ -6353,7 +6352,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Sarbacane" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookc9d6e0fd-3d68-4102-aa53-af48b3b3ea1b> a ns1:Book ;
+schema:Bookc9d6e0fd-3d68-4102-aa53-af48b3b3ea1b a ns1:Book ;
     ns1:author "Marine Carteron"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2020"^^xsd:gYear ;
@@ -6363,7 +6362,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Rouergue" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Bookca0fc3f1-0e9e-4b79-81e2-19e3728e5151> a ns1:Book ;
+schema:Bookca0fc3f1-0e9e-4b79-81e2-19e3728e5151 a ns1:Book ;
     ns1:author "Jean-Claude Mourlevat"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Jaune (13+)" ;
     ns1:datePublished "2013"^^xsd:gYear ;
@@ -6373,7 +6372,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookcc129bcf-cf0f-44d3-8e41-c60eb21a8a92> a ns1:Book ;
+schema:Bookcc129bcf-cf0f-44d3-8e41-c60eb21a8a92 a ns1:Book ;
     ns1:author "Alexandrine Civard-Racinais"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Cm2-6ème" ;
     ns1:datePublished "2017"^^xsd:gYear ;
@@ -6383,7 +6382,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Belin Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookd0e18939-11b2-413d-bcd0-f77c607d8d61> a ns1:Book ;
+schema:Bookd0e18939-11b2-413d-bcd0-f77c607d8d61 a ns1:Book ;
     ns1:author "Serge Rubin"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
     ns1:datePublished "2017"^^xsd:gYear ;
@@ -6393,7 +6392,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Talents Hauts" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookd6b2d5fe-7036-47c5-ae0a-3d8a74aece2b> a ns1:Book ;
+schema:Bookd6b2d5fe-7036-47c5-ae0a-3d8a74aece2b a ns1:Book ;
     ns1:author "Edith"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 11-14 Ans" ;
     ns1:datePublished "2016"^^xsd:gYear ;
@@ -6404,7 +6403,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Soleil" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Bookd784f9c6-7a4f-4f57-9f99-6e1135bda5fb> a ns1:Book ;
+schema:Bookd784f9c6-7a4f-4f57-9f99-6e1135bda5fb a ns1:Book ;
     ns1:author "Françoise Dargent"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
     ns1:datePublished "2016"^^xsd:gYear ;
@@ -6414,7 +6413,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Hachette Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookd7ef4528-4375-46a4-950b-9037c4fd8e3a> a ns1:Book ;
+schema:Bookd7ef4528-4375-46a4-950b-9037c4fd8e3a a ns1:Book ;
     ns1:author "Cathy Ytak"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Cm2-6ème" ;
     ns1:datePublished "2019"^^xsd:gYear ;
@@ -6424,7 +6423,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Talents Hauts" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookd7fd4d38-4cda-4c7b-b9ef-7a48ef4d855e> a ns1:Book ;
+schema:Bookd7fd4d38-4cda-4c7b-b9ef-7a48ef4d855e a ns1:Book ;
     ns1:author "J.J. Johnson"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Orange" ;
     ns1:datePublished "2016"^^xsd:gYear ;
@@ -6434,7 +6433,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Alice Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookd86e4573-67b0-4e19-bfc2-df3a27e3a92d> a ns1:Book ;
+schema:Bookd86e4573-67b0-4e19-bfc2-df3a27e3a92d a ns1:Book ;
     ns1:author "Stéphane Servant"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Orange" ;
     ns1:datePublished "2015"^^xsd:gYear ;
@@ -6444,7 +6443,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Le Rouergue" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookd996bb96-9b17-4d76-98ae-7b1d524e45a5> a ns1:Book ;
+schema:Bookd996bb96-9b17-4d76-98ae-7b1d524e45a5 a ns1:Book ;
     ns1:author "Camille Brissot"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2021"^^xsd:gYear ;
@@ -6454,7 +6453,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Syros" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Bookdcd4ed9e-7b7e-4e45-a91b-d5e4ef42b5c1> a ns1:Book ;
+schema:Bookdcd4ed9e-7b7e-4e45-a91b-d5e4ef42b5c1 a ns1:Book ;
     ns1:author "Bannister"^^xsd:string,
         "Grimaldi"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 11-14 Ans" ;
@@ -6466,7 +6465,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Glénat" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Bookdce59833-977f-4e43-9fe4-270e6f1f6670> a ns1:Book ;
+schema:Bookdce59833-977f-4e43-9fe4-270e6f1f6670 a ns1:Book ;
     ns1:author "Lynda Corazza"^^xsd:string,
         "Philippe Besnier"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -6477,7 +6476,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Le Rouergue" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Bookdd10e9c4-18db-4f77-a17f-fa23581ea81b> a ns1:Book ;
+schema:Bookdd10e9c4-18db-4f77-a17f-fa23581ea81b a ns1:Book ;
     ns1:author "Jean-Marie Defossez"^^xsd:string ;
     ns1:award "Prix Farniente : Une Basket" ;
     ns1:datePublished "2007"^^xsd:gYear ;
@@ -6487,7 +6486,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Flammarion" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Booke6409dc5-3940-4a44-947d-d4f73723d90e> a ns1:Book ;
+schema:Booke6409dc5-3940-4a44-947d-d4f73723d90e a ns1:Book ;
     ns1:author "Antonin Louchard"^^xsd:string,
         "Paul Martin"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -6498,7 +6497,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Seuil Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Booke678a6ae-bcd4-45b9-914d-3fd4b5d4be32> a ns1:Book ;
+schema:Booke678a6ae-bcd4-45b9-914d-3fd4b5d4be32 a ns1:Book ;
     ns1:author "M. G. Leonard"^^xsd:string,
         "Sam Sedgman"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -6509,7 +6508,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Nathan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Bookf1252589-14fb-43c7-97b7-708a6c70b8f7> a ns1:Book ;
+schema:Bookf1252589-14fb-43c7-97b7-708a6c70b8f7 a ns1:Book ;
     ns1:author "Ghislaine Herbéra"^^xsd:string ;
     ns1:award "Prix Du 1èr Album" ;
     ns1:datePublished "2010"^^xsd:gYear ;
@@ -6519,7 +6518,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Les Éditions Fei" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-1er-album"^^xsd:string .
 
-<schema:Bookf36c5f70-6206-4f0f-865f-d0a2efb87a7a> a ns1:Book ;
+schema:Bookf36c5f70-6206-4f0f-865f-d0a2efb87a7a a ns1:Book ;
     ns1:author "Gerry Alanguilan"^^xsd:string ;
     ns1:award "Prix Bulles De Cristal : Catégorie Des 15-18 Ans" ;
     ns1:datePublished "2012"^^xsd:gYear ;
@@ -6530,7 +6529,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Ca Et Là" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
-<schema:Bookf3a6aeb3-7dbf-4c29-96a6-c2178f63f759> a ns1:Book ;
+schema:Bookf3a6aeb3-7dbf-4c29-96a6-c2178f63f759 a ns1:Book ;
     ns1:author "Hamel Goulven"^^xsd:string,
         "Laurence Schaak"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
@@ -6541,7 +6540,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Nathan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookf6eb027e-3d81-4df0-92da-7e32b5b38459> a ns1:Book ;
+schema:Bookf6eb027e-3d81-4df0-92da-7e32b5b38459 a ns1:Book ;
     ns1:author "Lucy Christopher"^^xsd:string ;
     ns1:award "Prix Farniente : Deux Baskets" ;
     ns1:datePublished "2012"^^xsd:gYear ;
@@ -6551,7 +6550,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookf8a45d8d-6aae-41d4-aebe-181fb7516b40> a ns1:Book ;
+schema:Bookf8a45d8d-6aae-41d4-aebe-181fb7516b40 a ns1:Book ;
     ns1:author "Stéphane Tamaillon"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
     ns1:datePublished "2010"^^xsd:gYear ;
@@ -6561,7 +6560,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Seuil Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookf912be62-5ef8-4167-b0c1-417a4b1e0387> a ns1:Book ;
+schema:Bookf912be62-5ef8-4167-b0c1-417a4b1e0387 a ns1:Book ;
     ns1:author "Christel Mouchard"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
     ns1:datePublished "2015"^^xsd:gYear ;
@@ -6571,7 +6570,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Flammarion Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookf9e457a2-57d9-4e0c-a6d3-fa15732a0f12> a ns1:Book ;
+schema:Bookf9e457a2-57d9-4e0c-a6d3-fa15732a0f12 a ns1:Book ;
     ns1:author "Christian Grenier"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Cm2-6ème" ;
     ns1:datePublished "2013"^^xsd:gYear ;
@@ -6581,7 +6580,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Bayard" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookfcb291fd-d9f3-4844-b383-7f6c8b894930> a ns1:Book ;
+schema:Bookfcb291fd-d9f3-4844-b383-7f6c8b894930 a ns1:Book ;
     ns1:author "Séverine Huguet"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
     ns1:datePublished "2021"^^xsd:gYear ;
@@ -6591,7 +6590,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Talents Hauts" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Bookfcff0d20-d716-49cf-a96b-f5c8a6cfcc90> a ns1:Book ;
+schema:Bookfcff0d20-d716-49cf-a96b-f5c8a6cfcc90 a ns1:Book ;
     ns1:author "Philippe Arnaud"^^xsd:string ;
     ns1:award "Prix Farniente : Sélection Verte (15+)" ;
     ns1:datePublished "2021"^^xsd:gYear ;
@@ -6601,7 +6600,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Sarbacane" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente" .
 
-<schema:Bookfd6f882c-1d36-4039-b259-cc197cb0c8e7> a ns1:Book ;
+schema:Bookfd6f882c-1d36-4039-b259-cc197cb0c8e7 a ns1:Book ;
     ns1:author "Patrick Ness"^^xsd:string ;
     ns1:award "Prix Farniente : Basket Verte (15+)" ;
     ns1:datePublished "2014"^^xsd:gYear ;
@@ -6611,7 +6610,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Gallimard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
-<schema:Bookfe18f667-7a30-46a1-82d6-212b98a3fe2e> a ns1:Book ;
+schema:Bookfe18f667-7a30-46a1-82d6-212b98a3fe2e a ns1:Book ;
     ns1:author "Christophe Lambert"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : Cm2-6ème" ;
     ns1:datePublished "2011"^^xsd:gYear ;
@@ -6621,7 +6620,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Bayard Jeunesse" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-<schema:Bookfef7da8b-5159-4a8c-8744-6708d9dd23e3> a ns1:Book ;
+schema:Bookfef7da8b-5159-4a8c-8744-6708d9dd23e3 a ns1:Book ;
     ns1:author "Clémentine Beauvais"^^xsd:string,
         "Eglantine Ceulemans"^^xsd:string ;
     ns1:award "Prix Enfantaisie : Catégorie Album" ;
@@ -6632,7 +6631,7 @@ schema:Bookff46c108-89fe-4eff-b7c3-05856f464820 a ns1:Book ;
     ns1:publisher "Sarbacane" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
-<schema:Bookff5d9f8b-4a08-4e83-982f-842d0a32a724> a ns1:Book ;
+schema:Bookff5d9f8b-4a08-4e83-982f-842d0a32a724 a ns1:Book ;
     ns1:author "Sophie Humann"^^xsd:string ;
     ns1:award "Prix Du Roman Historique Jeunesse : 5ème-4ème" ;
     ns1:datePublished "2020"^^xsd:gYear ;
