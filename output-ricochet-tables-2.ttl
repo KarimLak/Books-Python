@@ -5448,5 +5448,1615 @@ schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35f4 a schema:Book ;
     schema:datePublished "2008"^^xsd:gYear ;
     schema:inLanguage "Francais"^^xsd:string .
 
+# Lauréat 2018
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35fa a schema:Book ;
+    schema:author "Martin Page et Coline Pierré"^^xsd:string ;
+    schema:name "La folle rencontre de Flora et Max"^^xsd:string ;
+    schema:publisher "L'Ecole des loisirs" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2018"^^xsd:gYear .
+
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35fb a schema:Book ;
+    schema:author "Muriel Zürcher"^^xsd:string ;
+    schema:name "Robin des graffs"^^xsd:string ;
+    schema:publisher "Thierry Magnier" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2018"^^xsd:gYear .
+
+# Lauréat 2017
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35fc a schema:Book ;
+    schema:author "Jeanne-A Debats"^^xsd:string ;
+    schema:name "Pixel noir"^^xsd:string ;
+    schema:publisher "Syros" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2017"^^xsd:gYear .
+
+# Lauréat 2016
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35fd a schema:Book ;
+    schema:author "Anne Fine"^^xsd:string ;
+    schema:name "Le passage du diable"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2016"^^xsd:gYear .
+
+# Lauréat 2015
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35fe a schema:Book ;
+    schema:author "Elizabeth Atkinson"^^xsd:string ;
+    schema:name "Je suis un phénomène"^^xsd:string ;
+    schema:publisher "Alice jeunesse" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2015"^^xsd:gYear .
+
+# Lauréat 2014
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35ff a schema:Book ;
+    schema:author "Malorie Blackman"^^xsd:string ;
+    schema:name "Boys don’t Cry"^^xsd:string ;
+    schema:publisher "Milan" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2014"^^xsd:gYear .
+
+# Lauréat 2013
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f360 a schema:Book ;
+    schema:author "Jean-Claude Mourlevat"^^xsd:string ;
+    schema:name "Terrienne"^^xsd:string ;
+    schema:publisher "Gallimard" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2013"^^xsd:gYear .
+
+# Lauréat 2012
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f361 a schema:Book ;
+    schema:author "Timothée de Fombelle"^^xsd:string ;
+    schema:name "Vango (T.1) Entre ciel et terre"^^xsd:string ;
+    schema:publisher "Gallimard" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2012"^^xsd:gYear .
+
+# Lauréat 2011
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f362 a schema:Book ;
+    schema:author "Marco Varvello"^^xsd:string ;
+    schema:name "Oublie les mille et une nuits !"^^xsd:string ;
+    schema:publisher "Bayard" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2011"^^xsd:gYear .
+
+# Lauréat 2010
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f363 a schema:Book ;
+    schema:author "Alex Shearer"^^xsd:string ;
+    schema:name "Liberté, égalité, chocolat"^^xsd:string ;
+    schema:publisher "Bayard" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2010"^^xsd:gYear .
+
+# Lauréat 2009
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f364 a schema:Book ;
+    schema:author "Scott Westerfeld"^^xsd:string ;
+    schema:name "Uglies"^^xsd:string ;
+    schema:publisher "Pocket" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2009"^^xsd:gYear .
+
+# Lauréat 2008
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f365 a schema:Book ;
+    schema:author "Jean-Claude Mourlevat"^^xsd:string ;
+    schema:name "Le combat d’hiver"^^xsd:string ;
+    schema:publisher "Gallimard" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2008"^^xsd:gYear .
+
+# Lauréat 2007
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f366 a schema:Book ;
+    schema:author "Malorie Blackman"^^xsd:string ;
+    schema:name "Entre chiens et loups"^^xsd:string ;
+    schema:publisher "Milan" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2007"^^xsd:gYear .
+
+# Lauréat 2006
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f367 a schema:Book ;
+    schema:author "Michael Morpurgo"^^xsd:string ;
+    schema:name "Soldat Peaceful"^^xsd:string ;
+    schema:publisher "Gallimard" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2006"^^xsd:gYear .
+
+# Lauréat 2005
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f368 a schema:Book ;
+    schema:author "Roland Smith"^^xsd:string ;
+    schema:name "Disparition programmée"^^xsd:string ;
+    schema:publisher "Flammarion" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2005"^^xsd:gYear .
+
+# Lauréat 2004
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f369 a schema:Book ;
+    schema:author "Valérie Zenatti"^^xsd:string ;
+    schema:name "Quand j'étais soldate"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2004"^^xsd:gYear .
+
+# Lauréat 2003
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f36a a schema:Book ;
+    schema:author "Sophie Chérer"^^xsd:string ;
+    schema:name "L’huile d’olive ne meurt jamais"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2003"^^xsd:gYear .
+
+# Lauréat 2002
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f36b a schema:Book ;
+    schema:author "Louis Sachar"^^xsd:string ;
+    schema:name "Le Passage"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2002"^^xsd:gYear .
+
+# Lauréat 2000
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f36c a schema:Book ;
+    schema:author "Feng Jicai"^^xsd:string ;
+    schema:name "Que cent fleurs s’épanouissent"^^xsd:string ;
+    schema:publisher "Gallimard" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "2000"^^xsd:gYear .
+
+# Lauréat 1999
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f36d a schema:Book ;
+    schema:author "Michèle Marineau"^^xsd:string ;
+    schema:name "La route de Chlifa"^^xsd:string ;
+    schema:publisher "Québec Amérique" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "1999"^^xsd:gYear .
+
+# Lauréat 1998
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f36e a schema:Book ;
+    schema:author "Barbara Wood"^^xsd:string ;
+    schema:name "Séléné"^^xsd:string ;
+    schema:publisher "Presses de la Cité" ;
+    schema:award "Prix Ado-Lisant" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:anyURI ;
+    schema:datePublished "1998"^^xsd:gYear .
+
+# Lauréat 2022
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f36f a schema:Book ;
+    schema:author "Adèle Tariel"^^xsd:string ;
+    schema:name "La meute"^^xsd:string ;
+    schema:publisher "Magnard Jeunesse" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2022"^^xsd:gYear .
+
+# Lauréat 2021
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f370 a schema:Book ;
+    schema:author "Audrey Alwett"^^xsd:string ;
+    schema:name "Magic Charly (T. 1). L'apprenti"^^xsd:string ;
+    schema:publisher "Gallimard Jeunesse" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2021"^^xsd:gYear .
+
+# Lauréat 2020
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f371 a schema:Book ;
+    schema:author "Sylvie Allouche"^^xsd:string ;
+    schema:name "Snap killer"^^xsd:string ;
+    schema:publisher "Syros" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2020"^^xsd:gYear .
+
+# Lauréat 2019
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f372 a schema:Book ;
+    schema:author "Carina Rozenfeld"^^xsd:string ;
+    schema:name "E.V.E. Entité. Vigilance. Enquête"^^xsd:string ;
+    schema:publisher "Syros" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2019"^^xsd:gYear .
+
+# Lauréat 2018
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f373 a schema:Book ;
+    schema:author "Anne Ferrier"^^xsd:string ;
+    schema:name "Encore faut-il rester vivants"^^xsd:string ;
+    schema:publisher "Magnard Jeunesse" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2018"^^xsd:gYear .
+
+# Lauréat 2017
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f374 a schema:Book ;
+    schema:author "Marie-Aude Murail"^^xsd:string ;
+    schema:name "Sauveur & Fils : saison 1"^^xsd:string ;
+    schema:publisher "L'École des loisirs" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2017"^^xsd:gYear .
+
+# Lauréat 2016
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f375 a schema:Book ;
+    schema:author "Marine Carteron"^^xsd:string ;
+    schema:name "Les Autodafeurs, t.1"^^xsd:string ;
+    schema:publisher "Rouergue" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2016"^^xsd:gYear .
+
+# Lauréat 2015
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f376 a schema:Book ;
+    schema:author "Jo Witek"^^xsd:string ;
+    schema:name "Rêves en noir"^^xsd:string ;
+    schema:publisher "Actes Sud Junior" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2015"^^xsd:gYear .
+
+# Lauréat 2014
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f377 a schema:Book ;
+    schema:author "Fred Paronuzzi"^^xsd:string ;
+    schema:name "Mon père est américain"^^xsd:string ;
+    schema:publisher "Thierry Magnier" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2014"^^xsd:gYear .
+
+# Lauréat 2013
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f378 a schema:Book ;
+    schema:author "Jean-Claude Mourlevat"^^xsd:string ;
+    schema:name "Terrienne"^^xsd:string ;
+    schema:publisher "Gallimard Jeunesse" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2013"^^xsd:gYear .
+
+# Lauréat 2012
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f379 a schema:Book ;
+    schema:author "Anne Plichota"^^xsd:string ;
+    schema:name "Oksa Pollock, t.1"^^xsd:string ;
+    schema:publisher "XO" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2012"^^xsd:gYear .
+
+# Lauréat 2011
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f380 a schema:Book ;
+    schema:author "Eli Anderson"^^xsd:string ;
+    schema:name "Oscar Pill, t.1"^^xsd:string ;
+    schema:publisher "Albin Michel" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2011"^^xsd:gYear .
+
+# Lauréat 2010
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f381 a schema:Book ;
+    schema:author "Patricia Torrente"^^xsd:string ;
+    schema:name "Le Sand des Nahdas"^^xsd:string ;
+    schema:publisher "Bayard Jeunesse" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2010"^^xsd:gYear .
+
+# Lauréat 2009
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f382 a schema:Book ;
+    schema:author "Xavier Laurent Petit"^^xsd:string ;
+    schema:name "Be Safe"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2009"^^xsd:gYear .
+
+# Lauréat 2007
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f383 a schema:Book ;
+    schema:author "Nathalie Le Gendre"^^xsd:string ;
+    schema:name "Automates"^^xsd:string ;
+    schema:publisher "Mango" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2007"^^xsd:gYear .
+
+# Lauréat 2006
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f384 a schema:Book ;
+    schema:author "Marie-Aude Murail"^^xsd:string ;
+    schema:name "Simple"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2006"^^xsd:gYear .
+
+# Lauréat 2005
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f385 a schema:Book ;
+    schema:author "Anne-Laure Bondoux"^^xsd:string ;
+    schema:name "Les larmes de l’assassin"^^xsd:string ;
+    schema:publisher "Bayard Jeunesse" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2005"^^xsd:gYear .
+
+# Lauréat 2004
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f386 a schema:Book ;
+    schema:author "Annie Pietri"^^xsd:string ;
+    schema:name "L’espionne du Roi-Soleil"^^xsd:string ;
+    schema:publisher "Bayard Jeunesse" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2004"^^xsd:gYear .
+
+# Lauréat 2003
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f387 a schema:Book ;
+    schema:author "Xavier-Laurent Petit"^^xsd:string ;
+    schema:name "L’homme du jardin"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2003"^^xsd:gYear .
+
+# Lauréat 2002
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f388 a schema:Book ;
+    schema:author "Ange"^^xsd:string ;
+    schema:name "L’œil des dix"^^xsd:string ;
+    schema:publisher "Mango Jeunesse" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2002"^^xsd:gYear .
+
+# Lauréat 2001
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f389 a schema:Book ;
+    schema:author "Marie-Aude Murail"^^xsd:string ;
+    schema:name "Oh, Boy!"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2001"^^xsd:gYear .
+
+# Lauréat 2000
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f390 a schema:Book ;
+    schema:author "Jean-Jacques Greif"^^xsd:string ;
+    schema:name "Le ring de la mort"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "2000"^^xsd:gYear .
+
+# Lauréat 1999
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f391 a schema:Book ;
+    schema:author "Evelyne Brisou-Pellen"^^xsd:string ;
+    schema:name "Un si terrible secret"^^xsd:string ;
+    schema:publisher "Rageot" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "1999"^^xsd:gYear .
+
+# Lauréat 1998
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f392 a schema:Book ;
+    schema:author "Dakia"^^xsd:string ;
+    schema:name "Dakia, fille d'Alger"^^xsd:string ;
+    schema:publisher "Père Castor Flammarion" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "1998"^^xsd:gYear .
+
+# Lauréat 1997
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f393 a schema:Book ;
+    schema:author "Ester Rota Gasperoni"^^xsd:string ;
+    schema:name "Orage sur le lac"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "1997"^^xsd:gYear .
+
+# Lauréat 1996
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f394 a schema:Book ;
+    schema:author "Gudule"^^xsd:string ;
+    schema:name "La vie à reculons"^^xsd:string ;
+    schema:publisher "Robert Diet" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "1996"^^xsd:gYear .
+
+# Lauréat 1995
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f395 a schema:Book ;
+    schema:author "Sarah Cohen-Scali"^^xsd:string ;
+    schema:name "Arthur Rimbaud : le voleur de feu"^^xsd:string ;
+    schema:publisher "Hachette Jeunesse" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "1995"^^xsd:gYear .
+
+# Lauréat 1994
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f396 a schema:Book ;
+    schema:author "Marie-Aude Murail"^^xsd:string ;
+    schema:name "L'assassin est au collège"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:award "Prix Ados Rennes/Ille-et-Vilaine" ;
+    schema:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:anyURI ;
+    schema:datePublished "1994"^^xsd:gYear .
+
+# Lauréat 2022
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f396 a schema:Book ;
+    schema:author "Carole Tremblay et Élodie Duhameau"^^xsd:string ;
+    schema:name "La guerre des bébés"^^xsd:string ;
+    schema:publisher "La courte échelle" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2022"^^xsd:gYear .
+
+# Lauréat 2021
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f397 a schema:Book ;
+    schema:author "Jacques Goldstyn"^^xsd:string ;
+    schema:name "Le tricot"^^xsd:string ;
+    schema:publisher "La Pastèque" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2021"^^xsd:gYear .
+
+# Lauréat 2020
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f398 a schema:Book ;
+    schema:author "Jean-Christophe Réhel"^^xsd:string ;
+    schema:name "Peigner le feu"^^xsd:string ;
+    schema:publisher "La courte échelle" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2020"^^xsd:gYear .
+
+# Lauréat 2019
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f399 a schema:Book ;
+    schema:author "Jonathan Bécotte"^^xsd:string ;
+    schema:name "Maman veut partir"^^xsd:string ;
+    schema:publisher "Léméac" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2019"^^xsd:gYear .
+
+# Lauréat 2018
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f400 a schema:Book ;
+    schema:author "Amélie Dumoulin"^^xsd:string ;
+    schema:name "Fé verte"^^xsd:string ;
+    schema:publisher "Québec Amérique" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2018"^^xsd:gYear .
+
+# Lauréat 2017
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f401 a schema:Book ;
+    schema:author "Isabelle Arsenault et Fanny Britt"^^xsd:string ;
+    schema:name "Louis parmi les spectres"^^xsd:string ;
+    schema:publisher "La Pastèque" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2017"^^xsd:gYear .
+
+# Lauréat 2016
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f402 a schema:Book ;
+    schema:author "Rogé"^^xsd:string ;
+    schema:name "Hochelaga mon quartier"^^xsd:string ;
+    schema:publisher "La Bagnole" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2016"^^xsd:gYear .
+
+# Lauréat 2015
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f403 a schema:Book ;
+    schema:author "Patrick Doyon et André Marois"^^xsd:string ;
+    schema:name "Le voleur de sandwichs"^^xsd:string ;
+    schema:publisher "La Pastèque" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2015"^^xsd:gYear .
+
+# Lauréat 2014
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f404 a schema:Book ;
+    schema:author "Marianne Dubuc"^^xsd:string ;
+    schema:name "Le lion et l’oiseau"^^xsd:string ;
+    schema:publisher "La Pastèque" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2014"^^xsd:gYear .
+
+# Lauréat 2013
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f405 a schema:Book ;
+    schema:author "François Gravel"^^xsd:string ;
+    schema:name "Hò"^^xsd:string ;
+    schema:publisher "Québec Amérique" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2013"^^xsd:gYear .
+
+# Lauréat 2012
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f406 a schema:Book ;
+    schema:author "Charlotte Gingras"^^xsd:string ;
+    schema:name "Guerres"^^xsd:string ;
+    schema:publisher "La courte échelle" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2012"^^xsd:gYear .
+
+# Lauréat 2011
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f407 a schema:Book ;
+    schema:author "Maryse Pelletier"^^xsd:string ;
+    schema:name "Un couteau sur la neige"^^xsd:string ;
+    schema:publisher "Soulières" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2011"^^xsd:gYear .
+
+# Lauréat 2010
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f408 a schema:Book ;
+    schema:author "Christiane Duchesne"^^xsd:string ;
+    schema:name "La vengeance d'Adeline Parot"^^xsd:string ;
+    schema:publisher "Boréal" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2010"^^xsd:gYear .
+
+# Lauréat 2009
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f409 a schema:Book ;
+    schema:author "Charlotte Gingras"^^xsd:string ;
+    schema:name "Ophélie Ma meilleure amie"^^xsd:string ;
+    schema:publisher "Québec Amérique" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2009"^^xsd:gYear .
+
+# Lauréat 2007
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f410 a schema:Book ;
+    schema:author "Élaine Turgeon"^^xsd:string ;
+    schema:name "Ma vie ne sait pas nager"^^xsd:string ;
+    schema:publisher "Québec Amérique" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2007"^^xsd:gYear .
+
+# Lauréat 2006
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f411 a schema:Book ;
+    schema:author "Pierre Pratt"^^xsd:string ;
+    schema:name "Le jour où Zoé zozota"^^xsd:string ;
+    schema:publisher "Les 400 coups" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2006"^^xsd:gYear .
+
+# Lauréat 2005
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f412 a schema:Book ;
+    schema:author "Marie-Louise Gay"^^xsd:string ;
+    schema:name "Stella : Princesse de la nuit"^^xsd:string ;
+    schema:publisher "Dominique et Compagnie" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2005"^^xsd:gYear .
+
+# Mention spéciale 2005
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f413 a schema:Book ;
+    schema:author "Camille Bouchard"^^xsd:string ;
+    schema:name "L’Intouchable aux yeux verts"^^xsd:string ;
+    schema:publisher "Hurtubise" ;
+    schema:award "Prix Alvine-Bélisle Mention spéciale" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2005"^^xsd:gYear .
+
+# Lauréat 2004
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f414 a schema:Book ;
+    schema:author "Marie-Francine Hébert"^^xsd:string ;
+    schema:name "Nul poisson où aller"^^xsd:string ;
+    schema:publisher "Les 400 coups" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2004"^^xsd:gYear .
+
+# Lauréat 2002
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f415 a schema:Book ;
+    schema:author "Gilles Tibo"^^xsd:string ;
+    schema:name "La petite fille qui ne souriait plus"^^xsd:string ;
+    schema:publisher "Soulières" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2002"^^xsd:gYear .
+
+# Lauréat 2001
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f416 a schema:Book ;
+    schema:author "Nathalie Loignon"^^xsd:string ;
+    schema:name "Christophe au grand cœur"^^xsd:string ;
+    schema:publisher "Dominique et compagnie" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2001"^^xsd:gYear .
+
+# Lauréat 2000
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f417 a schema:Book ;
+    schema:author "Christiane Duchesne"^^xsd:string ;
+    schema:name "Edmond et Amandine"^^xsd:string ;
+    schema:publisher "Dominique et compagnie" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "2000"^^xsd:gYear .
+
+# Lauréat 1999
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f418 a schema:Book ;
+    schema:author "Michel Noël"^^xsd:string ;
+    schema:name "La ligne de trappe"^^xsd:string ;
+    schema:publisher "Hurtubise" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1999"^^xsd:gYear .
+
+# Lauréat 1998
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f419 a schema:Book ;
+    schema:author "Jasmine Dubé"^^xsd:string ;
+    schema:name "L'ourson qui voulait une Juliette"^^xsd:string ;
+    schema:publisher "La courte échelle" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1998"^^xsd:gYear .
+
+# Lauréat 1997
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f420 a schema:Book ;
+    schema:author "Jacques Lazure"^^xsd:string ;
+    schema:name "Le rêve couleur orange"^^xsd:string ;
+    schema:publisher "Québec Amérique" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1997"^^xsd:gYear .
+
+# Lauréat 1996
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f421 a schema:Book ;
+    schema:author "Hélène Vachon"^^xsd:string ;
+    schema:name "Le sixième arrêt"^^xsd:string ;
+    schema:publisher "Dominique et Compagnie" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1996"^^xsd:gYear .
+
+# Lauréat 1995
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f422 a schema:Book ;
+    schema:author "Jean Bélisle"^^xsd:string ;
+    schema:name "À propos d'un bateau à vapeur"^^xsd:string ;
+    schema:publisher "Hurtubise" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1995"^^xsd:gYear .
+
+# Lauréat 1994
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f423 a schema:Book ;
+    schema:author "François Gravel"^^xsd:string ;
+    schema:name "Klonk"^^xsd:string ;
+    schema:publisher "QuébecAmérique Jeunesse" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1994"^^xsd:gYear .
+
+# Lauréat 1993
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f424 a schema:Book ;
+    schema:author "Michèle Marineau"^^xsd:string ;
+    schema:name "La route de Chlifa"^^xsd:string ;
+    schema:publisher "Québec/Amérique Jeunesse" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1993"^^xsd:gYear .
+
+# Lauréat 1992
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f425 a schema:Book ;
+    schema:author "Claudine Farcy"^^xsd:string ;
+    schema:name "Pleine crise"^^xsd:string ;
+    schema:publisher "Héritage" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1992"^^xsd:gYear .
+
+# Lauréat 1991
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f426 a schema:Book ;
+    schema:author "Christiane Duchesne"^^xsd:string ;
+    schema:name "La vraie vie du chien de Clara Vic"^^xsd:string ;
+    schema:publisher "Québec/Amérique Jeunesse" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1991"^^xsd:gYear .
+
+# Lauréat 1990
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f427 a schema:Book ;
+    schema:author "Sonia Sarfati"^^xsd:string ;
+    schema:name "Sauvages"^^xsd:string ;
+    schema:publisher "Québec/Amérique Jeunesse" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1990"^^xsd:gYear .
+
+# Lauréat 1989
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f428 a schema:Book ;
+    schema:author "Gilles Gauthier"^^xsd:string ;
+    schema:name "Ne touchez pas à ma Babouche"^^xsd:string ;
+    schema:publisher "La courte échelle" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1989"^^xsd:gYear .
+
+# Lauréat 1988
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f429 a schema:Book ;
+    schema:author "Marie-Francine Hébert"^^xsd:string ;
+    schema:name "Venir au monde"^^xsd:string ;
+    schema:publisher "La courte échelle" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1988"^^xsd:gYear .
+
+# Lauréat 1987
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f430 a schema:Book ;
+    schema:author "Yves Beauchesne et David Schinkel"^^xsd:string ;
+    schema:name "Aller-retour"^^xsd:string ;
+    schema:publisher "Pierre Tisseyre" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1987"^^xsd:gYear .
+
+# Lauréat 1986
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f431 a schema:Book ;
+    schema:author "Chrystine Brouillet"^^xsd:string ;
+    schema:name "Le Complot"^^xsd:string ;
+    schema:publisher "La courte échelle" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1986"^^xsd:gYear .
+
+# Lauréat 1985
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f432 a schema:Book ;
+    schema:author "Bertrand Gauthier"^^xsd:string ;
+    schema:name "Zunik"^^xsd:string ;
+    schema:publisher "La courte échelle" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1985"^^xsd:gYear .
+
+# Lauréat 1984
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f433 a schema:Book ;
+    schema:author "Marie-Louise Gay"^^xsd:string ;
+    schema:name "La Soeur de Robert"^^xsd:string ;
+    schema:publisher "La courte échelle" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1984"^^xsd:gYear .
+
+# Lauréat 1983
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f434 a schema:Book ;
+    schema:author "Louise Pelletier, Sylvie Assathiany et Phillipe Béha"^^xsd:string ;
+    schema:name "J'aime Claire; Pipi dans le pot; Les Cheveux; Dors, petit ours"^^xsd:string ;
+    schema:publisher "Ovale" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1983"^^xsd:gYear .
+
+# Lauréat 1982
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f435 a schema:Book ;
+    schema:author "Lucie Ledoux et Philippe Béha"^^xsd:string ;
+    schema:name "Le Voyage à la recherche du temps"^^xsd:string ;
+    schema:publisher "Mondia" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1982"^^xsd:gYear .
+
+# Lauréat 1981
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f436 a schema:Book ;
+    schema:author "Robert Soulières"^^xsd:string ;
+    schema:name "Le Visiteur du soir"^^xsd:string ;
+    schema:publisher "Pierre Tisseyre" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1981"^^xsd:gYear .
+
+# Lauréat 1980
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f437 a schema:Book ;
+    schema:author "Gilles Vigneault"^^xsd:string ;
+    schema:name "Les Quatre Saisons de Piquot"^^xsd:string ;
+    schema:publisher "Nouvelles éditions de l’Arc" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1980"^^xsd:gYear .
+
+# Lauréat 1979
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f438 a schema:Book ;
+    schema:author "Gabrielle Grandbois"^^xsd:string ;
+    schema:name "La petite fille aux yeux rouges"^^xsd:string ;
+    schema:publisher "Fides" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1979"^^xsd:gYear .
+
+# Lauréat 1978
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f439 a schema:Book ;
+    schema:author "Henriette Major"^^xsd:string ;
+    schema:name "L'Évangile en papier"^^xsd:string ;
+    schema:publisher "Fides" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1978"^^xsd:gYear .
+
+# Lauréat 1977
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f440 a schema:Book ;
+    schema:author "Bernadette Renaud"^^xsd:string ;
+    schema:name "Émilie, la baignoire à pattes"^^xsd:string ;
+    schema:publisher "Leméac" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1977"^^xsd:gYear .
+
+# Lauréat 1977 (2)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f441 a schema:Book ;
+    schema:author "Louise Pomminville"^^xsd:string ;
+    schema:name "Ma vache Bossie"^^xsd:string ;
+    schema:publisher "Leméac" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1977"^^xsd:gYear .
+
+# Lauréat 1976
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f442 a schema:Book ;
+    schema:author "Monique Corriveau"^^xsd:string ;
+    schema:name "Les Saisons de la mer"^^xsd:string ;
+    schema:publisher "Fides" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1976"^^xsd:gYear .
+
+# Lauréat 1975
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f443 a schema:Book ;
+    schema:author "Suzanne Martel"^^xsd:string ;
+    schema:name "Jeanne, fille du Roy"^^xsd:string ;
+    schema:publisher "Fides" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1975"^^xsd:gYear .
+
+# Lauréat 1974
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f444 a schema:Book ;
+    schema:author "Anne Vallières"^^xsd:string ;
+    schema:name "Ouram"^^xsd:string ;
+    schema:publisher "Leméac" ;
+    schema:award "Prix Alvine-Bélisle" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle> ;
+    schema:datePublished "1974"^^xsd:gYear .
+
+# 2022 - Catégorie «Jeunesse»
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f445 a schema:Book ;
+    schema:author "Mickaël Brun-Arnaud et Sanoe"^^xsd:string ;
+    schema:name "Mémoires de la forêt. Les souvenirs de Ferdinand Taupe"^^xsd:string ;
+    schema:publisher "L'Ecole des loisirs" ;
+    schema:award "Prix Babelio" ;
+    schema:genre "Jeunesse" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-babelio> ;
+    schema:datePublished "2022"^^xsd:gYear .
+
+# 2022 - Catégorie «Jeune adulte»
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f446 a schema:Book ;
+    schema:author "Alric et Jennifer Twice"^^xsd:string ;
+    schema:name "La passeuse de mots (T. 2). L'oeil de vérité"^^xsd:string ;
+    schema:publisher "Hachette romans" ;
+    schema:award "Prix Babelio" ;
+    schema:genre "Jeune adulte" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-babelio> ;
+    schema:datePublished "2022"^^xsd:gYear .
+
+# 2021 - Catégorie «Jeunesse»
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f447 a schema:Book ;
+    schema:author "Jo Witek"^^xsd:string ;
+    schema:name "J'ai 14 ans et ce n'est pas une bonne nouvelle"^^xsd:string ;
+    schema:publisher "Actes Sud junior" ;
+    schema:award "Prix Babelio" ;
+    schema:genre "Jeunesse" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-babelio> ;
+    schema:datePublished "2021"^^xsd:gYear .
+
+# 2021 - Catégorie «Jeune adulte»
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f448 a schema:Book ;
+    schema:author "Marie Vareille"^^xsd:string ;
+    schema:name "Le syndrome du spaghetti"^^xsd:string ;
+    schema:publisher "Pocket Jeunesse" ;
+    schema:award "Prix Babelio" ;
+    schema:genre "Jeune adulte" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-babelio> ;
+    schema:datePublished "2021"^^xsd:gYear .
+
+# 2020 - Catégorie «Jeunesse»
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f449 a schema:Book ;
+    schema:author "Shannon Messenger"^^xsd:string ;
+    schema:name "Gardiens des cités perdues (T. 8). Héritages"^^xsd:string ;
+    schema:publisher "Lumen" ;
+    schema:award "Prix Babelio" ;
+    schema:genre "Jeunesse" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-babelio> ;
+    schema:datePublished "2020"^^xsd:gYear .
+
+# 2020 - Catégorie «Jeune adulte»
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f450 a schema:Book ;
+    schema:author "Alice Oseman"^^xsd:string ;
+    schema:name "Heartstopper (T. 1). Deux garçons. Une rencontre"^^xsd:string ;
+    schema:publisher "Hachette" ;
+    schema:award "Prix Babelio" ;
+    schema:genre "Jeune adulte" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-babelio> ;
+    schema:datePublished "2020"^^xsd:gYear .
+
+# 2019 - Catégorie «Jeunesse»
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f451 a schema:Book ;
+    schema:author "Adrien Tomas"^^xsd:string ;
+    schema:name "Engrenages et sortilèges"^^xsd:string ;
+    schema:publisher "Rageot" ;
+    schema:award "Prix Babelio" ;
+    schema:genre "Jeunesse" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-babelio> ;
+    schema:datePublished "2019"^^xsd:gYear .
+
+# 2019 - Catégorie «Jeune adulte»
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f452 a schema:Book ;
+    schema:author "Marie Pavlenko"^^xsd:string ;
+    schema:name "Un si petit oiseau"^^xsd:string ;
+    schema:publisher "Flammarion jeunesse" ;
+    schema:award "Prix Babelio" ;
+    schema:genre "Jeune adulte" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-babelio> ;
+    schema:datePublished "2019"^^xsd:gYear .
+
+# 2022 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f453 a schema:Book ;
+    schema:author "Marie Colot et Françoise Rogier"^^xsd:string ;
+    schema:name "Mamie, ça suffit !"^^xsd:string ;
+    schema:publisher "A pas de loups" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2022"^^xsd:gYear .
+
+# 2022 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f454 a schema:Book ;
+    schema:author "Ludovic Lecomte et Irène Bonacina"^^xsd:string ;
+    schema:name "Oscar et Carrosse. La soupe de pâtes"^^xsd:string ;
+    schema:publisher "L'Ecole des loisirs" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2022"^^xsd:gYear .
+
+# 2022 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f455 a schema:Book ;
+    schema:author "Davide Cali et Benjamin Chaud"^^xsd:string ;
+    schema:name "Les adultes ne font jamais ça"^^xsd:string ;
+    schema:publisher "Hélium" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2022"^^xsd:gYear .
+
+# 2022 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f456 a schema:Book ;
+    schema:author "Jean-Baptiste Del Amo et Karine Daisay"^^xsd:string ;
+    schema:name "Yukio, l'enfant des vagues"^^xsd:string ;
+    schema:publisher "Gallimard Jeunesse" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2022"^^xsd:gYear .
+
+# 2022 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f457 a schema:Book ;
+    schema:author "Erik L'Homme et Éloïse Scherrer"^^xsd:string ;
+    schema:name "Masca : manuel de survie en cas d'apocalypse"^^xsd:string ;
+    schema:publisher "Gallimard Jeunesse" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2022"^^xsd:gYear .
+
+# 2021 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f458 a schema:Book ;
+    schema:author "Emilie Vast"^^xsd:string ;
+    schema:name "Moi, j'ai peur du loup"^^xsd:string ;
+    schema:publisher "MeMo" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2021"^^xsd:gYear .
+
+# 2021 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f459 a schema:Book ;
+    schema:author "Brian Lies"^^xsd:string ;
+    schema:name "Le Jardin d’Evan"^^xsd:string ;
+    schema:publisher "Albin Michel Jeunesse" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2021"^^xsd:gYear .
+
+# 2021 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f460 a schema:Book ;
+    schema:author "Muriel Bloch et Marie Novion"^^xsd:string ;
+    schema:name "Coyote et le chant des larmes"^^xsd:string ;
+    schema:publisher "Seuil Jeunesse" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2021"^^xsd:gYear .
+
+# 2021 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f461 a schema:Book ;
+    schema:author "Guillaume Guéraud et Henri Meunier"^^xsd:string ;
+    schema:name "La face cachée du prince charmant"^^xsd:string ;
+    schema:publisher "Rouergue" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2021"^^xsd:gYear .
+
+# 2021 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f462 a schema:Book ;
+    schema:author "Vera Brosgol"^^xsd:string ;
+    schema:name "Un été d’enfer!"^^xsd:string ;
+    schema:publisher "Rue de Sèvres" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2021"^^xsd:gYear .
+
+# 2020 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f463 a schema:Book ;
+    schema:author "Taro Gomi"^^xsd:string ;
+    schema:name "Enfin avec ma mamie!"^^xsd:string ;
+    schema:publisher "Nobi Nobi" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2020"^^xsd:gYear .
+
+# 2020 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f464 a schema:Book ;
+    schema:author "Aaron Reynolds et Peter Brown"^^xsd:string ;
+    schema:name "Menace verte"^^xsd:string ;
+    schema:publisher "Le Genévrier" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2020"^^xsd:gYear .
+
+# 2020 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f465 a schema:Book ;
+    schema:author "Adrien Albert"^^xsd:string ;
+    schema:name "Claude et Morino"^^xsd:string ;
+    schema:publisher "L'Ecole des loisirs" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2020"^^xsd:gYear .
+
+# 2020 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f466 a schema:Book ;
+    schema:author "Delphine Perret"^^xsd:string ;
+    schema:name "Une super histoire de cow-boy"^^xsd:string ;
+    schema:publisher "Les fourmis rouges" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2020"^^xsd:gYear .
+
+# 2020 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f467 a schema:Book ;
+    schema:author "Jean-Claude Mourlevat et Antoine Ronzon"^^xsd:string ;
+    schema:name "Jefferson"^^xsd:string ;
+    schema:publisher "Gallimard Jeunesse" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2020"^^xsd:gYear .
+
+# 2019 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f468 a schema:Book ;
+    schema:author "Andrée Prigent"^^xsd:string ;
+    schema:name "Poto le chien"^^xsd:string ;
+    schema:publisher "Didier Jeunesse" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2019"^^xsd:gYear .
+
+# 2019 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f469 a schema:Book ;
+    schema:author "Magali Arnal"^^xsd:string ;
+    schema:name "Capitaine Maman"^^xsd:string ;
+    schema:publisher "L'Ecole des loisirs" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2019"^^xsd:gYear .
+
+# 2019 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f470 a schema:Book ;
+    schema:author "Gaëtan Dorémus"^^xsd:string ;
+    schema:name "Minute papillon !"^^xsd:string ;
+    schema:publisher "Rouergue" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2019"^^xsd:gYear .
+
+# 2019 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f471 a schema:Book ;
+    schema:author "Guillaume Guéraud"^^xsd:string ;
+    schema:name "Ma grand-mère est une terreur"^^xsd:string ;
+    schema:publisher "Rouergue" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2019"^^xsd:gYear .
+
+# 2019 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f472 a schema:Book ;
+    schema:author "Jakob Wegelius"^^xsd:string ;
+    schema:name "Sally Jones, la grande aventure"^^xsd:string ;
+    schema:publisher "Thierry Magnier" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2019"^^xsd:gYear .
+
+# 2018 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f473 a schema:Book ;
+    schema:author "Adrien Albert"^^xsd:string ;
+    schema:name "Train fantôme"^^xsd:string ;
+    schema:publisher "L'Ecole des loisirs" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2018"^^xsd:gYear .
+
+# 2018 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f474 a schema:Book ;
+    schema:author "Marie Dorléans"^^xsd:string ;
+    schema:name "Course épique"^^xsd:string ;
+    schema:publisher "Sarbacane" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2018"^^xsd:gYear .
+
+# 2018 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f475 a schema:Book ;
+    schema:author "Catharina Valckx et Nicolas Hubesch"^^xsd:string ;
+    schema:name "Bruno. Quelques jours de ma vie très intéressante"^^xsd:string ;
+    schema:publisher "L'Ecole des loisirs" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2018"^^xsd:gYear .
+
+# 2018 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f476 a schema:Book ;
+    schema:author "Hakon Ovreas et Oyvind Torseter"^^xsd:string ;
+    schema:name "Maarron"^^xsd:string ;
+    schema:publisher "La Joie de Lire" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2018"^^xsd:gYear .
+
+# 2018 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f477 a schema:Book ;
+    schema:author "Rémi Farnos"^^xsd:string ;
+    schema:name "Alcibiade"^^xsd:string ;
+    schema:publisher "La Joie de Lire" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2018"^^xsd:gYear .
+
+# 2017 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f478 a schema:Book ;
+    schema:author "Dorothée de Monfreid"^^xsd:string ;
+    schema:name "Dodo"^^xsd:string ;
+    schema:publisher "L'Ecole des loisirs" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2017"^^xsd:gYear .
+
+# 2017 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f479 a schema:Book ;
+    schema:author "Delphine Bournay"^^xsd:string ;
+    schema:name "Le concours de force"^^xsd:string ;
+    schema:publisher "L'Ecole des loisirs" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2017"^^xsd:gYear .
+
+# 2017 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f480 a schema:Book ;
+    schema:author "Claire Lebourg"^^xsd:string ;
+    schema:name "Une journée avec Mousse"^^xsd:string ;
+    schema:publisher "L'Ecole des loisirs" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2017"^^xsd:gYear .
+
+# 2017 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f481 a schema:Book ;
+    schema:author "Praline Gay-Para et Rémi Saillard"^^xsd:string ;
+    schema:name "Bonnets rouges et bonnets blancs"^^xsd:string ;
+    schema:publisher "Didier Jeunesse" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2017"^^xsd:gYear .
+
+# 2017 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f482 a schema:Book ;
+    schema:author "Katherine Applegate et Patricia Castelao"^^xsd:string ;
+    schema:name "Le seul et unique Ivan"^^xsd:string ;
+    schema:publisher "Seuil jeunesse" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2017"^^xsd:gYear .
+
+# 2016 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f483 a schema:Book ;
+    schema:author "Chris Haugton"^^xsd:string ;
+    schema:name "Un peu perdu"^^xsd:string ;
+    schema:publisher "Thierry Magnier" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2016"^^xsd:gYear .
+
+# 2016 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f484 a schema:Book ;
+    schema:author "Chris Haugton"^^xsd:string ;
+    schema:name "Chut ! On a un plan"^^xsd:string ;
+    schema:publisher "Thierry Magnier" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2016"^^xsd:gYear .
+
+# 2016 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f485 a schema:Book ;
+    schema:author "Thomas Bretonneau"^^xsd:string ;
+    schema:name "Les trois pires histoires de pirates"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2016"^^xsd:gYear .
+
+# 2016 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f486 a schema:Book ;
+    schema:author "Géraldine Elschner"^^xsd:string ;
+    schema:name "Tout d’un loup"^^xsd:string ;
+    schema:publisher "L’élan vert" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2016"^^xsd:gYear .
+
+# 2016 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f487 a schema:Book ;
+    schema:author "Morris Gleitzman"^^xsd:string ;
+    schema:name "Temps de chien pour les requins"^^xsd:string ;
+    schema:publisher "Les Grandes Personnes" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2016"^^xsd:gYear .
+
+# 2015 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f488 a schema:Book ;
+    schema:author "Lucie Félix"^^xsd:string ;
+    schema:name "2 yeux ?"^^xsd:string ;
+    schema:publisher "Les Grandes Personnes" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2015"^^xsd:gYear .
+
+# 2015 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f489 a schema:Book ;
+    schema:author "Koen Van Biesen"^^xsd:string ;
+    schema:name "Le voisin lit un livre"^^xsd:string ;
+    schema:publisher "Alice Jeunesse" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2015"^^xsd:gYear .
+
+# 2015 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f490 a schema:Book ;
+    schema:author "Matthieu Sylvander et Perceval Barrier"^^xsd:string ;
+    schema:name "3 contes cruels"^^xsd:string ;
+    schema:publisher "L’Ecole des loisirs" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2015"^^xsd:gYear .
+
+# 2015 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f491 a schema:Book ;
+    schema:author "Michaël Morpurgo et Michaël Foreman"^^xsd:string ;
+    schema:name "Mauvais graçon"^^xsd:string ;
+    schema:publisher "Gallimard Jeunesse" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2015"^^xsd:gYear .
+
+# 2015 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f492 a schema:Book ;
+    schema:author "Davide Cali"^^xsd:string ;
+    schema:name "L’amour ? C’est mathématique !"^^xsd:string ;
+    schema:publisher "Sarbacane" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2015"^^xsd:gYear .
+
+# 2014 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f493 a schema:Book ;
+    schema:author "Stephen Savage"^^xsd:string ;
+    schema:name "Morse où es-tu?"^^xsd:string ;
+    schema:publisher "Pastel (L’Ecole des loisirs)" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2014"^^xsd:gYear .
+
+# 2014 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f494 a schema:Book ;
+    schema:author "Dennis Nolan"^^xsd:string ;
+    schema:name "Rêves d'Océan"^^xsd:string ;
+    schema:publisher "Petite Plume de carotte" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2014"^^xsd:gYear .
+
+# 2014 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f495 a schema:Book ;
+    schema:author "Bill Thomson"^^xsd:string ;
+    schema:name "Dessine !"^^xsd:string ;
+    schema:publisher "L'école des loisirs" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2014"^^xsd:gYear .
+
+# 2014 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f496 a schema:Book ;
+    schema:author "Bertrand Santini"^^xsd:string ;
+    schema:name "Le Yark"^^xsd:string ;
+    schema:publisher "Grasset Jeunesse" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2014"^^xsd:gYear .
+
+# 2014 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f497 a schema:Book ;
+    schema:author "Christophe Léon"^^xsd:string ;
+    schema:name "Le goût de la tomate"^^xsd:string ;
+    schema:publisher "Thierry Magnier" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2014"^^xsd:gYear .
+
+# 2013 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f498 a schema:Book ;
+    schema:author "Taro Gomi"^^xsd:string ;
+    schema:name "Où est passé papa ?"^^xsd:string ;
+    schema:publisher "Autrement Jeunesse" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2013"^^xsd:gYear .
+
+# 2013 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f499 a schema:Book ;
+    schema:author "Christophe Nicolas"^^xsd:string ;
+    schema:name "Tétine Man"^^xsd:string ;
+    schema:publisher "Didier Jeunesse" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2013"^^xsd:gYear .
+
+# 2013 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f49a a schema:Book ;
+    schema:author "Peter Schössow"^^xsd:string ;
+    schema:name "Ma petite voiture rouge"^^xsd:string ;
+    schema:publisher "Seuil Jeunesse" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2013"^^xsd:gYear .
+
+# 2013 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f49b a schema:Book ;
+    schema:author "Philippe Lechermeier"^^xsd:string ;
+    schema:name "Lettres à plumes et à poils"^^xsd:string ;
+    schema:publisher "Thierry Magnier" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2013"^^xsd:gYear .
+
+# 2013 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f49c a schema:Book ;
+    schema:author "Marie Desplechin"^^xsd:string ;
+    schema:name "Babyfaces"^^xsd:string ;
+    schema:publisher "L’Ecole des loisirs" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2013"^^xsd:gYear .
+
+# 2012 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f49d a schema:Book ;
+    schema:author "Hervé Tullet"^^xsd:string ;
+    schema:name "Un livre"^^xsd:string ;
+    schema:publisher "Bayard Jeunesse" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2012"^^xsd:gYear .
+
+# 2012 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f49e a schema:Book ;
+    schema:author "Michèle Simonsen"^^xsd:string ;
+    schema:name "Les deniers de Compère Lapin"^^xsd:string ;
+    schema:publisher "Didier Jeunesse" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2012"^^xsd:gYear .
+
+# 2012 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f49f a schema:Book ;
+    schema:author "Eric Pintus"^^xsd:string ;
+    schema:name "Faim de loup"^^xsd:string ;
+    schema:publisher "Didier Jeunesse" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2012"^^xsd:gYear .
+
+# 2012 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4a0 a schema:Book ;
+    schema:author "Jimmy Liao"^^xsd:string ;
+    schema:name "Le son des couleurs"^^xsd:string ;
+    schema:publisher "Bayard Jeunesse" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2012"^^xsd:gYear .
+
+# 2012 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4a1 a schema:Book ;
+    schema:author "Lois Lowry"^^xsd:string ;
+    schema:name "Les Willoughby"^^xsd:string ;
+    schema:publisher "L'école des loisirs" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2012"^^xsd:gYear .
+
+# 2011 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4a2 a schema:Book ;
+    schema:author "Thierry Dedieu"^^xsd:string ;
+    schema:name "Bonne pêche"^^xsd:string ;
+    schema:publisher "Seuil Jeunesse" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2011"^^xsd:gYear .
+
+# 2011 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4a3 a schema:Book ;
+    schema:author "Praline Gay-Para"^^xsd:string ;
+    schema:name "Patouffèt’"^^xsd:string ;
+    schema:publisher "Didier Jeunesse" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2011"^^xsd:gYear .
+
+# 2011 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4a4 a schema:Book ;
+    schema:author "Benoît Jacques"^^xsd:string ;
+    schema:name "La nuit du visiteur"^^xsd:string ;
+    schema:publisher "Benoît Jacques Books" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2011"^^xsd:gYear .
+
+# 2011 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4a5 a schema:Book ;
+    schema:author "Jean-Luc Fromental"^^xsd:string ;
+    schema:name "Oups !"^^xsd:string ;
+    schema:publisher "Hélium" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2011"^^xsd:gYear .
+
+# 2011 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4a6 a schema:Book ;
+    schema:author "Brian Selznik"^^xsd:string ;
+    schema:name "L'invention de Hugo Cabret"^^xsd:string ;
+    schema:publisher "Bayard Jeunesse" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2011"^^xsd:gYear .
+
+# 2010 - 1 chouette (dès 3 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4a7 a schema:Book ;
+    schema:author "Emily Gravett"^^xsd:string ;
+    schema:name "Drôle d'oeuf"^^xsd:string ;
+    schema:publisher "Kaléidoscope" ;
+    schema:award "Prix Bernard Versele : 1 chouette" ;
+    schema:genre "3 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2010"^^xsd:gYear .
+
+# 2010 - 2 chouettes (dès 5 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4a8 a schema:Book ;
+    schema:author "Paul Galdone"^^xsd:string ;
+    schema:name "Le singe et le crocodile"^^xsd:string ;
+    schema:publisher "Circonflexe" ;
+    schema:award "Prix Bernard Versele : 2 chouettes" ;
+    schema:genre "5 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2010"^^xsd:gYear .
+
+# 2010 - 3 chouettes (dès 7 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4a9 a schema:Book ;
+    schema:author "Sylvain Victor"^^xsd:string ;
+    schema:name "Michel le mouton qui n'avait pas de chance"^^xsd:string ;
+    schema:publisher "Thierry Magnier" ;
+    schema:award "Prix Bernard Versele : 3 chouettes" ;
+    schema:genre "7 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2010"^^xsd:gYear .
+
+# 2010 - 4 chouettes (dès 9 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4aa a schema:Book ;
+    schema:author "Chris Riddekk"^^xsd:string ;
+    schema:name "Apolline et le chat masqué"^^xsd:string ;
+    schema:publisher "Milan" ;
+    schema:award "Prix Bernard Versele : 4 chouettes" ;
+    schema:genre "9 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2010"^^xsd:gYear .
+
+# 2010 - 5 chouettes (dès 11 ans)
+schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4ab a schema:Book ;
+    schema:author "Yvan Pommaux"^^xsd:string ;
+    schema:name "Thésée : Comment naissent des légendes"^^xsd:string ;
+    schema:publisher "L’Ecole des Loisirs" ;
+    schema:award "Prix Bernard Versele : 5 chouettes" ;
+    schema:genre "11 ans et plus" ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele> ;
+    schema:datePublished "2010"^^xsd:gYear .
 
 
