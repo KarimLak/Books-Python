@@ -5,7 +5,7 @@ def print_duplicate_uri_books(ttl_filename):
     uri_dict = defaultdict(int)
 
     # Open and read the ttl file line by line
-    with open(ttl_filename, 'r') as file:
+    with open(ttl_filename, 'r', encoding='utf-8') as file:
         for line in file:
             # Ignore lines without a "a" predicate which signifies rdf:type
             if ' a ' not in line:
