@@ -9461,3 +9461,1722 @@ schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0756 a schema:Book ;
     schema:datePublished "1997"^^xsd:string ;
     schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-suisse> ;
     schema:award "Prix Chronos" .
+
+# 2022
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0840> a schema:Book ;
+    schema:name "Monsieur Leblanc et l’homme en noir"^^xsd:string ;
+    schema:author "Bernard Villiot et Barbara Brun"^^xsd:string ;
+    schema:publisher "Gautier Languereau" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2022"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0841> a schema:Book ;
+    schema:name "Le livre du rien"^^xsd:string ;
+    schema:author "Rémi Courgeon"^^xsd:string ;
+    schema:publisher "Seuil jeunesse" ;
+    schema:genre "Littérature : CE1 - CE2" ;
+    schema:datePublished "2022"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 - CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0842> a schema:Book ;
+    schema:name "La pelote d’Elisa"^^xsd:string ;
+    schema:author "Marilou Robillard"^^xsd:string ;
+    schema:publisher "l’Harmattan" ;
+    schema:genre "Littérature : CM1 - CM2" ;
+    schema:datePublished "2022"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 - CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0843> a schema:Book ;
+    schema:name "La maison aux 36 clés"^^xsd:string ;
+    schema:author "Nadine Debertolis et Antonin Faure"^^xsd:string ;
+    schema:publisher "Magnard jeunesse" ;
+    schema:genre "Littérature : 6e - 5e" ;
+    schema:datePublished "2022"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e - 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0844> a schema:Book ;
+    schema:name "Le syndrome du spaghetti"^^xsd:string ;
+    schema:author "Marie Vareille"^^xsd:string ;
+    schema:publisher "Pocket Jeunesse" ;
+    schema:genre "Littérature : 4e - 3e" ;
+    schema:datePublished "2022"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e - 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0845> a schema:Book ;
+    schema:name "Les trois vies de Suzana Baker"^^xsd:string ;
+    schema:author "Philippe Amar"^^xsd:string ;
+    schema:publisher "Mazarine" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2022"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0846> a schema:Book ;
+    schema:name "Les ballons du souvenir"^^xsd:string ;
+    schema:author "Jessie Oliveros et Dana Wulfekotte"^^xsd:string ;
+    schema:publisher "Circonflexe" ;
+    schema:genre "Littérature : Prix Chronos Alzheimer" ;
+    schema:datePublished "2022"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos Alzheimer" .
+
+# 2021
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0847> a schema:Book ;
+    schema:name "Un nouveau printemps pour Pépé Ours"^^xsd:string ;
+    schema:author "Elodie Balandras"^^xsd:string ;
+    schema:publisher "Didier Jeunesse" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2021"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0848> a schema:Book ;
+    schema:name "Le parfum des grandes vacances"^^xsd:string ;
+    schema:author "Thibault Prugne"^^xsd:string ;
+    schema:publisher "Margot" ;
+    schema:genre "Littérature : CE1 - CE2" ;
+    schema:datePublished "2021"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 - CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0849> a schema:Book ;
+    schema:name "Les mamies attaquent"^^xsd:string ;
+    schema:author "Claire Renaud et Maurèen Poignonec"^^xsd:string ;
+    schema:publisher "Sarbacane" ;
+    schema:genre "Littérature : CM1 - CM2" ;
+    schema:datePublished "2021"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 - CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0850> a schema:Book ;
+    schema:name "La société des pépés à adopter"^^xsd:string ;
+    schema:author "Emilie Chazerand et Joëlle Dreidemy"^^xsd:string ;
+    schema:publisher "Sarbacane" ;
+    schema:genre "Littérature : 6e - 5e" ;
+    schema:datePublished "2021"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e - 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0851> a schema:Book ;
+    schema:name "Deux fleurs en hiver"^^xsd:string ;
+    schema:author "Delphine Pessin"^^xsd:string ;
+    schema:publisher "Didier jeunesse" ;
+    schema:genre "Littérature : 4e - 3e" ;
+    schema:datePublished "2021"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e - 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0852> a schema:Book ;
+    schema:name "Yiddish Tango"^^xsd:string ;
+    schema:author "Mylène Mouton"^^xsd:string ;
+    schema:publisher "Gulf Stream Editeur" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2021"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0853> a schema:Book ;
+    schema:name "Vieux Jules"^^xsd:string ;
+    schema:author "Heyna Bé et Rebecca Galera"^^xsd:string ;
+    schema:publisher "Cépages" ;
+    schema:genre "Littérature : Prix Chronos Alzheimer" ;
+    schema:datePublished "2021"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos Alzheimer" .
+
+# 2020
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0854> a schema:Book ;
+    schema:name "Poussière d'étoile"^^xsd:string ;
+    schema:author "Jeanne Willis et Briony May Smith"^^xsd:string ;
+    schema:publisher "Gallimard Jeunesse" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2020"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0855> a schema:Book ;
+    schema:name "Monsieur Boudin"^^xsd:string ;
+    schema:author "Agnès de Lestrade et Juliette Lagrange"^^xsd:string ;
+    schema:publisher "Sarbacane" ;
+    schema:genre "Littérature : CE1 - CE2" ;
+    schema:datePublished "2020"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 - CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0856> a schema:Book ;
+    schema:name "Le secret des O'Reilly"^^xsd:string ;
+    schema:author "Nathalie Somers"^^xsd:string ;
+    schema:publisher "Didier Jeunesse" ;
+    schema:genre "Littérature : CM1 - CM2" ;
+    schema:datePublished "2020"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 - CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0857> a schema:Book ;
+    schema:name "Le gang des vieux schnocks"^^xsd:string ;
+    schema:author "Florence Thinard"^^xsd:string ;
+    schema:publisher "Gallimard Jeunesse" ;
+    schema:genre "Littérature : 6e - 5e" ;
+    schema:datePublished "2020"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e - 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0858> a schema:Book ;
+    schema:name "La vie est un jeu d'échecs"^^xsd:string ;
+    schema:author "Om Swami"^^xsd:string ;
+    schema:publisher "Fleurus" ;
+    schema:genre "Littérature : 4e - 3e" ;
+    schema:datePublished "2020"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e - 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0859> a schema:Book ;
+    schema:name "La jeune fille et le fleuve"^^xsd:string ;
+    schema:author "Bernard Housseau"^^xsd:string ;
+    schema:publisher "Passiflore" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2020"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2019
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0860> a schema:Book ;
+    schema:name "Mon arbre"^^xsd:string ;
+    schema:author "Mélanie Edwards et Emilie Angebault"^^xsd:string ;
+    schema:publisher "Albin Michel Jeunesse" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2019"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0861> a schema:Book ;
+    schema:name "Suzanne aux oiseaux"^^xsd:string ;
+    schema:author "Marie Tibi et Célina Guiné"^^xsd:string ;
+    schema:publisher "Le Grand Jardin" ;
+    schema:genre "Littérature : CE1 - CE2" ;
+    schema:datePublished "2019"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 - CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0862> a schema:Book ;
+    schema:name "Mégumi et le fantôme"^^xsd:string ;
+    schema:author "Eric Senabre"^^xsd:string ;
+    schema:publisher "Didier Jeunesse" ;
+    schema:genre "Littérature : CM1 - CM2" ;
+    schema:datePublished "2019"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 - CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0863> a schema:Book ;
+    schema:name "L'effet Matilda"^^xsd:string ;
+    schema:author "Ellie Irving"^^xsd:string ;
+    schema:publisher "Castelmore" ;
+    schema:genre "Littérature : 6e - 5e" ;
+    schema:datePublished "2019"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e - 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0864> a schema:Book ;
+    schema:name "Mythomamie"^^xsd:string ;
+    schema:author "Gwladys Constant"^^xsd:string ;
+    schema:publisher "Alice Jeunesse" ;
+    schema:genre "Littérature : 4e - 3e" ;
+    schema:datePublished "2019"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e - 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0865> a schema:Book ;
+    schema:name "L'aube sera grandiose"^^xsd:string ;
+    schema:author "Anne-Laure Bondoux"^^xsd:string ;
+    schema:publisher "Gallimard Jeunesse" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2019"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2018
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0866> a schema:Book ;
+    schema:name "Le visage de Mamina"^^xsd:string ;
+    schema:author "Simona Ciraolo"^^xsd:string ;
+    schema:publisher "Gallimard jeunesse" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2018"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0867> a schema:Book ;
+    schema:name "L'enfant qui n'avait jamais vu une fleur"^^xsd:string ;
+    schema:author "Andrée-Anne Gratton et Oussama Mezher"^^xsd:string ;
+    schema:publisher "Les éditions de la Bagnole" ;
+    schema:genre "Littérature : CE1 - CE2" ;
+    schema:datePublished "2018"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 - CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0868> a schema:Book ;
+    schema:name "Les papés de Marseille (T. 1). Peur bleue à Marseille"^^xsd:string ;
+    schema:author "Véronique Delamarre Bellégo"^^xsd:string ;
+    schema:publisher "Oskar jeunesse" ;
+    schema:genre "Littérature : CM1 - CM2" ;
+    schema:datePublished "2018"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 - CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0869> a schema:Book ;
+    schema:name "Mystérieux voisins"^^xsd:string ;
+    schema:author "Hervé Mestron"^^xsd:string ;
+    schema:publisher "Oskar jeunesse" ;
+    schema:genre "Littérature : 6e - 5e" ;
+    schema:datePublished "2018"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e - 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0870> a schema:Book ;
+    schema:name "Les valises"^^xsd:string ;
+    schema:author "Sève Laurent-Fajal"^^xsd:string ;
+    schema:publisher "Gallimard jeunesse" ;
+    schema:genre "Littérature : 4e - 3e" ;
+    schema:datePublished "2018"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e - 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0871> a schema:Book ;
+    schema:name "Tu comprendras quand tu seras plus grande"^^xsd:string ;
+    schema:author "Virginie Grimaldi"^^xsd:string ;
+    schema:publisher "Livre de poche" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2018"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2017
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0872> a schema:Book ;
+    schema:name "Kupi l'enfant de la forêt"^^xsd:string ;
+    schema:author "Sabine du Faÿ et Judith Gueyfier"^^xsd:string ;
+    schema:publisher "L'Elan vert" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2017"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0873> a schema:Book ;
+    schema:name "Attends Miyuki"^^xsd:string ;
+    schema:author "Roxane Marie Galliez et Seng Soun Ratanavanh"^^xsd:string ;
+    schema:publisher "La Martinière jeunesse" ;
+    schema:genre "Littérature : CE1 - CE2" ;
+    schema:datePublished "2017"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 - CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0874> a schema:Book ;
+    schema:name "Le ciel d'Homère"^^xsd:string ;
+    schema:author "Agnès de Lestrade"^^xsd:string ;
+    schema:publisher "Bulles de savon" ;
+    schema:genre "Littérature : CM1 - CM2" ;
+    schema:datePublished "2017"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 - CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0875> a schema:Book ;
+    schema:name "Le goût sucré de la peur"^^xsd:string ;
+    schema:author "Alexandre Chardin"^^xsd:string ;
+    schema:publisher "Magnard jeunesse" ;
+    schema:genre "Littérature : 6e - 5e" ;
+    schema:datePublished "2017"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e - 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0876> a schema:Book ;
+    schema:name "L'été des pas perdus"^^xsd:string ;
+    schema:author "Rachel Hausfater"^^xsd:string ;
+    schema:publisher "Flammarion jeunesse" ;
+    schema:genre "Littérature : 4e - 3e" ;
+    schema:datePublished "2017"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e - 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0877> a schema:Book ;
+    schema:name "Quelqu'un qu'on aime"^^xsd:string ;
+    schema:author "Séverine Vidal"^^xsd:string ;
+    schema:publisher "Sarbacane" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2017"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2016
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0878> a schema:Book ;
+    schema:name "Raconte encore grand-mère !"^^xsd:string ;
+    schema:author "Marido Viale et Xavière Broncard"^^xsd:string ;
+    schema:publisher "Samir" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2016"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0879> a schema:Book ;
+    schema:name "Mais quelle idée !"^^xsd:string ;
+    schema:author "Pascal Brissy, Didier Jean et Zad"^^xsd:string ;
+    schema:publisher "Utopique" ;
+    schema:genre "Littérature : CE1 - CE2" ;
+    schema:datePublished "2016"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 - CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0880> a schema:Book ;
+    schema:name "Teddy n'a-qu'un-oeil"^^xsd:string ;
+    schema:author "Yann Rambaud"^^xsd:string ;
+    schema:publisher "Hachette Jeunesse" ;
+    schema:genre "Littérature : CM1 - CM2" ;
+    schema:datePublished "2016"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 - CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0881> a schema:Book ;
+    schema:name "Ne plus se taire"^^xsd:string ;
+    schema:author "Véronique Olivier-Barberon"^^xsd:string ;
+    schema:publisher "Oskar" ;
+    schema:genre "Littérature : 6e - 5e" ;
+    schema:datePublished "2016"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e - 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0882> a schema:Book ;
+    schema:name "iM@mie"^^xsd:string ;
+    schema:author "Susie Morgenstern"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:genre "Littérature : 4e - 3e" ;
+    schema:datePublished "2016"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e - 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0883> a schema:Book ;
+    schema:name "Les oubliés du dimanche"^^xsd:string ;
+    schema:author "Valérie Perrin"^^xsd:string ;
+    schema:publisher "Albin Michel" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2016"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2015
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0884> a schema:Book ;
+    schema:name "Lola"^^xsd:string ;
+    schema:author "Olivier Douzou"^^xsd:string ;
+    schema:publisher "Le Rouergue" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2015"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0885> a schema:Book ;
+    schema:name "Bigoudi"^^xsd:string ;
+    schema:author "Delphine Perret et Sébastien Mourrain"^^xsd:string ;
+    schema:publisher "Les fourmis rouges" ;
+    schema:genre "Littérature : CE1 - CE2" ;
+    schema:datePublished "2015"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 - CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0886> a schema:Book ;
+    schema:name "Toute seule dans la nuit"^^xsd:string ;
+    schema:author "Sandrine Beau et Eva Chatelain"^^xsd:string ;
+    schema:publisher "Alice" ;
+    schema:genre "Littérature : CM1 - CM2" ;
+    schema:datePublished "2015"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 - CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0887> a schema:Book ;
+    schema:name "La fille qui n'aimait pas les fins"^^xsd:string ;
+    schema:author "Yaël Hassan et Matthieu Radenac"^^xsd:string ;
+    schema:publisher "Syros" ;
+    schema:genre "Littérature : 6e - 5e" ;
+    schema:datePublished "2015"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e - 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0888> a schema:Book ;
+    schema:name "Le fantôme de Dublin"^^xsd:string ;
+    schema:author "Olivier Larizza"^^xsd:string ;
+    schema:publisher "Oskar" ;
+    schema:genre "Littérature : 4e - 3e" ;
+    schema:datePublished "2015"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e - 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0889> a schema:Book ;
+    schema:name "Le murmures des attentes"^^xsd:string ;
+    schema:author "Philippe Nonie"^^xsd:string ;
+    schema:publisher "Lucane" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2015"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2014
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0890> a schema:Book ;
+    schema:name "Tobi et les souvenirs"^^xsd:string ;
+    schema:author "Anne-Kathrin Behl"^^xsd:string ;
+    schema:publisher "Tourbillon" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2014"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0891> a schema:Book ;
+    schema:name "Kiki et Rosalie"^^xsd:string ;
+    schema:author "Ronan Badel"^^xsd:string ;
+    schema:publisher "Sarbacane" ;
+    schema:genre "Littérature : CE1 - CE2" ;
+    schema:datePublished "2014"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 - CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0892> a schema:Book ;
+    schema:name "Rue des petits singes"^^xsd:string ;
+    schema:author "Agnès Laroche"^^xsd:string ;
+    schema:publisher "Rageot" ;
+    schema:genre "Littérature : CM1 - CM2" ;
+    schema:datePublished "2014"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 - CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0893> a schema:Book ;
+    schema:name "Monsieur Kipu"^^xsd:string ;
+    schema:author "David Walliams et Quentin Blake"^^xsd:string ;
+    schema:publisher "Albin Michel Jeunesse" ;
+    schema:genre "Littérature : 6e - 5e" ;
+    schema:datePublished "2014"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e - 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0894> a schema:Book ;
+    schema:name "Swing à Berlin"^^xsd:string ;
+    schema:author "Christophe Lambert"^^xsd:string ;
+    schema:publisher "Bayard jeunesse" ;
+    schema:genre "Littérature : 4e - 3e" ;
+    schema:datePublished "2014"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e - 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0895> a schema:Book ;
+    schema:name "Le Premier oublié"^^xsd:string ;
+    schema:author "Cyril Massarotto"^^xsd:string ;
+    schema:publisher "XO éditions" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2014"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2013
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0896> a schema:Book ;
+    schema:name "Les baisers de Cornélius"^^xsd:string ;
+    schema:author "Agnès de Lestrade et Charlotte Cottereau"^^xsd:string ;
+    schema:publisher "Balivernes" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2013"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0897> a schema:Book ;
+    schema:name "Le Vieux berger"^^xsd:string ;
+    schema:author "Géraldine Elschner et Jonas Lauströer"^^xsd:string ;
+    schema:publisher "Minedition" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2013"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0898> a schema:Book ;
+    schema:name "Ma Tata Thérèse"^^xsd:string ;
+    schema:author "Fabrice Nicolino et Catherine Meurisse"^^xsd:string ;
+    schema:publisher "Sarbacane" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2013"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0899> a schema:Book ;
+    schema:name "Rue Stendhal"^^xsd:string ;
+    schema:author "Yaël Hassan"^^xsd:string ;
+    schema:publisher "Casterman junior" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2013"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0900> a schema:Book ;
+    schema:name "La Petite fille qui aimait la lumière"^^xsd:string ;
+    schema:author "Cyril Massarotto"^^xsd:string ;
+    schema:publisher "XO éditions" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2013"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0901> a schema:Book ;
+    schema:name "Eux sur la photo"^^xsd:string ;
+    schema:author "Hélène Gestern"^^xsd:string ;
+    schema:publisher "Arléa éditions" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2013"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2012
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0902> a schema:Book ;
+    schema:name "Souvenirs de Gibraltar"^^xsd:string ;
+    schema:author "Laurence Gillot et Charlotte Roederer"^^xsd:string ;
+    schema:publisher "Nathan" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2012"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0903> a schema:Book ;
+    schema:name "François et le temps"^^xsd:string ;
+    schema:author "Christine Naumann-Villemin et Svjetlan Junaković"^^xsd:string ;
+    schema:publisher "Kaléidoscope" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2012"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0904> a schema:Book ;
+    schema:name "Momo des Coquelicots"^^xsd:string ;
+    schema:author "Yaël Hassan et Béatrice Alemagna"^^xsd:string ;
+    schema:publisher "Syros" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2012"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0905> a schema:Book ;
+    schema:name "l'heure des chats"^^xsd:string ;
+    schema:author "Myriam Gallot et Ilya Green"^^xsd:string ;
+    schema:publisher "Syros" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2012"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0906> a schema:Book ;
+    schema:name "Comment (Bien) rater ses vacances"^^xsd:string ;
+    schema:author "Anne Percin et Dorothy-Shoes"^^xsd:string ;
+    schema:publisher "Le Rouergue" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2012"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0907> a schema:Book ;
+    schema:name "L'avant-dernière chance"^^xsd:string ;
+    schema:author "Caroline Vermalle"^^xsd:string ;
+    schema:publisher "Calmann-Lévy" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2012"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2011
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0908> a schema:Book ;
+    schema:name "Boubou et grand-père"^^xsd:string ;
+    schema:author "Cyril Hahn"^^xsd:string ;
+    schema:publisher "Casterman" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2011"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0909> a schema:Book ;
+    schema:name "Le Pépé de mon Pépé"^^xsd:string ;
+    schema:author "Noé Carlain et Ronan Badel"^^xsd:string ;
+    schema:publisher "L'Elan Vert" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2011"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0910> a schema:Book ;
+    schema:name "Louis et le jardin des secrets"^^xsd:string ;
+    schema:author "Véronique Delamarre Bellégo et Pierre Beaucousin"^^xsd:string ;
+    schema:publisher "Oskar" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2011"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0911> a schema:Book ;
+    schema:name "Picasso ou rien"^^xsd:string ;
+    schema:author "Sylvaine Jaoui et Vincent Dutrait"^^xsd:string ;
+    schema:publisher "Rageot" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2011"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0912> a schema:Book ;
+    schema:name "Viva Las Vegas !"^^xsd:string ;
+    schema:author "Julie Goislard et Isabelle Bonnet"^^xsd:string ;
+    schema:publisher "Oskar" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2011"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0913> a schema:Book ;
+    schema:name "L'avant-dernière chance"^^xsd:string ;
+    schema:author "Caroline Vermalle"^^xsd:string ;
+    schema:publisher "Calmann-Lévy" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2011"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2010
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0914> a schema:Book ;
+    schema:name "La papylooluge"^^xsd:string ;
+    schema:author "Gérard Moncomble et Catherine Nicolas"^^xsd:string ;
+    schema:publisher "Hatier jeunesse" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2010"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0915> a schema:Book ;
+    schema:name "Grand-père et son secret"^^xsd:string ;
+    schema:author "Catherine Ganz-Muller et Malorie Laisne"^^xsd:string ;
+    schema:publisher "Lito" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2010"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0916> a schema:Book ;
+    schema:name "Ma tante est épatante"^^xsd:string ;
+    schema:author "Gladys Marciano et Thomas Gosselin"^^xsd:string ;
+    schema:publisher "Rouergue" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2010"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0917> a schema:Book ;
+    schema:name "Marcia vous maquille"^^xsd:string ;
+    schema:author "Claudia Mills et Sidonie Van Den Dries"^^xsd:string ;
+    schema:publisher "Bayard jeunesse" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2010"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0918> a schema:Book ;
+    schema:name "Guadalquivir"^^xsd:string ;
+    schema:author "Stéphane Servant"^^xsd:string ;
+    schema:publisher "Gallimard" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2010"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0919> a schema:Book ;
+    schema:name "La grand-mère de Jade"^^xsd:string ;
+    schema:author "Frédérique Deghelt"^^xsd:string ;
+    schema:publisher "Actes Sud" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2010"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2009
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0920> a schema:Book ;
+    schema:name "Emma et ses deux mamies"^^xsd:string ;
+    schema:author "Susie Morgenstern et Séverine Cordier"^^xsd:string ;
+    schema:publisher "Nathan" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2009"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0921> a schema:Book ;
+    schema:name "Adieu, Monsieur Câlin"^^xsd:string ;
+    schema:author "Ulf Nilsson et Anna-Clara Tidholm"^^xsd:string ;
+    schema:publisher "Oskar jeunesse" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2009"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0922> a schema:Book ;
+    schema:name "Noé"^^xsd:string ;
+    schema:author "Claire Clément"^^xsd:string ;
+    schema:publisher "Bayard jeunesse" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2009"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0923> a schema:Book ;
+    schema:name "Suivez-moi-jeune-homme"^^xsd:string ;
+    schema:author "Yaël Hassan"^^xsd:string ;
+    schema:publisher "Casterman" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2009"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0924> a schema:Book ;
+    schema:name "Léonore"^^xsd:string ;
+    schema:author "Frédérique Niobey"^^xsd:string ;
+    schema:publisher "Le Rouergue" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2009"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0925> a schema:Book ;
+    schema:name "Passe un ange noir"^^xsd:string ;
+    schema:author "Anne Bragance"^^xsd:string ;
+    schema:publisher "Mercure de France" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2009"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2008
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0926> a schema:Book ;
+    schema:name "Les copains de la forêt : Vive la retraite !"^^xsd:string ;
+    schema:author "Valérie Baranski et Bernard Le Gall"^^xsd:string ;
+    schema:publisher "Hachette" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2008"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0927> a schema:Book ;
+    schema:name "Un anniversaire camion"^^xsd:string ;
+    schema:author "Jo Hoestlandt"^^xsd:string ;
+    schema:publisher "Thierry Magnier" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2008"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0928> a schema:Book ;
+    schema:name "Poisson d'argent"^^xsd:string ;
+    schema:author "Sylvie Deshors et Monike Czarnecki"^^xsd:string ;
+    schema:publisher "Rue du monde" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2008"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0929> a schema:Book ;
+    schema:name "Aussi libres qu'un rêve"^^xsd:string ;
+    schema:author "Manon Fargetton"^^xsd:string ;
+    schema:publisher "Mango" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2008"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0930> a schema:Book ;
+    schema:name "La fille Corneille"^^xsd:string ;
+    schema:author "Bodil Bredsdorff"^^xsd:string ;
+    schema:publisher "Thierry Magnier" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2008"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0931> a schema:Book ;
+    schema:name "Elle s'appelait Sarah"^^xsd:string ;
+    schema:author "Tatiana de Rosnay"^^xsd:string ;
+    schema:publisher "Héloïse d'Ormesson" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2008"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2007
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0932> a schema:Book ;
+    schema:name "Comment la Grand-mère se fit des amis"^^xsd:string ;
+    schema:author "Jean Muzi et Aurélie Guillerey"^^xsd:string ;
+    schema:publisher "Flammarion" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2007"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0933> a schema:Book ;
+    schema:name "Une famille pour de bon"^^xsd:string ;
+    schema:author "Cathy Ribeiro et Benoît Perroud"^^xsd:string ;
+    schema:publisher "Actes Sud Junior" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2007"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0934> a schema:Book ;
+    schema:name "Loulette"^^xsd:string ;
+    schema:author "Claire Clément"^^xsd:string ;
+    schema:publisher "Bayard Jeunesse" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2007"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0935> a schema:Book ;
+    schema:name "Des vacances tranquilles !"^^xsd:string ;
+    schema:author "Rémi Hatzfeld"^^xsd:string ;
+    schema:publisher "Labor" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2007"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0936> a schema:Book ;
+    schema:name "Maestro"^^xsd:string ;
+    schema:author "Xavier-Laurent Petit"^^xsd:string ;
+    schema:publisher "L'école des loisirs" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2007"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0937> a schema:Book ;
+    schema:name "La neige éternelle"^^xsd:string ;
+    schema:author "Olivier Deck et Philippe Blondel"^^xsd:string ;
+    schema:publisher "Albin Michel" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2007"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2006
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0938> a schema:Book ;
+    schema:name "Les deux maisons"^^xsd:string ;
+    schema:author "Didier Kowarsky et Samuel Ribeyron"^^xsd:string ;
+    schema:publisher "Didier jeunesse" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2006"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0939> a schema:Book ;
+    schema:name "Des grands-parents magiques"^^xsd:string ;
+    schema:author "Kochka et Cyril Farudja"^^xsd:string ;
+    schema:publisher "Flammarion" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2006"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0940> a schema:Book ;
+    schema:name "Spinoza et moi"^^xsd:string ;
+    schema:author "Sylvaine Jaoui et Kitty Crowther"^^xsd:string ;
+    schema:publisher "Casterman" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2006"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0941> a schema:Book ;
+    schema:name "La troisième vengeance de Robert Poutifard"^^xsd:string ;
+    schema:author "Jean-Claude Mourlevat et Béatrice Alemagna"^^xsd:string ;
+    schema:publisher "Gallimard Jeunesse" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2006"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0942> a schema:Book ;
+    schema:name "29 février"^^xsd:string ;
+    schema:author "Rémi Stefani"^^xsd:string ;
+    schema:publisher "Rageot Editeur" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2006"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0943> a schema:Book ;
+    schema:name "Le cahier de Marie"^^xsd:string ;
+    schema:author "Danielle Thiébaud"^^xsd:string ;
+    schema:publisher "Siloë" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2006"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2005
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0944> a schema:Book ;
+    schema:name "En route pour la montagne magique"^^xsd:string ;
+    schema:author "Laurence Gillot et Jean-François Martin"^^xsd:string ;
+    schema:publisher "Bayard Jeunesse" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2005"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0945> a schema:Book ;
+    schema:name "Angelman"^^xsd:string ;
+    schema:author "Didier Lévy et Matthieu Roussel"^^xsd:string ;
+    schema:publisher "Sarbacane" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2005"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0946> a schema:Book ;
+    schema:name "Mamie sitter"^^xsd:string ;
+    schema:author "Nathalie Charles et Ginette Hoffmann"^^xsd:string ;
+    schema:publisher "Rageot" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2005"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0947> a schema:Book ;
+    schema:name "Mamie mystère"^^xsd:string ;
+    schema:author "Marie-Sophie Vermot et Daphné Collignon"^^xsd:string ;
+    schema:publisher "Milan" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2005"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0948> a schema:Book ;
+    schema:name "Les coups durs"^^xsd:string ;
+    schema:author "Elizabeth Laird"^^xsd:string ;
+    schema:publisher "Flammarion" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2005"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+# 2005 Lycéens, 20 ans et plus : La reine nue d'Anne Bragance (Actes Sud)
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0948> a schema:Book ;
+    schema:name "La reine nue"^^xsd:string ;
+    schema:author "Anne Bragance"^^xsd:string ;
+    schema:publisher "Actes Sud" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2005"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2004
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0949> a schema:Book ;
+    schema:name "Molly au paradis"^^xsd:string ;
+    schema:author "Emma Chichester Clark"^^xsd:string ;
+    schema:publisher "Gallimard Jeunesse" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2004"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0950> a schema:Book ;
+    schema:name "Le choix de Léon"^^xsd:string ;
+    schema:author "Murielle Ragoucy et Jean-Louis Besson"^^xsd:string ;
+    schema:publisher "Bayard" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2004"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0951> a schema:Book ;
+    schema:name "Beurk ! Mamie est amoureuse"^^xsd:string ;
+    schema:author "Jeremy Strong et Laurent Audouin"^^xsd:string ;
+    schema:publisher "Milan" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2004"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0952> a schema:Book ;
+    schema:name "L'intruse"^^xsd:string ;
+    schema:author "Gudule et Karen Laborie"^^xsd:string ;
+    schema:publisher "Magnard" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2004"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0953> a schema:Book ;
+    schema:name "L'absente"^^xsd:string ;
+    schema:author "Claire Mazard"^^xsd:string ;
+    schema:publisher "Syros" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2004"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0954> a schema:Book ;
+    schema:name "Oscar et la dame rose"^^xsd:string ;
+    schema:author "Eric-Emmanuel Schmitt"^^xsd:string ;
+    schema:publisher "Albin Michel" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2004"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2003
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0955> a schema:Book ;
+    schema:name "Grand-mère loup, y es-tu ?"^^xsd:string ;
+    schema:author "Ken Brown"^^xsd:string ;
+    schema:publisher "Gallimard" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2003"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0956> a schema:Book ;
+    schema:name "Mamie met le turbo"^^xsd:string ;
+    schema:author "Wolfram Hänel et Christa Unzer"^^xsd:string ;
+    schema:publisher "Nord-Sud" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2003"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0957> a schema:Book ;
+    schema:name "La grève de la vie"^^xsd:string ;
+    schema:author "Amélie Couture et Marc Boutavant"^^xsd:string ;
+    schema:publisher "Actes Sud Junior" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2003"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0958> a schema:Book ;
+    schema:name "Un arbre pour Marie"^^xsd:string ;
+    schema:author "Yaël Hassan"^^xsd:string ;
+    schema:publisher "Syros" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2003"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0959> a schema:Book ;
+    schema:name "Les Abîmes d'Autremer"^^xsd:string ;
+    schema:author "Danielle Martinigol"^^xsd:string ;
+    schema:publisher "Mango Jeunesse" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2003"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0960> a schema:Book ;
+    schema:name "Des phrases courtes, ma chérie"^^xsd:string ;
+    schema:author "Pierrette Fleutiaux"^^xsd:string ;
+    schema:publisher "Actes Sud" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2003"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2002
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0961> a schema:Book ;
+    schema:name "Tu te souviens ?"^^xsd:string ;
+    schema:author "Martine Beck et Annie Bonhomme"^^xsd:string ;
+    schema:publisher "Kaléidoscope" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2002"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0962> a schema:Book ;
+    schema:name "Batterie et lunettes noires"^^xsd:string ;
+    schema:author "Christian Jolibois et Edith"^^xsd:string ;
+    schema:publisher "Flammarion" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2002"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0963> a schema:Book ;
+    schema:name "Supermamie"^^xsd:string ;
+    schema:author "Gilles Fresse et Christian Heinrich"^^xsd:string ;
+    schema:publisher "Rageot Editeur" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2002"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0964> a schema:Book ;
+    schema:name "Le professeur de musique"^^xsd:string ;
+    schema:author "Yaël Hassan et Serge Bloch"^^xsd:string ;
+    schema:publisher "Casterman" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2002"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0965> a schema:Book ;
+    schema:name "Vis ta vie Nina"^^xsd:string ;
+    schema:author "Maïa Brami et Claude K. Dubois"^^xsd:string ;
+    schema:publisher "Grasset Jeunesse" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2002"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0966> a schema:Book ;
+    schema:name "Happy birthday grand-mère"^^xsd:string ;
+    schema:author "Valérie Saubade"^^xsd:string ;
+    schema:publisher "Pocket" ;
+    schema:genre "Littérature : Lycéens, 20 ans et plus" ;
+    schema:datePublished "2002"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Lycéens, 20 ans et plus" .
+
+# 2001
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0967> a schema:Book ;
+    schema:name "Le grand-père de Petit Ours"^^xsd:string ;
+    schema:author "Nigel Gray et Vanessa Cabban"^^xsd:string ;
+    schema:publisher "Gründ" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2001"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0968> a schema:Book ;
+    schema:name "Plumette une poule super chouette"^^xsd:string ;
+    schema:author "Anne-Marie Desplat-Duc et Morgan"^^xsd:string ;
+    schema:publisher "Rageot" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2001"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0969> a schema:Book ;
+    schema:name "Harry et les vieilles pommes"^^xsd:string ;
+    schema:author "Alan Temperley et Christophe Besse"^^xsd:string ;
+    schema:publisher "Hachette Jeunesse" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2001"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0970> a schema:Book ;
+    schema:name "Ninon-Silence"^^xsd:string ;
+    schema:author "Marie-Claude Bérot et Nicolas Wintz"^^xsd:string ;
+    schema:publisher "Flammarion" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2001"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0971> a schema:Book ;
+    schema:name "Jusqu'à la mer"^^xsd:string ;
+    schema:author "Jacques Mazeau"^^xsd:string ;
+    schema:publisher "Seuil" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2001"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+# 2000
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0972> a schema:Book ;
+    schema:name "Grand-mère Albert"^^xsd:string ;
+    schema:author "Didier Lévy et Gilles Rapaport"^^xsd:string ;
+    schema:publisher "L'école des loisirs" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "2000"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0973> a schema:Book ;
+    schema:name "Joker"^^xsd:string ;
+    schema:author "Susie Morgenstern et Mireille D'Allancé"^^xsd:string ;
+    schema:publisher "L'école des loisirs" ;
+    schema:genre "Littérature : CE1 – CE2" ;
+    schema:datePublished "2000"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CE1 – CE2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0974> a schema:Book ;
+    schema:name "Mémé, t'as du courrier"^^xsd:string ;
+    schema:author "Jo Hoestland et Claire Franek"^^xsd:string ;
+    schema:publisher "Nathan" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "2000"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0975> a schema:Book ;
+    schema:name "Momo, petit prince des Bleuets"^^xsd:string ;
+    schema:author "Yaël Hassan et Joëlle Boucher"^^xsd:string ;
+    schema:publisher "Syros" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "2000"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0976> a schema:Book ;
+    schema:name "Mamie Mémoire"^^xsd:string ;
+    schema:author "Hervé Jaouen"^^xsd:string ;
+    schema:publisher "Gallimard" ;
+    schema:genre "Littérature : 4e – 3e" ;
+    schema:datePublished "2000"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 4e – 3e" .
+
+# 1999
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0977> a schema:Book ;
+    schema:name "Adieu, Veïa !"^^xsd:string ;
+    schema:author "Antonie Schneider et Maja Dusikova"^^xsd:string ;
+    schema:publisher "Nord-Sud" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "1999"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0978> a schema:Book ;
+    schema:name "Le Vieux fou de dessin"^^xsd:string ;
+    schema:author "François Place"^^xsd:string ;
+    schema:publisher "Gallimard" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "1999"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0979> a schema:Book ;
+    schema:name "Les Chats"^^xsd:string ;
+    schema:author "Marie-Hélène Delval"^^xsd:string ;
+    schema:publisher "Bayard" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "1999"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+# 1998
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0980> a schema:Book ;
+    schema:name "Bonjour Madame la Mort"^^xsd:string ;
+    schema:author "Pascal Teulade et Jean-Charles Sarrazin"^^xsd:string ;
+    schema:publisher "L'école des loisirs" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "1998"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0981> a schema:Book ;
+    schema:name "Les portes s'ouvriront 7 fois"^^xsd:string ;
+    schema:author "Marie Saint-Dizier"^^xsd:string ;
+    schema:publisher "Gallimard Jeunesse" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "1998"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0982> a schema:Book ;
+    schema:name "Un si terrible secret"^^xsd:string ;
+    schema:author "Evelyne Brisou-Pellen"^^xsd:string ;
+    schema:publisher "Rageot" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "1998"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+# 1997
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0983> a schema:Book ;
+    schema:name "Les secrets de Papy Crapaud"^^xsd:string ;
+    schema:author "Keiko Kasza"^^xsd:string ;
+    schema:publisher "Kaleïdoscope" ;
+    schema:genre "Littérature : Maternelle – CP" ;
+    schema:datePublished "1997"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : Maternelle – CP" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0984> a schema:Book ;
+    schema:name "Les aventures de petit Jules et pépé Jules : il raconte bien mon pépé"^^xsd:string ;
+    schema:author "Frédéric Jannin et Stefan Liberski"^^xsd:string ;
+    schema:publisher "Casterman" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "1997"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0985> a schema:Book ;
+    schema:name "Lettres d'amour de 0 à 10"^^xsd:string ;
+    schema:author "Susie Morgenstern"^^xsd:string ;
+    schema:publisher "L'école des loisirs" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "1997"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+# 1996
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0986> a schema:Book ;
+    schema:name "Le Voyage de grand-père"^^xsd:string ;
+    schema:author "Allen Say"^^xsd:string ;
+    schema:publisher "L'école des loisirs" ;
+    schema:genre "Littérature : CM1 – CM2" ;
+    schema:datePublished "1996"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : CM1 – CM2" .
+
+<schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0987> a schema:Book ;
+    schema:name "La Bibliothécaire"^^xsd:string ;
+    schema:author "Gudule et C. Durual"^^xsd:string ;
+    schema:publisher "Hachette Jeunesse" ;
+    schema:genre "Littérature : 6e – 5e" ;
+    schema:datePublished "1996"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature> ;
+    schema:award "Prix Chronos de Littérature : 6e – 5e" .
+
+schema:Booked7a4921-0d39-4370-a445-9ca6b61df99c a ns1:Book ;
+    ns1:author "Stéphane Sénégas"^^xsd:string ;
+    ns1:award "Prix Coup de Pouce Gulli des Premières Lectures" ;
+    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Silex"^^xsd:string ;
+    ns1:publisher "Kaléidoscope" ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-coup-de-pouce-gulli-des-premieres-lectures"^^xsd:string .
+
+schema:Booked7a4921-0d39-4370-a445-9ca6b61df99d a ns1:Book ;
+    ns1:author "Michel Bussi et Peggy Nille"^^xsd:string ;
+    ns1:award "Prix Coup de Pouce Gulli des Premières Lectures" ;
+    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Le grand voyage de Gouti"^^xsd:string ;
+    ns1:publisher "Langue au chat" ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-coup-de-pouce-gulli-des-premieres-lectures"^^xsd:string .
+
+# 2023
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d1 a schema:Book ;
+    schema:name "Fiesta"^^xsd:string ;
+    schema:author "Gwendoline Soublin"^^xsd:string ;
+    schema:publisher "Editions Espaces 34" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2023"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d2 a schema:Book ;
+    schema:name "Mon visage d'insomnie"^^xsd:string ;
+    schema:author "Samuel Gallet"^^xsd:string ;
+    schema:publisher "Editions Espaces 34" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2023"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+# 2022
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d3 a schema:Book ;
+    schema:name "Il a beaucoup souffert Lucifer"^^xsd:string ;
+    schema:author "Antonio Carmona"^^xsd:string ;
+    schema:publisher "Editions Théâtrales" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2022"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d4 a schema:Book ;
+    schema:name "Le processus"^^xsd:string ;
+    schema:author "Catherine Verlaguet"^^xsd:string ;
+    schema:publisher "Rouergue" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2022"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+# 2021
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d5 a schema:Book ;
+    schema:name "Ma langue dans ta poche"^^xsd:string ;
+    schema:author "Fabien Arca"^^xsd:string ;
+    schema:publisher "Espaces 34" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2021"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d6 a schema:Book ;
+    schema:name "Le gardien de mon frère"^^xsd:string ;
+    schema:author "Ronan Mancec"^^xsd:string ;
+    schema:publisher "Editions Théâtrales" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2021"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+# 2020
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d7 a schema:Book ;
+    schema:name "Babïl"^^xsd:string ;
+    schema:author "Sarah Carré"^^xsd:string ;
+    schema:publisher "Editions Théâtrales" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2020"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d8 a schema:Book ;
+    schema:name "Tigrane"^^xsd:string ;
+    schema:author "Jalie Barcilon"^^xsd:string ;
+    schema:publisher "L'Harmattan" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2020"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d9 a schema:Book ;
+    schema:name "Les séparables"^^xsd:string ;
+    schema:author "Fabrice Melquiot"^^xsd:string ;
+    schema:publisher "L'Arche" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2019"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d10 a schema:Book ;
+    schema:name "Ces filles-là"^^xsd:string ;
+    schema:author "Evan Placey"^^xsd:string ;
+    schema:publisher "Editions Théâtrales" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2019"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d11 a schema:Book ;
+    schema:name "Quelques minutes de silence"^^xsd:string ;
+    schema:author "Philippe Gauthier"^^xsd:string ;
+    schema:publisher "L'école des loisirs" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2018"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d12 a schema:Book ;
+    schema:name "Hashtag Romjul"^^xsd:string ;
+    schema:author "Nicolas F. Vargas"^^xsd:string ;
+    schema:publisher "L'Harmattan" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2018"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d13 a schema:Book ;
+    schema:name "Edgar Paillettes"^^xsd:string ;
+    schema:author "Simon Boulerice"^^xsd:string ;
+    schema:publisher "Lansman" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2017"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d14 a schema:Book ;
+    schema:name "Le poisson belge"^^xsd:string ;
+    schema:author "Léonore Confino"^^xsd:string ;
+    schema:publisher "Actes Sud-Papiers" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2017"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d15 a schema:Book ;
+    schema:name "Jardin secret"^^xsd:string ;
+    schema:author "Fabien Arca"^^xsd:string ;
+    schema:publisher "Espaces 34" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2016"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d16 a schema:Book ;
+    schema:name "Poussière"^^xsd:string ;
+    schema:author "Céline Delbecq"^^xsd:string ;
+    schema:publisher "Lansman" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2016"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d17 a schema:Book ;
+    schema:name "Les vilains petits"^^xsd:string ;
+    schema:author "Catherine Verlaguet"^^xsd:string ;
+    schema:publisher "Théâtrales" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2015"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d18 a schema:Book ;
+    schema:name "Je marche dans la nuit sur un chemin mauvais"^^xsd:string ;
+    schema:author "Ahmed Madani"^^xsd:string ;
+    schema:publisher "Actes Sud-Papiers" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2015"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d19 a schema:Book ;
+    schema:name "Simon la Gadouille"^^xsd:string ;
+    schema:author "Rob Evans"^^xsd:string ;
+    schema:publisher "L’Arche" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2014"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d20 a schema:Book ;
+    schema:name "2h14"^^xsd:string ;
+    schema:author "David Paquet"^^xsd:string ;
+    schema:publisher "Actes Sud-Papiers" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2014"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d21 a schema:Book ;
+    schema:name "Mon frère, ma princesse"^^xsd:string ;
+    schema:author "Catherine Zambon"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2013"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d22 a schema:Book ;
+    schema:name "Balle(s) perdue(s) ?"^^xsd:string ;
+    schema:author "Philippe Gauthier"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2013"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d23 a schema:Book ;
+    schema:name "Moustique"^^xsd:string ;
+    schema:author "Fabien Arca"^^xsd:string ;
+    schema:publisher "Espaces 34" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2012"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d24 a schema:Book ;
+    schema:name "50 minutes avec toi"^^xsd:string ;
+    schema:author "Cathy Ytak"^^xsd:string ;
+    schema:publisher "Actes Sud Junior" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2012"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d25 a schema:Book ;
+    schema:name "Qui a peur du loup"^^xsd:string ;
+    schema:author "Christophe Pellet"^^xsd:string ;
+    schema:publisher "L’Arche" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2011"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d26 a schema:Book ;
+    schema:name "La paix perpétuelle"^^xsd:string ;
+    schema:author "Yves Lebeau"^^xsd:string ;
+    schema:publisher "Les Solitaires intempestifs" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2011"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d27 a schema:Book ;
+    schema:name "Chant de mines"^^xsd:string ;
+    schema:author "Philippe Gautier"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2010"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d28 a schema:Book ;
+    schema:name "Sous contrôle"^^xsd:string ;
+    schema:author "Frédéric Sonntag"^^xsd:string ;
+    schema:publisher "L’Avant-scène" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2010"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d29 a schema:Book ;
+    schema:name "Les enchaînés"^^xsd:string ;
+    schema:author "Philippe Dorin"^^xsd:string ;
+    schema:publisher "L’école des loisirs" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2009"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d30 a schema:Book ;
+    schema:name "Le Désidénoir"^^xsd:string ;
+    schema:author "Elisabeth Gentet-Ravasco"^^xsd:string ;
+    schema:publisher "L’Agapante" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2009"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d31 a schema:Book ;
+    schema:name "Le navigateur et l’enfant"^^xsd:string ;
+    schema:author "Jean-Rock Gaudreault"^^xsd:string ;
+    schema:publisher "Lansman Jeunesse" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2008"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d32 a schema:Book ;
+    schema:name "Obliques à la terre"^^xsd:string ;
+    schema:author "Philippe Crubézy"^^xsd:string ;
+    schema:publisher "Lansman" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2008"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public : 3ème-2nde"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d33 a schema:Book ;
+    schema:name "Yaël Tautavel"^^xsd:string ;
+    schema:author "Stéphane Jaubertie"^^xsd:string ;
+    schema:publisher "Unknown" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2007"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d34 a schema:Book ;
+    schema:name "Une étoile pour Noël"^^xsd:string ;
+    schema:author "Nasser DjemaÏ"^^xsd:string ;
+    schema:publisher "Unknown" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2007"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d35 a schema:Book ;
+    schema:name "L’Ogrelet"^^xsd:string ;
+    schema:author "Suzanne Lebeau"^^xsd:string ;
+    schema:publisher "Unknown" ;
+    schema:genre "Catégorie CM2-6e" ;
+    schema:datePublished "2006"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df99d36 a schema:Book ;
+    schema:name "Pacamambo"^^xsd:string ;
+    schema:author "Wajdi Mouawad et Albatros de Fabrice Melquiot"^^xsd:string ;
+    schema:publisher "Unknown" ;
+    schema:genre "Catégorie 3ème-2nde" ;
+    schema:datePublished "2006"^^xsd:string ;
+    schema:award "Prix de la pièce de théâtre contemporain pour le jeune public"^^xsd:string ;
+    schema:url <https://www.ricochet-jeunes.org/> .
+
+
