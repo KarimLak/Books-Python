@@ -14,8 +14,7 @@ ns1:Book004927da-a894-4d12-a93a-8b1d136aef5d a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-premiere-victor-du-livre-jeunesse"^^xsd:anyURI .
 
 ns1:Book004927da-a894-4d12-a93a-8b1d136aef5f a ns1:Book ;
-    ns1:author "Jeanne Detallante"^^xsd:string,
-        "Véronique Ovaldé"^^xsd:string ;
+    ns1:author "Véronique Ovaldé et Jeanne Detallante"^^xsd:string ;
     ns1:award "Baobab de l'album" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -882,8 +881,7 @@ ns1:Book4ad0fcd7-6893-46a6-9a7a-308c7493d0e7 a ns1:Book ;
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-premiere-victor-du-livre-jeunesse"^^xsd:anyURI .
 
 ns1:Book4b7dfc1e-233f-4fa9-b45d-2f4ac9be5324 a ns1:Book ;
-    ns1:author "Jean Dufaux"^^xsd:string,
-        "Philippe Delaby"^^xsd:string ;
+    ns1:author "Jean Dufaux et Philippe Delaby"^^xsd:string ;
     ns1:award "Grand Prix SGDL du roman jeunesse" ;
     ns1:datePublished "2007"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1104,8 +1102,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3d7 a ns1:Book ;
         "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3d8 a ns1:Book ;
-    ns1:author "Frédéric Portalet"^^xsd:string,
-        "Nathalie Bernard"^^xsd:string ;
+    ns1:author "Nathalie Bernard et Frédéric Portalet"^^xsd:string ;
     ns1:award "Les Mordus du polar" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1159,8 +1156,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3dd a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3de a ns1:Book ;
-    ns1:author "Christophe Lambert"^^xsd:string,
-        "Sam VanSteen"^^xsd:string ;
+    ns1:author "Christophe Lambert et Sam VanSteen"^^xsd:string ;
     ns1:award "Les Mordus du polar" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1340,8 +1336,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3f1 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3f2 a ns1:Book ;
-    ns1:author "Anne-Florence Lemasson"^^xsd:string,
-        "Dominique Ehrhard"^^xsd:string ;
+    ns1:author "Anne-Florence Lemasson et Dominique Ehrhard"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite livre illustré" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1350,8 +1345,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3f2 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3f3 a ns1:Book ;
-    ns1:author "Fabrice Melquiot"^^xsd:string,
-        "Isabelle Pralong"^^xsd:string ;
+    ns1:author "Fabrice Melquiot et Isabelle Pralong"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite fiction ados" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1369,8 +1363,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3f4 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3f5 a ns1:Book ;
-    ns1:author "Alice Butaud"^^xsd:string,
-        "François Ravard"^^xsd:string ;
+    ns1:author "Alice Butaud et François Ravard"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite fiction junior" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1406,8 +1399,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3f8 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3f9 a ns1:Book ;
-    ns1:author "Cécile Becq"^^xsd:string,
-        "Franck Manguin"^^xsd:string ;
+    ns1:author "Franck Manguin et Cécile Becq"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite bande dessinée" ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1461,8 +1453,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3fe a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3ff a ns1:Book ;
-    ns1:author "Caroline Solé"^^xsd:string,
-        "Gaya Wisniewski"^^xsd:string ;
+    ns1:author "Caroline Solé et Gaya Wisniewski"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite fiction junior" ;
     ns1:datePublished "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1471,8 +1462,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3ff a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a400 a ns1:Book ;
-    ns1:author "Julien Martinière"^^xsd:string,
-        "Raphaële Frier"^^xsd:string ;
+    ns1:author "Raphaële Frier et Julien Martinière"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite d’or" ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1536,8 +1526,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a406 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a407 a ns1:Book ;
-    ns1:author "Jonathan Garnier"^^xsd:string,
-        "Rony Hotin"^^xsd:string ;
+    ns1:author "Jonathan Garnier et Rony Hotin"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite bande dessinée" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1564,8 +1553,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a409 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a410 a ns1:Book ;
-    ns1:author "Benjamin Chaud"^^xsd:string,
-        "Timothée de Fombelle"^^xsd:string ;
+    ns1:author "Timothée de Fombelle et Benjamin Chaud"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite des Moyens" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1574,8 +1562,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a410 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a411 a ns1:Book ;
-    ns1:author "Nicolas Wouters"^^xsd:string,
-        "illustré par Mikaël Ross"^^xsd:string ;
+    ns1:author "Nicolas Wouters, illustré par Mikaël Ross"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite des Grands" ;
     ns1:datePublished "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1584,8 +1571,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a411 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a412 a ns1:Book ;
-    ns1:author "Jeanne Detallante"^^xsd:string,
-        "Véronique Ovaldé"^^xsd:string ;
+    ns1:author "Véronique Ovaldé et Jeanne Detallante"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite de l’album" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1594,8 +1580,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a412 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a413 a ns1:Book ;
-    ns1:author "Céline Delavaux"^^xsd:string,
-        "Stéphane Kiehl"^^xsd:string ;
+    ns1:author "Céline Delavaux et Stéphane Kiehl"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite du documentaire/livre d’art" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1631,8 +1616,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a416 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a417 a ns1:Book ;
-    ns1:author "Susie Morgenstern"^^xsd:string,
-        "Sébastien Mourrain"^^xsd:string ;
+    ns1:author "Susie Morgenstern et Sébastien Mourrain"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite du livre audio/histoires en musique" ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -1788,8 +1772,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a434 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a435 a ns1:Book ;
-    ns1:author "Eloi Rousseau"^^xsd:string,
-        "Nicolas Martin"^^xsd:string ;
+    ns1:author "Nicolas Martin, Eloi Rousseau"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite du documentaire" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Documentaire"^^xsd:string ;
@@ -1816,8 +1799,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a437 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a438 a ns1:Book ;
-    ns1:author "Aude Samama"^^xsd:string,
-        "ouvrage collectif"^^xsd:string ;
+    ns1:author "ouvrage collectif, Aude Samama"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite du livre d’art" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Livre d’art"^^xsd:string ;
@@ -1853,8 +1835,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a441 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a442 a ns1:Book ;
-    ns1:author "Jean-Michel Othoniel"^^xsd:string,
-        "Marie Desplechin"^^xsd:string ;
+    ns1:author "Marie Desplechin, Jean-Michel Othoniel"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite du livre d’art" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Livre d’art"^^xsd:string ;
@@ -1881,9 +1862,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a444 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a445 a ns1:Book ;
-    ns1:author "Boris Guilloteau"^^xsd:string,
-        "Laurent Sarfati"^^xsd:string,
-        "Lisa Mandel"^^xsd:string ;
+    ns1:author "Boris Guilloteau, Lisa Mandel, Laurent Sarfati"^^xsd:string ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite de l’adaptation cinéma d’animation - séries télévisées" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Adaptation cinéma d’animation - séries télévisées"^^xsd:string ;
@@ -1910,8 +1889,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a447 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5f16d2f7-739a-439f-959e-26e48d40bc71 a ns1:Book ;
-    ns1:author "Joseph Perigot"^^xsd:string,
-        "Virginie Lou"^^xsd:string ;
+    ns1:author "Virginie Lou et Joseph Perigot"^^xsd:string ;
     ns1:award "Grand Prix SGDL du roman jeunesse" ;
     ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2064,8 +2042,7 @@ ns1:Book6e0dbfc3-9ea9-4c4c-9795-79f840e88057 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:anyURI .
 
 ns1:Book71705c4b-6d5e-4bb2-a9b9-2ea8e59d0e7d a ns1:Book ;
-    ns1:author "François Roca"^^xsd:string,
-        "Fred Bernard"^^xsd:string ;
+    ns1:author "Fred Bernard et François Roca"^^xsd:string ;
     ns1:award "Baobab de l'album" ;
     ns1:datePublished "2001"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2084,8 +2061,7 @@ ns1:Book71814d19-1f25-4db7-94b3-08c8623d628b a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-des-jeunes-lecteurs-de-la-peep"^^xsd:anyURI .
 
 ns1:Book71d11fc5-03df-49e9-b45a-7108431bfe48 a ns1:Book ;
-    ns1:author "Anne Romby"^^xsd:string,
-        "Yveline Feray"^^xsd:string ;
+    ns1:author "Yveline Feray et Anne Romby"^^xsd:string ;
     ns1:award "Grand Prix SGDL du roman jeunesse" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2289,8 +2265,7 @@ ns1:Book8599cfe7-3d57-4dc0-8577-5d83f6e23fc6 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-de-limaginaire"^^xsd:anyURI .
 
 ns1:Book870c5e72-c2d7-4e60-8800-55a146f09bda a ns1:Book ;
-    ns1:author "Carl Norac"^^xsd:string,
-        "Kitty Crowther"^^xsd:string ;
+    ns1:author "Carl Norac et Kitty Crowther"^^xsd:string ;
     ns1:award "Grand Prix SGDL du roman jeunesse" ;
     ns1:datePublished "2009"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -2606,8 +2581,7 @@ ns1:Booka0e208c9-1e83-4dbf-9761-010d4f1f5487 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/baobab-de-lalbum"^^xsd:anyURI .
 
 ns1:Booka1789fd0-1d19-4e59-aa89-d5c62a3e9f8e a ns1:Book ;
-    ns1:author "Davide Cali"^^xsd:string,
-        "Serge Bloch"^^xsd:string ;
+    ns1:author "Davide Cali et Serge Bloch"^^xsd:string ;
     ns1:award "Baobab de l'album" ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -3187,8 +3161,7 @@ ns1:Bookd4b532c7-6d2f-41d7-9e2a-1f7a5c7bbdf4 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/gayant-lecture"^^xsd:anyURI .
 
 ns1:Bookd53275e3-0fb9-4f56-bf34-bc3b3e25e1ea a ns1:Book ;
-    ns1:author "Frédéric Clément"^^xsd:string,
-        "Pierre Ferran"^^xsd:string ;
+    ns1:author "Pierre Ferran et Frédéric Clément"^^xsd:string ;
     ns1:award "Grand Prix SGDL du roman jeunesse" ;
     ns1:datePublished "1984"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -3266,8 +3239,7 @@ ns1:Bookd9d01f6c-bd42-4c7e-86a0-22bb32059ad5 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:anyURI .
 
 ns1:Bookda322a4d-c705-4a9b-985e-03f2082b43e5 a ns1:Book ;
-    ns1:author "Gaëlle Charlot"^^xsd:string,
-        "Nicolas Gerrier"^^xsd:string ;
+    ns1:author "Nicolas Gerrier et Gaëlle Charlot"^^xsd:string ;
     ns1:award "Grand Prix SGDL du roman jeunesse" ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -3592,8 +3564,7 @@ ns1:Bookf643fbf2-c51b-47d3-8fe4-6e8e4a4e512e a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/gayant-lecture"^^xsd:anyURI .
 
 ns1:Bookf6c260f1-2c6a-4d75-9ae2-3f56d92b703c a ns1:Book ;
-    ns1:author "Claude Clément"^^xsd:string,
-        "James Prunier"^^xsd:string ;
+    ns1:author "Claude Clément et James Prunier"^^xsd:string ;
     ns1:award "Grand Prix SGDL du roman jeunesse" ;
     ns1:datePublished "1998"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -3662,8 +3633,7 @@ ns1:Bookf8e28d9e-496e-4374-af25-61a402a381c5 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/gayant-lecture"^^xsd:anyURI .
 
 ns1:Bookf8f1f0e2-69c2-4877-a9b6-94704d5f6e32 a ns1:Book ;
-    ns1:author "Martin Jarrie"^^xsd:string,
-        "Régis Lejonc"^^xsd:string ;
+    ns1:author "Régis Lejonc et Martin Jarrie"^^xsd:string ;
     ns1:award "Baobab de l'album" ;
     ns1:datePublished "2002"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -9637,8 +9607,7 @@ schema:Booked7a4921-0d39-4370-a445-9ca6b61df99c a ns1:Book,
 
 schema:Booked7a4921-0d39-4370-a445-9ca6b61df99d a ns1:Book,
         schema:Book ;
-    ns1:author "Michel Bussi"^^xsd:string,
-        "Peggy Nille"^^xsd:string ;
+    ns1:author "Michel Bussi et Peggy Nille"^^xsd:string ;
     ns1:award "Prix Coup de Pouce Gulli des Premières Lectures" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
