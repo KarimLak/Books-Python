@@ -1,4 +1,4 @@
-from rdflib import Graph, Namespace, Literal, BNode, XSD
+from rdflib import Graph, Namespace, Literal, XSD
 import re
 
 # Define the namespace
@@ -19,26 +19,16 @@ for filepath in filepaths:
     books = list(g.subjects(predicate=ns1["author"]))
 
     for book in books:
-        # Create a new blank node for the book
-        bnode = BNode()
-
-        # Copy all properties from the original book node to the blank node
-        for p, o in g.predicate_objects(book):
-            g.add((bnode, p, o))
-
-        # Remove the original book node
-        g.remove((book, None, None))
-
         # Extract the current author
-        author = g.value(subject=bnode, predicate=ns1["author"])
+        author = g.value(subject=book, predicate=ns1["author"])
         if ' et ' in str(author) or ',' in str(author):
             # Split the author string and strip whitespace
             authors = [a.strip() for a in re.split(' et |,', str(author))]
             # Remove the old author
-            g.remove((bnode, ns1["author"], None))
+            g.remove((book, ns1["author"], None))
             # Add the new authors to the book
             for author in authors:
-                g.add((bnode, ns1["author"], Literal(author, datatype=xsd.string)))
+                g.add((book, ns1["author"], Literal(author, datatype=xsd.string)))
 
     # Serialize the updated graph
     output_data = g.serialize(format="turtle")
