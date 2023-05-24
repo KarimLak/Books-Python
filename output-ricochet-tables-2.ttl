@@ -13317,4 +13317,2202 @@ ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d71 a schema:Book ;
   schema:award "Prix des lycéens allemands" ;
   schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lyceens-allemands> .
 
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d72 a schema:Book ;
+  schema:name "Qu'y a-t-il sous la mer ?"^^xsd:string ;
+  schema:author "Maud Sene"^^xsd:string ;
+  schema:publisher "L'Ecole des loisirs" ;
+  schema:genre "3-5 ans" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d73 a schema:Book ;
+  schema:name "Le projet Barnabus"^^xsd:string ;
+  schema:author "The Fan Brothers"^^xsd:string ;
+  schema:publisher "Little Urban" ;
+  schema:genre "6-7 ans" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d74 a schema:Book ;
+  schema:name "Paf !"^^xsd:string ;
+  schema:author "Jérôme Camil"^^xsd:string ;
+  schema:publisher "Alice Jeunesse" ;
+  schema:genre "8-10 ans" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d75 a schema:Book ;
+  schema:name "Un gâteau au goûter"^^xsd:string ;
+  schema:author "Christian Voltz"^^xsd:string ;
+  schema:publisher "Pastel" ;
+  schema:genre "3-5 ans" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d76 a schema:Book ;
+  schema:name "Silence !"^^xsd:string ;
+  schema:author "Céline Claire et Magali Le Huche"^^xsd:string ;
+  schema:publisher "Saltimbanque" ;
+  schema:genre "6-7 ans" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d77 a schema:Book ;
+  schema:name "Marions-les !"^^xsd:string ;
+  schema:author "Eric Sanvoisin et Delphine Jacquot"^^xsd:string ;
+  schema:publisher "L'étagère du bas" ;
+  schema:genre "8-10 ans" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d78 a schema:Book ;
+  schema:name "Chat tricote"^^xsd:string ;
+  schema:author "Jacob Grant"^^xsd:string ;
+  schema:publisher "Père Fouettard" ;
+  schema:genre "3-5 ans" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d79 a schema:Book ;
+  schema:name "Le jardinier de la nuit"^^xsd:string ;
+  schema:author "The Fan Brothers"^^xsd:string ;
+  schema:publisher "Little Urban" ;
+  schema:genre "6-7 ans" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d80 a schema:Book ;
+  schema:name "J’en rêvais depuis longtemps"^^xsd:string ;
+  schema:author "Olivier Tallec"^^xsd:string ;
+  schema:publisher "Actes Sud junior" ;
+  schema:genre "8-10 ans" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d81 a schema:Book ;
+  schema:name "La soupe aux frites"^^xsd:string ;
+  schema:author "Jean Leroy et Ella Charbon"^^xsd:string ;
+  schema:publisher "L'Ecole des loisirs" ;
+  schema:genre "3-5 ans" ;
+  schema:datePublished "2018"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d82 a schema:Book ;
+  schema:name "Poto le chien"^^xsd:string ;
+  schema:author "Andrée Prigent"^^xsd:string ;
+  schema:publisher "Didier Jeunesse" ;
+  schema:genre "6-7 ans" ;
+  schema:datePublished "2018"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d83 a schema:Book ;
+  schema:name "Une histoire d'amour"^^xsd:string ;
+  schema:author "Gilles Bachelet"^^xsd:string ;
+  schema:publisher "Unknown" ;
+  schema:genre "8-10 ans" ;
+  schema:datePublished "2018"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d84 a schema:Book ;
+  schema:name "Le bain de Berk"^^xsd:string ;
+  schema:author "Julien Béziat"^^xsd:string ;
+  schema:publisher "Pastel" ;
+  schema:genre "3-5 ans" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d85 a schema:Book ;
+  schema:name "Mon chat Boudin"^^xsd:string ;
+  schema:author "Christine Roussey"^^xsd:string ;
+  schema:publisher "La Martinière jeunesse" ;
+  schema:genre "6-7 ans" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d86 a schema:Book ;
+  schema:name "Heu-reux !"^^xsd:string ;
+  schema:author "Christian Voltz"^^xsd:string ;
+  schema:publisher "Rouergue" ;
+  schema:genre "8-10 ans" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d87 a schema:Book ;
+  schema:name "Le bain d'Abel"^^xsd:string ;
+  schema:author "Audrey Poussier"^^xsd:string ;
+  schema:publisher "L'Ecole des loisirs" ;
+  schema:genre "3-5 ans" ;
+  schema:datePublished "2015"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d88 a schema:Book ;
+  schema:name "Le concours de force"^^xsd:string ;
+  schema:author "Delphine Bournay"^^xsd:string ;
+  schema:publisher "L'Ecole des loisirs" ;
+  schema:genre "6-7 ans" ;
+  schema:datePublished "2015"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d89 a schema:Book ;
+  schema:name "Le papa de Simon"^^xsd:string ;
+  schema:author "Charlotte Moundlic"^^xsd:string ;
+  schema:publisher "Milan" ;
+  schema:genre "8-10 ans" ;
+  schema:datePublished "2015"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d90 a schema:Book ;
+  schema:name "Au secours voilà le loup !"^^xsd:string ;
+  schema:author "Cédric Ramadier et Vincent Bourgeau"^^xsd:string ;
+  schema:publisher "L'Ecole des loisirs" ;
+  schema:genre "3-5 ans" ;
+  schema:datePublished "2014"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d91 a schema:Book ;
+  schema:name "L'abominable sac à main"^^xsd:string ;
+  schema:author "André Bouchard"^^xsd:string ;
+  schema:publisher "Seuil Jeunesse" ;
+  schema:genre "6-7 ans" ;
+  schema:datePublished "2014"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d92 a schema:Book ;
+  schema:name "Pieds nus"^^xsd:string ;
+  schema:author "Rémi Courgeon"^^xsd:string ;
+  schema:publisher "Seuil Jeunesse" ;
+  schema:genre "8-10 ans" ;
+  schema:datePublished "2014"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d93 a schema:Book ;
+  schema:name "Loup, que fais-tu ?"^^xsd:string ;
+  schema:author "Yveline Méhat et Laure du Faÿ"^^xsd:string ;
+  schema:publisher "Milan" ;
+  schema:genre "3-5 ans" ;
+  schema:datePublished "2013"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d94 a schema:Book ;
+  schema:name "Tout ce qu'une maman ne dira jamais"^^xsd:string ;
+  schema:author "Noé Carlain et Ronan Badel"^^xsd:string ;
+  schema:publisher "L'élan vert" ;
+  schema:genre "6-7 ans" ;
+  schema:datePublished "2013"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d95 a schema:Book ;
+  schema:name "Arrête de lire !"^^xsd:string ;
+  schema:author "Claire Gratias et Sylvie Serprix"^^xsd:string ;
+  schema:publisher "Belin Jeunesse" ;
+  schema:genre "8-10 ans" ;
+  schema:datePublished "2013"^^xsd:string ;
+  schema:award "Prix Ficelle" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d96 a schema:Book ;
+  schema:name "Alma (T. 1). Le vent se lève"^^xsd:string ;
+  schema:author "Timothée de Fombelle et François Place"^^xsd:string ;
+  schema:publisher "Gallimard Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:award "Prix Gulli du roman" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-gulli-du-roman> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d97 a schema:Book ;
+  schema:name "Sam de Bergerac"^^xsd:string ;
+  schema:author "Sarah Turoche-Dromery"^^xsd:string ;
+  schema:publisher "Thierry Magnier" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:award "Prix Gulli du roman" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-gulli-du-roman> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d98 a schema:Book ;
+  schema:name "Le mot d'Abel"^^xsd:string ;
+  schema:author "Véronique Petit"^^xsd:string ;
+  schema:publisher "Rageot" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2018"^^xsd:string ;
+  schema:award "Prix Gulli du roman" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-gulli-du-roman> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d99 a schema:Book ;
+  schema:name "Nos coeurs tordus"^^xsd:string ;
+  schema:author "Séverine Vidal et Manu Causse"^^xsd:string ;
+  schema:publisher "Bayard Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:award "Prix Gulli du roman" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-gulli-du-roman> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d100 a schema:Book ;
+  schema:name "Théo chasseur de baignoires en Laponie"^^xsd:string ;
+  schema:author "Pascal Prévot"^^xsd:string ;
+  schema:publisher "Rouergue" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2016"^^xsd:string ;
+  schema:award "Prix Gulli du roman" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-gulli-du-roman> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d101 a schema:Book ;
+  schema:name "Dans les yeux d'Anouch"^^xsd:string ;
+  schema:author "Roland Godel"^^xsd:string ;
+  schema:publisher "Gallimard Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2015"^^xsd:string ;
+  schema:award "Prix Gulli du roman" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-gulli-du-roman> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d102 a schema:Book ;
+  schema:name "14-14"^^xsd:string ;
+  schema:author "Silène Edgar et de Paul Beorn"^^xsd:string ;
+  schema:publisher "Castelmore" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2014"^^xsd:string ;
+  schema:award "Prix Gulli du roman" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-gulli-du-roman> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d103 a schema:Book ;
+  schema:name "Le manoir"^^xsd:string ;
+  schema:author "Evelyne Brisou-Pellen"^^xsd:string ;
+  schema:publisher "Bayard" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2013"^^xsd:string ;
+  schema:award "Prix Gulli du roman" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-gulli-du-roman> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d104 a schema:Book ;
+  schema:name "Les Bertignac (T. 1) L'homme à l'oeil de diamant"^^xsd:string ;
+  schema:author "Paul Eyghar"^^xsd:string ;
+  schema:publisher "Hugo" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2012"^^xsd:string ;
+  schema:award "Prix Gulli du roman" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-gulli-du-roman> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d100 a schema:Book ;
+  schema:name "Ma maison-tête"^^xsd:string ;
+  schema:author "Vigg (Fonfon)"^^xsd:string ;
+  schema:publisher "Fonfon" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:award "Prix Harry Black de l'album jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-harry-black-de-lalbum-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d101 a schema:Book ;
+  schema:name "Des couleurs sur la Grave"^^xsd:string ;
+  schema:author "Marie-Andrée Arsenault et Dominique Leroux"^^xsd:string ;
+  schema:publisher "Editions la Morue verte" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:award "Prix Harry Black de l'album jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-harry-black-de-lalbum-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d102 a schema:Book ;
+  schema:name "Mémé à la plage"^^xsd:string ;
+  schema:author "Rhéa Dufresne et Aurélie Grand"^^xsd:string ;
+  schema:publisher "Les 400 coups" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:award "Prix Harry Black de l'album jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-harry-black-de-lalbum-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d103 a schema:Book ;
+  schema:name "Le chemin de la montagne"^^xsd:string ;
+  schema:author "Marianne Dubuc"^^xsd:string ;
+  schema:publisher "Comme des géants" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2018"^^xsd:string ;
+  schema:award "Prix Harry Black de l'album jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-harry-black-de-lalbum-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d104 a schema:Book ;
+  schema:name "Au-delà de la forêt"^^xsd:string ;
+  schema:author "Nadine Robert et Gérard DuBois"^^xsd:string ;
+  schema:publisher "Comme des géants" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:award "Prix Harry Black de l'album jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-harry-black-de-lalbum-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d100 a schema:Book ;
+  schema:name "Le détour"^^xsd:string ;
+  schema:author "Rozenn Brécard"^^xsd:string ;
+  schema:publisher "La partie" ;
+  schema:genre "Jeunesse",
+      "Album" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:award "Prix IBBY Belgique francophone" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ibby-belgique-francophone> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d101 a schema:Book ;
+  schema:name "Petite et Grande Ourses"^^xsd:string ;
+  schema:author "Bernadette Gervais"^^xsd:string ;
+  schema:publisher "La partie" ;
+  schema:genre "Jeunesse",
+    "Album belge" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:award "Prix IBBY Belgique francophone" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ibby-belgique-francophone> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d102 a schema:Book ;
+  schema:name "Poussin et Renard"^^xsd:string ;
+  schema:author "Sergio Ruzzier"^^xsd:string ;
+  schema:publisher "La Joie de Lire" ;
+  schema:genre "Jeunesse",
+    "Album drôle" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:award "Prix IBBY Belgique francophone" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ibby-belgique-francophone> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d100 a schema:Book ;
+  schema:name "Le livre bleu"^^xsd:string ;
+  schema:author "Germano Zullo et Albertine"^^xsd:string ;
+  schema:publisher "La Joie de Lire" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2023"^^xsd:string ;
+  schema:award "Prix Imaginales : catégorie album" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-album> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d101 a schema:Book ;
+  schema:name "Les Idées sont de drôles de bestioles"^^xsd:string ;
+  schema:author "Isabelle Simler"^^xsd:string ;
+  schema:publisher "Editions courtes et longues" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:award "Prix Imaginales : catégorie album" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-album> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d102 a schema:Book ;
+  schema:name "Balbuzar, le pirate aux oiseaux"^^xsd:string ;
+  schema:author "Gérard Moncomble et Frédéric Pillot"^^xsd:string ;
+  schema:publisher "Daniel Maghen" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:award "Prix Imaginales : catégorie album" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-album> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d100 a schema:Book ;
+  schema:name "La dragonne et le drôle"^^xsd:string ;
+  schema:author "Damien Galisson et Tom Aureille"^^xsd:string ;
+  schema:publisher "Sarbacane" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2023"^^xsd:string ;
+  schema:award "Prix Imaginales - catégorie jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d101 a schema:Book ;
+  schema:name "Les voleurs de fumée (T. 1)"^^xsd:string ;
+  schema:author "Sally Green"^^xsd:string ;
+  schema:publisher "Jai lu" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:award "Prix Imaginales - catégorie jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d102 a schema:Book ;
+  schema:name "Akata Witch"^^xsd:string ;
+  schema:author "Nnedi Okorafor"^^xsd:string ;
+  schema:publisher "L'Ecole des loisirs" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:award "Prix Imaginales - catégorie jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d103 a schema:Book ;
+  schema:name "L'estrange malaventure de Mirella"^^xsd:string ;
+  schema:author "Flore Vesco"^^xsd:string ;
+  schema:publisher "L'Ecole des loisirs" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:award "Prix Imaginales - catégorie jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d104 a schema:Book ;
+  schema:name "Les guerriers de glace"^^xsd:string ;
+  schema:author "Estelle Faye et Nancy Pena"^^xsd:string ;
+  schema:publisher "Nathan" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:award "Prix Imaginales - catégorie jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d105 a schema:Book ;
+  schema:name "Les soeurs carmines (T. 1). Le complot des corbeau"^^xsd:string ;
+  schema:author "Ariel Holzl"^^xsd:string ;
+  schema:publisher "Mnémos" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2018"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d106 a schema:Book ;
+  schema:name "Panique dans la mythologie: l'Odyssée d'Hugo"^^xsd:string ;
+  schema:author "Fabien Clavel"^^xsd:string ;
+  schema:publisher "Rageot" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d107 a schema:Book ;
+  schema:name "La fille qui navigua autour de Féérie dans un bateau construit de ses propres mains"^^xsd:string ;
+  schema:author "Catherynne M. Valente"^^xsd:string ;
+  schema:publisher "Balivernes" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2016"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d108 a schema:Book ;
+  schema:name "La voie des oracles"^^xsd:string ;
+  schema:author "Estelle Faye"^^xsd:string ;
+  schema:publisher "Scrineo" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2015"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d109 a schema:Book ;
+  schema:name "Les Outrepasseurs (T. 1). Les héritiers"^^xsd:string ;
+  schema:author "Cindy van Wilder"^^xsd:string ;
+  schema:publisher "Gulf Stream" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2014"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d110 a schema:Book ;
+  schema:name "Quelques minutes après minuit"^^xsd:string ;
+  schema:author "Patrick Ness"^^xsd:string ;
+  schema:publisher "Gallimard Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2013"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d111 a schema:Book ;
+  schema:name "Le peuple des nuée (T. 1). La soie et l'épée"^^xsd:string ;
+  schema:author "Kai Meyer"^^xsd:string ;
+  schema:publisher "L'Atalante" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2012"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d112 a schema:Book ;
+  schema:name "Reckless"^^xsd:string ;
+  schema:author "Cornelia Funke"^^xsd:string ;
+  schema:publisher "Gallimard Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2011"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d113 a schema:Book ;
+  schema:name "Le livre des choses perdues"^^xsd:string ;
+  schema:author "John Connolly"^^xsd:string ;
+  schema:publisher "L'Archipel" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2010"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d114 a schema:Book ;
+  schema:name "Les Gorgonautes"^^xsd:string ;
+  schema:author "Fabien Clavel"^^xsd:string ;
+  schema:publisher "Mango" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2009"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d115 a schema:Book ;
+  schema:name "La malédiction d'Old Haven"^^xsd:string ;
+  schema:author "Fabrice Colin"^^xsd:string ;
+  schema:publisher "Albin Michel Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2008"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d116 a schema:Book ;
+  schema:name "Le clan des Otori (T. 4). Le vol du héron"^^xsd:string ;
+  schema:author "Lian Hearn"^^xsd:string ;
+  schema:publisher "Gallimard" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2007"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d117 a schema:Book ;
+  schema:name "Le dernier elfe"^^xsd:string ;
+  schema:author "Silvana de Mari"^^xsd:string ;
+  schema:publisher "Albin Michel Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2006"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d118 a schema:Book ;
+  schema:name "Abarat (T. 2). Jours de lumière, nuits de guerre"^^xsd:string ;
+  schema:author "Clive Barker"^^xsd:string ;
+  schema:publisher "Albin Michel Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2005"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d119 a schema:Book ;
+  schema:name "La quête d'Ewilan"^^xsd:string ;
+  schema:author "Pierre Botero"^^xsd:string ;
+  schema:publisher "Rageot" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2004"^^xsd:string ;
+  schema:award "Prix Imaginales" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d120 a schema:Book ;
+  schema:name "Les mots fantômes"^^xsd:string ;
+  schema:author "David Moitet"^^xsd:string ;
+  schema:publisher "Didier Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2023"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d121 a schema:Book ;
+  schema:name "Kaimyo, le nom des morts (T.1). Les papillons de Kobé"^^xsd:string ;
+  schema:author "Bertrand Puard"^^xsd:string ;
+  schema:publisher "Gulf Stream Editeur" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d122 a schema:Book ;
+  schema:name "Steam Sailors (T. 1). L'Héliotrope"^^xsd:string ;
+  schema:author "E. S. Green"^^xsd:string ;
+  schema:publisher "Gulf Stream Editeur" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d123 a schema:Book ;
+  schema:name "Je peux te voir"^^xsd:string ;
+  schema:author "Carina Rozenfeld"^^xsd:string ;
+  schema:publisher "Gulf Stream Editeur" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d124 a schema:Book ;
+  schema:name "Sirius"^^xsd:string ;
+  schema:author "Stéphane Servant"^^xsd:string ;
+  schema:publisher "Rouergue" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d125 a schema:Book ;
+  schema:name "La maison des reflets"^^xsd:string ;
+  schema:author "Camille Brissot"^^xsd:string ;
+  schema:publisher "Syros" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2018"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d126 a schema:Book ;
+  schema:name "Ne ramenez jamais une fille du futur chez vous"^^xsd:string ;
+  schema:author "Nathalie Stragier"^^xsd:string ;
+  schema:publisher "Syros" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d127 a schema:Book ;
+  schema:name "Phobos"^^xsd:string ;
+  schema:author "Victor Dixen"^^xsd:string ;
+  schema:publisher "R-jeunes adultes" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2016"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d128 a schema:Book ;
+  schema:name "Les Autodafeurs"^^xsd:string ;
+  schema:author "Marine Carteron"^^xsd:string ;
+  schema:publisher "Le Rouergue" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2015"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d129 a schema:Book ;
+  schema:name "Nox (t.1). Ici-bas"^^xsd:string ;
+  schema:author "Yves Grevet"^^xsd:string ;
+  schema:publisher "Syros" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2014"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d130 a schema:Book ;
+  schema:name "Nina Volkovitch (T.1). La Lignée"^^xsd:string ;
+  schema:author "Carole Trebor"^^xsd:string ;
+  schema:publisher "Gulf stream" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2013"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d131 a schema:Book ;
+  schema:name "La Peau des rêves (T. 1) : La nuit tatouée"^^xsd:string ;
+  schema:author "Charlotte Bousquet"^^xsd:string ;
+  schema:publisher "L'Archipel" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2012"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d132 a schema:Book ;
+  schema:name "Les Âmes croisées"^^xsd:string ;
+  schema:author "Pierre Bottero"^^xsd:string ;
+  schema:publisher "Rageot" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2011"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d133 a schema:Book ;
+  schema:name "Les Eveilleurs (T. 1). Salicande"^^xsd:string ;
+  schema:author "Pauline Alphen"^^xsd:string ;
+  schema:publisher "Hachette" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2010"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d134 a schema:Book ;
+  schema:name "La Quête des livres monde (T. 1). Le Livre des âmes"^^xsd:string ;
+  schema:author "Carine Rozenfeld"^^xsd:string ;
+  schema:publisher "L'Atalante" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2009"^^xsd:string ;
+  schema:award "Prix Imaginales des Collégiens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d134 a schema:Book ;
+  schema:name "Les héritiers de Brisaine (T. 1). La malédiction du bois d'ombres"^^xsd:string ;
+  schema:author "David Bry"^^xsd:string ;
+  schema:publisher "Nathan" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:award "Prix Imaginales des Ecoliers" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-ecoliers> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d135 a schema:Book ;
+  schema:name "Panique à Gémelia"^^xsd:string ;
+  schema:author "Betty Piccioli et Nathanaël Ferdinand"^^xsd:string ;
+  schema:publisher "Gulf Stream" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:award "Prix Imaginales des Ecoliers" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-ecoliers> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d136 a schema:Book ;
+  schema:name "La toute petite librairie"^^xsd:string ;
+  schema:author "Adeline Ruel et Antoine Brivet"^^xsd:string ;
+  schema:publisher "Gulf Stream" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:award "Prix Imaginales des Ecoliers" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-ecoliers> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d137 a schema:Book ;
+  schema:name "Le dernier bleuet"^^xsd:string ;
+  schema:author "Danielle Martinigol et Isabelle Fournié"^^xsd:string ;
+  schema:publisher "Actusf" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:award "Prix Imaginales des Ecoliers" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-ecoliers> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d138 a schema:Book ;
+  schema:name "Dans la peau de Sam"^^xsd:string ;
+  schema:author "Camille Brissot"^^xsd:string ;
+  schema:publisher "Syros" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2018"^^xsd:string ;
+  schema:award "Prix Imaginales des Ecoliers" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-ecoliers> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d139 a schema:Book ;
+  schema:name "Traces"^^xsd:string ;
+  schema:author "Florence Hinckel"^^xsd:string ;
+  schema:publisher "Syros" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:award "Prix Imaginales des Ecoliers" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-ecoliers> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d140 a schema:Book ;
+  schema:name "Malenfer (Tome 1). La forêt des ténèbres"^^xsd:string ;
+  schema:author "Cassandra O'Donnell"^^xsd:string ;
+  schema:publisher "Flammarion Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2015"^^xsd:string ;
+  schema:award "Prix Imaginales des Ecoliers" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-ecoliers> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d141 a schema:Book ;
+  schema:name "Veggy vs zombies"^^xsd:string ;
+  schema:author "Lydie Wallon"^^xsd:string ;
+  schema:publisher "Actusf" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2023"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d142 a schema:Book ;
+  schema:name "La princesse au visage de nuit"^^xsd:string ;
+  schema:author "David Bry"^^xsd:string ;
+  schema:publisher "L'Homme Sans Nom" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d143 a schema:Book ;
+  schema:name "Rouge"^^xsd:string ;
+  schema:author "Pascaline Nolot"^^xsd:string ;
+  schema:publisher "Gulf Stream Editeur" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d144 a schema:Book ;
+  schema:name "Cogito"^^xsd:string ;
+  schema:author "Victor Dixen"^^xsd:string ;
+  schema:publisher "Robert Laffont" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d145 a schema:Book ;
+  schema:name "Rouille"^^xsd:string ;
+  schema:author "Floriane Soulas"^^xsd:string ;
+  schema:publisher "Scrineo" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d146 a schema:Book ;
+  schema:name "Les Illusions de Sav-Loar"^^xsd:string ;
+  schema:author "Manon Fargetton"^^xsd:string ;
+  schema:publisher "Bragelonne" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2018"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d147 a schema:Book ;
+  schema:name "Kayla Marchal (T. 1). L'exil"^^xsd:string ;
+  schema:author "Estelle Vagner"^^xsd:string ;
+  schema:publisher "Chat Noir" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d148 a schema:Book ;
+  schema:name "Phobos"^^xsd:string ;
+  schema:author "Victor Dixen"^^xsd:string ;
+  schema:publisher "R-jeunes adultes" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2016"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d149 a schema:Book ;
+  schema:name "Le Septième Guerrier-Mage"^^xsd:string ;
+  schema:author "Paul Beorn"^^xsd:string ;
+  schema:publisher "Bragelonne" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2016"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d150 a schema:Book ;
+  schema:name "Le Batard de Kosigan"^^xsd:string ;
+  schema:author "Fabien Cerutti"^^xsd:string ;
+  schema:publisher "Mnémos" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2015"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d151 a schema:Book ;
+  schema:name "Loar"^^xsd:string ;
+  schema:author "Loïc Henry"^^xsd:string ;
+  schema:publisher "Griffe d’Encre, réédition Folio SF" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2014"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d152 a schema:Book ;
+  schema:name "Le Druide"^^xsd:string ;
+  schema:author "Olivier Peru"^^xsd:string ;
+  schema:publisher "J'ai Lu" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2013"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d153 a schema:Book ;
+  schema:name "Le Déchronologue"^^xsd:string ;
+  schema:author "Stéphane Beauverger"^^xsd:string ;
+  schema:publisher "Folio SF" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2012"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d154 a schema:Book ;
+  schema:name "La Langue du Silence"^^xsd:string ;
+  schema:author "Samantha Bailly"^^xsd:string ;
+  schema:publisher "éditions Mille Saisons" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2011"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d155 a schema:Book ;
+  schema:name "Rien ne nous survivra !"^^xsd:string ;
+  schema:author "Maïa Mazaurette"^^xsd:string ;
+  schema:publisher "Mnemos" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2010"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d156 a schema:Book ;
+  schema:name "Les Lames du cardinal"^^xsd:string ;
+  schema:author "Pierre Pevel"^^xsd:string ;
+  schema:publisher "Bragelonne" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2009"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d157 a schema:Book ;
+  schema:name "La Moïra, intégrale"^^xsd:string ;
+  schema:author "Henri Loevenbruck"^^xsd:string ;
+  schema:publisher "Bragelonne" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2008"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d158 a schema:Book ;
+  schema:name "La Malerune (T. 1). Les Armes de Garamont"^^xsd:string ;
+  schema:author "Pierre Grimbert"^^xsd:string ;
+  schema:publisher "Seuil Poche" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2007"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d159 a schema:Book ;
+  schema:name "La Horde du contrevent"^^xsd:string ;
+  schema:author "Alain Damasio"^^xsd:string ;
+  schema:publisher "La Volte" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2006"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d160 a schema:Book ;
+  schema:name "Les Fables de l'Humpur"^^xsd:string ;
+  schema:author "Pierre Bordage"^^xsd:string ;
+  schema:publisher "J'ai lu" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2005"^^xsd:string ;
+  schema:award "Prix Imaginales des Lycéens" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d161 a schema:Book ;
+  schema:name "Délit de solidarité"^^xsd:string ;
+  schema:author "Myren Duval"^^xsd:string ;
+  schema:publisher "Rouergue" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2023"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d162 a schema:Book ;
+  schema:name "Combien de pas jusqu'à la lune"^^xsd:string ;
+  schema:author "Carole Trébor"^^xsd:string ;
+  schema:publisher "Albin Michel Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d163 a schema:Book ;
+  schema:name "Deux fleurs en hiver"^^xsd:string ;
+  schema:author "Delphine Pessin"^^xsd:string ;
+  schema:publisher "Didier Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d164 a schema:Book ;
+  schema:name "La théorie de l'iceberg"^^xsd:string ;
+  schema:author "Christopher Bouix"^^xsd:string ;
+  schema:publisher "Gallimard Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d165 a schema:Book ;
+  schema:name "Et mes yeux se sont fermés"^^xsd:string ;
+  schema:author "Patrick Bard"^^xsd:string ;
+  schema:publisher "Syros" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d166 a schema:Book ;
+  schema:name "Ne ramenez jamais une fille du futur chez vous"^^xsd:string ;
+  schema:author "Nathalie Stragier"^^xsd:string ;
+  schema:publisher "Syros" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2018"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d167 a schema:Book ;
+  schema:name "Le domaine"^^xsd:string ;
+  schema:author "Jo Witek"^^xsd:string ;
+  schema:publisher "Actes Sud junior" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d168 a schema:Book ;
+  schema:name "Ma réputation"^^xsd:string ;
+  schema:author "Gaëlle Aymon"^^xsd:string ;
+  schema:publisher "Actes Sud junior" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2016"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d169 a schema:Book ;
+  schema:name "Orphans (T. 1). Double disparition"^^xsd:string ;
+  schema:author "Claire Gratias et Miguel Coimbra"^^xsd:string ;
+  schema:publisher "Rageot" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2015"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1610 a schema:Book ;
+  schema:name "Nox (T. 1). Ici-bas"^^xsd:string ;
+  schema:author "Yves Grevet"^^xsd:string ;
+  schema:publisher "Syros" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2014"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1611 a schema:Book ;
+  schema:name "Le monde dans la main"^^xsd:string ;
+  schema:author "Mikaël Ollivier"^^xsd:string ;
+  schema:publisher "Thierry Magnier" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2013"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1612 a schema:Book ;
+  schema:name "Le garçon qui volait des avions"^^xsd:string ;
+  schema:author "Elise Fontenaille"^^xsd:string ;
+  schema:publisher "Le Rouergue" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2012"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1613 a schema:Book ;
+  schema:name "Le monde attend derrière la porte"^^xsd:string ;
+  schema:author "Pascale Maret"^^xsd:string ;
+  schema:publisher "Thierry Magnier" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2011"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1614 a schema:Book ;
+  schema:name "Scream Test"^^xsd:string ;
+  schema:author "Grégoire Hervier"^^xsd:string ;
+  schema:publisher "Au Diable vauvert" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2010"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1615 a schema:Book ;
+  schema:name "Aussi libres qu'un rêve"^^xsd:string ;
+  schema:author "Manon Fargetton"^^xsd:string ;
+  schema:publisher "Mango Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2009"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1616 a schema:Book ;
+  schema:name "Maestro"^^xsd:string ;
+  schema:author "Xavier-Laurent Petit"^^xsd:string ;
+  schema:publisher "L'Ecole des loisirs" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2008"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1617 a schema:Book ;
+  schema:name "Une bouteille dans la mer de Gaza"^^xsd:string ;
+  schema:author "Valérie Zenatti"^^xsd:string ;
+  schema:publisher "L'Ecole des loisirs" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2007"^^xsd:string ;
+  schema:award "Prix Jacaranda" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda> .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1631 a schema:Book ;
+  schema:name "Venise, bises, cerises"^^xsd:string ;
+  schema:author "Nancy Guilbert"^^xsd:string ;
+  schema:publisher "Oskar" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2023"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1632 a schema:Book ;
+  schema:name "La musique des âmes"^^xsd:string ;
+  schema:author "Sylvie Allouche"^^xsd:string ;
+  schema:publisher "Syros" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1633 a schema:Book ;
+  schema:name "Mon cher correspondant"^^xsd:string ;
+  schema:author "Maryvonne Rippert"^^xsd:string ;
+  schema:publisher "Fleurus" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1634 a schema:Book ;
+  schema:name "Pas de lauréat"^^xsd:string ;
+  schema:publisher "N/A" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1635 a schema:Book ;
+  schema:name "Le mot d'Abel"^^xsd:string ;
+  schema:author "Véronique Petit"^^xsd:string ;
+  schema:publisher "Rageot" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1636 a schema:Book ;
+  schema:name "Mémé Dusa"^^xsd:string ;
+  schema:author "Anne Schmauch"^^xsd:string ;
+  schema:publisher "Sarbacane" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1637 a schema:Book ;
+  schema:name "Le voyage de Fatimzahra"^^xsd:string ;
+  schema:author "Kochka"^^xsd:string ;
+  schema:publisher "Flammarion jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2016"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1638 a schema:Book ;
+  schema:name "Banzaï Sakura"^^xsd:string ;
+  schema:author "Véronique Delamarre Bellégo"^^xsd:string ;
+  schema:publisher "Oskar" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2015"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1639 a schema:Book ;
+  schema:name "Au galop sur les vagues"^^xsd:string ;
+  schema:author "Ahmed Kalouaz"^^xsd:string ;
+  schema:publisher "Rouergue" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2012"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1640 a schema:Book ;
+  schema:name "Léo a disparu"^^xsd:string ;
+  schema:author "Roselyne Bertin"^^xsd:string ;
+  schema:publisher "Rageot" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2009"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1641 a schema:Book ;
+  schema:name "Angélique boxe"^^xsd:string ;
+  schema:author "Richard Couaillet"^^xsd:string ;
+  schema:publisher "Actes Sud Junior" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2008"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1642 a schema:Book ;
+  schema:name "Princesse en danger"^^xsd:string ;
+  schema:author "Pierre Bottero"^^xsd:string ;
+  schema:publisher "Rageot" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2007"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1643 a schema:Book ;
+  schema:name "La troisième vengeance de Robert Poutifard"^^xsd:string ;
+  schema:author "Jean-Claude Mourlevat"^^xsd:string ;
+  schema:publisher "Ed. Gallimard" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2005"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1644 a schema:Book ;
+  schema:name "Tante Agathe et les agités du bocal"^^xsd:string ;
+  schema:author "Olivier Mau"^^xsd:string ;
+  schema:publisher "Syros" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2004"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1645 a schema:Book ;
+  schema:name "C'est pas compliqué l'amour"^^xsd:string ;
+  schema:author "Sylvaine Jaoui"^^xsd:string ;
+  schema:publisher "Rageot" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2003"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1646 a schema:Book ;
+  schema:name "Un Jour un Jules m'aimera"^^xsd:string ;
+  schema:author "Yaël Hassan"^^xsd:string ;
+  schema:publisher "Casterman" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2002"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1647 a schema:Book ;
+  schema:name "Le Petit napperon rouge"^^xsd:string ;
+  schema:author "Hector Hugo"^^xsd:string ;
+  schema:publisher "Syros" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2001"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1648 a schema:Book ;
+  schema:name "Vive les crapules"^^xsd:string ;
+  schema:author "Sophie Dieuaide"^^xsd:string ;
+  schema:publisher "Bayard" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2000"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1649 a schema:Book ;
+  schema:name "Détective Zéro Zéro nul"^^xsd:string ;
+  schema:author "Michel Amelin"^^xsd:string ;
+  schema:publisher "Bayard" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1999"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1650 a schema:Book ;
+  schema:name "L'agenda du nouvel instit"^^xsd:string ;
+  schema:author "Bruno HEITZ"^^xsd:string ;
+  schema:publisher "Circonflexe" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1998"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1651 a schema:Book ;
+  schema:name "Verte"^^xsd:string ;
+  schema:author "Marie Desplechin"^^xsd:string ;
+  schema:publisher "L'école des loisirs" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1997"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1652 a schema:Book ;
+  schema:name "Felix Têtedeveau"^^xsd:string ;
+  schema:author "Anne-Marie DESPLAT-DUC et Gérard Franquin"^^xsd:string ;
+  schema:publisher "Flammarion" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1996"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1653 a schema:Book ;
+  schema:name "Le vrai prince Thibault"^^xsd:string ;
+  schema:author "Evelyne Brisou-Pellen et Christophe Besse (ill.)"^^xsd:string ;
+  schema:publisher "Rageot" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1995"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1654 a schema:Book ;
+  schema:name "Les joues roses"^^xsd:string ;
+  schema:author "Malika Ferdjoukh"^^xsd:string ;
+  schema:publisher "L'école des Loisirs" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1994"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1655 a schema:Book ;
+  schema:name "Rampono"^^xsd:string ;
+  schema:author "Jean-Claude Pertuze"^^xsd:string ;
+  schema:publisher "Loubatières" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1993"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1656 a schema:Book ;
+  schema:name "Week end"^^xsd:string ;
+  schema:author "Christophe Besse"^^xsd:string ;
+  schema:publisher "Circonflexe" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1992"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1657 a schema:Book ;
+  schema:name "Double martin contre poison rose"^^xsd:string ;
+  schema:author "Fanny Joly et Michel Riu (ill.)"^^xsd:string ;
+  schema:publisher "Rageot" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1991"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1658 a schema:Book ;
+  schema:name "Les grands méchants loups"^^xsd:string ;
+  schema:author "Sylvie Girardet, Claire Merleau-Ponty, Anne Tardy et Fernando Puig Rosado (ill.)"^^xsd:string ;
+  schema:publisher "Bayard" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1990"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1659 a schema:Book ;
+  schema:name "Le journal secret de Marine"^^xsd:string ;
+  schema:author "Sandrine Pernush et Maïté Laboudigue (ill.)"^^xsd:string ;
+  schema:publisher "Amitié – Hatier" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1989"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1660 a schema:Book ;
+  schema:name "Musée Blues"^^xsd:string ;
+  schema:author "Susie Morgenstern et Jean Calverie (ill.)"^^xsd:string ;
+  schema:publisher "Gallimard" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1988"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1661 a schema:Book ;
+  schema:name "Victor HUGO s'est égaré"^^xsd:string ;
+  schema:author "Philippe Dumas"^^xsd:string ;
+  schema:publisher "L'école des loisirs" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "1987"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund> ;
+  schema:award "Prix Jacques Asklund" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1662 a schema:Book ;
+  schema:name "Un câlin ?"^^xsd:string ;
+  schema:author "Olivia Cosneau et Bernard Duisit"^^xsd:string ;
+  schema:publisher "Hélium" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2023"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jeunesse-des-terres-du-val-de-loire> ;
+  schema:award "Prix Jeunesse des Terres du Val de Loire" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1663 a schema:Book ;
+  schema:name "Pas plus haut que trois pommes"^^xsd:string ;
+  schema:author "Marine Schneider"^^xsd:string ;
+  schema:publisher "L'École des loisirs" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jeunesse-des-terres-du-val-de-loire> ;
+  schema:award "Prix Jeunesse des Terres du Val de Loire" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1664 a schema:Book ;
+  schema:name "Un gâteau au goûter"^^xsd:string ;
+  schema:author "Christian Voltz"^^xsd:string ;
+  schema:publisher "Pastel" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-jeunesse-des-terres-du-val-de-loire> ;
+  schema:award "Prix Jeunesse des Terres du Val de Loire" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1542 a schema:Book ;
+  schema:name "Le vent m'a dit bonjour"^^xsd:string ;
+  schema:author "Sylvaine Hinglais et Barbara Martinez"^^xsd:string ;
+  schema:publisher "Editions du Jasmin" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1543 a schema:Book ;
+  schema:name "La sourde oreille et autres menus trésors"^^xsd:string ;
+  schema:author "Béatrice Libert et Pierre Laroche"^^xsd:string ;
+  schema:publisher "Editions Henry" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1544 a schema:Book ;
+  schema:name "Le livre des beautés minuscules: 36 poèmes pour murmurer la beauté du monde"^^xsd:string ;
+  schema:author "Carl Norac et Julie Bernard"^^xsd:string ;
+  schema:publisher "Rue du Monde" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1545 a schema:Book ;
+  schema:name "Cherchez la petite bête"^^xsd:string ;
+  schema:author "Alain Boudet et Solenn Larnicol"^^xsd:string ;
+  schema:publisher "Rue du Monde" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1546 a schema:Book ;
+  schema:name "Maîtresse Poet Poet"^^xsd:string ;
+  schema:author "Cathy Ko et Geneviève Genicot"^^xsd:string ;
+  schema:publisher "Gros Textes" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2018"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1547 a schema:Book ;
+  schema:name "Le chuchotis des mots"^^xsd:string ;
+  schema:author "Chantal Couliou"^^xsd:string ;
+  schema:publisher "Les Carnets du Dessert de Lune" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1548 a schema:Book ;
+  schema:name "Attrapoèmes"^^xsd:string ;
+  schema:author "Pef"^^xsd:string ;
+  schema:publisher "Gallimard Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1549 a schema:Book ;
+  schema:name "Des salades"^^xsd:string ;
+  schema:author "Thomas VINAU"^^xsd:string ;
+  schema:publisher "Donner à Voir" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2016"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1550 a schema:Book ;
+  schema:name "Etincelles"^^xsd:string ;
+  schema:author "Daniel LACOTTE"^^xsd:string ;
+  schema:publisher "Bulles de savon" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2015"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1551 a schema:Book ;
+  schema:name "Petit peuple des forêts"^^xsd:string ;
+  schema:author "Inès de CHANTERAC et Éliane JULES"^^xsd:string ;
+  schema:publisher "Jasmin" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2014"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1552 a schema:Book ;
+  schema:name "Un rêve sans fin"^^xsd:string ;
+  schema:author "François DAVID"^^xsd:string ;
+  schema:publisher "Møtus" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2013"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1553 a schema:Book ;
+  schema:name "Un éléphant au paradis"^^xsd:string ;
+  schema:author "Thierry CAZALS"^^xsd:string ;
+  schema:publisher "Møtus" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2012"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1554 a schema:Book ;
+  schema:name "Les jours sont fous le temps itou"^^xsd:string ;
+  schema:author "Philippe QUINTA"^^xsd:string ;
+  schema:publisher "La Renarde rouge" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2011"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1555 a schema:Book ;
+  schema:name "Les Zanimots Zétonnants"^^xsd:string ;
+  schema:author "Constantin KAÏTERIS"^^xsd:string ;
+  schema:publisher "Corps Puce" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2010"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1556 a schema:Book ;
+  schema:name "Je dors parfois dans les arbres"^^xsd:string ;
+  schema:author "Paul VINCENSINI"^^xsd:string ;
+  schema:publisher "Møtus" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2009"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1557 a schema:Book ;
+  schema:name "Le P. de la poule et le Q. du coq"^^xsd:string ;
+  schema:author "Michel LAUTRU"^^xsd:string ;
+  schema:publisher "Mémoires et cultures" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2008"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1558 a schema:Book ;
+  schema:name "Mehdi met du rouge à lèvres"^^xsd:string ;
+  schema:author "David DUMORTIER"^^xsd:string ;
+  schema:publisher "Cheyne" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2007"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1559 a schema:Book ;
+  schema:name "Eux autres, moi-je et le monde"^^xsd:string ;
+  schema:author "André SCHETRITT"^^xsd:string ;
+  schema:publisher "Donner à Voir" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2006"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1560 a schema:Book ;
+  schema:name "Mes poules parlent"^^xsd:string ;
+  schema:author "Michel BESNIER"^^xsd:string ;
+  schema:publisher "Møtus" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2005"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1561 a schema:Book ;
+  schema:name "Ses ailes"^^xsd:string ;
+  schema:author "Colienne VANCRAEN"^^xsd:string ;
+  schema:publisher "Esperluette" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2004"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1562 a schema:Book ;
+  schema:name "Le Calumet de la paix"^^xsd:string ;
+  schema:author "François DAVID"^^xsd:string ;
+  schema:publisher "Lo Païs" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2003"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1563 a schema:Book ;
+  schema:name "Chocolats chauds et autres gourmandises"^^xsd:string ;
+  schema:author "Yves HEURTÉ"^^xsd:string ;
+  schema:publisher "Milan" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2002"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1564 a schema:Book ;
+  schema:name "Alchimie des sources"^^xsd:string ;
+  schema:author "Régis LOUCHAERT"^^xsd:string ;
+  schema:publisher "Froissart" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2001"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-joel-sadeler> ;
+  schema:award "Prix Joël Sadeler" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1565 a schema:Book ;
+  schema:name "Les gens sont beaux"^^xsd:string ;
+  schema:author "Baptiste Beaulieu"^^xsd:string,
+      "Qin Leng"^^xsd:string ;
+  schema:publisher "Les Arènes" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2023"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> ;
+  schema:award "Prix Landerneau Album Jeunesse" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1566 a schema:Book ;
+  schema:name "Mon passage secret"^^xsd:string ;
+  schema:author "Max Ducos"^^xsd:string ;
+  schema:publisher "Sarbacane" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2022"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> ;
+  schema:award "Prix Landerneau Album Jeunesse" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1567 a schema:Book ;
+  schema:name "Gaspard dans la nuit"^^xsd:string ;
+  schema:author "Seng Soun Ratanavanh"^^xsd:string ;
+  schema:publisher "La Martinière Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2021"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> ;
+  schema:award "Prix Landerneau Album Jeunesse" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1568 a schema:Book ;
+  schema:name "Bulle d'été"^^xsd:string ;
+  schema:author "Florian Pigé"^^xsd:string ;
+  schema:publisher "HongFei Cultures" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2020"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> ;
+  schema:award "Prix Landerneau Album Jeunesse" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1569 a schema:Book ;
+  schema:name "Nous avons rendez-vous"^^xsd:string ;
+  schema:author "Marie Dorléans"^^xsd:string ;
+  schema:publisher "Seuil Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2019"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> ;
+  schema:award "Prix Landerneau Album Jeunesse" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1570 a schema:Book ;
+  schema:name "Aspergus et moi"^^xsd:string ;
+  schema:author "Didier Lévy"^^xsd:string,
+      "Pierre Vaquez" ;
+  schema:publisher "Sarbacane" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2018"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> ;
+  schema:award "Prix Landerneau Album Jeunesse" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1571 a schema:Book ;
+  schema:name "Un grand jour de rien"^^xsd:string ;
+  schema:author "Beatrice Alemagna"^^xsd:string ;
+  schema:publisher "Albin Michel Jeunesse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2017"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> ;
+  schema:award "Prix Landerneau Album Jeunesse" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1572 a schema:Book ;
+  schema:name "Le Prix est décalé d'une saison, de l'automne 2016 au printemps 2017"^^xsd:string ;
+  schema:author "Unknown"^^xsd:string ;
+  schema:publisher "Unknown" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2016"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> ;
+  schema:award "Prix Landerneau Album Jeunesse" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1573 a schema:Book ;
+  schema:name "Un drôle de visiteur"^^xsd:string ;
+  schema:author "Clotilde Goubely"^^xsd:string,
+      "Eléonore Thuillier" ;
+  schema:publisher "Frimousse" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2015"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> ;
+  schema:award "Prix Landerneau Album Jeunesse" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1574 a schema:Book ;
+  schema:name "Louis Ier, roi des moutons"^^xsd:string ;
+  schema:author "Olivier Tallec"^^xsd:string ;
+  schema:publisher "Actes Sud Junior" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2014"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> ;
+  schema:award "Prix Landerneau Album Jeunesse" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1575 a schema:Book ;
+  schema:name "Le Mange-doudous"^^xsd:string ;
+  schema:author "Julien Béziat"^^xsd:string ;
+  schema:publisher "l'École des Loisirs" ;
+  schema:genre "Jeunesse" ;
+  schema:datePublished "2013"^^xsd:string ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> ;
+  schema:award "Prix Landerneau Album Jeunesse" .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1580 a schema:Book ;
+  schema:name "Gladiateurs virtuels"^^xsd:string ;
+  schema:author "Paul Roux"^^xsd:string ;
+  schema:publisher "Bayard Canada" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2018"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1581 a schema:Book ;
+  schema:name "Le lac aux deux falaises"^^xsd:string ;
+  schema:author "Gabriel Robichaud"^^xsd:string ;
+  schema:publisher "Prise de parole" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2017"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1582 a schema:Book ;
+  schema:name "Ski, Blanche et avalanche"^^xsd:string ;
+  schema:author "Pierre-Luc Bélanger"^^xsd:string ;
+  schema:publisher "David" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2016"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1583 a schema:Book ;
+  schema:name "Les Orphelins. Rémi et Luc-John"^^xsd:string ;
+  schema:author "Jean-Baptiste Renaud"^^xsd:string ;
+  schema:publisher "David" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2015"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1584 a schema:Book ;
+  schema:name "La plus grosse poutine du monde"^^xsd:string ;
+  schema:author "Andrée Poulin"^^xsd:string ;
+  schema:publisher "Bayard" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2014"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1585 a schema:Book ;
+  schema:name "ABC d’un génie ignoré"^^xsd:string ;
+  schema:author "Manon Corriveau Côté"^^xsd:string ;
+  schema:publisher "Z’ailées" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2013"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1586 a schema:Book ;
+  schema:name "À la découverte de l’Ontario français"^^xsd:string ;
+  schema:author "Andrée Poulin"^^xsd:string ;
+  schema:publisher "L’Interligne" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2013"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1587 a schema:Book ;
+  schema:name "Il danse avec les dragons"^^xsd:string ;
+  schema:author "Alexandre Carrière"^^xsd:string ;
+  schema:publisher "Vents d’Ouest" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2012"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1588 a schema:Book ;
+  schema:name "Chez les oiseaux avec Om’aLoïse Lavallée"^^xsd:string ;
+  schema:author "Om’aLoïse Lavallée"^^xsd:string ;
+  schema:publisher "Soleil de Minuit" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2011"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1589 a schema:Book ;
+  schema:name "Où sont passés les zippopos ?"^^xsd:string ;
+  schema:author "Andrée Poulin"^^xsd:string ;
+  schema:publisher "Québec Amérique" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2010"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1590 a schema:Book ;
+  schema:name "Léo Lalune et les cinq sens"^^xsd:string ;
+  schema:author "Éric Péladeau"^^xsd:string ;
+  schema:publisher "Vermillon" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2009"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1591 a schema:Book ;
+  schema:name "Là-haut sur la colline"^^xsd:string ;
+  schema:author "Claude Bolduc"^^xsd:string ;
+  schema:publisher "Vents d’Ouest" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2008"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1592 a schema:Book ;
+  schema:name "Poupeska"^^xsd:string ;
+  schema:author "Françoise Lepage"^^xsd:string ;
+  schema:publisher "Interligne" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2007"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1593 a schema:Book ;
+  schema:name "Les Impatiences de Ping"^^xsd:string ;
+  schema:author "Andrée Poulin"^^xsd:string ;
+  schema:publisher "Québec Amérique" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2006"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1594 a schema:Book ;
+  schema:name "Ping-Pong contre Tête-de-Navet"^^xsd:string ;
+  schema:author "Andrée Poulin"^^xsd:string ;
+  schema:publisher "Québec Amérique" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2005"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1595 a schema:Book ;
+  schema:name "La Cible humaine"^^xsd:string ;
+  schema:author "Anne Prud’homme"^^xsd:string ;
+  schema:publisher "Vents d’Ouest" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2003"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1596 a schema:Book ;
+  schema:name "Cœur de glace"^^xsd:string ;
+  schema:author "Pierre Boileau"^^xsd:string ;
+  schema:publisher "Soulières" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2002"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1597 a schema:Book ;
+  schema:name "Arequipa"^^xsd:string ;
+  schema:author "Mary-Christine Thouin"^^xsd:string ;
+  schema:publisher "Vermillon" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2002"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1598 a schema:Book ;
+  schema:name "Le Secret de Misha"^^xsd:string ;
+  schema:author "Céline Forcier"^^xsd:string ;
+  schema:publisher "Vermillon" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2001"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1599 a schema:Book ;
+  schema:name "Vladimirrr et compagnie"^^xsd:string ;
+  schema:author "Claudine Bertrand-Paradis"^^xsd:string ;
+  schema:publisher "Pierre Tisseyre" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2000"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1510 a schema:Book ;
+  schema:name "Biscuit dans la galaxie"^^xsd:string ;
+  schema:author "Sylvie Tessier"^^xsd:string ;
+  schema:publisher "Vermillon" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "2000"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1511 a schema:Book ;
+  schema:name "Paris-Hanoi"^^xsd:string ;
+  schema:author "Jean-Louis Grosmaire"^^xsd:string ;
+  schema:publisher "Vermillon" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "1999"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1512 a schema:Book ;
+  schema:name "Masques"^^xsd:string ;
+  schema:author "Marie-Ève Lacasse"^^xsd:string ;
+  schema:publisher "Vents d’Ouest" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-le-droit-jeunesse> ;
+  schema:award "Prix Littéraire Le Droit - Jeunesse" ;
+  schema:datePublished "1998"^^xsd:string .
+
+ex:Booked7a4921-0d39-4370-a445-9ca6b61df9d1590 a schema:Book ;
+  schema:name "Ce jour-là"^^xsd:string ;
+  schema:author "Pierre-Emmanuel Lyet"^^xsd:string ;
+  schema:publisher "Seuil Jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-lu-et-partage> ;
+  schema:award "Prix Lu et partagé : Grand Prix de l'Album" ;
+  schema:datePublished "2023"^^xsd:string .
+
+ex:Book293ca07-3d92-46d1-afdd-15662bdc1c7823a a schema:Book ;
+  schema:name "Saute grenouille"^^xsd:string ;
+  schema:author "Anna Walker"^^xsd:string ;
+  schema:publisher "Thierry Magnier" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-lu-et-partage> ;
+  schema:award "Prix Lu et partagé : Prix Petite Enfance" ;
+  schema:datePublished "2023"^^xsd:string .
+
+ex:Book68e1e9b-9079-41c2-86c2-724f1ac2d598424 a schema:Book ;
+  schema:name "On joue à cache-cache ?"^^xsd:string ;
+  schema:author "Léa Viana Ferreira"^^xsd:string ;
+  schema:publisher "CotCotCot Editions" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-lu-et-partage> ;
+  schema:award "Prix Lu et partagé : Prix Jeune Talent" ;
+  schema:datePublished "2023"^^xsd:string .
+
+ex:Bookf5861c4-956e-4453-8796-1063dd36b42c326 a schema:Book ;
+  schema:name "L'été de Vivaldi"^^xsd:string ;
+  schema:author "Suzy Lee"^^xsd:string ;
+  schema:publisher "Rue du Monde" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-lu-et-partage> ;
+  schema:award "Prix Lu et partagé : Prix Extra-ordinaire" ;
+  schema:datePublished "2023"^^xsd:string .
+
+ex:Book69f6053-dae6-4138-bf14-cc3bc4b6865b810 a schema:Book ;
+  schema:name "Granlarge & Loncour"^^xsd:string ;
+  schema:author "André Borbé et Marion Sonet"^^xsd:string ;
+  schema:publisher "Alice Jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-lu-et-partage> ;
+  schema:award "Prix Lu et partagé : Prix Roman Junior" ;
+  schema:datePublished "2023"^^xsd:string .
+
+ex:Bookfa5a380-b7dd-4fbf-8939-32b50813c090429 a schema:Book ;
+  schema:name "L'aube est bleue sur Mars"^^xsd:string ;
+  schema:author "Florence Hinckel"^^xsd:string ;
+  schema:publisher "Nathan" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-lu-et-partage> ;
+  schema:award "Prix Lu et partagé : Prix Roman Ado" ;
+  schema:datePublished "2023"^^xsd:string .
+
+ex:Book2de6d1f-d724-49e4-90de-2aaf66c6d16d901 a schema:Book ;
+  schema:name "Les longueurs"^^xsd:string ;
+  schema:author "Claire Castillon"^^xsd:string ;
+  schema:publisher "Gallimard Jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-lu-et-partage> ;
+  schema:award "Prix Lu et partagé : Prix spécial du Jury Roman" ;
+  schema:datePublished "2023"^^xsd:string .
+
+ex:Book4a9e5c2-d029-415f-b16a-8d93567823e4592 a schema:Book ;
+  schema:name "Forêt des frères"^^xsd:string ;
+  schema:author "Yukiko Noritake"^^xsd:string ;
+  schema:publisher "Actes Sud junior" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-nenuphar-de-lalbum-jeunesse> ;
+  schema:award "Prix Nénuphar de l'album jeunesse" ;
+  schema:datePublished "2022"^^xsd:string .
+
+ex:Book924b8ed-1536-4b57-9eef-689b9d89f7a1611 a schema:Book ;
+  schema:name "Mauvais herbe"^^xsd:string ;
+  schema:author "Thibaut Rassat"^^xsd:string ;
+  schema:publisher "La Pastèque" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-nenuphar-de-lalbum-jeunesse> ;
+  schema:award "Prix Nénuphar de l'album jeunesse" ;
+  schema:datePublished "2021"^^xsd:string .
+
+ex:Book6d13f4b-b4cd-4e5d-9af3-9be55477b21d322 a schema:Book ;
+  schema:name "L'arbre de Sobo"^^xsd:string ;
+  schema:author "Marie Sellier et Charlotte Gastaut"^^xsd:string ;
+  schema:publisher "Editions de la Réunion des musées nationaux" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-nenuphar-de-lalbum-jeunesse> ;
+  schema:award "Prix Nénuphar de l'album jeunesse" ;
+  schema:datePublished "2020"^^xsd:string .
+
+ex:Book5b2ef0f-b8e9-4e4a-9c0a-53e94703620e666 a schema:Book ;
+  schema:name "La louve et l'Anglais"^^xsd:string ;
+  schema:author "Didier Lévy et Tiziana Romanin"^^xsd:string ;
+  schema:publisher "Sarbacane" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-nenuphar-de-lalbum-jeunesse> ;
+  schema:award "Prix Nénuphar de l'album jeunesse" ;
+  schema:datePublished "2019"^^xsd:string .
+
+ex:Booka3dd2b3-bd0e-4d7f-84d2-8ad4c202cd5b103 a schema:Book ;
+  schema:name "Cours!"^^xsd:string ;
+  schema:author "Davide Cali et Maurizio A.C. Quarello"^^xsd:string ;
+  schema:publisher "Sarbacane" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-nenuphar-de-lalbum-jeunesse> ;
+  schema:award "Prix Nénuphar de l'album jeunesse" ;
+  schema:datePublished "2018"^^xsd:string .
+
+ex:Book7b5daac-b3fb-42a3-bb3f-2e9a6153e8af330 a schema:Book ;
+  schema:name "Toc toc toc : papa, où es-tu ?"^^xsd:string ;
+  schema:author "Bryan Collier et Daniel Beaty"^^xsd:string ;
+  schema:publisher "Little Urban" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-nenuphar-de-lalbum-jeunesse> ;
+  schema:award "Prix Nénuphar de l'album jeunesse" ;
+  schema:datePublished "2017"^^xsd:string .
+
+ex:Booka1c3c8c-3ad7-49a2-983d-7d8e5400c19956 a schema:Book ;
+  schema:name "Lindbergh : la fabuleuse aventure d'une souris volante"^^xsd:string ;
+  schema:author "Torben Kuhlmann"^^xsd:string ;
+  schema:publisher "NordSud" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-nenuphar-de-lalbum-jeunesse> ;
+  schema:award "Prix Nénuphar de l'album jeunesse" ;
+  schema:datePublished "2016"^^xsd:string .
+
+ex:Book89b7db3-7e3f-496a-8f7d-12fdcb8aeaa4665 a schema:Book ;
+  schema:name "Le pompier de Lilliputia"^^xsd:string ;
+  schema:author "Fred Bernard et François Roca"^^xsd:string ;
+  schema:publisher "Albin Michel Jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-nenuphar-de-lalbum-jeunesse> ;
+  schema:award "Prix Nénuphar de l'album jeunesse" ;
+  schema:datePublished "2015"^^xsd:string .
+
+ex:Bookfa28b6f-3fd8-4b92-92b7-69e0a5e9b3ea2 a schema:Book ;
+  schema:name "10 escargots font la course"^^xsd:string ;
+  schema:author "Isabelle Gil"^^xsd:string ;
+  schema:publisher "L'Ecole des loisirs" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2022"^^xsd:string .
+
+ex:Book44e1702-4ad8-4d34-8778-16b812b240fe161 a schema:Book ;
+  schema:name "La toute petite petite bonne femme"^^xsd:string ;
+  schema:author "Jean-Louis Le Craver et Elisa Géhin"^^xsd:string ;
+  schema:publisher "Didier Jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2021"^^xsd:string .
+
+ex:Bookd1f609f-8ed0-4a97-9d60-6d1984a9481527 a schema:Book ;
+  schema:name "Maman, c'est toi?"^^xsd:string ;
+  schema:author "Michaël Escoffier et Matthieu Maudet"^^xsd:string ;
+  schema:publisher "L'Ecole des loisirs" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2020"^^xsd:string .
+
+ex:Bookeac5a7e-8f52-47d9-99e4-103c2f6d3f34305 a schema:Book ;
+  schema:name "Un sommeil agité"^^xsd:string ;
+  schema:author "Susanne Strasser"^^xsd:string ;
+  schema:publisher "Tourbillon" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2019"^^xsd:string .
+
+ex:Bookf6d8b51-3c5d-4219-8d4e-9b9e1ebf9181169 a schema:Book ;
+  schema:name "Dis Ours, tu dors?"^^xsd:string ;
+  schema:author "Jory John et Benji Davies"^^xsd:string ;
+  schema:publisher "Little Urban" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2018"^^xsd:string .
+
+ex:Bookb89a003-bd09-42c0-9350-91c5a1e95a6c274 a schema:Book ;
+  schema:name "Toto veut la pomme"^^xsd:string ;
+  schema:author "Mathieu Lavoie"^^xsd:string ;
+  schema:publisher "Hélium" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2017"^^xsd:string .
+
+ex:Book35c98e4-1962-4a5e-8e7b-89f6158246b181 a schema:Book ;
+  schema:name "Je suis un lion"^^xsd:string ;
+  schema:author "Antonin Louchard"^^xsd:string ;
+  schema:publisher "Seuil jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2016"^^xsd:string .
+
+ex:Book4a2c628-467e-4c23-b02c-703b6b2f84e256 a schema:Book ;
+  schema:name "Monsieur Papa et les 100 gouttes d’eau"^^xsd:string ;
+  schema:author "In-Kyung Noh"^^xsd:string ;
+  schema:publisher "Rue du Monde" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2015"^^xsd:string .
+
+ex:Book2fd058a-7f5b-492a-84c3-747be9c8285a74 a schema:Book ;
+  schema:name "Poisson chat"^^xsd:string ;
+  schema:author "Thierry Dedieu"^^xsd:string ;
+  schema:publisher "Seuil Jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2014"^^xsd:string .
+
+ex:Book65750a7-58c9-46ef-9c3c-34e38ef01fe1181 a schema:Book ;
+  schema:name "Lunaparc en pyjamarama"^^xsd:string ;
+  schema:author "Michaël Leblond et Frédérique Bertrand"^^xsd:string ;
+  schema:publisher "Rouergue" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2013"^^xsd:string .
+
+ex:Book7a932a3-6df4-4a11-8f39-907d361dc1eb6 a schema:Book ;
+  schema:name "Un peu perdu"^^xsd:string ;
+  schema:author "Alice Chris Haughton"^^xsd:string ;
+  schema:publisher "Thierry Magnier" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2012"^^xsd:string .
+
+ex:Book32e08fe-c48e-4fae-8b7c-57e179c4a3a5 a schema:Book ;
+  schema:name "Le Ballon de Zébulon"^^xsd:string ;
+  schema:author "Alice BRIERE-HAQUET"^^xsd:string ;
+  schema:publisher "Auzou" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2011"^^xsd:string .
+
+ex:Bookb8e9b3d-2a9c-45b2-a488-80c3e4ea2968 a schema:Book ;
+  schema:name "Bébé lézard, Bébé bizarre"^^xsd:string ;
+  schema:author "Hye-sook KANG"^^xsd:string ;
+  schema:publisher "Rue du Monde" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2010"^^xsd:string .
+
+ex:Book4d3b60c-8d16-4d4b-b97a-eb83df81f9a7 a schema:Book ;
+  schema:name "Cherche la petite bête !"^^xsd:string ;
+  schema:author "Delphine CHEDRU"^^xsd:string ;
+  schema:publisher "Naïve" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2009"^^xsd:string .
+
+ex:Bookda86e4b-56ce-4fb9-ba4d-aa26b3f79f04253 a schema:Book ;
+  schema:name "Un jour au zoo"^^xsd:string ;
+  schema:author "Isabel PIN"^^xsd:string ;
+  schema:publisher "Autrement" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2008"^^xsd:string .
+
+ex:Book25c9a81-8d57-4e0a-8e8e-5e5256f1448a92 a schema:Book ;
+  schema:name "Mon pull"^^xsd:string ;
+  schema:author "Audrey POUSSIER"^^xsd:string ;
+  schema:publisher "L’école des loisirs" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2007"^^xsd:string .
+
+ex:Book35a6896-75a9-4d71-8b37-9e5b49756a2364 a schema:Book ;
+  schema:name "Tout en haut"^^xsd:string ;
+  schema:author "Mario RAMOS"^^xsd:string ;
+  schema:publisher "Pastel" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes> ;
+  schema:award "Prix P'tits Mômes" ;
+  schema:datePublished "2006"^^xsd:string .
+
+ex:Book14e5d6d-6d2a-45b8-a753-74c4770667a43 a schema:Book ;
+  schema:name "Lou après tout (T. 1). Le grand effondrement"^^xsd:string ;
+  schema:author "Jérôme Leroy"^^xsd:string ;
+  schema:publisher "Syros" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-pierre-bottero> ;
+  schema:award "Prix Pierre Bottero" ;
+  schema:datePublished "2022"^^xsd:string .
+
+ex:Bookc7b8c3e-b919-48f2-bc5b-71ae25ff12a628 a schema:Book ;
+  schema:name "New Earth Project"^^xsd:string ;
+  schema:author "David Moitet"^^xsd:string ;
+  schema:publisher "Didier Jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-pierre-bottero> ;
+  schema:award "Prix Pierre Bottero" ;
+  schema:datePublished "2019"^^xsd:string .
+
+ex:Bookf978702-1533-4565-8b42-26e5f601f2c256 a schema:Book ;
+  schema:name "Elia, la passeuse d'âmes (T. 1)"^^xsd:string ;
+  schema:author "Marie Vareille"^^xsd:string ;
+  schema:publisher "Pocket Jeunesse" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-pierre-bottero> ;
+  schema:award "Prix Pierre Bottero" ;
+  schema:datePublished "2017"^^xsd:string .
+
+ex:Book6aa7dbb-3e63-4d3a-8e66-27c37df1e8959 a schema:Book ;
+  schema:name "E-den (T.). Les survivants"^^xsd:string ;
+  schema:author "Elodie Tirel"^^xsd:string ;
+  schema:publisher "Michel Quintin" ;
+  schema:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-pierre-bottero> ;
+  schema:award "Prix Pierre Bottero" ;
+  schema:datePublished "2015"^^xsd:string .
+
+
+
 
