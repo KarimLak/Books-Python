@@ -40,4 +40,4 @@ def remove_duplicate_books(filepath):
         f.write(output_data)
 
 # Call the function with your ttl file name
-remove_duplicate_books("./output_lurelu.ttl")
+remove_duplicate_books("./output_bookcentre.ttl")
