@@ -21,23 +21,27 @@ def best_matching_publisher(publisher, publisher_list):
 ns1 = Namespace("http://schema.org/")
 
 # Load the list of publishers from the CSV file
-with open('./query-result-publishers_modified.csv', 'r', encoding='utf-8') as f:
+with open('./publishers.csv', 'r', encoding='utf-8') as f:
     reader = csv.reader(f)
     publisher_list = [row[0] for row in reader]  # Assuming one publisher per line
 
 # List of TTL files to process
+# # filepaths = [
+#     "./output-bookcentre.ttl",
+#     "./output-fmdoc.ttl",
+#     "./output-lurelu-tables.ttl",
+#     "./output-lurelu.ttl",
+#     "./output-prixdeslibraires-bd.ttl",
+#     "./output-prixdeslibraires-essai.ttl",
+#     "./output-prixdeslibraires-jeunesse.ttl",
+#     "./output-prixdeslibraires-poesie.ttl",
+#     "./output-prixdeslibraires-roman.ttl",
+#     "./output-ricochet-tables.ttl",
+#     "./output-ricochet.ttl",
+# ]
+
 filepaths = [
-    "./output-bookcentre.ttl",
-    "./output-fmdoc.ttl",
-    "./output-lurelu-tables.ttl",
-    "./output-lurelu.ttl",
-    "./output-prixdeslibraires-bd.ttl",
-    "./output-prixdeslibraires-essai.ttl",
-    "./output-prixdeslibraires-jeunesse.ttl",
-    "./output-prixdeslibraires-poesie.ttl",
-    "./output-prixdeslibraires-roman.ttl",
-    "./output-ricochet-tables.ttl",
-    "./output-ricochet.ttl",
+    "./output-ricochet-tables-2.ttl"
 ]
 
 for filepath in filepaths:
