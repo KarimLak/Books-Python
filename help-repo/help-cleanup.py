@@ -35,7 +35,7 @@ filepaths = [
     "./output-prixdeslibraires-jeunesse.ttl",
     "./output-prixdeslibraires-poesie.ttl",
     "./output-prixdeslibraires-roman.ttl",
-    "./output-ricochet-tables.ttl",
+    "./output_ricochet.ttl",
     "./output-ricochet.ttl",
 ]
 

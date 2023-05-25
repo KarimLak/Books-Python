@@ -2,15 +2,18 @@ from rdflib import Graph, Namespace, Literal, XSD
 
 # Define the namespace
 ns1 = Namespace("http://schema.org/")
-
 # List of TTL files to process
 filepaths = [
-    "./output-ricochet-tables-2.ttl"
+    "./output_ricochet.ttl"
 ]
 
 for filepath in filepaths:
     # Parse the ttl files
     g = Graph()
+    
+    # Bind the namespace to the prefix
+    g.bind("ns1", ns1)
+
     g.parse(filepath, format="turtle")
 
     # Get all books from the graph
@@ -22,8 +25,8 @@ for filepath in filepaths:
 
         if datePublished is not None:
             g.remove((book, ns1["datePublished"], None))
-            # Update the book's datePublished in the graph to dateReceived
-            g.add((book, ns1["dateReceived"], Literal(int(datePublished), datatype=XSD.gYear)))
+            g.add((book, ns1["dateReceived"], Literal(str(datePublished))))
+
 
     # Serialize the updated graph
     output_data = g.serialize(format="turtle")

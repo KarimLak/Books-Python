@@ -7,7 +7,7 @@ xsd = Namespace("http://www.w3.org/2001/XMLSchema#")
 
 # List of TTL files to process
 filepaths = [
-    "./output-ricochet-tables-2.ttl"
+    "./output-ricochet.ttl"
 ]
 
 for filepath in filepaths:

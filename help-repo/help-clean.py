@@ -28,4 +28,4 @@ def convert_url_to_string(ttl_filepath, output_filepath):
         f.write(output_data)
 
 # Call the function with your ttl file name and output file name
-convert_url_to_string("./output-ricochet-tables-2.ttl", "./output-ricochet-tables-2.ttl")
+convert_url_to_string("./output_ricochet.ttl", "./output_ricochet.ttl")

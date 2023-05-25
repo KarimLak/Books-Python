@@ -1,7 +1,3 @@
-@prefix ns1: <http://schema.org/> .
-@prefix schema: <https://schema.org/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
 schema:Book004927da-a894-4d12-a93a-8b1d136aef5d a ns1:Book ;
     ns1:author "G. Zhao"^^xsd:string,
         "J.M. Omont"^^xsd:string ;
