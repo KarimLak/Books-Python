@@ -5,7 +5,7 @@ ns1 = Namespace("http://schema.org/")
 
 # List of TTL files to process
 filepaths = [
-    "./output-lurelu.ttl"
+    "./output-ricochet-tables-2.ttl"
 ]
 
 for filepath in filepaths:
@@ -19,16 +19,11 @@ for filepath in filepaths:
     for book in books:
         # Extract the current datePublished
         datePublished = g.value(subject=book, predicate=ns1["datePublished"])
-        # Extract the current award
-        award = str(g.value(subject=book, predicate=ns1["award"]))
 
-        if datePublished is not None and datePublished.datatype == XSD.gYear and award != 'Prix Cécile-Gagnon':
-            # Increase the year by 1
-            increased_year = int(datePublished) + 1
-            # Remove the old datePublished
+        if datePublished is not None:
             g.remove((book, ns1["datePublished"], None))
             # Update the book's datePublished in the graph to dateReceived
-            g.add((book, ns1["dateReceived"], Literal(increased_year, datatype=XSD.gYear)))
+            g.add((book, ns1["dateReceived"], Literal(int(datePublished), datatype=XSD.gYear)))
 
     # Serialize the updated graph
     output_data = g.serialize(format="turtle")
