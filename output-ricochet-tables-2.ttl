@@ -12,17 +12,6 @@ ns1:Book004927da-a894-4d12-a93a-8b1d136aef5d a ns1:Book ;
     ns1:publisher "Les Éditions Fei" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-premiere-victor-du-livre-jeunesse"^^xsd:anyURI .
 
-ns1:Book004927da-a894-4d12-a93a-8b1d136aef5f a ns1:Book ;
-    ns1:author "G. Zhao"^^xsd:string,
-        "J.M. Omont"^^xsd:string ;
-    ns1:award "Prix Première Victor du Livre jeunesse" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "La balade de Yaya"^^xsd:string ;
-    ns1:publisher "Les Éditions Fei" ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-premiere-victor-du-livre-jeunesse"^^xsd:anyURI .
-
 ns1:Book004927da-a894-4d12-a93a-8b1d136ief5f a ns1:Book ;
     ns1:author "Jeanne Detallante"^^xsd:string,
         "Véronique Ovaldé"^^xsd:string ;
@@ -33,17 +22,6 @@ ns1:Book004927da-a894-4d12-a93a-8b1d136ief5f a ns1:Book ;
     ns1:name "Paloma et le vaste monde"^^xsd:string ;
     ns1:publisher "Acte Sud Junior" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/baobab-de-lalbum"^^xsd:anyURI .
-
-ns1:Book004927da-a894-4d12-a93a-8b1v136aef5d a ns1:Book ;
-    ns1:author "G. Zhao"^^xsd:string,
-        "J.M. Omont"^^xsd:string ;
-    ns1:award "Prix Première Victor du Livre jeunesse" ;
-    ns1:datePublished "2017"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "La balade de Yaya"^^xsd:string ;
-    ns1:publisher "Les Éditions Fei" ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-premiere-victor-du-livre-jeunesse"^^xsd:anyURI .
 
 ns1:Book004927da-a894-4z12-a93a-8b1d136aef7d a ns1:Book ;
     ns1:author "Audrey Faulot"^^xsd:string ;
@@ -384,14 +362,7 @@ ns1:Book0d3f1f89-042f-46c4-9d2b-06614442c048 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/concours-du-premier-roman-jeunesse"^^xsd:anyURI .
 
 ns1:Book0d3f1f89-042f-46c4-9d2b-06614442z048 a ns1:Book ;
-    ns1:author "Gilles Bachelet"^^xsd:string ;
-    ns1:award "Baobab de l'album" ;
-    ns1:datePublished "2012"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Madame le Lapin Blanc"^^xsd:string ;
-    ns1:publisher "Seuil jeunesse" ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/baobab-de-lalbum"^^xsd:anyURI .
+    ns1:inLanguage "Français"^^xsd:string .
 
 ns1:Book0da5c7f9-cd53-4d8f-ba27-df4e9c5a6e32 a ns1:Book ;
     ns1:author "François Coupry"^^xsd:string ;
@@ -4277,7 +4248,7 @@ ns1:Book49bb1d78-dad2-4397-8e59-3465db68bc30 a ns1:Book ;
     ns1:datePublished "2010"^^xsd:string ;
     ns1:genre "Non fiction" ;
     ns1:name "The Riverbank"^^xsd:string ;
-    ns1:publisher "The Creative Company, Mankato" ;
+    ns1:publisher "The Creative Company" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book2> .
 
 ns1:Book49bb1d78-dad2-4397-8e59-3465db68bc31 a ns1:Book ;
@@ -4369,15 +4340,7 @@ ns1:Book4a9e5c2-d029-415f-b16a-8d93567823e4592 a ns1:Book ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-nenuphar-de-lalbum-jeunesse> .
 
 ns1:Book4ad0fcd7-6893-46a6-9a7a-308c7423d0e7 a ns1:Book ;
-    ns1:author "Jeanne Detallante"^^xsd:string,
-        "Véronique Ovaldé"^^xsd:string ;
-    ns1:award "Baobab de l'album" ;
-    ns1:datePublished "2015"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Paloma et le vaste monde"^^xsd:string ;
-    ns1:publisher "Acte Sud Junior" ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/baobab-de-lalbum"^^xsd:anyURI .
+    ns1:inLanguage "Français"^^xsd:string .
 
 ns1:Book4ad0fcd7-6893-46a6-9a7a-308c7493d0e7 a ns1:Book ;
     ns1:author "Gilles Bizouerne "^^xsd:string,
@@ -5447,7 +5410,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a418 a ns1:Book ;
     ns1:datePublished "2015"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "David Wiesner’s Spot"^^xsd:string ;
-    ns1:publisher "Houghton Mifflin Harcourt, Etas-Unis" ;
+    ns1:publisher "Houghton Mifflin Harcourt" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a419 a ns1:Book ;
@@ -5667,7 +5630,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a444 a ns1:Book ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Adaptation cinéma d’animation - courts et moyens métrages"^^xsd:string ;
     ns1:name "L'Homme en colère"^^xsd:string ;
-    ns1:publisher "Trollfilm AS, Cappelen Verlag" ;
+    ns1:publisher "Trollfilm AS" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a445 a ns1:Book ;
@@ -5677,8 +5640,8 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a445 a ns1:Book ;
     ns1:award "Les Pépites du Salon de Montreuil : Pépite de l’adaptation cinéma d’animation - séries télévisées" ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:genre "Adaptation cinéma d’animation - séries télévisées"^^xsd:string ;
-    ns1:name "Nini Patalo"^^xsd:string ;
-    ns1:publisher "Je suis bien content, Glénat" ;
+    ns1:name "Je suis bien content"^^xsd:string ;
+    ns1:publisher "Glénat" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:anyURI .
 
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a446 a ns1:Book ;
@@ -6798,16 +6761,14 @@ ns1:Book879e1473-0794-47dd-a1da-fd528330a3b1 a ns1:Book ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book2> .
 
 ns1:Book879e1473-0794-47dd-a1da-fd528330a3b2 a ns1:Book ;
-    ns1:author "Equipo Plantel"^^xsd:string,
-        "Joan Negrescolor"^^xsd:string,
-        "Luci Gutiérrez"^^xsd:string,
-        "Marta Pina"^^xsd:string,
-        "Mikel Casal"^^xsd:string ;
+    ns1:author "Carmen Leñero"^^xsd:string,
+        "Francisco Hinojosa"^^xsd:string,
+        "Francisco Segovia"^^xsd:string ;
     ns1:award "Prix Bologna Ragazzi: New horizons" ;
     ns1:datePublished "2013"^^xsd:string ;
     ns1:genre "New horizons" ;
     ns1:name "Diccionario para armar"^^xsd:string ;
-    ns1:publisher "New Horizons Carmen Leñero, Francisco Hinojosa, Francisco Segovia" ;
+    ns1:publisher "El Colegio de México" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book3> .
 
 ns1:Book879e1473-0794-47dd-a1da-fd528330a3b3 a ns1:Book ;
@@ -7244,14 +7205,7 @@ ns1:Book9c3e6f08-dbe3-4fcf-8b3e-3e96a6a72dc1 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/concours-du-premier-roman-jeunesse"^^xsd:anyURI .
 
 ns1:Book9c3e6f08-dbe3-4fcf-8b3e-3e96i6a72cc1 a ns1:Book ;
-    ns1:author "Jean Lecointre"^^xsd:string ;
-    ns1:award "Baobab de l'album" ;
-    ns1:datePublished "2013"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "L'Odyssée d'Outis"^^xsd:string ;
-    ns1:publisher "Thierry Magnier" ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/baobab-de-lalbum"^^xsd:anyURI .
+    ns1:inLanguage "Français"^^xsd:string .
 
 ns1:Book9d130a12-cc9b-4a67-8e89-44196a1bb7a1 a ns1:Book ;
     ns1:author "Lin Lian-En"^^xsd:string ;
@@ -7420,14 +7374,7 @@ ns1:Booka0e208c9-1e83-4dbf-9761-010d4f1f5487 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/baobab-de-lalbum"^^xsd:anyURI .
 
 ns1:Booka0e208c9-1e83-4dbf-9761-h10d4f1f5487 a ns1:Book ;
-    ns1:author "Gwendal Le Bec"^^xsd:string ;
-    ns1:award "Baobab de l'album" ;
-    ns1:datePublished "2011"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Le roi des oiseaux"^^xsd:string ;
-    ns1:publisher "Albin Michel jeunesse" ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/baobab-de-lalbum"^^xsd:anyURI .
+    ns1:inLanguage "Français"^^xsd:string .
 
 ns1:Booka1789fd0-1d19-4e59-aa89-d5c62a3e9f8e a ns1:Book ;
     ns1:author "Davide Cali"^^xsd:string,
@@ -7853,80 +7800,21 @@ ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eeaf4e2877 a ns1:Book ;
     ns1:publisher "Fulgenco Pimentel, Orfeu Negro, Orecchio Acerbo" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book8> .
 
-ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eeaf4e2y74 a ns1:Book ;
-    ns1:author "Ricardo Liniers"^^xsd:string ;
-    ns1:award "Prix Bologna Ragazzi: Comics - early reader" ;
-    ns1:datePublished "2020"^^xsd:string ;
-    ns1:genre "Comics - early reader" ;
-    ns1:name "Written and drawn by Henrietta"^^xsd:string ;
-    ns1:publisher "Toon Books" ;
-    ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book5> .
+ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eeaf4e2y74 a ns1:Book .
 
-ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eeaf4ey875 a ns1:Book ;
-    ns1:author "Pascal Jousselin"^^xsd:string ;
-    ns1:award "Prix Bologna Ragazzi: Comics - middle grade" ;
-    ns1:datePublished "2020"^^xsd:string ;
-    ns1:genre "Comics - middle grade" ;
-    ns1:name "Imbattable (T. 1). Justice et légumes frais"^^xsd:string ;
-    ns1:publisher "Dupuis" ;
-    ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book6> .
+ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eeaf4ey875 a ns1:Book .
 
-ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eeaf4y2876 a ns1:Book ;
-    ns1:author "Animo Chen"^^xsd:string ;
-    ns1:award "Prix Bologna Ragazzi: Comics - young adult" ;
-    ns1:datePublished "2020"^^xsd:string ;
-    ns1:genre "Comics - young adult" ;
-    ns1:name "The short elegy"^^xsd:string ;
-    ns1:publisher "Locus Publishing" ;
-    ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book7> .
+ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eeaf4y2876 a ns1:Book .
 
-ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eeyf4e2872 a ns1:Book ;
-    ns1:author "Iwona Chmielewska"^^xsd:string ;
-    ns1:award "Prix Bologna Ragazzi: New horizons" ;
-    ns1:datePublished "2020"^^xsd:string ;
-    ns1:genre "New horizons" ;
-    ns1:name "Lullaby for grandmother"^^xsd:string ;
-    ns1:publisher "BIR Publishing" ;
-    ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book3> .
+ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eeyf4e2872 a ns1:Book .
 
-ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eeyf4e2877 a ns1:Book ;
-    ns1:author "Javier Saez Castan"^^xsd:string,
-        "Manuel Marsol"^^xsd:string ;
-    ns1:award "Prix Bologna Ragazzi: Cinema - categoria speciale" ;
-    ns1:datePublished "2020"^^xsd:string ;
-    ns1:genre "Cinema - categoria speciale" ;
-    ns1:name "Mvsevm"^^xsd:string ;
-    ns1:publisher "Fulgenco Pimentel, Orfeu Negro, Orecchio Acerbo" ;
-    ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book8> .
+ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eeyf4e2877 a ns1:Book .
 
-ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eyaf4e2870 a ns1:Book ;
-    ns1:author "Julie Völk"^^xsd:string,
-        "Sepideh Sarihi"^^xsd:string ;
-    ns1:award "Prix Bologna Ragazzi: Fiction" ;
-    ns1:datePublished "2020"^^xsd:string ;
-    ns1:genre "Fiction" ;
-    ns1:name "Meine liebsten Dinge müssen mit"^^xsd:string ;
-    ns1:publisher "Beltz & Gelberg" ;
-    ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book1> .
+ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eyaf4e2870 a ns1:Book .
 
-ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eyaf4e2871 a ns1:Book ;
-    ns1:author "Claudia Palmarucci"^^xsd:string,
-        "Irène Cohen-Janca"^^xsd:string ;
-    ns1:award "Prix Bologna Ragazzi: Non fiction" ;
-    ns1:datePublished "2020"^^xsd:string ;
-    ns1:genre "Non fiction" ;
-    ns1:name "Marie Curie. Nel paese della scienza"^^xsd:string ;
-    ns1:publisher "Orecchio Acerbo" ;
-    ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book2> .
+ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eyaf4e2871 a ns1:Book .
 
-ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eyaf4e2873 a ns1:Book ;
-    ns1:author "Puck Koper"^^xsd:string ;
-    ns1:award "Prix Bologna Ragazzi: Opera prima" ;
-    ns1:datePublished "2020"^^xsd:string ;
-    ns1:genre "Opera prima" ;
-    ns1:name "Where is your sister?"^^xsd:string ;
-    ns1:publisher "Two Hoots" ;
-    ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book4> .
+ns1:Bookaa994b4b-5ce0-4c22-8bb4-21eyaf4e2873 a ns1:Book .
 
 ns1:Bookab1b9a41-5987-485b-a0a6-747135ee4a70 a ns1:Book ;
     ns1:author "Frank Andriat"^^xsd:string ;
@@ -9958,14 +9846,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6u49b9930 a ns1:Book ;
     ns1:publisher "Didier Jeunesse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-saint-exupery-valeurs-jeunesse> .
 
-ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7aif49b9910 a ns1:Book ;
-    ns1:author "Justine Brax"^^xsd:string,
-        "Sébastien Perez"^^xsd:string ;
-    ns1:award "Prix Saint-Exupéry - Valeurs Jeunesse : ALBUM" ;
-    ns1:datePublished "2021"^^xsd:string ;
-    ns1:name "Le dernier des loups"^^xsd:string ;
-    ns1:publisher "Albin Michel Jeunesse" ;
-    ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-saint-exupery-valeurs-jeunesse> .
+ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7aif49b9910 a ns1:Book .
 
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7i6f49b9997 a ns1:Book ;
     ns1:author "Carole Trébor"^^xsd:string ;
@@ -10417,7 +10298,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35c2 a ns1:Book ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "Wolf in the Snow"^^xsd:string ;
-    ns1:publisher "Feiwel and Friends, Macmillan" ;
+    ns1:publisher "Macmillan" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-caldecott"^^xsd:anyURI .
 
 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35c3 a ns1:Book ;
@@ -10444,7 +10325,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35c5 a ns1:Book ;
     ns1:datePublished "2014"^^xsd:gYear ;
     ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "Locomotive"^^xsd:string ;
-    ns1:publisher "Atheneum Books for Young Readers, an imprint of Simon & Schuster Children’s Publishing" ;
+    ns1:publisher "Simon & Schuster" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-caldecott"^^xsd:anyURI .
 
 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35c6 a ns1:Book ;
@@ -10462,7 +10343,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35c7 a ns1:Book ;
     ns1:datePublished "2012"^^xsd:gYear ;
     ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "A Ball for Daisy"^^xsd:string ;
-    ns1:publisher "Schwartz & Wade Books, an imprint of Random House Children's Books, a division of Random House, Inc." ;
+    ns1:publisher "Schwartz & Wade Books" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-caldecott"^^xsd:anyURI .
 
 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35c8 a ns1:Book ;
@@ -10471,7 +10352,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35c8 a ns1:Book ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "A Sick Day for Amos McGee"^^xsd:string ;
-    ns1:publisher "A Neal Porter Book, published by Roaring Brook Press, a division of Holtzbrinck Publishing" ;
+    ns1:publisher "Roaring Brook Press" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-caldecott"^^xsd:anyURI .
 
 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35c9 a ns1:Book ;
@@ -10921,7 +10802,8 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35fa a ns1:Book ;
     ns1:datePublished "2018"^^xsd:gYear ;
     ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "Hello, Universe"^^xsd:string ;
-    ns1:publisher "Greenwillow Books/HarperCollins Publishers" ;
+    ns1:publisher "Greenwillow Books",
+        "HarperCollins Publishers" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-john-newbery"^^xsd:anyURI .
 
 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35fb a ns1:Book ;
@@ -10984,7 +10866,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f361 a ns1:Book ;
     ns1:datePublished "2011"^^xsd:gYear ;
     ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "Moon over Manifest"^^xsd:string ;
-    ns1:publisher "Delacorte Press, an imprint of Random House Children's Books" ;
+    ns1:publisher "Delacorte Press" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-john-newbery"^^xsd:anyURI .
 
 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f362 a ns1:Book ;
@@ -12269,7 +12151,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f49bf a ns1:Book ;
     ns1:datePublished "2020"^^xsd:gYear ;
     ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "The Undefeated"^^xsd:string ;
-    ns1:publisher "Versify, an imprint of Houghton Mifflin Harcourt" ;
+    ns1:publisher "Versify" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-caldecott"^^xsd:anyURI .
 
 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f49c a ns1:Book ;
@@ -12723,7 +12605,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdi0d5f362 a ns1:Book ;
     ns1:datePublished "2010"^^xsd:gYear ;
     ns1:inLanguage "Anglais"^^xsd:string ;
     ns1:name "When You Reach Me"^^xsd:string ;
-    ns1:publisher "Wendy Lamb Books, an imprint of Random House Children's Books" ;
+    ns1:publisher "Wendy Lamb Books" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-john-newbery"^^xsd:anyURI .
 
 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdk0d5f35c2 a ns1:Book ;
@@ -12946,14 +12828,7 @@ ns1:Bookc7a0edf1-60fb-4b02-89a2-7be4b1f5735e a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/baobab-de-lalbum"^^xsd:anyURI .
 
 ns1:Bookc7a0edf1-60fb-4b02-89a2-9be4b1f5735e a ns1:Book ;
-    ns1:author "Michel Galvin"^^xsd:string ;
-    ns1:award "Baobab de l'album" ;
-    ns1:datePublished "2014"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "La Vie rêvée de Michel Galvin"^^xsd:string ;
-    ns1:publisher "Le Rouergue" ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/baobab-de-lalbum"^^xsd:anyURI .
+    ns1:inLanguage "Français"^^xsd:string .
 
 ns1:Bookc7a0edf1-60fb-4k02-89a2-7be4b1f5735e a ns1:Book ;
     ns1:author "Kamel Benaouda"^^xsd:string ;
@@ -13964,7 +13839,7 @@ ns1:Bookdeab72e3-5d8c-4054-bf88-0d5407980073 a ns1:Book ;
     ns1:datePublished "2001"^^xsd:string ;
     ns1:genre "Fiction enfance (6-9 ans)" ;
     ns1:name "Ozewiezewoze"^^xsd:string ;
-    ns1:publisher "Uitgeverij De Eenhoorn, Wielsbeke" ;
+    ns1:publisher "Uitgeverij De Eenhoorn" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book19> .
 
 ns1:Bookdeab72e3-5d8c-4054-bf88-0d5407980074 a ns1:Book ;
@@ -14077,7 +13952,7 @@ ns1:Bookdeab72e3-5d8c-4054-bf88-0d540798007f a ns1:Book ;
     ns1:datePublished "2001"^^xsd:string ;
     ns1:genre "Arte Novita - Prix Arts Nouveauté" ;
     ns1:name "Unennäkijä Tulee"^^xsd:string ;
-    ns1:publisher "Otava, Helsinski" ;
+    ns1:publisher "Otava" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi/Book31> .
 
 ns1:Bookdeab72e3-5d8c-4054-bf88-0d5407980080 a ns1:Book ;
@@ -15820,7 +15695,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d151 a ns1:Book ;
     ns1:datePublished "2014"^^xsd:string ;
     ns1:genre "Jeunesse" ;
     ns1:name "Loar"^^xsd:string ;
-    ns1:publisher "Griffe d’Encre, réédition Folio SF" ;
+    ns1:publisher "Folio" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens> .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d1510 a ns1:Book ;
