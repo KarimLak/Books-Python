@@ -2316,10 +2316,10 @@ ns1:Book3174e764-79db-4a3e-80f5-8dfc8dd3136e a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-de-limaginaire"^^xsd:anyURI .
 
 ns1:Book31967b7-3f23-4c70-91e1-7f8b9379de8b a ns1:Book ;
-    ns1:author "Jean Elias"^^xsd:string,
-        "illustrations d’Anastassia Elias"^^xsd:string ;
+    ns1:author "Jean Elias"^^xsd:string ;
     ns1:award "Prix Poésie Des Lecteurs Lire Et Faire Lire" ;
     ns1:datePublished "2008"^^xsd:string ;
+    ns1:illustrator "Anastassia Elias" ;
     ns1:name "Grand-mère arrose la lune"^^xsd:string ;
     ns1:publisher "Møtus" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-poesie-des-lecteurs-lire-et-faire-lire> .
@@ -6886,8 +6886,8 @@ ns1:Book8bf2e8f3-60df-4a0a-bb1e-614c8fa6d69f a ns1:Book ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-libbylit> .
 
 ns1:Book8c155e3-51d4-45e4-95e9-8a0f437e0659 a ns1:Book ;
-    ns1:author "Paul Bergèse"^^xsd:string,
-        "illustré par Titi Bergèse"^^xsd:string ;
+    ns1:author "Paul Bergèse"^^xsd:string ;
+    ns1:illustrator "Titi Bergèse" ;
     ns1:award "Prix Poésie Des Lecteurs Lire Et Faire Lire" ;
     ns1:datePublished "2009"^^xsd:string ;
     ns1:name "Les poches pleines de mots"^^xsd:string ;
@@ -8530,7 +8530,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9911 a ns1:Book ;
     ns1:author "Olivier Deloye"^^xsd:string,
         "Vincent Cuvellier"^^xsd:string ;
     ns1:award "Prix Littéralouest : Bd (Collège)" ;
-    ns1:datePublished "2022-2023"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
     ns1:name "La fille du président (T.1). Premier tour"^^xsd:string ;
     ns1:publisher "Auzou" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8539,7 +8539,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9912 a ns1:Book ;
     ns1:author "Aude Maurel"^^xsd:string,
         "Richard Marnier"^^xsd:string ;
     ns1:award "Prix Littéralouest : Moins De 4 Ans" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:name "Pipiou. C’est toute une histoire !"^^xsd:string ;
     ns1:publisher "Frimousse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8548,7 +8548,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9913 a ns1:Book ;
     ns1:author "Nicolas Gouny"^^xsd:string,
         "Pog"^^xsd:string ;
     ns1:award "Prix Littéralouest : 4-5 Ans" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:name "La poule qui dit NON !"^^xsd:string ;
     ns1:publisher "Frimousse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8557,7 +8557,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9914 a ns1:Book ;
     ns1:author "Marie Paruit"^^xsd:string,
         "Sandra Le Guen"^^xsd:string ;
     ns1:award "Prix Littéralouest : 5-6 Ans" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:name "L’ennemi juré"^^xsd:string ;
     ns1:publisher "Casterman" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8565,7 +8565,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9914 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9915 a ns1:Book ;
     ns1:author "Barroux"^^xsd:string ;
     ns1:award "Prix Littéralouest : 6-7 Ans" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:name "Mission p’tit déj !"^^xsd:string ;
     ns1:publisher "Kaléidoscope" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8574,7 +8574,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9916 a ns1:Book ;
     ns1:author "Benjamin Bachelier"^^xsd:string,
         "Céline Claire"^^xsd:string ;
     ns1:award "Prix Littéralouest : 7-8 Ans" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:name "Alerte chiens volés !"^^xsd:string ;
     ns1:publisher "Bayard Jeunesse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8584,7 +8584,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9917 a ns1:Book ;
         "Nane Vézinet"^^xsd:string,
         "Virginie Grosos"^^xsd:string ;
     ns1:award "Prix Littéralouest : 8-9 Ans" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:name "Le mystère des deux dragons"^^xsd:string ;
     ns1:publisher "Circonflexe" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8593,7 +8593,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9918 a ns1:Book ;
     ns1:author "Hélène Gloria"^^xsd:string,
         "Julie Bouvot"^^xsd:string ;
     ns1:award "Prix Littéralouest : 9-10 Ans" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:name "Doubles-croches et crochet du droit"^^xsd:string ;
     ns1:publisher "Utopique" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8601,7 +8601,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9918 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9919 a ns1:Book ;
     ns1:author "Jean-Christophe Tixier"^^xsd:string ;
     ns1:award "Prix Littéralouest : 10-11 Ans" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:name "Dix minutes et 13 secondes"^^xsd:string ;
     ns1:publisher "Syros" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8609,7 +8609,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9919 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b992 a ns1:Book ;
     ns1:author "Emmanuelle Halgand"^^xsd:string ;
     ns1:award "Prix Littéralouest : Moins De 4 Ans" ;
-    ns1:datePublished "2022-2023"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
     ns1:name "1,2,3 petits chats"^^xsd:string ;
     ns1:publisher "Magellan & Cie" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8618,7 +8618,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9920 a ns1:Book ;
     ns1:author "Luc Blanvillain"^^xsd:string,
         "Sarah Vignon"^^xsd:string ;
     ns1:award "Prix Littéralouest : 6Ème-5Ème" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:name "Le journal de Raymond le démon (T. 1). Où est le mal ?"^^xsd:string ;
     ns1:publisher "L'École Des Loisirs" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8627,7 +8627,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9921 a ns1:Book ;
     ns1:author "Coline Pierré"^^xsd:string,
         "Marine Carteron"^^xsd:string ;
     ns1:award "Prix Littéralouest : 4Ème-3Ème" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:name "Romy et Julius"^^xsd:string ;
     ns1:publisher "Le Rouergue" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8635,7 +8635,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9921 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9922 a ns1:Book ;
     ns1:author "Olivia Cosneau"^^xsd:string ;
     ns1:award "Prix Littéralouest : Moins De 4 Ans" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:name "Sushi & Maki"^^xsd:string ;
     ns1:publisher "Sarbacane" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8643,7 +8643,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9922 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9923 a ns1:Book ;
     ns1:author "Matthieu Maudet"^^xsd:string ;
     ns1:award "Prix Littéralouest : 4-5 Ans" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:name "Occupé"^^xsd:string ;
     ns1:publisher "L'École Des Loisirs" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8651,7 +8651,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9923 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9924 a ns1:Book ;
     ns1:author "Barroux"^^xsd:string ;
     ns1:award "Prix Littéralouest : 5-6 Ans" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:name "Denise et moi"^^xsd:string ;
     ns1:publisher "Le Seuil Jeunesse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8660,7 +8660,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9925 a ns1:Book ;
     ns1:author "Gilles Bizouerne"^^xsd:string,
         "Ronan Badel"^^xsd:string ;
     ns1:award "Prix Littéralouest : 6-7 Ans" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:name "Loup gris se déguise"^^xsd:string ;
     ns1:publisher "Didier Jeunesse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8669,7 +8669,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9926 a ns1:Book ;
     ns1:author "Martin Page"^^xsd:string,
         "Ronan Badel"^^xsd:string ;
     ns1:award "Prix Littéralouest : 7-8 Ans" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:name "Le permis d’être un enfant"^^xsd:string ;
     ns1:publisher "Gallimard Jeunesse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8677,7 +8677,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9926 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9927 a ns1:Book ;
     ns1:author "Ronan Badel"^^xsd:string ;
     ns1:award "Prix Littéralouest : 8-9 Ans" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:name "Pépère le chat (T. 1). La maison du chat"^^xsd:string ;
     ns1:publisher "Père Castor" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8685,7 +8685,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9927 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9928 a ns1:Book ;
     ns1:author "Hubert Ben Kemoun"^^xsd:string ;
     ns1:award "Prix Littéralouest : 9-10 Ans" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:name "Menteur, quel menteur !"^^xsd:string ;
     ns1:publisher "Nathan" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8694,7 +8694,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9929 a ns1:Book ;
     ns1:author "Béatrice Nicodème"^^xsd:string,
         "Christine Circosta"^^xsd:string ;
     ns1:award "Prix Littéralouest : 10-11 Ans" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:name "L’inquiétant Mister W."^^xsd:string ;
     ns1:publisher "Gulf Stream" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8703,7 +8703,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b993 a ns1:Book ;
     ns1:author "Agnès de Lestrade"^^xsd:string,
         "João Vaz de Carvalho"^^xsd:string ;
     ns1:award "Prix Littéralouest : 4-5 Ans" ;
-    ns1:datePublished "2022-2023"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
     ns1:name "Mais j'ai croisé..."^^xsd:string ;
     ns1:publisher "Atelier Du Poisson Soluble" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8711,7 +8711,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b993 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9930 a ns1:Book ;
     ns1:author "David Moitet"^^xsd:string ;
     ns1:award "Prix Littéralouest : 6Ème-5Ème" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:name "Alice"^^xsd:string ;
     ns1:publisher "Le Rocher Jeunesse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8770,7 +8770,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9938 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b994 a ns1:Book ;
     ns1:author "Philippe Jalbert"^^xsd:string ;
     ns1:award "Prix Littéralouest : 5-6 Ans" ;
-    ns1:datePublished "2022-2023"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
     ns1:name "Il était une fois le petit chaperon rou..."^^xsd:string ;
     ns1:publisher "Le Seuil Jeunesse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8844,7 +8844,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b995 a ns1:Book ;
     ns1:author "Carole Xenard"^^xsd:string,
         "Sandra Le Guen"^^xsd:string ;
     ns1:award "Prix Littéralouest : 6-7 Ans" ;
-    ns1:datePublished "2022-2023"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
     ns1:name "Western coquillettes"^^xsd:string ;
     ns1:publisher "Être Éditions" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8910,7 +8910,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b996 a ns1:Book ;
     ns1:author "Hervé Le Goff"^^xsd:string,
         "Olivier Dupin"^^xsd:string ;
     ns1:award "Prix Littéralouest : 7-8 Ans" ;
-    ns1:datePublished "2022-2023"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
     ns1:name "Red Lili"^^xsd:string ;
     ns1:publisher "Gautier Languereau" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8919,7 +8919,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b997 a ns1:Book ;
     ns1:author "Christelle Saquet"^^xsd:string,
         "Hervé Le Goff"^^xsd:string ;
     ns1:award "Prix Littéralouest : 8-9 Ans" ;
-    ns1:datePublished "2022-2023"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
     ns1:name "Les aventures de Bonbec Boy (T.1). Le tigre de Tasmanie"^^xsd:string ;
     ns1:publisher "L'Élan Vert" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8928,7 +8928,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b998 a ns1:Book ;
     ns1:author "Maïté Schmitt"^^xsd:string,
         "Sophie Tal Men"^^xsd:string ;
     ns1:award "Prix Littéralouest : 9-10 Ans" ;
-    ns1:datePublished "2022-2023"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
     ns1:name "Tibo. La leçon de Nitch"^^xsd:string ;
     ns1:publisher "Albin Michel Jeunesse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -8936,7 +8936,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b998 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b999 a ns1:Book ;
     ns1:author "N.M. Zimmermann"^^xsd:string ;
     ns1:award "Prix Littéralouest : 10-11 Ans" ;
-    ns1:datePublished "2022-2023"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
     ns1:name "Horror Games (T. 1). Ne te retourne pas !"^^xsd:string ;
     ns1:publisher "Play Bac" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -9877,7 +9877,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dz7a6f49b9919 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-fc7a6f49b9910 a ns1:Book ;
     ns1:author "Cassandra O'Donnell"^^xsd:string ;
     ns1:award "Prix Littéralouest : 6Ème-5Ème" ;
-    ns1:datePublished "2022-2023"^^xsd:string ;
+    ns1:datePublished "2022"^^xsd:string ;
     ns1:name "Le garçon qui ne voulait pas parler"^^xsd:string ;
     ns1:publisher "Flammarion Jeunesse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest> .
@@ -13388,7 +13388,7 @@ ns1:Bookd71a13f5-ae24-4955-8e41-2f8e053299e4 a ns1:Book ;
     ns1:datePublished "2005"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "La prophétie des Magicyans"^^xsd:string ;
-    ns1:publisher "Kilowatt" ;
+    ns1:publisher "Unknown" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-des-jeunes-lecteurs-de-la-peep"^^xsd:anyURI .
 
 ns1:Bookd749de4c-81ef-408a-8e76-1aebd0d97b84 a ns1:Book ;
@@ -13903,7 +13903,7 @@ ns1:Bookdeab72e3-5d8c-4054-bf88-0d540798007a a ns1:Book ;
     ns1:datePublished "2001"^^xsd:string ;
     ns1:genre "Mentions spéciales" ;
     ns1:name "Nabil"^^xsd:string ;
-    ns1:publisher "Kilowatt" ;
+    ns1:publisher "Unknown" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi> .
 
 ns1:Bookdeab72e3-5d8c-4054-bf88-0d540798007b a ns1:Book ;
@@ -13912,7 +13912,7 @@ ns1:Bookdeab72e3-5d8c-4054-bf88-0d540798007b a ns1:Book ;
     ns1:datePublished "2001"^^xsd:string ;
     ns1:genre "Mentions spéciales" ;
     ns1:name "A stroll in Flanders"^^xsd:string ;
-    ns1:publisher "Kilowatt" ;
+    ns1:publisher "Unknown" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi> .
 
 ns1:Bookdeab72e3-5d8c-4054-bf88-0d540798007c a ns1:Book ;
@@ -13961,7 +13961,7 @@ ns1:Bookdeab72e3-5d8c-4054-bf88-0d5407980080 a ns1:Book ;
     ns1:datePublished "2001"^^xsd:string ;
     ns1:genre "Mentions spéciales" ;
     ns1:name "Achille Castiglioni"^^xsd:string ;
-    ns1:publisher "Kilowatt" ;
+    ns1:publisher "Unknown" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi> .
 
 ns1:Bookdeab72e3-5d8c-4054-bf88-0d5407980081 a ns1:Book ;
@@ -13990,7 +13990,7 @@ ns1:Bookdeab72e3-5d8c-4054-bf88-0d5407980083 a ns1:Book ;
     ns1:datePublished "2001"^^xsd:string ;
     ns1:genre "New Media Prize" ;
     ns1:name "Anne Franck House"^^xsd:string ;
-    ns1:publisher "Kilowatt" ;
+    ns1:publisher "Unknown" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi> .
 
 ns1:Bookdeab72e3-5d8c-4054-bf88-0d5407980084 a ns1:Book ;
@@ -14232,7 +14232,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df990 a ns1:Book ;
     ns1:author "Clémence Madeleine-Perdrillat"^^xsd:string,
         "Nathaniel H'Limi"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:genre "CM" ;
     ns1:name "La vie de château (T. 1). Violette et Régis"^^xsd:string ;
     ns1:publisher "L'École Des Loisirs" ;
@@ -14243,7 +14243,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df991 a ns1:Book ;
         "Charline Forns"^^xsd:string,
         "Véronique Barrau"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:genre "6e" ;
     ns1:name "La sentinelle du petit peuple (T. 1). La pommade de fée"^^xsd:string ;
     ns1:publisher "Dupuis" ;
@@ -14252,7 +14252,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df991 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df992 a ns1:Book ;
     ns1:author "Muriel Zürcher"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:genre "5e" ;
     ns1:name "Des bleus au cartable"^^xsd:string ;
     ns1:publisher "Didier Jeunesse" ;
@@ -14262,7 +14262,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df993 a ns1:Book ;
     ns1:author "Mato"^^xsd:string,
         "Mr Tan"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:genre "4e" ;
     ns1:name "Jizo"^^xsd:string ;
     ns1:publisher "Glénat Jeunesse" ;
@@ -14271,7 +14271,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df993 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df994 a ns1:Book ;
     ns1:author "Marion Brunet"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2021-2022"^^xsd:string ;
+    ns1:datePublished "2021"^^xsd:string ;
     ns1:genre "3e" ;
     ns1:name "Plein gris"^^xsd:string ;
     ns1:publisher "Pocket Jeunesse" ;
@@ -14281,7 +14281,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df995 a ns1:Book ;
     ns1:author "Eloïse Scherrer"^^xsd:string,
         "Erik L'Homme"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:genre "CM" ;
     ns1:name "Masca : manuel de survie en cas d'apocalypse"^^xsd:string ;
     ns1:publisher "Gallimard Jeunesse" ;
@@ -14291,7 +14291,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df996 a ns1:Book ;
     ns1:author "Alexis Horellou"^^xsd:string,
         "Delphine Le Lay"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:genre "6e" ;
     ns1:name "Lucien et les mystérieux phénomènes (T. 1). L’empreinte de H. Price"^^xsd:string ;
     ns1:publisher "Casterman" ;
@@ -14300,7 +14300,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df996 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df997 a ns1:Book ;
     ns1:author "Julie Bonnie"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:genre "5e" ;
     ns1:name "L’internat de l’île aux cigales"^^xsd:string ;
     ns1:publisher "Albin Michel Jeunesse" ;
@@ -14309,7 +14309,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df997 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df998 a ns1:Book ;
     ns1:author "Delphine Bertholon"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:genre "4e" ;
     ns1:name "Celle qui marche la nuit"^^xsd:string ;
     ns1:publisher "Albin Michel Jeunesse" ;
@@ -14318,7 +14318,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df998 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df999 a ns1:Book ;
     ns1:author "Isabelle Pandazopoulos"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2020-2021"^^xsd:string ;
+    ns1:datePublished "2020"^^xsd:string ;
     ns1:genre "3e" ;
     ns1:name "Demandez-leur la lune"^^xsd:string ;
     ns1:publisher "Gallimard Jeunesse" ;
@@ -14327,7 +14327,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df999 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99a a ns1:Book ;
     ns1:author "Jean-Claude Mourlevat"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2018-2019"^^xsd:string ;
+    ns1:datePublished "2018"^^xsd:string ;
     ns1:genre "CM" ;
     ns1:name "Jefferson"^^xsd:string ;
     ns1:publisher "Gallimard Jeunesse" ;
@@ -14337,7 +14337,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99b a ns1:Book ;
     ns1:author "Carine-M"^^xsd:string,
         "Julien Hervieux"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2018-2019"^^xsd:string ;
+    ns1:datePublished "2018"^^xsd:string ;
     ns1:genre "6e" ;
     ns1:name "Orage : petit seigneur des ténèbres"^^xsd:string ;
     ns1:publisher "Poulpe Fictions" ;
@@ -14347,7 +14347,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99c a ns1:Book ;
     ns1:author "Marie-Catherine Daniel"^^xsd:string,
         "Timothée Leman"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2018-2019"^^xsd:string ;
+    ns1:datePublished "2018"^^xsd:string ;
     ns1:genre "5e" ;
     ns1:name "Les Aériens"^^xsd:string ;
     ns1:publisher "Sarbacane" ;
@@ -14602,7 +14602,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99d33 a ns1:Book ;
     ns1:datePublished "2007"^^xsd:string ;
     ns1:genre "Catégorie CM2-6e" ;
     ns1:name "Yaël Tautavel"^^xsd:string ;
-    ns1:publisher "Kilowatt" ;
+    ns1:publisher "Unknown" ;
     ns1:url <https://www.ricochet-jeunes.org/> .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99d34 a ns1:Book ;
@@ -14611,7 +14611,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99d34 a ns1:Book ;
     ns1:datePublished "2007"^^xsd:string ;
     ns1:genre "Catégorie 3ème-2nde" ;
     ns1:name "Une étoile pour Noël"^^xsd:string ;
-    ns1:publisher "Kilowatt" ;
+    ns1:publisher "Unknown" ;
     ns1:url <https://www.ricochet-jeunes.org/> .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99d35 a ns1:Book ;
@@ -14620,7 +14620,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99d35 a ns1:Book ;
     ns1:datePublished "2006"^^xsd:string ;
     ns1:genre "Catégorie CM2-6e" ;
     ns1:name "L’Ogrelet"^^xsd:string ;
-    ns1:publisher "Kilowatt" ;
+    ns1:publisher "Unknown" ;
     ns1:url <https://www.ricochet-jeunes.org/> .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99d36 a ns1:Book ;
@@ -14630,7 +14630,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99d36 a ns1:Book ;
     ns1:datePublished "2006"^^xsd:string ;
     ns1:genre "Catégorie 3ème-2nde" ;
     ns1:name "Pacamambo"^^xsd:string ;
-    ns1:publisher "Kilowatt" ;
+    ns1:publisher "Unknown" ;
     ns1:url <https://www.ricochet-jeunes.org/> .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99d4 a ns1:Book ;
@@ -14691,7 +14691,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99e a ns1:Book ;
     ns1:author "Jean-Christophe Tixier"^^xsd:string,
         "Manon Fargetton"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2018-2019"^^xsd:string ;
+    ns1:datePublished "2018"^^xsd:string ;
     ns1:genre "3e" ;
     ns1:name "Quand vient la vague"^^xsd:string ;
     ns1:publisher "Rageot" ;
@@ -14701,7 +14701,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99f a ns1:Book ;
     ns1:author "Audren"^^xsd:string,
         "Fabrice Pialot"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2017-2018"^^xsd:string ;
+    ns1:datePublished "2017"^^xsd:string ;
     ns1:genre "CM-6e" ;
     ns1:name "Wondercat"^^xsd:string ;
     ns1:publisher "Albin Michel Jeunesse" ;
@@ -14890,7 +14890,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99z a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a0 a ns1:Book ;
     ns1:author "Alexandre Chardin"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2017-2018"^^xsd:string ;
+    ns1:datePublished "2017"^^xsd:string ;
     ns1:genre "6e" ;
     ns1:name "Des vacances d'Apache"^^xsd:string ;
     ns1:publisher "Magnard Jeunesse" ;
@@ -14899,7 +14899,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a0 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a1 a ns1:Book ;
     ns1:author "Flore Vesco"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2017-2018"^^xsd:string ;
+    ns1:datePublished "2017"^^xsd:string ;
     ns1:genre "5e" ;
     ns1:name "Louis Pasteur contre les loups-garous"^^xsd:string ;
     ns1:publisher "Didier Jeunesse" ;
@@ -14908,7 +14908,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a1 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a2 a ns1:Book ;
     ns1:author "Nathalie Bernard"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2017-2018"^^xsd:string ;
+    ns1:datePublished "2017"^^xsd:string ;
     ns1:genre "4e/3e" ;
     ns1:name "Sept jours pour survivre"^^xsd:string ;
     ns1:publisher "Thierry Magnier" ;
@@ -14917,7 +14917,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a2 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a3 a ns1:Book ;
     ns1:author "Marie Vareille"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2016-2017"^^xsd:string ;
+    ns1:datePublished "2016"^^xsd:string ;
     ns1:name "Elia, la passeuse d'âmes"^^xsd:string ;
     ns1:publisher "Pocket Jeunesse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-des-devoreurs-de-livres> .
@@ -14925,7 +14925,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a3 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a4 a ns1:Book ;
     ns1:author "Séverine Vidal"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2015-2016"^^xsd:string ;
+    ns1:datePublished "2015"^^xsd:string ;
     ns1:genre "CM" ;
     ns1:name "La drôle d’évasion"^^xsd:string ;
     ns1:publisher "Sarbacane" ;
@@ -14934,7 +14934,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a4 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a5 a ns1:Book ;
     ns1:author "Jean-Christophe Tixier"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2015-2016"^^xsd:string ;
+    ns1:datePublished "2015"^^xsd:string ;
     ns1:genre "6e" ;
     ns1:name "Dix minutes à perdre"^^xsd:string ;
     ns1:publisher "Syros" ;
@@ -14943,7 +14943,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a5 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a6 a ns1:Book ;
     ns1:author "Bernard Friot"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2015-2016"^^xsd:string ;
+    ns1:datePublished "2015"^^xsd:string ;
     ns1:genre "5e" ;
     ns1:name "Le journal nul de mes amours nulles"^^xsd:string ;
     ns1:publisher "Flammarion" ;
@@ -14952,7 +14952,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a6 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a7 a ns1:Book ;
     ns1:author "Johan Héliot"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2015-2016"^^xsd:string ;
+    ns1:datePublished "2015"^^xsd:string ;
     ns1:genre "4e/3e" ;
     ns1:name "Les substituts"^^xsd:string ;
     ns1:publisher "Le Seuil Jeunesse" ;
@@ -14961,7 +14961,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a7 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a8 a ns1:Book ;
     ns1:author "Sandrine Beau"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2014-2015"^^xsd:string ;
+    ns1:datePublished "2014"^^xsd:string ;
     ns1:genre "CM/6e" ;
     ns1:name "Toute seule dans la nuit"^^xsd:string ;
     ns1:publisher "Alice" ;
@@ -14970,7 +14970,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a8 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a9 a ns1:Book ;
     ns1:author "Jean-Christophe Tixier"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2014-2015"^^xsd:string ;
+    ns1:datePublished "2014"^^xsd:string ;
     ns1:genre "5e" ;
     ns1:name "Foulée d’enfer"^^xsd:string ;
     ns1:publisher "Rageot" ;
@@ -14979,7 +14979,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a9 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9aa a ns1:Book ;
     ns1:author "Marine Carteron"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2014-2015"^^xsd:string ;
+    ns1:datePublished "2014"^^xsd:string ;
     ns1:genre "4e/3e" ;
     ns1:name "Les autodafeurs. (T.1) Mon frère est un gardien"^^xsd:string ;
     ns1:publisher "Le Rouergue" ;
@@ -14988,7 +14988,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9aa a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9ab a ns1:Book ;
     ns1:author "Pascale Perrier"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2013-2014"^^xsd:string ;
+    ns1:datePublished "2013"^^xsd:string ;
     ns1:genre "CM1/CM2" ;
     ns1:name "Tu n’es pas celle que tu crois"^^xsd:string ;
     ns1:publisher "Rageot" ;
@@ -14997,7 +14997,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9ab a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9ac a ns1:Book ;
     ns1:author "Pascale Perrier"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2013-2014"^^xsd:string ;
+    ns1:datePublished "2013"^^xsd:string ;
     ns1:genre "6e" ;
     ns1:name "Tu n'est pas celle que tu crois"^^xsd:string ;
     ns1:publisher "Rageot" ;
@@ -15006,7 +15006,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9ac a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9ad a ns1:Book ;
     ns1:author "Audren"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2013-2014"^^xsd:string ;
+    ns1:datePublished "2013"^^xsd:string ;
     ns1:genre "5e" ;
     ns1:name "Les Orphelins d’Abbey Road (T.1)"^^xsd:string ;
     ns1:publisher "L'École Des Loisirs" ;
@@ -15015,7 +15015,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9ad a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9ae a ns1:Book ;
     ns1:author "Hubert Ben Kemoun"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2013-2014"^^xsd:string ;
+    ns1:datePublished "2013"^^xsd:string ;
     ns1:genre "4e" ;
     ns1:name "La fille seule dans le vestiaire des garçons"^^xsd:string ;
     ns1:publisher "Flammarion" ;
@@ -15024,7 +15024,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9ae a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9af a ns1:Book ;
     ns1:author "Sarah Cohen-Scali"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2013-2014"^^xsd:string ;
+    ns1:datePublished "2013"^^xsd:string ;
     ns1:genre "3e" ;
     ns1:name "Max"^^xsd:string ;
     ns1:publisher "Gallimard" ;
@@ -15033,7 +15033,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9af a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9b0 a ns1:Book ;
     ns1:author "Anne Vantal"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2012-2013"^^xsd:string ;
+    ns1:datePublished "2012"^^xsd:string ;
     ns1:genre "CM1/CM2" ;
     ns1:name "Au bout là-bas"^^xsd:string ;
     ns1:publisher "Actes Sud Junior" ;
@@ -15042,7 +15042,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9b0 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9b1 a ns1:Book ;
     ns1:author "Chris Donner"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2012-2013"^^xsd:string ;
+    ns1:datePublished "2012"^^xsd:string ;
     ns1:genre "6e" ;
     ns1:name "Tempête au haras"^^xsd:string ;
     ns1:publisher "L'École Des Loisirs" ;
@@ -15051,7 +15051,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9b1 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9b2 a ns1:Book ;
     ns1:author "Pascal Ruter"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2012-2013"^^xsd:string ;
+    ns1:datePublished "2012"^^xsd:string ;
     ns1:genre "5e" ;
     ns1:name "Le cœur en braille"^^xsd:string ;
     ns1:publisher "Didier Jeunesse" ;
@@ -15060,7 +15060,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9b2 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9b3 a ns1:Book ;
     ns1:author "Eric Senabre"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2012-2013"^^xsd:string ;
+    ns1:datePublished "2012"^^xsd:string ;
     ns1:genre "4e" ;
     ns1:name "Sublutetia (T.1). La révolte de Hutan"^^xsd:string ;
     ns1:publisher "Didier Jeunesse" ;
@@ -15069,7 +15069,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9b3 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9b4 a ns1:Book ;
     ns1:author "Christophe Lambert"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2012-2013"^^xsd:string ;
+    ns1:datePublished "2012"^^xsd:string ;
     ns1:genre "3e" ;
     ns1:name "Swing à Berlin"^^xsd:string ;
     ns1:publisher "Bayard Jeunesse" ;
@@ -16053,14 +16053,6 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d1571 a ns1:Book ;
     ns1:publisher "Albin Michel Jeunesse" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> .
 
-ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d1572 a ns1:Book ;
-    ns1:author "Unknown"^^xsd:string ;
-    ns1:award "Prix Landerneau Album Jeunesse" ;
-    ns1:datePublished "2016"^^xsd:string ;
-    ns1:genre "Jeunesse" ;
-    ns1:name "Le Prix est décalé d'une saison, de l'automne 2016 au printemps 2017"^^xsd:string ;
-    ns1:publisher "Kilowatt" ;
-    ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-landerneau-album-jeunesse> .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d1573 a ns1:Book ;
     ns1:author "Clotilde Goubely"^^xsd:string,
@@ -17484,7 +17476,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d83 a ns1:Book ;
     ns1:datePublished "2018"^^xsd:string ;
     ns1:genre "8-10 ans" ;
     ns1:name "Une histoire d'amour"^^xsd:string ;
-    ns1:publisher "Kilowatt" ;
+    ns1:publisher "Unknown" ;
     ns1:url <https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle> .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d84 a ns1:Book ;
@@ -17932,7 +17924,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6m61df9d1 a ns1:Book ;
 ns1:Booked7a4921-0d39-4370-a445-9ca8b61df99d a ns1:Book ;
     ns1:author "David Moitet"^^xsd:string ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:datePublished "2018-2019"^^xsd:string ;
+    ns1:datePublished "2018"^^xsd:string ;
     ns1:genre "4e" ;
     ns1:name "Le dossier Handle"^^xsd:string ;
     ns1:publisher "Didier Jeunesse" ;
