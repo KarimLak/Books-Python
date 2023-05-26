@@ -21,4 +21,4 @@ def print_duplicate_uri_books(ttl_filename):
             print(f"URI {uri} appears {count} times")
 
 # Call the function with your ttl file name
-print_duplicate_uri_books("./output_lurelu.ttl")
+print_duplicate_uri_books("./merged_output.ttl")
