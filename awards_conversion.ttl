@@ -1,0 +1,952 @@
+@prefix ns1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:Baobab_De_L_album a ns1:Organization ;
+    ns1:name "Baobab De L'album"^^xsd:string .
+
+ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or a ns1:Organization ;
+    ns1:name "Biennale De L'illustration De Bratislava : Plaques D'or"^^xsd:string .
+
+ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or a ns1:Organization ;
+    ns1:name "Biennale De L'illustration De Bratislava : Pommes D'or"^^xsd:string .
+
+ns1:Concours_Communication_Jeunesse_Culinar a ns1:Organization ;
+    ns1:name "Concours Communication-Jeunesse / Culinar"^^xsd:string .
+
+ns1:Concours_Du_Premier_Roman_Jeunesse a ns1:Organization ;
+    ns1:name "Concours Du Premier Roman Jeunesse"^^xsd:string .
+
+ns1:Figures_Futur_Prix_Des_Médiateurs a ns1:Organization ;
+    ns1:name "Figures Futur : Prix Des Médiateurs"^^xsd:string .
+
+ns1:Figures_Futur_Prix_Du_Jury a ns1:Organization ;
+    ns1:name "Figures Futur : Prix Du Jury"^^xsd:string .
+
+ns1:Figures_Futur_Prix_Du_Public a ns1:Organization ;
+    ns1:name "Figures Futur : Prix Du Public"^^xsd:string .
+
+ns1:Figures_Futur_Prix_Du_Public_Enfants a ns1:Organization ;
+    ns1:name "Figures Futur : Prix Du Public Enfants"^^xsd:string .
+
+ns1:Gayant_Lecture a ns1:Organization ;
+    ns1:name "Gayant Lecture"^^xsd:string .
+
+ns1:Goncourt_Des_Lycéens a ns1:Organization ;
+    ns1:name "Goncourt Des Lycéens"^^xsd:string .
+
+ns1:Grand_Prix_De_L_Illustration a ns1:Organization ;
+    ns1:name "Grand Prix De L'Illustration"^^xsd:string .
+
+ns1:Grand_Prix_De_L_Imaginaire a ns1:Organization ;
+    ns1:name "Grand Prix De L'Imaginaire"^^xsd:string .
+
+ns1:Grand_Prix_Des_Jeunes_Lecteurs_De_La_Peep a ns1:Organization ;
+    ns1:name "Grand Prix Des Jeunes Lecteurs De La Peep"^^xsd:string .
+
+ns1:Grand_Prix_Du_Livre_De_La_Montérégie a ns1:Organization ;
+    ns1:name "Grand Prix Du Livre De La Montérégie"^^xsd:string .
+
+ns1:Grand_Prix_Sgdl_Du_Roman_Jeunesse a ns1:Organization ;
+    ns1:name "Grand Prix Sgdl Du Roman Jeunesse"^^xsd:string .
+
+ns1:Le_Prix_Espiègle a ns1:Organization ;
+    ns1:name "Le Prix Espiègle"^^xsd:string .
+
+ns1:Les_Mordus_Du_Polar a ns1:Organization ;
+    ns1:name "Les Mordus Du Polar"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Bande_Dessinée a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Bande Dessinée"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Bd_Manga a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Bd/Manga"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_D_Or a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite D’Or"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_L_Adaptation_Cinéma_D_Animation a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite De L’Adaptation Cinéma D’Animation"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_L_Adaptation_Cinéma_D_Animation_Courts_Et_Moyens_Métrages a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite De L’Adaptation Cinéma D’Animation - Courts Et Moyens Métrages"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_L_Adaptation_Cinéma_D_Animation_Séries_Télévisées a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite De L’Adaptation Cinéma D’Animation - Séries Télévisées"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_L_Album a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite De L’Album"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_La_Création_Numérique a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite De La Création Numérique"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_La_Petite_Enfance a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite De La Petite Enfance"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Des_Grands a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Des Grands"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Des_Moyens a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Des Moyens"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Des_Petits a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Des Petits"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Documentaire a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Du Documentaire"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Documentaire_Livre_D_Art a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Du Documentaire/Livre D’Art"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Livre_Audio_Histoires_En_Musique a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Du Livre Audio/Histoires En Musique"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Livre_D_Art a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Du Livre D’Art"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Livre_Ovni_Coup_De_C_ur_De_L_Équipe_Du_Salon a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Du Livre Ovni / Coup De Cœur De L’Équipe Du Salon"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Premier_Album a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Du Premier Album"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Roman_9_12_Ans a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Du Roman 9-12 Ans"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Roman_Ado_Européen a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Du Roman Ado Européen"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Roman_Européen_Pour_Adolescents a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Du Roman Européen Pour Adolescents"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Fiction_Ados a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Fiction Ados"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Fiction_Junior a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Fiction Junior"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Livre_Illustré a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Livre Illustré"^^xsd:string .
+
+ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Roman a ns1:Organization ;
+    ns1:name "Les Pépites Du Salon De Montreuil : Pépite Roman"^^xsd:string .
+
+ns1:Livre a ns1:Organization ;
+    ns1:name "Livre"^^xsd:string .
+
+ns1:Masque_De_La_Production_Jeunes_Publics_ a ns1:Organization ;
+    ns1:name "Masque De La Production «Jeunes Publics»"^^xsd:string .
+
+ns1:Médaille_Caldecott a ns1:Organization ;
+    ns1:name "Médaille Caldecott"^^xsd:string .
+
+ns1:Médaille_Carnegie a ns1:Organization ;
+    ns1:name "Médaille Carnegie"^^xsd:string .
+
+ns1:Médaille_John_Newbery a ns1:Organization ;
+    ns1:name "Médaille John Newbery"^^xsd:string .
+
+ns1:Médaille_Kate_Greenaway a ns1:Organization ;
+    ns1:name "Médaille Kate Greenaway"^^xsd:string .
+
+ns1:Prix_12_17_Brive_Montréal a ns1:Organization ;
+    ns1:name "Prix 12 / 17 Brive-Montréal"^^xsd:string .
+
+ns1:Prix_Ado_Lisant a ns1:Organization ;
+    ns1:name "Prix Ado-Lisant"^^xsd:string .
+
+ns1:Prix_Ados_Rennes_Ille_Et_Vilaine a ns1:Organization ;
+    ns1:name "Prix Ados Rennes/Ille-Et-Vilaine"^^xsd:string .
+
+ns1:Prix_Alvine_Bélisle a ns1:Organization ;
+    ns1:name "Prix Alvine-Bélisle"^^xsd:string .
+
+ns1:Prix_Alvine_Bélisle_Mention_Spéciale a ns1:Organization ;
+    ns1:name "Prix Alvine-Bélisle Mention Spéciale"^^xsd:string .
+
+ns1:Prix_Babelio a ns1:Organization ;
+    ns1:name "Prix Babelio"^^xsd:string .
+
+ns1:Prix_Bernard_Versele_1_Chouette a ns1:Organization ;
+    ns1:name "Prix Bernard Versele : 1 Chouette"^^xsd:string .
+
+ns1:Prix_Bernard_Versele_2_Chouettes a ns1:Organization ;
+    ns1:name "Prix Bernard Versele : 2 Chouettes"^^xsd:string .
+
+ns1:Prix_Bernard_Versele_3_Chouettes a ns1:Organization ;
+    ns1:name "Prix Bernard Versele : 3 Chouettes"^^xsd:string .
+
+ns1:Prix_Bernard_Versele_4_Chouettes a ns1:Organization ;
+    ns1:name "Prix Bernard Versele : 4 Chouettes"^^xsd:string .
+
+ns1:Prix_Bernard_Versele_5_Chouettes a ns1:Organization ;
+    ns1:name "Prix Bernard Versele : 5 Chouettes"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Arte_Novita_Prix_Arts_Nouveauté a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Arte Novita - Prix Arts Nouveauté"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Bologna_Ragazzi_Award_Books_Seeds a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Bologna Ragazzi Award Books & Seeds"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Bologna_Ragazzi_Award_On_Art_Architecture_Design a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Bologna Ragazzi Award On Art - Architecture & Design"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Cinema_Categoria_Speciale a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Cinema - Categoria Speciale"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Comics_Early_Reader a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Comics - Early Reader"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Comics_Middle_Grade a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Comics - Middle Grade"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Comics_Young_Adult a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Comics - Young Adult"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Fiction a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Fiction"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Fiction_Award a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Fiction Award"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Fiction_Enfance_6_9_Ans_ a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Fiction Enfance (6-9 Ans)"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Fiction_Jeunesse_10_16_Ans_ a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Fiction Jeunesse (10-16 Ans)"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Fiction_Première_Enfance_0_5_Ans_ a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Fiction Première Enfance (0-5 Ans)"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Fotografia_Categoria_Speciale a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Fotografia - Categoria Speciale"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Mention a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Mention"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Mention_Spéciale a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Mention Spéciale"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Mention_Spéciale_Fiction a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Mention Spéciale Fiction"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Mentions a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Mentions"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Mentions_Spéciales a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Mentions Spéciales"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_New_Horizons a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: New Horizons"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_New_Horizons_Award a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: New Horizons Award"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_New_Media_Prize a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: New Media Prize"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Non_Fiction a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Non Fiction"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Non_Fiction_Award a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Non Fiction Award"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Non_Fiction_Enfance_6_9_Ans_ a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Non Fiction Enfance (6-9 Ans)"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Non_Fiction_Jeunesse_10_16_Ans_ a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Non Fiction Jeunesse (10-16 Ans)"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Non_Fiction_Première_Enfance_0_5_Ans_ a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Non Fiction Première Enfance (0-5 Ans)"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Opera_Prima a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Opera Prima"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Poesia_Categoria_Speciale a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Poesia - Categoria Speciale"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Prix_Non_Fiction a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Prix Non-Fiction"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Prix_Nouveaux_Horizons a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Prix Nouveaux Horizons"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Prix_Opera_Prima_Première_uvre_ a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Prix Opera Prima (Première Œuvre)"^^xsd:string .
+
+ns1:Prix_Bologna_Ragazzi_Prix_Opéra_Prima_Première_uvre_ a ns1:Organization ;
+    ns1:name "Prix Bologna Ragazzi: Prix Opéra Prima (Première Œuvre)"^^xsd:string .
+
+ns1:Prix_Brindacier a ns1:Organization ;
+    ns1:name "Prix Brindacier"^^xsd:string .
+
+ns1:Prix_Bulles_De_Cristal_Catégorie_Des_11_14_Ans a ns1:Organization ;
+    ns1:name "Prix Bulles De Cristal : Catégorie Des 11-14 Ans"^^xsd:string .
+
+ns1:Prix_Bulles_De_Cristal_Catégorie_Des_15_18_Ans a ns1:Organization ;
+    ns1:name "Prix Bulles De Cristal : Catégorie Des 15-18 Ans"^^xsd:string .
+
+ns1:Prix_Cendres a ns1:Organization ;
+    ns1:name "Prix Cendres"^^xsd:string .
+
+ns1:Prix_Cendres_Mention a ns1:Organization ;
+    ns1:name "Prix Cendres : Mention"^^xsd:string .
+
+ns1:Prix_Chimère a ns1:Organization ;
+    ns1:name "Prix Chimère"^^xsd:string .
+
+ns1:Prix_Chronos a ns1:Organization ;
+    ns1:name "Prix Chronos"^^xsd:string .
+
+ns1:Prix_Chronos_Alzheimer a ns1:Organization ;
+    ns1:name "Prix Chronos Alzheimer"^^xsd:string .
+
+ns1:Prix_Chronos_De_Littérature_4E_3E a ns1:Organization ;
+    ns1:name "Prix Chronos De Littérature : 4E - 3E"^^xsd:string,
+        "Prix Chronos De Littérature : 4E – 3E"^^xsd:string .
+
+ns1:Prix_Chronos_De_Littérature_6E_5E a ns1:Organization ;
+    ns1:name "Prix Chronos De Littérature : 6E - 5E"^^xsd:string,
+        "Prix Chronos De Littérature : 6E – 5E"^^xsd:string .
+
+ns1:Prix_Chronos_De_Littérature_Ce1_Ce2 a ns1:Organization ;
+    ns1:name "Prix Chronos De Littérature : Ce1 - Ce2"^^xsd:string,
+        "Prix Chronos De Littérature : Ce1 – Ce2"^^xsd:string .
+
+ns1:Prix_Chronos_De_Littérature_Cm1_Cm2 a ns1:Organization ;
+    ns1:name "Prix Chronos De Littérature : Cm1 - Cm2"^^xsd:string,
+        "Prix Chronos De Littérature : Cm1 – Cm2"^^xsd:string .
+
+ns1:Prix_Chronos_De_Littérature_Lycéens a ns1:Organization ;
+    ns1:name "Prix Chronos De Littérature : Lycéens"^^xsd:string .
+
+ns1:Prix_Chronos_De_Littérature_Maternelle_Cp a ns1:Organization ;
+    ns1:name "Prix Chronos De Littérature : Maternelle – Cp"^^xsd:string .
+
+ns1:Prix_Chrétien_De_Troyes a ns1:Organization ;
+    ns1:name "Prix Chrétien De Troyes"^^xsd:string .
+
+ns1:Prix_Coup_De_Pouce_Gulli_Des_Premières_Lectures a ns1:Organization ;
+    ns1:name "Prix Coup De Pouce Gulli Des Premières Lectures"^^xsd:string .
+
+ns1:Prix_Cécile_Gagnon a ns1:Organization ;
+    ns1:name "Prix Cécile-Gagnon"^^xsd:string .
+
+ns1:Prix_De_Création_Littéraire_Bibliothèque_De_Québec a ns1:Organization ;
+    ns1:name "Prix De Création Littéraire Bibliothèque De Québec"^^xsd:string .
+
+ns1:Prix_De_La_Pièce_De_Théâtre_Contemporain_Pour_Le_Jeune_Public a ns1:Organization ;
+    ns1:name "Prix De La Pièce De Théâtre Contemporain Pour Le Jeune Public"^^xsd:string .
+
+ns1:Prix_De_La_Pièce_De_Théâtre_Contemporain_Pour_Le_Jeune_Public_3Ème_2Nde a ns1:Organization ;
+    ns1:name "Prix De La Pièce De Théâtre Contemporain Pour Le Jeune Public : 3Ème-2Nde"^^xsd:string .
+
+ns1:Prix_De_La_Semaine_Paul_Hurtmans_Du_Livre_De_Jeunesse a ns1:Organization ;
+    ns1:name "Prix De La Semaine Paul Hurtmans Du Livre De Jeunesse"^^xsd:string .
+
+ns1:Prix_Des_Abonnés_De_La_Bibliothèque_De_Québec a ns1:Organization ;
+    ns1:name "Prix Des Abonnés De La Bibliothèque De Québec"^^xsd:string .
+
+ns1:Prix_Des_Dévoreurs_De_Livres a ns1:Organization ;
+    ns1:name "Prix Des Dévoreurs De Livres"^^xsd:string .
+
+ns1:Prix_Des_Incorruptibles a ns1:Organization ;
+    ns1:name "Prix Des Incorruptibles"^^xsd:string .
+
+ns1:Prix_Des_Lecteurs_En_Seine a ns1:Organization ;
+    ns1:name "Prix Des Lecteurs En Seine"^^xsd:string .
+
+ns1:Prix_Des_Lycéens_Allemands a ns1:Organization ;
+    ns1:name "Prix Des Lycéens Allemands"^^xsd:string .
+
+ns1:Prix_Du_1èr_Album a ns1:Organization ;
+    ns1:name "Prix Du 1èr Album"^^xsd:string .
+
+ns1:Prix_Du_Conseil_Des_Arts_Du_Canada a ns1:Organization ;
+    ns1:name "Prix Du Conseil Des Arts Du Canada"^^xsd:string .
+
+ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal a ns1:Organization ;
+    ns1:name "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string .
+
+ns1:Prix_Du_Livre_M_Christie a ns1:Organization ;
+    ns1:name "Prix Du Livre M. Christie"^^xsd:string .
+
+ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde a ns1:Organization ;
+    ns1:name "Prix Du Roman Historique Jeunesse : 3ème-Seconde"^^xsd:string .
+
+ns1:Prix_Du_Roman_Historique_Jeunesse_5ème_4ème a ns1:Organization ;
+    ns1:name "Prix Du Roman Historique Jeunesse : 5ème-4ème"^^xsd:string .
+
+ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6ème a ns1:Organization ;
+    ns1:name "Prix Du Roman Historique Jeunesse : Cm2-6ème"^^xsd:string .
+
+ns1:Prix_Du_Roman_Historique_Jeunesse_Lycée a ns1:Organization ;
+    ns1:name "Prix Du Roman Historique Jeunesse : Lycée"^^xsd:string .
+
+ns1:Prix_Enfantaisie a ns1:Organization ;
+    ns1:name "Prix Enfantaisie"^^xsd:string .
+
+ns1:Prix_Enfantaisie_Catégorie_Album a ns1:Organization ;
+    ns1:name "Prix Enfantaisie : Catégorie Album"^^xsd:string .
+
+ns1:Prix_Enfantaisie_Catégorie_Roman_Prix_Farniente a ns1:Organization ;
+    ns1:name "Prix Enfantaisie : Catégorie Roman - Prix Farniente"^^xsd:string .
+
+ns1:Prix_Farniente_Basket_Jaune_13_ a ns1:Organization ;
+    ns1:name "Prix Farniente : Basket Jaune (13+)"^^xsd:string .
+
+ns1:Prix_Farniente_Basket_Orange a ns1:Organization ;
+    ns1:name "Prix Farniente : Basket Orange"^^xsd:string .
+
+ns1:Prix_Farniente_Basket_Verte_15_ a ns1:Organization ;
+    ns1:name "Prix Farniente : Basket Verte (15+)"^^xsd:string .
+
+ns1:Prix_Farniente_Chameau_15_ a ns1:Organization ;
+    ns1:name "Prix Farniente : Chameau (15+)"^^xsd:string .
+
+ns1:Prix_Farniente_Deux_Baskets a ns1:Organization ;
+    ns1:name "Prix Farniente : Deux Baskets"^^xsd:string .
+
+ns1:Prix_Farniente_Dromadaire_13_ a ns1:Organization ;
+    ns1:name "Prix Farniente : Dromadaire (13+)"^^xsd:string .
+
+ns1:Prix_Farniente_Prix_Evasion_15_ a ns1:Organization ;
+    ns1:name "Prix Farniente : Prix Evasion (15+)"^^xsd:string .
+
+ns1:Prix_Farniente_Prix_Victor_13_ a ns1:Organization ;
+    ns1:name "Prix Farniente : Prix Victor (13+)"^^xsd:string .
+
+ns1:Prix_Farniente_Sélection_Jaune_13_ a ns1:Organization ;
+    ns1:name "Prix Farniente : Sélection Jaune (13+)"^^xsd:string .
+
+ns1:Prix_Farniente_Sélection_Verte_15_ a ns1:Organization ;
+    ns1:name "Prix Farniente : Sélection Verte (15+)"^^xsd:string .
+
+ns1:Prix_Farniente_Une_Basket a ns1:Organization ;
+    ns1:name "Prix Farniente : Une Basket"^^xsd:string .
+
+ns1:Prix_Ficelle a ns1:Organization ;
+    ns1:name "Prix Ficelle"^^xsd:string .
+
+ns1:Prix_Franco_Allemand_Pour_La_Littérature_De_Jeunesse_Allemagne a ns1:Organization ;
+    ns1:name "Prix Franco-Allemand Pour La Littérature De Jeunesse : Allemagne"^^xsd:string .
+
+ns1:Prix_Franco_Allemand_Pour_La_Littérature_De_Jeunesse_France a ns1:Organization ;
+    ns1:name "Prix Franco-Allemand Pour La Littérature De Jeunesse : France"^^xsd:string .
+
+ns1:Prix_Gulli_Du_Roman a ns1:Organization ;
+    ns1:name "Prix Gulli Du Roman"^^xsd:string .
+
+ns1:Prix_Harry_Black_De_L_Album_Jeunesse a ns1:Organization ;
+    ns1:name "Prix Harry Black De L'Album Jeunesse"^^xsd:string,
+        "Prix Harry-Black De L’Album Jeunesse"^^xsd:string .
+
+ns1:Prix_Ibby_Belgique_Francophone a ns1:Organization ;
+    ns1:name "Prix Ibby Belgique Francophone"^^xsd:string .
+
+ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières a ns1:Organization ;
+    ns1:name "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières"^^xsd:string .
+
+ns1:Prix_Imaginales a ns1:Organization ;
+    ns1:name "Prix Imaginales"^^xsd:string .
+
+ns1:Prix_Imaginales_Catégorie_Album a ns1:Organization ;
+    ns1:name "Prix Imaginales : Catégorie Album"^^xsd:string .
+
+ns1:Prix_Imaginales_Catégorie_Jeunesse a ns1:Organization ;
+    ns1:name "Prix Imaginales - Catégorie Jeunesse"^^xsd:string .
+
+ns1:Prix_Imaginales_Des_Collégiens a ns1:Organization ;
+    ns1:name "Prix Imaginales Des Collégiens"^^xsd:string .
+
+ns1:Prix_Imaginales_Des_Ecoliers a ns1:Organization ;
+    ns1:name "Prix Imaginales Des Ecoliers"^^xsd:string .
+
+ns1:Prix_Imaginales_Des_Lycéens a ns1:Organization ;
+    ns1:name "Prix Imaginales Des Lycéens"^^xsd:string .
+
+ns1:Prix_Jacaranda a ns1:Organization ;
+    ns1:name "Prix Jacaranda"^^xsd:string .
+
+ns1:Prix_Jacques_Asklund a ns1:Organization ;
+    ns1:name "Prix Jacques Asklund"^^xsd:string .
+
+ns1:Prix_Jeunesse_Des_Libraires_Du_Québec a ns1:Organization ;
+    ns1:name "Prix Jeunesse Des Libraires Du Québec"^^xsd:string .
+
+ns1:Prix_Jeunesse_Des_Terres_Du_Val_De_Loire a ns1:Organization ;
+    ns1:name "Prix Jeunesse Des Terres Du Val De Loire"^^xsd:string .
+
+ns1:Prix_Jeunesse_Des_Univers_Parallèles a ns1:Organization ;
+    ns1:name "Prix Jeunesse Des Univers Parallèles"^^xsd:string .
+
+ns1:Prix_Joël_Sadeler a ns1:Organization ;
+    ns1:name "Prix Joël Sadeler"^^xsd:string .
+
+ns1:Prix_La_Science_Se_Livre_Catégorie_4_8_Ans a ns1:Organization ;
+    ns1:name "Prix La Science Se Livre : Catégorie 4-8 Ans"^^xsd:string .
+
+ns1:Prix_La_Science_Se_Livre_Catégorie_9_14_Ans a ns1:Organization ;
+    ns1:name "Prix La Science Se Livre : Catégorie 9-14 Ans"^^xsd:string .
+
+ns1:Prix_La_Science_Se_Livre_Catégorie_Adolescents_11_15_Ans a ns1:Organization ;
+    ns1:name "Prix La Science Se Livre : Catégorie Adolescents 11-15 Ans"^^xsd:string .
+
+ns1:Prix_Landerneau_Album_Jeunesse a ns1:Organization ;
+    ns1:name "Prix Landerneau Album Jeunesse"^^xsd:string .
+
+ns1:Prix_Libbylit a ns1:Organization ;
+    ns1:name "Prix Libbylit"^^xsd:string .
+
+ns1:Prix_Libbylit_Mention_Spéciale_ a ns1:Organization ;
+    ns1:name "Prix Libbylit (Mention Spéciale)"^^xsd:string .
+
+ns1:Prix_Libbylit_Mention_Spéciale_Album_Roman_ a ns1:Organization ;
+    ns1:name "Prix Libbylit (Mention Spéciale - Album-Roman)"^^xsd:string .
+
+ns1:Prix_Libbylit_Mention_Spéciale_Du_Jury_ a ns1:Organization ;
+    ns1:name "Prix Libbylit (Mention Spéciale Du Jury)"^^xsd:string .
+
+ns1:Prix_Libbylit_Mention_Spéciale_Hors_Catégorie_ a ns1:Organization ;
+    ns1:name "Prix Libbylit (Mention Spéciale - Hors Catégorie)"^^xsd:string .
+
+ns1:Prix_Libbylit_Mention_Spéciale_Théâtre_Jeunesse_ a ns1:Organization ;
+    ns1:name "Prix Libbylit (Mention Spéciale - Théâtre Jeunesse)"^^xsd:string .
+
+ns1:Prix_Libbylit_Ovni_ a ns1:Organization ;
+    ns1:name "Prix Libbylit (Ovni)"^^xsd:string .
+
+ns1:Prix_Libr_À_Nous a ns1:Organization ;
+    ns1:name "Prix Libr'À Nous"^^xsd:string .
+
+ns1:Prix_Littéraire_Hackmatack a ns1:Organization ;
+    ns1:name "Prix Littéraire Hackmatack"^^xsd:string .
+
+ns1:Prix_Littéraire_Hackmatack_Égalité_ a ns1:Organization ;
+    ns1:name "Prix Littéraire Hackmatack (Égalité!)"^^xsd:string .
+
+ns1:Prix_Littéraire_Le_Droit_Jeunesse a ns1:Organization ;
+    ns1:name "Prix Littéraire Le Droit - Jeunesse"^^xsd:string .
+
+ns1:Prix_Littéraire_Suzanne_Pouliot_Et_Antoine_Sirois a ns1:Organization ;
+    ns1:name "Prix Littéraire Suzanne Pouliot Et Antoine Sirois"^^xsd:string .
+
+ns1:Prix_Littéraires_Des_Enseignants_Aqpf_Anel a ns1:Organization ;
+    ns1:name "Prix Littéraires Des Enseignants Aqpf-Anel"^^xsd:string .
+
+ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada a ns1:Organization ;
+    ns1:name "Prix Littéraires Du Gouverneur Général Du Canada"^^xsd:string .
+
+ns1:Prix_Littéraires_Du_Salon_Du_Livre_Du_Saguenay_Lac_Saint_Jean a ns1:Organization ;
+    ns1:name "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean"^^xsd:string .
+
+ns1:Prix_Littéralouest_10_11_Ans a ns1:Organization ;
+    ns1:name "Prix Littéralouest : 10-11 Ans"^^xsd:string .
+
+ns1:Prix_Littéralouest_4_5_Ans a ns1:Organization ;
+    ns1:name "Prix Littéralouest : 4-5 Ans"^^xsd:string .
+
+ns1:Prix_Littéralouest_4Ème_3Ème a ns1:Organization ;
+    ns1:name "Prix Littéralouest : 4Ème-3Ème"^^xsd:string .
+
+ns1:Prix_Littéralouest_5_6_Ans a ns1:Organization ;
+    ns1:name "Prix Littéralouest : 5-6 Ans"^^xsd:string .
+
+ns1:Prix_Littéralouest_6_7_Ans a ns1:Organization ;
+    ns1:name "Prix Littéralouest : 6-7 Ans"^^xsd:string .
+
+ns1:Prix_Littéralouest_6Ème_5Ème a ns1:Organization ;
+    ns1:name "Prix Littéralouest : 6Ème-5Ème"^^xsd:string .
+
+ns1:Prix_Littéralouest_7_8_Ans a ns1:Organization ;
+    ns1:name "Prix Littéralouest : 7-8 Ans"^^xsd:string .
+
+ns1:Prix_Littéralouest_8_9_Ans a ns1:Organization ;
+    ns1:name "Prix Littéralouest : 8-9 Ans"^^xsd:string .
+
+ns1:Prix_Littéralouest_9_10_Ans a ns1:Organization ;
+    ns1:name "Prix Littéralouest : 9-10 Ans"^^xsd:string .
+
+ns1:Prix_Littéralouest_Bd_Collège_ a ns1:Organization ;
+    ns1:name "Prix Littéralouest : Bd (Collège)"^^xsd:string .
+
+ns1:Prix_Littéralouest_Moins_De_4_Ans a ns1:Organization ;
+    ns1:name "Prix Littéralouest : Moins De 4 Ans"^^xsd:string .
+
+ns1:Prix_Livrentête_Albums a ns1:Organization ;
+    ns1:name "Prix Livrentête : Albums"^^xsd:string .
+
+ns1:Prix_Livrentête_Albums_3_ a ns1:Organization ;
+    ns1:name "Prix Livrentête : Albums 3+"^^xsd:string .
+
+ns1:Prix_Livrentête_Albums_5_ a ns1:Organization ;
+    ns1:name "Prix Livrentête : Albums 5+"^^xsd:string .
+
+ns1:Prix_Livrentête_Bandes_Dessinées_Juniors_12_Ans_Et_Plus a ns1:Organization ;
+    ns1:name "Prix Livrentête : Bandes Dessinées Juniors 12 Ans Et Plus"^^xsd:string .
+
+ns1:Prix_Livrentête_Bd_Enfants a ns1:Organization ;
+    ns1:name "Prix Livrentête : Bd Enfants"^^xsd:string .
+
+ns1:Prix_Livrentête_Bd_Juniors a ns1:Organization ;
+    ns1:name "Prix Livrentête : Bd Juniors"^^xsd:string .
+
+ns1:Prix_Livrentête_Livres_D_Images a ns1:Organization ;
+    ns1:name "Prix Livrentête : Livres D’Images"^^xsd:string .
+
+ns1:Prix_Livrentête_Premiers_Romans a ns1:Organization ;
+    ns1:name "Prix Livrentête : Premiers Romans"^^xsd:string .
+
+ns1:Prix_Livrentête_Premières_Bd a ns1:Organization ;
+    ns1:name "Prix Livrentête : Premières Bd"^^xsd:string .
+
+ns1:Prix_Livrentête_Premières_Lectures a ns1:Organization ;
+    ns1:name "Prix Livrentête : Premières Lectures"^^xsd:string .
+
+ns1:Prix_Livrentête_Romans_Ados a ns1:Organization ;
+    ns1:name "Prix Livrentête : Romans Ados"^^xsd:string .
+
+ns1:Prix_Livrentête_Romans_Enfants a ns1:Organization ;
+    ns1:name "Prix Livrentête : Romans Enfants"^^xsd:string .
+
+ns1:Prix_Livrentête_Romans_Juniors a ns1:Organization ;
+    ns1:name "Prix Livrentête : Romans Juniors"^^xsd:string .
+
+ns1:Prix_Livrentête_Sélection_Albums_À_Partir_De_3_Ans a ns1:Organization ;
+    ns1:name "Prix Livrentête : Sélection Albums À Partir De 3 Ans"^^xsd:string .
+
+ns1:Prix_Livrentête_Sélection_Albums_À_Partir_De_5_Ans a ns1:Organization ;
+    ns1:name "Prix Livrentête : Sélection Albums À Partir De 5 Ans"^^xsd:string .
+
+ns1:Prix_Livrentête_Sélection_Bd_À_Partir_De_10_Ans a ns1:Organization ;
+    ns1:name "Prix Livrentête : Sélection Bd À Partir De 10 Ans"^^xsd:string .
+
+ns1:Prix_Livrentête_Sélection_Bd_À_Partir_De_13_Ans a ns1:Organization ;
+    ns1:name "Prix Livrentête : Sélection Bd À Partir De 13 Ans"^^xsd:string .
+
+ns1:Prix_Livrentête_Sélection_Premières_Bd_À_Partir_De_7_Ans a ns1:Organization ;
+    ns1:name "Prix Livrentête : Sélection Premières Bd À Partir De 7 Ans"^^xsd:string .
+
+ns1:Prix_Livrentête_Sélection_Premières_Lectures_À_Partir_De_7_Ans a ns1:Organization ;
+    ns1:name "Prix Livrentête : Sélection Premières Lectures À Partir De 7 Ans"^^xsd:string .
+
+ns1:Prix_Livrentête_Sélection_À_Partir_De_12_Ans a ns1:Organization ;
+    ns1:name "Prix Livrentête : Sélection À Partir De 12 Ans"^^xsd:string .
+
+ns1:Prix_Livrentête_Sélection_À_Partir_De_15_Ans a ns1:Organization ;
+    ns1:name "Prix Livrentête : Sélection À Partir De 15 Ans"^^xsd:string .
+
+ns1:Prix_Livrentête_Sélection_À_Partir_De_9_Ans a ns1:Organization ;
+    ns1:name "Prix Livrentête : Sélection À Partir De 9 Ans"^^xsd:string .
+
+ns1:Prix_Lu_Et_Partagé_Grand_Prix_De_L_Album a ns1:Organization ;
+    ns1:name "Prix Lu Et Partagé : Grand Prix De L'Album"^^xsd:string .
+
+ns1:Prix_Lu_Et_Partagé_Prix_Extra_Ordinaire a ns1:Organization ;
+    ns1:name "Prix Lu Et Partagé : Prix Extra-Ordinaire"^^xsd:string .
+
+ns1:Prix_Lu_Et_Partagé_Prix_Jeune_Talent a ns1:Organization ;
+    ns1:name "Prix Lu Et Partagé : Prix Jeune Talent"^^xsd:string .
+
+ns1:Prix_Lu_Et_Partagé_Prix_Petite_Enfance a ns1:Organization ;
+    ns1:name "Prix Lu Et Partagé : Prix Petite Enfance"^^xsd:string .
+
+ns1:Prix_Lu_Et_Partagé_Prix_Roman_Ado a ns1:Organization ;
+    ns1:name "Prix Lu Et Partagé : Prix Roman Ado"^^xsd:string .
+
+ns1:Prix_Lu_Et_Partagé_Prix_Roman_Junior a ns1:Organization ;
+    ns1:name "Prix Lu Et Partagé : Prix Roman Junior"^^xsd:string .
+
+ns1:Prix_Lu_Et_Partagé_Prix_Spécial_Du_Jury_Roman a ns1:Organization ;
+    ns1:name "Prix Lu Et Partagé : Prix Spécial Du Jury Roman"^^xsd:string .
+
+ns1:Prix_Magazine_Enfants_Québec_Du_Meilleur_Album_Jeunesse a ns1:Organization ;
+    ns1:name "Prix Magazine Enfants Québec Du Meilleur Album Jeunesse"^^xsd:string .
+
+ns1:Prix_Mangawa_Catégorie_Seinen a ns1:Organization ;
+    ns1:name "Prix Mangawa : Catégorie Seinen"^^xsd:string .
+
+ns1:Prix_Mangawa_Catégorie_Shojo a ns1:Organization ;
+    ns1:name "Prix Mangawa : Catégorie Shojo"^^xsd:string .
+
+ns1:Prix_Mangawa_Catégorie_Shonen a ns1:Organization ;
+    ns1:name "Prix Mangawa : Catégorie Shonen"^^xsd:string .
+
+ns1:Prix_Nénuphar_De_L_Album_Jeunesse a ns1:Organization ;
+    ns1:name "Prix Nénuphar De L'Album Jeunesse"^^xsd:string .
+
+ns1:Prix_P_Tits_Mômes a ns1:Organization ;
+    ns1:name "Prix P'Tits Mômes"^^xsd:string .
+
+ns1:Prix_Petit_Angle a ns1:Organization ;
+    ns1:name "Prix Petit Angle"^^xsd:string .
+
+ns1:Prix_Petit_Angle_Petit_Angle_Étranger a ns1:Organization ;
+    ns1:name "Prix Petit Angle : Petit Angle Étranger"^^xsd:string .
+
+ns1:Prix_Petit_Angle_Prix_Spécial a ns1:Organization ;
+    ns1:name "Prix Petit Angle : Prix Spécial"^^xsd:string .
+
+ns1:Prix_Petit_Angle_Prix_Spécial_Du_Jury a ns1:Organization ;
+    ns1:name "Prix Petit Angle : Prix Spécial Du Jury"^^xsd:string .
+
+ns1:Prix_Pierre_Bottero a ns1:Organization ;
+    ns1:name "Prix Pierre Bottero"^^xsd:string .
+
+ns1:Prix_Pitchou a ns1:Organization ;
+    ns1:name "Prix Pitchou"^^xsd:string .
+
+ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire a ns1:Organization ;
+    ns1:name "Prix Poésie Des Lecteurs Lire Et Faire Lire"^^xsd:string .
+
+ns1:Prix_Première_Oeuvre_En_Littérature_De_Jeunesse a ns1:Organization ;
+    ns1:name "Prix Première Oeuvre En Littérature De Jeunesse"^^xsd:string .
+
+ns1:Prix_Première_Victor_Du_Livre_Jeunesse a ns1:Organization ;
+    ns1:name "Prix Première Victor Du Livre Jeunesse"^^xsd:string .
+
+ns1:Prix_Québec a ns1:Organization ;
+    ns1:name "Prix Québec"^^xsd:string .
+
+ns1:Prix_Québec_Wallonie_Bruxelles a ns1:Organization ;
+    ns1:name "Prix Québec / Wallonie-Bruxelles"^^xsd:string .
+
+ns1:Prix_Raymond_Plante a ns1:Organization ;
+    ns1:name "Prix Raymond-Plante"^^xsd:string .
+
+ns1:Prix_Real_11_14_Ans a ns1:Organization ;
+    ns1:name "Prix Real : 11-14 Ans"^^xsd:string .
+
+ns1:Prix_Real_15_18_Ans a ns1:Organization ;
+    ns1:name "Prix Real : 15-18 Ans"^^xsd:string .
+
+ns1:Prix_Rts_Littérature_Ados a ns1:Organization ;
+    ns1:name "Prix Rts Littérature Ados"^^xsd:string .
+
+ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse a ns1:Organization ;
+    ns1:name "Prix Saint-Exupéry - Valeurs Jeunesse"^^xsd:string .
+
+ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album a ns1:Organization ;
+    ns1:name "Prix Saint-Exupéry - Valeurs Jeunesse : Album"^^xsd:string .
+
+ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Coup_De_C_ur_Jury_Enfants a ns1:Organization ;
+    ns1:name "Prix Saint-Exupéry - Valeurs Jeunesse : Coup De Cœur Jury Enfants"^^xsd:string .
+
+ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie a ns1:Organization ;
+    ns1:name "Prix Saint-Exupéry - Valeurs Jeunesse : Francophonie"^^xsd:string .
+
+ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Speciale a ns1:Organization ;
+    ns1:name "Prix Saint-Exupéry - Valeurs Jeunesse : Mention Speciale"^^xsd:string .
+
+ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spéciale a ns1:Organization ;
+    ns1:name "Prix Saint-Exupéry - Valeurs Jeunesse : Mention Spéciale"^^xsd:string .
+
+ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spéciale_Environnement a ns1:Organization ;
+    ns1:name "Prix Saint-Exupéry - Valeurs Jeunesse : Mention Spéciale Environnement"^^xsd:string .
+
+ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Prix_Spécial_Poésie a ns1:Organization ;
+    ns1:name "Prix Saint-Exupéry - Valeurs Jeunesse : Prix Spécial Poésie"^^xsd:string .
+
+ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman a ns1:Organization ;
+    ns1:name "Prix Saint-Exupéry - Valeurs Jeunesse : Roman"^^xsd:string .
+
+ns1:Prix_Sorcières_Ados a ns1:Organization ;
+    ns1:name "Prix Sorcières : Ados"^^xsd:string .
+
+ns1:Prix_Sorcières_Albums a ns1:Organization ;
+    ns1:name "Prix Sorcières : Albums"^^xsd:string .
+
+ns1:Prix_Sorcières_Carrément_Beau a ns1:Organization ;
+    ns1:name "Prix Sorcières : Carrément Beau"^^xsd:string .
+
+ns1:Prix_Sorcières_Carrément_Passionnant a ns1:Organization ;
+    ns1:name "Prix Sorcières : Carrément Passionnant"^^xsd:string .
+
+ns1:Prix_Sorcières_Carrément_Sorcières a ns1:Organization ;
+    ns1:name "Prix Sorcières : Carrément Sorcières"^^xsd:string .
+
+ns1:Prix_Sorcières_Documentaire a ns1:Organization ;
+    ns1:name "Prix Sorcières : Documentaire"^^xsd:string .
+
+ns1:Prix_Sorcières_Documentaires a ns1:Organization ;
+    ns1:name "Prix Sorcières : Documentaires"^^xsd:string .
+
+ns1:Prix_Sorcières_Première_Lecture a ns1:Organization ;
+    ns1:name "Prix Sorcières : Première Lecture"^^xsd:string .
+
+ns1:Prix_Sorcières_Premières_Lectures a ns1:Organization ;
+    ns1:name "Prix Sorcières : Premières Lectures"^^xsd:string .
+
+ns1:Prix_Sorcières_Roman_Ados a ns1:Organization ;
+    ns1:name "Prix Sorcières : Roman Ados"^^xsd:string .
+
+ns1:Prix_Sorcières_Romans_9_12_Ans a ns1:Organization ;
+    ns1:name "Prix Sorcières : Romans 9-12 Ans"^^xsd:string .
+
+ns1:Prix_Sorcières_Romans_Adolescents a ns1:Organization ;
+    ns1:name "Prix Sorcières : Romans Adolescents"^^xsd:string .
+
+ns1:Prix_Sorcières_Romans_Jeunes a ns1:Organization ;
+    ns1:name "Prix Sorcières : Romans Jeunes"^^xsd:string .
+
+ns1:Prix_Sorcières_Romans_Juniors a ns1:Organization ;
+    ns1:name "Prix Sorcières : Romans Juniors"^^xsd:string .
+
+ns1:Prix_Sorcières_Tout_Petits a ns1:Organization ;
+    ns1:name "Prix Sorcières : Tout-Petits"^^xsd:string .
+
+ns1:Prix_Suisse_Du_Livre_Jeunesse a ns1:Organization ;
+    ns1:name "Prix Suisse Du Livre Jeunesse"^^xsd:string .
+
+ns1:Prix_Suisse_Jeunesse_Et_Médias a ns1:Organization ;
+    ns1:name "Prix Suisse Jeunesse Et Médias"^^xsd:string .
+
+ns1:Prix_Sésame a ns1:Organization ;
+    ns1:name "Prix Sésame"^^xsd:string .
+
+ns1:Prix_Talents_Cultura_Les_Talents_Bandes_Dessinées_2021 a ns1:Organization ;
+    ns1:name "Prix Talents Cultura : Les Talents Bandes Dessinées 2021"^^xsd:string .
+
+ns1:Prix_Talents_Cultura_Les_Talents_Jeunesse_2021 a ns1:Organization ;
+    ns1:name "Prix Talents Cultura : Les Talents Jeunesse 2021"^^xsd:string .
+
+ns1:Prix_Talents_Cultura_Les_Talents_Romans_2021 a ns1:Organization ;
+    ns1:name "Prix Talents Cultura : Les Talents Romans 2021"^^xsd:string .
+
+ns1:Prix_Tatoulu_Tatou_Blanc a ns1:Organization ;
+    ns1:name "Prix Tatoulu : Tatou Blanc"^^xsd:string .
+
+ns1:Prix_Tatoulu_Tatou_Bleu a ns1:Organization ;
+    ns1:name "Prix Tatoulu : Tatou Bleu"^^xsd:string .
+
+ns1:Prix_Tatoulu_Tatou_Jaune a ns1:Organization ;
+    ns1:name "Prix Tatoulu : Tatou Jaune"^^xsd:string .
+
+ns1:Prix_Tatoulu_Tatou_Noir a ns1:Organization ;
+    ns1:name "Prix Tatoulu : Tatou Noir"^^xsd:string .
+
+ns1:Prix_Tatoulu_Tatou_Rose a ns1:Organization ;
+    ns1:name "Prix Tatoulu : Tatou Rose"^^xsd:string .
+
+ns1:Prix_Tatoulu_Tatou_Rouge a ns1:Organization ;
+    ns1:name "Prix Tatoulu : Tatou Rouge"^^xsd:string .
+
+ns1:Prix_Tatoulu_Tatou_Vert a ns1:Organization ;
+    ns1:name "Prix Tatoulu : Tatou Vert"^^xsd:string .
+
+ns1:Prix_Tatoulu_Tatou_Violet a ns1:Organization ;
+    ns1:name "Prix Tatoulu : Tatou Violet"^^xsd:string .
+
+ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse a ns1:Organization ;
+    ns1:name "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse"^^xsd:string .
+
+ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne a ns1:Organization ;
+    ns1:name "Prix Td De Littérature Jeunesse Canadienne"^^xsd:string .
+
+ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_0_5_Ans a ns1:Organization ;
+    ns1:name "Prix Unicef De Littérature Jeunesse : Catégorie 0-5 Ans"^^xsd:string .
+
+ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_0_6_Ans a ns1:Organization ;
+    ns1:name "Prix Unicef De Littérature Jeunesse : Catégorie 0-6 Ans"^^xsd:string .
+
+ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_15_Ans a ns1:Organization ;
+    ns1:name "Prix Unicef De Littérature Jeunesse : Catégorie 13-15 Ans"^^xsd:string .
+
+ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_18_Ans a ns1:Organization ;
+    ns1:name "Prix Unicef De Littérature Jeunesse : Catégorie 13-18 Ans"^^xsd:string .
+
+ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_3_5_Ans a ns1:Organization ;
+    ns1:name "Prix Unicef De Littérature Jeunesse : Catégorie 3-5 Ans"^^xsd:string .
+
+ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_6_8_Ans a ns1:Organization ;
+    ns1:name "Prix Unicef De Littérature Jeunesse : Catégorie 6-8 Ans"^^xsd:string .
+
+ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_8_11_Ans a ns1:Organization ;
+    ns1:name "Prix Unicef De Littérature Jeunesse : Catégorie 8-11 Ans"^^xsd:string .
+
+ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Ans a ns1:Organization ;
+    ns1:name "Prix Unicef De Littérature Jeunesse : Catégorie 9-12 Ans"^^xsd:string .
+
+ns1:Prix_Val_Cérou a ns1:Organization ;
+    ns1:name "Prix Val Cérou"^^xsd:string .
+
+ns1:Prix_Vendredi a ns1:Organization ;
+    ns1:name "Prix Vendredi"^^xsd:string .
+
+ns1:Prix_Vendredi_Mention a ns1:Organization ;
+    ns1:name "Prix Vendredi Mention"^^xsd:string .
+
+ns1:Prix_Wallonie_Bruxelles a ns1:Organization ;
+    ns1:name "Prix Wallonie-Bruxelles"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréat_2023_Essai_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréat 2023 Essai Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréat 2023 Poésie Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréats 0-5 Ans Hors Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréats 0-5 Ans Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréats 12-17 Ans Hors Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréats 12-17 Ans Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Hors_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréats 2023 Volet Adulte Hors Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréats 2023 Volet Adulte Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréats 6-11 Ans Hors Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréats 6-11 Ans Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Hors_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréats Bd Jeunesse Hors Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréats Bd Jeunesse Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréats Roman-Nouvelles-Récit 2023 Hors Québec"^^xsd:string .
+
+ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec a ns1:Organization ;
+    ns1:name "Prix des libraires : Lauréats Roman-Nouvelles-Récit 2023 Québec"^^xsd:string .
+
+ns1:Révélation_Livre_Jeunesse a ns1:Organization ;
+    ns1:name "Révélation Livre Jeunesse"^^xsd:string .
+
+ns1:Salon_International_Du_Livre_De_Québec a ns1:Organization ;
+    ns1:name "Salon International Du Livre De Québec"^^xsd:string .
+
+ns1:Tam_Tam_Du_Livre_De_Jeunesse a ns1:Organization ;
+    ns1:name "Tam-Tam Du Livre De Jeunesse"^^xsd:string .
+
+ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Bande_Dessinée a ns1:Organization ;
+    ns1:name "Tam-Tam Du Livre De Jeunesse : Dlire/Canal Bd Catégorie Bande Dessinée"^^xsd:string .
+
+ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Manga a ns1:Organization ;
+    ns1:name "Tam-Tam Du Livre De Jeunesse : Dlire/Canal Bd Catégorie Manga"^^xsd:string .
+
+ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire a ns1:Organization ;
+    ns1:name "Tam-Tam Du Livre De Jeunesse : J'aime Lire"^^xsd:string .
+
+ns1:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquine a ns1:Organization ;
+    ns1:name "Tam-Tam Du Livre De Jeunesse : Je Bouquine"^^xsd:string .
+
+ns1:Biennale_De_L_illustration_De_Bratislava a ns1:Organization ;
+    ns1:name "Biennale De L'illustration De Bratislava"^^xsd:string ;
+    ns1:subOrganization ns1:Biennale_De_L_illustration_De_Bratislava_Grand_Prix .
+
+ns1:Biennale_De_L_illustration_De_Bratislava_Grand_Prix a ns1:Organization ;
+    ns1:name "Biennale De L'illustration De Bratislava : Grand Prix"^^xsd:string ;
+    ns1:parentOrganization ns1:Biennale_De_L_illustration_De_Bratislava .
+
