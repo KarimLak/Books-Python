@@ -10,18 +10,6 @@ ns1:ABC_Melody a ns1:Organization ;
 ns1:A_Pas_De_Loups a ns1:Organization ;
     ns1:name "A Pas De Loups"^^xsd:string .
 
-ns1:Actes_Sud a ns1:Organization ;
-    ns1:name "Actes Sud"^^xsd:string .
-
-ns1:Actes_Sud-Papiers a ns1:Organization ;
-    ns1:name "Actes Sud-Papiers"^^xsd:string .
-
-ns1:Actes_Sud_Bd a ns1:Organization ;
-    ns1:name "Actes Sud Bd"^^xsd:string .
-
-ns1:Actes_Sud_Junior a ns1:Organization ;
-    ns1:name "Actes Sud Junior"^^xsd:string .
-
 ns1:Actusf a ns1:Organization ;
     ns1:name "Actusf"^^xsd:string .
 
@@ -31,20 +19,8 @@ ns1:AdA a ns1:Organization ;
 ns1:Akata a ns1:Organization ;
     ns1:name "Akata"^^xsd:string .
 
-ns1:Albin_Michel a ns1:Organization ;
-    ns1:name "Albin Michel"^^xsd:string .
-
-ns1:Albin_Michel_Jeunesse a ns1:Organization ;
-    ns1:name "Albin Michel Jeunesse"^^xsd:string .
-
-<http://schema.org/Algonquin_Young_Readers/Workman> a ns1:Organization ;
+ns1:Algonquin_Young_Readers_Workman a ns1:Organization ;
     ns1:name "Algonquin Young Readers/Workman"^^xsd:string .
-
-ns1:Alice a ns1:Organization ;
-    ns1:name "Alice"^^xsd:string .
-
-ns1:Alice_Jeunesse a ns1:Organization ;
-    ns1:name "Alice Jeunesse"^^xsd:string .
 
 ns1:Alto a ns1:Organization ;
     ns1:name "Alto"^^xsd:string .
@@ -118,20 +94,8 @@ ns1:Au_Diable_Vauvert a ns1:Organization ;
 ns1:Autochenille_Production a ns1:Organization ;
     ns1:name "Autochenille Production"^^xsd:string .
 
-ns1:Autrement a ns1:Organization ;
-    ns1:name "Autrement"^^xsd:string .
-
-ns1:Autrement_Jeunesse a ns1:Organization ;
-    ns1:name "Autrement Jeunesse"^^xsd:string .
-
 ns1:Auzou a ns1:Organization ;
     ns1:name "Auzou"^^xsd:string .
-
-ns1:Auzou_Canada a ns1:Organization ;
-    ns1:name "Auzou Canada"^^xsd:string .
-
-ns1:Auzou_Suisse a ns1:Organization ;
-    ns1:name "Auzou Suisse"^^xsd:string .
 
 ns1:Baam a ns1:Organization ;
     ns1:name "Baam"^^xsd:string .
@@ -151,28 +115,13 @@ ns1:Bandal a ns1:Organization ;
 ns1:Barrington_Stoke a ns1:Organization ;
     ns1:name "Barrington Stoke"^^xsd:string .
 
-ns1:Bayard a ns1:Organization ;
-    ns1:name "Bayard"^^xsd:string .
-
-ns1:Bayard_Canada a ns1:Organization ;
-    ns1:name "Bayard Canada"^^xsd:string .
-
-ns1:Bayard_Jeunesse a ns1:Organization ;
-    ns1:name "Bayard Jeunesse"^^xsd:string .
-
 ns1:Belem a ns1:Organization ;
     ns1:name "Belem"^^xsd:string .
-
-ns1:Belin a ns1:Organization ;
-    ns1:name "Belin"^^xsd:string .
-
-ns1:Belin_Jeunesse a ns1:Organization ;
-    ns1:name "Belin Jeunesse"^^xsd:string .
 
 ns1:Belles_Lettres a ns1:Organization ;
     ns1:name "Belles Lettres"^^xsd:string .
 
-<http://schema.org/Beltz_&_Gelberg> a ns1:Organization ;
+ns1:Beltz___Gelberg a ns1:Organization ;
     ns1:name "Beltz & Gelberg"^^xsd:string .
 
 ns1:Benoît_Jacques_Books a ns1:Organization ;
@@ -202,11 +151,14 @@ ns1:Boomerang a ns1:Organization ;
 ns1:Boréal a ns1:Organization ;
     ns1:name "Boréal"^^xsd:string .
 
-<http://schema.org/Bouton_D'Or_Acadie> a ns1:Organization ;
+ns1:Bouton_DOr_Acadie a ns1:Organization ;
     ns1:name "Bouton D'Or Acadie"^^xsd:string .
 
 ns1:Bragelonne a ns1:Organization ;
     ns1:name "Bragelonne"^^xsd:string .
+
+ns1:Brown_Books_for_Young_Readers a ns1:Organization ;
+    ns1:name "Brown Books for Young Readers"^^xsd:string .
 
 ns1:Bruno_Doucey a ns1:Organization ;
     ns1:name "Bruno Doucey"^^xsd:string .
@@ -244,15 +196,6 @@ ns1:Cap_Aux_Diamants a ns1:Organization ;
 ns1:Cape a ns1:Organization ;
     ns1:name "Cape"^^xsd:string .
 
-ns1:Cappelen a ns1:Organization ;
-    ns1:name "Cappelen"^^xsd:string .
-
-ns1:Cappelen_Damm a ns1:Organization ;
-    ns1:name "Cappelen Damm"^^xsd:string .
-
-ns1:Cappelen_Forlag a ns1:Organization ;
-    ns1:name "Cappelen Forlag"^^xsd:string .
-
 ns1:Carbone_14 a ns1:Organization ;
     ns1:name "Carbone 14"^^xsd:string .
 
@@ -274,15 +217,6 @@ ns1:Carrefour_Communication a ns1:Organization ;
 ns1:Castelmore a ns1:Organization ;
     ns1:name "Castelmore"^^xsd:string .
 
-ns1:Casterman a ns1:Organization ;
-    ns1:name "Casterman"^^xsd:string .
-
-ns1:Casterman_Poche a ns1:Organization ;
-    ns1:name "Casterman Poche"^^xsd:string .
-
-ns1:Castor_Poche_Flammarion a ns1:Organization ;
-    ns1:name "Castor Poche Flammarion"^^xsd:string .
-
 ns1:Centre_De_Créations_De_Tinqueux a ns1:Organization ;
     ns1:name "Centre De Créations De Tinqueux"^^xsd:string .
 
@@ -291,6 +225,9 @@ ns1:Changbi_Publishers a ns1:Organization ;
 
 ns1:Chat_Noir a ns1:Organization ;
     ns1:name "Chat Noir"^^xsd:string .
+
+ns1:Chauve-souris a ns1:Organization ;
+    ns1:name "Chauve-souris"^^xsd:string .
 
 ns1:Cheyne a ns1:Organization ;
     ns1:name "Cheyne"^^xsd:string .
@@ -318,12 +255,6 @@ ns1:Clovis a ns1:Organization ;
 
 ns1:Comme_Des_Géants a ns1:Organization ;
     ns1:name "Comme Des Géants"^^xsd:string .
-
-ns1:Communication-Jeunesse a ns1:Organization ;
-    ns1:name "Communication-Jeunesse"^^xsd:string .
-
-ns1:Compagnie a ns1:Organization ;
-    ns1:name "Compagnie"^^xsd:string .
 
 ns1:Companhia_Das_Letrinhas a ns1:Organization ;
     ns1:name "Companhia Das Letrinhas"^^xsd:string .
@@ -358,7 +289,7 @@ ns1:Cécile_Gagnon a ns1:Organization ;
 ns1:Cépages a ns1:Organization ;
     ns1:name "Cépages"^^xsd:string .
 
-<http://schema.org/D'Eux> a ns1:Organization ;
+ns1:DEux a ns1:Organization ;
     ns1:name "D'Eux"^^xsd:string .
 
 ns1:Dada a ns1:Organization ;
@@ -397,9 +328,6 @@ ns1:De_La_Réunion_Des_Musées_Nationaux a ns1:Organization ;
 ns1:De_Plaines_En_Vallées a ns1:Organization ;
     ns1:name "De Plaines En Vallées"^^xsd:string .
 
-ns1:Delacorte_Press a ns1:Organization ;
-    ns1:name "Delacorte Press"^^xsd:string .
-
 ns1:Delcourt a ns1:Organization ;
     ns1:name "Delcourt"^^xsd:string .
 
@@ -412,7 +340,7 @@ ns1:Denoël a ns1:Organization ;
 ns1:Dent-De-Lion a ns1:Organization ;
     ns1:name "Dent-De-Lion"^^xsd:string .
 
-<http://schema.org/Des_Ronds_Dans_L'O> a ns1:Organization ;
+ns1:Des_Ronds_Dans_LO a ns1:Organization ;
     ns1:name "Des Ronds Dans L'O"^^xsd:string .
 
 ns1:Des_Éléphants a ns1:Organization ;
@@ -424,20 +352,11 @@ ns1:Desclé_De_Brouwer a ns1:Organization ;
 ns1:Dessain a ns1:Organization ;
     ns1:name "Dessain"^^xsd:string .
 
-ns1:Didier_Jeunesse a ns1:Organization ;
-    ns1:name "Didier Jeunesse"^^xsd:string .
-
 ns1:Diffusion_Raffin a ns1:Organization ;
     ns1:name "Diffusion Raffin"^^xsd:string .
 
 ns1:Doki-Doki a ns1:Organization ;
     ns1:name "Doki-Doki"^^xsd:string .
-
-ns1:Dominique a ns1:Organization ;
-    ns1:name "Dominique"^^xsd:string .
-
-ns1:Dominique_Demers a ns1:Organization ;
-    ns1:name "Dominique Demers"^^xsd:string .
 
 ns1:Dominique_Et_Compagnie a ns1:Organization ;
     ns1:name "Dominique Et Compagnie"^^xsd:string .
@@ -535,29 +454,17 @@ ns1:Fides a ns1:Organization ;
 ns1:Figures_Futur a ns1:Organization ;
     ns1:name "Figures Futur"^^xsd:string .
 
-<http://schema.org/Fitzhenry_&_Whiteside> a ns1:Organization ;
+ns1:Fitzhenry___Whiteside a ns1:Organization ;
     ns1:name "Fitzhenry & Whiteside"^^xsd:string .
 
 ns1:Fiva a ns1:Organization ;
     ns1:name "Fiva"^^xsd:string .
-
-ns1:Flammarion a ns1:Organization ;
-    ns1:name "Flammarion"^^xsd:string .
-
-ns1:Flammarion_Jeunesse a ns1:Organization ;
-    ns1:name "Flammarion Jeunesse"^^xsd:string .
-
-ns1:Flammarion_Père_Castor a ns1:Organization ;
-    ns1:name "Flammarion Père Castor"^^xsd:string .
 
 ns1:Fleurus a ns1:Organization ;
     ns1:name "Fleurus"^^xsd:string .
 
 ns1:Fleuve_Noir a ns1:Organization ;
     ns1:name "Fleuve Noir"^^xsd:string .
-
-ns1:Flying_Eye a ns1:Organization ;
-    ns1:name "Flying Eye"^^xsd:string .
 
 ns1:Flying_Eye_Books a ns1:Organization ;
     ns1:name "Flying Eye Books"^^xsd:string .
@@ -574,6 +481,9 @@ ns1:FouLire a ns1:Organization ;
 ns1:Francess_Lincoln a ns1:Organization ;
     ns1:name "Francess Lincoln"^^xsd:string .
 
+ns1:Francophonie a ns1:Organization ;
+    ns1:name "Francophonie"^^xsd:string .
+
 ns1:François_Gravel a ns1:Organization ;
     ns1:name "François Gravel"^^xsd:string .
 
@@ -589,14 +499,8 @@ ns1:Front_Froid a ns1:Organization ;
 ns1:Fulgenco_Pimentel a ns1:Organization ;
     ns1:name "Fulgenco Pimentel"^^xsd:string .
 
-<http://schema.org/G.P._Putnam'S_Sons/Penguin> a ns1:Organization ;
+ns1:GP_PutnamS_Sons_Penguin a ns1:Organization ;
     ns1:name "G.P. Putnam'S Sons/Penguin"^^xsd:string .
-
-ns1:Gallimard a ns1:Organization ;
-    ns1:name "Gallimard"^^xsd:string .
-
-ns1:Gallimard_Jeunesse a ns1:Organization ;
-    ns1:name "Gallimard Jeunesse"^^xsd:string .
 
 ns1:Gautier_Languereau a ns1:Organization ;
     ns1:name "Gautier Languereau"^^xsd:string .
@@ -606,18 +510,6 @@ ns1:Generation_Comics a ns1:Organization ;
 
 ns1:Gerstenberg a ns1:Organization ;
     ns1:name "Gerstenberg"^^xsd:string .
-
-ns1:Glénat a ns1:Organization ;
-    ns1:name "Glénat"^^xsd:string .
-
-ns1:Glénat_Jeunesse a ns1:Organization ;
-    ns1:name "Glénat Jeunesse"^^xsd:string .
-
-ns1:Grasset a ns1:Organization ;
-    ns1:name "Grasset"^^xsd:string .
-
-ns1:Grasset_Jeunesse a ns1:Organization ;
-    ns1:name "Grasset Jeunesse"^^xsd:string .
 
 ns1:Greenwillow_Books a ns1:Organization ;
     ns1:name "Greenwillow Books"^^xsd:string .
@@ -636,12 +528,6 @@ ns1:Gründ a ns1:Organization ;
 
 ns1:Gulf_Stream a ns1:Organization ;
     ns1:name "Gulf Stream"^^xsd:string .
-
-ns1:Hachette a ns1:Organization ;
-    ns1:name "Hachette"^^xsd:string .
-
-ns1:Hachette_Jeunesse a ns1:Organization ;
-    ns1:name "Hachette Jeunesse"^^xsd:string .
 
 ns1:Hamilton a ns1:Organization ;
     ns1:name "Hamilton"^^xsd:string .
@@ -667,17 +553,14 @@ ns1:Heinemann a ns1:Organization ;
 ns1:Henry a ns1:Organization ;
     ns1:name "Henry"^^xsd:string .
 
+ns1:Hmh a ns1:Organization ;
+    ns1:name "Hmh"^^xsd:string .
+
 ns1:Hmh_Books_For_Young_Readers a ns1:Organization ;
     ns1:name "Hmh Books For Young Readers"^^xsd:string .
 
-<http://schema.org/Hodder_&_Stoughton> a ns1:Organization ;
+ns1:Hodder___Stoughton a ns1:Organization ;
     ns1:name "Hodder & Stoughton"^^xsd:string .
-
-ns1:HongFei a ns1:Organization ;
-    ns1:name "HongFei"^^xsd:string .
-
-ns1:HongFei_Cultures a ns1:Organization ;
-    ns1:name "HongFei Cultures"^^xsd:string .
 
 ns1:Hot_Key_Books a ns1:Organization ;
     ns1:name "Hot Key Books"^^xsd:string .
@@ -706,7 +589,7 @@ ns1:Héliotrope a ns1:Organization ;
 ns1:Hélium a ns1:Organization ;
     ns1:name "Hélium"^^xsd:string .
 
-<http://schema.org/Héloïse_D'Ormesson> a ns1:Organization ;
+ns1:Héloïse_DOrmesson a ns1:Organization ;
     ns1:name "Héloïse D'Ormesson"^^xsd:string .
 
 ns1:Héritage a ns1:Organization ;
@@ -724,14 +607,14 @@ ns1:Intervista a ns1:Organization ;
 ns1:Isatis a ns1:Organization ;
     ns1:name "Isatis"^^xsd:string .
 
-<http://schema.org/J'ai_Lu> a ns1:Organization ;
-    ns1:name "J'ai Lu"^^xsd:string .
-
 ns1:JC_Lattès a ns1:Organization ;
     ns1:name "JC Lattès"^^xsd:string .
 
-<http://schema.org/Jacoby_&_Stuart> a ns1:Organization ;
+ns1:Jacoby___Stuart a ns1:Organization ;
     ns1:name "Jacoby & Stuart"^^xsd:string .
+
+ns1:Jai_Lu a ns1:Organization ;
+    ns1:name "J'ai Lu"^^xsd:string .
 
 ns1:James_Lorimer_And_Company a ns1:Organization ;
     ns1:name "James Lorimer And Company"^^xsd:string .
@@ -778,15 +661,6 @@ ns1:Kana a ns1:Organization ;
 ns1:Kata a ns1:Organization ;
     ns1:name "Kata"^^xsd:string .
 
-ns1:Kaze a ns1:Organization ;
-    ns1:name "Kaze"^^xsd:string .
-
-ns1:Kazé a ns1:Organization ;
-    ns1:name "Kazé"^^xsd:string .
-
-ns1:Kazé_Manga a ns1:Organization ;
-    ns1:name "Kazé Manga"^^xsd:string .
-
 ns1:Kennes a ns1:Organization ;
     ns1:name "Kennes"^^xsd:string .
 
@@ -820,62 +694,47 @@ ns1:Kunstanstifter_Verlag a ns1:Organization ;
 ns1:Kurokawa a ns1:Organization ;
     ns1:name "Kurokawa"^^xsd:string .
 
-<http://schema.org/L'Agapante> a ns1:Organization ;
+ns1:LAgapante a ns1:Organization ;
     ns1:name "L'Agapante"^^xsd:string .
 
-<http://schema.org/L'Agrume> a ns1:Organization ;
+ns1:LAgrume a ns1:Organization ;
     ns1:name "L'Agrume"^^xsd:string .
 
-<http://schema.org/L'Amitié> a ns1:Organization ;
+ns1:LAmitié a ns1:Organization ;
     ns1:name "L'Amitié"^^xsd:string .
 
-<http://schema.org/L'Arche> a ns1:Organization ;
+ns1:LArche a ns1:Organization ;
     ns1:name "L'Arche"^^xsd:string .
 
-<http://schema.org/L'Archipel> a ns1:Organization ;
+ns1:LArchipel a ns1:Organization ;
     ns1:name "L'Archipel"^^xsd:string .
 
-<http://schema.org/L'Archipelle> a ns1:Organization ;
-    ns1:name "L'Archipelle"^^xsd:string .
-
-<http://schema.org/L'Atalante> a ns1:Organization ;
+ns1:LAtalante a ns1:Organization ;
     ns1:name "L'Atalante"^^xsd:string .
 
-<http://schema.org/L'Avant-Scène> a ns1:Organization ;
+ns1:LAvant-Scène a ns1:Organization ;
     ns1:name "L'Avant-Scène"^^xsd:string .
 
-<http://schema.org/L'Edune> a ns1:Organization ;
+ns1:LEdune a ns1:Organization ;
     ns1:name "L'Edune"^^xsd:string .
 
-<http://schema.org/L'Employé_Du_Moi> a ns1:Organization ;
+ns1:LEmployé_Du_Moi a ns1:Organization ;
     ns1:name "L'Employé Du Moi"^^xsd:string .
 
-<http://schema.org/L'Etagère_Du_Bas> a ns1:Organization ;
-    ns1:name "L'Etagère Du Bas"^^xsd:string .
-
-<http://schema.org/L'Harmattan> a ns1:Organization ;
+ns1:LHarmattan a ns1:Organization ;
     ns1:name "L'Harmattan"^^xsd:string .
 
-<http://schema.org/L'Hexagone> a ns1:Organization ;
+ns1:LHexagone a ns1:Organization ;
     ns1:name "L'Hexagone"^^xsd:string .
 
-<http://schema.org/L'Homme_Sans_Nom> a ns1:Organization ;
+ns1:LHomme_Sans_Nom a ns1:Organization ;
     ns1:name "L'Homme Sans Nom"^^xsd:string .
 
-<http://schema.org/L'Interligne> a ns1:Organization ;
+ns1:LInterligne a ns1:Organization ;
     ns1:name "L'Interligne"^^xsd:string .
 
-<http://schema.org/L'Olivier> a ns1:Organization ;
+ns1:LOlivier a ns1:Organization ;
     ns1:name "L'Olivier"^^xsd:string .
-
-<http://schema.org/L'École_Des_Loisirs> a ns1:Organization ;
-    ns1:name "L'École Des Loisirs"^^xsd:string .
-
-<http://schema.org/L'Élan_Vert> a ns1:Organization ;
-    ns1:name "L'Élan Vert"^^xsd:string .
-
-<http://schema.org/L'Étagère_Du_Bas> a ns1:Organization ;
-    ns1:name "L'Étagère Du Bas"^^xsd:string .
 
 ns1:La_Bagnole a ns1:Organization ;
     ns1:name "La Bagnole"^^xsd:string .
@@ -883,13 +742,13 @@ ns1:La_Bagnole a ns1:Organization ;
 ns1:La_Courte_Échelle a ns1:Organization ;
     ns1:name "La Courte Échelle"^^xsd:string .
 
-<http://schema.org/La_Dérivée/Le_Seuil> a ns1:Organization ;
+ns1:La_Dérivée_Le_Seuil a ns1:Organization ;
     ns1:name "La Dérivée/Le Seuil"^^xsd:string .
 
 ns1:La_Farnadole a ns1:Organization ;
     ns1:name "La Farnadole"^^xsd:string .
 
-<http://schema.org/La_Fondation_Pour_L'Alphabétisation> a ns1:Organization ;
+ns1:La_Fondation_Pour_LAlphabétisation a ns1:Organization ;
     ns1:name "La Fondation Pour L'Alphabétisation"^^xsd:string .
 
 ns1:La_Gouttière a ns1:Organization ;
@@ -912,12 +771,6 @@ ns1:La_Maison_En_Feu a ns1:Organization ;
 
 ns1:La_Maison_Est_En_Carton a ns1:Organization ;
     ns1:name "La Maison Est En Carton"^^xsd:string .
-
-ns1:La_Martinière a ns1:Organization ;
-    ns1:name "La Martinière"^^xsd:string .
-
-ns1:La_Martinière_Jeunesse a ns1:Organization ;
-    ns1:name "La Martinière Jeunesse"^^xsd:string .
 
 ns1:La_Mirandole a ns1:Organization ;
     ns1:name "La Mirandole"^^xsd:string .
@@ -964,12 +817,6 @@ ns1:Lagoa_Editora a ns1:Organization ;
 ns1:Langue_Au_Chat a ns1:Organization ;
     ns1:name "Langue Au Chat"^^xsd:string .
 
-ns1:Lansman a ns1:Organization ;
-    ns1:name "Lansman"^^xsd:string .
-
-ns1:Lansman_Jeunesse a ns1:Organization ;
-    ns1:name "Lansman Jeunesse"^^xsd:string .
-
 ns1:Larousse a ns1:Organization ;
     ns1:name "Larousse"^^xsd:string .
 
@@ -979,7 +826,7 @@ ns1:Le_Carrousel a ns1:Organization ;
 ns1:Le_Cherche_Midi a ns1:Organization ;
     ns1:name "Le Cherche Midi"^^xsd:string .
 
-<http://schema.org/Le_Cheval_D'août> a ns1:Organization ;
+ns1:Le_Cheval_Daoût a ns1:Organization ;
     ns1:name "Le Cheval D'août"^^xsd:string .
 
 ns1:Le_Genévrier a ns1:Organization ;
@@ -1024,9 +871,6 @@ ns1:Le_Rocher_Jeunesse a ns1:Organization ;
 ns1:Le_Rouergue a ns1:Organization ;
     ns1:name "Le Rouergue"^^xsd:string .
 
-ns1:Le_Seuil_Jeunesse a ns1:Organization ;
-    ns1:name "Le Seuil Jeunesse"^^xsd:string .
-
 ns1:Le_Sorbier a ns1:Organization ;
     ns1:name "Le Sorbier"^^xsd:string .
 
@@ -1045,7 +889,7 @@ ns1:Les_400_Coups a ns1:Organization ;
 ns1:Les_Arènes a ns1:Organization ;
     ns1:name "Les Arènes"^^xsd:string .
 
-<http://schema.org/Les_Bruits_De_L'Encre> a ns1:Organization ;
+ns1:Les_Bruits_De_LEncre a ns1:Organization ;
     ns1:name "Les Bruits De L'Encre"^^xsd:string .
 
 ns1:Les_Carnets_Du_Dessert_De_Lune a ns1:Organization ;
@@ -1069,13 +913,13 @@ ns1:Les_Humanoïdes_Associés a ns1:Organization ;
 ns1:Les_Intouchables a ns1:Organization ;
     ns1:name "Les Intouchables"^^xsd:string .
 
-<http://schema.org/Les_Livres_Du_Dragon_D'Or> a ns1:Organization ;
+ns1:Les_Livres_Du_Dragon_DOr a ns1:Organization ;
     ns1:name "Les Livres Du Dragon D'Or"^^xsd:string .
 
 ns1:Les_Malins a ns1:Organization ;
     ns1:name "Les Malins"^^xsd:string .
 
-<http://schema.org/Les_Mots_Du_Bout_De_L'Enfance_-_Les_Bruits_De_L'Encre> a ns1:Organization ;
+ns1:Les_Mots_Du_Bout_De_LEnfance_-_Les_Bruits_De_LEncre a ns1:Organization ;
     ns1:name "Les Mots Du Bout De L'Enfance - Les Bruits De L'Encre"^^xsd:string .
 
 ns1:Les_Nuages_En_Pantalon a ns1:Organization ;
@@ -1117,9 +961,6 @@ ns1:Little_Tiger_Press a ns1:Organization ;
 ns1:Little_Urban a ns1:Organization ;
     ns1:name "Little Urban"^^xsd:string .
 
-<http://schema.org/Liv'Éditions> a ns1:Organization ;
-    ns1:name "Liv'Éditions"^^xsd:string .
-
 ns1:Lo_Païs a ns1:Organization ;
     ns1:name "Lo Païs"^^xsd:string .
 
@@ -1144,32 +985,29 @@ ns1:Lumen a ns1:Organization ;
 ns1:Lux a ns1:Organization ;
     ns1:name "Lux"^^xsd:string .
 
+ns1:LÉcole_Des_Loisirs a ns1:Organization ;
+    ns1:name "L'École Des Loisirs"^^xsd:string .
+
+ns1:LÉlan_Vert a ns1:Organization ;
+    ns1:name "L'Élan Vert"^^xsd:string .
+
+ns1:LÉtagère_Du_Bas a ns1:Organization ;
+    ns1:name "L'Étagère Du Bas"^^xsd:string .
+
 ns1:MacMilan a ns1:Organization ;
     ns1:name "MacMilan"^^xsd:string .
 
-<http://schema.org/Magellan_&_Cie> a ns1:Organization ;
+ns1:Magellan___Cie a ns1:Organization ;
     ns1:name "Magellan & Cie"^^xsd:string .
 
 ns1:Magnani a ns1:Organization ;
     ns1:name "Magnani"^^xsd:string .
-
-ns1:Magnard a ns1:Organization ;
-    ns1:name "Magnard"^^xsd:string .
-
-ns1:Magnard_Jeunesse a ns1:Organization ;
-    ns1:name "Magnard Jeunesse"^^xsd:string .
 
 ns1:Maison_Georges a ns1:Organization ;
     ns1:name "Maison Georges"^^xsd:string .
 
 ns1:Makaka a ns1:Organization ;
     ns1:name "Makaka"^^xsd:string .
-
-ns1:Mango a ns1:Organization ;
-    ns1:name "Mango"^^xsd:string .
-
-ns1:Mango_Jeunesse a ns1:Organization ;
-    ns1:name "Mango Jeunesse"^^xsd:string .
 
 ns1:Marchand_De_Feuilles a ns1:Organization ;
     ns1:name "Marchand De Feuilles"^^xsd:string .
@@ -1215,15 +1053,6 @@ ns1:Mijade a ns1:Organization ;
 
 ns1:Mila a ns1:Organization ;
     ns1:name "Mila"^^xsd:string .
-
-ns1:Milan a ns1:Organization ;
-    ns1:name "Milan"^^xsd:string .
-
-ns1:Milan_Jeunesse a ns1:Organization ;
-    ns1:name "Milan Jeunesse"^^xsd:string .
-
-ns1:Milan_Poche a ns1:Organization ;
-    ns1:name "Milan Poche"^^xsd:string .
 
 ns1:Milans a ns1:Organization ;
     ns1:name "Milans"^^xsd:string .
@@ -1276,26 +1105,14 @@ ns1:Mémoires_Et_Cultures a ns1:Organization ;
 ns1:Méssidor a ns1:Organization ;
     ns1:name "Méssidor"^^xsd:string .
 
-<http://schema.org/Méssidor/La_Farnadole> a ns1:Organization ;
+ns1:Méssidor_La_Farnadole a ns1:Organization ;
     ns1:name "Méssidor/La Farnadole"^^xsd:string .
 
 ns1:Møtus a ns1:Organization ;
     ns1:name "Møtus"^^xsd:string .
 
-<http://schema.org/Nagel_&_Kimche> a ns1:Organization ;
+ns1:Nagel___Kimche a ns1:Organization ;
     ns1:name "Nagel & Kimche"^^xsd:string .
-
-ns1:Natha a ns1:Organization ;
-    ns1:name "Natha"^^xsd:string .
-
-ns1:Nathan a ns1:Organization ;
-    ns1:name "Nathan"^^xsd:string .
-
-ns1:Nathan-Poche a ns1:Organization ;
-    ns1:name "Nathan-Poche"^^xsd:string .
-
-ns1:Nathan_Jeunesse a ns1:Organization ;
-    ns1:name "Nathan Jeunesse"^^xsd:string .
 
 ns1:Naïve a ns1:Organization ;
     ns1:name "Naïve"^^xsd:string .
@@ -1330,7 +1147,7 @@ ns1:Nouvel_Angle a ns1:Organization ;
 ns1:Nouvelle_Adresse a ns1:Organization ;
     ns1:name "Nouvelle Adresse"^^xsd:string .
 
-<http://schema.org/Nouvelles_Éditions_De_L'Arc> a ns1:Organization ;
+ns1:Nouvelles_Éditions_De_LArc a ns1:Organization ;
     ns1:name "Nouvelles Éditions De L'Arc"^^xsd:string .
 
 ns1:Oqo a ns1:Organization ;
@@ -1347,12 +1164,6 @@ ns1:Orecchio_Acerbo a ns1:Organization ;
 
 ns1:Orso a ns1:Organization ;
     ns1:name "Orso"^^xsd:string .
-
-ns1:Oskar a ns1:Organization ;
-    ns1:name "Oskar"^^xsd:string .
-
-ns1:Oskar_Jeunesse a ns1:Organization ;
-    ns1:name "Oskar Jeunesse"^^xsd:string .
 
 ns1:Oslo a ns1:Organization ;
     ns1:name "Oslo"^^xsd:string .
@@ -1384,12 +1195,6 @@ ns1:Pajama_Press a ns1:Organization ;
 ns1:Palette a ns1:Organization ;
     ns1:name "Palette"^^xsd:string .
 
-ns1:Panama a ns1:Organization ;
-    ns1:name "Panama"^^xsd:string .
-
-ns1:Panama_Jeunesse a ns1:Organization ;
-    ns1:name "Panama Jeunesse"^^xsd:string .
-
 ns1:Panini a ns1:Organization ;
     ns1:name "Panini"^^xsd:string .
 
@@ -1413,9 +1218,6 @@ ns1:Pavilion a ns1:Organization ;
 
 ns1:Peachtree a ns1:Organization ;
     ns1:name "Peachtree"^^xsd:string .
-
-ns1:Penguin a ns1:Organization ;
-    ns1:name "Penguin"^^xsd:string .
 
 ns1:Penguin_Books a ns1:Organization ;
     ns1:name "Penguin Books"^^xsd:string .
@@ -1441,11 +1243,8 @@ ns1:Philippe_Béha a ns1:Organization ;
 ns1:Picquier_Jeunesse a ns1:Organization ;
     ns1:name "Picquier Jeunesse"^^xsd:string .
 
-<http://schema.org/Pie_International_Inc.> a ns1:Organization ;
+ns1:Pie_International_Inc a ns1:Organization ;
     ns1:name "Pie International Inc."^^xsd:string .
-
-ns1:Pierre a ns1:Organization ;
-    ns1:name "Pierre"^^xsd:string .
 
 ns1:Pierre_Tisseyre a ns1:Organization ;
     ns1:name "Pierre Tisseyre"^^xsd:string .
@@ -1471,18 +1270,6 @@ ns1:Play_Bac a ns1:Organization ;
 ns1:Plon a ns1:Organization ;
     ns1:name "Plon"^^xsd:string .
 
-ns1:Poche-Nathan a ns1:Organization ;
-    ns1:name "Poche-Nathan"^^xsd:string .
-
-ns1:Pocket a ns1:Organization ;
-    ns1:name "Pocket"^^xsd:string .
-
-ns1:Pocket_Jeunesse a ns1:Organization ;
-    ns1:name "Pocket Jeunesse"^^xsd:string .
-
-ns1:Pocket_Junior a ns1:Organization ;
-    ns1:name "Pocket Junior"^^xsd:string .
-
 ns1:Porte_Bonheur a ns1:Organization ;
     ns1:name "Porte Bonheur"^^xsd:string .
 
@@ -1504,18 +1291,6 @@ ns1:Prise_De_Parole a ns1:Organization ;
 ns1:Publications_Canadiennes_Du_Théâtre_Et_Des_Arts a ns1:Organization ;
     ns1:name "Publications Canadiennes Du Théâtre Et Des Arts"^^xsd:string .
 
-ns1:Puffin a ns1:Organization ;
-    ns1:name "Puffin"^^xsd:string .
-
-ns1:Puffin_Canada a ns1:Organization ;
-    ns1:name "Puffin Canada"^^xsd:string .
-
-ns1:Père_Castor a ns1:Organization ;
-    ns1:name "Père Castor"^^xsd:string .
-
-ns1:Père_Castor_Flammarion a ns1:Organization ;
-    ns1:name "Père Castor Flammarion"^^xsd:string .
-
 ns1:Québec_Amérique a ns1:Organization ;
     ns1:name "Québec Amérique"^^xsd:string .
 
@@ -1525,7 +1300,7 @@ ns1:R-Jeunes_Adultes a ns1:Organization ;
 ns1:Rageot a ns1:Organization ;
     ns1:name "Rageot"^^xsd:string .
 
-<http://schema.org/Random_House_Children'S_Books> a ns1:Organization ;
+ns1:Random_House_ChildrenS_Books a ns1:Organization ;
     ns1:name "Random House Children'S Books"^^xsd:string .
 
 ns1:Rat_Noir_Syros a ns1:Organization ;
@@ -1561,47 +1336,23 @@ ns1:Rue_De_Sèvres a ns1:Organization ;
 ns1:Rue_Du_Monde a ns1:Organization ;
     ns1:name "Rue Du Monde"^^xsd:string .
 
-<http://schema.org/Ruisseaux_D'Afrique> a ns1:Organization ;
+ns1:Ruisseaux_DAfrique a ns1:Organization ;
     ns1:name "Ruisseaux D'Afrique"^^xsd:string .
 
-<http://schema.org/Sakyejul_Publishing_Ltd.> a ns1:Organization ;
+ns1:Sakyejul_Publishing_Ltd a ns1:Organization ;
     ns1:name "Sakyejul Publishing Ltd."^^xsd:string .
 
 ns1:Saltimbanque a ns1:Organization ;
     ns1:name "Saltimbanque"^^xsd:string .
 
-ns1:Samir a ns1:Organization ;
-    ns1:name "Samir"^^xsd:string .
-
-ns1:Samir_Jeunesse a ns1:Organization ;
-    ns1:name "Samir Jeunesse"^^xsd:string .
-
 ns1:Sarbacane a ns1:Organization ;
     ns1:name "Sarbacane"^^xsd:string .
 
-ns1:Scholastic a ns1:Organization ;
-    ns1:name "Scholastic"^^xsd:string .
-
-ns1:Scholastic_Canada a ns1:Organization ;
-    ns1:name "Scholastic Canada"^^xsd:string .
-
-<http://schema.org/Schwartz_&_Wade_Books> a ns1:Organization ;
+ns1:Schwartz___Wade_Books a ns1:Organization ;
     ns1:name "Schwartz & Wade Books"^^xsd:string .
 
 ns1:Schweizer_Radio_Drs a ns1:Organization ;
     ns1:name "Schweizer Radio Drs"^^xsd:string .
-
-ns1:Scrineo_Jeunesse a ns1:Organization ;
-    ns1:name "Scrineo Jeunesse"^^xsd:string .
-
-ns1:Scrinéo a ns1:Organization ;
-    ns1:name "Scrinéo"^^xsd:string .
-
-ns1:Scrinéo_Jeunesse a ns1:Organization ;
-    ns1:name "Scrinéo Jeunesse"^^xsd:string .
-
-ns1:Second_Story a ns1:Organization ;
-    ns1:name "Second Story"^^xsd:string .
 
 ns1:Second_Story_Press a ns1:Organization ;
     ns1:name "Second Story Press"^^xsd:string .
@@ -1612,22 +1363,13 @@ ns1:Seghers a ns1:Organization ;
 ns1:Septentrion a ns1:Organization ;
     ns1:name "Septentrion"^^xsd:string .
 
-ns1:Seuil a ns1:Organization ;
-    ns1:name "Seuil"^^xsd:string .
-
-ns1:Seuil-Le_Funambule a ns1:Organization ;
-    ns1:name "Seuil-Le Funambule"^^xsd:string .
-
-ns1:Seuil_Poche a ns1:Organization ;
-    ns1:name "Seuil Poche"^^xsd:string .
-
 ns1:Signe_De_Piste a ns1:Organization ;
     ns1:name "Signe De Piste"^^xsd:string .
 
 ns1:Siloë a ns1:Organization ;
     ns1:name "Siloë"^^xsd:string .
 
-<http://schema.org/Simon_&_Schuster> a ns1:Organization ;
+ns1:Simon___Schuster a ns1:Organization ;
     ns1:name "Simon & Schuster"^^xsd:string .
 
 ns1:Six_Pieds_Sous_Terre a ns1:Organization ;
@@ -1639,7 +1381,7 @@ ns1:Slalom a ns1:Organization ;
 ns1:Sm a ns1:Organization ;
     ns1:name "Sm"^^xsd:string .
 
-<http://schema.org/Soc_&_Foc> a ns1:Organization ;
+ns1:Soc___Foc a ns1:Organization ;
     ns1:name "Soc & Foc"^^xsd:string .
 
 ns1:Société_De_Belles-Lettres_Guy_Maheu a ns1:Organization ;
@@ -1663,12 +1405,6 @@ ns1:Steinkis a ns1:Organization ;
 ns1:Stock a ns1:Organization ;
     ns1:name "Stock"^^xsd:string .
 
-ns1:Stoddart a ns1:Organization ;
-    ns1:name "Stoddart"^^xsd:string .
-
-ns1:Stoddart_Kids a ns1:Organization ;
-    ns1:name "Stoddart Kids"^^xsd:string .
-
 ns1:Stéphane_Poulin a ns1:Organization ;
     ns1:name "Stéphane Poulin"^^xsd:string .
 
@@ -1687,9 +1423,6 @@ ns1:T1 a ns1:Organization ;
 ns1:Talents_Hauts a ns1:Organization ;
     ns1:name "Talents Hauts"^^xsd:string .
 
-ns1:Tara a ns1:Organization ;
-    ns1:name "Tara"^^xsd:string .
-
 ns1:Tara_Books a ns1:Organization ;
     ns1:name "Tara Books"^^xsd:string .
 
@@ -1698,9 +1431,6 @@ ns1:Tate_Publishing a ns1:Organization ;
 
 ns1:Tecolote a ns1:Organization ;
     ns1:name "Tecolote"^^xsd:string .
-
-ns1:Templar a ns1:Organization ;
-    ns1:name "Templar"^^xsd:string .
 
 ns1:Templar_Publishing a ns1:Organization ;
     ns1:name "Templar Publishing"^^xsd:string .
@@ -1720,10 +1450,10 @@ ns1:Thierry_Magnier a ns1:Organization ;
 ns1:Théâtrales a ns1:Organization ;
     ns1:name "Théâtrales"^^xsd:string .
 
-<http://schema.org/Théâtre_De_L'Arrière_Scène> a ns1:Organization ;
+ns1:Théâtre_De_LArrière_Scène a ns1:Organization ;
     ns1:name "Théâtre De L'Arrière Scène"^^xsd:string .
 
-<http://schema.org/Théâtre_De_L'Oeil> a ns1:Organization ;
+ns1:Théâtre_De_LOeil a ns1:Organization ;
     ns1:name "Théâtre De L'Oeil"^^xsd:string .
 
 ns1:Théâtre_De_Sable a ns1:Organization ;
@@ -1738,13 +1468,13 @@ ns1:Théâtre_Du_Quartier a ns1:Organization ;
 ns1:Théâtre_Le_Clou a ns1:Organization ;
     ns1:name "Théâtre Le Clou"^^xsd:string .
 
-<http://schema.org/Théâtre_Populaire_D'Acadie> a ns1:Organization ;
+ns1:Théâtre_Populaire_DAcadie a ns1:Organization ;
     ns1:name "Théâtre Populaire D'Acadie"^^xsd:string .
 
 ns1:Théâtres_Bouches_Décousues a ns1:Organization ;
     ns1:name "Théâtres Bouches Décousues"^^xsd:string .
 
-<http://schema.org/Tigre_&_Cie> a ns1:Organization ;
+ns1:Tigre___Cie a ns1:Organization ;
     ns1:name "Tigre & Cie"^^xsd:string .
 
 ns1:Tisseyre a ns1:Organization ;
@@ -1767,9 +1497,6 @@ ns1:Triomphe a ns1:Organization ;
 
 ns1:Trollfilm_As a ns1:Organization ;
     ns1:name "Trollfilm As"^^xsd:string .
-
-ns1:Tundra a ns1:Organization ;
-    ns1:name "Tundra"^^xsd:string .
 
 ns1:Tundra_Books a ns1:Organization ;
     ns1:name "Tundra Books"^^xsd:string .
@@ -1807,10 +1534,10 @@ ns1:Utovie_Jeunesse a ns1:Organization ;
 ns1:Varia a ns1:Organization ;
     ns1:name "Varia"^^xsd:string .
 
-<http://schema.org/Vents_D'Ailleurs> a ns1:Organization ;
+ns1:Vents_DAilleurs a ns1:Organization ;
     ns1:name "Vents D'Ailleurs"^^xsd:string .
 
-<http://schema.org/Vents_D'Ouest> a ns1:Organization ;
+ns1:Vents_DOuest a ns1:Organization ;
     ns1:name "Vents D'Ouest"^^xsd:string .
 
 ns1:Verlagsgruppe_Oetinger a ns1:Organization ;
@@ -1818,12 +1545,6 @@ ns1:Verlagsgruppe_Oetinger a ns1:Organization ;
 
 ns1:Vermillon a ns1:Organization ;
     ns1:name "Vermillon"^^xsd:string .
-
-ns1:Versant_Sud a ns1:Organization ;
-    ns1:name "Versant Sud"^^xsd:string .
-
-ns1:Versant_Sud_Jeunesse a ns1:Organization ;
-    ns1:name "Versant Sud Jeunesse"^^xsd:string .
 
 ns1:Versify a ns1:Organization ;
     ns1:name "Versify"^^xsd:string .
@@ -1849,13 +1570,13 @@ ns1:Xavier_Legrand-Ferronnière a ns1:Organization ;
 ns1:Xo a ns1:Organization ;
     ns1:name "Xo"^^xsd:string .
 
-<http://schema.org/Yes_Creative_Ltd./Papa_Publishing_House> a ns1:Organization ;
+ns1:Yes_Creative_Ltd_Papa_Publishing_House a ns1:Organization ;
     ns1:name "Yes Creative Ltd./Papa Publishing House"^^xsd:string .
 
 ns1:Yves_Nadon a ns1:Organization ;
     ns1:name "Yves Nadon"^^xsd:string .
 
-<http://schema.org/Z'Ailées> a ns1:Organization ;
+ns1:ZAilées a ns1:Organization ;
     ns1:name "Z'Ailées"^^xsd:string .
 
 ns1:Zydowskie_Stowarzyszenie_Czulent a ns1:Organization ;
@@ -1867,12 +1588,331 @@ ns1:Zébulo a ns1:Organization ;
 ns1:Âne_Bâté a ns1:Organization ;
     ns1:name "Âne Bâté"^^xsd:string .
 
-ns1:Éd_Chauve-souris a ns1:Organization ;
-    ns1:name "Éd Chauve-souris"^^xsd:string .
-
 ns1:Ékaré a ns1:Organization ;
     ns1:name "Ékaré"^^xsd:string .
 
 ns1:Être_Éditions a ns1:Organization ;
     ns1:name "Être Éditions"^^xsd:string .
+
+ns1:Actes_Sud-Papiers a ns1:Organization ;
+    ns1:name "Actes Sud-Papiers"^^xsd:string ;
+    ns1:parentOrganization ns1:Actes_Sud .
+
+ns1:Actes_Sud_Bd a ns1:Organization ;
+    ns1:name "Actes Sud Bd"^^xsd:string ;
+    ns1:parentOrganization ns1:Actes_Sud .
+
+ns1:Actes_Sud_Junior a ns1:Organization ;
+    ns1:name "Actes Sud Junior"^^xsd:string ;
+    ns1:parentOrganization ns1:Actes_Sud .
+
+ns1:Albin_Michel a ns1:Organization ;
+    ns1:name "Albin Michel"^^xsd:string ;
+    ns1:subOrganization ns1:Albin_Michel_Jeunesse .
+
+ns1:Albin_Michel_Jeunesse a ns1:Organization ;
+    ns1:name "Albin Michel Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Albin_Michel .
+
+ns1:Alice a ns1:Organization ;
+    ns1:name "Alice"^^xsd:string ;
+    ns1:subOrganization ns1:Alice_Jeunesse .
+
+ns1:Alice_Jeunesse a ns1:Organization ;
+    ns1:name "Alice Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Alice .
+
+ns1:Autrement a ns1:Organization ;
+    ns1:name "Autrement"^^xsd:string ;
+    ns1:subOrganization ns1:Autrement_Jeunesse .
+
+ns1:Autrement_Jeunesse a ns1:Organization ;
+    ns1:name "Autrement Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Autrement .
+
+ns1:Auzou_Canada a ns1:Organization ;
+    ns1:name "Auzou Canada"^^xsd:string ;
+    ns1:parentOrganization ns1:Anzou .
+
+ns1:Auzou_Suisse a ns1:Organization ;
+    ns1:name "Auzou Suisse"^^xsd:string ;
+    ns1:parentOrganization ns1:Anzou .
+
+ns1:Bayard_Canada a ns1:Organization ;
+    ns1:name "Bayard Canada"^^xsd:string ;
+    ns1:parentOrganization ns1:Bayard .
+
+ns1:Bayard_Jeunesse a ns1:Organization ;
+    ns1:name "Bayard Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Bayard .
+
+ns1:Belin a ns1:Organization ;
+    ns1:name "Belin"^^xsd:string ;
+    ns1:subOrganization ns1:Belin_Jeunesse .
+
+ns1:Belin_Jeunesse a ns1:Organization ;
+    ns1:name "Belin Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Belin .
+
+ns1:Cappelen_Damm a ns1:Organization ;
+    ns1:name "Cappelen Damm"^^xsd:string ;
+    ns1:parentOrganization ns1:Cappelen .
+
+ns1:Cappelen_Forlag a ns1:Organization ;
+    ns1:name "Cappelen Forlag"^^xsd:string ;
+    ns1:parentOrganization ns1:Cappelen .
+
+ns1:Casterman a ns1:Organization ;
+    ns1:name "Casterman"^^xsd:string ;
+    ns1:subOrganization ns1:Casterman_Poche .
+
+ns1:Casterman_Poche a ns1:Organization ;
+    ns1:name "Casterman Poche"^^xsd:string ;
+    ns1:parentOrganization ns1:Casterman .
+
+ns1:Castor_Poche_Flammarion a ns1:Organization ;
+    ns1:name "Castor Poche Flammarion"^^xsd:string ;
+    ns1:parentOrganization ns1:Flammarion .
+
+ns1:Didier a ns1:Organization ;
+    ns1:name "Didier"^^xsd:string ;
+    ns1:subOrganization ns1:Didier_Jeunesse .
+
+ns1:Didier_Jeunesse a ns1:Organization ;
+    ns1:name "Didier Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Didier .
+
+ns1:Flammarion_Jeunesse a ns1:Organization ;
+    ns1:name "Flammarion Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Flammarion .
+
+ns1:Flammarion_Père_Castor a ns1:Organization ;
+    ns1:name "Flammarion Père Castor"^^xsd:string ;
+    ns1:parentOrganization ns1:Flammarion .
+
+ns1:Gallimard a ns1:Organization ;
+    ns1:name "Gallimard"^^xsd:string ;
+    ns1:subOrganization ns1:Gallimard_Jeunesse .
+
+ns1:Gallimard_Jeunesse a ns1:Organization ;
+    ns1:name "Gallimard Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Gallimard .
+
+ns1:Glénat a ns1:Organization ;
+    ns1:name "Glénat"^^xsd:string ;
+    ns1:subOrganization ns1:Glénat_Jeunesse .
+
+ns1:Glénat_Jeunesse a ns1:Organization ;
+    ns1:name "Glénat Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Glénat .
+
+ns1:Grasset a ns1:Organization ;
+    ns1:name "Grasset"^^xsd:string ;
+    ns1:subOrganization ns1:Grasset_Jeunesse .
+
+ns1:Grasset_Jeunesse a ns1:Organization ;
+    ns1:name "Grasset Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Grasset .
+
+ns1:Hachette a ns1:Organization ;
+    ns1:name "Hachette"^^xsd:string ;
+    ns1:subOrganization ns1:Hachette_Jeunesse .
+
+ns1:Hachette_Jeunesse a ns1:Organization ;
+    ns1:name "Hachette Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Hachette .
+
+ns1:HongFei a ns1:Organization ;
+    ns1:name "HongFei"^^xsd:string ;
+    ns1:subOrganization ns1:HongFei_Cultures .
+
+ns1:HongFei_Cultures a ns1:Organization ;
+    ns1:name "HongFei Cultures"^^xsd:string ;
+    ns1:parentOrganization ns1:HongFei .
+
+ns1:Kazé a ns1:Organization ;
+    ns1:name "Kazé"^^xsd:string ;
+    ns1:subOrganization ns1:Kazé_Manga .
+
+ns1:Kazé_Manga a ns1:Organization ;
+    ns1:name "Kazé Manga"^^xsd:string ;
+    ns1:parentOrganization ns1:Kazé .
+
+ns1:La_Martinière a ns1:Organization ;
+    ns1:name "La Martinière"^^xsd:string ;
+    ns1:subOrganization ns1:La_Martinière_Jeunesse .
+
+ns1:La_Martinière_Jeunesse a ns1:Organization ;
+    ns1:name "La Martinière Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:La_Martinière .
+
+ns1:Lansman a ns1:Organization ;
+    ns1:name "Lansman"^^xsd:string ;
+    ns1:subOrganization ns1:Lansman_Jeunesse .
+
+ns1:Lansman_Jeunesse a ns1:Organization ;
+    ns1:name "Lansman Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Lansman .
+
+ns1:Magnard a ns1:Organization ;
+    ns1:name "Magnard"^^xsd:string ;
+    ns1:subOrganization ns1:Magnard_Jeunesse .
+
+ns1:Magnard_Jeunesse a ns1:Organization ;
+    ns1:name "Magnard Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Magnard .
+
+ns1:Mango a ns1:Organization ;
+    ns1:name "Mango"^^xsd:string ;
+    ns1:subOrganization ns1:Mango_Jeunesse .
+
+ns1:Mango_Jeunesse a ns1:Organization ;
+    ns1:name "Mango Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Mango .
+
+ns1:Milan_Jeunesse a ns1:Organization ;
+    ns1:name "Milan Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Milan .
+
+ns1:Milan_Poche a ns1:Organization ;
+    ns1:name "Milan Poche"^^xsd:string ;
+    ns1:parentOrganization ns1:Milan .
+
+ns1:Nathan_Jeunesse a ns1:Organization ;
+    ns1:name "Nathan Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Nathan .
+
+ns1:Nathan_Poche a ns1:Organization ;
+    ns1:name "Nathan Poche"^^xsd:string ;
+    ns1:parentOrganization ns1:Nathan .
+
+ns1:Oskar a ns1:Organization ;
+    ns1:name "Oskar"^^xsd:string ;
+    ns1:subOrganization ns1:Oskar_Jeunesse .
+
+ns1:Oskar_Jeunesse a ns1:Organization ;
+    ns1:name "Oskar Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Oskar .
+
+ns1:Panama a ns1:Organization ;
+    ns1:name "Panama"^^xsd:string ;
+    ns1:subOrganization ns1:Panama_Jeunesse .
+
+ns1:Panama_Jeunesse a ns1:Organization ;
+    ns1:name "Panama Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Panama .
+
+ns1:Pocket_Jeunesse a ns1:Organization ;
+    ns1:name "Pocket Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Pocket .
+
+ns1:Pocket_Junior a ns1:Organization ;
+    ns1:name "Pocket Junior"^^xsd:string ;
+    ns1:parentOrganization ns1:Pocket .
+
+ns1:Puffin a ns1:Organization ;
+    ns1:name "Puffin"^^xsd:string ;
+    ns1:subOrganization ns1:Puffin_Canada .
+
+ns1:Puffin_Canada a ns1:Organization ;
+    ns1:name "Puffin Canada"^^xsd:string ;
+    ns1:parentOrganization ns1:Puffin .
+
+ns1:Samir a ns1:Organization ;
+    ns1:name "Samir"^^xsd:string ;
+    ns1:subOrganization ns1:Samir_Jeunesse .
+
+ns1:Samir_Jeunesse a ns1:Organization ;
+    ns1:name "Samir Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Samir .
+
+ns1:Scholastic a ns1:Organization ;
+    ns1:name "Scholastic"^^xsd:string ;
+    ns1:subOrganization ns1:Scholastic_Canada .
+
+ns1:Scholastic_Canada a ns1:Organization ;
+    ns1:name "Scholastic Canada"^^xsd:string ;
+    ns1:parentOrganization ns1:Scholastic .
+
+ns1:Scrineo a ns1:Organization ;
+    ns1:name "Scrineo"^^xsd:string ;
+    ns1:subOrganization ns1:Scrineo_Jeunesse .
+
+ns1:Scrineo_Jeunesse a ns1:Organization ;
+    ns1:name "Scrineo Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Scrineo .
+
+ns1:Seuil-Le_Funambule a ns1:Organization ;
+    ns1:name "Seuil-Le Funambule"^^xsd:string ;
+    ns1:parentOrganization ns1:Seuil .
+
+ns1:Seuil_Jeunesse a ns1:Organization ;
+    ns1:name "Seuil Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Seuil .
+
+ns1:Seuil_Poche a ns1:Organization ;
+    ns1:name "Seuil Poche"^^xsd:string ;
+    ns1:parentOrganization ns1:Seuil .
+
+ns1:Stoddart a ns1:Organization ;
+    ns1:name "Stoddart"^^xsd:string ;
+    ns1:subOrganization ns1:Stoddart_Kids .
+
+ns1:Stoddart_Kids a ns1:Organization ;
+    ns1:name "Stoddart Kids"^^xsd:string ;
+    ns1:parentOrganization ns1:Stoddart .
+
+ns1:Versant_Sud a ns1:Organization ;
+    ns1:name "Versant Sud"^^xsd:string ;
+    ns1:subOrganization ns1:Versant_Sud_Jeunesse .
+
+ns1:Versant_Sud_Jeunesse a ns1:Organization ;
+    ns1:name "Versant Sud Jeunesse"^^xsd:string ;
+    ns1:parentOrganization ns1:Versant_Sud .
+
+ns1:Anzou ns1:subOrganization ns1:Auzou_Canada,
+        ns1:Auzou_Suisse .
+
+ns1:Bayard a ns1:Organization ;
+    ns1:name "Bayard"^^xsd:string ;
+    ns1:subOrganization ns1:Bayard_Canada,
+        ns1:Bayard_Jeunesse .
+
+ns1:Cappelen a ns1:Organization ;
+    ns1:name "Cappelen"^^xsd:string ;
+    ns1:subOrganization ns1:Cappelen_Damm,
+        ns1:Cappelen_Forlag .
+
+ns1:Milan a ns1:Organization ;
+    ns1:name "Milan"^^xsd:string ;
+    ns1:subOrganization ns1:Milan_Jeunesse,
+        ns1:Milan_Poche .
+
+ns1:Nathan a ns1:Organization ;
+    ns1:name "Nathan"^^xsd:string ;
+    ns1:subOrganization ns1:Nathan_Jeunesse,
+        ns1:Nathan_Poche .
+
+ns1:Pocket a ns1:Organization ;
+    ns1:name "Pocket"^^xsd:string ;
+    ns1:subOrganization ns1:Pocket_Jeunesse,
+        ns1:Pocket_Junior .
+
+ns1:Actes_Sud a ns1:Organization ;
+    ns1:name "Actes Sud"^^xsd:string ;
+    ns1:subOrganization ns1:Actes_Sud-Papiers,
+        ns1:Actes_Sud_Bd,
+        ns1:Actes_Sud_Junior .
+
+ns1:Flammarion a ns1:Organization ;
+    ns1:name "Flammarion"^^xsd:string ;
+    ns1:subOrganization ns1:Castor_Poche_Flammarion,
+        ns1:Flammarion_Jeunesse,
+        ns1:Flammarion_Père_Castor .
+
+ns1:Seuil a ns1:Organization ;
+    ns1:name "Seuil"^^xsd:string ;
+    ns1:subOrganization ns1:Seuil-Le_Funambule,
+        ns1:Seuil_Jeunesse,
+        ns1:Seuil_Poche .
 

@@ -6528,7 +6528,7 @@ ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b302 a ns1:Book ;
     ns1:dateReceived "2012"^^xsd:gYear ;
     ns1:genre "Roman français" ;
     ns1:name "Le mystère de Blandy-les-tours"^^xsd:string ;
-    ns1:publisher "Compagnie" ;
+    ns1:publisher "Francophonie" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-hackmatack-le-choix-des-jeunes"^^xsd:string .
 
 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b303 a ns1:Book ;
@@ -6637,7 +6637,7 @@ ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b30e a ns1:Book ;
     ns1:dateReceived "2009"^^xsd:gYear ;
     ns1:genre "Roman français" ;
     ns1:name "Le cimetière de Boisvert"^^xsd:string ;
-    ns1:publisher "Compagnie" ;
+    ns1:publisher "Francophonie" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-hackmatack-le-choix-des-jeunes"^^xsd:string .
 
 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b30f a ns1:Book ;
@@ -6711,7 +6711,7 @@ ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b316 a ns1:Book ;
     ns1:dateReceived "2007"^^xsd:gYear ;
     ns1:genre "Roman français" ;
     ns1:name "Le monstre du Lac Baker"^^xsd:string ;
-    ns1:publisher "Compagnie" ;
+    ns1:publisher "Francophonie" ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraire-hackmatack-le-choix-des-jeunes"^^xsd:string .
 
 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b317 a ns1:Book ;
@@ -34086,16 +34086,6 @@ ns1:Bookf1df518a-5bcc-4618-9470-cce4462394bc a ns1:Book ;
     ns1:name "Parfois les lacs brûlent"^^xsd:string ;
     ns1:publisher "Front Froid" ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire volet adulte Québec&firstid=10645&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10645%3Bi%3A1%3Bi%3A10652%3Bi%3A2%3Bi%3A10651%3Bi%3A3%3Bi%3A10650%3Bi%3A4%3Bi%3A10649%3Bi%3A5%3Bi%3A10648%3B%7D"^^xsd:string .
-
-ns1:Bookf2129def-0e96-4349-a3a2-cda1884a4003 a ns1:Book ;
-    ns1:author "Communication-Jeunesse"^^xsd:string ;
-    ns1:award "Prix Raymond-Plante" ;
-    ns1:dateReceived "2011"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "None"^^xsd:string ;
-    ns1:publisher "Communication-Jeunesse" ;
-    ns1:url "https://www.lurelu.net/prixlitt_raymondplante.html"^^xsd:string .
 
 ns1:Bookf2167afc-e1f9-4ad8-a1e8-4b3dfab2b4d0 a ns1:Book ;
     ns1:author "Marie-Louise Gay"^^xsd:string ;
