@@ -29021,7 +29021,7 @@ ns1:Book4e210165-02fd-40f7-9c5e-432c17b4997l a ns1:Book ;
     ns1:publisher "Québec Amérique" ;
     ns1:url "https://www.lurelu.net/prixlitt_cecilegagnon.html"^^xsd:string .
 
-ns1:Book4e210165-02fo-40f7-9c5e-4z2c17b4997e a ns1:Book ;
+ns1:Book4e210165-02fo-50f7-9c5e-4z1c17b4997e a ns1:Book ;
     ns1:author "Noëmie Forget"^^xsd:string ;
     ns1:award "Prix Cécile-Gagnon" ;
     ns1:dateReceived "2010"^^xsd:gYear ;
