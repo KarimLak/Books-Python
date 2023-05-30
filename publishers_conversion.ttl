@@ -4,6 +4,9 @@
 ns1:12_Bis a ns1:Organization ;
     ns1:name "12 Bis"^^xsd:string .
 
+ns1:2024 a ns1:Organization ;
+    ns1:name "2024"^^xsd:string .
+
 ns1:ABC_Melody a ns1:Organization ;
     ns1:name "ABC Melody"^^xsd:string .
 
@@ -1596,6 +1599,9 @@ ns1:Ékaré a ns1:Organization ;
 
 ns1:Être_Éditions a ns1:Organization ;
     ns1:name "Être Éditions"^^xsd:string .
+
+ns1:DuJour a ns1:Organization ;
+    ns1:name "Du Jour"^^xsd:string .
 
 ns1:Actes_Sud-Papiers a ns1:Organization ;
     ns1:name "Actes Sud-Papiers"^^xsd:string ;

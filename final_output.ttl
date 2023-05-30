@@ -11795,7 +11795,7 @@ ns1:Book4e6af28d-eb73-4410-a1cd-f6198f87d3c4 a ns1:Book ;
     ns1:dateReceived "1999"^^xsd:gYear ;
     ns1:genre "Nouvelle française"^^xsd:string ;
     ns1:inLanguage "Francais" ;
-    ns1:name "l'Amour au temps du silicium"^^xsd:string ;
+    ns1:name "L'Amour au temps du silicium"^^xsd:string ;
     ns1:publisher ns1:Fleuve_Noir ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-de-limaginaire"^^xsd:string .
 
@@ -17230,7 +17230,7 @@ ns1:Book900835e9-be7d-43dc-9bde-6eab5378f3b5 a ns1:Book ;
         "Texte"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Raminagradu"^^xsd:string ;
-    ns1:publisher ns1:Être_Éditions ;
+    ns1:publisher ns1:DuJour ;
     ns1:url "https://www.lurelu.net/prixlitt_conseildesarts.html"^^xsd:string .
 
 ns1:Book90fa35a8-5a70-4536-82cb-03550697cd4c a ns1:Book ;
@@ -19141,7 +19141,7 @@ ns1:Bookad6e0203-0636-4a7d-a3c5-8d5cfa6381ab a ns1:Book ;
     ns1:dateReceived "1999"^^xsd:gYear ;
     ns1:genre "Nouvelle étrangère"^^xsd:string ;
     ns1:inLanguage "Francais" ;
-    ns1:name "la Grande œuvre du Temps"^^xsd:string ;
+    ns1:name "La Grande œuvre du Temps"^^xsd:string ;
     ns1:publisher ns1:Rivages ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-de-limaginaire"^^xsd:string .
 
@@ -19930,7 +19930,7 @@ ns1:Bookb6e1f45e-548a-4fb7-98a3-9f9bcdb29b44 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Boule de feu"^^xsd:string ;
-    ns1:publisher ns1:Être_Éditions ;
+    ns1:publisher ns1:2024 ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
 ns1:Bookb6ed72da-ec21-4d54-9e1d-4407b87f0b9f a ns1:Book ;
@@ -20142,7 +20142,7 @@ ns1:Bookbb59e6ea-68e1-4fa5-8b66-8b1a2386cbe0 a ns1:Book ;
     ns1:dateReceived "1999"^^xsd:gYear ;
     ns1:genre "Roman français"^^xsd:string ;
     ns1:inLanguage "Francais" ;
-    ns1:name "les Futurs mystères de Paris"^^xsd:string ;
+    ns1:name "Les Futurs mystères de Paris"^^xsd:string ;
     ns1:publisher ns1:Fleuve_Noir ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-de-limaginaire"^^xsd:string .
 
@@ -21028,7 +21028,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b995 a ns1:Book ;
     ns1:dateReceived "2022"^^xsd:gYear ;
     ns1:inLanguage "Francais" ;
     ns1:name "Western coquillettes"^^xsd:string ;
-    ns1:publisher ns1:Être_Éditions ;
+    ns1:publisher ns1:Orso ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-litteralouest"^^xsd:string .
 
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9950 a ns1:Book ;
@@ -27264,7 +27264,7 @@ ns1:Bookec9c041c-a261-40d6-ad7e-282ea5d61f85 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Le club des amis T.2"^^xsd:string ;
-    ns1:publisher ns1:Être_Éditions ;
+    ns1:publisher ns1:2024 ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire BD Jeunesse Hors Québec&firstid=10376&theme=bd&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10355%3Bi%3A1%3Bi%3A10376%3Bi%3A2%3Bi%3A10375%3Bi%3A3%3Bi%3A10381%3Bi%3A4%3Bi%3A10374%3Bi%3A5%3Bi%3A10373%3B%7D"^^xsd:string .
 
 ns1:Booked7801b25-682b-4b36-9f97-38acfb3be3d4 a ns1:Book ;
@@ -28152,7 +28152,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9bd a ns1:Book ;
     ns1:dateReceived "2002"^^xsd:gYear ;
     ns1:genre "3ème" ;
     ns1:inLanguage "Francais" ;
-    ns1:name "la Chambre du pendu"^^xsd:string ;
+    ns1:name "La Chambre du pendu"^^xsd:string ;
     ns1:publisher ns1:LÉcole_Des_Loisirs ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-devoreurs-de-livres"^^xsd:string .
 
