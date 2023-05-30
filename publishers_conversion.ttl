@@ -736,6 +736,9 @@ ns1:LInterligne a ns1:Organization ;
 ns1:LOlivier a ns1:Organization ;
     ns1:name "L'Olivier"^^xsd:string .
 
+ns1:Delacorte a ns1:Organization ;
+    ns1:name "Delacorte Press"^^xsd:string .
+
 ns1:La_Bagnole a ns1:Organization ;
     ns1:name "La Bagnole"^^xsd:string .
 
