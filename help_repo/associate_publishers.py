@@ -1,71 +1,99 @@
-from rdflib import Graph, Namespace, Literal
-from rdflib.namespace import RDF, RDFS
-from difflib import SequenceMatcher
+from rdflib import Graph, Namespace, Literal, RDF
+from unidecode import unidecode
+import os
+import re
+from collections import defaultdict
 
-# Function to find the best matching publisher
-def best_matching_publisher(publisher, publisher_list):
-    best_match = publisher
-    best_ratio = 0
-
-    for candidate in publisher_list:
-        ratio = SequenceMatcher(None, publisher, candidate).ratio()
-        if ratio > best_ratio:
-            best_match = candidate
-            best_ratio = ratio
-
-    return best_match
-
-# Load the main data graph
-g_main = Graph()
-g_main.parse("./merged_output.ttl", format="turtle")
-
-# Load the publishers graph
-g_publishers = Graph()
-g_publishers.parse("./publishers_conversion.ttl", format="turtle")
-
+# Create a namespace for schema
 ns1 = Namespace("http://schema.org/")
 
-# A dictionary to cache publisher URIs for faster lookup
-publisher_uris = {}
+# List of input file paths
+input_files = [
+    "./updated_output.ttl"
+]
 
-# List of all publisher names in the publishers graph
-publisher_names = [str(name) for s, p, name in g_publishers.triples((None, ns1.name, None))]
+# Create a new graph
+g = Graph()
 
-# Iterate over the books
-for s, p, o in g_main.triples((None, RDF.type, ns1.Book)):
-    # Get the current publisher name
-    publisher_name = str(g_main.value(s, ns1.publisher))
+# Load all files into the graph
+for file in input_files:
+    if os.path.exists(file):
+        g.parse(file, format="turtle")
 
-    if publisher_name in publisher_uris:
-        # If we've seen this publisher before, just get the URI from the cache
-        publisher_uri = publisher_uris[publisher_name]
-    else:
-        # Otherwise, find the corresponding publisher URI in the publishers graph
-        publisher_uri = None
-        for s_pub, p_pub, o_pub in g_publishers.triples((None, ns1.name, None)):
-            if str(o_pub) == publisher_name:
-                publisher_uri = s_pub
-                break
+# Function to clean string
+def clean_string(s):
+    s = unidecode(s)
+    s = re.sub(r'\W+', '', s)  # Remove all non-alphanumeric characters
+    return s.lower()
 
-        if not publisher_uri:
-            # If no match found, find the closest matching publisher
-            closest_match = best_matching_publisher(publisher_name, publisher_names)
+# Function to group similar books
+def group_similar_books(g):
+    groups = defaultdict(list)
 
-            # Get the URI of the closest matching publisher
-            for s_pub, p_pub, o_pub in g_publishers.triples((None, ns1.name, None)):
-                if str(o_pub) == closest_match:
-                    publisher_uri = s_pub
-                    break
+    for s in g.subjects(RDF.type, ns1.Book):
+        book_name = g.value(s, ns1.name)
+        book_author = g.value(s, ns1.author)
 
-            print(f"No exact match found for publisher '{publisher_name}', closest match is '{closest_match}'")
+        if book_name and book_author:
+            key = (clean_string(str(book_name)), clean_string(str(book_author)))
+            groups[key].append((s, book_name, book_author))
 
-        if publisher_uri:
-            # If we found a matching publisher URI, store it in the cache for future use
-            publisher_uris[publisher_name] = publisher_uri
+    return groups
 
-    if publisher_uri:
-        # If we found a matching publisher URI, replace the publisher name with it
-        g_main.set((s, ns1.publisher, publisher_uri))
+def remove_duplicate_attributes(g):
+    for s in g.subjects(RDF.type, ns1.Book):
+        predicates = set(g.predicates(s, None))
+        for p in predicates:
+            values = list(g.objects(s, p))
+            if len(values) > 1:
+                # Collect unique string values
+                unique_values = list(set(str(v) for v in values))
+                # If there are duplicates (length of set is less than length of original list)
+                if len(unique_values) < len(values):
+                    # Remove all instances of this predicate from the graph
+                    g.remove((s, p, None))
+                    # Then add back only the unique ones
+                    for v in unique_values:
+                        # Get the original literal with this string value
+                        original_literal = next(val for val in values if str(val) == v)
+                        g.add((s, p, original_literal))
 
-# Save the updated main graph
-g_main.serialize(destination='updated_output.ttl', format='turtle')
+
+# Group similar book names
+similar_books = group_similar_books(g)
+
+# Counter for merged books
+merged_books = 0
+
+# Merge books with similar names
+for (book_name, book_author), similar in similar_books.items():
+    if len(similar) > 1:
+        existing_book, original_name, original_author = similar[0]
+
+        for similar_book, _, _ in similar[1:]:
+            # Merge similar book into the existing book
+            for p, o in g.predicate_objects(similar_book):
+                if p not in [ns1.author, ns1.name]:
+                    if not any(o2 == o for o2 in g.objects(existing_book, p)):
+                        g.add((existing_book, p, o))
+
+            # Remove the similar book from the graph
+            g.remove((similar_book, None, None))
+
+            # Increment the merged books counter
+            merged_books += 1
+
+        # Remove old author and name values
+        g.remove((existing_book, ns1.author, None))
+        g.remove((existing_book, ns1.name, None))
+
+        # Add original author and name values
+        g.add((existing_book, ns1.author, original_author))
+        g.add((existing_book, ns1.name, original_name))
+
+remove_duplicate_attributes(g)
+
+print(f'Merged {merged_books} books.')
+
+# Save the merged graph
+g.serialize(destination='final_output.ttl', format='turtle')
