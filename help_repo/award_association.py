@@ -1,5 +1,4 @@
 from rdflib import Graph, Literal, Namespace, RDF, RDFS, URIRef
-from fuzzywuzzy import process
 import uuid
 from unidecode import unidecode
 
@@ -49,5 +48,12 @@ for s in books_g.subjects(RDF.type, ns1.Book):
         # Link the main award to the sub award
         awards_g.add((main_award_uri, ns1.subOrganization, sub_award_uri))
 
+        # Update the book graph: remove old award literal and add the new URI
+        books_g.remove((s, ns1.award, Literal(award)))
+        books_g.add((s, ns1.award, sub_award_uri))
+
 # Save the updated awards graph
 awards_g.serialize(destination='./awards_conversion_final.ttl', format='turtle', encoding="utf-8")
+
+# Save the updated books graph
+books_g.serialize(destination='./final_output_merged_final.ttl', format='turtle', encoding="utf-8")
