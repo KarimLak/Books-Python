@@ -1,5 +1,6 @@
 @prefix ns1: <http://schema.org/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 ns1:Book004927da-a894-4dl2-a93a-8b1d136ief5f a ns1:Book ;
     ns1:author "Jeanne Detallante"^^xsd:string ;
@@ -3315,7 +3316,7 @@ ns1:Book1e4d5b27-45ae-4568-a369-f109f771b89s a ns1:Book ;
 
 ns1:Book1e4d5b27-45ae-4568-a369-f109f771b98v a ns1:Book ;
     ns1:author "Flore Vesco"^^xsd:string ;
-    ns1:award "Prix Imaginales - Catégorie Jeunesse",
+    ns1:award "Prix Imaginales : Catégorie Jeunesse",
         "Prix Val Cérou",
         "Prix Vendredi" ;
     ns1:dateReceived "2019"^^xsd:gYear,
@@ -9804,7 +9805,6 @@ ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b338 a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
     ns1:award "Prix Du Livre Jeunesse Des Bibliothèques De Montréal",
         "Prix Harry Black De L'Album Jeunesse",
-        "Prix Harry-Black De L’Album Jeunesse",
         "Prix Littéraires Du Gouverneur Général Du Canada",
         "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse",
         "Prix Td De Littérature Jeunesse Canadienne" ;
@@ -13574,7 +13574,7 @@ ns1:Book5f5ebcbc-d786-4e45-8c3c-805aeff63b9f a ns1:Book ;
 ns1:Book5f7fadee-99c9-4fee-a1a9-0cdeb861ace7 a ns1:Book ;
     ns1:author "Gérard DuBois"^^xsd:string ;
     ns1:award "Prix Harry Black De L'Album Jeunesse",
-        "Prix Harry-Black De L’Album Jeunesse" ;
+        "Prix Harry Black De L'Album Jeunesse" ;
     ns1:dateReceived "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
@@ -14226,7 +14226,7 @@ ns1:Book67b7e72b-8981-44f6-8f8f-2e39af176ad8 a ns1:Book ;
 ns1:Book67b8f6c2-726f-4645-90e7-142722bb0e49 a ns1:Book ;
     ns1:author "Damien Galisson"^^xsd:string ;
     ns1:award "Grand Prix De L'Imaginaire",
-        "Prix Imaginales - Catégorie Jeunesse" ;
+        "Prix Imaginales : Catégorie Jeunesse" ;
     ns1:dateReceived "2023"^^xsd:gYear ;
     ns1:genre "Jeunesse",
         "Roman jeunesse francophone"^^xsd:string ;
@@ -15977,8 +15977,7 @@ ns1:Book81fc435-9487-4e51-9c61-4bcf29f875a4 a ns1:Book ;
 
 ns1:Book820b9648-8659-4840-b75c-0cde1f42834a a ns1:Book ;
     ns1:author "Dominique Leroux"^^xsd:string ;
-    ns1:award "Prix Harry Black De L'Album Jeunesse",
-        "Prix Harry-Black De L’Album Jeunesse" ;
+    ns1:award "Prix Harry Black De L'Album Jeunesse" ;
     ns1:dateReceived "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
@@ -17116,7 +17115,7 @@ ns1:Book971e5665-d4a2-4d7e-85a2-ff83d0b9cb0f a ns1:Book ;
 
 ns1:Book9756e976-430b-4622-9118-20c8a1bfe913 a ns1:Book ;
     ns1:author "Vincent Gagnon"^^xsd:string ;
-    ns1:award "Prix Harry-Black De L’Album Jeunesse",
+    ns1:award "Prix Harry Black De L'Album Jeunesse",
         "Prix Td De Littérature Jeunesse Canadienne" ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -17238,7 +17237,7 @@ ns1:Book99a3c9a2-145e-4916-9b09-963ab4e5e6e3 a ns1:Book ;
 ns1:Book9a007984-83cb-4490-8641-7beafc4f6c2a a ns1:Book ;
     ns1:author "Aurélie Grand"^^xsd:string ;
     ns1:award "Prix Harry Black De L'Album Jeunesse",
-        "Prix Harry-Black De L’Album Jeunesse" ;
+        "Prix Harry Black De L'Album Jeunesse" ;
     ns1:dateReceived "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
@@ -19468,7 +19467,7 @@ ns1:Bookb5aeb25-b6e4-4c72-b872-536207f6616e22 a ns1:Book ;
 ns1:Bookb5ce48fe-c31d-414a-9799-11b83905d9d7 a ns1:Book ;
     ns1:author "Estelle Faye"^^xsd:string ;
     ns1:award "Livre",
-        "Prix Imaginales - Catégorie Jeunesse" ;
+        "Prix Imaginales : Catégorie Jeunesse" ;
     ns1:dateReceived "2019"^^xsd:gYear,
         "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
@@ -30449,7 +30448,7 @@ ns1:Booked7a4921-0d39-4370-c445-9ca6b61df9d100 a ns1:Book ;
 
 ns1:Booked7a4921-0d39-4370-c445-9ca6b61df9d101 a ns1:Book ;
     ns1:author "Sally Green"^^xsd:string ;
-    ns1:award "Prix Imaginales - Catégorie Jeunesse" ;
+    ns1:award "Prix Imaginales : Catégorie Jeunesse" ;
     ns1:dateReceived "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
     ns1:inLanguage "Francais" ;
@@ -30575,7 +30574,7 @@ ns1:Booked7a4921-0d39-4370-d445-9ca6b61df9d7 a ns1:Book ;
 
 ns1:Booked7a4921-0d39-4370-e445-9ca6b61df9d102 a ns1:Book ;
     ns1:author "Nnedi Okorafor"^^xsd:string ;
-    ns1:award "Prix Imaginales - Catégorie Jeunesse" ;
+    ns1:award "Prix Imaginales : Catégorie Jeunesse" ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
     ns1:inLanguage "Francais" ;

@@ -1,1925 +1,1928 @@
 @prefix ns1: <http://schema.org/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-ns1:12_Bis a ns1:Organization ;
+ns1:Publisher rdfs:subClassOf ns1:Organization .
+
+ns1:12_Bis a ns1:Publisher ;
     ns1:name "12 Bis"^^xsd:string .
 
-ns1:2024 a ns1:Organization ;
+ns1:2024 a ns1:Publisher ;
     ns1:name "2024"^^xsd:string .
 
-ns1:ABC_Melody a ns1:Organization ;
+ns1:ABC_Melody a ns1:Publisher ;
     ns1:name "ABC Melody"^^xsd:string .
 
-ns1:A_Pas_De_Loups a ns1:Organization ;
+ns1:A_Pas_De_Loups a ns1:Publisher ;
     ns1:name "A Pas De Loups"^^xsd:string .
 
-ns1:Actusf a ns1:Organization ;
+ns1:Actusf a ns1:Publisher ;
     ns1:name "Actusf"^^xsd:string .
 
-ns1:AdA a ns1:Organization ;
+ns1:AdA a ns1:Publisher ;
     ns1:name "AdA"^^xsd:string .
 
-ns1:Akata a ns1:Organization ;
+ns1:Akata a ns1:Publisher ;
     ns1:name "Akata"^^xsd:string .
 
-ns1:Algonquin_Young_Readers_Workman a ns1:Organization ;
+ns1:Algonquin_Young_Readers_Workman a ns1:Publisher ;
     ns1:name "Algonquin Young Readers/Workman"^^xsd:string .
 
-ns1:Alto a ns1:Organization ;
+ns1:Alto a ns1:Publisher ;
     ns1:name "Alto"^^xsd:string .
 
-ns1:Amalthée a ns1:Organization ;
+ns1:Amalthée a ns1:Publisher ;
     ns1:name "Amalthée"^^xsd:string .
 
-ns1:Amanita_Design_Studio a ns1:Organization ;
+ns1:Amanita_Design_Studio a ns1:Publisher ;
     ns1:name "Amanita Design Studio"^^xsd:string .
 
-ns1:Amaterra a ns1:Organization ;
+ns1:Amaterra a ns1:Publisher ;
     ns1:name "Amaterra"^^xsd:string .
 
-ns1:Amnesty_International a ns1:Organization ;
+ns1:Amnesty_International a ns1:Publisher ;
     ns1:name "Amnesty International"^^xsd:string .
 
-ns1:Anderson_Press a ns1:Organization ;
+ns1:Anderson_Press a ns1:Publisher ;
     ns1:name "Anderson Press"^^xsd:string .
 
-ns1:Anik_Lafrenière a ns1:Organization ;
+ns1:Anik_Lafrenière a ns1:Publisher ;
     ns1:name "Anik Lafrenière"^^xsd:string .
 
-ns1:Ankama a ns1:Organization ;
+ns1:Ankama a ns1:Publisher ;
     ns1:name "Ankama"^^xsd:string .
 
-ns1:Anne_Carrière a ns1:Organization ;
+ns1:Anne_Carrière a ns1:Publisher ;
     ns1:name "Anne Carrière"^^xsd:string .
 
-ns1:Annick a ns1:Organization ;
+ns1:Annick a ns1:Publisher ;
     ns1:name "Annick"^^xsd:string .
 
-ns1:Arena_Verlag a ns1:Organization ;
+ns1:Arena_Verlag a ns1:Publisher ;
     ns1:name "Arena Verlag"^^xsd:string .
 
-ns1:Arléa a ns1:Organization ;
+ns1:Arléa a ns1:Publisher ;
     ns1:name "Arléa"^^xsd:string .
 
-ns1:Arola a ns1:Organization ;
+ns1:Arola a ns1:Publisher ;
     ns1:name "Arola"^^xsd:string .
 
-ns1:Art_Lys a ns1:Organization ;
+ns1:Art_Lys a ns1:Publisher ;
     ns1:name "Art Lys"^^xsd:string .
 
-ns1:Arte a ns1:Organization ;
+ns1:Arte a ns1:Publisher ;
     ns1:name "Arte"^^xsd:string .
 
-ns1:Askip a ns1:Organization ;
+ns1:Askip a ns1:Publisher ;
     ns1:name "Askip"^^xsd:string .
 
-ns1:Asuka a ns1:Organization ;
+ns1:Asuka a ns1:Publisher ;
     ns1:name "Asuka"^^xsd:string .
 
-ns1:Atd_Quart_Monde a ns1:Organization ;
+ns1:Atd_Quart_Monde a ns1:Publisher ;
     ns1:name "Atd Quart Monde"^^xsd:string .
 
-ns1:Atelier_Des_Nomades a ns1:Organization ;
+ns1:Atelier_Des_Nomades a ns1:Publisher ;
     ns1:name "Atelier Des Nomades"^^xsd:string .
 
-ns1:Atelier_Du_Poisson_Soluble a ns1:Organization ;
+ns1:Atelier_Du_Poisson_Soluble a ns1:Publisher ;
     ns1:name "Atelier Du Poisson Soluble"^^xsd:string .
 
-ns1:Atlantis a ns1:Organization ;
+ns1:Atlantis a ns1:Publisher ;
     ns1:name "Atlantis"^^xsd:string .
 
-ns1:Attila a ns1:Organization ;
+ns1:Attila a ns1:Publisher ;
     ns1:name "Attila"^^xsd:string .
 
-ns1:Au_Diable_Vauvert a ns1:Organization ;
+ns1:Au_Diable_Vauvert a ns1:Publisher ;
     ns1:name "Au Diable Vauvert"^^xsd:string .
 
-ns1:Autochenille_Production a ns1:Organization ;
+ns1:Autochenille_Production a ns1:Publisher ;
     ns1:name "Autochenille Production"^^xsd:string .
 
-ns1:Auzou a ns1:Organization ;
+ns1:Auzou a ns1:Publisher ;
     ns1:name "Auzou"^^xsd:string .
 
-ns1:Baam a ns1:Organization ;
+ns1:Baam a ns1:Publisher ;
     ns1:name "Baam"^^xsd:string .
 
-ns1:Babel_Libros a ns1:Organization ;
+ns1:Babel_Libros a ns1:Publisher ;
     ns1:name "Babel Libros"^^xsd:string .
 
-ns1:Balivernes a ns1:Organization ;
+ns1:Balivernes a ns1:Publisher ;
     ns1:name "Balivernes"^^xsd:string .
 
-ns1:Bamboo a ns1:Organization ;
+ns1:Bamboo a ns1:Publisher ;
     ns1:name "Bamboo"^^xsd:string .
 
-ns1:Bandal a ns1:Organization ;
+ns1:Bandal a ns1:Publisher ;
     ns1:name "Bandal"^^xsd:string .
 
-ns1:Barrington_Stoke a ns1:Organization ;
+ns1:Barrington_Stoke a ns1:Publisher ;
     ns1:name "Barrington Stoke"^^xsd:string .
 
-ns1:Belem a ns1:Organization ;
+ns1:Belem a ns1:Publisher ;
     ns1:name "Belem"^^xsd:string .
 
-ns1:Belles_Lettres a ns1:Organization ;
+ns1:Belles_Lettres a ns1:Publisher ;
     ns1:name "Belles Lettres"^^xsd:string .
 
-ns1:Beltz___Gelberg a ns1:Organization ;
+ns1:Beltz___Gelberg a ns1:Publisher ;
     ns1:name "Beltz & Gelberg"^^xsd:string .
 
-ns1:Benoît_Jacques_Books a ns1:Organization ;
+ns1:Benoît_Jacques_Books a ns1:Publisher ;
     ns1:name "Benoît Jacques Books"^^xsd:string .
 
-ns1:Bertrand_Gauthier a ns1:Organization ;
+ns1:Bertrand_Gauthier a ns1:Publisher ;
     ns1:name "Bertrand Gauthier"^^xsd:string .
 
-ns1:Big_Picture_Press a ns1:Organization ;
+ns1:Big_Picture_Press a ns1:Publisher ;
     ns1:name "Big Picture Press"^^xsd:string .
 
-ns1:Bilboquet a ns1:Organization ;
+ns1:Bilboquet a ns1:Publisher ;
     ns1:name "Bilboquet"^^xsd:string .
 
-ns1:Bir_Publishing a ns1:Organization ;
+ns1:Bir_Publishing a ns1:Publisher ;
     ns1:name "Bir Publishing"^^xsd:string .
 
-ns1:Bloomsbury a ns1:Organization ;
+ns1:Bloomsbury a ns1:Publisher ;
     ns1:name "Bloomsbury"^^xsd:string .
 
-ns1:Bodley_Head a ns1:Organization ;
+ns1:Bodley_Head a ns1:Publisher ;
     ns1:name "Bodley Head"^^xsd:string .
 
-ns1:Boomerang a ns1:Organization ;
+ns1:Boomerang a ns1:Publisher ;
     ns1:name "Boomerang"^^xsd:string .
 
-ns1:Boréal a ns1:Organization ;
+ns1:Boréal a ns1:Publisher ;
     ns1:name "Boréal"^^xsd:string .
 
-ns1:Bouton_DOr_Acadie a ns1:Organization ;
+ns1:Bouton_DOr_Acadie a ns1:Publisher ;
     ns1:name "Bouton D'Or Acadie"^^xsd:string .
 
-ns1:Bragelonne a ns1:Organization ;
+ns1:Bragelonne a ns1:Publisher ;
     ns1:name "Bragelonne"^^xsd:string .
 
-ns1:Brown_Books_for_Young_Readers a ns1:Organization ;
+ns1:Brown_Books_for_Young_Readers a ns1:Publisher ;
     ns1:name "Brown Books for Young Readers"^^xsd:string .
 
-ns1:Bruno_Doucey a ns1:Organization ;
+ns1:Bruno_Doucey a ns1:Publisher ;
     ns1:name "Bruno Doucey"^^xsd:string .
 
-ns1:Bulles_De_Savon a ns1:Organization ;
+ns1:Bulles_De_Savon a ns1:Publisher ;
     ns1:name "Bulles De Savon"^^xsd:string .
 
-ns1:Ca_Et_Là a ns1:Organization ;
+ns1:Ca_Et_Là a ns1:Publisher ;
     ns1:name "Ca Et Là"^^xsd:string .
 
-ns1:Cabédita a ns1:Organization ;
+ns1:Cabédita a ns1:Publisher ;
     ns1:name "Cabédita"^^xsd:string .
 
-ns1:Cadex a ns1:Organization ;
+ns1:Cadex a ns1:Publisher ;
     ns1:name "Cadex"^^xsd:string .
 
-ns1:Calligram a ns1:Organization ;
+ns1:Calligram a ns1:Publisher ;
     ns1:name "Calligram"^^xsd:string .
 
-ns1:Calmann-Lévy a ns1:Organization ;
+ns1:Calmann-Lévy a ns1:Publisher ;
     ns1:name "Calmann-Lévy"^^xsd:string .
 
-ns1:Cambourakis a ns1:Organization ;
+ns1:Cambourakis a ns1:Publisher ;
     ns1:name "Cambourakis"^^xsd:string .
 
-ns1:Candlewick_Press a ns1:Organization ;
+ns1:Candlewick_Press a ns1:Publisher ;
     ns1:name "Candlewick Press"^^xsd:string .
 
-ns1:Canicola a ns1:Organization ;
+ns1:Canicola a ns1:Publisher ;
     ns1:name "Canicola"^^xsd:string .
 
-ns1:Cap_Aux_Diamants a ns1:Organization ;
+ns1:Cap_Aux_Diamants a ns1:Publisher ;
     ns1:name "Cap Aux Diamants"^^xsd:string .
 
-ns1:Cape a ns1:Organization ;
+ns1:Cape a ns1:Publisher ;
     ns1:name "Cape"^^xsd:string .
 
-ns1:Carbone_14 a ns1:Organization ;
+ns1:Carbone_14 a ns1:Publisher ;
     ns1:name "Carbone 14"^^xsd:string .
 
-ns1:Cardinal a ns1:Organization ;
+ns1:Cardinal a ns1:Publisher ;
     ns1:name "Cardinal"^^xsd:string .
 
-ns1:Carl_Hanser_Verlag a ns1:Organization ;
+ns1:Carl_Hanser_Verlag a ns1:Publisher ;
     ns1:name "Carl Hanser Verlag"^^xsd:string .
 
-ns1:Carlsen a ns1:Organization ;
+ns1:Carlsen a ns1:Publisher ;
     ns1:name "Carlsen"^^xsd:string .
 
-ns1:Carole_Tremblay a ns1:Organization ;
+ns1:Carole_Tremblay a ns1:Publisher ;
     ns1:name "Carole Tremblay"^^xsd:string .
 
-ns1:Carrefour_Communication a ns1:Organization ;
+ns1:Carrefour_Communication a ns1:Publisher ;
     ns1:name "Carrefour Communication"^^xsd:string .
 
-ns1:Castelmore a ns1:Organization ;
+ns1:Castelmore a ns1:Publisher ;
     ns1:name "Castelmore"^^xsd:string .
 
-ns1:Centre_De_Créations_De_Tinqueux a ns1:Organization ;
+ns1:Centre_De_Créations_De_Tinqueux a ns1:Publisher ;
     ns1:name "Centre De Créations De Tinqueux"^^xsd:string .
 
-ns1:Changbi_Publishers a ns1:Organization ;
+ns1:Changbi_Publishers a ns1:Publisher ;
     ns1:name "Changbi Publishers"^^xsd:string .
 
-ns1:Chat_Noir a ns1:Organization ;
+ns1:Chat_Noir a ns1:Publisher ;
     ns1:name "Chat Noir"^^xsd:string .
 
-ns1:Chauve-souris a ns1:Organization ;
+ns1:Chauve-souris a ns1:Publisher ;
     ns1:name "Chauve-souris"^^xsd:string .
 
-ns1:Cheyne a ns1:Organization ;
+ns1:Cheyne a ns1:Publisher ;
     ns1:name "Cheyne"^^xsd:string .
 
-ns1:Chocolat a ns1:Organization ;
+ns1:Chocolat a ns1:Publisher ;
     ns1:name "Chocolat"^^xsd:string .
 
-ns1:Christiane_Duchesne a ns1:Organization ;
+ns1:Christiane_Duchesne a ns1:Publisher ;
     ns1:name "Christiane Duchesne"^^xsd:string .
 
-ns1:Chronicle_Books a ns1:Organization ;
+ns1:Chronicle_Books a ns1:Publisher ;
     ns1:name "Chronicle Books"^^xsd:string .
 
-ns1:Circonflexe a ns1:Organization ;
+ns1:Circonflexe a ns1:Publisher ;
     ns1:name "Circonflexe"^^xsd:string .
 
-ns1:Citizen_Kid a ns1:Organization ;
+ns1:Citizen_Kid a ns1:Publisher ;
     ns1:name "Citizen Kid"^^xsd:string .
 
-ns1:Clockwise_Press a ns1:Organization ;
+ns1:Clockwise_Press a ns1:Publisher ;
     ns1:name "Clockwise Press"^^xsd:string .
 
-ns1:Clovis a ns1:Organization ;
+ns1:Clovis a ns1:Publisher ;
     ns1:name "Clovis"^^xsd:string .
 
-ns1:Comme_Des_Géants a ns1:Organization ;
+ns1:Comme_Des_Géants a ns1:Publisher ;
     ns1:name "Comme Des Géants"^^xsd:string .
 
-ns1:Companhia_Das_Letrinhas a ns1:Organization ;
+ns1:Companhia_Das_Letrinhas a ns1:Publisher ;
     ns1:name "Companhia Das Letrinhas"^^xsd:string .
 
-ns1:Constable a ns1:Organization ;
+ns1:Constable a ns1:Publisher ;
     ns1:name "Constable"^^xsd:string .
 
-ns1:Corps_Puce a ns1:Organization ;
+ns1:Corps_Puce a ns1:Publisher ;
     ns1:name "Corps Puce"^^xsd:string .
 
-ns1:Cosac_Naify a ns1:Organization ;
+ns1:Cosac_Naify a ns1:Publisher ;
     ns1:name "Cosac Naify"^^xsd:string .
 
-ns1:Cotcotcot a ns1:Organization ;
+ns1:Cotcotcot a ns1:Publisher ;
     ns1:name "Cotcotcot"^^xsd:string .
 
-ns1:Courtes_Et_Longues a ns1:Organization ;
+ns1:Courtes_Et_Longues a ns1:Publisher ;
     ns1:name "Courtes Et Longues"^^xsd:string .
 
-ns1:Crirconflexe a ns1:Organization ;
+ns1:Crirconflexe a ns1:Publisher ;
     ns1:name "Crirconflexe"^^xsd:string .
 
-ns1:Créatif_Trace a ns1:Organization ;
+ns1:Créatif_Trace a ns1:Publisher ;
     ns1:name "Créatif Trace"^^xsd:string .
 
-ns1:Cáceres_Alboroto_Ediciones a ns1:Organization ;
+ns1:Cáceres_Alboroto_Ediciones a ns1:Publisher ;
     ns1:name "Cáceres Alboroto Ediciones"^^xsd:string .
 
-ns1:Cécile_Gagnon a ns1:Organization ;
+ns1:Cécile_Gagnon a ns1:Publisher ;
     ns1:name "Cécile Gagnon"^^xsd:string .
 
-ns1:Cépages a ns1:Organization ;
+ns1:Cépages a ns1:Publisher ;
     ns1:name "Cépages"^^xsd:string .
 
-ns1:DEux a ns1:Organization ;
+ns1:DEux a ns1:Publisher ;
     ns1:name "D'Eux"^^xsd:string .
 
-ns1:Dada a ns1:Organization ;
+ns1:Dada a ns1:Publisher ;
     ns1:name "Dada"^^xsd:string .
 
-ns1:Dalimen a ns1:Organization ;
+ns1:Dalimen a ns1:Publisher ;
     ns1:name "Dalimen"^^xsd:string .
 
-ns1:Daniel_Maghen a ns1:Organization ;
+ns1:Daniel_Maghen a ns1:Publisher ;
     ns1:name "Daniel Maghen"^^xsd:string .
 
-ns1:Dar_An-Nahar a ns1:Organization ;
+ns1:Dar_An-Nahar a ns1:Publisher ;
     ns1:name "Dar An-Nahar"^^xsd:string .
 
-ns1:Dar_Onboz a ns1:Organization ;
+ns1:Dar_Onboz a ns1:Publisher ;
     ns1:name "Dar Onboz"^^xsd:string .
 
-ns1:Dargaud a ns1:Organization ;
+ns1:Dargaud a ns1:Publisher ;
     ns1:name "Dargaud"^^xsd:string .
 
-ns1:David a ns1:Organization ;
+ns1:David a ns1:Publisher ;
     ns1:name "David"^^xsd:string .
 
-ns1:David_Fickling a ns1:Organization ;
+ns1:David_Fickling a ns1:Publisher ;
     ns1:name "David Fickling"^^xsd:string .
 
-ns1:Dcb a ns1:Organization ;
+ns1:Dcb a ns1:Publisher ;
     ns1:name "Dcb"^^xsd:string .
 
-ns1:De_La_Liberté a ns1:Organization ;
+ns1:De_La_Liberté a ns1:Publisher ;
     ns1:name "De La Liberté"^^xsd:string .
 
-ns1:De_La_Réunion_Des_Musées_Nationaux a ns1:Organization ;
+ns1:De_La_Réunion_Des_Musées_Nationaux a ns1:Publisher ;
     ns1:name "De La Réunion Des Musées Nationaux"^^xsd:string .
 
-ns1:De_Plaines_En_Vallées a ns1:Organization ;
+ns1:De_Plaines_En_Vallées a ns1:Publisher ;
     ns1:name "De Plaines En Vallées"^^xsd:string .
 
-ns1:Delcourt a ns1:Organization ;
+ns1:Delcourt a ns1:Publisher ;
     ns1:name "Delcourt"^^xsd:string .
 
-ns1:Denis_Côté a ns1:Organization ;
+ns1:Denis_Côté a ns1:Publisher ;
     ns1:name "Denis Côté"^^xsd:string .
 
-ns1:Denoël a ns1:Organization ;
+ns1:Denoël a ns1:Publisher ;
     ns1:name "Denoël"^^xsd:string .
 
-ns1:Dent-De-Lion a ns1:Organization ;
+ns1:Dent-De-Lion a ns1:Publisher ;
     ns1:name "Dent-De-Lion"^^xsd:string .
 
-ns1:Des_Ronds_Dans_LO a ns1:Organization ;
+ns1:Des_Ronds_Dans_LO a ns1:Publisher ;
     ns1:name "Des Ronds Dans L'O"^^xsd:string .
 
-ns1:Des_Éléphants a ns1:Organization ;
+ns1:Des_Éléphants a ns1:Publisher ;
     ns1:name "Des Éléphants"^^xsd:string .
 
-ns1:Desclé_De_Brouwer a ns1:Organization ;
+ns1:Desclé_De_Brouwer a ns1:Publisher ;
     ns1:name "Desclé De Brouwer"^^xsd:string .
 
-ns1:Dessain a ns1:Organization ;
+ns1:Dessain a ns1:Publisher ;
     ns1:name "Dessain"^^xsd:string .
 
-ns1:Diffusion_Raffin a ns1:Organization ;
+ns1:Diffusion_Raffin a ns1:Publisher ;
     ns1:name "Diffusion Raffin"^^xsd:string .
 
-ns1:Doki-Doki a ns1:Organization ;
+ns1:Doki-Doki a ns1:Publisher ;
     ns1:name "Doki-Doki"^^xsd:string .
 
-ns1:Dominique_Et_Compagnie a ns1:Organization ;
+ns1:Dominique_Et_Compagnie a ns1:Publisher ;
     ns1:name "Dominique Et Compagnie"^^xsd:string .
 
-ns1:Don_Quichotte a ns1:Organization ;
+ns1:Don_Quichotte a ns1:Publisher ;
     ns1:name "Don Quichotte"^^xsd:string .
 
-ns1:Donner_À_Voir a ns1:Organization ;
+ns1:Donner_À_Voir a ns1:Publisher ;
     ns1:name "Donner À Voir"^^xsd:string .
 
-ns1:Doubleday a ns1:Organization ;
+ns1:Doubleday a ns1:Publisher ;
     ns1:name "Doubleday"^^xsd:string .
 
-ns1:Drakoo a ns1:Organization ;
+ns1:Drakoo a ns1:Publisher ;
     ns1:name "Drakoo"^^xsd:string .
 
-ns1:Dramaturges a ns1:Organization ;
+ns1:Dramaturges a ns1:Publisher ;
     ns1:name "Dramaturges"^^xsd:string .
 
-ns1:Dressler_Verlag a ns1:Organization ;
+ns1:Dressler_Verlag a ns1:Publisher ;
     ns1:name "Dressler Verlag"^^xsd:string .
 
-ns1:Druide a ns1:Organization ;
+ns1:Druide a ns1:Publisher ;
     ns1:name "Druide"^^xsd:string .
 
-ns1:Du_Blé a ns1:Organization ;
+ns1:Du_Blé a ns1:Publisher ;
     ns1:name "Du Blé"^^xsd:string .
 
-ns1:Du_Centurion a ns1:Organization ;
+ns1:Du_Centurion a ns1:Publisher ;
     ns1:name "Du Centurion"^^xsd:string .
 
-ns1:Du_Phœnix a ns1:Organization ;
+ns1:Du_Phœnix a ns1:Publisher ;
     ns1:name "Du Phœnix"^^xsd:string .
 
-ns1:Du_Remue-Ménage a ns1:Organization ;
+ns1:Du_Remue-Ménage a ns1:Publisher ;
     ns1:name "Du Remue-Ménage"^^xsd:string .
 
-ns1:Du_Ricochet a ns1:Organization ;
+ns1:Du_Ricochet a ns1:Publisher ;
     ns1:name "Du Ricochet"^^xsd:string .
 
-ns1:Duculot a ns1:Organization ;
+ns1:Duculot a ns1:Publisher ;
     ns1:name "Duculot"^^xsd:string .
 
-ns1:Dupuis a ns1:Organization ;
+ns1:Dupuis a ns1:Publisher ;
     ns1:name "Dupuis"^^xsd:string .
 
-ns1:Ediprim a ns1:Organization ;
+ns1:Ediprim a ns1:Publisher ;
     ns1:name "Ediprim"^^xsd:string .
 
-ns1:Ekaré a ns1:Organization ;
+ns1:Ekaré a ns1:Publisher ;
     ns1:name "Ekaré"^^xsd:string .
 
-ns1:El_Colegio_de_México a ns1:Organization ;
+ns1:El_Colegio_de_México a ns1:Publisher ;
     ns1:name "El Colegio de México"^^xsd:string .
 
-ns1:El_Ibriz a ns1:Organization ;
+ns1:El_Ibriz a ns1:Publisher ;
     ns1:name "El Ibriz"^^xsd:string .
 
-ns1:Electric_Monkey a ns1:Organization ;
+ns1:Electric_Monkey a ns1:Publisher ;
     ns1:name "Electric Monkey"^^xsd:string .
 
-ns1:Encrage a ns1:Organization ;
+ns1:Encrage a ns1:Publisher ;
     ns1:name "Encrage"^^xsd:string .
 
-ns1:Escabelle a ns1:Organization ;
+ns1:Escabelle a ns1:Publisher ;
     ns1:name "Escabelle"^^xsd:string .
 
-ns1:Espaces_34 a ns1:Organization ;
+ns1:Espaces_34 a ns1:Publisher ;
     ns1:name "Espaces 34"^^xsd:string .
 
-ns1:Esperluette a ns1:Organization ;
+ns1:Esperluette a ns1:Publisher ;
     ns1:name "Esperluette"^^xsd:string .
 
-ns1:Espoir_En_Canne a ns1:Organization ;
+ns1:Espoir_En_Canne a ns1:Publisher ;
     ns1:name "Espoir En Canne"^^xsd:string .
 
-ns1:Faber a ns1:Organization ;
+ns1:Faber a ns1:Publisher ;
     ns1:name "Faber"^^xsd:string .
 
-ns1:Fallois a ns1:Organization ;
+ns1:Fallois a ns1:Publisher ;
     ns1:name "Fallois"^^xsd:string .
 
-ns1:Farrar_Straus_Giroux a ns1:Organization ;
+ns1:Farrar_Straus_Giroux a ns1:Publisher ;
     ns1:name "Farrar Straus Giroux"^^xsd:string .
 
-ns1:Fayard a ns1:Organization ;
+ns1:Fayard a ns1:Publisher ;
     ns1:name "Fayard"^^xsd:string .
 
-ns1:Fei a ns1:Organization ;
+ns1:Fei a ns1:Publisher ;
     ns1:name "Fei"^^xsd:string .
 
-ns1:Fides a ns1:Organization ;
+ns1:Fides a ns1:Publisher ;
     ns1:name "Fides"^^xsd:string .
 
-ns1:Figures_Futur a ns1:Organization ;
+ns1:Figures_Futur a ns1:Publisher ;
     ns1:name "Figures Futur"^^xsd:string .
 
-ns1:Fitzhenry___Whiteside a ns1:Organization ;
+ns1:Fitzhenry___Whiteside a ns1:Publisher ;
     ns1:name "Fitzhenry & Whiteside"^^xsd:string .
 
-ns1:Fiva a ns1:Organization ;
+ns1:Fiva a ns1:Publisher ;
     ns1:name "Fiva"^^xsd:string .
 
-ns1:Fleurus a ns1:Organization ;
+ns1:Fleurus a ns1:Publisher ;
     ns1:name "Fleurus"^^xsd:string .
 
-ns1:Fleuve_Noir a ns1:Organization ;
+ns1:Fleuve_Noir a ns1:Publisher ;
     ns1:name "Fleuve Noir"^^xsd:string .
 
-ns1:Flying_Eye_Books a ns1:Organization ;
+ns1:Flying_Eye_Books a ns1:Publisher ;
     ns1:name "Flying Eye Books"^^xsd:string .
 
-ns1:Folio_Sf a ns1:Organization ;
+ns1:Folio_Sf a ns1:Publisher ;
     ns1:name "Folio Sf"^^xsd:string .
 
-ns1:Fonfon a ns1:Organization ;
+ns1:Fonfon a ns1:Publisher ;
     ns1:name "Fonfon"^^xsd:string .
 
-ns1:FouLire a ns1:Organization ;
+ns1:FouLire a ns1:Publisher ;
     ns1:name "FouLire"^^xsd:string .
 
-ns1:Francess_Lincoln a ns1:Organization ;
+ns1:Francess_Lincoln a ns1:Publisher ;
     ns1:name "Francess Lincoln"^^xsd:string .
 
-ns1:Francophonie a ns1:Organization ;
+ns1:Francophonie a ns1:Publisher ;
     ns1:name "Francophonie"^^xsd:string .
 
-ns1:François_Gravel a ns1:Organization ;
+ns1:François_Gravel a ns1:Publisher ;
     ns1:name "François Gravel"^^xsd:string .
 
-ns1:Frimousse a ns1:Organization ;
+ns1:Frimousse a ns1:Publisher ;
     ns1:name "Frimousse"^^xsd:string .
 
-ns1:Froissart a ns1:Organization ;
+ns1:Froissart a ns1:Publisher ;
     ns1:name "Froissart"^^xsd:string .
 
-ns1:Front_Froid a ns1:Organization ;
+ns1:Front_Froid a ns1:Publisher ;
     ns1:name "Front Froid"^^xsd:string .
 
-ns1:Fulgenco_Pimentel a ns1:Organization ;
+ns1:Fulgenco_Pimentel a ns1:Publisher ;
     ns1:name "Fulgenco Pimentel"^^xsd:string .
 
-ns1:GP_PutnamS_Sons_Penguin a ns1:Organization ;
+ns1:GP_PutnamS_Sons_Penguin a ns1:Publisher ;
     ns1:name "G.P. Putnam'S Sons/Penguin"^^xsd:string .
 
-ns1:Gautier_Languereau a ns1:Organization ;
+ns1:Gautier_Languereau a ns1:Publisher ;
     ns1:name "Gautier Languereau"^^xsd:string .
 
-ns1:Generation_Comics a ns1:Organization ;
+ns1:Generation_Comics a ns1:Publisher ;
     ns1:name "Generation Comics"^^xsd:string .
 
-ns1:Gerstenberg a ns1:Organization ;
+ns1:Gerstenberg a ns1:Publisher ;
     ns1:name "Gerstenberg"^^xsd:string .
 
-ns1:Greenwillow_Books a ns1:Organization ;
+ns1:Greenwillow_Books a ns1:Publisher ;
     ns1:name "Greenwillow Books"^^xsd:string .
 
-ns1:Greystone_Kids a ns1:Organization ;
+ns1:Greystone_Kids a ns1:Publisher ;
     ns1:name "Greystone Kids"^^xsd:string .
 
-ns1:Gros_Textes a ns1:Organization ;
+ns1:Gros_Textes a ns1:Publisher ;
     ns1:name "Gros Textes"^^xsd:string .
 
-ns1:Groundwood_Books a ns1:Organization ;
+ns1:Groundwood_Books a ns1:Publisher ;
     ns1:name "Groundwood Books"^^xsd:string .
 
-ns1:Gründ a ns1:Organization ;
+ns1:Gründ a ns1:Publisher ;
     ns1:name "Gründ"^^xsd:string .
 
-ns1:Gulf_Stream a ns1:Organization ;
+ns1:Gulf_Stream a ns1:Publisher ;
     ns1:name "Gulf Stream"^^xsd:string .
 
-ns1:Hamilton a ns1:Organization ;
+ns1:Hamilton a ns1:Publisher ;
     ns1:name "Hamilton"^^xsd:string .
 
-ns1:Hannenorak a ns1:Organization ;
+ns1:Hannenorak a ns1:Publisher ;
     ns1:name "Hannenorak"^^xsd:string .
 
-ns1:Hanser_Verlag a ns1:Organization ;
+ns1:Hanser_Verlag a ns1:Publisher ;
     ns1:name "Hanser Verlag"^^xsd:string .
 
-ns1:HarperCollins a ns1:Organization ;
+ns1:HarperCollins a ns1:Publisher ;
     ns1:name "HarperCollins"^^xsd:string .
 
-ns1:Hatem a ns1:Organization ;
+ns1:Hatem a ns1:Publisher ;
     ns1:name "Hatem"^^xsd:string .
 
-ns1:Hatier a ns1:Organization ;
+ns1:Hatier a ns1:Publisher ;
     ns1:name "Hatier"^^xsd:string .
 
-ns1:Heinemann a ns1:Organization ;
+ns1:Heinemann a ns1:Publisher ;
     ns1:name "Heinemann"^^xsd:string .
 
-ns1:Henry a ns1:Organization ;
+ns1:Henry a ns1:Publisher ;
     ns1:name "Henry"^^xsd:string .
 
-ns1:Hmh a ns1:Organization ;
+ns1:Hmh a ns1:Publisher ;
     ns1:name "Hmh"^^xsd:string .
 
-ns1:Hmh_Books_For_Young_Readers a ns1:Organization ;
+ns1:Hmh_Books_For_Young_Readers a ns1:Publisher ;
     ns1:name "Hmh Books For Young Readers"^^xsd:string .
 
-ns1:Hodder___Stoughton a ns1:Organization ;
+ns1:Hodder___Stoughton a ns1:Publisher ;
     ns1:name "Hodder & Stoughton"^^xsd:string .
 
-ns1:Hot_Key_Books a ns1:Organization ;
+ns1:Hot_Key_Books a ns1:Publisher ;
     ns1:name "Hot Key Books"^^xsd:string .
 
-ns1:Houghton_Mifflin_Harcourt a ns1:Organization ;
+ns1:Houghton_Mifflin_Harcourt a ns1:Publisher ;
     ns1:name "Houghton Mifflin Harcourt"^^xsd:string .
 
-ns1:Hsin_Yi_Publications a ns1:Organization ;
+ns1:Hsin_Yi_Publications a ns1:Publisher ;
     ns1:name "Hsin Yi Publications"^^xsd:string .
 
-ns1:Hugo a ns1:Organization ;
+ns1:Hugo a ns1:Publisher ;
     ns1:name "Hugo"^^xsd:string .
 
-ns1:Humains a ns1:Organization ;
+ns1:Humains a ns1:Publisher ;
     ns1:name "Humains"^^xsd:string .
 
-ns1:Hurtubise a ns1:Organization ;
+ns1:Hurtubise a ns1:Publisher ;
     ns1:name "Hurtubise"^^xsd:string .
 
-ns1:Hutchinson a ns1:Organization ;
+ns1:Hutchinson a ns1:Publisher ;
     ns1:name "Hutchinson"^^xsd:string .
 
-ns1:Héliotrope a ns1:Organization ;
+ns1:Héliotrope a ns1:Publisher ;
     ns1:name "Héliotrope"^^xsd:string .
 
-ns1:Hélium a ns1:Organization ;
+ns1:Hélium a ns1:Publisher ;
     ns1:name "Hélium"^^xsd:string .
 
-ns1:Héloïse_DOrmesson a ns1:Organization ;
+ns1:Héloïse_DOrmesson a ns1:Publisher ;
     ns1:name "Héloïse D'Ormesson"^^xsd:string .
 
-ns1:Héritage a ns1:Organization ;
+ns1:Héritage a ns1:Publisher ;
     ns1:name "Héritage"^^xsd:string .
 
-ns1:Imagine a ns1:Organization ;
+ns1:Imagine a ns1:Publisher ;
     ns1:name "Imagine"^^xsd:string .
 
-ns1:In8 a ns1:Organization ;
+ns1:In8 a ns1:Publisher ;
     ns1:name "In8"^^xsd:string .
 
-ns1:Intervista a ns1:Organization ;
+ns1:Intervista a ns1:Publisher ;
     ns1:name "Intervista"^^xsd:string .
 
-ns1:Isatis a ns1:Organization ;
+ns1:Isatis a ns1:Publisher ;
     ns1:name "Isatis"^^xsd:string .
 
-ns1:JC_Lattès a ns1:Organization ;
+ns1:JC_Lattès a ns1:Publisher ;
     ns1:name "JC Lattès"^^xsd:string .
 
-ns1:Jacoby___Stuart a ns1:Organization ;
+ns1:Jacoby___Stuart a ns1:Publisher ;
     ns1:name "Jacoby & Stuart"^^xsd:string .
 
-ns1:Jai_Lu a ns1:Organization ;
+ns1:Jai_Lu a ns1:Publisher ;
     ns1:name "J'ai Lu"^^xsd:string .
 
-ns1:James_Lorimer_And_Company a ns1:Organization ;
+ns1:James_Lorimer_And_Company a ns1:Publisher ;
     ns1:name "James Lorimer And Company"^^xsd:string .
 
-ns1:Jasmin a ns1:Organization ;
+ns1:Jasmin a ns1:Publisher ;
     ns1:name "Jasmin"^^xsd:string .
 
-ns1:Jasmine_Dubé a ns1:Organization ;
+ns1:Jasmine_Dubé a ns1:Publisher ;
     ns1:name "Jasmine Dubé"^^xsd:string .
 
-ns1:Joey_Cornu a ns1:Organization ;
+ns1:Joey_Cornu a ns1:Publisher ;
     ns1:name "Joey Cornu"^^xsd:string .
 
-ns1:Jonathan_Cape a ns1:Organization ;
+ns1:Jonathan_Cape a ns1:Publisher ;
     ns1:name "Jonathan Cape"^^xsd:string .
 
-ns1:Jules_La_Mouche a ns1:Organization ;
+ns1:Jules_La_Mouche a ns1:Publisher ;
     ns1:name "Jules La Mouche"^^xsd:string .
 
-ns1:Julia_Macrae a ns1:Organization ;
+ns1:Julia_Macrae a ns1:Publisher ;
     ns1:name "Julia Macrae"^^xsd:string .
 
-ns1:Julliard a ns1:Organization ;
+ns1:Julliard a ns1:Publisher ;
     ns1:name "Julliard"^^xsd:string .
 
-ns1:Jupilles a ns1:Organization ;
+ns1:Jupilles a ns1:Publisher ;
     ns1:name "Jupilles"^^xsd:string .
 
-ns1:Kalimat a ns1:Organization ;
+ns1:Kalimat a ns1:Publisher ;
     ns1:name "Kalimat"^^xsd:string .
 
-ns1:Kaléidoscope a ns1:Organization ;
+ns1:Kaléidoscope a ns1:Publisher ;
     ns1:name "Kaléidoscope"^^xsd:string .
 
-ns1:Kami a ns1:Organization ;
+ns1:Kami a ns1:Publisher ;
     ns1:name "Kami"^^xsd:string .
 
-ns1:Kamiti a ns1:Organization ;
+ns1:Kamiti a ns1:Publisher ;
     ns1:name "Kamiti"^^xsd:string .
 
-ns1:Kana a ns1:Organization ;
+ns1:Kana a ns1:Publisher ;
     ns1:name "Kana"^^xsd:string .
 
-ns1:Kata a ns1:Organization ;
+ns1:Kata a ns1:Publisher ;
     ns1:name "Kata"^^xsd:string .
 
-ns1:Kennes a ns1:Organization ;
+ns1:Kennes a ns1:Publisher ;
     ns1:name "Kennes"^^xsd:string .
 
-ns1:Kestrel a ns1:Organization ;
+ns1:Kestrel a ns1:Publisher ;
     ns1:name "Kestrel"^^xsd:string .
 
-ns1:Kestrel_And_Gollancz a ns1:Organization ;
+ns1:Kestrel_And_Gollancz a ns1:Publisher ;
     ns1:name "Kestrel And Gollancz"^^xsd:string .
 
-ns1:Ki-oon a ns1:Organization ;
+ns1:Ki-oon a ns1:Publisher ;
     ns1:name "Ki-oon"^^xsd:string .
 
-ns1:Kids_Can_Press a ns1:Organization ;
+ns1:Kids_Can_Press a ns1:Publisher ;
     ns1:name "Kids Can Press"^^xsd:string .
 
-ns1:Kilowatt a ns1:Organization ;
+ns1:Kilowatt a ns1:Publisher ;
     ns1:name "Kilowatt"^^xsd:string .
 
-ns1:Knights_Of a ns1:Organization ;
+ns1:Knights_Of a ns1:Publisher ;
     ns1:name "Knights Of"^^xsd:string .
 
-ns1:Komikku a ns1:Organization ;
+ns1:Komikku a ns1:Publisher ;
     ns1:name "Komikku"^^xsd:string .
 
-ns1:Kstr a ns1:Organization ;
+ns1:Kstr a ns1:Publisher ;
     ns1:name "Kstr"^^xsd:string .
 
-ns1:Kunstanstifter_Verlag a ns1:Organization ;
+ns1:Kunstanstifter_Verlag a ns1:Publisher ;
     ns1:name "Kunstanstifter Verlag"^^xsd:string .
 
-ns1:Kurokawa a ns1:Organization ;
+ns1:Kurokawa a ns1:Publisher ;
     ns1:name "Kurokawa"^^xsd:string .
 
-ns1:LAgapante a ns1:Organization ;
+ns1:LAgapante a ns1:Publisher ;
     ns1:name "L'Agapante"^^xsd:string .
 
-ns1:LAgrume a ns1:Organization ;
+ns1:LAgrume a ns1:Publisher ;
     ns1:name "L'Agrume"^^xsd:string .
 
-ns1:LAmitié a ns1:Organization ;
+ns1:LAmitié a ns1:Publisher ;
     ns1:name "L'Amitié"^^xsd:string .
 
-ns1:LArche a ns1:Organization ;
+ns1:LArche a ns1:Publisher ;
     ns1:name "L'Arche"^^xsd:string .
 
-ns1:LArchipel a ns1:Organization ;
+ns1:LArchipel a ns1:Publisher ;
     ns1:name "L'Archipel"^^xsd:string .
 
-ns1:LAtalante a ns1:Organization ;
+ns1:LAtalante a ns1:Publisher ;
     ns1:name "L'Atalante"^^xsd:string .
 
-ns1:LAvant-Scène a ns1:Organization ;
+ns1:LAvant-Scène a ns1:Publisher ;
     ns1:name "L'Avant-Scène"^^xsd:string .
 
-ns1:LEdune a ns1:Organization ;
+ns1:LEdune a ns1:Publisher ;
     ns1:name "L'Edune"^^xsd:string .
 
-ns1:LEmployé_Du_Moi a ns1:Organization ;
+ns1:LEmployé_Du_Moi a ns1:Publisher ;
     ns1:name "L'Employé Du Moi"^^xsd:string .
 
-ns1:LHarmattan a ns1:Organization ;
+ns1:LHarmattan a ns1:Publisher ;
     ns1:name "L'Harmattan"^^xsd:string .
 
-ns1:LHexagone a ns1:Organization ;
+ns1:LHexagone a ns1:Publisher ;
     ns1:name "L'Hexagone"^^xsd:string .
 
-ns1:LHomme_Sans_Nom a ns1:Organization ;
+ns1:LHomme_Sans_Nom a ns1:Publisher ;
     ns1:name "L'Homme Sans Nom"^^xsd:string .
 
-ns1:LInterligne a ns1:Organization ;
+ns1:LInterligne a ns1:Publisher ;
     ns1:name "L'Interligne"^^xsd:string .
 
-ns1:LOlivier a ns1:Organization ;
+ns1:LOlivier a ns1:Publisher ;
     ns1:name "L'Olivier"^^xsd:string .
 
-ns1:Delacorte a ns1:Organization ;
+ns1:Delacorte a ns1:Publisher ;
     ns1:name "Delacorte Press"^^xsd:string .
 
-ns1:La_Bagnole a ns1:Organization ;
+ns1:La_Bagnole a ns1:Publisher ;
     ns1:name "La Bagnole"^^xsd:string .
 
-ns1:La_Courte_Échelle a ns1:Organization ;
+ns1:La_Courte_Échelle a ns1:Publisher ;
     ns1:name "La Courte Échelle"^^xsd:string .
 
-ns1:La_Dérivée_Le_Seuil a ns1:Organization ;
+ns1:La_Dérivée_Le_Seuil a ns1:Publisher ;
     ns1:name "La Dérivée/Le Seuil"^^xsd:string .
 
-ns1:La_Farnadole a ns1:Organization ;
+ns1:La_Farnadole a ns1:Publisher ;
     ns1:name "La Farnadole"^^xsd:string .
 
-ns1:La_Fondation_Pour_LAlphabétisation a ns1:Organization ;
+ns1:La_Fondation_Pour_LAlphabétisation a ns1:Publisher ;
     ns1:name "La Fondation Pour L'Alphabétisation"^^xsd:string .
 
-ns1:La_Gouttière a ns1:Organization ;
+ns1:La_Gouttière a ns1:Publisher ;
     ns1:name "La Gouttière"^^xsd:string .
 
-ns1:La_Grande_Ourse a ns1:Organization ;
+ns1:La_Grande_Ourse a ns1:Publisher ;
     ns1:name "La Grande Ourse"^^xsd:string .
 
-ns1:La_Grenouillère a ns1:Organization ;
+ns1:La_Grenouillère a ns1:Publisher ;
     ns1:name "La Grenouillère"^^xsd:string .
 
-ns1:La_Joie_De_Lire a ns1:Organization ;
+ns1:La_Joie_De_Lire a ns1:Publisher ;
     ns1:name "La Joie De Lire"^^xsd:string .
 
-ns1:La_Librairie_Monet a ns1:Organization ;
+ns1:La_Librairie_Monet a ns1:Publisher ;
     ns1:name "La Librairie Monet"^^xsd:string .
 
-ns1:La_Maison_En_Feu a ns1:Organization ;
+ns1:La_Maison_En_Feu a ns1:Publisher ;
     ns1:name "La Maison En Feu"^^xsd:string .
 
-ns1:La_Maison_Est_En_Carton a ns1:Organization ;
+ns1:La_Maison_Est_En_Carton a ns1:Publisher ;
     ns1:name "La Maison Est En Carton"^^xsd:string .
 
-ns1:La_Mirandole a ns1:Organization ;
+ns1:La_Mirandole a ns1:Publisher ;
     ns1:name "La Mirandole"^^xsd:string .
 
-ns1:La_Montagne_Secrète a ns1:Organization ;
+ns1:La_Montagne_Secrète a ns1:Publisher ;
     ns1:name "La Montagne Secrète"^^xsd:string .
 
-ns1:La_Morue_Verte a ns1:Organization ;
+ns1:La_Morue_Verte a ns1:Publisher ;
     ns1:name "La Morue Verte"^^xsd:string .
 
-ns1:La_Paix a ns1:Organization ;
+ns1:La_Paix a ns1:Publisher ;
     ns1:name "La Paix"^^xsd:string .
 
-ns1:La_Palissade a ns1:Organization ;
+ns1:La_Palissade a ns1:Publisher ;
     ns1:name "La Palissade"^^xsd:string .
 
-ns1:La_Partie a ns1:Organization ;
+ns1:La_Partie a ns1:Publisher ;
     ns1:name "La Partie"^^xsd:string .
 
-ns1:La_Pastèque a ns1:Organization ;
+ns1:La_Pastèque a ns1:Publisher ;
     ns1:name "La Pastèque"^^xsd:string .
 
-ns1:La_Peuplade a ns1:Organization ;
+ns1:La_Peuplade a ns1:Publisher ;
     ns1:name "La Peuplade"^^xsd:string .
 
-ns1:La_Renarde_Rouge a ns1:Organization ;
+ns1:La_Renarde_Rouge a ns1:Publisher ;
     ns1:name "La Renarde Rouge"^^xsd:string .
 
-ns1:La_Ville_Brûle a ns1:Organization ;
+ns1:La_Ville_Brûle a ns1:Publisher ;
     ns1:name "La Ville Brûle"^^xsd:string .
 
-ns1:La_Volte a ns1:Organization ;
+ns1:La_Volte a ns1:Publisher ;
     ns1:name "La Volte"^^xsd:string .
 
-ns1:Labor a ns1:Organization ;
+ns1:Labor a ns1:Publisher ;
     ns1:name "Labor"^^xsd:string .
 
-ns1:Labyrint a ns1:Organization ;
+ns1:Labyrint a ns1:Publisher ;
     ns1:name "Labyrint"^^xsd:string .
 
-ns1:Lagoa_Editora a ns1:Organization ;
+ns1:Lagoa_Editora a ns1:Publisher ;
     ns1:name "Lagoa Editora"^^xsd:string .
 
-ns1:Langue_Au_Chat a ns1:Organization ;
+ns1:Langue_Au_Chat a ns1:Publisher ;
     ns1:name "Langue Au Chat"^^xsd:string .
 
-ns1:Larousse a ns1:Organization ;
+ns1:Larousse a ns1:Publisher ;
     ns1:name "Larousse"^^xsd:string .
 
-ns1:Le_Carrousel a ns1:Organization ;
+ns1:Le_Carrousel a ns1:Publisher ;
     ns1:name "Le Carrousel"^^xsd:string .
 
-ns1:Le_Cherche_Midi a ns1:Organization ;
+ns1:Le_Cherche_Midi a ns1:Publisher ;
     ns1:name "Le Cherche Midi"^^xsd:string .
 
-ns1:Le_Cheval_Daoût a ns1:Organization ;
+ns1:Le_Cheval_Daoût a ns1:Publisher ;
     ns1:name "Le Cheval D'août"^^xsd:string .
 
-ns1:Le_Genévrier a ns1:Organization ;
+ns1:Le_Genévrier a ns1:Publisher ;
     ns1:name "Le Genévrier"^^xsd:string .
 
-ns1:Le_Grand_Jardin a ns1:Organization ;
+ns1:Le_Grand_Jardin a ns1:Publisher ;
     ns1:name "Le Grand Jardin"^^xsd:string .
 
-ns1:Le_Livre_De_Poche a ns1:Organization ;
+ns1:Le_Livre_De_Poche a ns1:Publisher ;
     ns1:name "Le Livre De Poche"^^xsd:string .
 
-ns1:Le_Livre_De_Poche_Jeunesse a ns1:Organization ;
+ns1:Le_Livre_De_Poche_Jeunesse a ns1:Publisher ;
     ns1:name "Le Livre De Poche Jeunesse"^^xsd:string .
 
-ns1:Le_Lombard a ns1:Organization ;
+ns1:Le_Lombard a ns1:Publisher ;
     ns1:name "Le Lombard"^^xsd:string .
 
-ns1:Le_Masque a ns1:Organization ;
+ns1:Le_Masque a ns1:Publisher ;
     ns1:name "Le Masque"^^xsd:string .
 
-ns1:Le_Muscadier a ns1:Organization ;
+ns1:Le_Muscadier a ns1:Publisher ;
     ns1:name "Le Muscadier"^^xsd:string .
 
-ns1:Le_Navire_En_Pleine_Ville a ns1:Organization ;
+ns1:Le_Navire_En_Pleine_Ville a ns1:Publisher ;
     ns1:name "Le Navire En Pleine Ville"^^xsd:string .
 
-ns1:Le_Noroît a ns1:Organization ;
+ns1:Le_Noroît a ns1:Publisher ;
     ns1:name "Le Noroît"^^xsd:string .
 
-ns1:Le_Pré_Aux_Clercs a ns1:Organization ;
+ns1:Le_Pré_Aux_Clercs a ns1:Publisher ;
     ns1:name "Le Pré Aux Clercs"^^xsd:string .
 
-ns1:Le_Quartanier a ns1:Organization ;
+ns1:Le_Quartanier a ns1:Publisher ;
     ns1:name "Le Quartanier"^^xsd:string .
 
-ns1:Le_Raton_Laveur a ns1:Organization ;
+ns1:Le_Raton_Laveur a ns1:Publisher ;
     ns1:name "Le Raton Laveur"^^xsd:string .
 
-ns1:Le_Rocher_Jeunesse a ns1:Organization ;
+ns1:Le_Rocher_Jeunesse a ns1:Publisher ;
     ns1:name "Le Rocher Jeunesse"^^xsd:string .
 
-ns1:Le_Rouergue a ns1:Organization ;
+ns1:Le_Rouergue a ns1:Publisher ;
     ns1:name "Le Rouergue"^^xsd:string .
 
-ns1:Le_Sorbier a ns1:Organization ;
+ns1:Le_Sorbier a ns1:Publisher ;
     ns1:name "Le Sorbier"^^xsd:string .
 
-ns1:Lemniscaat a ns1:Organization ;
+ns1:Lemniscaat a ns1:Publisher ;
     ns1:name "Lemniscaat"^^xsd:string .
 
-ns1:Leméac a ns1:Organization ;
+ns1:Leméac a ns1:Publisher ;
     ns1:name "Leméac"^^xsd:string .
 
-ns1:Les_3_Orangers a ns1:Organization ;
+ns1:Les_3_Orangers a ns1:Publisher ;
     ns1:name "Les 3 Orangers"^^xsd:string .
 
-ns1:Les_400_Coups a ns1:Organization ;
+ns1:Les_400_Coups a ns1:Publisher ;
     ns1:name "Les 400 Coups"^^xsd:string .
 
-ns1:Les_Arènes a ns1:Organization ;
+ns1:Les_Arènes a ns1:Publisher ;
     ns1:name "Les Arènes"^^xsd:string .
 
-ns1:Les_Bruits_De_LEncre a ns1:Organization ;
+ns1:Les_Bruits_De_LEncre a ns1:Publisher ;
     ns1:name "Les Bruits De L'Encre"^^xsd:string .
 
-ns1:Les_Carnets_Du_Dessert_De_Lune a ns1:Organization ;
+ns1:Les_Carnets_Du_Dessert_De_Lune a ns1:Publisher ;
     ns1:name "Les Carnets Du Dessert De Lune"^^xsd:string .
 
-ns1:Les_Deux_Mondes a ns1:Organization ;
+ns1:Les_Deux_Mondes a ns1:Publisher ;
     ns1:name "Les Deux Mondes"^^xsd:string .
 
-ns1:Les_Fourmis_Rouges a ns1:Organization ;
+ns1:Les_Fourmis_Rouges a ns1:Publisher ;
     ns1:name "Les Fourmis Rouges"^^xsd:string .
 
-ns1:Les_Grandes_Personnes a ns1:Organization ;
+ns1:Les_Grandes_Personnes a ns1:Publisher ;
     ns1:name "Les Grandes Personnes"^^xsd:string .
 
-ns1:Les_Herbes_Rouges a ns1:Organization ;
+ns1:Les_Herbes_Rouges a ns1:Publisher ;
     ns1:name "Les Herbes Rouges"^^xsd:string .
 
-ns1:Les_Humanoïdes_Associés a ns1:Organization ;
+ns1:Les_Humanoïdes_Associés a ns1:Publisher ;
     ns1:name "Les Humanoïdes Associés"^^xsd:string .
 
-ns1:Les_Intouchables a ns1:Organization ;
+ns1:Les_Intouchables a ns1:Publisher ;
     ns1:name "Les Intouchables"^^xsd:string .
 
-ns1:Les_Livres_Du_Dragon_DOr a ns1:Organization ;
+ns1:Les_Livres_Du_Dragon_DOr a ns1:Publisher ;
     ns1:name "Les Livres Du Dragon D'Or"^^xsd:string .
 
-ns1:Les_Malins a ns1:Organization ;
+ns1:Les_Malins a ns1:Publisher ;
     ns1:name "Les Malins"^^xsd:string .
 
-ns1:Les_Mots_Du_Bout_De_LEnfance_-_Les_Bruits_De_LEncre a ns1:Organization ;
+ns1:Les_Mots_Du_Bout_De_LEnfance_-_Les_Bruits_De_LEncre a ns1:Publisher ;
     ns1:name "Les Mots Du Bout De L'Enfance - Les Bruits De L'Encre"^^xsd:string .
 
-ns1:Les_Nuages_En_Pantalon a ns1:Organization ;
+ns1:Les_Nuages_En_Pantalon a ns1:Publisher ;
     ns1:name "Les Nuages En Pantalon"^^xsd:string .
 
-ns1:Les_Solitaires_Intempestifs a ns1:Organization ;
+ns1:Les_Solitaires_Intempestifs a ns1:Publisher ;
     ns1:name "Les Solitaires Intempestifs"^^xsd:string .
 
-ns1:Les_Éditeurs_Réunis a ns1:Organization ;
+ns1:Les_Éditeurs_Réunis a ns1:Publisher ;
     ns1:name "Les Éditeurs Réunis"^^xsd:string .
 
-ns1:Levine_Querido a ns1:Organization ;
+ns1:Levine_Querido a ns1:Publisher ;
     ns1:name "Levine Querido"^^xsd:string .
 
-ns1:Liana_Levi a ns1:Organization ;
+ns1:Liana_Levi a ns1:Publisher ;
     ns1:name "Liana Levi"^^xsd:string .
 
-ns1:Libros_Del_Zorro a ns1:Organization ;
+ns1:Libros_Del_Zorro a ns1:Publisher ;
     ns1:name "Libros Del Zorro"^^xsd:string .
 
-ns1:Liels_Un_Mazs a ns1:Organization ;
+ns1:Liels_Un_Mazs a ns1:Publisher ;
     ns1:name "Liels Un Mazs"^^xsd:string .
 
-ns1:Limonero a ns1:Organization ;
+ns1:Limonero a ns1:Publisher ;
     ns1:name "Limonero"^^xsd:string .
 
-ns1:Lire_Et_Faire_Lire a ns1:Organization ;
+ns1:Lire_Et_Faire_Lire a ns1:Publisher ;
     ns1:name "Lire Et Faire Lire"^^xsd:string .
 
-ns1:Lito a ns1:Organization ;
+ns1:Lito a ns1:Publisher ;
     ns1:name "Lito"^^xsd:string .
 
-ns1:Little a ns1:Organization ;
+ns1:Little a ns1:Publisher ;
     ns1:name "Little"^^xsd:string .
 
-ns1:Little_Tiger_Press a ns1:Organization ;
+ns1:Little_Tiger_Press a ns1:Publisher ;
     ns1:name "Little Tiger Press"^^xsd:string .
 
-ns1:Little_Urban a ns1:Organization ;
+ns1:Little_Urban a ns1:Publisher ;
     ns1:name "Little Urban"^^xsd:string .
 
-ns1:Lo_Païs a ns1:Organization ;
+ns1:Lo_Païs a ns1:Publisher ;
     ns1:name "Lo Païs"^^xsd:string .
 
-ns1:Locus_Publishing a ns1:Organization ;
+ns1:Locus_Publishing a ns1:Publisher ;
     ns1:name "Locus Publishing"^^xsd:string .
 
-ns1:Longman a ns1:Organization ;
+ns1:Longman a ns1:Publisher ;
     ns1:name "Longman"^^xsd:string .
 
-ns1:Loubatières a ns1:Organization ;
+ns1:Loubatières a ns1:Publisher ;
     ns1:name "Loubatières"^^xsd:string .
 
-ns1:Louise_Martel a ns1:Organization ;
+ns1:Louise_Martel a ns1:Publisher ;
     ns1:name "Louise Martel"^^xsd:string .
 
-ns1:Lucane a ns1:Organization ;
+ns1:Lucane a ns1:Publisher ;
     ns1:name "Lucane"^^xsd:string .
 
-ns1:Lumen a ns1:Organization ;
+ns1:Lumen a ns1:Publisher ;
     ns1:name "Lumen"^^xsd:string .
 
-ns1:Lux a ns1:Organization ;
+ns1:Lux a ns1:Publisher ;
     ns1:name "Lux"^^xsd:string .
 
-ns1:LÉcole_Des_Loisirs a ns1:Organization ;
+ns1:LÉcole_Des_Loisirs a ns1:Publisher ;
     ns1:name "L'École Des Loisirs"^^xsd:string .
 
-ns1:LÉlan_Vert a ns1:Organization ;
+ns1:LÉlan_Vert a ns1:Publisher ;
     ns1:name "L'Élan Vert"^^xsd:string .
 
-ns1:LÉtagère_Du_Bas a ns1:Organization ;
+ns1:LÉtagère_Du_Bas a ns1:Publisher ;
     ns1:name "L'Étagère Du Bas"^^xsd:string .
 
-ns1:MacMilan a ns1:Organization ;
+ns1:MacMilan a ns1:Publisher ;
     ns1:name "MacMilan"^^xsd:string .
 
-ns1:Magellan___Cie a ns1:Organization ;
+ns1:Magellan___Cie a ns1:Publisher ;
     ns1:name "Magellan & Cie"^^xsd:string .
 
-ns1:Magnani a ns1:Organization ;
+ns1:Magnani a ns1:Publisher ;
     ns1:name "Magnani"^^xsd:string .
 
-ns1:Maison_Georges a ns1:Organization ;
+ns1:Maison_Georges a ns1:Publisher ;
     ns1:name "Maison Georges"^^xsd:string .
 
-ns1:Makaka a ns1:Organization ;
+ns1:Makaka a ns1:Publisher ;
     ns1:name "Makaka"^^xsd:string .
 
-ns1:Marchand_De_Feuilles a ns1:Organization ;
+ns1:Marchand_De_Feuilles a ns1:Publisher ;
     ns1:name "Marchand De Feuilles"^^xsd:string .
 
-ns1:Margot a ns1:Organization ;
+ns1:Margot a ns1:Publisher ;
     ns1:name "Margot"^^xsd:string .
 
-ns1:Marie-Francine_Hébert a ns1:Organization ;
+ns1:Marie-Francine_Hébert a ns1:Publisher ;
     ns1:name "Marie-Francine Hébert"^^xsd:string .
 
-ns1:Marmaille_Et_Cie a ns1:Organization ;
+ns1:Marmaille_Et_Cie a ns1:Publisher ;
     ns1:name "Marmaille Et Cie"^^xsd:string .
 
-ns1:Mathieu a ns1:Organization ;
+ns1:Mathieu a ns1:Publisher ;
     ns1:name "Mathieu"^^xsd:string .
 
-ns1:Mazarine a ns1:Organization ;
+ns1:Mazarine a ns1:Publisher ;
     ns1:name "Mazarine"^^xsd:string .
 
-ns1:MeMo a ns1:Organization ;
+ns1:MeMo a ns1:Publisher ;
     ns1:name "MeMo"^^xsd:string .
 
-ns1:Media_Vaca a ns1:Organization ;
+ns1:Media_Vaca a ns1:Publisher ;
     ns1:name "Media Vaca"^^xsd:string .
 
-ns1:Medium a ns1:Organization ;
+ns1:Medium a ns1:Publisher ;
     ns1:name "Medium"^^xsd:string .
 
-ns1:Mercure_De_France a ns1:Organization ;
+ns1:Mercure_De_France a ns1:Publisher ;
     ns1:name "Mercure De France"^^xsd:string .
 
-ns1:Michalon a ns1:Organization ;
+ns1:Michalon a ns1:Publisher ;
     ns1:name "Michalon"^^xsd:string .
 
-ns1:Michel a ns1:Organization ;
+ns1:Michel a ns1:Publisher ;
     ns1:name "Michel"^^xsd:string .
 
-ns1:Michel_Quintin a ns1:Organization ;
+ns1:Michel_Quintin a ns1:Publisher ;
     ns1:name "Michel Quintin"^^xsd:string .
 
-ns1:Mijade a ns1:Organization ;
+ns1:Mijade a ns1:Publisher ;
     ns1:name "Mijade"^^xsd:string .
 
-ns1:Mila a ns1:Organization ;
+ns1:Mila a ns1:Publisher ;
     ns1:name "Mila"^^xsd:string .
 
-ns1:Milans a ns1:Organization ;
+ns1:Milans a ns1:Publisher ;
     ns1:name "Milans"^^xsd:string .
 
-ns1:Mille_Saisons a ns1:Organization ;
+ns1:Mille_Saisons a ns1:Publisher ;
     ns1:name "Mille Saisons"^^xsd:string .
 
-ns1:Millefeuille a ns1:Organization ;
+ns1:Millefeuille a ns1:Publisher ;
     ns1:name "Millefeuille"^^xsd:string .
 
-ns1:Minedition a ns1:Organization ;
+ns1:Minedition a ns1:Publisher ;
     ns1:name "Minedition"^^xsd:string .
 
-ns1:Minuit a ns1:Organization ;
+ns1:Minuit a ns1:Publisher ;
     ns1:name "Minuit"^^xsd:string .
 
-ns1:Misma a ns1:Organization ;
+ns1:Misma a ns1:Publisher ;
     ns1:name "Misma"^^xsd:string .
 
-ns1:Mnemos a ns1:Organization ;
+ns1:Mnemos a ns1:Publisher ;
     ns1:name "Mnemos"^^xsd:string .
 
-ns1:Moderne a ns1:Organization ;
+ns1:Moderne a ns1:Publisher ;
     ns1:name "Moderne"^^xsd:string .
 
-ns1:Moelle_Graphik a ns1:Organization ;
+ns1:Moelle_Graphik a ns1:Publisher ;
     ns1:name "Moelle Graphik"^^xsd:string .
 
-ns1:Moka a ns1:Organization ;
+ns1:Moka a ns1:Publisher ;
     ns1:name "Moka"^^xsd:string .
 
-ns1:Mondia a ns1:Organization ;
+ns1:Mondia a ns1:Publisher ;
     ns1:name "Mondia"^^xsd:string .
 
-ns1:Monsieur a ns1:Organization ;
+ns1:Monsieur a ns1:Publisher ;
     ns1:name "Monsieur"^^xsd:string .
 
-ns1:Mortagne a ns1:Organization ;
+ns1:Mortagne a ns1:Publisher ;
     ns1:name "Mortagne"^^xsd:string .
 
-ns1:MéMo a ns1:Organization ;
+ns1:MéMo a ns1:Publisher ;
     ns1:name "MéMo"^^xsd:string .
 
-ns1:Médiaspaul a ns1:Organization ;
+ns1:Médiaspaul a ns1:Publisher ;
     ns1:name "Médiaspaul"^^xsd:string .
 
-ns1:Mémoires_Et_Cultures a ns1:Organization ;
+ns1:Mémoires_Et_Cultures a ns1:Publisher ;
     ns1:name "Mémoires Et Cultures"^^xsd:string .
 
-ns1:Méssidor a ns1:Organization ;
+ns1:Méssidor a ns1:Publisher ;
     ns1:name "Méssidor"^^xsd:string .
 
-ns1:Méssidor_La_Farnadole a ns1:Organization ;
+ns1:Méssidor_La_Farnadole a ns1:Publisher ;
     ns1:name "Méssidor/La Farnadole"^^xsd:string .
 
-ns1:Møtus a ns1:Organization ;
+ns1:Møtus a ns1:Publisher ;
     ns1:name "Møtus"^^xsd:string .
 
-ns1:Nagel___Kimche a ns1:Organization ;
+ns1:Nagel___Kimche a ns1:Publisher ;
     ns1:name "Nagel & Kimche"^^xsd:string .
 
-ns1:Naïve a ns1:Organization ;
+ns1:Naïve a ns1:Publisher ;
     ns1:name "Naïve"^^xsd:string .
 
-ns1:Ne_Bâté a ns1:Organization ;
+ns1:Ne_Bâté a ns1:Publisher ;
     ns1:name "Ne Bâté"^^xsd:string .
 
-ns1:Neal_Porter_Books a ns1:Organization ;
+ns1:Neal_Porter_Books a ns1:Publisher ;
     ns1:name "Neal Porter Books"^^xsd:string .
 
-ns1:Nimbus a ns1:Organization ;
+ns1:Nimbus a ns1:Publisher ;
     ns1:name "Nimbus"^^xsd:string .
 
-ns1:Nobi_Nobi a ns1:Organization ;
+ns1:Nobi_Nobi a ns1:Publisher ;
     ns1:name "Nobi Nobi"^^xsd:string .
 
-ns1:Nord-Sud a ns1:Organization ;
+ns1:Nord-Sud a ns1:Publisher ;
     ns1:name "Nord-Sud"^^xsd:string .
 
-ns1:Nota_Bene a ns1:Organization ;
+ns1:Nota_Bene a ns1:Publisher ;
     ns1:name "Nota Bene"^^xsd:string .
 
-ns1:Notari a ns1:Organization ;
+ns1:Notari a ns1:Publisher ;
     ns1:name "Notari"^^xsd:string .
 
-ns1:Nouveau_Monde a ns1:Organization ;
+ns1:Nouveau_Monde a ns1:Publisher ;
     ns1:name "Nouveau Monde"^^xsd:string .
 
-ns1:Nouvel_Angle a ns1:Organization ;
+ns1:Nouvel_Angle a ns1:Publisher ;
     ns1:name "Nouvel Angle"^^xsd:string .
 
-ns1:Nouvelle_Adresse a ns1:Organization ;
+ns1:Nouvelle_Adresse a ns1:Publisher ;
     ns1:name "Nouvelle Adresse"^^xsd:string .
 
-ns1:Nouvelles_Éditions_De_LArc a ns1:Organization ;
+ns1:Nouvelles_Éditions_De_LArc a ns1:Publisher ;
     ns1:name "Nouvelles Éditions De L'Arc"^^xsd:string .
 
-ns1:Oqo a ns1:Organization ;
+ns1:Oqo a ns1:Publisher ;
     ns1:name "Oqo"^^xsd:string .
 
-ns1:Orca a ns1:Organization ;
+ns1:Orca a ns1:Publisher ;
     ns1:name "Orca"^^xsd:string .
 
-ns1:Orchard_Book a ns1:Organization ;
+ns1:Orchard_Book a ns1:Publisher ;
     ns1:name "Orchard Book"^^xsd:string .
 
-ns1:Orecchio_Acerbo a ns1:Organization ;
+ns1:Orecchio_Acerbo a ns1:Publisher ;
     ns1:name "Orecchio Acerbo"^^xsd:string .
 
-ns1:Orso a ns1:Organization ;
+ns1:Orso a ns1:Publisher ;
     ns1:name "Orso"^^xsd:string .
 
-ns1:Oslo a ns1:Organization ;
+ns1:Oslo a ns1:Publisher ;
     ns1:name "Oslo"^^xsd:string .
 
-ns1:Otava a ns1:Organization ;
+ns1:Otava a ns1:Publisher ;
     ns1:name "Otava"^^xsd:string .
 
-ns1:Ototo a ns1:Organization ;
+ns1:Ototo a ns1:Publisher ;
     ns1:name "Ototo"^^xsd:string .
 
-ns1:Oup a ns1:Organization ;
+ns1:Oup a ns1:Publisher ;
     ns1:name "Oup"^^xsd:string .
 
-ns1:Ovale a ns1:Organization ;
+ns1:Ovale a ns1:Publisher ;
     ns1:name "Ovale"^^xsd:string .
 
-ns1:Owl_Books a ns1:Organization ;
+ns1:Owl_Books a ns1:Publisher ;
     ns1:name "Owl Books"^^xsd:string .
 
-ns1:Owlkids a ns1:Organization ;
+ns1:Owlkids a ns1:Publisher ;
     ns1:name "Owlkids"^^xsd:string .
 
-ns1:Paja a ns1:Organization ;
+ns1:Paja a ns1:Publisher ;
     ns1:name "Paja"^^xsd:string .
 
-ns1:Pajama_Press a ns1:Organization ;
+ns1:Pajama_Press a ns1:Publisher ;
     ns1:name "Pajama Press"^^xsd:string .
 
-ns1:Palette a ns1:Organization ;
+ns1:Palette a ns1:Publisher ;
     ns1:name "Palette"^^xsd:string .
 
-ns1:Panini a ns1:Organization ;
+ns1:Panini a ns1:Publisher ;
     ns1:name "Panini"^^xsd:string .
 
-ns1:Paralela_Editura a ns1:Organization ;
+ns1:Paralela_Editura a ns1:Publisher ;
     ns1:name "Paralela Editura"^^xsd:string .
 
-ns1:Passage_Piétons a ns1:Organization ;
+ns1:Passage_Piétons a ns1:Publisher ;
     ns1:name "Passage Piétons"^^xsd:string .
 
-ns1:Passiflore a ns1:Organization ;
+ns1:Passiflore a ns1:Publisher ;
     ns1:name "Passiflore"^^xsd:string .
 
-ns1:Pastel a ns1:Organization ;
+ns1:Pastel a ns1:Publisher ;
     ns1:name "Pastel"^^xsd:string .
 
-ns1:Paulines a ns1:Organization ;
+ns1:Paulines a ns1:Publisher ;
     ns1:name "Paulines"^^xsd:string .
 
-ns1:Pavilion a ns1:Organization ;
+ns1:Pavilion a ns1:Publisher ;
     ns1:name "Pavilion"^^xsd:string .
 
-ns1:Peachtree a ns1:Organization ;
+ns1:Peachtree a ns1:Publisher ;
     ns1:name "Peachtree"^^xsd:string .
 
-ns1:Penguin_Books a ns1:Organization ;
+ns1:Penguin_Books a ns1:Publisher ;
     ns1:name "Penguin Books"^^xsd:string .
 
-ns1:Penguin_Random_House a ns1:Organization ;
+ns1:Penguin_Random_House a ns1:Publisher ;
     ns1:name "Penguin Random House"^^xsd:string .
 
-ns1:Pequeño_Editor a ns1:Organization ;
+ns1:Pequeño_Editor a ns1:Publisher ;
     ns1:name "Pequeño Editor"^^xsd:string .
 
-ns1:Petit_Homme a ns1:Organization ;
+ns1:Petit_Homme a ns1:Publisher ;
     ns1:name "Petit Homme"^^xsd:string .
 
-ns1:Petit_À_Petit a ns1:Organization ;
+ns1:Petit_À_Petit a ns1:Publisher ;
     ns1:name "Petit À Petit"^^xsd:string .
 
-ns1:Petite_Plume_De_Carotte a ns1:Organization ;
+ns1:Petite_Plume_De_Carotte a ns1:Publisher ;
     ns1:name "Petite Plume De Carotte"^^xsd:string .
 
-ns1:Philippe_Béha a ns1:Organization ;
+ns1:Philippe_Béha a ns1:Publisher ;
     ns1:name "Philippe Béha"^^xsd:string .
 
-ns1:Picquier_Jeunesse a ns1:Organization ;
+ns1:Picquier_Jeunesse a ns1:Publisher ;
     ns1:name "Picquier Jeunesse"^^xsd:string .
 
-ns1:Pie_International_Inc a ns1:Organization ;
+ns1:Pie_International_Inc a ns1:Publisher ;
     ns1:name "Pie International Inc."^^xsd:string .
 
-ns1:Pierre_Tisseyre a ns1:Organization ;
+ns1:Pierre_Tisseyre a ns1:Publisher ;
     ns1:name "Pierre Tisseyre"^^xsd:string .
 
-ns1:Pika a ns1:Organization ;
+ns1:Pika a ns1:Publisher ;
     ns1:name "Pika"^^xsd:string .
 
-ns1:Pika_Roman a ns1:Organization ;
+ns1:Pika_Roman a ns1:Publisher ;
     ns1:name "Pika Roman"^^xsd:string .
 
-ns1:Pkj a ns1:Organization ;
+ns1:Pkj a ns1:Publisher ;
     ns1:name "Pkj"^^xsd:string .
 
-ns1:Planeta_Tangerina a ns1:Organization ;
+ns1:Planeta_Tangerina a ns1:Publisher ;
     ns1:name "Planeta Tangerina"^^xsd:string .
 
-ns1:Planète_Rebelle a ns1:Organization ;
+ns1:Planète_Rebelle a ns1:Publisher ;
     ns1:name "Planète Rebelle"^^xsd:string .
 
-ns1:Play_Bac a ns1:Organization ;
+ns1:Play_Bac a ns1:Publisher ;
     ns1:name "Play Bac"^^xsd:string .
 
-ns1:Plon a ns1:Organization ;
+ns1:Plon a ns1:Publisher ;
     ns1:name "Plon"^^xsd:string .
 
-ns1:Porte_Bonheur a ns1:Organization ;
+ns1:Porte_Bonheur a ns1:Publisher ;
     ns1:name "Porte Bonheur"^^xsd:string .
 
-ns1:Poulpe_Fictions a ns1:Organization ;
+ns1:Poulpe_Fictions a ns1:Publisher ;
     ns1:name "Poulpe Fictions"^^xsd:string .
 
-ns1:Poètes_De_Brousse a ns1:Organization ;
+ns1:Poètes_De_Brousse a ns1:Publisher ;
     ns1:name "Poètes De Brousse"^^xsd:string .
 
-ns1:Presses_Aventure a ns1:Organization ;
+ns1:Presses_Aventure a ns1:Publisher ;
     ns1:name "Presses Aventure"^^xsd:string .
 
-ns1:Presses_De_La_Cité a ns1:Organization ;
+ns1:Presses_De_La_Cité a ns1:Publisher ;
     ns1:name "Presses De La Cité"^^xsd:string .
 
-ns1:Prise_De_Parole a ns1:Organization ;
+ns1:Prise_De_Parole a ns1:Publisher ;
     ns1:name "Prise De Parole"^^xsd:string .
 
-ns1:Publications_Canadiennes_Du_Théâtre_Et_Des_Arts a ns1:Organization ;
+ns1:Publications_Canadiennes_Du_Théâtre_Et_Des_Arts a ns1:Publisher ;
     ns1:name "Publications Canadiennes Du Théâtre Et Des Arts"^^xsd:string .
 
-ns1:Québec_Amérique a ns1:Organization ;
+ns1:Québec_Amérique a ns1:Publisher ;
     ns1:name "Québec Amérique"^^xsd:string .
 
-ns1:R-Jeunes_Adultes a ns1:Organization ;
+ns1:R-Jeunes_Adultes a ns1:Publisher ;
     ns1:name "R-Jeunes Adultes"^^xsd:string .
 
-ns1:Rageot a ns1:Organization ;
+ns1:Rageot a ns1:Publisher ;
     ns1:name "Rageot"^^xsd:string .
 
-ns1:Random_House_ChildrenS_Books a ns1:Organization ;
+ns1:Random_House_ChildrenS_Books a ns1:Publisher ;
     ns1:name "Random House Children'S Books"^^xsd:string .
 
-ns1:Rat_Noir_Syros a ns1:Organization ;
+ns1:Rat_Noir_Syros a ns1:Publisher ;
     ns1:name "Rat Noir Syros"^^xsd:string .
 
-ns1:Renée_Grégoire a ns1:Organization ;
+ns1:Renée_Grégoire a ns1:Publisher ;
     ns1:name "Renée Grégoire"^^xsd:string .
 
-ns1:Rey_Naranjo_Editores a ns1:Organization ;
+ns1:Rey_Naranjo_Editores a ns1:Publisher ;
     ns1:name "Rey Naranjo Editores"^^xsd:string .
 
-ns1:Rivages a ns1:Organization ;
+ns1:Rivages a ns1:Publisher ;
     ns1:name "Rivages"^^xsd:string .
 
-ns1:Rivka a ns1:Organization ;
+ns1:Rivka a ns1:Publisher ;
     ns1:name "Rivka"^^xsd:string .
 
-ns1:Roaring_Brook_Press a ns1:Organization ;
+ns1:Roaring_Brook_Press a ns1:Publisher ;
     ns1:name "Roaring Brook Press"^^xsd:string .
 
-ns1:Robert_Diet a ns1:Organization ;
+ns1:Robert_Diet a ns1:Publisher ;
     ns1:name "Robert Diet"^^xsd:string .
 
-ns1:Robert_Laffont a ns1:Organization ;
+ns1:Robert_Laffont a ns1:Publisher ;
     ns1:name "Robert Laffont"^^xsd:string .
 
-ns1:Rodrigol a ns1:Organization ;
+ns1:Rodrigol a ns1:Publisher ;
     ns1:name "Rodrigol"^^xsd:string .
 
-ns1:Rue_De_Sèvres a ns1:Organization ;
+ns1:Rue_De_Sèvres a ns1:Publisher ;
     ns1:name "Rue De Sèvres"^^xsd:string .
 
-ns1:Rue_Du_Monde a ns1:Organization ;
+ns1:Rue_Du_Monde a ns1:Publisher ;
     ns1:name "Rue Du Monde"^^xsd:string .
 
-ns1:Ruisseaux_DAfrique a ns1:Organization ;
+ns1:Ruisseaux_DAfrique a ns1:Publisher ;
     ns1:name "Ruisseaux D'Afrique"^^xsd:string .
 
-ns1:Sakyejul_Publishing_Ltd a ns1:Organization ;
+ns1:Sakyejul_Publishing_Ltd a ns1:Publisher ;
     ns1:name "Sakyejul Publishing Ltd."^^xsd:string .
 
-ns1:Saltimbanque a ns1:Organization ;
+ns1:Saltimbanque a ns1:Publisher ;
     ns1:name "Saltimbanque"^^xsd:string .
 
-ns1:Sarbacane a ns1:Organization ;
+ns1:Sarbacane a ns1:Publisher ;
     ns1:name "Sarbacane"^^xsd:string .
 
-ns1:Schwartz___Wade_Books a ns1:Organization ;
+ns1:Schwartz___Wade_Books a ns1:Publisher ;
     ns1:name "Schwartz & Wade Books"^^xsd:string .
 
-ns1:Schweizer_Radio_Drs a ns1:Organization ;
+ns1:Schweizer_Radio_Drs a ns1:Publisher ;
     ns1:name "Schweizer Radio Drs"^^xsd:string .
 
-ns1:Second_Story_Press a ns1:Organization ;
+ns1:Second_Story_Press a ns1:Publisher ;
     ns1:name "Second Story Press"^^xsd:string .
 
-ns1:Seghers a ns1:Organization ;
+ns1:Seghers a ns1:Publisher ;
     ns1:name "Seghers"^^xsd:string .
 
-ns1:Septentrion a ns1:Organization ;
+ns1:Septentrion a ns1:Publisher ;
     ns1:name "Septentrion"^^xsd:string .
 
-ns1:Signe_De_Piste a ns1:Organization ;
+ns1:Signe_De_Piste a ns1:Publisher ;
     ns1:name "Signe De Piste"^^xsd:string .
 
-ns1:Siloë a ns1:Organization ;
+ns1:Siloë a ns1:Publisher ;
     ns1:name "Siloë"^^xsd:string .
 
-ns1:Simon___Schuster a ns1:Organization ;
+ns1:Simon___Schuster a ns1:Publisher ;
     ns1:name "Simon & Schuster"^^xsd:string .
 
-ns1:Six_Pieds_Sous_Terre a ns1:Organization ;
+ns1:Six_Pieds_Sous_Terre a ns1:Publisher ;
     ns1:name "Six Pieds Sous Terre"^^xsd:string .
 
-ns1:Slalom a ns1:Organization ;
+ns1:Slalom a ns1:Publisher ;
     ns1:name "Slalom"^^xsd:string .
 
-ns1:Sm a ns1:Organization ;
+ns1:Sm a ns1:Publisher ;
     ns1:name "Sm"^^xsd:string .
 
-ns1:Soc___Foc a ns1:Organization ;
+ns1:Soc___Foc a ns1:Publisher ;
     ns1:name "Soc & Foc"^^xsd:string .
 
-ns1:Société_De_Belles-Lettres_Guy_Maheu a ns1:Organization ;
+ns1:Société_De_Belles-Lettres_Guy_Maheu a ns1:Publisher ;
     ns1:name "Société De Belles-Lettres Guy Maheu"^^xsd:string .
 
-ns1:Soleil a ns1:Organization ;
+ns1:Soleil a ns1:Publisher ;
     ns1:name "Soleil"^^xsd:string .
 
-ns1:Soleil_De_Minuit a ns1:Organization ;
+ns1:Soleil_De_Minuit a ns1:Publisher ;
     ns1:name "Soleil De Minuit"^^xsd:string .
 
-ns1:Soulières a ns1:Organization ;
+ns1:Soulières a ns1:Publisher ;
     ns1:name "Soulières"^^xsd:string .
 
-ns1:Stanké a ns1:Organization ;
+ns1:Stanké a ns1:Publisher ;
     ns1:name "Stanké"^^xsd:string .
 
-ns1:Steinkis a ns1:Organization ;
+ns1:Steinkis a ns1:Publisher ;
     ns1:name "Steinkis"^^xsd:string .
 
-ns1:Stock a ns1:Organization ;
+ns1:Stock a ns1:Publisher ;
     ns1:name "Stock"^^xsd:string .
 
-ns1:Stéphane_Poulin a ns1:Organization ;
+ns1:Stéphane_Poulin a ns1:Publisher ;
     ns1:name "Stéphane Poulin"^^xsd:string .
 
-ns1:Suzanne_Duranceau a ns1:Organization ;
+ns1:Suzanne_Duranceau a ns1:Publisher ;
     ns1:name "Suzanne Duranceau"^^xsd:string .
 
-ns1:Syros a ns1:Organization ;
+ns1:Syros a ns1:Publisher ;
     ns1:name "Syros"^^xsd:string .
 
-ns1:Sépia a ns1:Organization ;
+ns1:Sépia a ns1:Publisher ;
     ns1:name "Sépia"^^xsd:string .
 
-ns1:T1 a ns1:Organization ;
+ns1:T1 a ns1:Publisher ;
     ns1:name "T1"^^xsd:string .
 
-ns1:Talents_Hauts a ns1:Organization ;
+ns1:Talents_Hauts a ns1:Publisher ;
     ns1:name "Talents Hauts"^^xsd:string .
 
-ns1:Tara_Books a ns1:Organization ;
+ns1:Tara_Books a ns1:Publisher ;
     ns1:name "Tara Books"^^xsd:string .
 
-ns1:Tate_Publishing a ns1:Organization ;
+ns1:Tate_Publishing a ns1:Publisher ;
     ns1:name "Tate Publishing"^^xsd:string .
 
-ns1:Tecolote a ns1:Organization ;
+ns1:Tecolote a ns1:Publisher ;
     ns1:name "Tecolote"^^xsd:string .
 
-ns1:Templar_Publishing a ns1:Organization ;
+ns1:Templar_Publishing a ns1:Publisher ;
     ns1:name "Templar Publishing"^^xsd:string .
 
-ns1:The_Bodley_Head a ns1:Organization ;
+ns1:The_Bodley_Head a ns1:Publisher ;
     ns1:name "The Bodley Head"^^xsd:string .
 
-ns1:The_Creative_Company a ns1:Organization ;
+ns1:The_Creative_Company a ns1:Publisher ;
     ns1:name "The Creative Company"^^xsd:string .
 
-ns1:The_Old_Lion_Publishing_House a ns1:Organization ;
+ns1:The_Old_Lion_Publishing_House a ns1:Publisher ;
     ns1:name "The Old Lion Publishing House"^^xsd:string .
 
-ns1:Thierry_Magnier a ns1:Organization ;
+ns1:Thierry_Magnier a ns1:Publisher ;
     ns1:name "Thierry Magnier"^^xsd:string .
 
-ns1:Théâtrales a ns1:Organization ;
+ns1:Théâtrales a ns1:Publisher ;
     ns1:name "Théâtrales"^^xsd:string .
 
-ns1:Théâtre_De_LArrière_Scène a ns1:Organization ;
+ns1:Théâtre_De_LArrière_Scène a ns1:Publisher ;
     ns1:name "Théâtre De L'Arrière Scène"^^xsd:string .
 
-ns1:Théâtre_De_LOeil a ns1:Organization ;
+ns1:Théâtre_De_LOeil a ns1:Publisher ;
     ns1:name "Théâtre De L'Oeil"^^xsd:string .
 
-ns1:Théâtre_De_Sable a ns1:Organization ;
+ns1:Théâtre_De_Sable a ns1:Publisher ;
     ns1:name "Théâtre De Sable"^^xsd:string .
 
-ns1:Théâtre_Des_Confettis a ns1:Organization ;
+ns1:Théâtre_Des_Confettis a ns1:Publisher ;
     ns1:name "Théâtre Des Confettis"^^xsd:string .
 
-ns1:Théâtre_Du_Quartier a ns1:Organization ;
+ns1:Théâtre_Du_Quartier a ns1:Publisher ;
     ns1:name "Théâtre Du Quartier"^^xsd:string .
 
-ns1:Théâtre_Le_Clou a ns1:Organization ;
+ns1:Théâtre_Le_Clou a ns1:Publisher ;
     ns1:name "Théâtre Le Clou"^^xsd:string .
 
-ns1:Théâtre_Populaire_DAcadie a ns1:Organization ;
+ns1:Théâtre_Populaire_DAcadie a ns1:Publisher ;
     ns1:name "Théâtre Populaire D'Acadie"^^xsd:string .
 
-ns1:Théâtres_Bouches_Décousues a ns1:Organization ;
+ns1:Théâtres_Bouches_Décousues a ns1:Publisher ;
     ns1:name "Théâtres Bouches Décousues"^^xsd:string .
 
-ns1:Tigre___Cie a ns1:Organization ;
+ns1:Tigre___Cie a ns1:Publisher ;
     ns1:name "Tigre & Cie"^^xsd:string .
 
-ns1:Tisseyre a ns1:Organization ;
+ns1:Tisseyre a ns1:Publisher ;
     ns1:name "Tisseyre"^^xsd:string .
 
-ns1:Tobeki a ns1:Organization ;
+ns1:Tobeki a ns1:Publisher ;
     ns1:name "Tobeki"^^xsd:string .
 
-ns1:Tonkam a ns1:Organization ;
+ns1:Tonkam a ns1:Publisher ;
     ns1:name "Tonkam"^^xsd:string .
 
-ns1:Toon_Books a ns1:Organization ;
+ns1:Toon_Books a ns1:Publisher ;
     ns1:name "Toon Books"^^xsd:string .
 
-ns1:Tourbillon a ns1:Organization ;
+ns1:Tourbillon a ns1:Publisher ;
     ns1:name "Tourbillon"^^xsd:string .
 
-ns1:Triomphe a ns1:Organization ;
+ns1:Triomphe a ns1:Publisher ;
     ns1:name "Triomphe"^^xsd:string .
 
-ns1:Trollfilm_As a ns1:Organization ;
+ns1:Trollfilm_As a ns1:Publisher ;
     ns1:name "Trollfilm As"^^xsd:string .
 
-ns1:Tundra_Books a ns1:Organization ;
+ns1:Tundra_Books a ns1:Publisher ;
     ns1:name "Tundra Books"^^xsd:string .
 
-ns1:Two_Hoots a ns1:Organization ;
+ns1:Two_Hoots a ns1:Publisher ;
     ns1:name "Two Hoots"^^xsd:string .
 
-ns1:Téqui a ns1:Organization ;
+ns1:Téqui a ns1:Publisher ;
     ns1:name "Téqui"^^xsd:string .
 
-ns1:Ueberreuter_Verlag a ns1:Organization ;
+ns1:Ueberreuter_Verlag a ns1:Publisher ;
     ns1:name "Ueberreuter Verlag"^^xsd:string .
 
-ns1:Uitgeverij_De_Eenhoorn a ns1:Organization ;
+ns1:Uitgeverij_De_Eenhoorn a ns1:Publisher ;
     ns1:name "Uitgeverij De Eenhoorn"^^xsd:string .
 
-ns1:Ulysse a ns1:Organization ;
+ns1:Ulysse a ns1:Publisher ;
     ns1:name "Ulysse"^^xsd:string .
 
-ns1:Un_Pas_À_La_Fois a ns1:Organization ;
+ns1:Un_Pas_À_La_Fois a ns1:Publisher ;
     ns1:name "Un Pas À La Fois"^^xsd:string .
 
-ns1:Unknown a ns1:Organization ;
+ns1:Unknown a ns1:Publisher ;
     ns1:name "Unknown"^^xsd:string .
 
-ns1:Usborne_Publishing a ns1:Organization ;
+ns1:Usborne_Publishing a ns1:Publisher ;
     ns1:name "Usborne Publishing"^^xsd:string .
 
-ns1:Utopique a ns1:Organization ;
+ns1:Utopique a ns1:Publisher ;
     ns1:name "Utopique"^^xsd:string .
 
-ns1:Utovie_Jeunesse a ns1:Organization ;
+ns1:Utovie_Jeunesse a ns1:Publisher ;
     ns1:name "Utovie Jeunesse"^^xsd:string .
 
-ns1:Varia a ns1:Organization ;
+ns1:Varia a ns1:Publisher ;
     ns1:name "Varia"^^xsd:string .
 
-ns1:Vents_DAilleurs a ns1:Organization ;
+ns1:Vents_DAilleurs a ns1:Publisher ;
     ns1:name "Vents D'Ailleurs"^^xsd:string .
 
-ns1:Vents_DOuest a ns1:Organization ;
+ns1:Vents_DOuest a ns1:Publisher ;
     ns1:name "Vents D'Ouest"^^xsd:string .
 
-ns1:Verlagsgruppe_Oetinger a ns1:Organization ;
+ns1:Verlagsgruppe_Oetinger a ns1:Publisher ;
     ns1:name "Verlagsgruppe Oetinger"^^xsd:string .
 
-ns1:Vermillon a ns1:Organization ;
+ns1:Vermillon a ns1:Publisher ;
     ns1:name "Vermillon"^^xsd:string .
 
-ns1:Versify a ns1:Organization ;
+ns1:Versify a ns1:Publisher ;
     ns1:name "Versify"^^xsd:string .
 
-ns1:Walker_Books a ns1:Organization ;
+ns1:Walker_Books a ns1:Publisher ;
     ns1:name "Walker Books"^^xsd:string .
 
-ns1:Wendy_Lamb_Books a ns1:Organization ;
+ns1:Wendy_Lamb_Books a ns1:Publisher ;
     ns1:name "Wendy Lamb Books"^^xsd:string .
 
-ns1:Winioux a ns1:Organization ;
+ns1:Winioux a ns1:Publisher ;
     ns1:name "Winioux"^^xsd:string .
 
-ns1:Wytwornia a ns1:Organization ;
+ns1:Wytwornia a ns1:Publisher ;
     ns1:name "Wytwornia"^^xsd:string .
 
-ns1:XYZ_Éditeur a ns1:Organization ;
+ns1:XYZ_Éditeur a ns1:Publisher ;
     ns1:name "XYZ Éditeur"^^xsd:string .
 
-ns1:Xavier_Legrand-Ferronnière a ns1:Organization ;
+ns1:Xavier_Legrand-Ferronnière a ns1:Publisher ;
     ns1:name "Xavier Legrand-Ferronnière"^^xsd:string .
 
-ns1:Xo a ns1:Organization ;
+ns1:Xo a ns1:Publisher ;
     ns1:name "Xo"^^xsd:string .
 
-ns1:Yes_Creative_Ltd_Papa_Publishing_House a ns1:Organization ;
+ns1:Yes_Creative_Ltd_Papa_Publishing_House a ns1:Publisher ;
     ns1:name "Yes Creative Ltd./Papa Publishing House"^^xsd:string .
 
-ns1:Yves_Nadon a ns1:Organization ;
+ns1:Yves_Nadon a ns1:Publisher ;
     ns1:name "Yves Nadon"^^xsd:string .
 
-ns1:ZAilées a ns1:Organization ;
+ns1:ZAilées a ns1:Publisher ;
     ns1:name "Z'Ailées"^^xsd:string .
 
-ns1:Zydowskie_Stowarzyszenie_Czulent a ns1:Organization ;
+ns1:Zydowskie_Stowarzyszenie_Czulent a ns1:Publisher ;
     ns1:name "Zydowskie Stowarzyszenie Czulent"^^xsd:string .
 
-ns1:Zébulo a ns1:Organization ;
+ns1:Zébulo a ns1:Publisher ;
     ns1:name "Zébulo"^^xsd:string .
 
-ns1:Âne_Bâté a ns1:Organization ;
+ns1:Âne_Bâté a ns1:Publisher ;
     ns1:name "Âne Bâté"^^xsd:string .
 
-ns1:Ékaré a ns1:Organization ;
+ns1:Ékaré a ns1:Publisher ;
     ns1:name "Ékaré"^^xsd:string .
 
-ns1:Être_Éditions a ns1:Organization ;
+ns1:Être_Éditions a ns1:Publisher ;
     ns1:name "Être Éditions"^^xsd:string .
 
-ns1:DuJour a ns1:Organization ;
+ns1:DuJour a ns1:Publisher ;
     ns1:name "Du Jour"^^xsd:string .
 
-ns1:Actes_Sud-Papiers a ns1:Organization ;
+ns1:Actes_Sud-Papiers a ns1:Publisher ;
     ns1:name "Actes Sud-Papiers"^^xsd:string ;
     ns1:parentOrganization ns1:Actes_Sud .
 
-ns1:Actes_Sud_Bd a ns1:Organization ;
+ns1:Actes_Sud_Bd a ns1:Publisher ;
     ns1:name "Actes Sud Bd"^^xsd:string ;
     ns1:parentOrganization ns1:Actes_Sud .
 
-ns1:Actes_Sud_Junior a ns1:Organization ;
+ns1:Actes_Sud_Junior a ns1:Publisher ;
     ns1:name "Actes Sud Junior"^^xsd:string ;
     ns1:parentOrganization ns1:Actes_Sud .
 
-ns1:Albin_Michel a ns1:Organization ;
+ns1:Albin_Michel a ns1:Publisher ;
     ns1:name "Albin Michel"^^xsd:string ;
     ns1:subOrganization ns1:Albin_Michel_Jeunesse .
 
-ns1:Albin_Michel_Jeunesse a ns1:Organization ;
+ns1:Albin_Michel_Jeunesse a ns1:Publisher ;
     ns1:name "Albin Michel Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Albin_Michel .
 
-ns1:Alice a ns1:Organization ;
+ns1:Alice a ns1:Publisher ;
     ns1:name "Alice"^^xsd:string ;
     ns1:subOrganization ns1:Alice_Jeunesse .
 
-ns1:Alice_Jeunesse a ns1:Organization ;
+ns1:Alice_Jeunesse a ns1:Publisher ;
     ns1:name "Alice Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Alice .
 
-ns1:Autrement a ns1:Organization ;
+ns1:Autrement a ns1:Publisher ;
     ns1:name "Autrement"^^xsd:string ;
     ns1:subOrganization ns1:Autrement_Jeunesse .
 
-ns1:Autrement_Jeunesse a ns1:Organization ;
+ns1:Autrement_Jeunesse a ns1:Publisher ;
     ns1:name "Autrement Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Autrement .
 
-ns1:Auzou_Canada a ns1:Organization ;
+ns1:Auzou_Canada a ns1:Publisher ;
     ns1:name "Auzou Canada"^^xsd:string ;
     ns1:parentOrganization ns1:Anzou .
 
-ns1:Auzou_Suisse a ns1:Organization ;
+ns1:Auzou_Suisse a ns1:Publisher ;
     ns1:name "Auzou Suisse"^^xsd:string ;
     ns1:parentOrganization ns1:Anzou .
 
-ns1:Bayard_Canada a ns1:Organization ;
+ns1:Bayard_Canada a ns1:Publisher ;
     ns1:name "Bayard Canada"^^xsd:string ;
     ns1:parentOrganization ns1:Bayard .
 
-ns1:Bayard_Jeunesse a ns1:Organization ;
+ns1:Bayard_Jeunesse a ns1:Publisher ;
     ns1:name "Bayard Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Bayard .
 
-ns1:Belin a ns1:Organization ;
+ns1:Belin a ns1:Publisher ;
     ns1:name "Belin"^^xsd:string ;
     ns1:subOrganization ns1:Belin_Jeunesse .
 
-ns1:Belin_Jeunesse a ns1:Organization ;
+ns1:Belin_Jeunesse a ns1:Publisher ;
     ns1:name "Belin Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Belin .
 
-ns1:Cappelen_Damm a ns1:Organization ;
+ns1:Cappelen_Damm a ns1:Publisher ;
     ns1:name "Cappelen Damm"^^xsd:string ;
     ns1:parentOrganization ns1:Cappelen .
 
-ns1:Cappelen_Forlag a ns1:Organization ;
+ns1:Cappelen_Forlag a ns1:Publisher ;
     ns1:name "Cappelen Forlag"^^xsd:string ;
     ns1:parentOrganization ns1:Cappelen .
 
-ns1:Casterman a ns1:Organization ;
+ns1:Casterman a ns1:Publisher ;
     ns1:name "Casterman"^^xsd:string ;
     ns1:subOrganization ns1:Casterman_Poche .
 
-ns1:Casterman_Poche a ns1:Organization ;
+ns1:Casterman_Poche a ns1:Publisher ;
     ns1:name "Casterman Poche"^^xsd:string ;
     ns1:parentOrganization ns1:Casterman .
 
-ns1:Castor_Poche_Flammarion a ns1:Organization ;
+ns1:Castor_Poche_Flammarion a ns1:Publisher ;
     ns1:name "Castor Poche Flammarion"^^xsd:string ;
     ns1:parentOrganization ns1:Flammarion .
 
-ns1:Didier a ns1:Organization ;
+ns1:Didier a ns1:Publisher ;
     ns1:name "Didier"^^xsd:string ;
     ns1:subOrganization ns1:Didier_Jeunesse .
 
-ns1:Didier_Jeunesse a ns1:Organization ;
+ns1:Didier_Jeunesse a ns1:Publisher ;
     ns1:name "Didier Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Didier .
 
-ns1:Flammarion_Jeunesse a ns1:Organization ;
+ns1:Flammarion_Jeunesse a ns1:Publisher ;
     ns1:name "Flammarion Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Flammarion .
 
-ns1:Flammarion_Père_Castor a ns1:Organization ;
+ns1:Flammarion_Père_Castor a ns1:Publisher ;
     ns1:name "Flammarion Père Castor"^^xsd:string ;
     ns1:parentOrganization ns1:Flammarion .
 
-ns1:Gallimard a ns1:Organization ;
+ns1:Gallimard a ns1:Publisher ;
     ns1:name "Gallimard"^^xsd:string ;
     ns1:subOrganization ns1:Gallimard_Jeunesse .
 
-ns1:Gallimard_Jeunesse a ns1:Organization ;
+ns1:Gallimard_Jeunesse a ns1:Publisher ;
     ns1:name "Gallimard Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Gallimard .
 
-ns1:Glénat a ns1:Organization ;
+ns1:Glénat a ns1:Publisher ;
     ns1:name "Glénat"^^xsd:string ;
     ns1:subOrganization ns1:Glénat_Jeunesse .
 
-ns1:Glénat_Jeunesse a ns1:Organization ;
+ns1:Glénat_Jeunesse a ns1:Publisher ;
     ns1:name "Glénat Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Glénat .
 
-ns1:Grasset a ns1:Organization ;
+ns1:Grasset a ns1:Publisher ;
     ns1:name "Grasset"^^xsd:string ;
     ns1:subOrganization ns1:Grasset_Jeunesse .
 
-ns1:Grasset_Jeunesse a ns1:Organization ;
+ns1:Grasset_Jeunesse a ns1:Publisher ;
     ns1:name "Grasset Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Grasset .
 
-ns1:Hachette a ns1:Organization ;
+ns1:Hachette a ns1:Publisher ;
     ns1:name "Hachette"^^xsd:string ;
     ns1:subOrganization ns1:Hachette_Jeunesse .
 
-ns1:Hachette_Jeunesse a ns1:Organization ;
+ns1:Hachette_Jeunesse a ns1:Publisher ;
     ns1:name "Hachette Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Hachette .
 
-ns1:HongFei a ns1:Organization ;
+ns1:HongFei a ns1:Publisher ;
     ns1:name "HongFei"^^xsd:string ;
     ns1:subOrganization ns1:HongFei_Cultures .
 
-ns1:HongFei_Cultures a ns1:Organization ;
+ns1:HongFei_Cultures a ns1:Publisher ;
     ns1:name "HongFei Cultures"^^xsd:string ;
     ns1:parentOrganization ns1:HongFei .
 
-ns1:Kazé a ns1:Organization ;
+ns1:Kazé a ns1:Publisher ;
     ns1:name "Kazé"^^xsd:string ;
     ns1:subOrganization ns1:Kazé_Manga .
 
-ns1:Kazé_Manga a ns1:Organization ;
+ns1:Kazé_Manga a ns1:Publisher ;
     ns1:name "Kazé Manga"^^xsd:string ;
     ns1:parentOrganization ns1:Kazé .
 
-ns1:La_Martinière a ns1:Organization ;
+ns1:La_Martinière a ns1:Publisher ;
     ns1:name "La Martinière"^^xsd:string ;
     ns1:subOrganization ns1:La_Martinière_Jeunesse .
 
-ns1:La_Martinière_Jeunesse a ns1:Organization ;
+ns1:La_Martinière_Jeunesse a ns1:Publisher ;
     ns1:name "La Martinière Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:La_Martinière .
 
-ns1:Lansman a ns1:Organization ;
+ns1:Lansman a ns1:Publisher ;
     ns1:name "Lansman"^^xsd:string ;
     ns1:subOrganization ns1:Lansman_Jeunesse .
 
-ns1:Lansman_Jeunesse a ns1:Organization ;
+ns1:Lansman_Jeunesse a ns1:Publisher ;
     ns1:name "Lansman Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Lansman .
 
-ns1:Magnard a ns1:Organization ;
+ns1:Magnard a ns1:Publisher ;
     ns1:name "Magnard"^^xsd:string ;
     ns1:subOrganization ns1:Magnard_Jeunesse .
 
-ns1:Magnard_Jeunesse a ns1:Organization ;
+ns1:Magnard_Jeunesse a ns1:Publisher ;
     ns1:name "Magnard Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Magnard .
 
-ns1:Mango a ns1:Organization ;
+ns1:Mango a ns1:Publisher ;
     ns1:name "Mango"^^xsd:string ;
     ns1:subOrganization ns1:Mango_Jeunesse .
 
-ns1:Mango_Jeunesse a ns1:Organization ;
+ns1:Mango_Jeunesse a ns1:Publisher ;
     ns1:name "Mango Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Mango .
 
-ns1:Milan_Jeunesse a ns1:Organization ;
+ns1:Milan_Jeunesse a ns1:Publisher ;
     ns1:name "Milan Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Milan .
 
-ns1:Milan_Poche a ns1:Organization ;
+ns1:Milan_Poche a ns1:Publisher ;
     ns1:name "Milan Poche"^^xsd:string ;
     ns1:parentOrganization ns1:Milan .
 
-ns1:Nathan_Jeunesse a ns1:Organization ;
+ns1:Nathan_Jeunesse a ns1:Publisher ;
     ns1:name "Nathan Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Nathan .
 
-ns1:Nathan_Poche a ns1:Organization ;
+ns1:Nathan_Poche a ns1:Publisher ;
     ns1:name "Nathan Poche"^^xsd:string ;
     ns1:parentOrganization ns1:Nathan .
 
-ns1:Oskar a ns1:Organization ;
+ns1:Oskar a ns1:Publisher ;
     ns1:name "Oskar"^^xsd:string ;
     ns1:subOrganization ns1:Oskar_Jeunesse .
 
-ns1:Oskar_Jeunesse a ns1:Organization ;
+ns1:Oskar_Jeunesse a ns1:Publisher ;
     ns1:name "Oskar Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Oskar .
 
-ns1:Panama a ns1:Organization ;
+ns1:Panama a ns1:Publisher ;
     ns1:name "Panama"^^xsd:string ;
     ns1:subOrganization ns1:Panama_Jeunesse .
 
-ns1:Panama_Jeunesse a ns1:Organization ;
+ns1:Panama_Jeunesse a ns1:Publisher ;
     ns1:name "Panama Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Panama .
 
-ns1:Pocket_Jeunesse a ns1:Organization ;
+ns1:Pocket_Jeunesse a ns1:Publisher ;
     ns1:name "Pocket Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Pocket .
 
-ns1:Pocket_Junior a ns1:Organization ;
+ns1:Pocket_Junior a ns1:Publisher ;
     ns1:name "Pocket Junior"^^xsd:string ;
     ns1:parentOrganization ns1:Pocket .
 
-ns1:Puffin a ns1:Organization ;
+ns1:Puffin a ns1:Publisher ;
     ns1:name "Puffin"^^xsd:string ;
     ns1:subOrganization ns1:Puffin_Canada .
 
-ns1:Puffin_Canada a ns1:Organization ;
+ns1:Puffin_Canada a ns1:Publisher ;
     ns1:name "Puffin Canada"^^xsd:string ;
     ns1:parentOrganization ns1:Puffin .
 
-ns1:Samir a ns1:Organization ;
+ns1:Samir a ns1:Publisher ;
     ns1:name "Samir"^^xsd:string ;
     ns1:subOrganization ns1:Samir_Jeunesse .
 
-ns1:Samir_Jeunesse a ns1:Organization ;
+ns1:Samir_Jeunesse a ns1:Publisher ;
     ns1:name "Samir Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Samir .
 
-ns1:Scholastic a ns1:Organization ;
+ns1:Scholastic a ns1:Publisher ;
     ns1:name "Scholastic"^^xsd:string ;
     ns1:subOrganization ns1:Scholastic_Canada .
 
-ns1:Scholastic_Canada a ns1:Organization ;
+ns1:Scholastic_Canada a ns1:Publisher ;
     ns1:name "Scholastic Canada"^^xsd:string ;
     ns1:parentOrganization ns1:Scholastic .
 
-ns1:Scrineo a ns1:Organization ;
+ns1:Scrineo a ns1:Publisher ;
     ns1:name "Scrineo"^^xsd:string ;
     ns1:subOrganization ns1:Scrineo_Jeunesse .
 
-ns1:Scrineo_Jeunesse a ns1:Organization ;
+ns1:Scrineo_Jeunesse a ns1:Publisher ;
     ns1:name "Scrineo Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Scrineo .
 
-ns1:Seuil-Le_Funambule a ns1:Organization ;
+ns1:Seuil-Le_Funambule a ns1:Publisher ;
     ns1:name "Seuil-Le Funambule"^^xsd:string ;
     ns1:parentOrganization ns1:Seuil .
 
-ns1:Seuil_Jeunesse a ns1:Organization ;
+ns1:Seuil_Jeunesse a ns1:Publisher ;
     ns1:name "Seuil Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Seuil .
 
-ns1:Seuil_Poche a ns1:Organization ;
+ns1:Seuil_Poche a ns1:Publisher ;
     ns1:name "Seuil Poche"^^xsd:string ;
     ns1:parentOrganization ns1:Seuil .
 
-ns1:Stoddart a ns1:Organization ;
+ns1:Stoddart a ns1:Publisher ;
     ns1:name "Stoddart"^^xsd:string ;
     ns1:subOrganization ns1:Stoddart_Kids .
 
-ns1:Stoddart_Kids a ns1:Organization ;
+ns1:Stoddart_Kids a ns1:Publisher ;
     ns1:name "Stoddart Kids"^^xsd:string ;
     ns1:parentOrganization ns1:Stoddart .
 
-ns1:Versant_Sud a ns1:Organization ;
+ns1:Versant_Sud a ns1:Publisher ;
     ns1:name "Versant Sud"^^xsd:string ;
     ns1:subOrganization ns1:Versant_Sud_Jeunesse .
 
-ns1:Versant_Sud_Jeunesse a ns1:Organization ;
+ns1:Versant_Sud_Jeunesse a ns1:Publisher ;
     ns1:name "Versant Sud Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Versant_Sud .
 
 ns1:Anzou ns1:subOrganization ns1:Auzou_Canada,
         ns1:Auzou_Suisse .
 
-ns1:Bayard a ns1:Organization ;
+ns1:Bayard a ns1:Publisher ;
     ns1:name "Bayard"^^xsd:string ;
     ns1:subOrganization ns1:Bayard_Canada,
         ns1:Bayard_Jeunesse .
 
-ns1:Cappelen a ns1:Organization ;
+ns1:Cappelen a ns1:Publisher ;
     ns1:name "Cappelen"^^xsd:string ;
     ns1:subOrganization ns1:Cappelen_Damm,
         ns1:Cappelen_Forlag .
 
-ns1:Milan a ns1:Organization ;
+ns1:Milan a ns1:Publisher ;
     ns1:name "Milan"^^xsd:string ;
     ns1:subOrganization ns1:Milan_Jeunesse,
         ns1:Milan_Poche .
 
-ns1:Nathan a ns1:Organization ;
+ns1:Nathan a ns1:Publisher ;
     ns1:name "Nathan"^^xsd:string ;
     ns1:subOrganization ns1:Nathan_Jeunesse,
         ns1:Nathan_Poche .
 
-ns1:Pocket a ns1:Organization ;
+ns1:Pocket a ns1:Publisher ;
     ns1:name "Pocket"^^xsd:string ;
     ns1:subOrganization ns1:Pocket_Jeunesse,
         ns1:Pocket_Junior .
 
-ns1:Actes_Sud a ns1:Organization ;
+ns1:Actes_Sud a ns1:Publisher ;
     ns1:name "Actes Sud"^^xsd:string ;
     ns1:subOrganization ns1:Actes_Sud-Papiers,
         ns1:Actes_Sud_Bd,
         ns1:Actes_Sud_Junior .
 
-ns1:Flammarion a ns1:Organization ;
+ns1:Flammarion a ns1:Publisher ;
     ns1:name "Flammarion"^^xsd:string ;
     ns1:subOrganization ns1:Castor_Poche_Flammarion,
         ns1:Flammarion_Jeunesse,
         ns1:Flammarion_Père_Castor .
 
-ns1:Seuil a ns1:Organization ;
+ns1:Seuil a ns1:Publisher ;
     ns1:name "Seuil"^^xsd:string ;
     ns1:subOrganization ns1:Seuil-Le_Funambule,
         ns1:Seuil_Jeunesse,

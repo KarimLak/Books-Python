@@ -612,7 +612,7 @@ ns1:Prix_Enfantaisie_Catégorie_Album a ns1:Organization ;
     ns1:parentOrganization ns1:Prix_Enfantaisie .
 
 ns1:Prix_Enfantaisie_Catégorie_Roman_Prix_Farniente a ns1:Organization ;
-    ns1:name "Prix Enfantaisie : Catégorie Roman - Prix Farniente"^^xsd:string ;
+    ns1:name "Prix Enfantaisie : Catégorie Roman"^^xsd:string ;
     ns1:parentOrganization ns1:Prix_Enfantaisie .
 
 ns1:Prix_Farniente_Basket_Jaune_13_ a ns1:Organization ;
