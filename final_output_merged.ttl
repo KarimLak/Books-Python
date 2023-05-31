@@ -85,16 +85,6 @@ ns1:Book00b9f554-d233-4ae4-8ad7-2b11676ed480 a ns1:Book ;
     ns1:publisher ns1:Un_Pas_À_La_Fois ;
     ns1:url "https://www.lurelu.net/prixlitt_slslsj.html"^^xsd:string .
 
-ns1:Book00c8d187-170f-4287-9b82-aa510e09f8b0 a ns1:Book ;
-    ns1:author "Hélène Montardre"^^xsd:string ;
-    ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde" ;
-    ns1:dateReceived "2018"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Marche à l’étoile"^^xsd:string ;
-    ns1:publisher ns1:Rageot ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
-
 ns1:Book00e3b022-07e2-4076-85cb-14698f330b3d a ns1:Book ;
     ns1:author "Rob Hodgson"^^xsd:string ;
     ns1:datePublished "2022"^^xsd:string ;
@@ -1605,22 +1595,6 @@ ns1:Book0c02c939-acb0-4ef8-b2f6-634e1072584d a ns1:Book ;
     ns1:publisher ns1:La_Pastèque ;
     ns1:url "https://www.lurelu.net/prixlitt_jeunesse-librair.html"^^xsd:string .
 
-ns1:Book0c16c036-07b2-4fda-8c6e-f2b4fb72379e a ns1:Book ;
-    ns1:author "Marie Vareille"^^xsd:string ;
-    ns1:award "Prix Farniente : Prix Victor (13+)",
-        "Prix Pierre Bottero",
-        "Prix Des Dévoreurs De Livres" ;
-    ns1:dateReceived "2018"^^xsd:gYear,
-        "2017",
-        "2016" ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Elia, la passeuse d'âme (T. 1)"^^xsd:string ;
-    ns1:publisher ns1:Pocket_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-victor"^^xsd:string,
-        "https://www.ricochet-jeunes.org/prix-litteraires/prix-pierre-bottero",
-        "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-devoreurs-de-livres" ;
-
 ns1:Book0c170930-bd1a-4db4-a503-cb48b17f8a7a a ns1:Book ;
     ns1:author "Ulrich Hub"^^xsd:string ;
     ns1:award "Prix Sorcières : Romans 9-12 Ans" ;
@@ -2351,17 +2325,6 @@ ns1:Book13bbd572-2589-4c4f-9d2b-f84b8d80a6fd a ns1:Book ;
     ns1:name "Les aventures improbables de Peter et Herman ou Le tour du monde en 25 escales"^^xsd:string ;
     ns1:publisher ns1:Les_Fourmis_Rouges ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-de-lillustration"^^xsd:string .
-
-ns1:Book13c02086-0718-4b95-80d1-1f3202c43b0f a ns1:Book ;
-    ns1:author "Bruce Robert"^^xsd:string,
-        "Claire Vigneault"^^xsd:string ;
-    ns1:award "Prix Québec" ;
-    ns1:dateReceived "2011"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Le chasseur de loups-marins"^^xsd:string ;
-    ns1:publisher ns1:Les_400_Coups ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-quebecwallonie-bruxelles-de-litterature-de-jeunesse"^^xsd:string .
 
 ns1:Book13d4395e-9085-4214-b9ae-1884a19a5d07 a ns1:Book ;
     ns1:author "Caroline Grégoire"^^xsd:string ;
@@ -4035,16 +3998,6 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0633 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_cecilegagnon.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-cecile-gagnon"^^xsd:string .
 
-ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0691 a ns1:Book ;
-    ns1:author "Alexandre Gauthier"^^xsd:string ;
-    ns1:award "Prix Cécile-Gagnon" ;
-    ns1:dateReceived "2022"^^xsd:gYear ;
-    ns1:genre "Roman" ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Gros Ninja (T.1). Les origines"^^xsd:string ;
-    ns1:publisher ns1:La_Bagnole ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cecile-gagnon"^^xsd:string .
-
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0692 a ns1:Book ;
     ns1:author "Elizabeth Baril-Lessard"^^xsd:string ;
     ns1:award "Prix Alvine-Bélisle",
@@ -4442,18 +4395,6 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0730 a ns1:Book ;
     ns1:name "Lucky Joey"^^xsd:string ;
     ns1:publisher ns1:Pastel ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chretien-de-troyes"^^xsd:string .
-
-ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0732 a ns1:Book ;
-    ns1:author "Rebecca Dautremer"^^xsd:string ;
-    ns1:award "Prix Chrétien De Troyes",
-        "Prix Franco-Allemand Pour La Littérature De Jeunesse : France" ;
-    ns1:dateReceived "2019"^^xsd:gYear ;
-    ns1:genre "Jeunesse" ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Les riches heures de Jacomius Gainsborough"^^xsd:string ;
-    ns1:publisher ns1:Sarbacane ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chretien-de-troyes"^^xsd:string,
-        "https://www.ricochet-jeunes.org/prix-litteraires/prix-franco-allemand-pour-la-litterature-de-jeunesse"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0733 a ns1:Book ;
     ns1:author "Chiara Mezzalama"^^xsd:string ;
@@ -4901,17 +4842,6 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0816 a ns1:Book ;
     ns1:publisher ns1:Syros ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-suisse"^^xsd:string .
-
-ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0817 a ns1:Book ;
-    ns1:author "Illya Green"^^xsd:string,
-        "Myriam Gallot"^^xsd:string ;
-    ns1:award "Prix Chronos" ;
-    ns1:dateReceived "2012"^^xsd:gYear ;
-    ns1:genre "Jeunesse" ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "L’heure des chats"^^xsd:string ;
-    ns1:publisher ns1:Syros ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-suisse"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0818 a ns1:Book ;
     ns1:author "Sylvaine Jaoui"^^xsd:string ;
@@ -5787,15 +5717,17 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0903 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0905 a ns1:Book ;
-    ns1:author "Ilya Green"^^xsd:string,
-        "Myriam Gallot"^^xsd:string ;
-    ns1:award "Prix Chronos De Littérature : 6E – 5E" ;
+    ns1:author "Ilya Green" ;
+    ns1:award "Prix Chronos",
+        "Prix Chronos De Littérature : 6E – 5E" ;
     ns1:dateReceived "2012"^^xsd:gYear ;
-    ns1:genre "Littérature : 6e – 5e" ;
+    ns1:genre "Jeunesse",
+        "Littérature : 6e – 5e" ;
     ns1:inLanguage "Francais" ;
-    ns1:name "L'heure des chats"^^xsd:string ;
+    ns1:name "L'heure des chats" ;
     ns1:publisher ns1:Syros ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-suisse"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0906 a ns1:Book ;
     ns1:author "Anne Percin"^^xsd:string,
@@ -6714,14 +6646,17 @@ ns1:Book20d61389-2580-49cf-9cc7-7f9239c14d66 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-tatoulu"^^xsd:string .
 
 ns1:Book20f29c6f-6195-4f65-8788-a2e9b08cc847 a ns1:Book ;
-    ns1:author "Alexandre Gauthier"^^xsd:string ;
+    ns1:author "Alexandre Gauthier" ;
     ns1:award "Prix Cécile-Gagnon" ;
     ns1:dateReceived "2022"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Gros Ninja 1: les origines"^^xsd:string ;
+    ns1:genre "Jeunesse"^^xsd:string,
+        "Roman" ;
+    ns1:inLanguage "Francais",
+        "Français"^^xsd:string ;
+    ns1:name "Gros Ninja 1: les origines" ;
     ns1:publisher ns1:La_Bagnole ;
-    ns1:url "https://www.lurelu.net/prixlitt_cecilegagnon.html"^^xsd:string .
+    ns1:url "https://www.lurelu.net/prixlitt_cecilegagnon.html"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-cecile-gagnon"^^xsd:string .
 
 ns1:Book215cb152-7ea9-4e97-a8e2-2809af7ddd67 a ns1:Book ;
     ns1:author "Mario Brassard"^^xsd:string ;
@@ -7361,35 +7296,6 @@ ns1:Book2a31ad68-2416-4fc4-a897-47aaf913c052 a ns1:Book ;
     ns1:publisher ns1:FouLire ;
     ns1:url "https://www.lurelu.net/prixlitt_biblioquebec.html"^^xsd:string .
 
-ns1:Book2a348973-69de-4197-81ad-1a6b35e8b789 a ns1:Book ;
-    ns1:author "Fabrizio Silir"^^xsd:string,
-        "Mauricio A.C. Quarello"^^xsd:string ;
-    ns1:award "Prix Tatoulu : Tatou Bleu" ;
-    ns1:dateReceived "2013"^^xsd:gYear ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Le bus de Rosa"^^xsd:string ;
-    ns1:publisher ns1:Sarbacane ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-tatoulu"^^xsd:string .
-
-ns1:Book6179394f-177f-47ba-ab8d-5a50e8e02895 a ns1:Book ;
-    ns1:author "Fanny Britt"^^xsd:string,
-        "Isabelle Arsenault"^^xsd:string ;
-    ns1:award "Prix Alvine-Bélisle",
-        "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
-        "Prix Alvine-Bélisle" .
-    ns1:dateReceived "2017"^^xsd:gYear ;
-    ns1:datePublished "2016"^^xsd:gYear ;
-    ns1:genre "0 à 17 ans"^^xsd:string,
-        "Jeunesse"^^xsd:string,
-        "Littérature canadienne"^^xsd:string,
-        "Album" ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Louis parmi les spectres"^^xsd:string ;
-    ns1:publisher ns1:La_Pastèque ;
-    ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
-        "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string,
-        "https://www.lurelu.net/prixlitt_illojeunesse.html" ;
-
 ns1:Book2a6adef9-8f34-4f71-8e08-8755672d18b4 a ns1:Book ;
     ns1:author "Arthur Ténor"^^xsd:string ;
     ns1:award "Prix Tatoulu : Tatou Noir" ;
@@ -7612,19 +7518,6 @@ ns1:Book2c339511-14f1-47cb-ad4a-d3ac27b83598 a ns1:Book ;
     ns1:name "Migrants"^^xsd:string ;
     ns1:publisher ns1:La_Joie_De_Lire ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
-
-ns1:Book2c6b594e-69c7-4e36-92d4-9b716ea51f50 a ns1:Book ;
-    ns1:author "Xavier-Laurent Petit"^^xsd:string ;
-    ns1:award "Grand Prix Sgdl Du Roman Jeunesse",
-        "Prix Des Lycéens Allemands" ;
-    ns1:dateReceived "2017"^^xsd:gYear,
-        "2018"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Le fils de l'Ursari"^^xsd:string ;
-    ns1:publisher ns1:LÉcole_Des_Loisirs ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string,
-        "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lyceens-allemands"^^xsd:string .
 
 ns1:Book2c9304a8-6bc3-410b-8f62-1383c8217e33 a ns1:Book ;
     ns1:author "Élise Turcotte"^^xsd:string ;
@@ -7987,6 +7880,22 @@ ns1:Book3174e764-79db-4a3e-80f5-8dfc8dd3136e a ns1:Book ;
     ns1:name "Nicolas Eymerich"^^xsd:string ;
     ns1:publisher ns1:Rivages ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-de-limaginaire"^^xsd:string .
+
+ns1:Book0c16c036-07b2-4fda-8c6e-f2b4fb72379e a ns1:Book ;
+    ns1:author "Marie Vareille"^^xsd:string ;
+    ns1:award "Prix Farniente : Prix Victor (13+)",
+        "Prix Pierre Bottero",
+        "Prix Des Dévoreurs De Livres" ;
+    ns1:dateReceived "2018"^^xsd:gYear,
+        "2017",
+        "2016" ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Elia, la passeuse d'âme (T. 1)"^^xsd:string ;
+    ns1:publisher ns1:Pocket_Jeunesse ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-victor",
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-pierre-bottero",
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-devoreurs-de-livres" .
 
 ns1:Book31967b7-3f23-4c70-91e1-7f8b9379de8b a ns1:Book ;
     ns1:author "Jean Elias"^^xsd:string ;
@@ -9198,6 +9107,23 @@ ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b282 a ns1:Book ;
     ns1:name "Louve"^^xsd:string ;
     ns1:publisher ns1:Thierry_Magnier ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-libra-nous"^^xsd:string .
+
+ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b283 a ns1:Book ;
+    ns1:author "Marine Carteron"^^xsd:string ;
+    ns1:award "Les Mordus Du Polar",
+        "Prix Des Dévoreurs De Livres",
+        "Prix Libr'À Nous" ;
+    ns1:dateReceived "2014"^^xsd:gYear,
+        "2015"^^xsd:gYear ;
+    ns1:genre "4e/3e",
+        "Jeunesse"^^xsd:string,
+        "Roman ado" ;
+    ns1:inLanguage "Francais" ;
+    ns1:name "Les autodafeurs (T. 1): Mon frère est un gardien"^^xsd:string ;
+    ns1:publisher ns1:Le_Rouergue ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-devoreurs-de-livres"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-libra-nous"^^xsd:string .
 
 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b284 a ns1:Book ;
     ns1:author "Vivien Gorham"^^xsd:string ;
@@ -11839,17 +11765,6 @@ ns1:Book513f6e25-bf67-40c2-b124-cf72a207d126 a ns1:Book ;
     ns1:publisher ns1:Gulf_Stream ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
-ns1:Book517b2def-59a4-4b98-b41e-af422569fa72 a ns1:Book ;
-    ns1:author "Chris Riddell"^^xsd:string ;
-    ns1:award "Tam-Tam Du Livre De Jeunesse : J'aime Lire" ;
-    ns1:dateReceived "2010"^^xsd:gYear ;
-    ns1:genre "7 à 10 ans"^^xsd:string,
-        "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Apolline et le chat masqué"^^xsd:string ;
-    ns1:publisher ns1:Milan ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/tam-tam-du-livre-de-jeunesse"^^xsd:string .
-
 ns1:Book5189a549-1d55-4ac8-96e7-b80a26aab55f a ns1:Book ;
     ns1:author "Daniel Sernine"^^xsd:string ;
     ns1:award "Prix 12 / 17 Brive-Montréal",
@@ -13162,16 +13077,6 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a408 a ns1:Book ;
     ns1:publisher ns1:Gallimard ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:string .
 
-ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a409 a ns1:Book ;
-    ns1:author "Delphine Perret"^^xsd:string ;
-    ns1:award "Les Pépites Du Salon De Montreuil : Pépite Des Petits" ;
-    ns1:dateReceived "2016"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Björn, six histoires d’ours"^^xsd:string ;
-    ns1:publisher ns1:Les_Fourmis_Rouges ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:string .
-
 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a410 a ns1:Book ;
     ns1:author "Benjamin Chaud"^^xsd:string,
         "Timothée de Fombelle"^^xsd:string ;
@@ -13929,6 +13834,25 @@ ns1:Book6159586f-76d5-4b92-a93c-ef98d82a059d a ns1:Book ;
     ns1:name "Jabberwocky"^^xsd:string ;
     ns1:publisher ns1:Kids_Can_Press ;
     ns1:url "https://www.lurelu.net/prixlitt_gouverneur.html"^^xsd:string .
+
+ns1:Book6179394f-177f-47ba-ab8d-5a50e8e02895 a ns1:Book ;
+    ns1:author "Fanny Britt"^^xsd:string,
+        "Isabelle Arsenault"^^xsd:string ;
+    ns1:award "Prix Alvine-Bélisle",
+        "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières",
+        "Prix Alvine-Bélisle" ;
+    ns1:dateReceived "2017"^^xsd:gYear ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:genre "0 à 17 ans"^^xsd:string,
+        "Jeunesse"^^xsd:string,
+        "Littérature canadienne"^^xsd:string,
+        "Album" ;
+    ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "Louis parmi les spectres"^^xsd:string ;
+    ns1:publisher ns1:La_Pastèque ;
+    ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string,
+        "https://www.lurelu.net/prixlitt_illojeunesse.html" .
 
 ns1:Book61da9564-d09e-4d35-bf48-35679d0d4c59 a ns1:Book ;
     ns1:author "Mélanie Rutten"^^xsd:string ;
@@ -15007,15 +14931,6 @@ ns1:Book704bbd9-4c9b-4461-84b2-cd7776d97a25 a ns1:Book ;
     ns1:name "Descendre au jardin"^^xsd:string ;
     ns1:publisher ns1:Cheyne ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-poesie-des-lecteurs-lire-et-faire-lire"^^xsd:string .
-
-ns1:Book70db32e7-924d-4d40-bb4e-16d23c1610e5 a ns1:Book ;
-    ns1:author "Agnès Lestrade"^^xsd:string ;
-    ns1:award "Prix Tatoulu : Tatou Bleu" ;
-    ns1:dateReceived "2014"^^xsd:gYear ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Celui qui manque"^^xsd:string ;
-    ns1:publisher ns1:Alice ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-tatoulu"^^xsd:string .
 
 ns1:Book70e5b127-98ab-4e16-a76f-7e3e99c2e235 a ns1:Book ;
     ns1:award "Biennale De L'illustration De Bratislava : Plaques D'or" ;
@@ -16131,19 +16046,6 @@ ns1:Book820b9648-8659-4840-b75c-0cde1f42834a a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_harryblack.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-harry-black-de-lalbum-jeunesse"^^xsd:string .
 
-ns1:Book82121895-a46c-45a9-9fe0-950bd3330316 a ns1:Book ;
-    ns1:author "Mélanie Baillairgé"^^xsd:string ;
-    ns1:datePublished "2022"^^xsd:string ;
-    ns1:description "Prix des libraires : Finaliste 6-11 ans : 6-11 ans"^^xsd:string,
-        "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
-    ns1:genre "6 à 11 ans"^^xsd:string,
-        "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Seuls"^^xsd:string ;
-    ns1:publisher ns1:La_Courte_Échelle ;
-    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 6-11 ans Québec&firstid=10269&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10277%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10269%3B%7D"^^xsd:string,
-        "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Québec&firstid=10269&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10269%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10277%3Bi%3A3%3Bi%3A10281%3Bi%3A4%3Bi%3A10284%3Bi%3A5%3Bi%3A10287%3B%7D"^^xsd:string .
-
 ns1:Book827b3b1c-7009-4e80-85a1-365f91e64c87 a ns1:Book ;
     ns1:award "Biennale De L'illustration De Bratislava : Pommes D'or" ;
     ns1:countryOfOrigin "Corée du Sud"^^xsd:string ;
@@ -16734,15 +16636,16 @@ ns1:Book8c155e3-51d4-45e4-95e9-8a0f437e0659 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-poesie-des-lecteurs-lire-et-faire-lire"^^xsd:string .
 
 ns1:Book8c2d3b3e-c031-43dd-ac85-036d88d6cb6b a ns1:Book ;
-    ns1:author "Bruce Roberts"^^xsd:string,
-        "Claire Vigneau"^^xsd:string ;
-    ns1:award "Prix Québec / Wallonie-Bruxelles" ;
+    ns1:author "Bruce Roberts" ;
+    ns1:award "Prix Québec",
+        "Prix Québec / Wallonie-Bruxelles" ;
     ns1:dateReceived "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Le chasseur de loups-marins"^^xsd:string ;
+    ns1:name "Le chasseur de loups-marins" ;
     ns1:publisher ns1:Les_400_Coups ;
-    ns1:url "https://www.lurelu.net/prixlitt_walloniebruxelles.html"^^xsd:string .
+    ns1:url "https://www.lurelu.net/prixlitt_walloniebruxelles.html"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-quebecwallonie-bruxelles-de-litterature-de-jeunesse"^^xsd:string .
 
 ns1:Book8c781dcf-e7fc-48b1-a4f2-bc8e6fe9a89a a ns1:Book ;
     ns1:author "Birgit Murke"^^xsd:string,
@@ -18160,14 +18063,18 @@ ns1:Booka2a2db5c-997d-4e4b-814e-6cb5a7b5d1e7 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-franco-allemand-pour-la-litterature-de-jeunesse"^^xsd:string .
 
 ns1:Booka2a5a36a-951c-48ad-a8bd-dd14100dff53 a ns1:Book ;
-    ns1:author "Delphine Perret"^^xsd:string ;
-    ns1:award "Prix Sorcières : Premières Lectures" ;
-    ns1:dateReceived "2017"^^xsd:gYear ;
+    ns1:author "Delphine Perret" ;
+    ns1:award "Les Pépites Du Salon De Montreuil : Pépite Des Petits",
+        "Prix Sorcières : Premières Lectures" ;
+    ns1:dateReceived "2016"^^xsd:gYear,
+        "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Björn, six histoire d'ours"^^xsd:string ;
+    ns1:inLanguage "Francais",
+        "Français"^^xsd:string ;
+    ns1:name "Björn, six histoire d'ours" ;
     ns1:publisher ns1:Les_Fourmis_Rouges ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
 ns1:Booka2be623c-3800-4e23-9f29-7e5d78f9d666 a ns1:Book ;
     ns1:author "Kate Klise"^^xsd:string ;
@@ -19217,17 +19124,6 @@ ns1:Bookb0e9018d-8d8a-40bc-ae29-bc1222169a6a a ns1:Book ;
     ns1:publisher ns1:Le_Rouergue ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-libbylit"^^xsd:string .
 
-ns1:Bookb0fc3ff4-f291-480a-b2e3-07523317b041 a ns1:Book ;
-    ns1:author "Geneviève Pettersen"^^xsd:string ;
-    ns1:award "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
-    ns1:dateReceived "2019"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:illustrator "François Vigneault"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "13e Avenue. Tome 1"^^xsd:string ;
-    ns1:publisher ns1:La_Pastèque ;
-    ns1:url "https://www.lurelu.net/prixlitt_slslsj.html"^^xsd:string .
-
 ns1:Bookb107ce2f-aa29-46d3-9cf5-b1f5c2b73835 a ns1:Book ;
     ns1:author "Jacinthe Chevalier"^^xsd:string ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
@@ -19485,15 +19381,18 @@ ns1:Bookb37d0d1f-4c24-4961-81b1-4eb0e9064e6a a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/gayant-lecture"^^xsd:string .
 
 ns1:Bookb37f09e9-2cb0-41a3-86c6-65f28b7f858e a ns1:Book ;
-    ns1:author "Fabrizio Sileil"^^xsd:string,
-        "Maurizio A. C. Quarello"^^xsd:string ;
-    ns1:award "Prix Libbylit" ;
-    ns1:dateReceived "2012"^^xsd:gYear ;
+    ns1:author "Fabrizio Sileil" ;
+    ns1:award "Prix Libbylit",
+        "Prix Tatoulu : Tatou Bleu" ;
+    ns1:dateReceived "2012"^^xsd:gYear,
+        "2013"^^xsd:gYear ;
     ns1:genre "Album" ;
     ns1:inLanguage "Francais" ;
-    ns1:name "Le bus de Rosa"^^xsd:string ;
-    ns1:publisher ns1:Amnesty_International ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-libbylit"^^xsd:string .
+    ns1:name "Le bus de Rosa" ;
+    ns1:publisher ns1:Amnesty_International,
+        ns1:Sarbacane ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-libbylit"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-tatoulu"^^xsd:string .
 
 ns1:Bookb3838d7-c692-4f0e-862b-6e4b0dcbf64488 a ns1:Book ;
     ns1:author "Hervé Tullet"^^xsd:string ;
@@ -21150,15 +21049,6 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba023 a ns1:Book ;
     ns1:publisher ns1:Flammarion_Père_Castor ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-saint-exupery-valeurs-jeunesse"^^xsd:string .
 
-ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba025 a ns1:Book ;
-    ns1:author "Pierre Bottero"^^xsd:string ;
-    ns1:award "Prix Saint-Exupéry - Valeurs Jeunesse : Coup De Cœur Jury Enfants" ;
-    ns1:dateReceived "2004"^^xsd:gYear ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "La quête d'Ewilan"^^xsd:string ;
-    ns1:publisher ns1:Rageot ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-saint-exupery-valeurs-jeunesse"^^xsd:string .
-
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba026 a ns1:Book ;
     ns1:author "Lamia El Saad"^^xsd:string ;
     ns1:award "Prix Saint-Exupéry - Valeurs Jeunesse : Francophonie" ;
@@ -21723,13 +21613,17 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f4ib9912 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-saint-exupery-valeurs-jeunesse"^^xsd:string .
 
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6fx9b9920 a ns1:Book ;
-    ns1:author "Hélène Montarde"^^xsd:string ;
-    ns1:award "Prix Saint-Exupéry - Valeurs Jeunesse : Roman" ;
+    ns1:author "Hélène Montarde" ;
+    ns1:award "Prix Du Roman Historique Jeunesse : 3ème-Seconde",
+        "Prix Saint-Exupéry - Valeurs Jeunesse : Roman" ;
     ns1:dateReceived "2018"^^xsd:gYear ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Marche à l'étoile"^^xsd:string ;
+    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Francais",
+        "Français"^^xsd:string ;
+    ns1:name "Marche à l'étoile" ;
     ns1:publisher ns1:Rageot ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-saint-exupery-valeurs-jeunesse"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-saint-exupery-valeurs-jeunesse"^^xsd:string .
 
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6i49b9911 a ns1:Book ;
     ns1:author "Michel Bussi"^^xsd:string ;
@@ -22920,24 +22814,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f375 a ns1:Book ;
     ns1:name "Les Autodafeurs, t.1"^^xsd:string ;
     ns1:publisher ns1:Le_Rouergue ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:string,
-        "https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens" ;
-    
-    ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b283 a ns1:Book ;
-    ns1:author "Marine Carteron"^^xsd:string ;
-    ns1:award "Les Mordus Du Polar",
-        "Prix Des Dévoreurs De Livres",
-        "Prix Libr'À Nous" ;
-    ns1:dateReceived "2014"^^xsd:gYear,
-        "2015"^^xsd:gYear ;
-    ns1:genre "4e/3e",
-        "Jeunesse"^^xsd:string,
-        "Roman ado" ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Les autodafeurs (T. 1): Mon frère est un gardien"^^xsd:string ;
-    ns1:publisher ns1:Le_Rouergue ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string,
-        "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-devoreurs-de-livres"^^xsd:string,
-        "https://www.ricochet-jeunes.org/prix-litteraires/prix-libra-nous"^^xsd:string .
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens" .
 
 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f376 a ns1:Book ;
     ns1:author "Jo Witek"^^xsd:string ;
@@ -23485,26 +23362,6 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f482 a ns1:Book ;
     ns1:publisher ns1:Seuil_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele"^^xsd:string .
 
-ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f483 a ns1:Book ;
-    ns1:author "Chris Haugton"^^xsd:string ;
-    ns1:award "Prix Bernard Versele : 1 Chouette" ;
-    ns1:dateReceived "2016"^^xsd:gYear ;
-    ns1:genre "3 ans et plus" ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Un peu perdu"^^xsd:string ;
-    ns1:publisher ns1:Thierry_Magnier ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele"^^xsd:string .
-
-ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f484 a ns1:Book ;
-    ns1:author "Chris Haugton"^^xsd:string ;
-    ns1:award "Prix Bernard Versele : 2 Chouettes" ;
-    ns1:dateReceived "2016"^^xsd:gYear ;
-    ns1:genre "5 ans et plus" ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Chut ! On a un plan"^^xsd:string ;
-    ns1:publisher ns1:Thierry_Magnier ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele"^^xsd:string .
-
 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f485 a ns1:Book ;
     ns1:author "Thomas Bretonneau"^^xsd:string ;
     ns1:award "Prix Bernard Versele : 3 Chouettes" ;
@@ -23794,14 +23651,19 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4a8 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele"^^xsd:string .
 
 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4aa a ns1:Book ;
-    ns1:author "Chris Riddekk"^^xsd:string ;
-    ns1:award "Prix Bernard Versele : 4 Chouettes" ;
+    ns1:author "Chris Riddekk" ;
+    ns1:award "Prix Bernard Versele : 4 Chouettes",
+        "Tam-Tam Du Livre De Jeunesse : J'aime Lire" ;
     ns1:dateReceived "2010"^^xsd:gYear ;
-    ns1:genre "9 ans et plus" ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Apolline et le chat masqué"^^xsd:string ;
+    ns1:genre "7 à 10 ans"^^xsd:string,
+        "9 ans et plus",
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Francais",
+        "Français"^^xsd:string ;
+    ns1:name "Apolline et le chat masqué" ;
     ns1:publisher ns1:Milan ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/tam-tam-du-livre-de-jeunesse"^^xsd:string .
 
 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f4ab a ns1:Book ;
     ns1:author "Yael Frankel"^^xsd:string ;
@@ -24695,8 +24557,7 @@ ns1:Bookbaec8824-8af2-4f9a-99d5-64feafabaff9 a ns1:Book ;
     ns1:name "Les Robinsons de l'île Tromelin : l'histoire vraie de Tsimiavo"^^xsd:string ;
     ns1:publisher ns1:Belin_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-unicef-de-litterature-jeunesse"^^xsd:string,
-        "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse" ;
-
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse" .
 
 ns1:Bookcc45c8b2-b407-4d08-9f66-7d990468333c a ns1:Book ;
     ns1:author "Danielle Martinigol"^^xsd:string ;
@@ -25469,15 +25330,19 @@ ns1:Bookd784f9c6-7a4f-4f57-9f99-6e1135bda5fb a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
 ns1:Bookd7ac2236-7118-4ab7-bc95-be7e1fee1a3a a ns1:Book ;
-    ns1:author "Geneviève Pettersen"^^xsd:string ;
-    ns1:award "Prix Jeunesse Des Libraires Du Québec" ;
-    ns1:dateReceived "2020"^^xsd:gYear ;
+    ns1:author "Geneviève Pettersen" ;
+    ns1:award "Prix Jeunesse Des Libraires Du Québec",
+        "Prix Littéraires Du Salon Du Livre Du Saguenay-Lac-Saint-Jean" ;
+    ns1:dateReceived "2019"^^xsd:gYear,
+        "2020"^^xsd:gYear ;
     ns1:genre "Bande dessinée"^^xsd:string,
         "Jeunesse"^^xsd:string ;
+    ns1:illustrator "François Vigneault"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "13e Avenue, tome"^^xsd:string ;
+    ns1:name "13e Avenue, tome" ;
     ns1:publisher ns1:La_Pastèque ;
-    ns1:url "https://www.lurelu.net/prixlitt_jeunesse-librair.html"^^xsd:string .
+    ns1:url "https://www.lurelu.net/prixlitt_jeunesse-librair.html"^^xsd:string,
+        "https://www.lurelu.net/prixlitt_slslsj.html"^^xsd:string .
 
 ns1:Bookd7d46b49-7a7f-4d6a-8f26-8abf3daa39ea a ns1:Book ;
     ns1:author "Katherine Paterson"^^xsd:string ;
@@ -25528,15 +25393,21 @@ ns1:Bookd8454ce4-5688-4bff-bb8d-56e0292afec2 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 ns1:Bookd8493605-9247-4eb3-9202-217611910c14 a ns1:Book ;
-    ns1:author "Mélanie Baillargé"^^xsd:string ;
+    ns1:author "Mélanie Baillargé" ;
     ns1:award "Prix Illustration Jeunesse — Salon Du Livre De Trois-Rivières" ;
+    ns1:datePublished "2022"^^xsd:string ;
     ns1:dateReceived "2023"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string,
+    ns1:description "Prix des libraires : Finaliste 6-11 ans : 6-11 ans"^^xsd:string,
+        "Prix des libraires : Préliminaire 6-11 ans : 6-11 ans"^^xsd:string ;
+    ns1:genre "6 à 11 ans"^^xsd:string,
+        "Jeunesse"^^xsd:string,
         "Petit roman illustré"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Seuls"^^xsd:string ;
+    ns1:name "Seuls" ;
     ns1:publisher ns1:La_Courte_Échelle ;
-    ns1:url "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string .
+    ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Finalistes 6-11 ans Québec&firstid=10269&theme=jeunesse&book_id_list=a%3A3%3A%7Bi%3A0%3Bi%3A10277%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10269%3B%7D"^^xsd:string,
+        "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 6-11 ans Québec&firstid=10269&theme=jeunesse&book_id_list=a%3A6%3A%7Bi%3A0%3Bi%3A10269%3Bi%3A1%3Bi%3A10273%3Bi%3A2%3Bi%3A10277%3Bi%3A3%3Bi%3A10281%3Bi%3A4%3Bi%3A10284%3Bi%3A5%3Bi%3A10287%3B%7D"^^xsd:string,
+        "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string .
 
 ns1:Bookd8496210-7718-4000-b0ae-63d713e1f368 a ns1:Book ;
     ns1:author "Eduard Blanch"^^xsd:string,
@@ -26776,14 +26647,20 @@ ns1:Booke5a1963d-84f9-4ad6-a3f2-b62eade2256e a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/goncourt-des-lyceens"^^xsd:string .
 
 ns1:Booke5d3167f-1607-4caf-8156-4f3df82aa8bd a ns1:Book ;
-    ns1:author " Xavier-Laurent Petit"^^xsd:string ;
-    ns1:award "Prix Sorcières : Roman Ados" ;
-    ns1:dateReceived "2017"^^xsd:gYear ;
+    ns1:author " Xavier-Laurent Petit" ;
+    ns1:award "Grand Prix Sgdl Du Roman Jeunesse",
+        "Prix Des Lycéens Allemands",
+        "Prix Sorcières : Roman Ados" ;
+    ns1:dateReceived "2017"^^xsd:gYear,
+        "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Le fils de l'Usari"^^xsd:string ;
+    ns1:inLanguage "Francais",
+        "Français"^^xsd:string ;
+    ns1:name "Le fils de l'Usari" ;
     ns1:publisher ns1:LÉcole_Des_Loisirs ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lyceens-allemands"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
 ns1:Booke6409dc5-3940-4a44-947d-d4f73723d90e a ns1:Book ;
     ns1:author "Antonin Louchard"^^xsd:string,
@@ -26865,14 +26742,19 @@ ns1:Booke7d1c672-496e-429b-b5bf-21925def3c00 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
 ns1:Booke816c7ff-fade-4b75-8bbd-cd27dbd88e45 a ns1:Book ;
-    ns1:author "Rébecca Dautremer"^^xsd:string ;
-    ns1:award "Grand Prix De L'Illustration" ;
+    ns1:author "Rébecca Dautremer" ;
+    ns1:award "Grand Prix De L'Illustration",
+        "Prix Chrétien De Troyes",
+        "Prix Franco-Allemand Pour La Littérature De Jeunesse : France" ;
     ns1:dateReceived "2019"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
+    ns1:genre "Jeunesse",
+        "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
-    ns1:name "Les riches heures de Jacominus Gainsborough"^^xsd:string ;
+    ns1:name "Les riches heures de Jacominus Gainsborough" ;
     ns1:publisher ns1:Sarbacane ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-de-lillustration"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-de-lillustration"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-chretien-de-troyes"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-franco-allemand-pour-la-litterature-de-jeunesse"^^xsd:string .
 
 ns1:Booke97575d1-183d-4053-9ecb-57194cf9ca4b a ns1:Book ;
     ns1:author "Fabien Bedouel"^^xsd:string,
@@ -27054,14 +26936,18 @@ ns1:Booked7801b25-682b-4b36-9f97-38acfb3be3d4 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/biennale-de-lillustration-de-bratislava"^^xsd:string .
 
 ns1:Booked7a4221-0d39-4370-a445-9ca6b61df9d1 a ns1:Book ;
-    ns1:author "Chris Haughton"^^xsd:string ;
-    ns1:award "Prix Des Incorruptibles" ;
-    ns1:dateReceived "2015"^^xsd:gYear ;
-    ns1:genre "Maternelle" ;
+    ns1:author "Chris Haughton" ;
+    ns1:award "Prix Bernard Versele : 2 Chouettes",
+        "Prix Des Incorruptibles" ;
+    ns1:dateReceived "2015"^^xsd:gYear,
+        "2016"^^xsd:gYear ;
+    ns1:genre "5 ans et plus",
+        "Maternelle" ;
     ns1:inLanguage "Francais" ;
-    ns1:name "Chut ! On a un plan"^^xsd:string ;
+    ns1:name "Chut ! On a un plan" ;
     ns1:publisher ns1:Thierry_Magnier ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-incorruptibles"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-incorruptibles"^^xsd:string .
 
 ns1:Booked7a4921-0d39-4330-a445-9ca6b61df9d1 a ns1:Book ;
     ns1:author "Marta Atlès"^^xsd:string ;
@@ -27771,23 +27657,14 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9a9 a ns1:Book ;
     ns1:publisher ns1:Rageot ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-devoreurs-de-livres"^^xsd:string .
 
-ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9ab a ns1:Book ;
-    ns1:author "Pascale Perrier"^^xsd:string ;
-    ns1:award "Prix Des Dévoreurs De Livres" ;
-    ns1:dateReceived "2013"^^xsd:gYear ;
-    ns1:genre "CM1/CM2" ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Tu n’es pas celle que tu crois"^^xsd:string ;
-    ns1:publisher ns1:Rageot ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-devoreurs-de-livres"^^xsd:string .
-
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9ac a ns1:Book ;
-    ns1:author "Pascale Perrier"^^xsd:string ;
+    ns1:author "Pascale Perrier" ;
     ns1:award "Prix Des Dévoreurs De Livres" ;
     ns1:dateReceived "2013"^^xsd:gYear ;
-    ns1:genre "6e" ;
+    ns1:genre "6e",
+        "CM1/CM2" ;
     ns1:inLanguage "Francais" ;
-    ns1:name "Tu n'est pas celle que tu crois"^^xsd:string ;
+    ns1:name "Tu n'est pas celle que tu crois" ;
     ns1:publisher ns1:Rageot ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-devoreurs-de-livres"^^xsd:string .
 
@@ -28124,14 +28001,16 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d118 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse"^^xsd:string .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d119 a ns1:Book ;
-    ns1:author "Pierre Botero"^^xsd:string ;
-    ns1:award "Prix Imaginales" ;
+    ns1:author "Pierre Botero" ;
+    ns1:award "Prix Imaginales",
+        "Prix Saint-Exupéry - Valeurs Jeunesse : Coup De Cœur Jury Enfants" ;
     ns1:dateReceived "2004"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
     ns1:inLanguage "Francais" ;
-    ns1:name "La quête d'Ewilan"^^xsd:string ;
+    ns1:name "La quête d'Ewilan" ;
     ns1:publisher ns1:Rageot ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-categorie-jeunesse"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-saint-exupery-valeurs-jeunesse"^^xsd:string .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d12 a ns1:Book ;
     ns1:author "Véronique Delamarre"^^xsd:string ;
@@ -28208,6 +28087,16 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d126 a ns1:Book ;
     ns1:publisher ns1:Syros ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda"^^xsd:string .
+
+ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d128 a ns1:Book ;
+    ns1:author "Marine Carteron"^^xsd:string ;
+    ns1:award "Prix Imaginales Des Collégiens" ;
+    ns1:dateReceived "2015"^^xsd:gYear ;
+    ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Francais" ;
+    ns1:name "Les Autodafeurs"^^xsd:string ;
+    ns1:publisher ns1:Le_Rouergue ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens"^^xsd:string .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d129 a ns1:Book ;
     ns1:author "Yves Grevet"^^xsd:string ;
@@ -29071,16 +28960,6 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d161 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Délit de solidarité"^^xsd:string ;
     ns1:publisher ns1:Le_Rouergue ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda"^^xsd:string .
-
-ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d1611 a ns1:Book ;
-    ns1:author "Mikaël Ollivier"^^xsd:string ;
-    ns1:award "Prix Jacaranda" ;
-    ns1:dateReceived "2013"^^xsd:gYear ;
-    ns1:genre "Jeunesse" ;
-    ns1:inLanguage "Francais" ;
-    ns1:name "Le monde dans la main"^^xsd:string ;
-    ns1:publisher ns1:Thierry_Magnier ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda"^^xsd:string .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d1612 a ns1:Book ;
@@ -29975,14 +29854,16 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d67 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lyceens-allemands"^^xsd:string .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d69 a ns1:Book ;
-    ns1:author "Mikaël Olliver"^^xsd:string ;
-    ns1:award "Prix Des Lycéens Allemands" ;
+    ns1:author "Mikaël Olliver" ;
+    ns1:award "Prix Des Lycéens Allemands",
+        "Prix Jacaranda" ;
     ns1:dateReceived "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
     ns1:inLanguage "Francais" ;
-    ns1:name "Le monde dans la main"^^xsd:string ;
+    ns1:name "Le monde dans la main" ;
     ns1:publisher ns1:Thierry_Magnier ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lyceens-allemands"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lyceens-allemands"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda"^^xsd:string .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d6b a ns1:Book ;
     ns1:author "Marie-Sabine Roger"^^xsd:string ;
@@ -31181,14 +31062,19 @@ ns1:Bookee3768e1-4ede-40f9-8248-f928876d8c27 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
 ns1:Bookee385b37-ed85-4192-a693-5b2bd9a24e53 a ns1:Book ;
-    ns1:author "Chris Haughton"^^xsd:string ;
-    ns1:award "Prix Sorcières : Tout-Petits" ;
-    ns1:dateReceived "2012"^^xsd:gYear ;
-    ns1:genre "Jeunesse"^^xsd:string ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Un peu perdu"^^xsd:string ;
+    ns1:author "Chris Haughton" ;
+    ns1:award "Prix Bernard Versele : 1 Chouette",
+        "Prix Sorcières : Tout-Petits" ;
+    ns1:dateReceived "2012"^^xsd:gYear,
+        "2016"^^xsd:gYear ;
+    ns1:genre "3 ans et plus",
+        "Jeunesse"^^xsd:string ;
+    ns1:inLanguage "Francais",
+        "Français"^^xsd:string ;
+    ns1:name "Un peu perdu" ;
     ns1:publisher ns1:Thierry_Magnier ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bernard-versele"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
 ns1:Bookeef2bbd9-1da1-4eca-a2d8-32dd8a1b8c16 a ns1:Book ;
     ns1:author "Lina Rousseau"^^xsd:string,
@@ -31998,15 +31884,18 @@ ns1:Bookfbc56f85-f2a7-4ce0-a11b-65b9d663a2df a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-libbylit"^^xsd:string .
 
 ns1:Bookfbdf7e12-dc94-4d1c-a940-3e5b0f7c07e5 a ns1:Book ;
-    ns1:author "Agnès De Lestrade"^^xsd:string ;
-    ns1:award "Gayant Lecture" ;
+    ns1:author "Agnès De Lestrade" ;
+    ns1:award "Gayant Lecture",
+        "Prix Tatoulu : Tatou Bleu" ;
     ns1:dateReceived "2014"^^xsd:gYear ;
     ns1:genre "12 ans et plus"^^xsd:string,
         "Jeunesse" ;
-    ns1:inLanguage "Français"^^xsd:string ;
-    ns1:name "Celui qui manque"^^xsd:string ;
+    ns1:inLanguage "Francais",
+        "Français"^^xsd:string ;
+    ns1:name "Celui qui manque" ;
     ns1:publisher ns1:Alice ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/gayant-lecture"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/gayant-lecture"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-tatoulu"^^xsd:string .
 
 ns1:Bookfbed1e77-84ff-46bc-a832-6814a5b34b78 a ns1:Book ;
     ns1:author "Anaïs Bernabé"^^xsd:string,

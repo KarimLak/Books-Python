@@ -21,7 +21,7 @@ def get_publishers_list(filepath):
 publishers_list = get_publishers_list('./publishers.csv')
 
 # Your input string
-input_string = "Edition"
+input_string = "none"
 
 # Find the closest publisher and print it
 closest_publisher = best_matching_publisher(input_string, publishers_list)
