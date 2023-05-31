@@ -32040,9 +32040,3 @@ ns1:Bookff96d754-84d5-4bb7-940d-13d361df0aae a ns1:Book ;
     ns1:publisher ns1:Mango_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-des-jeunes-lecteurs-de-la-peep"^^xsd:string .
 
-ns1:DigitalCreation5d46f4e3-1062-48d9-9e6e-6eae2db5a41f a ns1:DigitalCreation ;
-    ns1:award "Les Pépites Du Salon De Montreuil : Pépite De La Création Numérique" ;
-    ns1:genre "Jeu d’aventure pour enfant"^^xsd:string ;
-    ns1:name "Botanicula"^^xsd:string ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-pepites-du-salon-de-montreuil"^^xsd:string .
-
