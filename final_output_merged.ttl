@@ -7605,8 +7605,7 @@ ns1:Book2daca96c-1e68-487c-b507-9485f6a0306e a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Nul poisson où aller"^^xsd:string ;
-    ns1:publisher ns1:Les_400_Coups,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Les_400_Coups ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
