@@ -3394,7 +3394,7 @@ ns1:Book1e4d5b27-45ae-4568-a369-f109f771bcg2 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Hypallage (T. 1). Amour chrome"^^xsd:string ;
     ns1:publisher ns1:LÉcole_Des_Loisirs ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres/Book3"^^xsd:string,
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-vendredi"^^xsd:string .
 
 ns1:Book1e4d5b27-45ae-4568-a369-f109f771bclp a ns1:Book ;
@@ -4016,7 +4016,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0694 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Les mésanges (T. 1). Abi"^^xsd:string ;
     ns1:publisher ns1:Le_Rouergue ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres/Book1"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0695 a ns1:Book ;
     ns1:author "Clou"^^xsd:string ;
@@ -4026,7 +4026,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0695 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Doux mots dits"^^xsd:string ;
     ns1:publisher ns1:Rageot ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres/Book2"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0697 a ns1:Book ;
     ns1:author "Aurélie Massé"^^xsd:string ;
@@ -4036,7 +4036,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0697 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Cette nuit-là"^^xsd:string ;
     ns1:publisher ns1:Slalom ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres/Book4"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0698 a ns1:Book ;
     ns1:author "Sandrine Caillis"^^xsd:string ;
@@ -4046,7 +4046,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0698 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Les ombres que nous sommes"^^xsd:string ;
     ns1:publisher ns1:Thierry_Magnier ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres/Book5"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0699 a ns1:Book ;
     ns1:author "Alice Parriat"^^xsd:string ;
@@ -4056,7 +4056,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0699 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Des yeux de loup"^^xsd:string ;
     ns1:publisher ns1:LÉcole_Des_Loisirs ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres/Book6"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba069f a ns1:Book ;
     ns1:author "Claire Franek"^^xsd:string ;
@@ -4088,7 +4088,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0700 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Droit devant"^^xsd:string ;
     ns1:publisher ns1:Samir_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres/Book7"^^xsd:string,
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-tatoulu"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0701 a ns1:Book ;
@@ -4099,7 +4099,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0701 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "La fleur perdue du chamane de K."^^xsd:string ;
     ns1:publisher ns1:LÉcole_Des_Loisirs ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book1"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0702 a ns1:Book ;
     ns1:author "Kim Liggett"^^xsd:string ;
@@ -4114,7 +4114,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0702 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "L'année de grâce"^^xsd:string ;
     ns1:publisher ns1:Casterman ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book2"^^xsd:string,
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-franco-allemand-pour-la-litterature-de-jeunesse"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-libra-nous"^^xsd:string .
 
@@ -4126,7 +4126,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0703 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Ceux qui ne peuvent pas mourir (T. 1). La bête de Porte-Vent"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book3"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0704 a ns1:Book ;
     ns1:author "Ben Oliver"^^xsd:string ;
@@ -4136,7 +4136,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0704 a ns1:Book ;
     ns1:inLanguage "Anglais" ;
     ns1:name "The Loop (T. 1)"^^xsd:string ;
     ns1:publisher ns1:La_Martinière_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book4"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0705 a ns1:Book ;
     ns1:author "Nathalie Stragier"^^xsd:string ;
@@ -4146,7 +4146,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0705 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Signe particulier: transparente"^^xsd:string ;
     ns1:publisher ns1:Syros ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book5"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0706 a ns1:Book ;
     ns1:author "Kristen Ciccarelli"^^xsd:string ;
@@ -4156,7 +4156,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0706 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Iskari (T.1). Asha, tueuse de dragons"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book6"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0707 a ns1:Book ;
     ns1:author "Antonin Atger"^^xsd:string ;
@@ -4169,7 +4169,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0707 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Interfeel"^^xsd:string ;
     ns1:publisher ns1:Pocket_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book7"^^xsd:string,
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lecteurs-en-seine"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0708 a ns1:Book ;
@@ -4180,7 +4180,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0708 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Shadow Magic"^^xsd:string ;
     ns1:publisher ns1:Seuil_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book8"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0709 a ns1:Book ;
     ns1:author "Marie Lu"^^xsd:string ;
@@ -4190,7 +4190,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0709 a ns1:Book ;
     ns1:inLanguage "Anglais" ;
     ns1:name "Warcross"^^xsd:string ;
     ns1:publisher ns1:Pocket_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book9"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0710 a ns1:Book ;
     ns1:author "Alain Gagno"^^xsd:string ;
@@ -4200,7 +4200,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0710 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Power club"^^xsd:string ;
     ns1:publisher ns1:Syros ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book10"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0711 a ns1:Book ;
     ns1:author "Amie Kaufman"^^xsd:string ;
@@ -4210,7 +4210,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0711 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Illuminae"^^xsd:string ;
     ns1:publisher ns1:Casterman ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book11"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0712 a ns1:Book ;
     ns1:author "Benjamin Desmares"^^xsd:string ;
@@ -4220,7 +4220,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0712 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Une histoire de sable"^^xsd:string ;
     ns1:publisher ns1:Le_Rouergue ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book12"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0713 a ns1:Book ;
     ns1:author "Leigh Bardugo"^^xsd:string ;
@@ -4230,7 +4230,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0713 a ns1:Book ;
     ns1:inLanguage "Anglais" ;
     ns1:name "Six of crows"^^xsd:string ;
     ns1:publisher ns1:Milan ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book13"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0714 a ns1:Book ;
     ns1:author "Jonathan Stroud"^^xsd:string ;
@@ -4240,7 +4240,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0714 a ns1:Book ;
     ns1:inLanguage "Anglais" ;
     ns1:name "Lockwood & co (T. 1). L'escalier hurleur"^^xsd:string ;
     ns1:publisher ns1:Albin_Michel_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book14"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0715 a ns1:Book ;
     ns1:author "Victor Dixen"^^xsd:string ;
@@ -4264,7 +4264,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0716 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le noir est ma couleur (T. 1). Le pari"^^xsd:string ;
     ns1:publisher ns1:Rageot ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book16"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0717 a ns1:Book ;
     ns1:author "Sarah J. Maas"^^xsd:string ;
@@ -4274,7 +4274,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0717 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Keleana (T. 1). L’assassineuse"^^xsd:string ;
     ns1:publisher ns1:La_Martinière_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book17"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0718 a ns1:Book ;
     ns1:author "Matthias Rouage"^^xsd:string ;
@@ -4284,7 +4284,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0718 a ns1:Book ;
     ns1:inLanguage "Anglais" ;
     ns1:name "Zoanthropes"^^xsd:string ;
     ns1:publisher ns1:Scrineo_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book18"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0719 a ns1:Book ;
     ns1:author "Rick Yancey"^^xsd:string ;
@@ -4294,7 +4294,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0719 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "La 5e vague"^^xsd:string ;
     ns1:publisher ns1:Robert_Laffont ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book19"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0720 a ns1:Book ;
     ns1:author "Karim Ressouni-Demigneux"^^xsd:string ;
@@ -4304,7 +4304,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0720 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "La Cité (t. 1). Lumière blanche"^^xsd:string ;
     ns1:publisher ns1:Rue_Du_Monde ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book20"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0721 a ns1:Book ;
     ns1:author "Veronica Roth"^^xsd:string ;
@@ -4314,7 +4314,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0721 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Divergente (t. 1)"^^xsd:string ;
     ns1:publisher ns1:Nathan ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book21"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0722 a ns1:Book ;
     ns1:author "Pittacus Lore"^^xsd:string ;
@@ -4324,7 +4324,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0722 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Numéro quatre"^^xsd:string ;
     ns1:publisher ns1:Baam ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book22"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0723 a ns1:Book ;
     ns1:author "Jean-Claude Mourlevat"^^xsd:string ;
@@ -4341,7 +4341,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0723 a ns1:Book ;
     ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:string,
-        "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book23"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0724 a ns1:Book ;
@@ -4352,7 +4352,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0724 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Les étranges soeurs Wilcox - tome 1 : Les vampires de Londres"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book24"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0725 a ns1:Book ;
     ns1:author "Suzanne Collins"^^xsd:string ;
@@ -4362,7 +4362,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0725 a ns1:Book ;
     ns1:inLanguage "Francais" ;
     ns1:name "Hunger Games - tome 1"^^xsd:string ;
     ns1:publisher ns1:Pocket_Jeunesse ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book25"^^xsd:string .
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0730 a ns1:Book ;
     ns1:author "Carl Norac"^^xsd:string,
