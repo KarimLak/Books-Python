@@ -44,8 +44,7 @@ ns1:Book008ef417-ea6a-446b-b85c-51ca5c656e0c a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "L’ourson qui voulait une Juliette"^^xsd:string ;
-    ns1:publisher ns1:La_Courte_Échelle,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -59,8 +58,7 @@ ns1:Book00970f12-4d50-4abe-adec-15d82ed31e7b a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Sauvetages"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Québec_Amérique ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string .
 
 ns1:Book00b5f449-621c-4001-bdbd-5dce41f209f7 a ns1:Book ;
@@ -842,8 +840,7 @@ ns1:Book03b1ce89-77e5-41f9-a6dd-fc23aca3bff2 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Ouram"^^xsd:string ;
-    ns1:publisher ns1:Leméac,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Leméac ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -1078,8 +1075,7 @@ ns1:Book063484de-543b-4d86-b3b6-9007d5ed5d39 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "La petite fille qui ne souriait plus"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Soulières ;
+    ns1:publisher ns1:Soulières ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -1361,8 +1357,7 @@ ns1:Book09cdb986-75c7-4889-b9c9-d18216082dcf a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Guerres"^^xsd:string ;
-    ns1:publisher ns1:La_Courte_Échelle,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -1635,8 +1630,7 @@ ns1:Book0c44fb3d-9461-4f9e-8eae-865233f0581c a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "La vengeance d'Adeline Parot"^^xsd:string ;
-    ns1:publisher ns1:Boréal,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Boréal ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -1926,8 +1920,7 @@ ns1:Book0f2abcf3-c53d-4229-b3d7-4c8f86cc90b1 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Ce qu’ils n’ont pas pu nous prendre"^^xsd:string ;
-    ns1:publisher ns1:Gallimard,
-        ns1:Gallimard_Jeunesse ;
+    ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-incorruptibles"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
@@ -2069,8 +2062,7 @@ ns1:Book10754848-486c-4136-afd6-d16a108ae9b2 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Ne touchez pas à ma Babouche"^^xsd:string ;
-    ns1:publisher ns1:La_Courte_Échelle,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -2113,8 +2105,7 @@ ns1:Book1156a9f0-8a84-457c-b5f9-44d2bc64fd1c a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "La 42e soeur de Bébert"^^xsd:string ;
-    ns1:publisher ns1:Hachette_Jeunesse,
-        ns1:Québec_Amérique ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-semaine-paul-hurtmans-du-livre-de-jeunesse"^^xsd:string .
 
@@ -2138,8 +2129,7 @@ ns1:Book1168e687-2f27-404e-b07d-ded8888e2a71 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Fé verte"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Québec_Amérique ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -2623,8 +2613,7 @@ ns1:Book16bba4a-57b7-471d-bbd1-c0f4f4e25d15 a ns1:Book ;
         "Roman ado" ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le temps des miracles"^^xsd:string ;
-    ns1:publisher ns1:Bayard,
-        ns1:Bayard_Jeunesse ;
+    ns1:publisher ns1:Bayard_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/gayant-lecture"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-lyceens-allemands"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-libbylit"^^xsd:string,
@@ -2827,8 +2816,7 @@ ns1:Book1a534bfe-e59c-4aa0-997b-ab83b0a40780 a ns1:Book ;
         "Texte"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "L'importance de Mathilde Poisson"^^xsd:string ;
-    ns1:publisher ns1:Bayard_Canada,
-        ns1:Kids_Can_Press ;
+    ns1:publisher ns1:Bayard_Canada ;
     ns1:url "https://www.lurelu.net/prixlitt_gouverneur.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraires-du-gouverneur-general-du-canada"^^xsd:string .
 
@@ -2976,8 +2964,7 @@ ns1:Book1bc99a1d-66a7-4d6e-90e9-bb217f4bc69e a ns1:Book ;
         "Littérature : CE1 - CE2" ;
     ns1:inLanguage "Francais" ;
     ns1:name "L'enfant qui n'avait jamais vu une fleur"^^xsd:string ;
-    ns1:publisher ns1:Bayard,
-        ns1:La_Bagnole ;
+    ns1:publisher ns1:Bayard ;
     ns1:url "https://www.lurelu.net/prixlitt_monteregie.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-saint-exupery-valeurs-jeunesse"^^xsd:string .
@@ -3035,8 +3022,7 @@ ns1:Book1c5b1b61-01dd-420e-9e56-67c4c37393d4 a ns1:Book ;
         "Théâtre"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Deux pas vers les étoiles"^^xsd:string ;
-    ns1:publisher ns1:Dramaturges,
-        ns1:François_Gravel ;
+    ns1:publisher ns1:Dramaturges ;
     ns1:url "https://www.lurelu.net/prixlitt_gouverneur.html"^^xsd:string,
         "https://www.lurelu.net/prixlitt_masque.html"^^xsd:string .
 
@@ -3052,8 +3038,7 @@ ns1:Book1c647c52-d522-4b54-806a-007cb1e2d09a a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le jour où Zoé zozota"^^xsd:string ;
-    ns1:publisher ns1:Les_400_Coups,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Les_400_Coups ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
@@ -3163,8 +3148,7 @@ ns1:Book1d38d34a-4790-4c19-9f34-ec41850e4055 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "La ligne de trappe"^^xsd:string ;
-    ns1:publisher ns1:Hurtubise,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Hurtubise ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -3178,8 +3162,7 @@ ns1:Book1d3b9e79-6764-4b38-b19c-4449523611cb a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Jeanne, fille du Roy"^^xsd:string ;
-    ns1:publisher ns1:Fides,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Fides ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -4104,8 +4087,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0700 a ns1:Book ;
     ns1:genre "Jeunesse" ;
     ns1:inLanguage "Francais" ;
     ns1:name "Droit devant"^^xsd:string ;
-    ns1:publisher ns1:Samir,
-        ns1:Samir_Jeunesse ;
+    ns1:publisher ns1:Samir_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-cendres/Book7"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-tatoulu"^^xsd:string .
 
@@ -4270,11 +4252,9 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0715 a ns1:Book ;
         "Jeunesse" ;
     ns1:inLanguage "Francais" ;
     ns1:name "Phobos"^^xsd:string ;
-    ns1:publisher ns1:R-Jeunes_Adultes,
-        ns1:Robert_Laffont ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book15"^^xsd:string,
-        "https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens"^^xsd:string,
-        "https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-lyceens"^^xsd:string .
+    ns1:publisher ns1:Robert_Laffont ;
+    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere"^^xsd:string,
+        "https://www.ricochet-jeunes.org/prix-litteraires/prix-imaginales-des-collegiens"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0716 a ns1:Book ;
     ns1:author "Olivier Gay"^^xsd:string ;
@@ -4358,8 +4338,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0723 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Terrienne"^^xsd:string ;
-    ns1:publisher ns1:Gallimard,
-        ns1:Gallimard_Jeunesse ;
+    ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-chimere/Book23"^^xsd:string,
@@ -4778,8 +4757,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0811 a ns1:Book ;
         "Littérature : CM1 - CM2" ;
     ns1:inLanguage "Francais" ;
     ns1:name "Toute seule dans la nuit"^^xsd:string ;
-    ns1:publisher ns1:Alice,
-        ns1:Alice_Jeunesse ;
+    ns1:publisher ns1:Alice_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-suisse"^^xsd:string .
 
@@ -4975,8 +4953,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0828 a ns1:Book ;
     ns1:genre "Jeunesse" ;
     ns1:inLanguage "Francais" ;
     ns1:name "153 jours en hiver"^^xsd:string ;
-    ns1:publisher ns1:Flammarion,
-        ns1:Flammarion_Père_Castor ;
+    ns1:publisher ns1:Flammarion_Père_Castor ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-suisse"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-saint-exupery-valeurs-jeunesse"^^xsd:string .
 
@@ -5498,8 +5475,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0880 a ns1:Book ;
         "Littérature : CM1 - CM2" ;
     ns1:inLanguage "Francais" ;
     ns1:name "Teddy n'a-qu'un-oeil"^^xsd:string ;
-    ns1:publisher ns1:Hachette,
-        ns1:Hachette_Jeunesse ;
+    ns1:publisher ns1:Hachette_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/gayant-lecture"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature"^^xsd:string .
 
@@ -5952,8 +5928,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0929 a ns1:Book ;
         "Littérature : 6e – 5e" ;
     ns1:inLanguage "Francais" ;
     ns1:name "Aussi libres qu'un rêve"^^xsd:string ;
-    ns1:publisher ns1:Mango,
-        ns1:Mango_Jeunesse ;
+    ns1:publisher ns1:Mango_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chronos-de-litterature"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacaranda"^^xsd:string .
 
@@ -6698,8 +6673,7 @@ ns1:Book216d876b-ebd5-4676-ae84-88ccc2e1b83e a ns1:Book ;
         "Primaire"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "La guerre des bébés"^^xsd:string ;
-    ns1:publisher ns1:La_Courte_Échelle,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.lurelu.net/prixlitt_espiegle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
@@ -6841,8 +6815,7 @@ ns1:Book231a1ddc-5f5d-40b8-8bec-c5d466fe717b a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Les saisons de la mer"^^xsd:string ;
-    ns1:publisher ns1:Fides,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Fides ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -6856,8 +6829,7 @@ ns1:Book237e78c8-f203-4a0d-a535-213d828a7005 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Klonk"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Québec_Amérique ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -7085,8 +7057,7 @@ ns1:Book265fd4e1-991c-47b9-81a7-9f3f2f4fa295 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Venir au monde"^^xsd:string ;
-    ns1:publisher ns1:La_Courte_Échelle,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -7100,8 +7071,7 @@ ns1:Book268f02e2-6574-480a-8885-7f6e38d5993c a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Ma meilleure amie"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Québec_Amérique ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string .
 
 ns1:Book26a2eacc-9c6f-4e81-a532-cab3d6201b1d a ns1:Book ;
@@ -7241,8 +7211,7 @@ ns1:Book28ebc9ab-ae3b-4ea7-8a82-86409a3d9c01 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Aller-Retour"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Pierre_Tisseyre ;
+    ns1:publisher ns1:Pierre_Tisseyre ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -7335,8 +7304,7 @@ ns1:Book2a888fca-9522-4591-b32f-7e9af0db5f2e a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le voyage à la recherche du temps"^^xsd:string ;
-    ns1:publisher ns1:Mondia,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Mondia ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -7417,8 +7385,7 @@ ns1:Book2b3c04d5-0900-4d8b-95bf-cf2e917e9bb8 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "La route de Chlifa"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Québec_Amérique ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.lurelu.net/prixlitt_brivemontreal.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:string,
@@ -7432,8 +7399,7 @@ ns1:Book2b4a8672-6128-4bbd-9b54-47072272d4d7 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Pax et le petit soldat"^^xsd:string ;
-    ns1:publisher ns1:Gallimard,
-        ns1:Gallimard_Jeunesse ;
+    ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
@@ -7654,8 +7620,7 @@ ns1:Book2db8588c-2a3b-48a3-af8e-5a42d5d36a9d a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Stella, princesse de la nuit"^^xsd:string ;
-    ns1:publisher ns1:Dominique_Et_Compagnie,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Dominique_Et_Compagnie ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -7735,8 +7700,7 @@ ns1:Book2ec4fcda-8ad6-40a1-9a9e-dadb2767b60d a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Les quatre saisons de Piquot"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Nouvelles_Éditions_De_LArc ;
+    ns1:publisher ns1:Nouvelles_Éditions_De_LArc ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -7950,8 +7914,7 @@ ns1:Book32415515-b16c-4dc5-88b7-655d98b17fd8 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Zunik"^^xsd:string ;
-    ns1:publisher ns1:La_Courte_Échelle,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.lurelu.net/prixlitt_walloniebruxelles.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string,
@@ -8233,8 +8196,7 @@ ns1:Book3661552f-e694-4e09-89a4-95fa3ff14888 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Ma vie ne sait pas nager"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Québec_Amérique ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.lurelu.net/prixlitt_biblioMTL.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
@@ -8470,8 +8432,7 @@ ns1:Book39f85bd6-ddf6-4693-b726-3cddbc6cf8a6 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Christophe au grand cœur"^^xsd:string ;
-    ns1:publisher ns1:Dominique_Et_Compagnie,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Dominique_Et_Compagnie ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -8495,8 +8456,7 @@ ns1:Book3a22e27f-8b43-4555-a3b2-2442cb3fb397 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name " Maman veut partir"^^xsd:string ;
-    ns1:publisher ns1:Leméac,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Leméac ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -8582,8 +8542,7 @@ ns1:Book3b219652-5b54-4360-9726-4aaf69d1ebc1 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Hochelaga mon quartier"^^xsd:string ;
-    ns1:publisher ns1:La_Bagnole,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Bagnole ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -8617,8 +8576,7 @@ ns1:Book3b3e345b-007e-45b2-8b4f-c674c679dcd7 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Soldat Peaceful"^^xsd:string ;
-    ns1:publisher ns1:Gallimard,
-        ns1:Gallimard_Jeunesse ;
+    ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
@@ -8767,8 +8725,7 @@ ns1:Book3c46480e-6310-4e03-8511-bbdd45f80246 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le visiteur du soir"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Pierre_Tisseyre ;
+    ns1:publisher ns1:Pierre_Tisseyre ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -8822,8 +8779,7 @@ ns1:Book3d6df3d5-70e5-4039-866b-810c015d388c a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Edgar Paillettes"^^xsd:string ;
-    ns1:publisher ns1:Lansman,
-        ns1:Québec_Amérique ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:url "https://www.lurelu.net/prixlitt_jeunesse-librair.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public"^^xsd:string .
 
@@ -9049,8 +9005,7 @@ ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b276 a ns1:Book ;
         "Album jeunesse" ;
     ns1:inLanguage "Francais" ;
     ns1:name "Une histoire d'amour"^^xsd:string ;
-    ns1:publisher ns1:Seuil_Jeunesse,
-        ns1:Unknown ;
+    ns1:publisher ns1:Seuil_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-libra-nous"^^xsd:string .
 
@@ -9842,8 +9797,7 @@ ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b336 a ns1:Book ;
         "Relève"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Jack et le temps perdu"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:XYZ_Éditeur ;
+    ns1:publisher ns1:XYZ_Éditeur ;
     ns1:url "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-litteraires-du-gouverneur-general-du-canada"^^xsd:string .
 
@@ -9923,8 +9877,7 @@ ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b340 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le lion et l'oiseau"^^xsd:string ;
-    ns1:publisher ns1:La_Pastèque,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Pastèque ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.lurelu.net/prixlitt_gouverneur.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string,
@@ -10696,8 +10649,7 @@ ns1:Book439c7522-c319-46b5-8abc-5d0b50bca233 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le complot"^^xsd:string ;
-    ns1:publisher ns1:La_Courte_Échelle,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -10739,8 +10691,7 @@ ns1:Book448ac0c1-6226-4376-9e2c-8bf29f996750 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le rêve couleur orange"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Québec_Amérique ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
@@ -10876,8 +10827,7 @@ ns1:Book46c1fca1-8c73-40ce-9b7b-3adb8daae399 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Ophélie"^^xsd:string ;
-    ns1:publisher ns1:La_Courte_Échelle,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.lurelu.net/prixlitt_biblioMTL.html"^^xsd:string .
 
@@ -11279,8 +11229,7 @@ ns1:Book4b918758-708d-4c77-a997-777cca6ddcd9 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "La sœur de Robert"^^xsd:string ;
-    ns1:publisher ns1:La_Courte_Échelle,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -11590,8 +11539,7 @@ ns1:Book4e6c0d38-a5de-4090-b405-9df6969240eb a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La vraie histoire du chien de Clara Vic"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Québec_Amérique ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string .
 
 ns1:Book4e8ff4e3-7d44-48df-95a7-4328ac1604b5 a ns1:Book ;
@@ -12555,8 +12503,7 @@ ns1:Book5d2cf311-6924-4a8e-bf71-6acc70a1d29b a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Peigner le feu"^^xsd:string ;
-    ns1:publisher ns1:La_Courte_Échelle,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
 ns1:Book5d2ebeec-4d23-4c3f-aa1f-8cc84d3e8b47 a ns1:Book ;
@@ -12715,8 +12662,7 @@ ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3e4 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Vango (T. 1). Entre ciel et terre"^^xsd:string ;
-    ns1:publisher ns1:Gallimard,
-        ns1:Gallimard_Jeunesse ;
+    ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/les-mordus-du-polar"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:string .
 
@@ -13937,8 +13883,7 @@ ns1:Book624d330b-8672-45bb-9641-248110f6e27b a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Pleine crise"^^xsd:string ;
-    ns1:publisher ns1:Héritage,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Héritage ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -14573,8 +14518,7 @@ ns1:Book6b85b147-e5c2-4efb-badc-b73e6bb65ab2 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Mon rayon de soleil"^^xsd:string ;
-    ns1:publisher ns1:Dominique_Et_Compagnie,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Dominique_Et_Compagnie ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
 
@@ -15107,8 +15051,7 @@ ns1:Book725aa1c8-05fd-4958-84d2-a5418d84b740 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Un couteau sur la neige"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Soulières ;
+    ns1:publisher ns1:Soulières ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -15960,8 +15903,7 @@ ns1:Book8073edf7-6fd0-441d-89ad-0259e79a5393 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le combat d’hiver"^^xsd:string ;
-    ns1:publisher ns1:Gallimard,
-        ns1:Gallimard_Jeunesse ;
+    ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-semaine-paul-hurtmans-du-livre-de-jeunesse"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-incorruptibles"^^xsd:string,
@@ -16123,8 +16065,7 @@ ns1:Book83bc0655-5788-4c6b-ab49-f554b7b0d6fa a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "La petite fille aux yeux rouges"^^xsd:string ;
-    ns1:publisher ns1:Fides,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Fides ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string .
 
 ns1:Book83bdbb59-3062-4b01-9957-0fb4074bcf7f a ns1:Book ;
@@ -16359,9 +16300,7 @@ ns1:Book879e849e-fbdb-4dc2-9008-6bf6fb8f5417 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "L'Évangile en papier"^^xsd:string ;
-    ns1:publisher ns1:Fides,
-        ns1:La_Fondation_Pour_LAlphabétisation,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Fides ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -16692,15 +16631,15 @@ ns1:Book8d1e9e8a-9d84-40b6-a136-cdbf3f1de80a a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-des-jeunes-lecteurs-de-la-peep"^^xsd:string .
 
 ns1:Book8d4dd97f-006e-4f07-a084-387a520d8dbf a ns1:Book ;
-    ns1:author "Coline Pierré"^^xsd:string ;
+    ns1:author "Coline Pierré"^^xsd:string,
+        "Martin Page" ;
     ns1:award "Prix Ado-Lisant",
         "Prix Tatoulu : Tatou Blanc" ;
     ns1:dateReceived "2017"^^xsd:gYear,
         "2018"^^xsd:gYear ;
     ns1:inLanguage "Francais" ;
     ns1:name "La folle rencontre de Flora et Max"^^xsd:string ;
-    ns1:publisher ns1:LÉcole_Des_Loisirs,
-        ns1:Medium ;
+    ns1:publisher ns1:LÉcole_Des_Loisirs ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-tatoulu"^^xsd:string .
 
@@ -16747,8 +16686,7 @@ ns1:Book8dccf1cf-faaa-4f08-a808-aa21cc421907 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Edmond et Amandine"^^xsd:string ;
-    ns1:publisher ns1:Dominique_Et_Compagnie,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Dominique_Et_Compagnie ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -17380,8 +17318,7 @@ ns1:Book9b4c9549-5e45-4721-9a5b-45fb4cdf72c4 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
     ns1:name "Hockeyeurs cybernétiques"^^xsd:string ;
-    ns1:publisher ns1:Hurtubise,
-        ns1:Paulines ;
+    ns1:publisher ns1:Paulines ;
     ns1:url "https://www.lurelu.net/prixlitt_universparalleles.html"^^xsd:string .
 
 ns1:Book9b4c9549-5e45-4721-9a5b-45kb4cdf72c5 a ns1:Book ;
@@ -17697,8 +17634,7 @@ ns1:Book9d33bc7f-7118-402f-9416-1fe22e8c282d a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Hò"^^xsd:string ;
-    ns1:publisher ns1:Nota_Bene,
-        ns1:Québec_Amérique ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -17837,8 +17773,7 @@ ns1:Book9efcdd4a-9a40-4e9a-94b2-3b7c964d0fa4 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "L’Apache aux yeux bleus"^^xsd:string ;
-    ns1:publisher ns1:Flammarion,
-        ns1:Flammarion_Jeunesse ;
+    ns1:publisher ns1:Flammarion_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-des-jeunes-lecteurs-de-la-peep"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
@@ -18037,8 +17972,7 @@ ns1:Booka2637a24-01ad-46af-b94e-9ba7b6547325 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "À propos d'un bateau à vapeur"^^xsd:string ;
-    ns1:publisher ns1:Hurtubise,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Hurtubise ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -18787,9 +18721,7 @@ ns1:Bookabcd0d82-5f2b-4c9c-97cc-5b1deb87d435 a ns1:Book ;
         "Texte"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Émilie, la baignoire à pattes"^^xsd:string ;
-    ns1:publisher ns1:Héritage,
-        ns1:Leméac,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Leméac ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.lurelu.net/prixlitt_conseildesarts.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
@@ -19040,8 +18972,7 @@ ns1:Bookafe84b99-4ec8-4a62-be98-52b3e4a7face a ns1:Book ;
     ns1:illustrator "François Place"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Tobie Lolness"^^xsd:string ;
-    ns1:publisher ns1:Gallimard,
-        ns1:Gallimard_Jeunesse ;
+    ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-des-jeunes-lecteurs-de-la-peep"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-saint-exupery-valeurs-jeunesse"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string,
@@ -19231,8 +19162,7 @@ ns1:Bookb27699bd-08ea-4fa8-bfa4-c7eb413c9dd6 a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le Baume du dragon"^^xsd:string ;
-    ns1:publisher ns1:Panama,
-        ns1:Panama_Jeunesse ;
+    ns1:publisher ns1:Panama_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-incorruptibles"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/tam-tam-du-livre-de-jeunesse"^^xsd:string .
 
@@ -19389,8 +19319,7 @@ ns1:Bookb37f09e9-2cb0-41a3-86c6-65f28b7f858e a ns1:Book ;
     ns1:genre "Album" ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le bus de Rosa" ;
-    ns1:publisher ns1:Amnesty_International,
-        ns1:Sarbacane ;
+    ns1:publisher ns1:Sarbacane ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-libbylit"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-tatoulu"^^xsd:string .
 
@@ -19685,8 +19614,7 @@ ns1:Bookb82dbd33-b3c5-46ea-a5a5-268e7157760a a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le sixième arrêt"^^xsd:string ;
-    ns1:publisher ns1:Dominique_Et_Compagnie,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:Dominique_Et_Compagnie ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -20176,8 +20104,7 @@ ns1:Bookc245ba22-aa83-4f9e-9b42-32b4ed05ebf3 a ns1:Book ;
         "Prix Opéra Prima (Première œuvre)" ;
     ns1:inLanguage "Francais" ;
     ns1:name "Monsieur Cent têtes"^^xsd:string ;
-    ns1:publisher ns1:Fei,
-        ns1:MeMo ;
+    ns1:publisher ns1:MeMo ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-1er-album"^^xsd:string .
 
@@ -21876,8 +21803,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f35a8 a ns1:Book ;
         "2014"^^xsd:gYear ;
     ns1:inLanguage "Anglais" ;
     ns1:name "This Is Not My Hat"^^xsd:string ;
-    ns1:publisher ns1:Candlewick_Press,
-        ns1:Walker_Books ;
+    ns1:publisher ns1:Candlewick_Press ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/medaille-caldecott"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/medaille-kate-greenaway"^^xsd:string .
 
@@ -22924,8 +22850,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f394 a ns1:Book ;
     ns1:genre "12-14 ans" ;
     ns1:inLanguage "Francais" ;
     ns1:name "La vie à reculons"^^xsd:string ;
-    ns1:publisher ns1:Le_Livre_De_Poche_Jeunesse,
-        ns1:Robert_Diet ;
+    ns1:publisher ns1:Le_Livre_De_Poche_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ados-rennesille-et-vilaine"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-semaine-paul-hurtmans-du-livre-de-jeunesse"^^xsd:string .
 
@@ -22948,8 +22873,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f397 a ns1:Book ;
         "Littérature canadienne"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le tricot"^^xsd:string ;
-    ns1:publisher ns1:La_Pastèque,
-        ns1:Nota_Bene ;
+    ns1:publisher ns1:La_Pastèque ;
     ns1:url "https://www.lurelu.net/prixlitt_alvinebelisle.html"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-alvine-belisle"^^xsd:string .
 
@@ -23826,8 +23750,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0dwf35ed a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais"^^xsd:string ;
     ns1:name "Là où naissent les nuages"^^xsd:string ;
-    ns1:publisher ns1:Casterman,
-        ns1:Casterman_Poche ;
+    ns1:publisher ns1:Casterman_Poche ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-rts-litterature-ados"^^xsd:string .
 
@@ -23843,8 +23766,7 @@ ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0dwf35f1 a ns1:Book ;
         "Jeunesse" ;
     ns1:inLanguage "Francais"^^xsd:string ;
     ns1:name "Métal mélodie"^^xsd:string ;
-    ns1:publisher ns1:Milan,
-        ns1:Milan_Jeunesse ;
+    ns1:publisher ns1:Milan_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/gayant-lecture"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-incorruptibles"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-rts-litterature-ados"^^xsd:string .
@@ -24095,8 +24017,7 @@ ns1:Bookc5b086f3-3e75-4e98-aawe-7cdd0d5f35ff a ns1:Book ;
     ns1:genre "3e/2nde" ;
     ns1:inLanguage "Anglais" ;
     ns1:name "Boys don’t Cry"^^xsd:string ;
-    ns1:publisher ns1:Milan,
-        ns1:Milan_Jeunesse ;
+    ns1:publisher ns1:Milan_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ado-lisant"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-incorruptibles"^^xsd:string .
 
@@ -24531,8 +24452,7 @@ ns1:Bookcbf653e1-f9aa-4df1-af33-11ffaa528cf4 a ns1:Book ;
     ns1:illustrator "François Place"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le Royaume de Kensuké"^^xsd:string ;
-    ns1:publisher ns1:Gallimard,
-        ns1:Gallimard_Jeunesse ;
+    ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-devoreurs-de-livres"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/tam-tam-du-livre-de-jeunesse"^^xsd:string .
 
@@ -24569,8 +24489,7 @@ ns1:Bookcc45c8b2-b407-4d08-9f66-7d990468333c a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Les Oubliés de Vulcain"^^xsd:string ;
-    ns1:publisher ns1:Hachette,
-        ns1:Hachette_Jeunesse ;
+    ns1:publisher ns1:Hachette_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-des-jeunes-lecteurs-de-la-peep"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/tam-tam-du-livre-de-jeunesse"^^xsd:string .
 
@@ -25839,8 +25758,7 @@ ns1:Bookdd071ac8-30dc-4d95-9475-5c20e3ff10b5 a ns1:Book ;
     ns1:genre "Catégorie 3ème-2nde" ;
     ns1:inLanguage "Francais" ;
     ns1:name "50 minutes avec toi"^^xsd:string ;
-    ns1:publisher ns1:Actes_Sud,
-        ns1:Actes_Sud_Junior ;
+    ns1:publisher ns1:Actes_Sud_Junior ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-de-la-piece-de-theatre-contemporain-pour-le-jeune-public"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-tatoulu"^^xsd:string .
 
@@ -27689,8 +27607,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9af a ns1:Book ;
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
     ns1:name "Max"^^xsd:string ;
-    ns1:publisher ns1:Gallimard,
-        ns1:Gallimard_Jeunesse ;
+    ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-devoreurs-de-livres"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-tatoulu"^^xsd:string .
@@ -29525,8 +29442,7 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d3 a ns1:Book ;
         "CE1" ;
     ns1:inLanguage "Francais" ;
     ns1:name "Arrête de lire !"^^xsd:string ;
-    ns1:publisher ns1:Belin,
-        ns1:Belin_Jeunesse ;
+    ns1:publisher ns1:Belin_Jeunesse ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-incorruptibles"^^xsd:string,
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle"^^xsd:string .
 
