@@ -2111,7 +2111,8 @@ ns1:Baobab_De_L_album5d4e76e0-8f12-46d0-8ce9-96599eac655a a ns1:Award ;
 ns1:Baobab_De_L_album7fdd9253-934b-4e61-91d8-648258265327 a ns1:Award ;
     ns1:date "2005" ;
     ns1:for "Moi, j'attends" ;
-    ns1:to "Davide Cali"^^xsd:string .
+    ns1:to "Davide Cali"^^xsd:string,
+        "Serge Bloch"^^xsd:string .
 
 ns1:Baobab_De_L_album8a6f3428-a076-4221-b7af-541d937b789f a ns1:Award ;
     ns1:date "2003" ;
@@ -2162,7 +2163,8 @@ ns1:Baobab_De_L_albumd3c50fd8-f290-4e26-a833-83d83e991d78 a ns1:Award ;
 ns1:Baobab_De_L_albumd615859f-790e-43b4-a425-a20eb3243bbc a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "Paloma et le vaste monde" ;
-    ns1:to "Jeanne Detallante"^^xsd:string .
+    ns1:to "Jeanne Detallante"^^xsd:string,
+        "Véronique Ovaldé"^^xsd:string .
 
 ns1:Biennale_De_L_illustration_De_Bratislava_Grand_Prix a ns1:Award ;
     ns1:name "Biennale De L'illustration De Bratislava : Grand Prix"^^xsd:string ;
@@ -2689,12 +2691,13 @@ ns1:Gayant_Lecture057479e6-1136-4984-8680-90fd806943d1 a ns1:Award ;
     ns1:date "2010" ;
     ns1:for "Ce que lisent les animaux avant de dormir" ;
     ns1:to "Nicolas Duffaut"^^xsd:string,
-         "Noé Carlain" ;
+        "Noé Carlain" .
 
 ns1:Gayant_Lecture17c8afea-dba6-4ca5-a407-2192d2d236eb a ns1:Award ;
     ns1:date "2019" ;
     ns1:for "Deux secondes en moins" ;
-    ns1:to "Marie Colot"^^xsd:string .
+    ns1:to "Marie Colot"^^xsd:string,
+        "Nancy Guilbert"^^xsd:string .
 
 ns1:Gayant_Lecture18af8dba-21c9-45b4-9ed9-d03bc1e0ef1c a ns1:Award ;
     ns1:date "2014" ;
@@ -2793,7 +2796,8 @@ ns1:Gayant_Lecture4eb25ebe-0b62-411c-bc6a-4d4947edcfdf a ns1:Award ;
 ns1:Gayant_Lecture5348ba87-1faa-4ef5-ac10-788ff594ca36 a ns1:Award ;
     ns1:date "2012" ;
     ns1:for "Faim de loup" ;
-    ns1:to "Eric Pintus"^^xsd:string .
+    ns1:to "Eric Pintus"^^xsd:string,
+        "Rémy Salillard"^^xsd:string .
 
 ns1:Gayant_Lecture53b5ab6f-ee42-4a4d-9976-a4438783c9bd a ns1:Award ;
     ns1:date "2015" ;
@@ -3001,7 +3005,8 @@ ns1:Gayant_Lecturead27bb24-303f-43f2-b047-533dc3a4d84a a ns1:Award ;
 ns1:Gayant_Lectureae68804a-b1b0-419b-8c4a-3590567ae066 a ns1:Award ;
     ns1:date "2012" ;
     ns1:for "Le Ballon de Zébulon" ;
-    ns1:to "Alice Briere-Haquet"^^xsd:string .
+    ns1:to "Alice Briere-Haquet"^^xsd:string,
+        "Olivier Philiponneau"^^xsd:string .
 
 ns1:Gayant_Lectureaea59a64-3b29-4cd9-8b18-daf1ba693c81 a ns1:Award ;
     ns1:date "2022" ;
@@ -3018,12 +3023,13 @@ ns1:Gayant_Lectureb855fcc7-1f7e-4a63-b3b8-4d51034835e2 a ns1:Award ;
     ns1:date "2013" ;
     ns1:for "La culotte du loup" ;
     ns1:to "Laetitia Le Saux"^^xsd:string,
-        "Stéphane Servant" ;
+        "Stéphane Servant" .
 
 ns1:Gayant_Lecturebaebe9c2-3bcb-49d1-8415-3f1d3c11c722 a ns1:Award ;
     ns1:date "2017" ;
     ns1:for "Perdus de vue" ;
-    ns1:to "Rachel Hausfater"^^xsd:string .
+    ns1:to "Rachel Hausfater"^^xsd:string,
+        "Yaël Hassan"^^xsd:string .
 
 ns1:Gayant_Lecturec1aeac14-2989-48f8-8554-dd93816494b4 a ns1:Award ;
     ns1:date "2022" ;
@@ -3618,7 +3624,8 @@ ns1:Grand_Prix_De_L_Imaginaired6d83087-79da-42fe-b663-3a85d72441b3 a ns1:Award ;
 ns1:Grand_Prix_De_L_Imaginaired7cef46b-8225-42a7-839a-952ba312740c a ns1:Award ;
     ns1:date "2023" ;
     ns1:for "La dragonne et le drôle" ;
-    ns1:to "Damien Galisson"^^xsd:string .
+    ns1:to "Damien Galisson"^^xsd:string,
+        "Tom Aureille"^^xsd:string .
 
 ns1:Grand_Prix_De_L_Imaginaired888a5e2-5156-4dce-91d3-d64e805070e9 a ns1:Award ;
     ns1:date "1999" ;
@@ -3678,7 +3685,8 @@ ns1:Grand_Prix_Des_Jeunes_Lecteurs_De_La_Peep3e2edcc5-bd02-4032-ba3a-9d3f575b629
 ns1:Grand_Prix_Des_Jeunes_Lecteurs_De_La_Peep543ff6db-8d39-44a9-beab-184dee544caa a ns1:Award ;
     ns1:date "2007" ;
     ns1:for "Tobie Lolness" ;
-    ns1:to "Timothée de Fombelle"^^xsd:string .
+    ns1:to "F. Place"^^xsd:string,
+        "T. de Fombelle"^^xsd:string .
 
 ns1:Grand_Prix_Des_Jeunes_Lecteurs_De_La_Peep56ddcc9b-db0c-4443-8aa7-290c9fb1436c a ns1:Award ;
     ns1:date "2008" ;
@@ -3873,7 +3881,8 @@ ns1:Grand_Prix_Du_Livre_De_La_Montérégie32b5ffe1-4786-4f1d-92d8-6b34322037bb a
 ns1:Grand_Prix_Du_Livre_De_La_Montérégie349f1d7c-83d5-440a-80f5-c7824c75bb54 a ns1:Award ;
     ns1:date "2019" ;
     ns1:for "L'enfant qui n'avait jamais vu une fleur" ;
-    ns1:to "Andrée-Anne Gratton"^^xsd:string .
+    ns1:to "Andrée-Anne Gratton"^^xsd:string,
+        "Oussama Mezher"^^xsd:string .
 
 ns1:Grand_Prix_Du_Livre_De_La_Montérégie35a5fb33-c021-47cf-b0c9-b7b261803e94 a ns1:Award ;
     ns1:date "2012" ;
@@ -4211,7 +4220,8 @@ ns1:Le_Prix_Espiègle62ed3399-2f51-4827-b1e4-7f7f1058418d a ns1:Award ;
 ns1:Le_Prix_Espiègle7adb81c8-a41a-4524-9085-d4f4cbff07ea a ns1:Award ;
     ns1:date "2022" ;
     ns1:for "La guerre des bébés" ;
-    ns1:to "Carole Tremblay"^^xsd:string .
+    ns1:to "Carole Tremblay"^^xsd:string,
+        "Élodie Duhameau"^^xsd:string .
 
 ns1:Le_Prix_Espiègle7f9fee0c-7a61-404f-ad07-35438da1fe37 a ns1:Award ;
     ns1:date "2017" ;
@@ -4524,7 +4534,8 @@ ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_L_Albumd40a5123-d425-4c96-8a2d
 ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_L_Albume0191b1d-02e9-4375-8364-096d471dd697 a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "Paloma et le vaste monde" ;
-    ns1:to "Jeanne Detallante"^^xsd:string .
+    ns1:to "Jeanne Detallante"^^xsd:string,
+        "Véronique Ovaldé"^^xsd:string .
 
 ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_La_Création_Numérique a ns1:Award ;
     ns1:name "Les Pépites Du Salon De Montreuil : Pépite De La Création Numérique"^^xsd:string ;
@@ -4775,7 +4786,8 @@ ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Fiction_Ados a ns1:Award ;
 ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Fiction_Ados50867c76-da2f-4faf-aefa-ed428e4011f4 a ns1:Award ;
     ns1:date "2021" ;
     ns1:for "Polly" ;
-    ns1:to "Fabrice Melquiot"^^xsd:string .
+    ns1:to "Fabrice Melquiot"^^xsd:string,
+        "Isabelle Pralong"^^xsd:string .
 
 ns1:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Fiction_Adosc98e1d86-cfde-478e-93cc-d6a52376c681 a ns1:Award ;
     ns1:date "2022" ;
@@ -4917,7 +4929,8 @@ ns1:Livree07fcb1c-28fa-4038-91bd-a661fcceb067 a ns1:Award ;
 ns1:Livree2980ca1-6ddb-494c-b852-77df9c8e4a6d a ns1:Award ;
     ns1:date "2020" ;
     ns1:for "Les guerriers de glace" ;
-    ns1:to "Estelle Faye"^^xsd:string .
+    ns1:to "Estelle Faye"^^xsd:string,
+        "Nancy Peña"^^xsd:string .
 
 ns1:Livrefb18ddf8-c430-4c9c-aedf-6e1c500d84b8 a ns1:Award ;
     ns1:date "2010" ;
@@ -4989,7 +5002,8 @@ ns1:Masque_De_La_Production_Jeunes_Publics_ce520262-4381-4bea-9873-69579a5eb26b 
 ns1:Masque_De_La_Production_Jeunes_Publics_eb699b71-ca6c-4497-ae4d-2a163147bc71 a ns1:Award ;
     ns1:date "2001" ;
     ns1:for "Pacamambo" ;
-    ns1:to "Wajdi Mouawad"^^xsd:string .
+    ns1:to "Albatros de Fabrice Melquiot"^^xsd:string,
+        "Wajdi Mouawad"^^xsd:string .
 
 ns1:Masque_De_La_Production_Jeunes_Publics_f0963fba-6c28-4481-9ae1-4f05d55dd667 a ns1:Award ;
     ns1:date "1995" ;
@@ -5895,7 +5909,8 @@ ns1:Prix_Alvine_Bélisle0d3e54be-e6f6-4375-ac69-68128d9b43b9 a ns1:Award ;
 ns1:Prix_Alvine_Bélisle0f9491fe-2b1c-4290-8604-a80118a8df8d a ns1:Award ;
     ns1:date "1982" ;
     ns1:for "Le voyage à la recherche du temps" ;
-    ns1:to "Lucie Ledoux"^^xsd:string .
+    ns1:to "Lucie Ledoux"^^xsd:string,
+        "Philippe Béha"^^xsd:string .
 
 ns1:Prix_Alvine_Bélisle14a4f2b0-cb7e-4e20-b88d-70546e7fda49 a ns1:Award ;
     ns1:date "1977" ;
@@ -5943,7 +5958,8 @@ ns1:Prix_Alvine_Bélisle3a7ce0d6-2bf3-41b2-807f-3c5c199acbab a ns1:Award ;
 ns1:Prix_Alvine_Bélisle3c373208-e5d5-4a02-a0a2-48c96b07352e a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "Le voleur de sandwichs" ;
-    ns1:to "André Marois"^^xsd:string .
+    ns1:to "André Marois"^^xsd:string,
+        "Patrick Doyon"^^xsd:string .
 
 ns1:Prix_Alvine_Bélisle413d7c93-bdb9-487d-8d7b-b8aec3fb97db a ns1:Award ;
     ns1:date "2012" ;
@@ -5968,7 +5984,8 @@ ns1:Prix_Alvine_Bélisle5bb9265f-894c-4e60-b3e3-e3dd4c8e4bd7 a ns1:Award ;
 ns1:Prix_Alvine_Bélisle638a785c-da86-4ebe-b273-ab732668e884 a ns1:Award ;
     ns1:date "2022" ;
     ns1:for "La guerre des bébés" ;
-    ns1:to "Carole Tremblay"^^xsd:string .
+    ns1:to "Carole Tremblay"^^xsd:string,
+        "Élodie Duhameau"^^xsd:string .
 
 ns1:Prix_Alvine_Bélisle64dd3765-9391-4778-841b-922be6ab9cd2 a ns1:Award ;
     ns1:date "1991" ;
@@ -6019,7 +6036,8 @@ ns1:Prix_Alvine_Bélisle83ddd1b2-d351-4369-b78e-f1ab3f46f28f a ns1:Award ;
 ns1:Prix_Alvine_Bélisle951ee879-908c-493c-9981-51e88e3ee463 a ns1:Award ;
     ns1:date "1985" ;
     ns1:for "Zunik" ;
-    ns1:to "Bertrand Gauthier"^^xsd:string .
+    ns1:to "Bertrand Gauthier"^^xsd:string,
+        "Daniel Sylvestre"^^xsd:string .
 
 ns1:Prix_Alvine_Bélisle97d94573-aeb5-4458-b75c-466536da9d47 a ns1:Award ;
     ns1:date "2010" ;
@@ -6079,12 +6097,14 @@ ns1:Prix_Alvine_Bélisleb00583b4-3810-4981-b5e6-db3d7ef4100d a ns1:Award ;
 ns1:Prix_Alvine_Bélisleb34e9452-01fc-4803-ae66-915cc2f0ed71 a ns1:Award ;
     ns1:date "2003" ;
     ns1:for "Mon rayon de soleil" ;
-    ns1:to "Marie-Francine Hébert"^^xsd:string .
+    ns1:to "Marie-Francine Hébert"^^xsd:string,
+        "Steve Adams"^^xsd:string .
 
 ns1:Prix_Alvine_Bélisleb459a85c-d1eb-4759-9ed9-2f9265673dab a ns1:Award ;
     ns1:date "2009" ;
     ns1:for "Ophélie" ;
-    ns1:to "Charlotte Gingras"^^xsd:string .
+    ns1:to "Charlotte Gingras"^^xsd:string,
+        "Daniel Sylvestre"^^xsd:string .
 
 ns1:Prix_Alvine_Bélisleba63f7ae-2f95-4341-9861-dfb15b6205c4 a ns1:Award ;
     ns1:date "1979" ;
@@ -6154,7 +6174,8 @@ ns1:Prix_Alvine_Bélisleedfef216-f5a4-49e3-8b50-a4d26ffe5e29 a ns1:Award ;
 ns1:Prix_Alvine_Bélisleef676916-605e-4cd2-85e6-fc02d176afc9 a ns1:Award ;
     ns1:date "1987" ;
     ns1:for "Aller-Retour" ;
-    ns1:to "David Schinkel"^^xsd:string .
+    ns1:to "David Schinkel"^^xsd:string,
+        "Yves Beauchesne"^^xsd:string .
 
 ns1:Prix_Alvine_Bélislef09c4416-fb74-4ea9-b179-e5c76520f598 a ns1:Award ;
     ns1:date "1996" ;
@@ -6180,7 +6201,8 @@ ns1:Prix_Babelio395d322f-0e8c-4d3c-97f9-706e8cad1830 a ns1:Award ;
 ns1:Prix_Babelio5331b3ef-e512-454f-a9d4-978758549433 a ns1:Award ;
     ns1:date "2022" ;
     ns1:for "Mémoires de la forêt : Les souvenirs de Ferdinand Taupe" ;
-    ns1:to "Mickaël Brun-Arnaud"^^xsd:string .
+    ns1:to "Mickaël Brun-Arnaud"^^xsd:string,
+        "Sanoe"^^xsd:string .
 
 ns1:Prix_Babelio610679a4-d781-4f17-877f-9ebea8031c90 a ns1:Award ;
     ns1:date "2019" ;
@@ -6453,7 +6475,8 @@ ns1:Prix_Bernard_Versele_3_Chouettesba59046a-f6bb-499c-84d7-8874f6906b42 a ns1:A
 ns1:Prix_Bernard_Versele_3_Chouettescf9c7997-c1a1-4c1c-b9c7-82a2f95f039e a ns1:Award ;
     ns1:date "2012" ;
     ns1:for "Faim de loup" ;
-    ns1:to "Eric Pintus"^^xsd:string .
+    ns1:to "Eric Pintus"^^xsd:string,
+        "Rémy Salillard"^^xsd:string .
 
 ns1:Prix_Bernard_Versele_3_Chouettese2b51cb1-66fe-46f1-9c01-2a3363c4d027 a ns1:Award ;
     ns1:date "2019" ;
@@ -6624,7 +6647,8 @@ ns1:Prix_Bernard_Versele_5_Chouettesbddf8da5-b420-43b9-b1af-c3ef7cd22d13 a ns1:A
 ns1:Prix_Bernard_Versele_5_Chouettesc8cfdb9f-d777-4726-8054-a76f4cd05afe a ns1:Award ;
     ns1:date "2020" ;
     ns1:for "Jefferson" ;
-    ns1:to "Antoine Ronzon"^^xsd:string .
+    ns1:to "Antoine Ronzon"^^xsd:string,
+        "Jean-Claude Mourlevat"^^xsd:string .
 
 ns1:Prix_Bernard_Versele_5_Chouettesecc51766-a721-44c1-92d9-1b4d9f0c6340 a ns1:Award ;
     ns1:date "2015" ;
@@ -6761,7 +6785,8 @@ ns1:Prix_Bologna_Ragazzi_Comics_Young_Adult3626eb8e-375b-426d-9917-5916f58d3f10 
 ns1:Prix_Bologna_Ragazzi_Comics_Young_Adultabebb5a7-3058-4b39-b28f-403e61e0d451 a ns1:Award ;
     ns1:date "2022" ;
     ns1:for "Polly" ;
-    ns1:to "Fabrice Melquiot"^^xsd:string .
+    ns1:to "Fabrice Melquiot"^^xsd:string,
+        "Isabelle Pralong"^^xsd:string .
 
 ns1:Prix_Bologna_Ragazzi_Fiction a ns1:Award ;
     ns1:name "Prix Bologna Ragazzi: Fiction"^^xsd:string ;
@@ -6785,7 +6810,8 @@ ns1:Prix_Bologna_Ragazzi_Fiction a ns1:Award ;
 ns1:Prix_Bologna_Ragazzi_Fiction01a56693-b560-4136-b0d5-07ef86fbd2d7 a ns1:Award ;
     ns1:date "2016" ;
     ns1:for "Mon tout petit" ;
-    ns1:to "Albertine"^^xsd:string .
+    ns1:to "Albertine"^^xsd:string,
+        "Germano Zullo"^^xsd:string .
 
 ns1:Prix_Bologna_Ragazzi_Fiction173722a1-6ce5-423d-b3fd-6353f4d0aebf a ns1:Award ;
     ns1:date "2013" ;
@@ -6871,7 +6897,8 @@ ns1:Prix_Bologna_Ragazzi_Fictionb6640106-c4e6-4f5b-a285-b8b4df38e369 a ns1:Award
 ns1:Prix_Bologna_Ragazzi_Fictionbf4f2b20-c803-45b9-842c-7b4adf3a9b9a a ns1:Award ;
     ns1:date "2022" ;
     ns1:for "A qui appartiennent les nuages ?" ;
-    ns1:to "Gérard DuBois"^^xsd:string .
+    ns1:to "Gérard DuBois"^^xsd:string,
+        "Mario Brassard"^^xsd:string .
 
 ns1:Prix_Bologna_Ragazzi_Fictionc42fd4a9-7913-4389-8f1a-57552e635913 a ns1:Award ;
     ns1:date "2021" ;
@@ -7882,7 +7909,8 @@ ns1:Prix_Chronos22b2fa54-a195-4c56-8912-9d542566b2ce a ns1:Award ;
 ns1:Prix_Chronos23d405fb-befe-4c19-a06c-e871fe741fe4 a ns1:Award ;
     ns1:date "2011" ;
     ns1:for "Picasso ou rien" ;
-    ns1:to "Sylvaine Jaoui"^^xsd:string .
+    ns1:to "Sylvaine Jaoui"^^xsd:string,
+        "Vincent Dutrait"^^xsd:string .
 
 ns1:Prix_Chronos2db14ec8-e6c4-4263-9df3-d9a67c25f92b a ns1:Award ;
     ns1:date "2017" ;
@@ -7914,7 +7942,8 @@ ns1:Prix_Chronos523104f7-701b-4e6d-8b31-719088485a4a a ns1:Award ;
 ns1:Prix_Chronos53c07674-b335-49a3-a117-9f54c7316bb3 a ns1:Award ;
     ns1:date "2009" ;
     ns1:for "Noé" ;
-    ns1:to "Claire Clément"^^xsd:string .
+    ns1:to "Claire Clément"^^xsd:string,
+        "Frédéric Rébéna"^^xsd:string .
 
 ns1:Prix_Chronos5e5f036f-7014-435f-a52c-d82eed094eff a ns1:Award ;
     ns1:date "2000" ;
@@ -7950,7 +7979,8 @@ ns1:Prix_Chronos7bb0a5b5-0a38-42a8-9169-7ac806c8ff02 a ns1:Award ;
 ns1:Prix_Chronos7c1991b5-86e0-40f5-a219-085fbb640199 a ns1:Award ;
     ns1:date "2017" ;
     ns1:for "Mémé Dusa" ;
-    ns1:to "Anne Schmauch"^^xsd:string .
+    ns1:to "Anne Schmauch"^^xsd:string,
+        "Katherine Ferrier"^^xsd:string .
 
 ns1:Prix_Chronos7dc70af9-633d-41eb-b1bc-4cd7cd984873 a ns1:Award ;
     ns1:date "2004" ;
@@ -7981,7 +8011,8 @@ ns1:Prix_Chronos86cba94e-4d89-445c-873f-32a2010a8461 a ns1:Award ;
 ns1:Prix_Chronos90f2fe1a-440b-435a-a4f6-a7cb05f21282 a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "La fille qui n'aimait pas les fins" ;
-    ns1:to "Matthieu Radenac"^^xsd:string .
+    ns1:to "Matthieu Radenac"^^xsd:string,
+        "Yaël Hassan"^^xsd:string .
 
 ns1:Prix_Chronos9f9f873e-90f4-4b54-b343-5181ebb02ce8 a ns1:Award ;
     ns1:date "2003" ;
@@ -8203,7 +8234,8 @@ ns1:Prix_Chronos_De_Littérature_6E_5E0bdd1855-18a9-46ca-9fd6-2040abb2f611 a ns1
 ns1:Prix_Chronos_De_Littérature_6E_5E13b5458f-c3dd-48e7-9e5e-a0098035f75d a ns1:Award ;
     ns1:date "2011" ;
     ns1:for "Picasso ou rien" ;
-    ns1:to "Sylvaine Jaoui"^^xsd:string .
+    ns1:to "Sylvaine Jaoui"^^xsd:string,
+        "Vincent Dutrait"^^xsd:string .
 
 ns1:Prix_Chronos_De_Littérature_6E_5E18c2f542-e612-44c8-bc50-30ef7ed8ce1e a ns1:Award ;
     ns1:date "2009" ;
@@ -8213,7 +8245,8 @@ ns1:Prix_Chronos_De_Littérature_6E_5E18c2f542-e612-44c8-bc50-30ef7ed8ce1e a ns1
 ns1:Prix_Chronos_De_Littérature_6E_5E2bc83cf4-849e-4f2e-92fc-6540627c88a4 a ns1:Award ;
     ns1:date "2014" ;
     ns1:for "Monsieur Kipu" ;
-    ns1:to "David Walliams"^^xsd:string .
+    ns1:to "David Walliams"^^xsd:string,
+        "Quentin Blake"^^xsd:string .
 
 ns1:Prix_Chronos_De_Littérature_6E_5E3844e27f-6f9e-4306-aade-f8211494bb5b a ns1:Award ;
     ns1:date "2020" ;
@@ -8256,12 +8289,14 @@ ns1:Prix_Chronos_De_Littérature_6E_5E5cade9fc-1285-4aae-b860-a6bfcb2b2797 a ns1
 ns1:Prix_Chronos_De_Littérature_6E_5E84310287-ab45-4824-8026-f781b9a649a4 a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "La fille qui n'aimait pas les fins" ;
-    ns1:to "Matthieu Radenac"^^xsd:string .
+    ns1:to "Matthieu Radenac"^^xsd:string,
+        "Yaël Hassan"^^xsd:string .
 
 ns1:Prix_Chronos_De_Littérature_6E_5E8d44edeb-13e3-4c1e-9642-9ac553e5b7c3 a ns1:Award ;
     ns1:date "2012" ;
     ns1:for "L'heure des chats" ;
-    ns1:to "Ilya Green" .
+    ns1:to "Illya Green"^^xsd:string,
+        "Myriam Gallot"^^xsd:string .
 
 ns1:Prix_Chronos_De_Littérature_6E_5E946bad5c-bfeb-445a-9a96-693a2b948ecb a ns1:Award ;
     ns1:date "1999" ;
@@ -8417,7 +8452,8 @@ ns1:Prix_Chronos_De_Littérature_Ce1_Ce26e97aa7b-3391-4f6c-860a-953b75af5b85 a n
 ns1:Prix_Chronos_De_Littérature_Ce1_Ce2720f777e-45dc-4244-b5ad-2b01c67ecb8f a ns1:Award ;
     ns1:date "2018" ;
     ns1:for "L'enfant qui n'avait jamais vu une fleur" ;
-    ns1:to "Andrée-Anne Gratton"^^xsd:string .
+    ns1:to "Andrée-Anne Gratton"^^xsd:string,
+        "Oussama Mezher"^^xsd:string .
 
 ns1:Prix_Chronos_De_Littérature_Ce1_Ce272d4f4e0-e086-4723-af18-12452843a834 a ns1:Award ;
     ns1:date "2013" ;
@@ -8541,7 +8577,8 @@ ns1:Prix_Chronos_De_Littérature_Cm1_Cm20e52ce75-dcbc-4972-b0f2-a88d0df941ce a n
 ns1:Prix_Chronos_De_Littérature_Cm1_Cm210bf1308-3273-4270-b751-d0a089100269 a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "Toute seule dans la nuit" ;
-    ns1:to "Eva Chatelain"^^xsd:string .
+    ns1:to "Eva Chatelain"^^xsd:string,
+        "Sandrine Beau"^^xsd:string .
 
 ns1:Prix_Chronos_De_Littérature_Cm1_Cm218dbdfc9-5cfb-49c8-9490-d7961167cb2e a ns1:Award ;
     ns1:date "2014" ;
@@ -8569,12 +8606,14 @@ ns1:Prix_Chronos_De_Littérature_Cm1_Cm231ffac81-f1fb-45ee-a6ab-8f7c0f08034c a n
 ns1:Prix_Chronos_De_Littérature_Cm1_Cm235e5bf37-d421-4596-8aad-7e127144cc66 a ns1:Award ;
     ns1:date "2006" ;
     ns1:for "Spinoza et moi" ;
-    ns1:to "Kitty Crowther"^^xsd:string .
+    ns1:to "Kitty Crowther"^^xsd:string,
+        "Sylvaine Jaoui"^^xsd:string .
 
 ns1:Prix_Chronos_De_Littérature_Cm1_Cm25125e31a-924f-49f0-9f0a-2003829b030d a ns1:Award ;
     ns1:date "2007" ;
     ns1:for "Loulette" ;
-    ns1:to "Claire Clément"^^xsd:string .
+    ns1:to "Claire Clément"^^xsd:string,
+        "Frédéric Rébéna"^^xsd:string .
 
 ns1:Prix_Chronos_De_Littérature_Cm1_Cm2725fc7c9-b669-4461-b46c-05597c18785f a ns1:Award ;
     ns1:date "2016" ;
@@ -8584,7 +8623,8 @@ ns1:Prix_Chronos_De_Littérature_Cm1_Cm2725fc7c9-b669-4461-b46c-05597c18785f a n
 ns1:Prix_Chronos_De_Littérature_Cm1_Cm27b4e0873-dd1f-46c4-8939-143e93dce14e a ns1:Award ;
     ns1:date "2009" ;
     ns1:for "Noé" ;
-    ns1:to "Claire Clément"^^xsd:string .
+    ns1:to "Claire Clément"^^xsd:string,
+        "Frédéric Rébéna"^^xsd:string .
 
 ns1:Prix_Chronos_De_Littérature_Cm1_Cm284ae0cf1-b60c-43ff-899c-bb63cf78dfd3 a ns1:Award ;
     ns1:date "2011" ;
@@ -8634,7 +8674,8 @@ ns1:Prix_Chronos_De_Littérature_Cm1_Cm2b466c3dc-96ad-49d1-ac1b-e0b6ef9b691c a n
 ns1:Prix_Chronos_De_Littérature_Cm1_Cm2bdca4ff6-30c5-41c7-81ca-6334b76980c9 a ns1:Award ;
     ns1:date "2012" ;
     ns1:for "Momo des coquelicots" ;
-    ns1:to "Beatrice Alemagna"^^xsd:string .
+    ns1:to "Beatrice Alemagna"^^xsd:string,
+        "Yaël Hassan"^^xsd:string .
 
 ns1:Prix_Chronos_De_Littérature_Cm1_Cm2c24248d4-fb0c-4dae-891f-918ff0d8a663 a ns1:Award ;
     ns1:date "2005" ;
@@ -8645,7 +8686,8 @@ ns1:Prix_Chronos_De_Littérature_Cm1_Cm2c24248d4-fb0c-4dae-891f-918ff0d8a663 a n
 ns1:Prix_Chronos_De_Littérature_Cm1_Cm2c2682e2a-c7b5-4d19-9cbe-730feb716b71 a ns1:Award ;
     ns1:date "2019" ;
     ns1:for "Mégumi et le fantôme" ;
-    ns1:to "Eric Senabre"^^xsd:string .
+    ns1:to "Eric Senabre"^^xsd:string,
+        "Gloria Pizzilli"^^xsd:string .
 
 ns1:Prix_Chronos_De_Littérature_Cm1_Cm2c4c53d74-2b6c-46aa-9c63-df627f9ae05d a ns1:Award ;
     ns1:date "1999" ;
@@ -8967,7 +9009,8 @@ ns1:Prix_Chronosac96f978-3c35-4c55-8cb2-3de0a1546e43 a ns1:Award ;
 ns1:Prix_Chronosb555e9f9-bad1-4625-9361-45ded4c00814 a ns1:Award ;
     ns1:date "2016" ;
     ns1:for "Toute seule dans la nuit" ;
-    ns1:to "Eva Chatelain"^^xsd:string .
+    ns1:to "Eva Chatelain"^^xsd:string,
+        "Sandrine Beau"^^xsd:string .
 
 ns1:Prix_Chronosb941dc52-9000-4233-bbd8-4006064998f5 a ns1:Award ;
     ns1:date "2021" ;
@@ -8993,7 +9036,8 @@ ns1:Prix_Chronose7fd9a1f-580d-400b-980e-bd60c4355f17 a ns1:Award ;
 ns1:Prix_Chronosec3a2d77-d715-4251-a4e7-974f407fc21c a ns1:Award ;
     ns1:date "2006" ;
     ns1:for "Spinoza et moi" ;
-    ns1:to "Kitty Crowther"^^xsd:string .
+    ns1:to "Kitty Crowther"^^xsd:string,
+        "Sylvaine Jaoui"^^xsd:string .
 
 ns1:Prix_Chronosf8709b9e-8a22-48bc-b2d1-b79996c8e7fd a ns1:Award ;
     ns1:date "1998" ;
@@ -9003,17 +9047,20 @@ ns1:Prix_Chronosf8709b9e-8a22-48bc-b2d1-b79996c8e7fd a ns1:Award ;
 ns1:Prix_Chronosf9a44c59-7d31-4761-bb78-86bea43ce4d2 a ns1:Award ;
     ns1:date "2012" ;
     ns1:for "Momo des coquelicots" ;
-    ns1:to "Beatrice Alemagna"^^xsd:string .
+    ns1:to "Beatrice Alemagna"^^xsd:string,
+        "Yaël Hassan"^^xsd:string .
 
 ns1:Prix_Chronosf9a9899e-3d82-4658-bb72-db73ab9c37ad a ns1:Award ;
     ns1:date "2007" ;
     ns1:for "Loulette" ;
-    ns1:to "Claire Clément"^^xsd:string .
+    ns1:to "Claire Clément"^^xsd:string,
+        "Frédéric Rébéna"^^xsd:string .
 
 ns1:Prix_Chronosfce66531-678e-4528-8a03-1d8c1211a840 a ns1:Award ;
     ns1:date "2012" ;
     ns1:for "L'heure des chats" ;
-    ns1:to "Ilya Green" .
+    ns1:to "Illya Green"^^xsd:string,
+        "Myriam Gallot"^^xsd:string .
 
 ns1:Prix_Chronosfd7757c6-b64c-4a8c-ac8c-7425dc5f010f a ns1:Award ;
     ns1:date "2001" ;
@@ -9046,7 +9093,8 @@ ns1:Prix_Chrétien_De_Troyes123ab333-704f-4be3-86f6-6a22f9a354b6 a ns1:Award ;
 ns1:Prix_Chrétien_De_Troyes13a5035a-d472-47f8-9b7c-26c993a5b86e a ns1:Award ;
     ns1:date "2018" ;
     ns1:for "Le jardin du dedans-dehors" ;
-    ns1:to "Chiara Mezzalama"^^xsd:string .
+    ns1:to "Chiara Mezzalama"^^xsd:string,
+        "Régis Lejonc"^^xsd:string .
 
 ns1:Prix_Chrétien_De_Troyes178bdfcd-145e-4e1c-9cea-bde7b66be1b0 a ns1:Award ;
     ns1:date "2021" ;
@@ -9116,7 +9164,8 @@ ns1:Prix_Chrétien_De_Troyes94d8e00a-edf0-4b7e-bbc1-9b9183486dab a ns1:Award ;
 ns1:Prix_Chrétien_De_Troyes99e7d317-0f40-4d80-98a8-eb3373e224c1 a ns1:Award ;
     ns1:date "2001" ;
     ns1:for "Vieux Thomas et la petite fée" ;
-    ns1:to "Dominique Demers"^^xsd:string .
+    ns1:to "Dominique Demers"^^xsd:string,
+        "Stéphane Poulin"^^xsd:string .
 
 ns1:Prix_Chrétien_De_Troyesa1e36cb6-5256-4e71-b96b-1ef5e7871818 a ns1:Award ;
     ns1:date "2005" ;
@@ -9235,7 +9284,8 @@ ns1:Prix_Cécile_Gagnon80b335ab-e9cb-4666-8c3f-3d6adb34be2e a ns1:Award ;
 ns1:Prix_Cécile_Gagnon852dea32-96fe-4cb6-a84b-4d3a4453ffa3 a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "Elliot" ;
-    ns1:to "Julie Pearson"^^xsd:string .
+    ns1:to "Julie Pearson"^^xsd:string,
+        "Manon Gauthier"^^xsd:string .
 
 ns1:Prix_Cécile_Gagnon858e125c-71e2-40cb-ac0c-510fabaeaf83 a ns1:Award ;
     ns1:date "2003" ;
@@ -9686,7 +9736,8 @@ ns1:Prix_De_La_Semaine_Paul_Hurtmans_Du_Livre_De_Jeunesse1cf1d099-9241-422c-90e7
 ns1:Prix_De_La_Semaine_Paul_Hurtmans_Du_Livre_De_Jeunesse1d1fe0eb-865e-4cc7-9aa6-cfce1f1e60fd a ns1:Award ;
     ns1:date "2008" ;
     ns1:for "Loulette" ;
-    ns1:to "Claire Clément"^^xsd:string .
+    ns1:to "Claire Clément"^^xsd:string,
+        "Frédéric Rébéna"^^xsd:string .
 
 ns1:Prix_De_La_Semaine_Paul_Hurtmans_Du_Livre_De_Jeunesse2a2b0839-d2cc-4d7a-9821-f9ecf27b3168 a ns1:Award ;
     ns1:date "2000" ;
@@ -10160,7 +10211,8 @@ ns1:Prix_Des_Incorruptibles01aefd22-d5c5-41c8-acad-b6d8a923d5ce a ns1:Award ;
 ns1:Prix_Des_Incorruptibles02ee0d7b-a0b9-49d5-afba-87657495319f a ns1:Award ;
     ns1:date "2010" ;
     ns1:for "Mes parents sont marteaux !" ;
-    ns1:to "Lynda Corazza"^^xsd:string .
+    ns1:to "Lynda Corazza"^^xsd:string,
+        "Philippe Besnier"^^xsd:string .
 
 ns1:Prix_Des_Incorruptibles031a3630-0888-4e35-84d9-37ecc03289fc a ns1:Award ;
     ns1:date "2016" ;
@@ -10170,7 +10222,8 @@ ns1:Prix_Des_Incorruptibles031a3630-0888-4e35-84d9-37ecc03289fc a ns1:Award ;
 ns1:Prix_Des_Incorruptibles045f0b99-5f38-4a29-972e-de6a78a51e00 a ns1:Award ;
     ns1:date "2014" ;
     ns1:for "La fille qui n'aimait pas les fins" ;
-    ns1:to "Matthieu Radenac"^^xsd:string .
+    ns1:to "Matthieu Radenac"^^xsd:string,
+        "Yaël Hassan"^^xsd:string .
 
 ns1:Prix_Des_Incorruptibles05ac11bb-0aea-4104-8eb4-0b509d1538c4 a ns1:Award ;
     ns1:date "2011" ;
@@ -10239,7 +10292,7 @@ ns1:Prix_Des_Incorruptibles1f0dffce-d3fb-461a-aa30-07f178d3164a a ns1:Award ;
     ns1:date "2012" ;
     ns1:for "La culotte du loup" ;
     ns1:to "Laetitia Le Saux"^^xsd:string,
-        "Stéphane Servant" ;
+        "Stéphane Servant" .
 
 ns1:Prix_Des_Incorruptibles1fab44f2-61c6-4bf2-8928-448f86bba395 a ns1:Award ;
     ns1:date "2019" ;
@@ -10320,7 +10373,8 @@ ns1:Prix_Des_Incorruptibles3a97b499-afce-4939-94a0-877046b984eb a ns1:Award ;
 ns1:Prix_Des_Incorruptibles3e53506c-450d-4125-b76e-677499e5039d a ns1:Award ;
     ns1:date "2018" ;
     ns1:for "Mégumi et le fantôme" ;
-    ns1:to "Eric Senabre"^^xsd:string .
+    ns1:to "Eric Senabre"^^xsd:string,
+        "Gloria Pizzilli"^^xsd:string .
 
 ns1:Prix_Des_Incorruptibles3ef322a1-d838-4c70-bc9f-0810696d6c1d a ns1:Award ;
     ns1:date "2012" ;
@@ -10462,7 +10516,8 @@ ns1:Prix_Des_Incorruptibles7e019818-8aff-4a78-81bb-db185c02c1e8 a ns1:Award ;
 ns1:Prix_Des_Incorruptibles7e3b3855-c8bc-4164-ae98-967ca78601e8 a ns1:Award ;
     ns1:date "2013" ;
     ns1:for "Arrête de lire !" ;
-    ns1:to "Claire Gratias"^^xsd:string .
+    ns1:to "Claire Gratias"^^xsd:string,
+        "Sylvie Serprix"^^xsd:string .
 
 ns1:Prix_Des_Incorruptibles81358fd7-a1fe-40c8-b3c8-77061d5ee33d a ns1:Award ;
     ns1:date "2013" ;
@@ -10516,7 +10571,8 @@ ns1:Prix_Des_Incorruptibles89a8b98d-929f-49ed-9463-9af520f03d3f a ns1:Award ;
 ns1:Prix_Des_Incorruptibles8a6a9829-aeb3-46ba-b7a9-7b7fea118445 a ns1:Award ;
     ns1:date "2019" ;
     ns1:for "Jefferson" ;
-    ns1:to "Antoine Ronzon"^^xsd:string .
+    ns1:to "Antoine Ronzon"^^xsd:string,
+        "Jean-Claude Mourlevat"^^xsd:string .
 
 ns1:Prix_Des_Incorruptibles909fa076-a7a2-4666-8dde-464867a2dbab a ns1:Award ;
     ns1:date "2018" ;
@@ -10549,7 +10605,7 @@ ns1:Prix_Des_Incorruptibles9e5aebaa-522d-4986-84d4-b84f60d68220 a ns1:Award ;
     ns1:date "2009" ;
     ns1:for "Ce que lisent les animaux avant de dormir" ;
     ns1:to "Nicolas Duffaut"^^xsd:string,
-        "Noé Carlain" ;
+        "Noé Carlain" .
 
 ns1:Prix_Des_Incorruptibles9f483a3d-e7bf-4f77-8941-9a8d2036a737 a ns1:Award ;
     ns1:date "2012" ;
@@ -10727,7 +10783,8 @@ ns1:Prix_Des_Incorruptiblesf4f6c0d5-6205-4ab1-989a-d4114452638f a ns1:Award ;
 ns1:Prix_Des_Incorruptiblesf528b35e-5d49-48cc-8ad5-f9baddcb8fe1 a ns1:Award ;
     ns1:date "2011" ;
     ns1:for "Faim de loup" ;
-    ns1:to "Eric Pintus"^^xsd:string .
+    ns1:to "Eric Pintus"^^xsd:string,
+        "Rémy Salillard"^^xsd:string .
 
 ns1:Prix_Des_Incorruptiblesf550d8c3-62c0-4336-a25d-6e3a283de662 a ns1:Award ;
     ns1:date "2016" ;
@@ -10761,7 +10818,8 @@ ns1:Prix_Des_Incorruptiblesfa286788-8035-418d-9d4f-d49fde4b6674 a ns1:Award ;
 ns1:Prix_Des_Incorruptiblesfa70dbd0-682c-4794-8c27-f6ad7282d575 a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "14/14" ;
-    ns1:to "Paul Béorn"^^xsd:string .
+    ns1:to "Paul Béorn"^^xsd:string,
+        "Silène Edgar"^^xsd:string .
 
 ns1:Prix_Des_Incorruptiblesfb854f27-86d8-45d8-9186-b81c81dd13b7 a ns1:Award ;
     ns1:date "2007" ;
@@ -10771,7 +10829,8 @@ ns1:Prix_Des_Incorruptiblesfb854f27-86d8-45d8-9186-b81c81dd13b7 a ns1:Award ;
 ns1:Prix_Des_Incorruptiblesfc521fa9-0ece-4c31-afb3-20bcbb415654 a ns1:Award ;
     ns1:date "2010" ;
     ns1:for "Le pompier de Lilliputia" ;
-    ns1:to "François Roca"^^xsd:string .
+    ns1:to "François Roca"^^xsd:string,
+        "Fred Bernard"^^xsd:string .
 
 ns1:Prix_Des_Incorruptiblesfd976756-e84c-4039-8ba2-09dbbf9beccb a ns1:Award ;
     ns1:date "2009" ;
@@ -11131,7 +11190,8 @@ ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréala2bab7ad-3281-466f-aaf
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalaaf1d2d1-0b1f-4f70-9e40-bcfad2837344 a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "Elliot" ;
-    ns1:to "Julie Pearson"^^xsd:string .
+    ns1:to "Julie Pearson"^^xsd:string,
+        "Manon Gauthier"^^xsd:string .
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalb0f3d7bb-4568-4b00-a4b3-5e6f8dbd02d5 a ns1:Award ;
     ns1:date "2019" ;
@@ -11161,7 +11221,8 @@ ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalf18bf8d3-c740-4752-b34
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalfd7a1ac8-2421-418d-ad4b-6c54df3ef1dd a ns1:Award ;
     ns1:date "2009" ;
     ns1:for "Ophélie" ;
-    ns1:to "Charlotte Gingras"^^xsd:string .
+    ns1:to "Charlotte Gingras"^^xsd:string,
+        "Daniel Sylvestre"^^xsd:string .
 
 ns1:Prix_Du_Livre_M_Christie01bc4910-b30b-4d23-b3c5-d3e3a3077ac6 a ns1:Award ;
     ns1:date "2002" ;
@@ -11217,7 +11278,8 @@ ns1:Prix_Du_Livre_M_Christie3e63c10f-cbf8-463b-a059-987226068d25 a ns1:Award ;
 ns1:Prix_Du_Livre_M_Christie41ecc04d-9a6f-4b11-ad71-a23791c9d09c a ns1:Award ;
     ns1:date "2003" ;
     ns1:for "Mon rayon de soleil" ;
-    ns1:to "Marie-Francine Hébert"^^xsd:string .
+    ns1:to "Marie-Francine Hébert"^^xsd:string,
+        "Steve Adams"^^xsd:string .
 
 ns1:Prix_Du_Livre_M_Christie4302f9f3-badf-4290-aa49-bec8cc94f08c a ns1:Award ;
     ns1:date "1992" ;
@@ -11244,7 +11306,8 @@ ns1:Prix_Du_Livre_M_Christie4e61a167-7043-4298-a1de-1b4d7a6bc5fd a ns1:Award ;
 ns1:Prix_Du_Livre_M_Christie57ecb5e3-2f20-4cb6-91b2-dd18487f1587 a ns1:Award ;
     ns1:date "2001" ;
     ns1:for "Vieux Thomas et la petite fée" ;
-    ns1:to "Dominique Demers"^^xsd:string .
+    ns1:to "Dominique Demers"^^xsd:string,
+        "Stéphane Poulin"^^xsd:string .
 
 ns1:Prix_Du_Livre_M_Christie5898f087-8566-46a0-83e3-2d4a924cfd91 a ns1:Award ;
     ns1:date "1990" ;
@@ -11781,7 +11844,8 @@ ns1:Prix_Enfantaisie_Catégorie_Albumaf0c3714-98ae-43a6-b75e-0eab01073790 a ns1:
 ns1:Prix_Enfantaisie_Catégorie_Albumb64b95a9-ae9a-40af-87ef-c84d8319b7a2 a ns1:Award ;
     ns1:date "2010" ;
     ns1:for "Mes parents sont marteaux !" ;
-    ns1:to "Lynda Corazza"^^xsd:string .
+    ns1:to "Lynda Corazza"^^xsd:string,
+        "Philippe Besnier"^^xsd:string .
 
 ns1:Prix_Enfantaisie_Catégorie_Albumc3401a62-5451-4e57-8e9c-e5962903c6d9 a ns1:Award ;
     ns1:date "2012" ;
@@ -11834,7 +11898,8 @@ ns1:Prix_Enfantaisie_Catégorie_Albumf2de96bc-f787-4ab2-8d30-c354141f2ace a ns1:
 ns1:Prix_Enfantaisie_Catégorie_Albumfe5bfbe6-28ca-4f11-9ae8-ea2bc47a5d6d a ns1:Award ;
     ns1:date "2018" ;
     ns1:for "Pax et le petit soldat" ;
-    ns1:to "Jon Klassen"^^xsd:string .
+    ns1:to "Jon Klassen"^^xsd:string,
+        "Sara Pennypacker"^^xsd:string .
 
 ns1:Prix_Enfantaisie_Catégorie_Roman_Prix_Farniente a ns1:Award ;
     ns1:name "Prix Enfantaisie : Catégorie Roman"^^xsd:string ;
@@ -12018,7 +12083,8 @@ ns1:Prix_Farniente_Dromadaire_13_ a ns1:Award ;
 ns1:Prix_Farniente_Dromadaire_13_604bb1e8-0f04-415c-aeea-b2268334e39d a ns1:Award ;
     ns1:date "2020" ;
     ns1:for "Deux secondes en moins" ;
-    ns1:to "Marie Colot"^^xsd:string .
+    ns1:to "Marie Colot"^^xsd:string,
+        "Nancy Guilbert"^^xsd:string .
 
 ns1:Prix_Farniente_Prix_Evasion_15_ a ns1:Award ;
     ns1:name "Prix Farniente : Prix Evasion (15+)"^^xsd:string ;
@@ -12066,7 +12132,8 @@ ns1:Prix_Farniente_Sélection_Jaune_13_dad1c146-fa23-487f-849c-9e59b481afc6 a ns
 ns1:Prix_Farniente_Sélection_Jaune_13_fe9060e1-cdc3-4e9e-8d48-15479856edeb a ns1:Award ;
     ns1:date "2020" ;
     ns1:for "Romy et Julius" ;
-    ns1:to "Coline Pierré"^^xsd:string .
+    ns1:to "Coline Pierré"^^xsd:string,
+        "Marine Carteron"^^xsd:string .
 
 ns1:Prix_Farniente_Sélection_Verte_15_ a ns1:Award ;
     ns1:name "Prix Farniente : Sélection Verte (15+)"^^xsd:string ;
@@ -12185,7 +12252,7 @@ ns1:Prix_Ficelle3befd2ee-3f91-4f18-ba52-4d072be73855 a ns1:Award ;
     ns1:date "2020" ;
     ns1:for "Marions-les !" ;
     ns1:to "Delphine Jacquot"^^xsd:string,
-        "Eric Sanvoisin" ;
+        "Eric Sanvoisin" .
 
 ns1:Prix_Ficelle485be1dd-7284-4c98-90a7-d44313d27ce4 a ns1:Award ;
     ns1:date "2018" ;
@@ -12237,7 +12304,8 @@ ns1:Prix_Ficelle970c00d2-4809-4b28-af19-24b7aeecd2dc a ns1:Award ;
 ns1:Prix_Ficellea1a5ae00-7736-413c-9bbd-0f87d1331c5d a ns1:Award ;
     ns1:date "2013" ;
     ns1:for "Arrête de lire !" ;
-    ns1:to "Claire Gratias"^^xsd:string .
+    ns1:to "Claire Gratias"^^xsd:string,
+        "Sylvie Serprix"^^xsd:string .
 
 ns1:Prix_Ficellea7b6af3e-4c84-4845-bef0-f619f32c1ebe a ns1:Award ;
     ns1:date "2015" ;
@@ -12439,7 +12507,8 @@ ns1:Prix_Gulli_Du_Roman9ee0ba7c-1cf1-406e-8df1-15859b174910 a ns1:Award ;
 ns1:Prix_Gulli_Du_Roman9fa6accf-684c-4dfb-adfd-7c619ee0077d a ns1:Award ;
     ns1:date "2020" ;
     ns1:for "Alma (T. 1). Le vent se lève" ;
-    ns1:to "François Place"^^xsd:string .
+    ns1:to "François Place"^^xsd:string,
+        "Timothée de Fombelle"^^xsd:string .
 
 ns1:Prix_Gulli_Du_Romana9266d79-9c11-4118-b09a-c163823be43a a ns1:Award ;
     ns1:date "2015" ;
@@ -12470,7 +12539,8 @@ ns1:Prix_Gulli_Du_Romanfbe0299c-37e3-4408-9249-cf1227edb310 a ns1:Award ;
 ns1:Prix_Harry_Black_De_L_Album_Jeunesse01367e01-5eaa-4a3b-89d2-13701412adaf a ns1:Award ;
     ns1:date "2020" ;
     ns1:for "Des couleurs sur la grave" ;
-    ns1:to "Dominique Leroux"^^xsd:string .
+    ns1:to "Dominique Leroux"^^xsd:string,
+        "Marie-Andrée Arsenault"^^xsd:string .
 
 ns1:Prix_Harry_Black_De_L_Album_Jeunesse9e4ddc67-fbbb-4c82-b04f-20d381709059 a ns1:Award ;
     ns1:date "2021" ;
@@ -12480,12 +12550,14 @@ ns1:Prix_Harry_Black_De_L_Album_Jeunesse9e4ddc67-fbbb-4c82-b04f-20d381709059 a n
 ns1:Prix_Harry_Black_De_L_Album_Jeunessec3b089e1-9d9b-4155-8bb4-8bb552b14e38 a ns1:Award ;
     ns1:date "2017" ;
     ns1:for "Au-delà de la forêt" ;
-    ns1:to "Gérard DuBois"^^xsd:string .
+    ns1:to "Gérard DuBois"^^xsd:string,
+        "Nadine Robert"^^xsd:string .
 
 ns1:Prix_Harry_Black_De_L_Album_Jeunessed46fa416-2b2d-4666-ad22-bebf86866f71 a ns1:Award ;
     ns1:date "2019" ;
     ns1:for "Mémé à la plage" ;
-    ns1:to "Aurélie Grand"^^xsd:string .
+    ns1:to "Aurélie Grand"^^xsd:string,
+        "Rhéa Dufresne"^^xsd:string .
 
 ns1:Prix_Harry_Black_De_L_Album_Jeunessedfa2d3c3-8446-471e-bf74-0561b0b11ed0 a ns1:Award ;
     ns1:date "2021" ;
@@ -12515,7 +12587,8 @@ ns1:Prix_Ibby_Belgique_Francophoneda3068f4-4aa3-4a7f-8384-95df37254b59 a ns1:Awa
 ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières005520bc-d138-43a9-9f37-d57e1517e4bd a ns1:Award ;
     ns1:date "2023" ;
     ns1:for "Seuls" ;
-    ns1:to "Mélanie Baillargé" .
+    ns1:to "Mélanie Baillairgé"^^xsd:string,
+        "Paul Tom"^^xsd:string .
 
 ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières044834cd-329d-4252-ac2c-00495a55a305 a ns1:Award ;
     ns1:date "2010" ;
@@ -12645,7 +12718,8 @@ ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières5b404414-6242-41
 ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières5d4a618e-8eb3-4bf0-b037-9f8fc05b9f7d a ns1:Award ;
     ns1:date "2012" ;
     ns1:for "Le petit chevalier qui n'aimait pas la pluie" ;
-    ns1:to "Geneviève Després"^^xsd:string .
+    ns1:to "Geneviève Després"^^xsd:string,
+        "Gilles Tibo"^^xsd:string .
 
 ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières5dd3a36d-632d-46d1-95fc-72e845d60d89 a ns1:Award ;
     ns1:date "2017" ;
@@ -12675,7 +12749,8 @@ ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières66043a92-8b43-44
 ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières6615f9fa-35ce-43c2-bf61-08abd4889292 a ns1:Award ;
     ns1:date "2005" ;
     ns1:for "Le nul et la chipie" ;
-    ns1:to "Anne Villeneuve"^^xsd:string .
+    ns1:to "Anne Villeneuve"^^xsd:string,
+        "François Barcelo"^^xsd:string .
 
 ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières691ea48f-3975-455e-b47e-b5da4aff9652 a ns1:Award ;
     ns1:date "2019" ;
@@ -12786,7 +12861,8 @@ ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivièresac190623-28ae-43
 ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivièresad241e60-6a26-4d9d-81ef-5d8d4a088d3d a ns1:Award ;
     ns1:date "2004" ;
     ns1:for "La boîte à bonheur" ;
-    ns1:to "Stéphane Jorisch"^^xsd:string .
+    ns1:to "Charlotte Gingras"^^xsd:string,
+        "Stéphane Jorisch"^^xsd:string .
 
 ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivièresaf494763-fd61-42a9-abbb-bee802d3a5a3 a ns1:Award ;
     ns1:date "2005" ;
@@ -12965,7 +13041,8 @@ ns1:Prix_Imaginales_Catégorie_Jeunesse a ns1:Award ;
 ns1:Prix_Imaginales_Catégorie_Jeunesse06f227ed-ad37-4d81-a7cc-ecea75b3431d a ns1:Award ;
     ns1:date "2019" ;
     ns1:for "Les guerriers de glace" ;
-    ns1:to "Estelle Faye"^^xsd:string .
+    ns1:to "Estelle Faye"^^xsd:string,
+        "Nancy Peña"^^xsd:string .
 
 ns1:Prix_Imaginales_Catégorie_Jeunesse504de2aa-67d6-449a-8371-a0075c07c138 a ns1:Award ;
     ns1:date "2021" ;
@@ -12975,7 +13052,8 @@ ns1:Prix_Imaginales_Catégorie_Jeunesse504de2aa-67d6-449a-8371-a0075c07c138 a ns
 ns1:Prix_Imaginales_Catégorie_Jeunesse554502d7-cf06-4295-b976-8643a076abb3 a ns1:Award ;
     ns1:date "2023" ;
     ns1:for "La dragonne et le drôle" ;
-    ns1:to "Damien Galisson"^^xsd:string .
+    ns1:to "Damien Galisson"^^xsd:string,
+        "Tom Aureille"^^xsd:string .
 
 ns1:Prix_Imaginales_Catégorie_Jeunesse72622e3b-23fd-4ec6-a6b6-ac5856a6ec8d a ns1:Award ;
     ns1:date "2020" ;
@@ -13434,12 +13512,14 @@ ns1:Prix_Jacques_Asklund5418b4d3-de59-4de2-ac34-5ac13e8a9861 a ns1:Award ;
 ns1:Prix_Jacques_Asklund54827930-5cf0-4b73-af93-380f55f73741 a ns1:Award ;
     ns1:date "1996" ;
     ns1:for "Félix Têtedeveau" ;
-    ns1:to "Anne-Marie Desplat-Duc"^^xsd:string .
+    ns1:to "Anne-Marie Desplat-Duc"^^xsd:string,
+        "Gérard Franquin"^^xsd:string .
 
 ns1:Prix_Jacques_Asklund5529575b-7200-4bf4-818e-e58ccd81d366 a ns1:Award ;
     ns1:date "2017" ;
     ns1:for "Mémé Dusa" ;
-    ns1:to "Anne Schmauch"^^xsd:string .
+    ns1:to "Anne Schmauch"^^xsd:string,
+        "Katherine Ferrier"^^xsd:string .
 
 ns1:Prix_Jacques_Asklund5c0a7255-3e1c-4943-abad-0eef69711215 a ns1:Award ;
     ns1:date "1995" ;
@@ -13497,7 +13577,8 @@ ns1:Prix_Jacques_Asklundb0833bff-6b5f-4a1b-b0fc-4afa56d30535 a ns1:Award ;
 ns1:Prix_Jacques_Asklundc8a6ebcf-5a05-4594-9d38-c91d3dcd74da a ns1:Award ;
     ns1:date "1995" ;
     ns1:for "Le vrai prince Thibault" ;
-    ns1:to "Evelyne Brisou-Pellen"^^xsd:string .
+    ns1:to "Christophe Besse"^^xsd:string,
+        "Evelyne Brisou-Pellen"^^xsd:string .
 
 ns1:Prix_Jacques_Asklundc9478643-f640-4f5a-b168-fb866c0dd730 a ns1:Award ;
     ns1:date "1994" ;
@@ -14246,7 +14327,7 @@ ns1:Prix_Libbylit273c7bb7-6e1c-4295-8f30-5cd0e9e44e06 a ns1:Award ;
     ns1:date "2019" ;
     ns1:for "Marions-les !" ;
     ns1:to "Delphine Jacquot"^^xsd:string,
-        "Eric Sanvoisin" ;
+        "Eric Sanvoisin" .
 
 ns1:Prix_Libbylit27cc7b43-76e3-468f-87d7-372e7886c111 a ns1:Award ;
     ns1:date "2021" ;
@@ -14276,7 +14357,8 @@ ns1:Prix_Libbylit2d186ead-107b-483d-91d3-028f69cd71f2 a ns1:Award ;
 ns1:Prix_Libbylit33ba6a97-7a8f-4c43-8952-3967b3a09923 a ns1:Award ;
     ns1:date "2007" ;
     ns1:for "A pas de loup..." ;
-    ns1:to "Christine Schneider"^^xsd:string .
+    ns1:to "Christine Schneider"^^xsd:string,
+        "Hervé Pinel"^^xsd:string .
 
 ns1:Prix_Libbylit34a89659-6f7c-42c0-847b-1a82f999de03 a ns1:Award ;
     ns1:date "2011" ;
@@ -14296,7 +14378,8 @@ ns1:Prix_Libbylit39b34715-b67c-4a1a-821c-617d0b120982 a ns1:Award ;
 ns1:Prix_Libbylit3f71eac7-20ab-4196-bfbf-013b0760de1c a ns1:Award ;
     ns1:date "2012" ;
     ns1:for "Le bus de Rosa" ;
-    ns1:to "Fabrizio Sileil" .
+    ns1:to "Fabrizio Silir"^^xsd:string,
+        "Mauricio A.C. Quarello"^^xsd:string .
 
 ns1:Prix_Libbylit40e75970-95d5-408f-9051-f2d2beb5a5ba a ns1:Award ;
     ns1:date "2022" ;
@@ -14377,7 +14460,8 @@ ns1:Prix_Libbylit5e36c73e-5155-4c43-8578-05ff4578ac71 a ns1:Award ;
 ns1:Prix_Libbylit646cabdd-ec39-409d-8eee-0de4f80868d9 a ns1:Award ;
     ns1:date "2006" ;
     ns1:for "Sous le grand banian" ;
-    ns1:to "Jean-Claude Mourlevat"^^xsd:string .
+    ns1:to "Jean-Claude Mourlevat"^^xsd:string,
+        "Nathalie Novi"^^xsd:string .
 
 ns1:Prix_Libbylit6590fb53-6409-49d9-9523-255710a7dc79 a ns1:Award ;
     ns1:date "2016" ;
@@ -14387,12 +14471,14 @@ ns1:Prix_Libbylit6590fb53-6409-49d9-9523-255710a7dc79 a ns1:Award ;
 ns1:Prix_Libbylit6614c711-1787-4cce-9239-49b919fefcb3 a ns1:Award ;
     ns1:date "2005" ;
     ns1:for "Moi, j'attends" ;
-    ns1:to "Davide Cali"^^xsd:string .
+    ns1:to "Davide Cali"^^xsd:string,
+        "Serge Bloch"^^xsd:string .
 
 ns1:Prix_Libbylit69dbafed-ba4d-42d6-969d-07d9faa88d74 a ns1:Award ;
     ns1:date "2018" ;
     ns1:for "Deux secondes en moins" ;
-    ns1:to "Marie Colot"^^xsd:string .
+    ns1:to "Marie Colot"^^xsd:string,
+        "Nancy Guilbert"^^xsd:string .
 
 ns1:Prix_Libbylit71552c65-b53f-482f-b250-1afa30f8ce50 a ns1:Award ;
     ns1:date "2022" ;
@@ -14494,7 +14580,8 @@ ns1:Prix_Libbylit_Mention_Spéciale_ a ns1:Award ;
 ns1:Prix_Libbylit_Mention_Spéciale_4142ab2f-b227-4fa2-94bf-318c2a875f17 a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "Mon tout petit" ;
-    ns1:to "Albertine"^^xsd:string .
+    ns1:to "Albertine"^^xsd:string,
+        "Germano Zullo"^^xsd:string .
 
 ns1:Prix_Libbylit_Mention_Spéciale_4f4d8c3d-0e90-47e5-aa5d-d155db220b6b a ns1:Award ;
     ns1:date "2022" ;
@@ -15634,7 +15721,8 @@ ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada01495d64-8e82-42ec-a828-d
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada05363361-a978-4b77-ac30-e936fd1987ee a ns1:Award ;
     ns1:date "2013" ;
     ns1:for "Jane, le renard & moi" ;
-    ns1:to "Isabelle Arsenault"^^xsd:string .
+    ns1:to "Fanny Britt"^^xsd:string,
+        "Isabelle Arsenault"^^xsd:string .
 
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada0f460bc1-19dd-461c-a7bf-218959025a3d a ns1:Award ;
     ns1:date "2011" ;
@@ -15699,7 +15787,8 @@ ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada355b6cb7-5005-40f1-9a29-a
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada37303d57-4d39-4a4f-89ab-12e7eab06b12 a ns1:Award ;
     ns1:date "2007" ;
     ns1:for "La petite rapporteuse de mots" ;
-    ns1:to "Geneviève Côté"^^xsd:string .
+    ns1:to "Danielle Simard"^^xsd:string,
+        "Geneviève Côté"^^xsd:string .
 
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada39da7635-f477-400d-afcb-9ca7e3bf7777 a ns1:Award ;
     ns1:date "1987" ;
@@ -15800,7 +15889,8 @@ ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada6db10917-f83a-4a5d-a033-2
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada7302bbd9-c986-4fc8-b20c-315d450bd258 a ns1:Award ;
     ns1:date "2019" ;
     ns1:for "Jack et le temps perdu" ;
-    ns1:to "Delphie Côté Lacroix etStéphanie Lapointe"^^xsd:string .
+    ns1:to "Delphie Côté-Lacroix"^^xsd:string,
+        "Stéphanie Lapointe"^^xsd:string .
 
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada783f3ad3-594a-45cf-bfb4-ccea94092f96 a ns1:Award ;
     ns1:date "1999" ;
@@ -15840,7 +15930,8 @@ ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada8a78ae5a-2900-4223-bc11-9
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada8ba80ea2-fedc-4e8e-80ce-849b82c19561 a ns1:Award ;
     ns1:date "2016" ;
     ns1:for "Grand-père et la Lune" ;
-    ns1:to "Roger Girard"^^xsd:string .
+    ns1:to "Roger Girard"^^xsd:string,
+        "Stéphanie Lapointe"^^xsd:string .
 
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada8c8dba98-6379-4fd6-a3dd-acbdec81679b a ns1:Award ;
     ns1:date "2000" ;
@@ -15860,7 +15951,8 @@ ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada9a345a2b-7386-42b9-9404-4
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canadaa0472523-505f-4168-89e2-47f0a5e57ff7 a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "Le voleur de sandwichs" ;
-    ns1:to "André Marois"^^xsd:string .
+    ns1:to "André Marois"^^xsd:string,
+        "Patrick Doyon"^^xsd:string .
 
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canadaa4dde658-979a-4c48-b4c1-605fae13f199 a ns1:Award ;
     ns1:date "2010" ;
@@ -15890,7 +15982,8 @@ ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canadabdc542da-cfa9-409e-8b9c-d
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canadac8674284-6ae8-43d3-b5a4-fe120cc0062f a ns1:Award ;
     ns1:date "2020" ;
     ns1:for "Lac Adélard" ;
-    ns1:to "François Blais"^^xsd:string .
+    ns1:to "François Blais"^^xsd:string,
+        "Iris"^^xsd:string .
 
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canadacd4115bc-d4d6-431d-bdd2-3e2fc7c3a0c8 a ns1:Award ;
     ns1:date "2008" ;
@@ -15910,7 +16003,8 @@ ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canadadfef4fa7-ec2c-47b4-9037-1
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canadaea2bb631-a76e-4db7-90df-804b5b052937 a ns1:Award ;
     ns1:date "2021" ;
     ns1:for "A qui appartiennent les nuages ?" ;
-    ns1:to "Gérard DuBois"^^xsd:string .
+    ns1:to "Gérard DuBois"^^xsd:string,
+        "Mario Brassard"^^xsd:string .
 
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canadaf3635b30-a105-4192-bafc-1cbd23f73b5d a ns1:Award ;
     ns1:date "2018" ;
@@ -15925,7 +16019,8 @@ ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canadaf9585b91-60d0-4380-a785-3
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canadaf9fa4eb9-ddbd-4c47-8818-0307620fac80 a ns1:Award ;
     ns1:date "2022" ;
     ns1:for "Trèfle" ;
-    ns1:to "Nadine Robert"^^xsd:string .
+    ns1:to "Nadine Robert"^^xsd:string,
+        "Qin Leng"^^xsd:string .
 
 ns1:Prix_Littéraires_Du_Gouverneur_Général_Du_Canadafc1ff7d2-2dda-426f-89e9-a396491839af a ns1:Award ;
     ns1:date "2017" ;
@@ -15981,7 +16076,8 @@ ns1:Prix_Littéraires_Du_Salon_Du_Livre_Du_Saguenay_Lac_Saint_Jean189412ac-1ae6-
 ns1:Prix_Littéraires_Du_Salon_Du_Livre_Du_Saguenay_Lac_Saint_Jean20f69ecc-c5d4-4a78-852c-32c4721f0c26 a ns1:Award ;
     ns1:date "2017" ;
     ns1:for "Même pas vrai" ;
-    ns1:to "Larry Tremblay"^^xsd:string .
+    ns1:to "Guillaume Perreault"^^xsd:string,
+        "Larry Tremblay"^^xsd:string .
 
 ns1:Prix_Littéraires_Du_Salon_Du_Livre_Du_Saguenay_Lac_Saint_Jean2836009c-9a57-451f-afdc-b357440e696f a ns1:Award ;
     ns1:date "2012" ;
@@ -16088,7 +16184,8 @@ ns1:Prix_Littéralouest_4Ème_3Ème a ns1:Award ;
 ns1:Prix_Littéralouest_4Ème_3Ème59af62e9-2e35-4e50-aa34-5e20660bc637 a ns1:Award ;
     ns1:date "2021" ;
     ns1:for "Romy et Julius" ;
-    ns1:to "Coline Pierré"^^xsd:string .
+    ns1:to "Coline Pierré"^^xsd:string,
+        "Marine Carteron"^^xsd:string .
 
 ns1:Prix_Littéralouest_5_6_Ans a ns1:Award ;
     ns1:name "Prix Littéralouest : 5-6 Ans"^^xsd:string ;
@@ -16815,7 +16912,8 @@ ns1:Prix_Nénuphar_De_L_Album_Jeunesse3149c9a8-e003-4592-bf66-6822a03e278e a ns1
 ns1:Prix_Nénuphar_De_L_Album_Jeunesse5082525e-0e8b-4d7c-8e02-ddf259798a6f a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "Le pompier de Lilliputia" ;
-    ns1:to "François Roca"^^xsd:string .
+    ns1:to "François Roca"^^xsd:string,
+        "Fred Bernard"^^xsd:string .
 
 ns1:Prix_Nénuphar_De_L_Album_Jeunesse5f7ba57f-61b5-4b99-895b-8b080fc92171 a ns1:Award ;
     ns1:date "2020" ;
@@ -16890,7 +16988,8 @@ ns1:Prix_P_Tits_Mômes98c63e76-dd81-43c9-bd88-e5785c506ee6 a ns1:Award ;
 ns1:Prix_P_Tits_Mômesbbeddc12-a6ce-4697-b2d0-b07ec5c24eec a ns1:Award ;
     ns1:date "2011" ;
     ns1:for "Le Ballon de Zébulon" ;
-    ns1:to "Alice Briere-Haquet"^^xsd:string .
+    ns1:to "Alice Briere-Haquet"^^xsd:string,
+        "Olivier Philiponneau"^^xsd:string .
 
 ns1:Prix_P_Tits_Mômesbc75f90a-642a-4b6b-9654-36c31ee03665 a ns1:Award ;
     ns1:date "2010" ;
@@ -17229,7 +17328,8 @@ ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire702caded-029e-4461-ac14-e3efb14f
 ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire8d8f87ea-9a3a-4b34-bb7a-09c86e3eb2ae a ns1:Award ;
     ns1:date "2020" ;
     ns1:for "Les oiseaux" ;
-    ns1:to "Albertine"^^xsd:string .
+    ns1:to "Albertine"^^xsd:string,
+        "Germano Zullo"^^xsd:string .
 
 ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire9aba5f3e-0757-488e-8cf2-927ecd1fb815 a ns1:Award ;
     ns1:date "2012" ;
@@ -17275,7 +17375,8 @@ ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Liree19138fa-4202-4e91-a13f-2bf1fd6e
     ns1:date "2021",
         "2022" ;
     ns1:for "Comme un géant" ;
-    ns1:to "Marc Daniau"^^xsd:string .
+    ns1:to "Marc Daniau"^^xsd:string,
+        "Yvan Duque"^^xsd:string .
 
 ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Liree34e4bd0-ecbe-4c38-b44b-bed81e6bde37 a ns1:Award ;
     ns1:date "2007" ;
@@ -17351,7 +17452,8 @@ ns1:Prix_Québec46f5e4ea-38c8-478c-a117-c5c622b63d5b a ns1:Award ;
 ns1:Prix_Québec4c21e32f-d68b-4463-aa9c-6179bcc50770 a ns1:Award ;
     ns1:date "2011" ;
     ns1:for "Le chasseur de loups-marins" ;
-    ns1:to "Bruce Roberts" .
+    ns1:to "Bruce Robert"^^xsd:string,
+        "Claire Vigneault"^^xsd:string .
 
 ns1:Prix_Québec58e12e1b-1e3e-498a-ba48-a5192d75424d a ns1:Award ;
     ns1:date "1982" ;
@@ -17402,7 +17504,8 @@ ns1:Prix_Québec_Wallonie_Bruxelles3e7f1e27-3134-4f6d-84f8-cea6b0b13156 a ns1:Aw
 ns1:Prix_Québec_Wallonie_Bruxelles49525a7f-8edb-458a-a4ae-986f769367b8 a ns1:Award ;
     ns1:date "2011" ;
     ns1:for "Le chasseur de loups-marins" ;
-    ns1:to "Bruce Roberts" .
+    ns1:to "Bruce Robert"^^xsd:string,
+        "Claire Vigneault"^^xsd:string .
 
 ns1:Prix_Québec_Wallonie_Bruxelles5270d2bf-923d-4ca9-9ece-ef99ac8b6b4b a ns1:Award ;
     ns1:date "1988" ;
@@ -17417,12 +17520,14 @@ ns1:Prix_Québec_Wallonie_Bruxelles6894636a-9b28-4c64-aa19-c2893d901dbc a ns1:Aw
 ns1:Prix_Québec_Wallonie_Bruxelles79225264-870e-425c-ae05-da7ce7d34810 a ns1:Award ;
     ns1:date "2013" ;
     ns1:for "Le petit chevalier qui n'aimait pas la pluie" ;
-    ns1:to "Geneviève Després"^^xsd:string .
+    ns1:to "Geneviève Després"^^xsd:string,
+        "Gilles Tibo"^^xsd:string .
 
 ns1:Prix_Québec_Wallonie_Bruxellesa18601ad-4ab3-4192-ab63-300bff9745f7 a ns1:Award ;
     ns1:date "2004" ;
     ns1:for "Les devinettes d'Henriette" ;
-    ns1:to "Henriette Major"^^xsd:string .
+    ns1:to "Henriette Major"^^xsd:string,
+        "Philippe Béha"^^xsd:string .
 
 ns1:Prix_Québec_Wallonie_Bruxellesac11b7ce-b240-4db0-9628-862a77eb4e71 a ns1:Award ;
     ns1:date "1982" ;
@@ -17442,7 +17547,8 @@ ns1:Prix_Québec_Wallonie_Bruxellescceca8ce-1355-427d-ae58-4adada1fe7a7 a ns1:Aw
 ns1:Prix_Québec_Wallonie_Bruxellese99d35cb-6a11-45e9-b676-66061b7dca42 a ns1:Award ;
     ns1:date "1985" ;
     ns1:for "Zunik" ;
-    ns1:to "Bertrand Gauthier"^^xsd:string .
+    ns1:to "Bertrand Gauthier"^^xsd:string,
+        "Daniel Sylvestre"^^xsd:string .
 
 ns1:Prix_Québec_Wallonie_Bruxellesebdd5ac1-63d7-4eae-bf20-1ef8521fe740 a ns1:Award ;
     ns1:date "2002" ;
@@ -17474,17 +17580,20 @@ ns1:Prix_Québecae00c72f-175f-4dc5-aed0-69c26ee0090d a ns1:Award ;
 ns1:Prix_Québecc3825360-9553-4458-9875-8a64a14ac7b5 a ns1:Award ;
     ns1:date "1985" ;
     ns1:for "Zunik" ;
-    ns1:to "Bertrand Gauthier"^^xsd:string .
+    ns1:to "Bertrand Gauthier"^^xsd:string,
+        "Daniel Sylvestre"^^xsd:string .
 
 ns1:Prix_Québeccd18a150-7c59-42d4-a38a-1d3149e0dcbe a ns1:Award ;
     ns1:date "2005" ;
     ns1:for "Les devinettes d'Henriette" ;
-    ns1:to "Henriette Major"^^xsd:string .
+    ns1:to "Henriette Major"^^xsd:string,
+        "Philippe Béha"^^xsd:string .
 
 ns1:Prix_Québecd0683cd2-bee8-43bc-8e87-b39107d85bf1 a ns1:Award ;
     ns1:date "2013" ;
     ns1:for "Le petit chevalier qui n'aimait pas la pluie" ;
-    ns1:to "Geneviève Després"^^xsd:string .
+    ns1:to "Geneviève Després"^^xsd:string,
+        "Gilles Tibo"^^xsd:string .
 
 ns1:Prix_Québecd3746fca-4b3a-4c7c-bcfd-e0379b5d6f0e a ns1:Award ;
     ns1:date "1990" ;
@@ -17527,7 +17636,8 @@ ns1:Prix_Real_11_14_Ans79276677-ac74-405e-88c4-79a029ad48f4 a ns1:Award ;
 ns1:Prix_Real_11_14_Ansa325a490-3685-4864-85c0-e593d3779779 a ns1:Award ;
     ns1:date "2020" ;
     ns1:for "Les mots d'Hélio" ;
-    ns1:to "Nancy Guilbert"^^xsd:string .
+    ns1:to "Nancy Guilbert"^^xsd:string,
+        "Yaël Hassan"^^xsd:string .
 
 ns1:Prix_Real_11_14_Ansbbc632d6-fe94-477c-a6ef-45ef6b19c956 a ns1:Award ;
     ns1:date "2021" ;
@@ -17812,7 +17922,8 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album74b96c68-bb53-466d-8ee3-27a80e64a7
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album84ad0161-18ed-4c37-9482-218bfc91aac2 a ns1:Award ;
     ns1:date "2006" ;
     ns1:for "Sous le grand banian" ;
-    ns1:to "Jean-Claude Mourlevat"^^xsd:string .
+    ns1:to "Jean-Claude Mourlevat"^^xsd:string,
+        "Nathalie Novi"^^xsd:string .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album897b74fc-9bfb-4a04-a13c-47ada949bb29 a ns1:Award ;
     ns1:date "2017" ;
@@ -17955,7 +18066,8 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie1aa39f95-5c71-485d-b56d-89d
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie25e94b7c-0461-45e7-b3f5-8ecd1d0c2ca8 a ns1:Award ;
     ns1:date "2017" ;
     ns1:for "L'enfant qui n'avait jamais vu une fleur" ;
-    ns1:to "Andrée-Anne Gratton"^^xsd:string .
+    ns1:to "Andrée-Anne Gratton"^^xsd:string,
+        "Oussama Mezher"^^xsd:string .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie34e376a2-206c-4a6d-b2bc-0dab32fd4f09 a ns1:Award ;
     ns1:date "2016" ;
@@ -18056,7 +18168,8 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonieb31d8526-04f8-4556-84ce-17a
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonieb326d15a-293d-4d12-8b8a-7b7bf08bdbc2 a ns1:Award ;
     ns1:date "2018" ;
     ns1:for "Le jardin du dedans-dehors" ;
-    ns1:to "Chiara Mezzalama"^^xsd:string .
+    ns1:to "Chiara Mezzalama"^^xsd:string,
+        "Régis Lejonc"^^xsd:string .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonieb4dac5f3-8855-4be7-b465-da294d78f158 a ns1:Award ;
     ns1:date "1990" ;
@@ -18395,7 +18508,8 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Romanb8e10545-1f06-48c0-94dc-0d880665c8
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Romanb9af256e-9e71-44f2-a671-c9c18b1ca819 a ns1:Award ;
     ns1:date "2006" ;
     ns1:for "Tobie Lolness" ;
-    ns1:to "Timothée de Fombelle"^^xsd:string .
+    ns1:to "F. Place"^^xsd:string,
+        "T. de Fombelle"^^xsd:string .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Romanc3c62171-4c5c-4b46-a201-ca451df335db a ns1:Award ;
     ns1:date "1997" ;
@@ -18484,7 +18598,8 @@ ns1:Prix_Sorcières_Albums5452e143-d73f-4701-9f01-9297c1dda508 a ns1:Award ;
 ns1:Prix_Sorcières_Albums5ff9afad-1b16-4a40-8871-c39d853ddb8d a ns1:Award ;
     ns1:date "2011" ;
     ns1:for "Les oiseaux" ;
-    ns1:to "Albertine"^^xsd:string .
+    ns1:to "Albertine"^^xsd:string,
+        "Germano Zullo"^^xsd:string .
 
 ns1:Prix_Sorcières_Albums6cca9f9a-043d-47fc-8ff1-05ee55ffa04c a ns1:Award ;
     ns1:date "2012" ;
@@ -18563,7 +18678,8 @@ ns1:Prix_Sorcières_Carrément_Beau4fd2c31f-3453-40cc-8045-d244a4d99c2b a ns1:Aw
 ns1:Prix_Sorcières_Carrément_Beau58cb187d-1910-4cdb-8106-a8e319ae1590 a ns1:Award ;
     ns1:date "2018" ;
     ns1:for "Le jardin du dedans-dehors" ;
-    ns1:to "Chiara Mezzalama"^^xsd:string .
+    ns1:to "Chiara Mezzalama"^^xsd:string,
+        "Régis Lejonc"^^xsd:string .
 
 ns1:Prix_Sorcières_Carrément_Beau64cc83f2-da4e-469a-abfe-945476c586d8 a ns1:Award ;
     ns1:date "2022" ;
@@ -18606,7 +18722,8 @@ ns1:Prix_Sorcières_Carrément_Beaudadf2db2-a25d-4c64-8bc0-e07ad1e90d57 a ns1:Aw
 ns1:Prix_Sorcières_Carrément_Passionnant1f0c948e-4be2-473b-9a29-951880e65e37 a ns1:Award ;
     ns1:date "2018" ;
     ns1:for "Pax et le petit soldat" ;
-    ns1:to "Jon Klassen"^^xsd:string .
+    ns1:to "Jon Klassen"^^xsd:string,
+        "Sara Pennypacker"^^xsd:string .
 
 ns1:Prix_Sorcières_Carrément_Passionnant2a3b1294-5238-472b-bc6b-8283de71b52d a ns1:Award ;
     ns1:date "2023" ;
@@ -18622,7 +18739,8 @@ ns1:Prix_Sorcières_Carrément_Passionnant4a330140-f2f1-4850-94af-4964d3220619 a
 ns1:Prix_Sorcières_Carrément_Passionnant5e5b750d-7a5c-427e-8b00-8140957473c7 a ns1:Award ;
     ns1:date "2021" ;
     ns1:for "Alma (T. 1). Le vent se lève" ;
-    ns1:to "François Place"^^xsd:string .
+    ns1:to "François Place"^^xsd:string,
+        "Timothée de Fombelle"^^xsd:string .
 
 ns1:Prix_Sorcières_Carrément_Passionnanta4829148-fb6b-4b9d-b153-0a57feb6d10a a ns1:Award ;
     ns1:date "2020" ;
@@ -19071,7 +19189,8 @@ ns1:Prix_Sorcières_Romans_Jeunes a ns1:Award ;
 ns1:Prix_Sorcières_Romans_Jeunes0709fef4-b668-4828-b554-d5d111de873d a ns1:Award ;
     ns1:date "2007" ;
     ns1:for "Tobie Lolness" ;
-    ns1:to "Timothée de Fombelle"^^xsd:string .
+    ns1:to "F. Place"^^xsd:string,
+        "T. de Fombelle"^^xsd:string .
 
 ns1:Prix_Sorcières_Romans_Jeunes1fa40455-f66e-4eb3-a975-507721d9f61e a ns1:Award ;
     ns1:date "2006" ;
@@ -19318,7 +19437,8 @@ ns1:Prix_Sésame5c7185b2-a6e6-49d9-9789-7c231f45c719 a ns1:Award ;
 ns1:Prix_Sésame677aed19-98dc-4b10-983b-c9a9fabfd8d9 a ns1:Award ;
     ns1:date "2021" ;
     ns1:for "Les mots d'Hélio" ;
-    ns1:to "Nancy Guilbert"^^xsd:string .
+    ns1:to "Nancy Guilbert"^^xsd:string,
+        "Yaël Hassan"^^xsd:string .
 
 ns1:Prix_Sésame6790a1e0-1afb-4e38-a3bd-cbb757b7610e a ns1:Award ;
     ns1:date "2008" ;
@@ -19545,7 +19665,8 @@ ns1:Prix_Tatoulu_Tatou_Blanc7f006bee-ee84-498f-8b6f-34ac09dc1024 a ns1:Award ;
 ns1:Prix_Tatoulu_Tatou_Blanc80574924-7642-4d55-b5a0-61f592a9082b a ns1:Award ;
     ns1:date "2015" ;
     ns1:for "14/14" ;
-    ns1:to "Paul Béorn"^^xsd:string .
+    ns1:to "Paul Béorn"^^xsd:string,
+        "Silène Edgar"^^xsd:string .
 
 ns1:Prix_Tatoulu_Tatou_Blanc9a8d7e6e-050b-47e2-8ef0-d4c4f8ac7615 a ns1:Award ;
     ns1:date "2012" ;
@@ -19573,7 +19694,8 @@ ns1:Prix_Tatoulu_Tatou_Bleu a ns1:Award ;
 ns1:Prix_Tatoulu_Tatou_Bleu1cd92bef-0fe8-4ade-b2ff-077990c5b276 a ns1:Award ;
     ns1:date "2013" ;
     ns1:for "Le bus de Rosa" ;
-    ns1:to "Fabrizio Sileil" .
+    ns1:to "Fabrizio Silir"^^xsd:string,
+        "Mauricio A.C. Quarello"^^xsd:string .
 
 ns1:Prix_Tatoulu_Tatou_Bleu1e3d56a1-57c6-475b-be53-cf33cd506539 a ns1:Award ;
     ns1:date "2016" ;
@@ -19939,7 +20061,8 @@ ns1:Prix_Tatoulu_Tatou_Violetc1541eb2-149c-49aa-a4c8-55e00c2a3e45 a ns1:Award ;
 ns1:Prix_Tatoulu_Tatou_Violetcfb260af-e7b5-4a46-9c4c-424e5070f547 a ns1:Award ;
     ns1:date "2017" ;
     ns1:for "Perdus de vue" ;
-    ns1:to "Rachel Hausfater"^^xsd:string .
+    ns1:to "Rachel Hausfater"^^xsd:string,
+        "Yaël Hassan"^^xsd:string .
 
 ns1:Prix_Tatoulu_Tatou_Violete1521598-b55e-4460-a5a1-936d2991a9c0 a ns1:Award ;
     ns1:date "2021" ;
@@ -19964,7 +20087,8 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse0f662a24-ae0
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse1203a856-fd0b-47d2-a7c7-5348fc4c97fa a ns1:Award ;
     ns1:date "2006" ;
     ns1:for "David et le salon funéraire" ;
-    ns1:to "François Gravel"^^xsd:string .
+    ns1:to "François Gravel"^^xsd:string,
+        "Pierre Pratt"^^xsd:string .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse173b8793-2576-460b-bebd-3fdb3df80957 a ns1:Award ;
     ns1:date "None" ;
@@ -20056,7 +20180,8 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse924958d2-ad5
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessea9cdf60b-aca6-41d0-b7e0-3c74a3741d85 a ns1:Award ;
     ns1:date "2008" ;
     ns1:for "Un cadeau pour Sophie" ;
-    ns1:to "Gilles Vigneault"^^xsd:string .
+    ns1:to "Gilles Vigneault"^^xsd:string,
+        "Stéphane Jorisch"^^xsd:string .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesseba5c9215-6a46-40a3-9e9c-46f223de0a2f a ns1:Award ;
     ns1:date "None" ;
@@ -20086,7 +20211,8 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessecde2e69d-600
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessed13e934a-916e-4d06-b889-ed70a2530fa1 a ns1:Award ;
     ns1:date "2017" ;
     ns1:for "Même pas vrai" ;
-    ns1:to "Larry Tremblay"^^xsd:string .
+    ns1:to "Guillaume Perreault"^^xsd:string,
+        "Larry Tremblay"^^xsd:string .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessedb8cd751-bcf4-4bc7-8892-9de91119c416 a ns1:Award ;
     ns1:date "None" ;
@@ -20126,7 +20252,8 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessef9762bb0-b7a
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessefafdfa4a-50fb-4ff8-b8c0-a48eeaaf30d7 a ns1:Award ;
     ns1:date "None" ;
     ns1:for "Le géranium" ;
-    ns1:to "Mélanie Tellier"^^xsd:string .
+    ns1:to "Melinda Josie"^^xsd:string,
+        "Mélanie Tellier"^^xsd:string .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_17925cfc-3f7f-4f0a-bc1b-3abf378aeee7 a ns1:Award ;
     ns1:date "2009" ;
@@ -20136,12 +20263,14 @@ ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_17925cfc-3f7f-4f0a-bc1b-3abf378a
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_1cc7ad07-dddd-4c14-a67e-fe22ca99ab0a a ns1:Award ;
     ns1:date "2005" ;
     ns1:for "Le nul et la chipie" ;
-    ns1:to "Anne Villeneuve"^^xsd:string .
+    ns1:to "Anne Villeneuve"^^xsd:string,
+        "François Barcelo"^^xsd:string .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_1dd34b5d-e64b-4367-a372-525ec9d92682 a ns1:Award ;
     ns1:date "2006" ;
     ns1:for "David et le salon funéraire" ;
-    ns1:to "François Gravel"^^xsd:string .
+    ns1:to "François Gravel"^^xsd:string,
+        "Pierre Pratt"^^xsd:string .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_2d54411f-ebbf-48a6-9762-5b2b1eb77090 a ns1:Award ;
     ns1:date "2021" ;
@@ -20197,7 +20326,8 @@ ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_77e5abe1-b54e-4973-bb5d-3126203c
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_c2b19a97-6aa0-4bb8-84c1-4793cb7fc1a3 a ns1:Award ;
     ns1:date "2008" ;
     ns1:for "Un cadeau pour Sophie" ;
-    ns1:to "Gilles Vigneault"^^xsd:string .
+    ns1:to "Gilles Vigneault"^^xsd:string,
+        "Stéphane Jorisch"^^xsd:string .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_cbeff05b-e31c-4652-9900-209eb1919742 a ns1:Award ;
     ns1:date "2018" ;
@@ -20709,7 +20839,8 @@ ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec a ns1:Award ;
 ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec6f9057af-84be-4529-8221-f09abf3f365e a ns1:Award ;
     ns1:date "2022" ;
     ns1:for "Trèfle" ;
-    ns1:to "Nadine Robert"^^xsd:string .
+    ns1:to "Nadine Robert"^^xsd:string,
+        "Qin Leng"^^xsd:string .
 
 ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec9e1be312-0628-4563-9acc-da98d0aaf40b a ns1:Award ;
     ns1:date "None" ;
@@ -20769,12 +20900,14 @@ ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec a ns1:Award ;
 ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec63cd2214-71ae-428a-bd9a-e67b7318f33c a ns1:Award ;
     ns1:date "None" ;
     ns1:for "Quincaillerie Miville" ;
-    ns1:to "Alexandre Côté-Fournier"^^xsd:string .
+    ns1:to "Alexandre Côté-Fournier"^^xsd:string,
+        "Geneviève Bigué"^^xsd:string .
 
 ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québecd2001158-37e5-46bd-a0d6-3cbb63ead80f a ns1:Award ;
     ns1:date "None" ;
     ns1:for "Les soeurs Hiver" ;
-    ns1:to "Jolan Bertrand"^^xsd:string .
+    ns1:to "Jolan Bertrand"^^xsd:string,
+        "Tristan Gion"^^xsd:string .
 
 ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Hors_Québec a ns1:Award ;
     ns1:name "Prix des libraires : Lauréats Bd Jeunesse Hors Québec"^^xsd:string ;
@@ -20892,7 +21025,8 @@ ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Manga2b83e57c-2fbe-4a
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Manga5711074c-305d-4440-8127-6762a2f1b4ac a ns1:Award ;
     ns1:date "2008" ;
     ns1:for "Keroro (Tome 1)" ;
-    ns1:to "Mine Yoshizaki"^^xsd:string .
+    ns1:to "Saburo Ishikawa"^^xsd:string,
+        "Yoshichi Shimada"^^xsd:string .
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Mangac66592df-425f-43e3-807d-8675941c48ab a ns1:Award ;
     ns1:date "2010" ;
@@ -20957,7 +21091,8 @@ ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire546ef1d1-15b8-4e6f-9c9a-8166d4381f4d
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire5b979cee-fa3c-4a27-95b1-0a3e70c2995f a ns1:Award ;
     ns1:date "2014" ;
     ns1:for "Monsieur Kipu" ;
-    ns1:to "David Walliams"^^xsd:string .
+    ns1:to "David Walliams"^^xsd:string,
+        "Quentin Blake"^^xsd:string .
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire5bb40106-3cb3-443d-bd90-4a41615da0ef a ns1:Award ;
     ns1:date "2002" ;
@@ -20977,7 +21112,8 @@ ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire7075058f-9887-43de-98c1-1c0dfdd2188a
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire8099477f-f2e3-4a06-94ac-70c326e25bfe a ns1:Award ;
     ns1:date "1997" ;
     ns1:for "Félix Têtedeveau" ;
-    ns1:to "Anne-Marie Desplat-Duc"^^xsd:string .
+    ns1:to "Anne-Marie Desplat-Duc"^^xsd:string,
+        "Gérard Franquin"^^xsd:string .
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire883068b8-4dee-48fb-ae4d-01091354ac04 a ns1:Award ;
     ns1:date "1996" ;
@@ -21003,7 +21139,8 @@ ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lirec8f57bc1-72b1-4282-a2b9-9a62fc55228a
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lired42113db-ef40-45d5-8c97-bda09d11a5d5 a ns1:Award ;
     ns1:date "2004" ;
     ns1:for "Tu parles, Charles !" ;
-    ns1:to "Vincent Cuvelier"^^xsd:string .
+    ns1:to "Charles Dutertre"^^xsd:string,
+        "Vincent Cuvellier"^^xsd:string .
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Liredeaf9922-b07b-4914-a5ca-fc5ffe709364 a ns1:Award ;
     ns1:date "2010" ;
@@ -21059,7 +21196,8 @@ ns1:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquine1905f085-fc22-42b0-b34e-5b384116ae72
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquine4e1c8fbb-d6c3-4a11-8e97-f1b39023abfd a ns1:Award ;
     ns1:date "2006" ;
     ns1:for "Tobie Lolness" ;
-    ns1:to "Timothée de Fombelle"^^xsd:string .
+    ns1:to "F. Place"^^xsd:string,
+        "T. de Fombelle"^^xsd:string .
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquine5e2b75ca-72aa-47ca-a058-24248b34dd4e a ns1:Award ;
     ns1:date "1997" ;
