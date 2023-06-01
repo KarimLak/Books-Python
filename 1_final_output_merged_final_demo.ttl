@@ -11963,7 +11963,7 @@ ns1:Book54759c9d-533f-4b36-85a2-9d7d1b78ad21 a ns1:Book ;
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
 ns1:Book54a3c01e-0a02-4489-a669-47ccfdd15987 a ns1:Book ;
-    ns1:author "Fleur Daugey"^^xsd:string,
+    ns1:author "Fleur Daugeas de loup..y"^^xsd:string,
         "Sandrine Thommen"^^xsd:string ;
     ns1:award ns1:Prix_La_Science_Se_Livre_Catégorie_Adolescents_11_15_Ansb3ad418d-3591-449e-a57d-85caa445fee8 ;
     ns1:dateReceived "2016"^^xsd:gYear ;
