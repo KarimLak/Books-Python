@@ -1966,8 +1966,7 @@ ns1:Book0f5e4a1e-1688-46f4-9ec4-9d7a3c00c667 a ns1:Book ;
     ns1:author "Aurélien Débat"^^xsd:string ;
     ns1:award ns1:Prix_Bologna_Ragazzi_Bologna_Ragazzi_Award_On_Art_Architecture_Designb45ebe06-52f5-44e2-956e-e62dca59c9f9,
         ns1:Prix_Libbylit_Ovni_59d81486-6af4-443d-afce-cab5ae1ea7de ;
-    ns1:dateReceived "2007"^^xsd:gYear,
-        "2017"^^xsd:gYear,
+    ns1:dateReceived "2017"^^xsd:gYear,
         "2018"^^xsd:gYear ;
     ns1:genre "Bologna Ragazzi award on art - architecture & design",
         "Ovni" ;
@@ -3782,8 +3781,7 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0611 a ns1:Book ;
     ns1:author "Julie Pearson"^^xsd:string ;
     ns1:award ns1:Prix_Cécile_Gagnon852dea32-96fe-4cb6-a84b-4d3a4453ffa3,
         ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalaaf1d2d1-0b1f-4f70-9e40-bcfad2837344 ;
-    ns1:dateReceived "2005"^^xsd:gYear,
-        "2015"^^xsd:gYear ;
+    ns1:dateReceived "2015"^^xsd:gYear ;
     ns1:genre "Album",
         "Jeunesse"^^xsd:string ;
     ns1:inLanguage "Francais" ;
@@ -7392,7 +7390,7 @@ ns1:Book2b3c04d5-0900-4d8b-95bf-cf2e917e9bb8 a ns1:Book ;
     ns1:author "Michèle Marineau"^^xsd:string ;
     ns1:award ns1:Prix_12_17_Brive_Montréaldfb89972-a683-44a6-a038-407baca5577b,
         ns1:Prix_Ado_Lisant460d48a3-61d9-4e8d-8001-2ca0be3f9505,
-        ns1:Prix_Alvine_Bélisle017e555d-a776-47e8-99ae-4dc902524b65 ;
+        ns1:Prix_Alvinece8-99ae-4dc902524b65 ;
     ns1:datePublished "1992"^^xsd:gYear ;
     ns1:dateReceived "1993"^^xsd:gYear,
         "1999"^^xsd:gYear ;
@@ -7922,8 +7920,7 @@ ns1:Book32415515-b16c-4dc5-88b7-655d98b17fd8 a ns1:Book ;
 ns1:Book32bb09b5-1e11-45a6-aa4c-9b37cb08136c a ns1:Book ;
     ns1:author "Christine Schneider"^^xsd:string ;
     ns1:award ns1:Prix_Libbylit33ba6a97-7a8f-4c43-8952-3967b3a09923 ;
-    ns1:dateReceived "2007"^^xsd:gYear,
-        "2017"^^xsd:gYear ;
+    ns1:dateReceived "2017"^^xsd:gYear ;
     ns1:genre "Album" ;
     ns1:inLanguage "Francais" ;
     ns1:name "A pas de loup..."^^xsd:string ;
@@ -18525,8 +18522,7 @@ ns1:Bookaa231eed-d27e-476a-acaf-56318c92fb1b a ns1:Book ;
 ns1:Bookaa327408-f51d-4a36-88c8-b6f3f47ff1ef a ns1:Book ;
     ns1:author "Anne-Françoise de Bruyne"^^xsd:string ;
     ns1:award ns1:Prix_Libbylit2a98bb25-ff2c-4cfe-b124-3e0f1a3a9f9a ;
-    ns1:dateReceived "2007"^^xsd:gYear,
-        "2017"^^xsd:gYear ;
+    ns1:dateReceived "2017"^^xsd:gYear ;
     ns1:genre "Roman belge" ;
     ns1:inLanguage "Francais" ;
     ns1:name "La théorie de l'élastique"^^xsd:string ;
@@ -21283,8 +21279,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba059 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba060 a ns1:Book ;
     ns1:author "Hugo Verlomme"^^xsd:string ;
     ns1:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman6696f47c-bb32-4d18-bfb6-3e7210299b4e ;
-    ns1:dateReceived "1994"^^xsd:gYear,
-        "1995"^^xsd:gYear ;
+    ns1:dateReceived "1994"^^xsd:gYear ;
     ns1:inLanguage "Francais" ;
     ns1:name "L'homme des vagues"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse ;
@@ -21293,8 +21288,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba060 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba061 a ns1:Book ;
     ns1:author "Francis Bebey"^^xsd:string ;
     ns1:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie0f2d896f-244a-4594-93db-ef173fdf7e1d ;
-    ns1:dateReceived "1994"^^xsd:gYear,
-        "1995"^^xsd:gYear ;
+    ns1:dateReceived "1994"^^xsd:gYear ;
     ns1:inLanguage "Francais" ;
     ns1:name "L'enfant-pluie"^^xsd:string ;
     ns1:publisher ns1:Sépia ;
@@ -21315,8 +21309,7 @@ ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba062 a ns1:Book ;
 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba063 a ns1:Book ;
     ns1:author "Pierre Cardin"^^xsd:string ;
     ns1:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Albumefc3f84c-c4df-4f21-8026-2d5491f1c417 ;
-    ns1:dateReceived "1992"^^xsd:gYear,
-        "1994"^^xsd:gYear ;
+    ns1:dateReceived "1992"^^xsd:gYear ;
     ns1:illustrator "Giovanni Giannini" ;
     ns1:inLanguage "Francais" ;
     ns1:name "Le conte du ver à soie"^^xsd:string ;
@@ -25633,7 +25626,8 @@ ns1:Bookdc5853cd-3338-4f15-9def-ea6e9447f90e a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string .
 
 ns1:Bookdc714c9b-5eef-45a6-b6b6-6a5ac3dfb6f6 a ns1:Book ;
-    ns1:author "Laetitia Le Saux"^^xsd:string ;
+    ns1:author "Laetitia Le Saux"^^xsd:string,
+        "Stéphane Servant" ;
     ns1:award ns1:Gayant_Lectureb855fcc7-1f7e-4a63-b3b8-4d51034835e2,
         ns1:Prix_Des_Incorruptibles1f0dffce-d3fb-461a-aa30-07f178d3164a ;
     ns1:dateReceived "2012"^^xsd:gYear,
@@ -27722,7 +27716,8 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d1 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-des-incorruptibles"^^xsd:string .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d10 a ns1:Book ;
-    ns1:author "Nicolas Duffaut"^^xsd:string ;
+    ns1:author "Nicolas Duffaut"^^xsd:string,
+        "Noé Carlain" ;
     ns1:award ns1:Gayant_Lecture057479e6-1136-4984-8680-90fd806943d1,
         ns1:Prix_Des_Incorruptibles9e5aebaa-522d-4986-84d4-b84f60d68220 ;
     ns1:dateReceived "2009"^^xsd:gYear,
@@ -29827,7 +29822,8 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d76 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ficelle"^^xsd:string .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d77 a ns1:Book ;
-    ns1:author "Delphine Jacquot"^^xsd:string ;
+    ns1:author "Delphine Jacquot"^^xsd:string, 
+        "Eric Sanvoisin" ;
     ns1:award ns1:Prix_Ficelle3befd2ee-3f91-4f18-ba52-4d072be73855,
         ns1:Prix_Libbylit273c7bb7-6e1c-4295-8f30-5cd0e9e44e06 ;
     ns1:dateReceived "2019"^^xsd:gYear,
