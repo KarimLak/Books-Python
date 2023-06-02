@@ -1,54 +1,64 @@
-from rdflib import Graph, Namespace, Literal, RDF
-from unidecode import unidecode
+from rdflib import Graph, Literal, Namespace, URIRef
+from rdflib.namespace import RDF, RDFS, SKOS, XSD, OWL
+import os
 
-# Namespaces
+g = Graph()
+
+# Define namespaces
 ns1 = Namespace("http://schema.org/")
+pbs = Namespace("http://projetbs.org/")
+xsd = Namespace("http://www.w3.org/2001/XMLSchema#")
+mcc = Namespace("http://mcc.org/")
+g.bind("ns1", ns1)
+g.bind("pbs", pbs)
+g.bind("xsd", xsd)
+g.bind("mcc", mcc)
 
-# Load the books graph for merged_output
-merged_output_g = Graph()
-merged_output_g.parse("./merged_output.ttl", format="turtle", encoding="utf-8")
+# Load your existing ttl file
+g.parse("./1_awards_conversion_final_demo.ttl", format="turtle")
 
-# Load the books graph for final_output_merged_final
-final_g = Graph()
-final_g.parse("./final_output_merged_final.ttl", format="turtle", encoding="utf-8")
+# Load your book ttl file
+book_g = Graph()
 
-# Load the awards graph for awards_conversion_final
-awards_g = Graph()
-awards_g.parse("./awards_conversion_final.ttl", format="turtle", encoding="utf-8")
+book_g.parse("./1_final_output_merged_final_demo.ttl", format="turtle")
 
-# Check for multiple authors in merged_output and single author in final_output_merged_final
-for s in merged_output_g.subjects(RDF.type, ns1.Book):
-    # Get the book's information
-    book_name = str(merged_output_g.value(s, ns1.name))
-    normalized_book_name = unidecode(book_name.lower())
-    merged_authors = list(merged_output_g.objects(s, ns1.author))
+# Create new graph
+new_g = Graph()
 
-    if len(merged_authors) > 1:
-        # Find the same book in final_output_merged_final
-        final_book = None
-        for subj in final_g.subjects():
-            final_book_name = str(final_g.value(subj, ns1.name))
-            if normalized_book_name == unidecode(final_book_name.lower()):
-                final_book = subj
-                break
-        
-        if final_book is not None:
-            final_authors = list(final_g.objects(final_book, ns1.author))
-            if len(final_authors) != len(merged_authors):
-                # Remove the existing author(s) for the book in final_output_merged_final
-                final_g.remove((final_book, ns1.author, None))
-                # Add the correct author(s) for the book in final_output_merged_final
-                for author in merged_authors:
-                    final_g.add((final_book, ns1.author, Literal(author)))
+# Add ontology definitions only once
+new_g.add((ns1.groupeAge, RDF.type, OWL.DatatypeProperty))
+new_g.add((ns1.groupeAge, RDFS.domain, ns1.Award))
+new_g.add((ns1.groupeAge, RDFS.range, XSD.integer))
+new_g.add((ns1.groupeAge, RDFS.label, Literal("groupe d'âge")))
 
-                # Adjust the author(s) for the book's awards in awards_conversion_final
-                for award in final_g.objects(final_book, ns1.award):
-                    # Remove the existing author(s) for the award
-                    awards_g.remove((award, ns1.to, None))
-                    # Add the correct author(s) for the award
-                    for author in merged_authors:
-                        awards_g.add((award, ns1.to, Literal(author)))
+new_g.add((ns1.genreLitteraire, RDF.type, OWL.ObjectProperty))
+new_g.add((ns1.genreLitteraire, RDFS.domain, ns1.Award))
+new_g.add((ns1.genreLitteraire, RDFS.range, ns1.GenreLitteraire))
+new_g.add((ns1.genreLitteraire, RDFS.label, Literal("genre littéraire associé à un prix")))
 
-# Save the updated graphs
-final_g.serialize(destination='./final_output_merged_final.ttl', format='turtle', encoding="utf-8")
-awards_g.serialize(destination='./awards_conversion_final.ttl', format='turtle', encoding="utf-8")
+for award in g.subjects(RDF.type, ns1.Award):
+    new_g.add((award, RDF.type, pbs.Award))
+
+    for p, o in g.predicate_objects(subject=award):
+        if str(p) == str(ns1.name):
+            new_g.add((award, RDFS.label, o))
+            new_g.add((award, ns1.description, Literal("An award for the science enquiry in the field of scientific policing")))
+
+    for narrower_award in g.objects(subject=award, predicate=SKOS.narrower):
+        new_g.add((narrower_award, RDF.type, pbs.Award))
+
+        for p, o in g.predicate_objects(subject=narrower_award):
+            if str(p) == str(ns1.name):
+                new_g.add((narrower_award, RDFS.label, o))
+            elif str(p) == str(ns1.to):
+                for book in book_g.subjects(ns1.award, narrower_award):
+                    new_g.add((URIRef(str(narrower_award) + str(o)), mcc.MCC_E12, book))
+                    new_g.add((URIRef(str(narrower_award) + str(o)), ns1.award, narrower_award))
+                    new_g.add((URIRef(str(narrower_award) + str(o)), mcc.MCC_R35_4, Literal(o, datatype=XSD.gYear)))
+                    new_g.add((URIRef(str(narrower_award) + str(o)), mcc.R37, Literal("La science enquête les métiers de la police scientifique")))
+
+        # Add the skos:narrower relationships separately after all properties have been added
+        new_g.add((award, SKOS.narrower, narrower_award))
+
+# Save your new graph to a ttl file
+new_g.serialize(destination='new_awards.ttl', format='turtle')

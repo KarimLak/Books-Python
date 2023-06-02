@@ -16377,7 +16377,7 @@ ns1:Prix_Livrentête_Albums_5_ a ns1:Award ;
     ns1:name "Prix Livrentête : Albums 5+"^^xsd:string ;
     ns1:parentOrganization ns1:Prix_Livrentête .
 
-ns1:Prix_Livrentête_Bandes_Dessinées_JuniorFVPlus a ns1:Award ;
+ns1:Prix_Livrentête_Bandes_Dessinées_Juniors_12_Ans_Et_Plus a ns1:Award ;
     ns1:name "Prix Livrentête : Bandes Dessinées Juniors 12 Ans Et Plus"^^xsd:string ;
     ns1:parentOrganization ns1:Prix_Livrentête .
 
