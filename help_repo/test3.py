@@ -1,31 +1,48 @@
-from rdflib import Graph
+import re
+import collections
 
-g = Graph()
-g.parse("./new_awards.ttl", format="turtle", encoding="utf-8")
-g.parse("./1_awards_conversion_final_demo.ttl", format="turtle", encoding="utf-8")
+award_to_books_map = collections.defaultdict(set)
+existing_awards = collections.defaultdict(set)
 
-qres = g.update("""
-    PREFIX ns1: <http://schema.org/>
-    PREFIX mcc: <http://example.com/mcc#> 
-    PREFIX pbs: <http://example.com/pbs#>
-    
-    INSERT {
-        ?award mcc:R37 ?book ;
-               mcc:MCC-R35-4 ?year .
-    }
-    WHERE {
-        ?book a ns1:Book ;
-            ns1:award ?award ;
-            ns1:dateReceived ?year .
-        ?award a mcc:MCC-E12 .
-        FILTER NOT EXISTS {?award mcc:R37 ?bookExisting .}
-        FILTER NOT EXISTS {?award mcc:MCC-R35-4 ?yearExisting .}
-    }
-""")
+# Parse awards from the 1_final_output_merged_final_demo.ttl file
+with open('./1_final_output_merged_final_demo.ttl', 'r', encoding = "utf-8") as file:
+    content = file.read()
+    blocks = content.split('\n\n')  # Split blocks more accurately 
 
-# Write to output file
-with open('output.ttl', 'w', encoding='utf-8') as f:
-    for prefix, uri in g.namespaces():
-        f.write(f'@prefix {prefix}: <{uri}> .\n')
-    for s, p, o in g:
-        f.write(f'<{s}> <{p}> <{o}> .\n')
+    for block in blocks:
+        book_match = re.search(r'ns1:(Book\S+) a ns1:Book', block)
+        if book_match:
+            book_id = book_match.group(1)
+            award_matches = re.findall(r'ns1:award ns1:(\S+)', block)
+            for award_match in award_matches:
+                award_id = award_match
+                award_to_books_map[award_id].add(book_id)  
+
+# Identify awards that already have a book assigned in the new_awards.ttl file
+with open('./new_awards.ttl', 'r', encoding = "utf-8") as file:
+    content = file.read()
+    blocks = content.split('\n\n')  # Split blocks more accurately
+
+    for block in blocks:
+        award_match = re.search(r'ns1:(\S+) a mcc:MCC-E12', block)
+        if award_match:
+            award_id = award_match.group(1)
+            book_match = re.search(r'mcc:R37 ns1:(Book\S+)', block)
+            if book_match:
+                existing_awards[award_id].add(book_match.group(1))
+
+# Write to the new_awards.ttl file
+new_content = ""
+for block in blocks:
+    new_content += block
+    award_match = re.search(r'ns1:(\S+) a mcc:MCC-E12', block)
+    if award_match:
+        award_id = award_match.group(1)
+        if award_id in award_to_books_map:
+            for book_id in award_to_books_map[award_id]:
+                if book_id not in existing_awards[award_id]:
+                    new_content += f'\n    mcc:R37 ns1:{book_id} ;'
+    new_content += '\n\n'  # Recreate the block separator
+
+with open('./new_awards.ttl', 'w', encoding = "utf-8") as file:
+    file.write(new_content.strip())  # Remove trailing newlines
