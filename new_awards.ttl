@@ -8172,8 +8172,9 @@ ns1:Prix_Des_Incorruptiblesfdfced70-7d97-4a09-bf5a-dbd361df0ec7 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear .
 
 ns1:Prix_Des_Lecteurs_En_Seine a pbs:Award ;
-    rdfs:label "Prix Des Lecteurs En Seine"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:ROMAN ;
+    schema:name "Prix des Lecteurs en Seine" ;
+    schema:description "Afin de promouvoir la lecture auprès des adolescents, l’association Lire en Seine a mis en place le Prix des Lecteurs en Seine. C’est l’occasion pour les jeunes de 13 à 20 ans d’élire leur roman préféré parmi des ouvrages sélectionnés par des bibliothécaires, des documentalistes, des enseignants et un libraire de l’agglomération elbeuvienne (région Seine-Maritime). Le Prix se déroule d’octobre à mai." .
 
 ns1:Prix_Des_Lecteurs_En_Seine194792bb-3236-4a70-be55-ee15413b8ca6 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Des_Lecteurs_En_Seine ;
@@ -8266,19 +8267,23 @@ ns1:Prix_Des_Lecteurs_En_Seinefebcef61-ac24-4925-8d65-94d0b28142e0 a mcc:MCC-E12
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Des_Lycéens_Allemands a pbs:Award ;
-    rdfs:label "Prix Des Lycéens Allemands"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix des lycéens allemands" ;
+    schema:description "Le Prix des lycéens allemands, établi sur le modèle du Prix Goncourt des lycéens, est une initiative de l’Institut français d’Allemagne et de l’éditeur allemand Ernst Klett Sprachen. Depuis 2004, le Prix des lycéens a permis à des milliers d'étudiants de rencontrer des écrivain-e-s francophones, de partager leurs impressions en français et de choisir leur livre préféré parmi la sélection. Pour son 15ème anniversaire, la formule du Prix des lycéens allemands évolue. L’Institut français d’Allemagne, en coopération avec Ernst Klett Sprachen, propose à partir de la rentrée 2020/2021 et tous les deux ans, une sélection de trois livres de littérature jeunesse francophone. Le principe : des débats entre lycéen-ne-s pour décerner le Prix à leur livre préféré, qui sera récompensé lors du Salon du livre de Leipzig par une dotation de 5000 € pour l’auteur-e. Ce projet s’adresse aux élèves de Sekundarstufe II avec un niveau de français B2 minimum." .
 
 ns1:Prix_Des_Lycéens_Allemands097b8848-2d24-484a-a20c-2912415db79e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Des_Lycéens_Allemands .
+    mcc:R37 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d54 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
 ns1:Prix_Des_Lycéens_Allemands15a3cbc1-4611-43e9-8c11-d2ce9e33483c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Des_Lycéens_Allemands .
+    mcc:R37 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d55 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear .
 
 ns1:Prix_Des_Lycéens_Allemands2b63eb64-4fae-4a67-b620-25bd3cdde5f4 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Des_Lycéens_Allemands .
+    mcc:R37 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d57 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Des_Lycéens_Allemands37db081e-131f-45bd-ab9a-561204ad5aa9 a mcc:MCC-E12 ;
@@ -8293,6 +8298,7 @@ ns1:Prix_Des_Lycéens_Allemands3a0ccb2f-a69c-4aa7-afec-ee7e377e5039 a mcc:MCC-E1
 
 ns1:Prix_Des_Lycéens_Allemands423cee94-6568-42cc-b4e3-f99376df75da a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Des_Lycéens_Allemands .
+    mcc:R37 ns1:Book16bba4a-57b7-471d-bbd1-c0f4f4e25d15 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear .
 
 ns1:Prix_Des_Lycéens_Allemands4292b3be-287a-466d-9d0f-97357a44deae a mcc:MCC-E12 ;
@@ -8307,10 +8313,12 @@ ns1:Prix_Des_Lycéens_Allemands46f5663b-8571-4b4a-b504-3c636c4767f2 a mcc:MCC-E1
 
 ns1:Prix_Des_Lycéens_Allemands5930812f-83aa-495b-ac80-eb50162ccfb6 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Des_Lycéens_Allemands .
+    mcc:R37 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d69 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Des_Lycéens_Allemands75171c25-b4ea-4a67-bb4c-21038adcd243 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Des_Lycéens_Allemands .
+    mcc:R37 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df99j ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear .
 
 ns1:Prix_Des_Lycéens_Allemands77ea0595-503c-469d-a117-f444197316ee a mcc:MCC-E12 ;
@@ -8325,14 +8333,17 @@ ns1:Prix_Des_Lycéens_Allemands8bf98c10-29ef-43f6-ac15-6f4e2ef076b0 a mcc:MCC-E1
 
 ns1:Prix_Des_Lycéens_Allemands992bcf1f-ae26-463b-8282-89057eed1677 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Des_Lycéens_Allemands .
+    mcc:R37 ns1:Booke5d3167f-1607-4caf-8156-4f3df82aa8bd ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Des_Lycéens_Allemandsb5245c94-180a-4e6f-a250-56f9d515a28c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Des_Lycéens_Allemands .
+    mcc:R37 ns1:Book8073edf7-6fd0-441d-89ad-0259e79a5393 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Des_Lycéens_Allemandscfe156d1-9ca0-431b-9c1b-8af360c9818b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Des_Lycéens_Allemands .
+    mcc:R37 ns1:Book4abccddc-f1c7-452f-862e-3ed00a3c5d66 ;
     mcc:MCC-R35-4 "2005"^^xsd:gYear .
 
 ns1:Prix_Des_Lycéens_Allemandsd975c835-7c79-4fd6-aee6-113b5961ee7b a mcc:MCC-E12 ;
@@ -8341,8 +8352,9 @@ ns1:Prix_Des_Lycéens_Allemandsd975c835-7c79-4fd6-aee6-113b5961ee7b a mcc:MCC-E1
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Du_1èr_Album a pbs:Award ;
-    rdfs:label "Prix Du 1èr Album"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE ;
+    schema:name "Prix du 1er album" ;
+    schema:description "Ce prix, créé à l'initiative de l'Association des Librairies Spécialisées Jeunesse et en partenariat avec le Salon du livre et de la presse jeunesse de Montreuil, a pour vocation de repérer des talents naissants et de porter à la connaissance du public le travail d'un(e) illustrateur(trice) qui a publié, dans l'année, un premier album jeunesse de création française." .
 
 ns1:Prix_Du_1èr_Album43c24f23-4480-407c-ac2b-43b187b21ce8 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_1èr_Album .
@@ -8351,11 +8363,13 @@ ns1:Prix_Du_1èr_Album43c24f23-4480-407c-ac2b-43b187b21ce8 a mcc:MCC-E12 ;
 
 ns1:Prix_Du_1èr_Album93ea1440-1493-4c7b-a0c7-7bde94ca72e7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_1èr_Album .
+    mcc:R37 ns1:Bookc245ba22-aa83-4f9e-9b42-32b4ed05ebf3 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
 ns1:Prix_Du_Conseil_Des_Arts_Du_Canada a pbs:Award ;
-    rdfs:label "Prix Du Conseil Des Arts Du Canada"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE ;
+    schema:name "Prix du Conseil des Arts du Canada" ;
+    schema:description "En 1975, le Conseil des Arts du Canada instituait deux prix pour récompenser les meilleures œuvres de littérature pour la jeunesse, l’une de langue française et l’autre de langue anglaise. Puis deux prix furent remis respectivement au meilleur auteur et au meilleur illustrateur, tant francophone qu’anglophone. Depuis 1987, ces prix sont intégrés aux Prix littéraires du Gouverneur général du Canada, sous la catégorie «Littérature jeunesse», texte et illustration." .
 
 ns1:Prix_Du_Conseil_Des_Arts_Du_Canada22c798d6-acee-4e72-8f06-fe48a927e2f7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Conseil_Des_Arts_Du_Canada ;
@@ -8463,8 +8477,9 @@ ns1:Prix_Du_Conseil_Des_Arts_Du_Canadafeb14aee-1feb-4290-a88f-b1d28bfa5363 a mcc
     mcc:MCC-R35-4 "1985"^^xsd:gYear .
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal a pbs:Award ;
-    rdfs:label "Prix Du Livre Jeunesse Des Bibliothèques De Montréal"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix du Livre jeunesse des bibliothèque de Montréal" ;
+    schema:description "Prix créé en 2005 à l’occasion de la proclamation de «Montréal, capitale mondiale du livre» par l’UNESCO. Le prix est attribué par un jury de bibliothécaires du réseau des bibliothèques publiques de la ville de Montréal à une œuvre publiée par un auteur ou par une maison d'édition domicilié sur le territoire de la Ville de Montréal. Depuis 2010, le prix est doté d’une bourse de 5000 $." .
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal081cd036-74e2-446d-a826-a61781c6a135 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal .
@@ -8483,6 +8498,7 @@ ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal2337ca96-3ddd-4244-a5b
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal27d4ffcd-bb71-4305-9050-d508f094254a a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal .
+    mcc:R37 ns1:Book3661552f-e694-4e09-89a4-95fa3ff14888 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal2b19e729-cab2-4376-bb8d-9e6bee6d31ed a mcc:MCC-E12 ;
@@ -8497,10 +8513,12 @@ ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal3f32fc9d-c596-450c-904
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal6add5082-c59d-4025-ba9a-0517862fa938 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal .
+    mcc:R37 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b33a ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal6bbafc57-cf5f-42de-abeb-5ee152a8dec2 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal .
+    mcc:R37 ns1:Book66382690-5338-4401-81eb-c180d4ddb5f3 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear .
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal956598db-8484-487b-ac08-2e7ddbe7834f a mcc:MCC-E12 ;
@@ -8515,10 +8533,12 @@ ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal9d407d8a-05dc-4b44-837
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréala2bab7ad-3281-466f-aafa-85b8b4ff10f6 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal .
+    mcc:R37 ns1:Book2316a916-4d0a-459b-b34e-e863dd540f1b ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalaaf1d2d1-0b1f-4f70-9e40-bcfad2837344 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal .
+    mcc:R37 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0611 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear .
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalb0f3d7bb-4568-4b00-a4b3-5e6f8dbd02d5 a mcc:MCC-E12 ;
@@ -8528,6 +8548,7 @@ ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalb0f3d7bb-4568-4b00-a4b
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalb7f9d449-20ac-4df8-b8c8-5efd8a4b9358 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal .
+    mcc:R37 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b338 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalba2381a7-4415-4731-9b86-60ad7fd9dea8 a mcc:MCC-E12 ;
@@ -8537,19 +8558,23 @@ ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalba2381a7-4415-4731-9b8
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréaled421433-e745-43ab-bc71-66b58eab7b4f a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal .
+    mcc:R37 ns1:Book0701fb86-bfb0-4486-b554-468344e650ad ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear .
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalf18bf8d3-c740-4752-b341-17fd67bdf2b0 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal .
+    mcc:R37 ns1:Book1f104b84-134b-4344-a62e-425553bec270 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear .
 
 ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréalfd7a1ac8-2421-418d-ad4b-6c54df3ef1dd a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal .
+    mcc:R37 ns1:Book46c1fca1-8c73-40ce-9b7b-3adb8daae399 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear .
 
 ns1:Prix_Du_Livre_M_Christie a pbs:Award ;
-    rdfs:label "Prix Du Livre M. Christie"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix du Livre M.Christie" ;
+    schema:description "Prix parrainés par la compagnie Christie Brown et comportant un volet anglophone et un volet francophone. Les prix ont d’abord été décernés dans deux catégories: texte et illustrations, puis dans trois catégories: publications destinées aux enfants de sept ans et moins, de huit à onze ans et aux adolescents de douze ans et plus. Chaque lauréat reçoit un prix de 7 500 $." .
 
 ns1:Prix_Du_Livre_M_Christie01bc4910-b30b-4d23-b3c5-d3e3a3077ac6 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Livre_M_Christie ;
@@ -8756,13 +8781,17 @@ ns1:Prix_Du_Livre_M_Christiee8feb98d-954d-488d-8538-eabd179256bb a mcc:MCC-E12 ;
     mcc:R37 ns1:Book62eebcdf-679e-44c4-a73c-37cfe0fb34f2 ;
     mcc:MCC-R35-4 "2004"^^xsd:gYear .
 
+pbs:ROMAN_HISTORIQUE a pbs:GenreLitteraire ;
+    rdfs:label "Roman Historique"^^xsd:string .
+
 ns1:Prix_Du_Roman_Historique_Jeunesse a pbs:Award ;
-    rdfs:label "Prix Du Roman Historique Jeunesse"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:ROMAN_HISTORIQUE ;
+    schema:name "Prix du roman historique jeunesse" ;
+    schema:description "Pourquoi un prix du roman historique jeunesse ? Pour lire, faire lire et donner le plaisir de lire. Le prix du roman historique jeunesse a pour but de faire découvrir aux jeunes l'Histoire par le biais du roman et les amener aussi à lire des ouvrages documentaires. Cela permet aux élèves de rencontrer des auteurs et des historiens, de les amener à échanger leur point de vue et à se construire un esprit critique, laissant ainsi la porte ouverte à la découverte sans se conformer aux programmes officiels d'histoire, suivant les niveaux. Les romans sélectionnés allient simplement qualité d'écriture et intérêt historique." .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde a pbs:Award ;
-    rdfs:label "Prix Du Roman Historique Jeunesse : 3ème-Seconde"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "14" ;
+    pbs:groupeAge "15" .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde04536ebe-109b-4be8-8552-42404d86e3ea a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde .
@@ -8776,10 +8805,12 @@ ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde0d6ebaad-da49-4a2e-9b35-50f3a
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde38fe86d7-bccf-48fd-9b00-e570a1deebfc a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde .
+    mcc:R37 ns1:Book9c1e052f-8daa-4649-8f56-c88b3b26271b ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde43ed3458-bab3-4bdf-a0b1-76fa389f7383 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde .
+    mcc:R37 ns1:Book9efcdd4a-9a40-4e9a-94b2-3b7c964d0fa4 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde83edeab8-ca96-43a7-b66f-98b78d58c259 a mcc:MCC-E12 ;
@@ -8799,10 +8830,12 @@ ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Secondeae9eef27-1b49-4c02-83d4-1f819
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Secondec26a073b-192e-4812-8f4c-4db67efd1d3d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde .
+    mcc:R37 ns1:Book39b042ee-595c-4c7a-9076-4fa0ed03a26a ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Secondec5c1a7c7-063f-45d4-952d-194b5f2a34b6 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde .
+    mcc:R37 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6fx9b9920 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Secondecda6ebd1-ef3f-4cc1-b0df-215ae25c4ec9 a mcc:MCC-E12 ;
@@ -8826,8 +8859,8 @@ ns1:Prix_Du_Roman_Historique_Jeunesse_3ème_Secondeeb0e5d65-01cb-40d6-9cba-6ed7a
     mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_5ème_4ème a pbs:Award ;
-    rdfs:label "Prix Du Roman Historique Jeunesse : 5ème-4ème"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "12" ;
+    pbs:groupeAge "13" .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_5ème_4ème01289b1c-a9ca-4c97-b94f-8dea6d88bfd5 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Roman_Historique_Jeunesse_5ème_4ème .
@@ -8895,8 +8928,8 @@ ns1:Prix_Du_Roman_Historique_Jeunesse_5ème_4èmeff43effa-e329-40a7-86b9-ffdb102
     mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6ème a pbs:Award ;
-    rdfs:label "Prix Du Roman Historique Jeunesse : Cm2-6ème"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "10" ;
+    pbs:groupeAge "11" .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6ème2668fa92-deae-4bfb-9dd1-b1aa8a79de9c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6ème .
@@ -8920,6 +8953,7 @@ ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6ème9aab2777-ad9b-437b-ae98-8d5849dcf
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6èmead325e0f-cece-49e7-9b59-54ae909bec6e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6ème .
+    mcc:R37 ns1:Book54759c9d-533f-4b36-85a2-9d7d1b78ad21 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6èmeb3f7bb11-0813-44c2-a550-195d16d15515 a mcc:MCC-E12 ;
@@ -8934,6 +8968,7 @@ ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6èmebe39b4fd-db27-461f-9178-9069011e3
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6èmec9223597-9fe1-412c-83b1-4380bde54e3c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6ème .
+    mcc:R37 ns1:Bookbaec8824-8af2-4f9a-99d5-64feafabaff9 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6èmed44094a7-aca8-432f-b62b-8010a6bbe4fe a mcc:MCC-E12 ;
@@ -8957,8 +8992,8 @@ ns1:Prix_Du_Roman_Historique_Jeunesse_Cm2_6èmeffb01b75-00f1-4955-a48a-600bd5f3d
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_Lycée a pbs:Award ;
-    rdfs:label "Prix Du Roman Historique Jeunesse : Lycée"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "16" ;
+    pbs:groupeAge "17" .
 
 ns1:Prix_Du_Roman_Historique_Jeunesse_Lycéee9235c30-dce3-4a86-a58c-a8c0041d0f22 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Du_Roman_Historique_Jeunesse_Lycée .
@@ -8966,8 +9001,9 @@ ns1:Prix_Du_Roman_Historique_Jeunesse_Lycéee9235c30-dce3-4a86-a58c-a8c0041d0f22
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Enfantaisie a pbs:Award ;
-    rdfs:label "Prix Enfantaisie"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE ;
+    schema:name "Prix Enfantaisie" ;
+    schema:description "Depuis 2008, le Prix Enfantaisie est organisé par Payot Librairie en partenariat avec l’ISJM (Institut suisse Jeunesse et Médias) et est soutenu par la Fondation Payot pour la promotion de la lecture ( FPPL). Ce prix vise à écouter ce que les enfants ont à dire sur les livres et les inviter à construire un regard critique sur ce média ainsi qu’à célébrer la littérature jeunesse pour rappeler son intérêt et sa complexité dans un contexte éditorial mondialisé. Le Prix Enfantaisie donne la parole aux enfants en tant que jurés qui choisissent un livre qu’ils souhaitent célébrer parmi une sélection proposée." .
 
 ns1:Prix_Enfantaisie2321abf6-86f3-4ad1-89b6-3c469b9782ac a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Enfantaisie ;
@@ -8975,8 +9011,9 @@ ns1:Prix_Enfantaisie2321abf6-86f3-4ad1-89b6-3c469b9782ac a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Enfantaisie_Catégorie_Album a pbs:Award ;
-    rdfs:label "Prix Enfantaisie : Catégorie Album"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "7" ;
+    pbs:groupeAge "8" ;
+    pbs:groupeAge "9" .
 
 ns1:Prix_Enfantaisie_Catégorie_Album0d5d182f-5093-409c-b087-186ba6b87b1c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Enfantaisie_Catégorie_Album .
@@ -9049,6 +9086,7 @@ ns1:Prix_Enfantaisie_Catégorie_Album4c202f16-8e3a-454e-bca0-295447d434e7 a mcc:
 
 ns1:Prix_Enfantaisie_Catégorie_Album5684d9de-0c6d-4459-b0fc-866d4db9375e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Enfantaisie_Catégorie_Album .
+    mcc:R37 ns1:Book2ba2474f-b7fc-43cf-a6a6-7a40d9e9890a ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Enfantaisie_Catégorie_Album79a242b2-9d63-41ba-bd7d-436be5a408a0 a mcc:MCC-E12 ;
@@ -9078,6 +9116,7 @@ ns1:Prix_Enfantaisie_Catégorie_Albumaf0c3714-98ae-43a6-b75e-0eab01073790 a mcc:
 
 ns1:Prix_Enfantaisie_Catégorie_Albumb64b95a9-ae9a-40af-87ef-c84d8319b7a2 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Enfantaisie_Catégorie_Album .
+    mcc:R37 ns1:Bookdce59833-977f-4e43-9fe4-270e6f1f6670 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
 ns1:Prix_Enfantaisie_Catégorie_Albumc3401a62-5451-4e57-8e9c-e5962903c6d9 a mcc:MCC-E12 ;
@@ -9092,6 +9131,7 @@ ns1:Prix_Enfantaisie_Catégorie_Albumcdc78f2b-2f47-423c-8f21-bd372fbc0dc2 a mcc:
 
 ns1:Prix_Enfantaisie_Catégorie_Albumd1a6acb5-01a8-49b2-82ac-7f2222b06010 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Enfantaisie_Catégorie_Album .
+    mcc:R37 ns1:Book8778ea47-c3b3-4562-a4c6-6959ad2319fc ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear .
 
 ns1:Prix_Enfantaisie_Catégorie_Albumd7e1b9c8-3198-45db-a34a-68a67883c199 a mcc:MCC-E12 ;
@@ -9126,11 +9166,13 @@ ns1:Prix_Enfantaisie_Catégorie_Albumf2de96bc-f787-4ab2-8d30-c354141f2ace a mcc:
 
 ns1:Prix_Enfantaisie_Catégorie_Albumfe5bfbe6-28ca-4f11-9ae8-ea2bc47a5d6d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Enfantaisie_Catégorie_Album .
+    mcc:R37 ns1:Book2b4a8672-6128-4bbd-9b54-47072272d4d7 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Enfantaisie_Catégorie_Roman_Prix_Farniente a pbs:Award ;
-    rdfs:label "Prix Enfantaisie : Catégorie Roman"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "10" ;
+    pbs:groupeAge "11" ;
+    pbs:groupeAge "12" .
 
 ns1:Prix_Enfantaisie_Catégorie_Roman_Prix_Farniente62cdcefd-b535-4cb0-a51c-260b0dab4c7d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Enfantaisie_Catégorie_Roman_Prix_Farniente .

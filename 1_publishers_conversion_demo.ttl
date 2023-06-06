@@ -1928,3 +1928,458 @@ ns1:Seuil a ns1:Publisher ;
         ns1:Seuil_Jeunesse,
         ns1:Seuil_Poche .
 
+ns1:Acadie a ns1:Publisher ;
+    ns1:name "Acadie"^^xsd:string .
+
+ns1:Agence_DArc a ns1:Publisher ;
+    ns1:name "Agence D'Arc"^^xsd:string .
+
+ns1:Allusifs a ns1:Publisher ;
+    ns1:name "Allusifs"^^xsd:string .
+
+ns1:Alter_Ego a ns1:Publisher ;
+    ns1:name "Alter Ego"^^xsd:string .
+
+ns1:Anstruther_Books a ns1:Publisher ;
+    ns1:name "Anstruther Books"^^xsd:string .
+
+ns1:Arsenal_Pulp a ns1:Publisher ;
+    ns1:name "Arsenal Pulp"^^xsd:string .
+
+ns1:Atelier_10 a ns1:Publisher ;
+    ns1:name "Atelier 10"^^xsd:string .
+
+ns1:Aubier a ns1:Publisher ;
+    ns1:name "Aubier"^^xsd:string .
+
+ns1:Banjo a ns1:Publisher ;
+    ns1:name "Banjo"^^xsd:string .
+
+ns1:Belfond a ns1:Publisher ;
+    ns1:name "Belfond"^^xsd:string .
+
+ns1:Biblioasis a ns1:Publisher ;
+    ns1:name "Biblioasis"^^xsd:string .
+
+ns1:Black_Rose_Books a ns1:Publisher ;
+    ns1:name "Black Rose Books"^^xsd:string .
+
+ns1:Blizzard_Publishing a ns1:Publisher ;
+    ns1:name "Blizzard Publishing"^^xsd:string .
+
+ns1:Bookhug_Press a ns1:Publisher ;
+    ns1:name "Book*hug Press"^^xsd:string .
+
+ns1:Bookthug a ns1:Publisher ;
+    ns1:name "Bookthug"^^xsd:string .
+
+ns1:Brick_Books a ns1:Publisher ;
+    ns1:name "Brick Books"^^xsd:string .
+
+ns1:Buckrider_Books a ns1:Publisher ;
+    ns1:name "Buckrider Books"^^xsd:string .
+
+ns1:Buschek_Books a ns1:Publisher ;
+    ns1:name "Buschek Books"^^xsd:string .
+
+ns1:CPP a ns1:Publisher ;
+    ns1:name "C.P.P"^^xsd:string .
+
+ns1:Cambridge_University_Press a ns1:Publisher ;
+    ns1:name "Cambridge University Press"^^xsd:string .
+
+ns1:Cassell_Co a ns1:Publisher ;
+    ns1:name "Cassell & Co."^^xsd:string .
+
+ns1:Cercle_Du_Livre_De_France a ns1:Publisher ;
+    ns1:name "Cercle Du Livre De France"^^xsd:string .
+
+ns1:Clarke_Irwin_Co a ns1:Publisher ;
+    ns1:name "Clarke, Irwin & Co"^^xsd:string .
+
+ns1:Co_Of_Canada a ns1:Publisher ;
+    ns1:name "Co. Of Canada"^^xsd:string .
+
+ns1:Coach_House a ns1:Publisher ;
+    ns1:name "Coach House"^^xsd:string .
+
+ns1:Collins_Clear_type a ns1:Publisher ;
+    ns1:name "Collins Clear-type"^^xsd:string .
+
+ns1:Contact_Press a ns1:Publisher ;
+    ns1:name "Contact Press"^^xsd:string .
+
+ns1:Copp_Clark_Publishing_Co a ns1:Publisher ;
+    ns1:name "Copp Clark Publishing Co."^^xsd:string .
+
+ns1:Cormorant_Books a ns1:Publisher ;
+    ns1:name "Cormorant Books"^^xsd:string .
+
+ns1:Coteau_Books a ns1:Publisher ;
+    ns1:name "Coteau Books"^^xsd:string .
+
+ns1:De_LAtelier a ns1:Publisher ;
+    ns1:name "De L'Atelier"^^xsd:string .
+
+ns1:Dodd_Mead_Co a ns1:Publisher ;
+    ns1:name "Dodd, Mead & Co."^^xsd:string .
+
+ns1:Douglas_Mcintyre a ns1:Publisher ;
+    ns1:name "Douglas & Mcintyre"^^xsd:string .
+
+ns1:Doutre_Et_Vandal a ns1:Publisher ;
+    ns1:name "Doutre Et Vandal"^^xsd:string .
+
+ns1:Du_Passage a ns1:Publisher ;
+    ns1:name "Du Passage"^^xsd:string .
+
+ns1:Du_Sentier a ns1:Publisher ;
+    ns1:name "Du Sentier"^^xsd:string .
+
+ns1:Du_Pélican a ns1:Publisher ;
+    ns1:name "Du Pélican"^^xsd:string .
+
+ns1:Ecw_Press a ns1:Publisher ;
+    ns1:name "Ecw Press"^^xsd:string .
+
+ns1:Fifth_House_Publishers a ns1:Publisher ;
+    ns1:name "Fifth House Publishers"^^xsd:string .
+
+ns1:Gallmeister a ns1:Publisher ;
+    ns1:name "Gallmeister"^^xsd:string .
+
+ns1:Gaspereau_Press a ns1:Publisher ;
+    ns1:name "Gaspereau Press"^^xsd:string .
+
+ns1:Gaïa a ns1:Publisher ;
+    ns1:name "Gaïa"^^xsd:string .
+
+ns1:Goose_Lane a ns1:Publisher ;
+    ns1:name "Goose Lane"^^xsd:string .
+
+ns1:Guernica a ns1:Publisher ;
+    ns1:name "Guernica"^^xsd:string .
+
+ns1:Harbour_Publishing a ns1:Publisher ;
+    ns1:name "Harbour Publishing"^^xsd:string .
+
+ns1:Harvard_University_Press a ns1:Publisher ;
+    ns1:name "Harvard University Press"^^xsd:string .
+
+ns1:Highwater_Press a ns1:Publisher ;
+    ns1:name "Highwater Press"^^xsd:string .
+
+ns1:House_Of_Anansi a ns1:Publisher ;
+    ns1:name "House Of Anansi"^^xsd:string .
+
+ns1:Institut_Littéraire_Du_Québec a ns1:Publisher ;
+    ns1:name "Institut Littéraire Du Québec"^^xsd:string .
+
+ns1:JB_Lippincott_Co a ns1:Publisher ;
+    ns1:name "J.B. Lippincott Co."^^xsd:string .
+
+ns1:JM_Dent_Sons a ns1:Publisher ;
+    ns1:name "J.M. Dent & Sons"^^xsd:string .
+
+ns1:José_Corti a ns1:Publisher ;
+    ns1:name "José Corti"^^xsd:string .
+
+ns1:Kennes a ns1:Publisher ;
+    ns1:name "Kennes"^^xsd:string .
+
+ns1:Key_Porter_Books a ns1:Publisher ;
+    ns1:name "Key Porter Books"^^xsd:string .
+
+ns1:Knopf_Canada a ns1:Publisher ;
+    ns1:name "Knopf Canada"^^xsd:string .
+
+ns1:LAurore a ns1:Publisher ;
+    ns1:name "L'Aurore"^^xsd:string .
+
+ns1:La_Pleine_Lune a ns1:Publisher ;
+    ns1:name "La Pleine Lune"^^xsd:string .
+
+ns1:Lacombe a ns1:Publisher ;
+    ns1:name "Lacombe"^^xsd:string .
+
+ns1:Lancelot_Press a ns1:Publisher ;
+    ns1:name "Lancelot Press"^^xsd:string .
+
+ns1:Le_Vengeur_Masqué a ns1:Publisher ;
+    ns1:name "Le Vengeur Masqué"^^xsd:string .
+
+ns1:Leo_Cooper a ns1:Publisher ;
+    ns1:name "Leo Cooper"^^xsd:string .
+
+ns1:Les_Allusifs a ns1:Publisher ;
+    ns1:name "Les Allusifs"^^xsd:string .
+
+ns1:Les_Presses_De_Luniversité_De_Montréal a ns1:Publisher ;
+    ns1:name "Les Presses De L’université De Montréal"^^xsd:string .
+
+ns1:Les_Publications_Graficor a ns1:Publisher ;
+    ns1:name "Les Publications Graficor"^^xsd:string .
+
+ns1:Les_Écrits_Des_Forges a ns1:Publisher ;
+    ns1:name "Les Écrits Des Forges"^^xsd:string .
+
+ns1:Lester_Orpen_Dennys a ns1:Publisher ;
+    ns1:name "Lester & Orpen Dennys"^^xsd:string .
+
+ns1:Lester a ns1:Publisher ;
+    ns1:name "Lester"^^xsd:string .
+
+ns1:Liber a ns1:Publisher ;
+    ns1:name "Liber"^^xsd:string .
+
+ns1:Librairie_Beauchemin a ns1:Publisher ;
+    ns1:name "Librairie Beauchemin"^^xsd:string .
+
+ns1:Librairie_Déom a ns1:Publisher ;
+    ns1:name "Librairie Déom"^^xsd:string .
+
+ns1:Libre_Expression a ns1:Publisher ;
+    ns1:name "Libre Expression"^^xsd:string .
+
+ns1:Little_Brown a ns1:Publisher ;
+    ns1:name "Little Brown"^^xsd:string .
+
+ns1:Livres_Toundra a ns1:Publisher ;
+    ns1:name "Livres Toundra"^^xsd:string .
+
+ns1:Longmans a ns1:Publisher ;
+    ns1:name "Longmans"^^xsd:string .
+
+ns1:Linstant_Même a ns1:Publisher ;
+    ns1:name "L’instant Même"^^xsd:string .
+
+ns1:MG_Hurtig a ns1:Publisher ;
+    ns1:name "M.G. Hurtig"^^xsd:string .
+
+ns1:Macfarlane_Walter_Ross a ns1:Publisher ;
+    ns1:name "Macfarlane Walter & Ross"^^xsd:string .
+
+ns1:Mawenzi_House_Publishers a ns1:Publisher ;
+    ns1:name "Mawenzi House Publishers"^^xsd:string .
+
+ns1:Mcarthur_Company a ns1:Publisher ;
+    ns1:name "Mcarthur & Company"^^xsd:string .
+
+ns1:Mcclelland_Stewart a ns1:Publisher ;
+    ns1:name "Mcclelland & Stewart"^^xsd:string .
+
+ns1:Mcgillqueens_University_Press a ns1:Publisher ;
+    ns1:name "Mcgill-queen’s University Press"^^xsd:string .
+
+ns1:Mcgrawhill_Co_Of_Canada a ns1:Publisher ;
+    ns1:name "Mcgraw-hill Co. Of Canada"^^xsd:string .
+
+ns1:Mcgrawhill_Ryerson a ns1:Publisher ;
+    ns1:name "Mcgraw-hill Ryerson"^^xsd:string .
+
+ns1:Milleîles a ns1:Publisher ;
+    ns1:name "Mille-îles"^^xsd:string .
+
+ns1:Musson a ns1:Publisher ;
+    ns1:name "Musson"^^xsd:string .
+
+ns1:Mémoire_DEncrier a ns1:Publisher ;
+    ns1:name "Mémoire D'Encrier"^^xsd:string .
+
+ns1:Nc_Press a ns1:Publisher ;
+    ns1:name "Nc Press"^^xsd:string .
+
+ns1:Newest_Press a ns1:Publisher ;
+    ns1:name "Newest Press"^^xsd:string .
+
+ns1:New_Directions_Publishing a ns1:Publisher ;
+    ns1:name "New Directions Publishing"^^xsd:string .
+
+ns1:New_Press a ns1:Publisher ;
+    ns1:name "New Press"^^xsd:string .
+
+ns1:Nouvelle_Optique a ns1:Publisher ;
+    ns1:name "Nouvelle Optique"^^xsd:string .
+
+ns1:Nuit_Blanche a ns1:Publisher ;
+    ns1:name "Nuit Blanche"^^xsd:string .
+
+ns1:Oberon_Press a ns1:Publisher ;
+    ns1:name "Oberon Press"^^xsd:string .
+
+ns1:Oie_De_Cravan a ns1:Publisher ;
+    ns1:name "Oie De Cravan"^^xsd:string .
+
+ns1:Oolichan_Books a ns1:Publisher ;
+    ns1:name "Oolichan Books"^^xsd:string .
+
+ns1:Orphée a ns1:Publisher ;
+    ns1:name "Orphée"^^xsd:string .
+
+ns1:Oxford_University_Press a ns1:Publisher ;
+    ns1:name "Oxford University Press"^^xsd:string .
+
+ns1:Perce_neige a ns1:Publisher ;
+    ns1:name "Perce-neige"^^xsd:string .
+
+ns1:Personal_Library a ns1:Publisher ;
+    ns1:name "Personal Library"^^xsd:string .
+
+ns1:Phyllis_Bruce_Book a ns1:Publisher ;
+    ns1:name "Phyllis Bruce Book"^^xsd:string .
+
+ns1:Phyllis_Bruce_Books a ns1:Publisher ;
+    ns1:name "Phyllis Bruce Books"^^xsd:string .
+
+ns1:Playwrights_Canada a ns1:Publisher ;
+    ns1:name "Playwrights Canada"^^xsd:string .
+
+ns1:Pow_Pow a ns1:Publisher ;
+    ns1:name "Pow Pow"^^xsd:string .
+
+ns1:Press_Porcepic a ns1:Publisher ;
+    ns1:name "Press Porcepic"^^xsd:string .
+
+ns1:Presses_De_LUniversité_Laval a ns1:Publisher ;
+    ns1:name "Presses De L'Université Laval"^^xsd:string .
+
+ns1:Presses_Universitaires_De_France a ns1:Publisher ;
+    ns1:name "Presses Universitaires De France"^^xsd:string .
+
+ns1:Quadrant a ns1:Publisher ;
+    ns1:name "Quadrant"^^xsd:string .
+
+ns1:Quinze a ns1:Publisher ;
+    ns1:name "Quinze"^^xsd:string .
+
+ns1:Raincoast_Books a ns1:Publisher ;
+    ns1:name "Raincoast Books"^^xsd:string .
+
+ns1:Red_Deer_Press a ns1:Publisher ;
+    ns1:name "Red Deer Press"^^xsd:string .
+
+ns1:Rinehart a ns1:Publisher ;
+    ns1:name "Rinehart"^^xsd:string .
+
+ns1:Runcible_Spoon_Press a ns1:Publisher ;
+    ns1:name "Runcible Spoon Press"^^xsd:string .
+
+ns1:Scirocco_Drama a ns1:Publisher ;
+    ns1:name "Scirocco Drama"^^xsd:string .
+
+ns1:Serpent_À_Plumes a ns1:Publisher ;
+    ns1:name "Serpent À Plumes"^^xsd:string .
+
+ns1:Signal a ns1:Publisher ;
+    ns1:name "Signal"^^xsd:string .
+
+ns1:Signature a ns1:Publisher ;
+    ns1:name "Signature"^^xsd:string .
+
+ns1:Simply_Read_Books a ns1:Publisher ;
+    ns1:name "Simply Read Books"^^xsd:string .
+
+ns1:Somerville_House_Publishing a ns1:Publisher ;
+    ns1:name "Somerville House Publishing"^^xsd:string .
+
+ns1:Sonatine a ns1:Publisher ;
+    ns1:name "Sonatine"^^xsd:string .
+
+ns1:Strange_Light a ns1:Publisher ;
+    ns1:name "Strange Light"^^xsd:string .
+
+ns1:Talonbooks a ns1:Publisher ;
+    ns1:name "Talonbooks"^^xsd:string .
+
+ns1:The_Canadian_Arctic_Resources_Committee_And_Firefly_Books a ns1:Publisher ;
+    ns1:name "The Canadian Arctic Resources Committee And Firefly Books"^^xsd:string .
+
+ns1:The_Mercury_Press a ns1:Publisher ;
+    ns1:name "The Mercury Press"^^xsd:string .
+
+ns1:The_Muses_Company a ns1:Publisher ;
+    ns1:name "The Muses’ Company"^^xsd:string .
+
+ns1:The_Porcupines_Quill a ns1:Publisher ;
+    ns1:name "The Porcupine'S Quill"^^xsd:string .
+
+ns1:The_Ryerson_Press a ns1:Publisher ;
+    ns1:name "The Ryerson Press"^^xsd:string .
+
+ns1:Thomas_Allen_Publishers a ns1:Publisher ;
+    ns1:name "Thomas Allen Publishers"^^xsd:string .
+
+ns1:Thomas_Nelson_Sons a ns1:Publisher ;
+    ns1:name "Thomas Nelson & Sons"^^xsd:string .
+
+ns1:Triptyque a ns1:Publisher ;
+    ns1:name "Triptyque"^^xsd:string .
+
+ns1:Trois a ns1:Publisher ;
+    ns1:name "Trois"^^xsd:string .
+
+ns1:Trumpeter_Books a ns1:Publisher ;
+    ns1:name "Trumpeter Books"^^xsd:string .
+
+ns1:Tundra_Books a ns1:Publisher ;
+    ns1:name "Tundra Books"^^xsd:string .
+
+ns1:Turnstone_Press a ns1:Publisher ;
+    ns1:name "Turnstone Press"^^xsd:string .
+
+ns1:University_Of_Ottawa_Press a ns1:Publisher ;
+    ns1:name "University Of Ottawa Press"^^xsd:string .
+
+ns1:University_Of_Toronto_Press a ns1:Publisher ;
+    ns1:name "University Of Toronto Press"^^xsd:string .
+
+ns1:Viking a ns1:Publisher ;
+    ns1:name "Viking"^^xsd:string .
+
+ns1:Véhicule_Press a ns1:Publisher ;
+    ns1:name "Véhicule Press"^^xsd:string .
+
+ns1:Weedflower_Press a ns1:Publisher ;
+    ns1:name "Weed/flower Press"^^xsd:string .
+
+ns1:White_Pelican a ns1:Publisher ;
+    ns1:name "White Pelican"^^xsd:string .
+
+ns1:WM_Collins_Sons_Co_Canada a ns1:Publisher ;
+    ns1:name "WM. Collins Sons & Co. Canada"^^xsd:string .
+
+ns1:Wolsak_And_Wynn a ns1:Publisher ;
+    ns1:name "Wolsak And Wynn"^^xsd:string .
+
+ns1:Zulma a ns1:Publisher ;
+    ns1:name "Zulma"^^xsd:string .
+
+ns1:Denöel a ns1:Publisher ;
+    ns1:name "Denöel"^^xsd:string .
+
+ns1:Du_Nordir a ns1:Publisher ;
+    ns1:name "Du Nordir"^^xsd:string .
+
+ns1:LUniversité_DOttawa a ns1:Publisher ;
+    ns1:name "L'Université D'Ottawa"^^xsd:string .
+
+ns1:La_Différence a ns1:Publisher ;
+    ns1:name "La Différence"^^xsd:string .
+
+ns1:Écosociété a ns1:Publisher ;
+    ns1:name "Écosociété"^^xsd:string .
+
+ns1:Écrits_Des_Forges a ns1:Publisher ;
+    ns1:name "Écrits Des Forges"^^xsd:string .
+
+ns1:Écrits_Du_Canada_Français a ns1:Publisher ;
+    ns1:name "Écrits Du Canada Français"^^xsd:string .
+
+ns1:De_LArc a ns1:Publisher ;
+    ns1:name "De L'Arc"^^xsd:string .
+
+ns1:Éditions_Jeunesse a ns1:Publisher ;
+    ns1:name "Éditions Jeunesse"^^xsd:string .
+
+ns1:VLB a ns1:Publisher ;
+    ns1:name "VLB"^^xsd:string .

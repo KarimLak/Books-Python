@@ -1,39 +1,25 @@
+import uuid
 import re
 
-# 1. Build a mapping of award IDs to dates from 1_awards_conversion_final_demo.ttl
-award_to_date_map = {}
+def replace_ids(input_file_path, output_file_path):
+    # Read the input file
+    with open(input_file_path, 'r') as file:
+        lines = file.readlines()
 
-with open('./1_awards_conversion_final_demo.ttl', 'r', encoding="utf-8") as file:
-    content = file.read()
-    blocks = content.split('\n\n')
+    # Open the output file
+    with open(output_file_path, 'w') as file:
+        # Initialize new_id to None. This will hold the new UUID for each book.
+        new_id = None
+        for line in lines:
+            # If we encounter a line that starts a book description, generate a new UUID
+            if line.strip().endswith("a ns1:Book ;"):
+                new_id = uuid.uuid4()
+                line = re.sub(r"(ns1:Book[a-zA-Z0-9_-]+)", f"ns1:Book{new_id}", line)
+            # If we encounter any other line that contains a book ID, replace it with the current UUID
+            elif re.search(r"ns1:Book[a-zA-Z0-9_-]+", line):
+                line = re.sub(r"(ns1:Book[a-zA-Z0-9_-]+)", f"ns1:Book{new_id}", line)
+            # Write the line to the output file
+            file.write(line)
 
-    for block in blocks:
-        award_match = re.search(r'ns1:(\S+) a ns1:Award', block)
-        if award_match:
-            award_id = award_match.group(1).strip()
-            date_match = re.search(r'ns1:date "(\S+)"', block)
-            if date_match:
-                date = date_match.group(1).strip()
-                award_to_date_map[award_id] = date
-
-# 2. Update the new_awards.ttl file, adding the appropriate date triples
-with open('./new_awards.ttl', 'r', encoding="utf-8") as file:
-    content = file.read()
-
-new_content = ""
-blocks = content.split('\n\n')
-
-for block in blocks:
-    award_match = re.search(r'ns1:(\S+) a mcc:MCC-E12', block)
-    if award_match:
-        award_id = award_match.group(1).strip()
-        if award_id in award_to_date_map:
-            date = award_to_date_map[award_id]
-            # Check if there are less than three attributes
-            attributes = block.split('\n')
-            if len(attributes) <= 3:
-                block = block.rstrip() + f'\n    mcc:MCC-R35-4 "{date}"^^xsd:gYear .'
-    new_content += block + "\n\n"
-
-with open('./new_awards.ttl', 'w', encoding="utf-8") as file:
-    file.write(new_content.strip())
+# Replace ids in your file
+replace_ids('./missing_output_3.ttl', './missing_output_3.ttl')

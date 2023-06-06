@@ -5,7 +5,7 @@ import csv
 ns1 = Namespace("http://schema.org/")
 
 def extract_publishers_and_awards_to_csv(ttl_filepath, existing_publishers_csv_filepath, existing_awards_csv_filepath, new_publishers_csv_filepath, new_awards_csv_filepath):
-    # Parse the ttl files
+    # Parse the ttl files 
     g = Graph()
     g.parse(ttl_filepath, format="turtle")
 

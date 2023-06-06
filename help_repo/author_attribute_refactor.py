@@ -7,7 +7,7 @@ xsd = Namespace("http://www.w3.org/2001/XMLSchema#")
 
 # List of TTL files to process
 filepaths = [
-    "./output-ricochet.ttl"
+    "./missing_output_3.ttl"
 ]
 
 for filepath in filepaths:
@@ -22,6 +22,7 @@ for filepath in filepaths:
         # Extract the current author
         author = g.value(subject=book, predicate=ns1["author"])
         if ' et ' in str(author) or ',' in str(author):
+            print(author)
             # Split the author string and strip whitespace
             authors = [a.strip() for a in re.split(' et |,', str(author))]
             # Remove the old author
