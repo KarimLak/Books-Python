@@ -1,43 +1,24 @@
-import re
-from difflib import SequenceMatcher
+def modify_ttl(file_path):
+    with open(file_path, 'r') as f:
+        content = f.readlines()
 
-def best_matching_publisher(publisher, publisher_dict):
-    best_match = publisher
-    best_ratio = 0
+    new_content = []
+    for i, line in enumerate(content):
+        # If line is not empty
+        if line.strip():
+            # Check if we're not at the last line before trying to access i+1
+            if i+1 < len(content) and content[i+1].strip() == '':
+                new_line = line.rstrip()  # Remove trailing spaces
+                new_line = new_line[:-1] + ".\n"  # Replace last character with "."
+            else:
+                new_line = line.rstrip()  # Remove trailing spaces
+                new_line = new_line[:-1] + ";\n"  # Replace last character with ";"
+            new_content.append(new_line)
+        else:
+            new_content.append(line)
 
-    for candidate, ns_format in publisher_dict.items():
-        ratio = SequenceMatcher(None, publisher.lower(), candidate.lower()).ratio()
-        if ratio > best_ratio:
-            best_match = ns_format
-            best_ratio = ratio
+    with open(file_path, 'w') as f:
+        for line in new_content:
+            f.write(line)
 
-    return best_match
-
-# Load publishers from the conversion file
-publishers = {}
-with open('1_publishers_conversion_demo.ttl', 'r', encoding="utf-8") as f:
-    lines = f.readlines()
-    for i, line in enumerate(lines):
-        match_name = re.search(r'ns1:name "(.*?)"', line)
-        match_publisher = re.search(r'ns1:(.*?) a ns1:Publisher', lines[i-1])
-        if match_name and match_publisher:
-            publishers[match_name.group(1)] = match_publisher.group(1)
-
-# Load books and replace publishers
-with open('./missing_output_1.ttl', 'r', encoding="utf-8") as f:
-    data = f.readlines()
-
-new_data = []
-for line in data:
-    match = re.search(r'ns1:publisher "(.*?)"', line)
-    if match:
-        publisher = match.group(1)
-        best_match = best_matching_publisher(publisher, publishers)
-        new_line = line.replace(f'"{publisher}"', f'ns1:{best_match}')
-        new_data.append(new_line)
-    else:
-        new_data.append(line)
-
-# Write output to a new file
-with open('missing_output_1.ttl', 'w', encoding="utf-8") as f:
-    f.writelines(new_data)
+modify_ttl('./new_awards.ttl')
