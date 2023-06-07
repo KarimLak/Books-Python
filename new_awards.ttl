@@ -14493,12 +14493,15 @@ ns1:Prix_Québecd3746fca-4b3a-4c7c-bcfd-e0379b5d6f0e a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1990"^^xsd:gYear .
 
 ns1:Prix_Real a pbs:Award ;
-    rdfs:label "Prix Real"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:ROMAN ;
+    schema:name "Prix Real" ;
+    schema:description "Le prix REAL est un prix littéraire qui distingue un roman de vie. Il est destiné aux jeunes de 11 à 18 ans. Il a été créé par la librairie l’ange bleu située à Périgny (Loir et Cher), en partenariat avec des collèges, lycées, bibliothèques et médiathèques, en France métropolitaine et dans le reste du monde. Le jury est composé de jeunes lecteurs âgés de 11 à 18 ans. L’objectif du prix est de : 1/ Orienter les jeunes lecteurs de romans de vie vers la découverte de romans de qualité, 2/ Amener les lecteurs amateurs de romans de vie à fréquenter les Centres de Documentation et d’information (CDI) ainsi que les bibliothèques et médiathèques, 3/ Permettre aux jeunes d’acquérir un statut de lecteur de littérature, 4/ Mettre en place ou compléter un fonds de « romans de vie », 5/ Organiser d’autres animations autour du prix et établir des partenariats avec d’autres établissements." .
 
 ns1:Prix_Real_11_14_Ans a pbs:Award ;
-    rdfs:label "Prix Real : 11-14 Ans"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "11" ;
+    pbs:groupeAge "12" ;
+    pbs:groupeAge "13" ;
+    pbs:groupeAge "14" .
 
 ns1:Prix_Real_11_14_Ans1089dc84-0209-404e-8399-0f5c3486ec6e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Real_11_14_Ans ;
@@ -14541,8 +14544,10 @@ ns1:Prix_Real_11_14_Ansf4804fac-a50c-44e3-8d86-020beddcba61 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Real_15_18_Ans a pbs:Award ;
-    rdfs:label "Prix Real : 15-18 Ans"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "15" ;
+    pbs:groupeAge "16" ;
+    pbs:groupeAge "17" ;
+    pbs:groupeAge "18" .
 
 ns1:Prix_Real_15_18_Ans18c92834-e0fd-4d41-a596-c94bbc0bdae7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Real_15_18_Ans ;
@@ -14580,8 +14585,9 @@ ns1:Prix_Real_15_18_Ansf9fcc996-249b-4943-a32a-451428ff4559 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Rts_Littérature_Ados a pbs:Award ;
-    rdfs:label "Prix Rts Littérature Ados"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:ROMAN ;
+    schema:name "Prix RTS Littérature Ados" ;
+    schema:description "Le Prix RTS Littérature Ados (nommé Prix TSR Littérature Ados jusqu’en 2011) est le premier du genre en Suisse romande. Il souhaite encourager la création littéraire qui s’adresse aux jeunes et promouvoir la lecture auprès des adolescents. Ce prix est décerné à un ouvrage dédié aux adolescents de 13 à 15 ans. Ces livres sont sélectionnés pour leur qualité littéraire et la sensibilité avec laquelle ils abordent les questions, fragilités et difficultés éprouvées au sortir de l’enfance. Sept classes de sept cantons romands participent aux émissions télévisées Lire Délire avec le soutien de la CIIP (Conférence intercantonale de l’instruction publique). Ces élèves composent le jury qui remet le Prix RTS Littérature Ados à un des auteurs des sept livres en compétition. L'émission Lire Délire s'arrête en 2016, mais le Prix RTS Littérature Ados continue. Dans toute la Suisse romande, des jeunes se réunissent au sein de clubs de lecture, puis d'un jury cantonal et enfin d'un jury final pour débattre des cinq titres en lice et élire leur roman préféré." .
 
 ns1:Prix_Rts_Littérature_Ados1ff8b8ec-fbcf-41f7-a72a-66d8f53b5d59 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Rts_Littérature_Ados .
@@ -14590,6 +14596,7 @@ ns1:Prix_Rts_Littérature_Ados1ff8b8ec-fbcf-41f7-a72a-66d8f53b5d59 a mcc:MCC-E12
 
 ns1:Prix_Rts_Littérature_Ados3c74ad2f-56cf-4c7a-9cef-5f3eb48656a2 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Rts_Littérature_Ados .
+    mcc:R37 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cddwd5f35ea ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Rts_Littérature_Ados3f1b00a9-03c5-4d2a-ac61-cc5783e6d5a7 a mcc:MCC-E12 ;
@@ -14604,10 +14611,12 @@ ns1:Prix_Rts_Littérature_Ados45cb9710-8733-4b72-bf0c-ea4e4deb74d5 a mcc:MCC-E12
 
 ns1:Prix_Rts_Littérature_Ados8cc13e9c-7f30-4519-87eb-830243fbe18e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Rts_Littérature_Ados .
+    mcc:R37 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0dwf35ed ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear .
 
 ns1:Prix_Rts_Littérature_Adosa143827a-1592-482d-a80c-bb8d9ce51a1e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Rts_Littérature_Ados .
+    mcc:R37 ns1:Book1e4d5b27-45ae-4568-a369-f109f771bu88 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Rts_Littérature_Adosa7646a77-b268-4b6c-8356-c6e1727366f9 a mcc:MCC-E12 ;
@@ -14617,6 +14626,7 @@ ns1:Prix_Rts_Littérature_Adosa7646a77-b268-4b6c-8356-c6e1727366f9 a mcc:MCC-E12
 
 ns1:Prix_Rts_Littérature_Adosaa426ba5-c749-4650-9155-821612c251ed a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Rts_Littérature_Ados .
+    mcc:R37 ns1:Book0aef1f82-8d18-40d1-8daa-d70f08a46d68 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear .
 
 ns1:Prix_Rts_Littérature_Adosbecb2925-045d-47f4-94ce-ed02b45a7644 a mcc:MCC-E12 ;
@@ -14646,6 +14656,7 @@ ns1:Prix_Rts_Littérature_Adose924f5c3-486f-444e-9a37-741a3ffdda4b a mcc:MCC-E12
 
 ns1:Prix_Rts_Littérature_Adosed99c4ae-79ab-4ca2-bdcb-2ac82948726b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Rts_Littérature_Ados .
+    mcc:R37 ns1:Bookc5b086f3-3e75-4e98-aa8e-7cdd0dwf35f1 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear .
 
 ns1:Prix_Rts_Littérature_Adosf08ccc18-ac31-4968-af02-02673c36c741 a mcc:MCC-E12 ;
@@ -14659,12 +14670,12 @@ ns1:Prix_Rts_Littérature_Adosfd2da637-0ed4-4aa7-886a-e20d8297f0aa a mcc:MCC-E12
     mcc:MCC-R35-4 "2014"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry a pbs:Award ;
-    rdfs:label "Prix Saint-Exupéry"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Saint-Exupéry" ;
+    schema:description "A travers une sélection d’ouvrages de langue française qui encouragent la lecture chez les jeunes par leur qualité d’écriture et leur inspiration, le Prix Saint-Exupéry - Valeurs Jeunesse récompense depuis 1987 les œuvres littéraires destinées à la jeunesse qui portent les valeurs de l’œuvre de Saint-Exupéry et le sens de sa vie : L’audace, celle des premiers vols de nuit, Le courage de surmonter les obstacles et la volonté de survie, La solidarité en cultivant la fraternité, La sagesse : discerner et dépasser les dimensions trop matérielles.
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse a pbs:Award ;
-    rdfs:label "Prix Saint-Exupéry - Valeurs Jeunesse"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Saint-Exupéry - Valeurs Jeunesse" ;
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse253a8195-9897-42b4-8f2c-b7dfc825c6fa a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse .
@@ -14673,6 +14684,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse253a8195-9897-42b4-8f2c-b7dfc825c6fa a m
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse2d260943-474f-4d2d-9316-272e9df50fca a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse .
+    mcc:R37 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9995 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse96a30efc-5aa6-419c-8242-e7d5a9850845 a mcc:MCC-E12 ;
@@ -14681,8 +14693,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse96a30efc-5aa6-419c-8242-e7d5a9850845 a m
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album a pbs:Award ;
-    rdfs:label "Prix Saint-Exupéry - Valeurs Jeunesse : Album"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Saint-Exupéry - Valeurs Jeunesse Album" ;
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album0182bf81-779a-49eb-a058-35d14a32aae9 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album .
@@ -14721,6 +14732,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album4140211f-4d24-4559-bfc6-280067ba14
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album47c41b73-6d5b-4dfd-ad87-7f304602070b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album .
+    mcc:R37 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0848 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album482dc468-7f87-4fb0-a9b9-8c5ad7746b17 a mcc:MCC-E12 ;
@@ -14740,6 +14752,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album5457e737-0aa2-46e1-8eda-cdec45348c
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album61c6e4ef-e99e-410d-811e-2a7bf2cc7545 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album .
+    mcc:R37 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba062 ;
     mcc:MCC-R35-4 "1993"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album6440aaa6-119a-4310-b827-8935c9baa2bf a mcc:MCC-E12 ;
@@ -14769,6 +14782,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album74b96c68-bb53-466d-8ee3-27a80e64a7
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album84ad0161-18ed-4c37-9482-218bfc91aac2 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album .
+    mcc:R37 ns1:Book5111534f-875e-48e1-bd2e-f4395c5d5a4a ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album897b74fc-9bfb-4a04-a13c-47ada949bb29 a mcc:MCC-E12 ;
@@ -14847,16 +14861,14 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Albumfce66b8e-3177-4dfe-8d46-b1b37c313c
     mcc:MCC-R35-4 "1996"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Coup_De_C_ur_Jury_Enfants a pbs:Award ;
-    rdfs:label "Prix Saint-Exupéry - Valeurs Jeunesse : Coup De Cœur Jury Enfants"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Saint-Exupéry - Valeurs Jeunesse Coup de Coeur Jury" ;
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Coup_De_C_ur_Jury_Enfants598675b9-42f8-4834-b6e2-a95e6a45f1d3 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Coup_De_C_ur_Jury_Enfants .
     mcc:MCC-R35-4 "2004"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie a pbs:Award ;
-    rdfs:label "Prix Saint-Exupéry - Valeurs Jeunesse : Francophonie"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Saint-Exupéry - Valeurs Jeunesse Francophonie" ;
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie0f2d896f-244a-4594-93db-ef173fdf7e1d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie .
@@ -14870,6 +14882,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie1aa39f95-5c71-485d-b56d-89d
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie25e94b7c-0461-45e7-b3f5-8ecd1d0c2ca8 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie .
+    mcc:R37 ns1:Book1bc99a1d-66a7-4d6e-90e9-bb217f4bc69e ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie34e376a2-206c-4a6d-b2bc-0dab32fd4f09 a mcc:MCC-E12 ;
@@ -14894,6 +14907,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie481bf08c-cdcc-4a68-8c27-6da
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie4cbc9674-e101-4dd1-ab14-3634856de029 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie .
+    mcc:R37 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba085 ;
     mcc:MCC-R35-4 "1987"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie4f88ebd2-ee37-4a40-92f2-963a967dcbd1 a mcc:MCC-E12 ;
@@ -14968,10 +14982,12 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonieb31d8526-04f8-4556-84ce-17a
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonieb326d15a-293d-4d12-8b8a-7b7bf08bdbc2 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie .
+    mcc:R37 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0733 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonieb4dac5f3-8855-4be7-b465-da294d78f158 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie .
+    mcc:R37 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba076 ;
     mcc:MCC-R35-4 "1990"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophoniebab9cda0-a579-4976-a7a6-d386e7e92b15 a mcc:MCC-E12 ;
@@ -15011,6 +15027,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonied3331849-1368-4799-930f-385
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonieeca688ad-68d7-4a46-b6b0-7dced7f8c8f4 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie .
+    mcc:R37 ns1:Book639159dc-d0e3-4fc4-8d90-f68c1888fb9f ;
     mcc:MCC-R35-4 "2001"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonieff43135d-d57e-48b6-89a4-50f91359c705 a mcc:MCC-E12 ;
@@ -15018,13 +15035,8 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonieff43135d-d57e-48b6-89a4-50f
     mcc:R37 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba009 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
-ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Speciale a pbs:Award ;
-    rdfs:label "Prix Saint-Exupéry - Valeurs Jeunesse : Mention Speciale"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
-
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spéciale a pbs:Award ;
-    rdfs:label "Prix Saint-Exupéry - Valeurs Jeunesse : Mention Spéciale"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Saint-Exupéry - Valeurs Jeunesse Mention Spéciale" ;
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spéciale2b8dda09-4fb8-446f-917a-5364f9a9e380 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spéciale .
@@ -15067,8 +15079,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spéciale907fd26a-0e02-4709-9eb
     mcc:MCC-R35-4 "2016"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spéciale_Environnement a pbs:Award ;
-    rdfs:label "Prix Saint-Exupéry - Valeurs Jeunesse : Mention Spéciale Environnement"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Saint-Exupéry - Valeurs Jeunesse Mention Spéciale Environnement" ;
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spéciale_Environnementf4bf8793-8737-4dae-be5d-1e0e41f76daf a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spéciale_Environnement .
@@ -15092,6 +15103,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spécialec8cd6770-333c-4168-9f5
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spécialec977e172-792c-4ca7-8c68-d26285a6dc5e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spéciale .
+    mcc:R37 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba062 ;
     mcc:MCC-R35-4 "1995"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spécialece5c6308-f941-478d-95bf-8a73bb0a91fa a mcc:MCC-E12 ;
@@ -15110,8 +15122,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spécialefff23310-a74a-4415-898
     mcc:MCC-R35-4 "2000"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Prix_Spécial_Poésie a pbs:Award ;
-    rdfs:label "Prix Saint-Exupéry - Valeurs Jeunesse : Prix Spécial Poésie"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Saint-Exupéry - Valeurs Jeunesse Prix Spécial Poésie" ;
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Prix_Spécial_Poésie7a2c6c25-c61d-4194-84ef-30910ca760f0 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Prix_Spécial_Poésie .
@@ -15119,8 +15130,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Prix_Spécial_Poésie7a2c6c25-c61d-4194
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman a pbs:Award ;
-    rdfs:label "Prix Saint-Exupéry - Valeurs Jeunesse : Roman"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Saint-Exupéry - Valeurs Jeunesse Roman" ;
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman10871d4b-6c80-40f4-9c71-5ad218327711 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .
@@ -15134,6 +15144,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman1d640724-5967-4ed6-9dda-6ff1bd28f9
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman2708774e-a62f-4210-98f5-823de4d3877e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .
+    mcc:R37 ns1:Book6744e4e-6bf0-4aa1-a201-59f60eb71767 ;
     mcc:MCC-R35-4 "2004"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman349a8913-477d-4748-ab4d-c65d6d331758 a mcc:MCC-E12 ;
@@ -15158,6 +15169,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman3d968bfe-8c49-4639-9aee-f70d9c6304
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman41344614-6949-4025-8ad9-29f6f6129e2b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .
+    mcc:R37 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3da ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman4718e21f-d1f9-41de-9973-deca16e2f956 a mcc:MCC-E12 ;
@@ -15167,6 +15179,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman4718e21f-d1f9-41de-9973-deca16e2f9
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman4a2c1343-f5df-46ba-a77a-7ff378f24f2a a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .
+    mcc:R37 ns1:Book74261fa1-8b33-4e7e-a7e9-65ae29be4898 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman50b44f64-7e42-428e-824d-d871f5754e54 a mcc:MCC-E12 ;
@@ -15176,6 +15189,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman50b44f64-7e42-428e-824d-d871f5754e
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman544f001a-ad86-4f8d-8c13-c4854ac81def a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .
+    mcc:R37 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0828 ;
     mcc:MCC-R35-4 "2003"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman5f258a8c-4ef4-4a20-91aa-97b7a83fd0de a mcc:MCC-E12 ;
@@ -15205,6 +15219,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman6fc32d8b-d8f5-49bd-81d6-00a1f11dce
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman710f14f3-5afc-4fb1-a22e-0392a68c6f81 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .
+    mcc:R37 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba085 ;
     mcc:MCC-R35-4 "1987"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman7567622a-cfd6-414a-8687-ca08762087ec a mcc:MCC-E12 ;
@@ -15214,6 +15229,7 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman7567622a-cfd6-414a-8687-ca08762087
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman80d33d79-1682-4298-9c0b-202b95ad9b0e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .
+    mcc:R37 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6fx9b9920 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman913eea88-f081-4dc8-8ebd-e28dbd3b28ab a mcc:MCC-E12 ;
@@ -15223,10 +15239,12 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman913eea88-f081-4dc8-8ebd-e28dbd3b28
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman9ac4eed5-a40e-4f0c-9e89-a063295fcf52 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .
+    mcc:R37 ns1:Book8073edf7-6fd0-441d-89ad-0259e79a5393 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Romanb0247522-31e9-4703-9707-55b145d81251 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .
+    mcc:R37 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3dd ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Romanb5a871aa-f0db-42a6-976b-724db20ff04a a mcc:MCC-E12 ;
@@ -15236,10 +15254,12 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Romanb5a871aa-f0db-42a6-976b-724db20ff0
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Romanb8e10545-1f06-48c0-94dc-0d880665c86d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .
+    mcc:R37 ns1:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49ba076 ;
     mcc:MCC-R35-4 "1990"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Romanb9af256e-9e71-44f2-a671-c9c18b1ca819 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .
+    mcc:R37 ns1:Bookafe84b99-4ec8-4a62-be98-52b3e4a7face ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Romanc3c62171-4c5c-4b46-a201-ca451df335db a mcc:MCC-E12 ;
@@ -15274,15 +15294,16 @@ ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Romanef9f2770-af47-4119-92ef-b3916293e2
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Romanf2ef9632-061f-45b4-ad3e-5d413053ec73 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .
+    mcc:R37 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0831 ;
     mcc:MCC-R35-4 "2001"^^xsd:gYear .
 
 ns1:Prix_Sorcières a pbs:Award ;
-    rdfs:label "Prix Sorcières"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Sorcières" ;
+    schema:description "Le prix Sorcières est un prix littéraire français qui distingue chaque année, depuis 1986, une œuvre de la littérature jeunesse. Il est décerné par l'Association des librairies spécialisées pour la jeunesse (ASLJ) et par l'Association des bibliothécaires de France (ABF). Il couronne chaque année six titres dans les catégories suivantes : Tout-petits, Albums, Premières lectures, Romans juniors (9-12 ans), Romans adolescents et Documentaire. Un Prix spécial est également décerné certaines années. En 2018, de nouvelles catégories sont créées : Carrément beau, Mini, Carrément beau, Maxi, Carrément passionnant, Mini, Carrément passionnant, Maxi, Carrément Sorcières, Fiction et Carrément Sorcières, Non fiction." .
 
 ns1:Prix_Sorcières_Ados a pbs:Award ;
-    rdfs:label "Prix Sorcières : Ados"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Ados" ;
 
 ns1:Prix_Sorcières_Ados36b40596-1b1d-4587-8cf2-d61050f29ce4 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Ados .
@@ -15290,8 +15311,7 @@ ns1:Prix_Sorcières_Ados36b40596-1b1d-4587-8cf2-d61050f29ce4 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2003"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Albums a pbs:Award ;
-    rdfs:label "Prix Sorcières : Albums"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Album" ;
 
 ns1:Prix_Sorcières_Albums0eccd76e-4857-41b7-917a-e4f7565fcf9b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Albums .
@@ -15315,6 +15335,7 @@ ns1:Prix_Sorcières_Albums5452e143-d73f-4701-9f01-9297c1dda508 a mcc:MCC-E12 ;
 
 ns1:Prix_Sorcières_Albums5ff9afad-1b16-4a40-8871-c39d853ddb8d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Albums .
+    mcc:R37 ns1:Book81fc435-9487-4e51-9c61-4bcf29f875a4 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Albums6cca9f9a-043d-47fc-8ff1-05ee55ffa04c a mcc:MCC-E12 ;
@@ -15368,8 +15389,7 @@ ns1:Prix_Sorcières_Albumsec283c0e-fff7-43eb-92b0-97309156e174 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Carrément_Beau a pbs:Award ;
-    rdfs:label "Prix Sorcières : Carrément Beau"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Carrément Beau" ;
 
 ns1:Prix_Sorcières_Carrément_Beau05c60738-7f4c-41ae-8587-308b4ca82fd0 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Carrément_Beau .
@@ -15378,6 +15398,7 @@ ns1:Prix_Sorcières_Carrément_Beau05c60738-7f4c-41ae-8587-308b4ca82fd0 a mcc:MC
 
 ns1:Prix_Sorcières_Carrément_Beau0d510735-a955-46ca-9725-8446282dbba1 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Carrément_Beau .
+    mcc:R37 ns1:Book7c194d23-6f48-4d70-804d-0d9352c82c64 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Carrément_Beau185998c8-52b4-4325-99a4-9ba97f3657c0 a mcc:MCC-E12 ;
@@ -15392,6 +15413,7 @@ ns1:Prix_Sorcières_Carrément_Beau4fd2c31f-3453-40cc-8045-d244a4d99c2b a mcc:MC
 
 ns1:Prix_Sorcières_Carrément_Beau58cb187d-1910-4cdb-8106-a8e319ae1590 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Carrément_Beau .
+    mcc:R37 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0733 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Carrément_Beau64cc83f2-da4e-469a-abfe-945476c586d8 a mcc:MCC-E12 ;
@@ -15411,6 +15433,7 @@ ns1:Prix_Sorcières_Carrément_Beau8679cb66-643b-40b2-9659-433fb40579e3 a mcc:MC
 
 ns1:Prix_Sorcières_Carrément_Beauae8f44e0-d60c-4c19-b797-1e334f276f34 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Carrément_Beau .
+    mcc:R37 ns1:Book2ba2474f-b7fc-43cf-a6a6-7a40d9e9890a ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Carrément_Beaubec3db80-7c9b-497a-9aed-01c4d987c67e a mcc:MCC-E12 ;
@@ -15429,11 +15452,11 @@ ns1:Prix_Sorcières_Carrément_Beaudadf2db2-a25d-4c64-8bc0-e07ad1e90d57 a mcc:MC
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Carrément_Passionnant a pbs:Award ;
-    rdfs:label "Prix Sorcières : Carrément Passionnant"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Carrément Passionnant" ;
 
 ns1:Prix_Sorcières_Carrément_Passionnant1f0c948e-4be2-473b-9a29-951880e65e37 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Carrément_Passionnant .
+    mcc:R37 ns1:Book2b4a8672-6128-4bbd-9b54-47072272d4d7 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Carrément_Passionnant2a3b1294-5238-472b-bc6b-8283de71b52d a mcc:MCC-E12 ;
@@ -15448,6 +15471,7 @@ ns1:Prix_Sorcières_Carrément_Passionnant4a330140-f2f1-4850-94af-4964d3220619 a
 
 ns1:Prix_Sorcières_Carrément_Passionnant5e5b750d-7a5c-427e-8b00-8140957473c7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Carrément_Passionnant .
+    mcc:R37 ns1:Book7f18d068-f2cc-431d-9233-4421fef9d28d ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Carrément_Passionnanta4829148-fb6b-4b9d-b153-0a57feb6d10a a mcc:MCC-E12 ;
@@ -15457,6 +15481,7 @@ ns1:Prix_Sorcières_Carrément_Passionnanta4829148-fb6b-4b9d-b153-0a57feb6d10a a
 
 ns1:Prix_Sorcières_Carrément_Passionnantb7606f53-4697-436c-84ba-b801c08a95ab a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Carrément_Passionnant .
+    mcc:R37 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d124 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Carrément_Passionnantb80cd775-5a0f-4b6c-a0d4-2f52048e3d63 a mcc:MCC-E12 ;
@@ -15471,6 +15496,7 @@ ns1:Prix_Sorcières_Carrément_Passionnantba26f05c-9899-49b2-ba70-b47174044808 a
 
 ns1:Prix_Sorcières_Carrément_Passionnantbb46b8ff-ecd3-4bda-b976-5105e458e304 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Carrément_Passionnant .
+    mcc:R37 ns1:Book0ad10df5-38be-4d3f-9e8f-c0c2f9f0dd14 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Carrément_Passionnantce3d9594-70f4-4fa5-878d-18a25da07175 a mcc:MCC-E12 ;
@@ -15485,11 +15511,11 @@ ns1:Prix_Sorcières_Carrément_Passionnante43cfea6-5ae1-4743-9548-0420fe89bb87 a
 
 ns1:Prix_Sorcières_Carrément_Passionnantf290c3f2-190f-4886-9432-5fa7dff96278 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Carrément_Passionnant .
+    mcc:R37 ns1:Book1e4d5b27-45ae-4568-a369-f109f771bp4b ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Carrément_Sorcières a pbs:Award ;
-    rdfs:label "Prix Sorcières : Carrément Sorcières"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Carrément Sorcières" ;
 
 ns1:Prix_Sorcières_Carrément_Sorcières273f426d-6a4a-47dd-b7c3-1b6dc87f387d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Carrément_Sorcières .
@@ -15538,6 +15564,7 @@ ns1:Prix_Sorcières_Carrément_Sorcièresc8f40527-cd82-4add-8a24-c7fd2bec0ea6 a 
 
 ns1:Prix_Sorcières_Carrément_Sorcièresc95bd88f-5855-4ef2-8b49-9c9f40165b29 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Carrément_Sorcières .
+    mcc:R37 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a402 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Carrément_Sorcièresdb8b6cd0-46e8-4226-a9d5-70d2de9713b9 a mcc:MCC-E12 ;
@@ -15547,11 +15574,11 @@ ns1:Prix_Sorcières_Carrément_Sorcièresdb8b6cd0-46e8-4226-a9d5-70d2de9713b9 a 
 
 ns1:Prix_Sorcières_Carrément_Sorcièresfb2ea406-dc07-44e3-81e6-f49c8cd07f15 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Carrément_Sorcières .
+    mcc:R37 ns1:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a406 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Documentaire a pbs:Award ;
-    rdfs:label "Prix Sorcières : Documentaire"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Documentaire" ;
 
 ns1:Prix_Sorcières_Documentaire87869e88-0120-4804-965d-e2f19e735050 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Documentaire .
@@ -15559,8 +15586,7 @@ ns1:Prix_Sorcières_Documentaire87869e88-0120-4804-965d-e2f19e735050 a mcc:MCC-E
     mcc:MCC-R35-4 "2002"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Documentaires a pbs:Award ;
-    rdfs:label "Prix Sorcières : Documentaires"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Documentaires" ;
 
 ns1:Prix_Sorcières_Documentaires0c22ac6a-20cb-454c-afd8-7954dd0a98ff a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Documentaires .
@@ -15633,8 +15659,7 @@ ns1:Prix_Sorcières_Documentairese663a427-97cf-46e9-a39a-69964d3677ed a mcc:MCC-
     mcc:MCC-R35-4 "2012"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Première_Lecture a pbs:Award ;
-    rdfs:label "Prix Sorcières : Première Lecture"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Première Lecture" ;
 
 ns1:Prix_Sorcières_Première_Lectured0202339-483e-4859-ba9f-2b64f25bf7b0 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Première_Lecture .
@@ -15642,8 +15667,7 @@ ns1:Prix_Sorcières_Première_Lectured0202339-483e-4859-ba9f-2b64f25bf7b0 a mcc:
     mcc:MCC-R35-4 "2003"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Premières_Lectures a pbs:Award ;
-    rdfs:label "Prix Sorcières : Premières Lectures"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Premières Lectures" ;
 
 ns1:Prix_Sorcières_Premières_Lectures085fc200-4773-4ff3-8d62-570226bc1ec5 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Premières_Lectures .
@@ -15657,6 +15681,7 @@ ns1:Prix_Sorcières_Premières_Lectures0a4668a1-8fc5-4f8b-a179-a33897de122b a mc
 
 ns1:Prix_Sorcières_Premières_Lectures28f907f1-5e90-44fc-bd13-7341b47948bb a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Premières_Lectures .
+    mcc:R37 ns1:Book0701fb86-bfb0-4486-b554-468344e650ad ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Premières_Lectures4ebf14cd-9e47-4154-ae59-99b5800307f2 a mcc:MCC-E12 ;
@@ -15686,6 +15711,7 @@ ns1:Prix_Sorcières_Premières_Lecturesa013bc34-fe02-41bb-ab8e-577d8d57168a a mc
 
 ns1:Prix_Sorcières_Premières_Lecturesa3a344fd-ebe9-45a8-8c7a-1004fb4097c5 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Premières_Lectures .
+    mcc:R37 ns1:Booka2a5a36a-951c-48ad-a8bd-dd14100dff53 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Premières_Lecturesb568fb27-71cb-409f-ba46-52b5747a1fcb a mcc:MCC-E12 ;
@@ -15709,8 +15735,7 @@ ns1:Prix_Sorcières_Premières_Lecturesf6cc5fa0-36a5-40b6-90f3-08da3210228f a mc
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Roman_Ados a pbs:Award ;
-    rdfs:label "Prix Sorcières : Roman Ados"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Roman Ados" ;
 
 ns1:Prix_Sorcières_Roman_Ados102911de-8c17-4497-a862-95bbeea5c69c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Roman_Ados .
@@ -15734,23 +15759,30 @@ ns1:Prix_Sorcières_Roman_Ados683d0439-06d8-49b7-a545-8aa83fb7e7dc a mcc:MCC-E12
 
 ns1:Prix_Sorcières_Roman_Ados8a5b454e-f1d0-4fa0-8f12-679f218c74ab a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Roman_Ados .
+    mcc:R37 ns1:Booke5d3167f-1607-4caf-8156-4f3df82aa8bd ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Roman_Adosa8ddca2e-a6cd-4bc2-89aa-02c6db0347d2 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Roman_Ados .
+    mcc:R37 ns1:Book018bab57-16a5-4c03-b409-9b8d3db72ebb ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Roman_Adosb0caa349-67ba-4647-b306-992137027dec a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Roman_Ados .
+    mcc:R37 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b281 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Roman_Adoscdc0c6b3-d1b4-4e04-876e-a916e67cf38b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Roman_Ados .
+    mcc:R37 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9af ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Romans_9_12_Ans a pbs:Award ;
-    rdfs:label "Prix Sorcières : Romans 9-12 Ans"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Roman Ados" ;
+    pbs:groupeAge "9" ;
+    pbs:groupeAge "10" ;
+    pbs:groupeAge "11" ;
+    pbs:groupeAge "12" .
 
 ns1:Prix_Sorcières_Romans_9_12_Ans5e35c344-cae3-405c-88c1-c496321dbcbe a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Romans_9_12_Ans .
@@ -15783,8 +15815,7 @@ ns1:Prix_Sorcières_Romans_9_12_Ansf8069b24-a807-480b-ba49-a21cdaa2875d a mcc:MC
     mcc:MCC-R35-4 "2003"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Romans_Adolescents a pbs:Award ;
-    rdfs:label "Prix Sorcières : Romans Adolescents"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Romans Adolescents" ;
 
 ns1:Prix_Sorcières_Romans_Adolescents11bae1fc-b42c-4979-b0a0-1758dbd8dbcc a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Romans_Adolescents .
@@ -15798,6 +15829,7 @@ ns1:Prix_Sorcières_Romans_Adolescents27b6b2d4-7d35-4788-93d2-08bd27251d19 a mcc
 
 ns1:Prix_Sorcières_Romans_Adolescents438d8a5d-8323-4f0d-afbe-0d12da149ba0 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Romans_Adolescents .
+    mcc:R37 ns1:Book8073edf7-6fd0-441d-89ad-0259e79a5393 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Romans_Adolescents4e80d7ef-bf33-42ca-8023-552bfeec5b5d a mcc:MCC-E12 ;
@@ -15812,23 +15844,24 @@ ns1:Prix_Sorcières_Romans_Adolescents8989330f-1091-48b4-91ce-a5cc6eef7c0d a mcc
 
 ns1:Prix_Sorcières_Romans_Adolescentse8b9d9aa-e925-4db6-9faa-36eff46f9a58 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Romans_Adolescents .
+    mcc:R37 ns1:Book639159dc-d0e3-4fc4-8d90-f68c1888fb9f ;
     mcc:MCC-R35-4 "2002"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Romans_Jeunes a pbs:Award ;
-    rdfs:label "Prix Sorcières : Romans Jeunes"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Romans Jeunes" ;
 
 ns1:Prix_Sorcières_Romans_Jeunes0709fef4-b668-4828-b554-d5d111de873d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Romans_Jeunes .
+    mcc:R37 ns1:Bookafe84b99-4ec8-4a62-be98-52b3e4a7face ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Romans_Jeunes1fa40455-f66e-4eb3-a975-507721d9f61e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Romans_Jeunes .
+    mcc:R37 ns1:Book9e457bd4-dfb0-4e28-b0b7-f718cef94e3d ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Romans_Juniors a pbs:Award ;
-    rdfs:label "Prix Sorcières : Romans Juniors"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Romans Juniors" ;
 
 ns1:Prix_Sorcières_Romans_Juniors0c8cef80-26c3-45ce-824b-4546e08a404d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Romans_Juniors .
@@ -15847,6 +15880,7 @@ ns1:Prix_Sorcières_Romans_Juniors12ddf680-c05f-4b0f-8830-a31c202db4ab a mcc:MCC
 
 ns1:Prix_Sorcières_Romans_Juniors2f7f3179-ad89-436a-85cc-5a53f9591e4a a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Romans_Juniors .
+    mcc:R37 ns1:Book0a36b6ff-5259-4c79-9f23-c5efea81c122 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Romans_Juniors38a1730d-42c8-472c-8ffc-7031cfddb975 a mcc:MCC-E12 ;
@@ -15861,11 +15895,11 @@ ns1:Prix_Sorcières_Romans_Juniorse0c48333-e949-4ac4-bdb4-e7f0a87e8711 a mcc:MCC
 
 ns1:Prix_Sorcières_Romans_Juniorsedd5ccee-9b70-44dd-9feb-040cafdafc24 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Romans_Juniors .
+    mcc:R37 ns1:Book0533f7ac-c32d-40a1-888f-8d275e14a790 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Tout_Petits a pbs:Award ;
-    rdfs:label "Prix Sorcières : Tout-Petits"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Sorcières - Tout Petits" ;
 
 ns1:Prix_Sorcières_Tout_Petits022ad9e2-a17d-4863-88d1-8292551a0551 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Tout_Petits .
@@ -15889,10 +15923,12 @@ ns1:Prix_Sorcières_Tout_Petits0f3076b9-1000-460a-a313-17715a3793a4 a mcc:MCC-E1
 
 ns1:Prix_Sorcières_Tout_Petits1a28d333-4ee8-4885-aef1-8cb77d5da943 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Tout_Petits .
+    mcc:R37 ns1:Book24145c0c-2c27-47c9-9b89-48ca8d21223f ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Tout_Petits27f30af3-2770-452a-aeb9-c5ccf1fcd1e6 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Tout_Petits .
+    mcc:R37 ns1:Book25c9a81-8d57-4e0a-8e8e-5e5256f1448a92 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Tout_Petits2d648855-baf2-4bcd-abef-9994d6c87c2b a mcc:MCC-E12 ;
@@ -15902,6 +15938,7 @@ ns1:Prix_Sorcières_Tout_Petits2d648855-baf2-4bcd-abef-9994d6c87c2b a mcc:MCC-E1
 
 ns1:Prix_Sorcières_Tout_Petits374a562b-3ac0-41f5-b847-4a32fcd5c126 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Tout_Petits .
+    mcc:R37 ns1:Bookee385b37-ed85-4192-a693-5b2bd9a24e53 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Tout_Petits76712558-e26b-46de-aa05-747f67a9f7fc a mcc:MCC-E12 ;
@@ -15911,10 +15948,12 @@ ns1:Prix_Sorcières_Tout_Petits76712558-e26b-46de-aa05-747f67a9f7fc a mcc:MCC-E1
 
 ns1:Prix_Sorcières_Tout_Petits86ba5763-cd1a-46f2-9793-8cd1873eb38e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Tout_Petits .
+    mcc:R37 ns1:Bookb2e6120-6d4f-4c5e-a6ff-13471ce3053e14 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Tout_Petitsa0d9e020-765d-4cbf-8457-016bb60f7980 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Tout_Petits .
+    mcc:R37 ns1:Book61183072-b139-4a45-894b-f31942a72ec3 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Sorcières_Tout_Petitsa443e6f6-ada1-4b1c-b2af-aefcdcb71c3f a mcc:MCC-E12 ;
@@ -15934,11 +15973,13 @@ ns1:Prix_Sorcières_Tout_Petitsc5a7b6b7-6c98-4b35-8f71-60739f371599 a mcc:MCC-E1
 
 ns1:Prix_Sorcières_Tout_Petitsc96e1f2a-90df-40ca-a085-0e6433c3e2d2 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sorcières_Tout_Petits .
+    mcc:R37 ns1:Book0f45d4a-ecce-4efb-a35e-7e1f3a73d4e146 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear .
 
 ns1:Prix_Suisse_Du_Livre_Jeunesse a pbs:Award ;
-    rdfs:label "Prix Suisse Du Livre Jeunesse"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:Livre ;
+    schema:name "Prix suisse du livre jeunesse" ;
+    schema:description "Le Prix suisse du livre jeunesse a été créé en 2019. Porté par l’Association suisse des libraires et éditeurs (Schweizerischer Buchhändler- und Verlegerverband SBVV), l’Institut suisse Jeunesse et Médias ISJM et les Journées Littéraires de Soleure, ce prix national de littérature pour l’enfance et la jeunesse récompense chaque année un travail individuel exceptionnel en littérature pour les enfants et les jeunes de divers domaines, dont les albums illustrés, les documentaires ou les bandes dessinées. Il a pour but d’aider les auteurs-trices et illustrateurs-trices suisses, ainsi que leurs éditeurs, à mieux faire connaître et apprécier le livre auprès du public. Il souligne en outre l’importance d’une littérature jeunesse diversifiée et vivante pour motiver les enfants et les jeunes à lire." . 
 
 ns1:Prix_Suisse_Du_Livre_Jeunesse5a751c74-ddd3-4fb8-9365-b418c4de8fd2 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Suisse_Du_Livre_Jeunesse ;
@@ -15961,8 +16002,9 @@ ns1:Prix_Suisse_Du_Livre_Jeunessef63ea298-5412-4f5d-b0b3-6fcb7aa318ec a mcc:MCC-
     mcc:MCC-R35-4 "2023"^^xsd:gYear .
 
 ns1:Prix_Suisse_Jeunesse_Et_Médias a pbs:Award ;
-    rdfs:label "Prix Suisse Jeunesse Et Médias"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix suisse Jeunesse et Médias" ;
+    schema:description "Depuis 2003, le Prix suisse Jeunesse et Médias est décerné tous les deux ans par l'Association des enseignants suisses (alémaniques) (ECH) et l'Institut suisse Jeunesse et Médias (ISJM). Ce prix est doté de 10 000 francs suisses. Il distingue un livre ou un autre média pour la jeunesse d'un créateur suisse ou publié par une maison d'édition suisse." . 
 
 ns1:Prix_Suisse_Jeunesse_Et_Médias2346c7fe-5065-4d5c-a20e-f7c14e56e189 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Suisse_Jeunesse_Et_Médias .
@@ -16005,11 +16047,13 @@ ns1:Prix_Suisse_Jeunesse_Et_Médiasf6edb3ea-d56b-4f67-b1af-5cc4b1c993fe a mcc:MC
     mcc:MCC-R35-4 "2003"^^xsd:gYear .
 
 ns1:Prix_Sésame a pbs:Award ;
-    rdfs:label "Prix Sésame"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Sésame" ;
+    schema:description "Créé en 1998, le prix Sésame a pour vocation de donner le goût de lire aux collégiens des classes de quatrième. Un comité composé de documentalistes, professeurs de lettres et organisateurs de la Fête du Livre sélectionne six romans coups de cœur, parus dans l’année. Les livres sont lus dans les classes tout au long du premier trimestre. Un représentant par classe siège au jury qui se réunit courant janvier pour décerner le prix. Le Prix Sésame est attribué par des collégiens et est remis à l’auteur pendant la Fête du livre de Jeunesse de St-Paul-Trois-Châteaux qui a lieu à la fin du mois de janvier." .
 
 ns1:Prix_Sésame0b526d22-7c3d-4a39-8de0-259c63049007 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book64e9c4e-1b7e-4cc4-9f5e-5a6f9e855c9a ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear .
 
 ns1:Prix_Sésame2b9296e4-94d8-4caa-bb87-7dfbfa0a2499 a mcc:MCC-E12 ;
@@ -16024,6 +16068,7 @@ ns1:Prix_Sésame39624c7a-8035-49fa-b16a-e3b562bd7129 a mcc:MCC-E12 ;
 
 ns1:Prix_Sésame4bcb5cff-8005-458a-bb25-f1b1ed78c6be a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book1c98c89e-d8b1-44f3-b674-9e4b43e9e9e4 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear .
 
 ns1:Prix_Sésame5af508ca-02f8-4ee3-a3b0-bface8fb84b7 a mcc:MCC-E12 ;
@@ -16033,14 +16078,17 @@ ns1:Prix_Sésame5af508ca-02f8-4ee3-a3b0-bface8fb84b7 a mcc:MCC-E12 ;
 
 ns1:Prix_Sésame5c7185b2-a6e6-49d9-9789-7c231f45c719 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book64aa6d89-2d67-41b8-8e0b-bc6050a06346 ;
     mcc:MCC-R35-4 "2001"^^xsd:gYear .
 
 ns1:Prix_Sésame677aed19-98dc-4b10-983b-c9a9fabfd8d9 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book9130a61-6834-41b2-b51b-899663d34676 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Sésame6790a1e0-1afb-4e38-a3bd-cbb757b7610e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book8073edf7-6fd0-441d-89ad-0259e79a5393 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear .
 
 ns1:Prix_Sésame724eca04-1b20-4408-9fc7-82e77176048c a mcc:MCC-E12 ;
@@ -16065,22 +16113,27 @@ ns1:Prix_Sésame7e5c30a5-9223-41e8-951b-d5454e3d13f9 a mcc:MCC-E12 ;
 
 ns1:Prix_Sésame8ab26911-0bf0-4f92-8e42-1a247dbafe00 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book4abccddc-f1c7-452f-862e-3ed00a3c5d66 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear .
 
 ns1:Prix_Sésame95a019be-47f6-4761-9e36-7bd94d549bfa a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Bookc43ab11-0ef3-4d83-a041-06f6bba124c4 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Sésame9d4e2197-ef53-48cc-ad4d-77d9e85c5a3d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book6381df9-d6e7-4d78-9c77-ba816d1a3b7c ;
     mcc:MCC-R35-4 "2004"^^xsd:gYear .
 
 ns1:Prix_Sésame9de65a06-21d7-4dfd-bbc1-98ca3161544a a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book16bba4a-57b7-471d-bbd1-c0f4f4e25d15 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
 ns1:Prix_Sésame9e7c0eb3-2a5f-4e2c-9e75-3b5a64c78e44 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0877 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Sésame9ec38af8-cc10-49c2-b9e6-c8fdf62e20bd a mcc:MCC-E12 ;
@@ -16095,6 +16148,7 @@ ns1:Prix_Sésamea0fda130-e54d-4f4f-b35f-22b9c7b79ea3 a mcc:MCC-E12 ;
 
 ns1:Prix_Sésamebdc6b974-4872-426f-9e51-6bb6ce0db3a9 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book6fe47e5-6eb9-4e32-bbde-4e7c9f6f6ad1 ;
     mcc:MCC-R35-4 "2000"^^xsd:gYear .
 
 ns1:Prix_Sésamec2ef5b3b-8feb-43fe-bd1e-1beac17b188c a mcc:MCC-E12 ;
@@ -16114,6 +16168,7 @@ ns1:Prix_Sésamecd72ae25-5a98-4cef-9828-97d53c67536c a mcc:MCC-E12 ;
 
 ns1:Prix_Sésamedbe2d582-103d-4332-96c7-226004e8040e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book4d52569-935f-48a3-ae62-85c8fc125bd2 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Sésamef4f9521c-0117-4ffb-9810-2b1ba59d9ade a mcc:MCC-E12 ;
@@ -16123,19 +16178,21 @@ ns1:Prix_Sésamef4f9521c-0117-4ffb-9810-2b1ba59d9ade a mcc:MCC-E12 ;
 
 ns1:Prix_Sésamef676bb31-0d4c-4d56-843a-9a5b28889ddc a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book8d7b1e8-0e56-4be1-baaf-723b3fca6be2 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Sésamefced5881-eade-4596-9b79-bd0da3f58726 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Sésame .
+    mcc:R37 ns1:Book14c69f01-87e3-4967-b246-93720cb4728a ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Talents_Cultura a pbs:Award ;
-    rdfs:label "Prix Talents Cultura"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Talents Cultura" ;
+    schema:description "Les Talents Cultura c'est une sélection de 11 livres lus et approuvés par des comités de lecture, proposés dans les magasins Cultura, partout en France. Ce sont des premiers ouvrages BD, jeunesse et roman, d'auteurs talentueux mais encore inconnus, qui ont été soigneusement lus et choisis par des libraires et des clients passionnés, qui vous proposent leurs coups de cœur. C'est le reflet de ce que Cultura souhaite encore et toujours mettre en œuvre : un accès à la culture, pour tous. Mais, à travers cette sélection, Cultura s'engage aussi à mettre en lumière pendant un an, les auteurs de demain pour les aider à se faire un nom dans le paysage des lettres. Cette sélection est une référence pour nos clients et pour le monde du livre. Elle a permis de révéler, au fil des ans, des auteurs tels que Delphine de Vigan, Leïla Slimani, Gaël Faye ou encore Nicolas Mathieu qui ont remporté des prix littéraires tels que le prix Goncourt, le prix Renaudot et le prix Goncourt des lycéens." .
 
 ns1:Prix_Talents_Cultura_Les_Talents_Bandes_Dessinées_2021 a pbs:Award ;
-    rdfs:label "Prix Talents Cultura : Les Talents Bandes Dessinées 2021"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Talents Cultura - Les Talents Bandes Dessinées" ;
 
 ns1:Prix_Talents_Cultura_Les_Talents_Bandes_Dessinées_2021018fe2d8-ed74-4e7b-8436-33f652ff6315 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Talents_Cultura_Les_Talents_Bandes_Dessinées_2021 .
@@ -16149,11 +16206,11 @@ ns1:Prix_Talents_Cultura_Les_Talents_Bandes_Dessinées_2021226ad673-afb1-426d-a6
 
 ns1:Prix_Talents_Cultura_Les_Talents_Bandes_Dessinées_20215dc00e8e-ed12-45aa-9115-826be664fc83 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Talents_Cultura_Les_Talents_Bandes_Dessinées_2021 .
+    mcc:R37 ns1:Book1c3157f6-0e80-43da-b9df-02f8a6334404 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Talents_Cultura_Les_Talents_Jeunesse_2021 a pbs:Award ;
-    rdfs:label "Prix Talents Cultura : Les Talents Jeunesse 2021"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Talents Cultura - Les Talents Jeunesse" ;
 
 ns1:Prix_Talents_Cultura_Les_Talents_Jeunesse_202133b9e927-8908-44e6-81f5-33075f8540e1 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Talents_Cultura_Les_Talents_Jeunesse_2021 ;
@@ -16176,8 +16233,7 @@ ns1:Prix_Talents_Cultura_Les_Talents_Jeunesse_20217f73148e-6f75-4beb-87b7-5ef0c3
     mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Talents_Cultura_Les_Talents_Romans_2021 a pbs:Award ;
-    rdfs:label "Prix Talents Cultura : Les Talents Romans 2021"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Talents Cultura - Les Talents Romans" ;
 
 ns1:Prix_Talents_Cultura_Les_Talents_Romans_202137bb1434-4605-4d86-8083-f7f6dc5a7e36 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Talents_Cultura_Les_Talents_Romans_2021 ;
@@ -16200,12 +16256,12 @@ ns1:Prix_Talents_Cultura_Les_Talents_Romans_2021e19fe6bf-936e-499d-a0ab-bd20029b
     mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Tatoulu a pbs:Award ;
-    rdfs:label "Prix Tatoulu"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE ;
+    schema:name "Prix Tatoulu" ;
+    schema:description "Décerné exclusivement par des enfants dans un cadre pédagogique (la classe, la bibliothèque, le centre de documentation et d'information, le groupe de soutien scolaire), ce prix couronne des albums et des romans parus dans l'année précédente, ouvrages sélectionnés par le comité de lecture pour leur qualité littéraire et les questions qu'ils suscitent et sont susceptibles de faire débat. Ce prix concerne les enfants de 5 à 14 ans qui liront chacun 6 livres en fonction de leur tranche d'âge. Ils choisiront leur livre lauréat au sein de leur groupe d'enfants ainsi que deux délégués qui iront défendre leur choix lors de la remise du prix en fin d'année scolaire." .
 
 ns1:Prix_Tatoulu_Tatou_Blanc a pbs:Award ;
-    rdfs:label "Prix Tatoulu : Tatou Blanc"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Tatoulu - Tatou Blanc" ;
 
 ns1:Prix_Tatoulu_Tatou_Blanc29201ef2-6a02-41ab-8d39-7cd30c71b58a a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Tatoulu_Tatou_Blanc ;
@@ -16253,8 +16309,7 @@ ns1:Prix_Tatoulu_Tatou_Blancd69bc0ac-2bdd-4ef9-a2db-eb6463f5d32d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Tatoulu_Tatou_Bleu a pbs:Award ;
-    rdfs:label "Prix Tatoulu : Tatou Bleu"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Tatoulu - Tatou Bleu" ;
 
 ns1:Prix_Tatoulu_Tatou_Bleu1cd92bef-0fe8-4ade-b2ff-077990c5b276 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Tatoulu_Tatou_Bleu ;
@@ -16302,8 +16357,7 @@ ns1:Prix_Tatoulu_Tatou_Bleufac33720-8b48-4ce1-b671-f720e9f40037 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Tatoulu_Tatou_Jaune a pbs:Award ;
-    rdfs:label "Prix Tatoulu : Tatou Jaune"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Tatoulu - Tatou Jaune" ;
 
 ns1:Prix_Tatoulu_Tatou_Jaune1872cd6d-33cc-49ee-b435-2252e4b88cfa a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Tatoulu_Tatou_Jaune ;
@@ -16351,8 +16405,7 @@ ns1:Prix_Tatoulu_Tatou_Jaunee83fd5f7-666e-4cb3-a2e3-f0c89592e04c a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Tatoulu_Tatou_Noir a pbs:Award ;
-    rdfs:label "Prix Tatoulu : Tatou Noir"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Tatoulu - Tatou Noir" ;
 
 ns1:Prix_Tatoulu_Tatou_Noir3e573513-3b9d-4593-a7ee-fbf9c71f1c00 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Tatoulu_Tatou_Noir ;
@@ -16400,8 +16453,7 @@ ns1:Prix_Tatoulu_Tatou_Noirfe030d04-1e4a-4c2a-add0-490408a70f81 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Tatoulu_Tatou_Rose a pbs:Award ;
-    rdfs:label "Prix Tatoulu : Tatou Rose"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Tatoulu - Tatou Rose" ;
 
 ns1:Prix_Tatoulu_Tatou_Rose58a207df-3c87-464c-a1fd-bb75a768ad9b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Tatoulu_Tatou_Rose ;
@@ -16449,8 +16501,7 @@ ns1:Prix_Tatoulu_Tatou_Rosef78a67fd-a8b2-426f-9224-2c8f549f7e8f a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Tatoulu_Tatou_Rouge a pbs:Award ;
-    rdfs:label "Prix Tatoulu : Tatou Rouge"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Tatoulu - Tatou Rouge" ;
 
 ns1:Prix_Tatoulu_Tatou_Rouge8815f766-1bc7-4c8c-9a79-94b2d6c1613d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Tatoulu_Tatou_Rouge ;
@@ -16498,8 +16549,7 @@ ns1:Prix_Tatoulu_Tatou_Rougef429475e-34f4-4826-8e94-cf278b15421b a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear .
 
 ns1:Prix_Tatoulu_Tatou_Vert a pbs:Award ;
-    rdfs:label "Prix Tatoulu : Tatou Vert"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Tatoulu - Tatou Vert" ;
 
 ns1:Prix_Tatoulu_Tatou_Vert330a50e3-2d95-475d-9f6c-aea34ddd1599 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Tatoulu_Tatou_Vert ;
@@ -16547,8 +16597,7 @@ ns1:Prix_Tatoulu_Tatou_Vertfd8c3544-48ed-46e8-b472-3f4f16959f3e a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Tatoulu_Tatou_Violet a pbs:Award ;
-    rdfs:label "Prix Tatoulu : Tatou Violet"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Tatoulu - Tatou Violet" ;
 
 ns1:Prix_Tatoulu_Tatou_Violet27fa9af4-7747-4deb-9639-8ad04b0d0bbd a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Tatoulu_Tatou_Violet ;
@@ -16571,8 +16620,9 @@ ns1:Prix_Tatoulu_Tatou_Violete1521598-b55e-4460-a5a1-936d2991a9c0 a mcc:MCC-E12 
     mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse a pbs:Award ;
-    rdfs:label "Prix Td De Littérature Canadienne Pour L’Enfance Et La Jeunesse"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix TD de littérature canadienne pour l'enfance et la jeunesse" ;
+    schema:description "Le Prix TD de littérature canadienne pour l'enfance et la jeunesse a été créé en 2004 et remis pour la première fois à l'automne 2005. Il récompense le livre le plus remarquable de l’année destiné à des enfants âgés de 0 à 12 ans. Ainsi, chaque année, deux prix sont attribués aux œuvres de langues française et anglaise s’étant le plus distinguées durant l’année précédente. Le prix est remis dans le cadre de la Semaine canadienne du livre pour enfants TD, gérée par le Canadian Children's Book Center. Ce prix est le plus important, exclusivement consacré à la littérature jeunesse, au Canada." .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse05d34c97-1808-400d-a7f7-e89a9c13fbf0 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
@@ -16586,10 +16636,12 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse0960adf5-97b
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse0f662a24-ae07-4d34-9aee-fbdf10f5adf0 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book5d2ebeec-4d23-4c3f-aa1f-8cc84d3e8b47 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse1203a856-fd0b-47d2-a7c7-5348fc4c97fa a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book42fa10d0-b23f-453f-922e-3b243fd7c5dc ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse173b8793-2576-460b-bebd-3fdb3df80957 a mcc:MCC-E12 ;
@@ -16609,6 +16661,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse1df17c5c-715
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse26cf854b-ba33-4678-869d-6fef90d57642 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b318 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse2f68c153-c0e6-4f4d-b000-b8bdf94d9965 a mcc:MCC-E12 ;
@@ -16618,10 +16671,12 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse2f68c153-c0e
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse3082edde-e85c-4915-873a-de0221d41dec a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book56d27355-137a-4d2d-858d-cef8d197334e ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse3e63b628-84bd-40cd-9f8a-bf59779041e4 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book0701fb86-bfb0-4486-b554-468344e650ad ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse480480e6-6a3e-4dfe-a2d0-08d554403ea7 a mcc:MCC-E12 ;
@@ -16636,23 +16691,27 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse535ba642-ee9
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse5a481d47-c877-484c-9d90-d310957702a5 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book0d73f0b9-37f0-4d9c-839a-eb4b3cfc68d2 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse676fa63a-2432-460c-80a9-096cbd6bbedd a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
     mcc:R37 ns1:Book1b4457f3-1333-4e0e-b6c1-3c6711f5e37b ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2008"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse791aabce-338b-49d9-8d02-9aac0c73297f a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book2316a916-4d0a-459b-b34e-e863dd540f1b ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse7b5af084-26c4-4b25-a113-7602e8cc3b55 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b338 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse7d59e6e3-9bcd-428f-be38-fcb00e73e2cb a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book9c414df1-d76b-447a-820c-79878739a0a1 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse85721b3c-0245-4893-8272-ed73c809ce20 a mcc:MCC-E12 ;
@@ -16667,10 +16726,12 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse9126ee91-c90
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse924958d2-ad56-4954-a156-ecfe3f44cb6b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Booka981a771-1d86-48fa-b307-f1e7b29d070a ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessea9cdf60b-aca6-41d0-b7e0-3c74a3741d85 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book6bdca487-6f03-41d9-a456-a76e510db288 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesseba5c9215-6a46-40a3-9e9c-46f223de0a2f a mcc:MCC-E12 ;
@@ -16680,6 +16741,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesseba5c9215-6a4
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessec1d28499-5e28-402e-b91f-38501a4e060e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book215cb152-7ea9-4e97-a8e2-2809af7ddd67 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessec3b2d65e-9dfa-45ac-a509-bb1d9dd64d6d a mcc:MCC-E12 ;
@@ -16689,6 +16751,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessec3b2d65e-9df
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessec73ac228-9eb2-4271-937a-35c3a7a568f0 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Bookc5f22f9d-641b-4d4b-8c02-4c7d132c4a07 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessecde2e69d-6008-41cd-b72d-ec5a08022870 a mcc:MCC-E12 ;
@@ -16698,6 +16761,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessecde2e69d-600
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessed13e934a-916e-4d06-b889-ed70a2530fa1 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book7d3c38da-2400-4778-bfc6-6f44c353e26c ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessedb8cd751-bcf4-4bc7-8892-9de91119c416 a mcc:MCC-E12 ;
@@ -16707,6 +16771,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessedb8cd751-bcf
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessee9baa9f9-5a43-4b4a-839e-8f429917fb43 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book16f981fc-60b4-4bda-a1ab-f5083ef6f8e1 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesseec27339e-f1e5-4e3f-8db5-75e82ab33130 a mcc:MCC-E12 ;
@@ -16721,6 +16786,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesseed197071-000
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesseee7f02fd-89b0-4207-99d6-5df42451e176 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Bookb6a1f8c3-7da7-41fb-98ed-e1c50f7c68fd ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessef7c13f5b-b41d-47c7-b6b1-53d40fe9dd1f a mcc:MCC-E12 ;
@@ -16730,6 +16796,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessef7c13f5b-b41
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessef9762bb0-b7ac-43e4-92b9-f390ba38b632 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse .
+    mcc:R37 ns1:Book6fad896e-62d5-4ffd-badb-a86a96b572f6 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessefafdfa4a-50fb-4ff8-b8c0-a48eeaaf30d7 a mcc:MCC-E12 ;
@@ -16738,47 +16805,58 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessefafdfa4a-50f
     mcc:MCC-R35-4 "None"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ a pbs:Award ;
-    rdfs:label "Prix Td De Littérature Jeunesse Canadienne "^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix TD de littérature canadienne pour l'enfance et la jeunesse" ;
+    schema:description "Le Prix TD de littérature canadienne pour l'enfance et la jeunesse a été créé en 2004 et remis pour la première fois à l'automne 2005. Il récompense le livre le plus remarquable de l’année destiné à des enfants âgés de 0 à 12 ans. Ainsi, chaque année, deux prix sont attribués aux œuvres de langues française et anglaise s’étant le plus distinguées durant l’année précédente. Le prix est remis dans le cadre de la Semaine canadienne du livre pour enfants TD, gérée par le Canadian Children's Book Center. Ce prix est le plus important, exclusivement consacré à la littérature jeunesse, au Canada." .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_17925cfc-3f7f-4f0a-bc1b-3abf378aeee7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book6fad896e-62d5-4ffd-badb-a86a96b572f6 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_1cc7ad07-dddd-4c14-a67e-fe22ca99ab0a a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book2ff4534a-6185-4366-8612-862cece15b92 ;
     mcc:MCC-R35-4 "2005"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_1dd34b5d-e64b-4367-a372-525ec9d92682 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book42fa10d0-b23f-453f-922e-3b243fd7c5dc ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_2d54411f-ebbf-48a6-9762-5b2b1eb77090 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book9756e976-430b-4622-9118-20c8a1bfe913 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_47a6c54d-670e-4fa8-9ec1-387812bb3965 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Booka981a771-1d86-48fa-b307-f1e7b29d070a ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_496e1c6b-23f3-4b09-89e5-07e3d991325e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book215cb152-7ea9-4e97-a8e2-2809af7ddd67 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_4b4ce633-a8b8-4e78-806d-dfcf6db5e015 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Bookc5f22f9d-641b-4d4b-8c02-4c7d132c4a07 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_5863428a-fe07-4422-b9af-ea9f9bc50950 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book2316a916-4d0a-459b-b34e-e863dd540f1b ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_60fcdb0f-88c7-4a95-ba6a-1bef49158e82 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book0701fb86-bfb0-4486-b554-468344e650ad ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_6d8fc058-08b3-455e-ac73-1e2424f75b3e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book56d27355-137a-4d2d-858d-cef8d197334e ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_6fd2b978-289a-4d19-ac4c-1caf346446ba a mcc:MCC-E12 ;
@@ -16788,26 +16866,32 @@ ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_6fd2b978-289a-4d19-ac4c-1caf3464
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_754eb62c-e705-4978-b3e8-f44e38443dcf a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book9c414df1-d76b-447a-820c-79878739a0a1 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_77e5abe1-b54e-4973-bb5d-3126203c9da9 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book16f981fc-60b4-4bda-a1ab-f5083ef6f8e1 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_c2b19a97-6aa0-4bb8-84c1-4793cb7fc1a3 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book6bdca487-6f03-41d9-a456-a76e510db288 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_cbeff05b-e31c-4652-9900-209eb1919742 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b338 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ce7e2297-742b-4b1a-b813-06f2e37a80cd a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book5d2ebeec-4d23-4c3f-aa1f-8cc84d3e8b47 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_db6e7de9-fdd8-46f9-8680-68b557400876 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ .
+    mcc:R37 ns1:Book0d73f0b9-37f0-4d9c-839a-eb4b3cfc68d2 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ee9cf9d1-cee9-4f9d-b63e-aec794d0991f a mcc:MCC-E12 ;
@@ -16816,12 +16900,17 @@ ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ee9cf9d1-cee9-4f9d-b63e-aec794d0
     mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse a pbs:Award ;
-    rdfs:label "Prix Unicef De Littérature Jeunesse"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Unicef de littérature jeunesse" ;
+    schema:description "Créé en 2016, le Prix UNICEF de la littérature jeunesse récompense des ouvrages portant le mieux les valeurs des droits de l’enfant défendues par l’organisation. Chaque année, un jury composé d'enfants (de toutes les catégories d'âge) et d'adultes (enseignants, chercheurs en littérature jeunesse, bibliothécaires, auteurs,...) présélectionne des livres selon une thématique différente. Les enfants de toute la France sont ensuite invités à voter pour leur livre préféré dans chacune des catégories proposées." .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_0_5_Ans a pbs:Award ;
-    rdfs:label "Prix Unicef De Littérature Jeunesse : Catégorie 0-5 Ans"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "0" ;
+    pbs:groupeAge "1" ;
+    pbs:groupeAge "2" ;
+    pbs:groupeAge "3" ;
+    pbs:groupeAge "4" ;
+    pbs:groupeAge "5" .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_0_5_Ans1e1478f1-a3c0-476c-8f52-fd5821936915 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_0_5_Ans .
@@ -16839,8 +16928,13 @@ ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_0_5_Ansb1f94310-2359-4318-8c
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_0_6_Ans a pbs:Award ;
-    rdfs:label "Prix Unicef De Littérature Jeunesse : Catégorie 0-6 Ans"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "0" ;
+    pbs:groupeAge "1" ;
+    pbs:groupeAge "2" ;
+    pbs:groupeAge "3" ;
+    pbs:groupeAge "4" ;
+    pbs:groupeAge "5" ;
+    pbs:groupeAge "6" .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_0_6_Ans8168fbe9-8431-45bc-aa75-64303cb6fc12 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_0_6_Ans .
@@ -16848,8 +16942,9 @@ ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_0_6_Ans8168fbe9-8431-45bc-aa
     mcc:MCC-R35-4 "2016"^^xsd:gYear .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_15_Ans a pbs:Award ;
-    rdfs:label "Prix Unicef De Littérature Jeunesse : Catégorie 13-15 Ans"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "13" ;
+    pbs:groupeAge "14" ;
+    pbs:groupeAge "15" .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_15_Ans24994aea-c539-4df4-aed0-736120ef63ca a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_15_Ans .
@@ -16863,6 +16958,7 @@ ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_15_Ans2e022fa9-ec45-4aea-
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_15_Ans3116b257-1d19-4a9a-abe1-f91df1cfed95 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_15_Ans .
+    mcc:R37 ns1:Book7e666367-c5ce-46de-ba43-2eb9ed6a9635 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_15_Ans83251ecb-bdda-4eb8-bc1a-64b4a5bb76b8 a mcc:MCC-E12 ;
@@ -16876,8 +16972,12 @@ ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_15_Ansc800547e-9d16-4cef-
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_18_Ans a pbs:Award ;
-    rdfs:label "Prix Unicef De Littérature Jeunesse : Catégorie 13-18 Ans"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "13" ;
+    pbs:groupeAge "14" ;
+    pbs:groupeAge "15" ;
+    pbs:groupeAge "16" ;
+    pbs:groupeAge "17" ;
+    pbs:groupeAge "18" .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_18_Ansf5cefd11-b48e-4b97-bc10-71af6eff541f a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_18_Ans .
@@ -16885,8 +16985,9 @@ ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_18_Ansf5cefd11-b48e-4b97-
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_3_5_Ans a pbs:Award ;
-    rdfs:label "Prix Unicef De Littérature Jeunesse : Catégorie 3-5 Ans"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "3" ;
+    pbs:groupeAge "4" ;
+    pbs:groupeAge "5" .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_3_5_Ans493ef308-54ed-4f49-9408-f71baa7aeffc a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_3_5_Ans .
@@ -16899,8 +17000,9 @@ ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_3_5_Ansd64839eb-2ee6-49ac-86
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_6_8_Ans a pbs:Award ;
-    rdfs:label "Prix Unicef De Littérature Jeunesse : Catégorie 6-8 Ans"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "6" ;
+    pbs:groupeAge "7" ;
+    pbs:groupeAge "8" .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_6_8_Ans0ba4b102-6a12-497c-b485-2b1519e218c2 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_6_8_Ans .
@@ -16933,8 +17035,10 @@ ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_6_8_Ansfa175144-e495-466b-8f
     mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_8_11_Ans a pbs:Award ;
-    rdfs:label "Prix Unicef De Littérature Jeunesse : Catégorie 8-11 Ans"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "8" ;
+    pbs:groupeAge "9" ;
+    pbs:groupeAge "10" ;
+    pbs:groupeAge "11" .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_8_11_Ansee89d48c-c2b2-444d-946b-0166d893e05c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_8_11_Ans .
@@ -16942,11 +17046,14 @@ ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_8_11_Ansee89d48c-c2b2-444d-9
     mcc:MCC-R35-4 "2016"^^xsd:gYear .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Ans a pbs:Award ;
-    rdfs:label "Prix Unicef De Littérature Jeunesse : Catégorie 9-12 Ans"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:groupeAge "9" ;
+    pbs:groupeAge "10" ;
+    pbs:groupeAge "11" ;
+    pbs:groupeAge "12" .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Ans05cc07e7-f00f-447d-af22-f05aaa5a4191 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Ans .
+    mcc:R37 ns1:Bookbaec8824-8af2-4f9a-99d5-64feafabaff9 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Ans06e373fe-4878-4046-8589-4478717ef3eb a mcc:MCC-E12 ;
@@ -16966,11 +17073,13 @@ ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Ansc4e611bb-465b-4c9d-b
 
 ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Anseb8ddacd-1210-4de7-8cee-597699642381 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Ans .
+    mcc:R37 ns1:Book62530c89-88d1-4422-8c71-8cb14e2d7ae7 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Val_Cérou a pbs:Award ;
-    rdfs:label "Prix Val Cérou"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Val Cérou" ;
+    schema:description "Le Prix Val Cérou a été créé en 2000. Il récompense un auteur de littérature de jeunesse pour une oeuvre sur l'imaginaire médiéval. Le prix est décerné dans la cité de Cordes-sur-Ciel." .
 
 ns1:Prix_Val_Cérou041002c4-729a-498a-b7d4-6f5d43e8e907 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Val_Cérou .
@@ -17019,6 +17128,7 @@ ns1:Prix_Val_Céroub651c1fa-b4a8-4850-9a10-a8a68788ddaf a mcc:MCC-E12 ;
 
 ns1:Prix_Val_Céroub7144fb8-da10-4b05-a963-9bca62f46f0b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Val_Cérou .
+    mcc:R37 ns1:Book1e4d5b27-45ae-4568-a369-f109f771b98v ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Val_Cérouba8ba049-dd94-4713-a8c7-8d6e12aa2f02 a mcc:MCC-E12 ;
@@ -17078,11 +17188,13 @@ ns1:Prix_Val_Cérouf99af670-caa9-41f4-8a12-d42669db025d a mcc:MCC-E12 ;
 
 ns1:Prix_Val_Céroufc6cabdb-732b-4c85-beb1-3e2ff8488566 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Val_Cérou .
+    mcc:R37 ns1:Book6744e4e-6bf0-4aa1-a201-59f60eb71767 ;
     mcc:MCC-R35-4 "2004"^^xsd:gYear .
 
 ns1:Prix_Vendredi a pbs:Award ;
-    rdfs:label "Prix Vendredi"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Vendredi" ;
+    schema:description "Le Prix Vendredi est un prix national et indépendant, désigné par un jury composé de professionnels, récompensant un ouvrage francophone destiné aux plus de 13 ans. Créé en 2017 à l'initiative du groupe des éditeurs de littérature Jeunesse du Syndicat national de l'édition (SNE), il a été nommé « Prix Vendredi » en référence à Michel Tournier. Avec ce prix, le SNE poursuit sa mission de promotion du livre et de la lecture et souhaite mettre en lumière la place et l’importance de la littérature Jeunesse dans le paysage éditorial francophone." .
 
 ns1:Prix_Vendredi06152aed-1e3e-4f4e-b6e9-cabbd8acfe55 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Vendredi ;
@@ -17115,8 +17227,7 @@ ns1:Prix_Vendredi942d8e99-311f-4879-a1d0-d3647a714b29 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Vendredi_Mention a pbs:Award ;
-    rdfs:label "Prix Vendredi Mention"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Vendredi - Mention" ;
 
 ns1:Prix_Vendredi_Mention1ed53c0d-094c-4f93-8476-cc676797274c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Vendredi_Mention ;
@@ -17179,8 +17290,9 @@ ns1:Prix_Vendredi_Mentionff58874a-95ec-4d5b-9c61-379f7adfa511 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_Wallonie_Bruxelles a pbs:Award ;
-    rdfs:label "Prix Wallonie-Bruxelles"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Québec/Wallonie-Bruxelles de littérature de jeunesse" ;
+    schema:description "Le Prix Québec/Wallonie-Bruxelles de littérature de jeunesse est attribué tous les deux ans simultanément à des auteurs ou à des illustrateurs du Québec et de la Communauté française de Belgique. Créé en 1978 et remis pour la première fois en 1981, le Prix Québec/Wallonie-Bruxelles de littérature de jeunesse vise à encourager le développement de la littérature de jeunesse de langue française et à faire la promotion des lauréats. La remise officielle du Prix a lieu au Salon du Livre de Jeunesse de Charleroi (octobre) et au Salon du livre de Montréal (novembre)." .
 
 ns1:Prix_Wallonie_Bruxelles073806dd-cdd1-4d8e-a3f4-a2ad1ff44305 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Wallonie_Bruxelles ;
@@ -17253,12 +17365,12 @@ ns1:Prix_Wallonie_Bruxellesd88a21f8-8779-47a7-8ba1-a303048e3295 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear .
 
 ns1:Prix_des_libraires a pbs:Award ;
-    rdfs:label "Prix des libraires"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix des libraires" ;
+    schema:description "Le Prix des libraires du Québec joue un rôle important de reconnaissance de la littérature et de promotion de la lecture et de la culture. Il fait reconnaître le rôle du libraire, qui consiste à guider et à stimuler ses client.e.s sur le terrain de la curiosité, de la connaissance et de la culture en général et il encourage la fréquentation des librairies. Cette célébration annuelle, organisée par l’Association des libraires du Québec, se veut un hommage aux auteur.trice.s, dont l’œuvre a marqué l’imaginaire des libraires au cours de l’année par son originalité et sa qualité littéraire." .
 
 ns1:Prix_des_libraires_Lauréat_2023_Essai_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréat 2023 Essai Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - Lauréat Essai" ;
 
 ns1:Prix_des_libraires_Lauréat_2023_Essai_Québecab403eec-16a2-4c58-8961-16c4be9857bd a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréat_2023_Essai_Québec .
@@ -17266,8 +17378,7 @@ ns1:Prix_des_libraires_Lauréat_2023_Essai_Québecab403eec-16a2-4c58-8961-16c4be
     mcc:MCC-R35-4 "None"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréat 2023 Poésie Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - Lauréat Poésie" ;
 
 ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec2120db9f-30c0-4b8f-958c-a9e5a2015dfc a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec .
@@ -17275,15 +17386,26 @@ ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec2120db9f-30c0-4b8f-958c-a9e5
     mcc:MCC-R35-4 "None"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréats 0-5 Ans Hors Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - Lauréat Jeunesse" ;
+    pbs:groupeAge "0" ;
+    pbs:groupeAge "1" ;
+    pbs:groupeAge "2" ;
+    pbs:groupeAge "3" ;
+    pbs:groupeAge "4" ;
+    pbs:groupeAge "5" .
 
 ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréats 0-5 Ans Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - Lauréat Jeunesse" ;
+    pbs:groupeAge "0" ;
+    pbs:groupeAge "1" ;
+    pbs:groupeAge "2" ;
+    pbs:groupeAge "3" ;
+    pbs:groupeAge "4" ;
+    pbs:groupeAge "5" .
 
 ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec6f9057af-84be-4529-8221-f09abf3f365e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec .
+    mcc:R37 ns1:Book09d0f9a8-2c20-43ae-93c4-7b1c5885e720 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec9e1be312-0628-4563-9acc-da98d0aaf40b a mcc:MCC-E12 ;
@@ -17292,15 +17414,26 @@ ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec9e1be312-0628-4563-9acc-da98d0aa
     mcc:MCC-R35-4 "None"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréats 12-17 Ans Hors Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - Lauréat Jeunesse" ;
+    pbs:groupeAge "12" ;
+    pbs:groupeAge "13" ;
+    pbs:groupeAge "14" ;
+    pbs:groupeAge "15" ;
+    pbs:groupeAge "16" ;
+    pbs:groupeAge "17" .
 
 ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréats 12-17 Ans Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - Lauréat Jeunesse" ;
+    pbs:groupeAge "12" ;
+    pbs:groupeAge "13" ;
+    pbs:groupeAge "14" ;
+    pbs:groupeAge "15" ;
+    pbs:groupeAge "16" ;
+    pbs:groupeAge "17" .
 
 ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québecc89a2182-9111-4707-946a-5bb707ac73d8 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
+    mcc:R37 ns1:Book37a93ebf-6f5c-480e-ba67-40e9e6299fca ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072dd-0cd7-4915-bb26-6bd86917c34f a mcc:MCC-E12 ;
@@ -17309,12 +17442,10 @@ ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072dd-0cd7-4915-bb26-6bd869
     mcc:MCC-R35-4 "None"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Hors_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréats 2023 Volet Adulte Hors Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - Lauréat Adulte" ;
 
 ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréats 2023 Volet Adulte Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - Lauréat Adulte" ;
 
 ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec610eb127-440f-4f88-b263-8fc11f4d46d7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec .
@@ -17323,15 +17454,26 @@ ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec610eb127-440f-4f88-b26
 
 ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québecbd72b596-9449-450a-80b1-8d46b7669fc9 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec .
+    mcc:R37 ns1:Book38f99e9a-d73d-43b4-8ffb-bbebc091de5e ;
     mcc:MCC-R35-4 "2023"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréats 6-11 Ans Hors Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - Lauréat Jeunesse" ;
+    pbs:groupeAge "6" ;
+    pbs:groupeAge "7" ;
+    pbs:groupeAge "8" ;
+    pbs:groupeAge "9" ;
+    pbs:groupeAge "10" ;
+    pbs:groupeAge "11" .
 
 ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréats 6-11 Ans Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - Lauréat Jeunesse" ;
+    pbs:groupeAge "6" ;
+    pbs:groupeAge "7" ;
+    pbs:groupeAge "8" ;
+    pbs:groupeAge "9" ;
+    pbs:groupeAge "10" ;
+    pbs:groupeAge "11" .
 
 ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec63cd2214-71ae-428a-bd9a-e67b7318f33c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec .
@@ -17344,12 +17486,10 @@ ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québecd2001158-37e5-46bd-a0d6-3cbb63e
     mcc:MCC-R35-4 "None"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Hors_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréats Bd Jeunesse Hors Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - BD Jeunesse" ;
 
 ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréats Bd Jeunesse Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - BD Jeunesse" ;
 
 ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec9350c0c7-2878-4d28-8ada-d51079755b75 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec .
@@ -17362,12 +17502,10 @@ ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québecd2151bfc-410b-46e8-af99-1a9d
     mcc:MCC-R35-4 "None"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréats Roman-Nouvelles-Récit 2023 Hors Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - Roman Nouvelles Récit" ;
 
 ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec a pbs:Award ;
-    rdfs:label "Prix des libraires : Lauréats Roman-Nouvelles-Récit 2023 Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix des libraires - Roman Nouvelles Récit" ;
 
 ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec1e94a181-def6-45ac-8c3f-83fab1816eb8 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
@@ -17380,8 +17518,9 @@ ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecb9dcce3f-9f3
     mcc:MCC-R35-4 "None"^^xsd:gYear .
 
 ns1:Révélation_Livre_Jeunesse a pbs:Award ;
-    rdfs:label "Révélation Livre Jeunesse"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Révélation Livre Jeunesse" ;
+    schema:description "La Révélation « Livre Jeunesse » de l’ADAGP (Société des auteurs dans les arts graphiques et plastiques) a été créée en partenariat avec la Charte des auteurs et illustrateurs jeunesse. Elle vise à valoriser et à encourager le travail des créateurs émergents, travaillant ou résidant en France, parmi les 12 auteurs-illustrateurs présélectionnés par le jury de la Charte pour l’opération « Voyage professionnel à la Foire de Bologne ». Depuis 2009, l’ADAGP est partenaire de la Charte, et soutient les actions de l’association en faveur de la reconnaissance, de la valorisation et de la protection des auteurs et illustrateurs jeunesse. En 2018, à l’occasion de la sixième édition du « Voyage professionnel à la Foire de Bologne », organisée en mars par la Charte et qui a permis à 12 jeunes auteurs-illustrateurs, résidant en France métropolitaine, de développer leur réseau international, l’ADAGP a lancé sa première Révélation Livre Jeunesse." .
 
 ns1:Révélation_Livre_Jeunesse2c48668a-8bb6-4533-aa05-5d883c6b2a5f a mcc:MCC-E12 ;
     pbs:award ns1:Révélation_Livre_Jeunesse .
@@ -17400,6 +17539,7 @@ ns1:Révélation_Livre_Jeunesse3a48709f-f053-4afe-8de0-6072f11628c0 a mcc:MCC-E1
 
 ns1:Révélation_Livre_Jeunessea6188297-5dd8-4322-acfb-bf5b4b35675a a mcc:MCC-E12 ;
     pbs:award ns1:Révélation_Livre_Jeunesse .
+    mcc:R37 ns1:Bookd0d867db-c6a3-4c3c-879e-7c20362f60ab ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Révélation_Livre_Jeunessed769387e-1295-4076-a132-c252905a3f9a a mcc:MCC-E12 ;
@@ -17407,17 +17547,13 @@ ns1:Révélation_Livre_Jeunessed769387e-1295-4076-a132-c252905a3f9a a mcc:MCC-E1
     mcc:R37 ns1:Bookf3e616a-f865-4c7c-a529-684092b5f50c ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
-ns1:Salon_International_Du_Livre_De_Québec a pbs:Award ;
-    rdfs:label "Salon International Du Livre De Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
-
 ns1:Tam_Tam_Du_Livre_De_Jeunesse a pbs:Award ;
-    rdfs:label "Tam-Tam Du Livre De Jeunesse"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:ROMAN ;
+    schema:name "Tam-Tam du livre de jeunesse" ;
+    schema:description "Organisé conjointement par Bayard Presse et le Salon du Livre et de la Presse Jeunesse à Montreuil, ce prix s'adresse principalement aux enfants entre 7 et 15 ans. Il s'ouvre depuis 2003 à tous les lecteurs. Il permet de proclamer les meilleurs ouvrages à partir des sélections selon deux catégories d’âge – J’aime lire pour les 7/ 10 ans et Je bouquine pour les 10/15 ans. En 2007 le magazine DLire et le réseau de librairies Canal BD rejoignent J'aime lire et Je bouquine avec deux nouveaux Tam-Tam : BD et Mangas. En 2012, le Salon du livre et de la presse jeunesse en Seine-Saint-Denis et la revue J’aime lire se recentrent sur un unique prix Tam-Tam, qui récompense le meilleur roman jeunesse destiné aux lecteurs de 8 à 12 ans. A partir de la même année le Prix DLire - Canal BD continue, mais n'est plus lié aux Tam-Tam." .
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Bande_Dessinée a pbs:Award ;
-    rdfs:label "Tam-Tam Du Livre De Jeunesse : Dlire/Canal Bd Catégorie Bande Dessinée"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Tam-Tam du livre de jeunesse - Dlire/Canal BD Catégorie bande dessinée" ;
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Bande_Dessinée05725094-c4e8-4658-83f4-1ef6d9cc774f a mcc:MCC-E12 ;
     pbs:award ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Bande_Dessinée .
@@ -17440,8 +17576,7 @@ ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Bande_Dessinéecd491c
     mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Manga a pbs:Award ;
-    rdfs:label "Tam-Tam Du Livre De Jeunesse : Dlire/Canal Bd Catégorie Manga"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Tam-Tam du livre de jeunesse - Dlire/Canal BD Catégorie Manga" ;
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Manga1a747569-f978-4973-b920-58623d73282a a mcc:MCC-E12 ;
     pbs:award ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Manga .
@@ -17464,8 +17599,7 @@ ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Mangac66592df-425f-43
     mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire a pbs:Award ;
-    rdfs:label "Tam-Tam Du Livre De Jeunesse : J'aime Lire"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Tam-Tam du livre de jeunesse - J'aime lire" ;
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire114c7f78-1c94-47cc-9d23-f8c2cf4aa09a a mcc:MCC-E12 ;
     pbs:award ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire ;
@@ -17563,8 +17697,7 @@ ns1:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Liref7b8df30-0e14-490f-b1f5-9285e78b351b
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquine a pbs:Award ;
-    rdfs:label "Tam-Tam Du Livre De Jeunesse : Je Bouquine"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Tam-Tam du livre de jeunesse - Je Bouquine" ;
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquine0f312dbb-c0bd-4903-988c-47e59de0d124 a mcc:MCC-E12 ;
     pbs:award ns1:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquine ;
