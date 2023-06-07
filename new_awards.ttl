@@ -1,12 +1,12 @@
-@base <http://example.com/base#> ;
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> ;
-@prefix owl: <http://www.w3.org/2002/07/owl#> ;
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> ;
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> ;
-@prefix ns1: <http://schema.org/> ;
-@prefix schema: <http://schema.org/> ;
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> ;
-@prefix mcc: <http://example.com/mcc#> ;
+@base <http://example.com/base#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ns1: <http://schema.org/> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mcc: <http://example.com/mcc#> .
 @prefix pbs: <http://example.com/pbs#> .
 
 ns1:Award rdfs:subClassOf ns1:Organization .
@@ -3530,7 +3530,7 @@ ns1:Prix_12_17_Brive_Montréaldfb89972-a683-44a6-a038-407baca5577b a mcc:MCC-E12
 ns1:Prix_Ado_Lisant a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:name "Prix Ado-Lisant" ;
-    schema:description "Lancé en octobre 1997 par les bibliothèques de Woluwé-Saint-Pierre, le Prix Ado-Lisant réunit, depuis, d'autres bibliothèques (les biblothèques de Woluwe-Saint-Lambert, de l’ONA, le réseau namurois de Lecture Publique et la médiathèque de Lomme (France) ainsi qu’une cinquantaine de bibliothèques relais. La formule en est toujours restée inchangée : les bibliothécaires des institutions participantes proposent à tout lecteur entre 13 et 16 ans une sélection de six livres. A ceux-ci de les classer par ordre de préférence et d'élire le livre qui remportera le Prix Ado-Lisant. Les adolescents sont également invités à rédiger, s'ils le désirent, un petit texte sur le livre qui les inspire. Les objectifs du prix sont d'amener les adolescents à lire en insistant sur la notion de "lecture-plaisir", de leur faire découvrir une littérature de qualité qui leur est spécifiquement destinée en les aidant à développer un regard critique sur leurs lectures. Le Prix Ado-Lisant est, à chaque édition, l'occasion d'organiser une soirée de clôture au cours de laquelle, les participants sont amenés à rencontrer l'un des auteurs de la sélection lors d'un débat animé par des jeunes. En 2018, le Prix Ado-Lisant devient le Label Ado-Lisant. Il n'y a plus de vote ni de gagnant, mais une sélection de livres est toujours mise en avant." .
+    schema:description "Lancé en octobre 1997 par les bibliothèques de Woluwé-Saint-Pierre, le Prix Ado-Lisant réunit, depuis, d'autres bibliothèques, les biblothèques de Woluwe-Saint-Lambert, de l’ONA, le réseau namurois de Lecture Publique et la médiathèque de Lomme (France) ainsi qu’une cinquantaine de bibliothèques relais. La formule en est toujours restée inchangée : les bibliothécaires des institutions participantes proposent à tout lecteur entre 13 et 16 ans une sélection de six livres. A ceux-ci de les classer par ordre de préférence et d'élire le livre qui remportera le Prix Ado-Lisant. Les adolescents sont également invités à rédiger, s'ils le désirent, un petit texte sur le livre qui les inspire. Les objectifs du prix sont d'amener les adolescents à lire en insistant sur la notion de lecture-plaisir, de leur faire découvrir une littérature de qualité qui leur est spécifiquement destinée en les aidant à développer un regard critique sur leurs lectures. Le Prix Ado-Lisant est, à chaque édition, l'occasion d'organiser une soirée de clôture au cours de laquelle, les participants sont amenés à rencontrer l'un des auteurs de la sélection lors d'un débat animé par des jeunes. En 2018, le Prix Ado-Lisant devient le Label Ado-Lisant. Il n'y a plus de vote ni de gagnant, mais une sélection de livres est toujours mise en avant." .
 
 ns1:Prix_Ado_Lisant02349613-4e50-46fa-a103-ae8e71f8d3ac a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Ado_Lisant ;
@@ -10188,7 +10188,7 @@ ns1:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivièresf8a64799-0c9a-4c
 ns1:Prix_Imaginales a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:name "Prix Imaginales" ;
-    schema:description "Le prix Imaginales est un prix littéraire créé en mai 2002. Il est décerné lors du festival du même nom qui se déroule chaque année à Épinal, dans les Vosges. Il récompense les meilleures œuvres de fantasy de l'année dans sept catégories: Meilleur roman francophone, Meilleur roman étranger traduit en français, Meilleure œuvre pour la jeunesse (depuis 2004), Meilleure illustration, Meilleure nouvelle, Prix spécial du jury, Meilleur album (depuis 2021). En outre, trois prix de lecteurs sont attribués chaque année par une trentaine de classes de primaires, collèges et lycées de toute la région : Prix des lycéens (depuis 2005), Prix des collégiens (depuis 2009), Prix des écoliers (depuis 2015).
+    schema:description "Le prix Imaginales est un prix littéraire créé en mai 2002. Il est décerné lors du festival du même nom qui se déroule chaque année à Épinal, dans les Vosges. Il récompense les meilleures œuvres de fantasy de l'année dans sept catégories: Meilleur roman francophone, Meilleur roman étranger traduit en français, Meilleure œuvre pour la jeunesse (depuis 2004), Meilleure illustration, Meilleure nouvelle, Prix spécial du jury, Meilleur album (depuis 2021). En outre, trois prix de lecteurs sont attribués chaque année par une trentaine de classes de primaires, collèges et lycées de toute la région : Prix des lycéens (depuis 2005), Prix des collégiens (depuis 2009), Prix des écoliers (depuis 2015)." .
 
 ns1:Prix_Imaginales11d91dd9-98e7-4acc-91c5-9eb3e8b5cee2 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Imaginales ;
@@ -11248,7 +11248,7 @@ pbs:OUVRAGE_SCIENTIFIQUE a pbs:GenreLitteraire ;
 ns1:Prix_La_Science_Se_Livre a pbs:Award ;
     pbs:genreLittéraire pbs:OUVRAGE_SCIENTIFIQUE ;
     schema:name "Prix La Science se livre" ;
-    schema:description "Afin de promouvoir l’édition scientifique et technique, le conseil général des Hauts de Seine a créé en 2001 les prix "La Science se livre". Ils sont destinés à récompenser les auteurs d’ouvrages scientifiques et techniques, de langue française et destinés au grand public dans trois catégories : adultes, jeunes (9-14 ans) et enfants (4-8 ans). Ces prix bénéficient du haut parrainage du ministère de la Recherche et du soutien du ministère de la Culture et de la Communication et du partenariat avec La Cité des sciences et de l'industrie." .
+    schema:description "Afin de promouvoir l’édition scientifique et technique, le conseil général des Hauts de Seine a créé en 2001 les prix La Science se livre. Ils sont destinés à récompenser les auteurs d’ouvrages scientifiques et techniques, de langue française et destinés au grand public dans trois catégories : adultes, jeunes (9-14 ans) et enfants (4-8 ans). Ces prix bénéficient du haut parrainage du ministère de la Recherche et du soutien du ministère de la Culture et de la Communication et du partenariat avec La Cité des sciences et de l'industrie." .
 
 ns1:Prix_La_Science_Se_Livre_Catégorie_4_8_Ans a pbs:Award ;
     pbs:groupeAge "4" ;
@@ -13924,7 +13924,7 @@ ns1:Prix_P_Tits_Mômesfed36787-9656-464c-aada-a1542b0d1b04 a mcc:MCC-E12 ;
 ns1:Prix_Petit_Angle a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:name "Prix Petit Angle" ;
-    schema:description "Ce prix, organisé par l'association Puce et pied-de-mouche et le site Chroniklivres de Pascale Pineau Le Roux, a pour but de valoriser la photographie dans les albums et romans jeunesse, d'encourager le travail photographique dans ce domaine, pour proposer des livres illustrés "autrement" aux enfants. Le jury est composé de bibliothécaires, d'enseignants, de photographes, de journalistes." .
+    schema:description "Ce prix, organisé par l'association Puce et pied-de-mouche et le site Chroniklivres de Pascale Pineau Le Roux, a pour but de valoriser la photographie dans les albums et romans jeunesse, d'encourager le travail photographique dans ce domaine, pour proposer des livres illustrés autrement aux enfants. Le jury est composé de bibliothécaires, d'enseignants, de photographes, de journalistes." .
 
 ns1:Prix_Petit_Angle043dd31a-e57e-4af1-8c4f-3593acfb0040 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Petit_Angle ;
@@ -14672,7 +14672,7 @@ ns1:Prix_Rts_Littérature_Adosfd2da637-0ed4-4aa7-886a-e20d8297f0aa a mcc:MCC-E12
 ns1:Prix_Saint_Exupéry a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:name "Prix Saint-Exupéry" ;
-    schema:description "A travers une sélection d’ouvrages de langue française qui encouragent la lecture chez les jeunes par leur qualité d’écriture et leur inspiration, le Prix Saint-Exupéry - Valeurs Jeunesse récompense depuis 1987 les œuvres littéraires destinées à la jeunesse qui portent les valeurs de l’œuvre de Saint-Exupéry et le sens de sa vie : L’audace, celle des premiers vols de nuit, Le courage de surmonter les obstacles et la volonté de survie, La solidarité en cultivant la fraternité, La sagesse : discerner et dépasser les dimensions trop matérielles.
+    schema:description "A travers une sélection d’ouvrages de langue française qui encouragent la lecture chez les jeunes par leur qualité d’écriture et leur inspiration, le Prix Saint-Exupéry - Valeurs Jeunesse récompense depuis 1987 les œuvres littéraires destinées à la jeunesse qui portent les valeurs de l’œuvre de Saint-Exupéry et le sens de sa vie : L’audace, celle des premiers vols de nuit, Le courage de surmonter les obstacles et la volonté de survie, La solidarité en cultivant la fraternité, La sagesse : discerner et dépasser les dimensions trop matérielles." .
 
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse a pbs:Award ;
     schema:name "Prix Saint-Exupéry - Valeurs Jeunesse" .
@@ -17777,4 +17777,4 @@ ns1:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquinee9eb2734-0eee-4599-8e28-c5640500f30a
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquineef3269ac-1632-4d31-9f64-fb60db4ec68a a mcc:MCC-E12 ;
     pbs:award ns1:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquine ;
     mcc:R37 ns1:Book1ce6f5bb-3223-4dcb-aa4b-0f6dafe70fc6 ;
-    mcc:MCC-R35-4 "1998"^^xsd:gYear ;
+    mcc:MCC-R35-4 "1998"^^xsd:gYear .
