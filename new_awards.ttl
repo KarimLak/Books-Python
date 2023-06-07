@@ -13787,8 +13787,9 @@ ns1:Prix_Mangawa_Catégorie_Shonenf12ea853-6aa5-44ab-8cf4-63b4df849313 a mcc:MCC
     mcc:MCC-R35-4 "2008"^^xsd:gYear .
 
 ns1:Prix_Nénuphar_De_L_Album_Jeunesse a pbs:Award ;
-    rdfs:label "Prix Nénuphar De L'Album Jeunesse"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Nénuphar de l'album jeunesse" ;
+    schema:description "Créé en mai 2014 par trois documentalistes dunkerquoises (France Reynaud, collège Van Hecke ; Catherine Sellam, collège Guilleminot ; Sophie Hirsch, collège Notre Dame de Wormhout) et en collaboration avec Sylvie Naessens, libraire (La Mare aux Diables), le Prix Nénuphar répond à plusieurs volontés : Créer une dynamique entre les différents acteurs du livre : auteur, illustrateur, libraire, documentaliste, professeur, lecteur. Proposer aux élèves des livres de qualité tant d’un point de vue littéraire que graphique afin de développer chez chacun, le goût de la lecture. Valoriser l’album et montrer qu’il n’est pas seulement réservé aux plus jeunes. Développer la liaison Ecole-Collège en proposant un outil pérenne mais renouvelé chaque année." .
 
 ns1:Prix_Nénuphar_De_L_Album_Jeunesse3149c9a8-e003-4592-bf66-6822a03e278e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Nénuphar_De_L_Album_Jeunesse .
@@ -13797,6 +13798,7 @@ ns1:Prix_Nénuphar_De_L_Album_Jeunesse3149c9a8-e003-4592-bf66-6822a03e278e a mcc
 
 ns1:Prix_Nénuphar_De_L_Album_Jeunesse5082525e-0e8b-4d7c-8e02-ddf259798a6f a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Nénuphar_De_L_Album_Jeunesse .
+    mcc:R37 ns1:Book89b7db3-7e3f-496a-8f7d-12fdcb8aeaa4665 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear .
 
 ns1:Prix_Nénuphar_De_L_Album_Jeunesse5f7ba57f-61b5-4b99-895b-8b080fc92171 a mcc:MCC-E12 ;
@@ -13821,6 +13823,7 @@ ns1:Prix_Nénuphar_De_L_Album_Jeunesseb89f3a9d-4663-4299-ba09-a888ad2bc593 a mcc
 
 ns1:Prix_Nénuphar_De_L_Album_Jeunesseeb828231-ce63-4f11-bad4-1f7076137f8c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Nénuphar_De_L_Album_Jeunesse .
+    mcc:R37 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b270 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_Nénuphar_De_L_Album_Jeunesseffc06929-28a3-435a-b361-7f9d6cd22fe6 a mcc:MCC-E12 ;
@@ -13829,8 +13832,9 @@ ns1:Prix_Nénuphar_De_L_Album_Jeunesseffc06929-28a3-435a-b361-7f9d6cd22fe6 a mcc
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_P_Tits_Mômes a pbs:Award ;
-    rdfs:label "Prix P'Tits Mômes"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix P’tits Mômes" ;
+    schema:description "Crée en 2006 par les Bibliothèques municipales de Genève, le Prix P’tits Mômes est l’un des rares prix littéraires décerné par des enfants de 2 à 4 ans. La sélection porte sur 4 ouvrages récents diffusés dans les crèches, les jardins d’enfants et les bibliothèques de la ville de Genève. Plus de 1’800 enfants participent annuellement à ce prix qui est attribué au mois de mai lors d’une cérémonie qui leur permet de rencontrer le-la lauréat-e.  Avec ce prix, les Bibliothèques municipales permettent à ce jeune public d’aborder les livres de manière originale mais également, de développer leur sens critique. Découvrez la vidéo des coulisses du Prix Pt’its Mômes 2017." . 
 
 ns1:Prix_P_Tits_Mômes12f73982-4bd5-4251-bc88-b3e31a433a1e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_P_Tits_Mômes .
@@ -13869,6 +13873,7 @@ ns1:Prix_P_Tits_Mômes98c63e76-dd81-43c9-bd88-e5785c506ee6 a mcc:MCC-E12 ;
 
 ns1:Prix_P_Tits_Mômesbbeddc12-a6ce-4697-b2d0-b07ec5c24eec a mcc:MCC-E12 ;
     pbs:award ns1:Prix_P_Tits_Mômes .
+    mcc:R37 ns1:Book32e08fe-c48e-4fae-8b7c-57e179c4a3a5 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear .
 
 ns1:Prix_P_Tits_Mômesbc75f90a-642a-4b6b-9654-36c31ee03665 a mcc:MCC-E12 ;
@@ -13878,10 +13883,12 @@ ns1:Prix_P_Tits_Mômesbc75f90a-642a-4b6b-9654-36c31ee03665 a mcc:MCC-E12 ;
 
 ns1:Prix_P_Tits_Mômesc0ee5b7f-24d4-4c57-86b3-30d00330b9a7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_P_Tits_Mômes .
+    mcc:R37 ns1:Book25c9a81-8d57-4e0a-8e8e-5e5256f1448a92 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_P_Tits_Mômesd55d16d7-7112-41d2-8147-b0dd54ff2e3b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_P_Tits_Mômes .
+    mcc:R37 ns1:Book35c98e4-1962-4a5e-8e7b-89f6158246b181 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear .
 
 ns1:Prix_P_Tits_Mômesd59c26ca-2e0b-46f4-80bb-9a5df7d1d45a a mcc:MCC-E12 ;
@@ -13915,8 +13922,9 @@ ns1:Prix_P_Tits_Mômesfed36787-9656-464c-aada-a1542b0d1b04 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear .
 
 ns1:Prix_Petit_Angle a pbs:Award ;
-    rdfs:label "Prix Petit Angle"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Petit Angle" ;
+    schema:description "Ce prix, organisé par l'association Puce et pied-de-mouche et le site Chroniklivres de Pascale Pineau Le Roux, a pour but de valoriser la photographie dans les albums et romans jeunesse, d'encourager le travail photographique dans ce domaine, pour proposer des livres illustrés "autrement" aux enfants. Le jury est composé de bibliothécaires, d'enseignants, de photographes, de journalistes." .
 
 ns1:Prix_Petit_Angle043dd31a-e57e-4af1-8c4f-3593acfb0040 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Petit_Angle ;
@@ -13939,8 +13947,7 @@ ns1:Prix_Petit_Angle9c400341-1215-4cf3-9d3e-1d81471d4e59 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Petit_Angle_Petit_Angle_Étranger a pbs:Award ;
-    rdfs:label "Prix Petit Angle : Petit Angle Étranger"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Petit Angle - Étranger" ;
 
 ns1:Prix_Petit_Angle_Petit_Angle_Étranger2e46586c-52f9-4a81-8e6c-ead801ff4c02 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Petit_Angle_Petit_Angle_Étranger .
@@ -13948,12 +13955,10 @@ ns1:Prix_Petit_Angle_Petit_Angle_Étranger2e46586c-52f9-4a81-8e6c-ead801ff4c02 a
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Petit_Angle_Prix_Spécial a pbs:Award ;
-    rdfs:label "Prix Petit Angle : Prix Spécial"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Petit Angle - Prix Spécial" ;
 
 ns1:Prix_Petit_Angle_Prix_Spécial_Du_Jury a pbs:Award ;
-    rdfs:label "Prix Petit Angle : Prix Spécial Du Jury"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    schema:name "Prix Petit Angle - Prix Spécial du Jury" ;
 
 ns1:Prix_Petit_Angle_Prix_Spécial_Du_Juryae44c494-e897-472a-ae3d-0b7e33b5d642 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Petit_Angle_Prix_Spécial_Du_Jury .
@@ -13976,8 +13981,9 @@ ns1:Prix_Petit_Angled47ccfe9-23fb-4648-9b90-a45e1f2c82fa a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear .
 
 ns1:Prix_Pierre_Bottero a pbs:Award ;
-    rdfs:label "Prix Pierre Bottero"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:ROMAN ;
+    schema:name "Prix Pierre Bottero" ;
+    schema:description "Le Prix Pierre Bottero a été créé en 2015 par la médiathèque de Meyzieu, à l’occasion de la deuxième édition du festival Les Oniriques. Il récompense un roman de l’imaginaire pour les adolescents. Il est décerné par des lecteurs adolescents de l’Est lyonnais en souvenir de l’auteur du même nom." .
 
 ns1:Prix_Pierre_Bottero9c47f113-1fe1-432d-b78a-451a46e1647f a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Pierre_Bottero ;
@@ -14000,8 +14006,9 @@ ns1:Prix_Pierre_Botteroedbcb0f3-3ac0-49fa-9710-b31701d64afa a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Pitchou a pbs:Award ;
-    rdfs:label "Prix Pitchou"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Pitchou" ;
+    schema:description "Créé en 1995 par la Fête du livre de jeunesse de Saint-Paul-Trois-Châteaux, le prix Pitchou récompense le meilleur album pour touts-petits de l'année. Un comité de lecture, composé de bibliothécaires et organisateurs de la Fête du livre jeunesse, établit une sélection d’une dizaine de titres parmi les publications de l’année. Celle-ci est ensuite examinée par les membres du jury, des professionnels du livre de jeunesse. Il est décerné à l'auteur, chaque année, lors de salon." .
 
 ns1:Prix_Pitchou0338156b-8cf5-471a-bea9-da886b1d2b40 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Pitchou ;
@@ -14158,9 +14165,13 @@ ns1:Prix_Pitchoudfc60a3f-f4ec-4ea6-aac4-65dd04c60dce a mcc:MCC-E12 ;
     mcc:R37 ns1:Booka672a43-5d89-4de5-bd13-986a54d9cc3c60 ;
     mcc:MCC-R35-4 "1996"^^xsd:gYear .
 
+pbs:POESIE a pbs:GenreLitteraire ;
+    rdfs:label "Poésie"^^xsd:string .
+
 ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire a pbs:Award ;
-    rdfs:label "Prix Poésie Des Lecteurs Lire Et Faire Lire"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:POESIE ;
+    schema:name "Prix Poésie des lecteurs Lire et faire lire" ;
+    schema:description "Le Prix Poésie des lecteurs Lire et faire lire est organisé par l’association du même nom pour la promotion du plaisir de la lecture auprès des enfants. Grâce à un partenariat avec Le Printemps des poètes, des lecteurs volontaires lisent, de septembre à mi-février, les textes de 5 recueils au cours des séances de lecture Lire et faire lire. Parmi ces 5 recueils, les lecteurs doivent choisir un lauréat en répondant à la question suivante : Lequel de ces recueils souhaiteriez-vous voir entre les mains des enfants ? Pour faire un choix, les lecteurs doivent se souvenir du ressenti et des réactions des enfants en tenant compte de leurs expériences dans la classe. Attention ! Il n’est pas nécessaire que tous les bénévoles d’un département participent : un secteur ou une seule personne peuvent être inscrits (les inscriptions sont closes fin septembre)." .
 
 ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire042bf93a-7b4e-4090-a514-3e8e665f0b3c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire .
@@ -14189,6 +14200,7 @@ ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire59815a47-a445-482d-96d2-c4483480
 
 ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire68f8048f-2cc0-408f-8b64-243b858f3124 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire .
+    mcc:R37 ns1:Bookc7e0b69-8113-40d2-aa18-5c63a8c7b4a6 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire6a15dfcf-aec1-4d22-b5a0-019aba5c7564 a mcc:MCC-E12 ;
@@ -14203,6 +14215,7 @@ ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire702caded-029e-4461-ac14-e3efb14f
 
 ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire8d8f87ea-9a3a-4b34-bb7a-09c86e3eb2ae a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire .
+    mcc:R37 ns1:Book81fc435-9487-4e51-9c61-4bcf29f875a4 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire9aba5f3e-0757-488e-8cf2-927ecd1fb815 a mcc:MCC-E12 ;
@@ -14256,8 +14269,9 @@ ns1:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Liree34e4bd0-ecbe-4c38-b44b-bed81e6b
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Première_Oeuvre_En_Littérature_De_Jeunesse a pbs:Award ;
-    rdfs:label "Prix Première Oeuvre En Littérature De Jeunesse"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Première Oeuvre en littérature de jeunesse" ;
+    schema:description "Le Prix Première Oeuvre en littérature de jeunesse, attribué par la Fédération Wallonie-Bruxelles depuis 2019, récompense un premier ouvrage en littérature jeunesse." . 
 
 ns1:Prix_Première_Oeuvre_En_Littérature_De_Jeunesse0f79b24b-0d5b-4847-98c1-f103eb4740aa a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Première_Oeuvre_En_Littérature_De_Jeunesse .
@@ -14279,8 +14293,9 @@ ns1:Prix_Première_Oeuvre_En_Littérature_De_Jeunesse86555c7b-f0b1-44ea-aa82-726
     mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Première_Victor_Du_Livre_Jeunesse a pbs:Award ;
-    rdfs:label "Prix Première Victor Du Livre Jeunesse"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Première Victor du Livre jeunesse" ;
+    schema:description "La RTBF (Radio-télévision belge francophone de service public) et le Fonds Victor ont lancé, en octobre 2018, un prix de littérature jeunesse, le Prix Première Victor du Livre jeunesse. Ce Prix a une double originalité. D’abord, il s’adresse à des jeunes de 12 à 15 ans, une tranche d’âge jusqu’ici peu sollicitée. Il leur propose une sélection de cinq livres de qualité. Les jeunes sont invités à les lire (à l’école, dans des groupes de lecture, des bibliothèques, des écoles de devoirs, académies, mouvements de jeunesse…) et à voter pour celui qu’ils préfèrent. Ensuite, il veut valoriser toute la chaîne du livre belge francophone, en faisant mieux connaître les auteurs et traducteurs de la Fédération Wallonie-Bruxelles." .
 
 ns1:Prix_Première_Victor_Du_Livre_Jeunesse58c4014d-cbca-4470-b0f1-23a1e84b63ab a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Première_Victor_Du_Livre_Jeunesse .
@@ -14308,43 +14323,53 @@ ns1:Prix_Première_Victor_Du_Livre_Jeunesseed3c298b-6427-4444-8eaa-e2bc62bc60f8 
     mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_Québec a pbs:Award ;
-    rdfs:label "Prix Québec"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Québec/Wallonie-Bruxelles de littérature de jeunesse" ;
+    schema:description "Le Prix Québec/Wallonie-Bruxelles de littérature de jeunesse est attribué tous les deux ans simultanément à des auteurs ou à des illustrateurs du Québec et de la Communauté française de Belgique. Créé en 1978 et remis pour la première fois en 1981, le Prix Québec/Wallonie-Bruxelles de littérature de jeunesse vise à encourager le développement de la littérature de jeunesse de langue française et à faire la promotion des lauréats. La remise officielle du Prix a lieu au Salon du Livre de Jeunesse de Charleroi (octobre) et au Salon du livre de Montréal (novembre)." .
 
 ns1:Prix_Québec1e50f079-c160-4a06-9cbe-1079561cd2af a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Booka1cbb8d5-ddd0-44ad-9e30-acd9274ea94b ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear .
 
 ns1:Prix_Québec431e8c89-6ddc-4557-8df5-203309f82c42 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Bookd5612b85-f963-46af-9df4-b817c466d66a ;
     mcc:MCC-R35-4 "1998"^^xsd:gYear .
 
 ns1:Prix_Québec4388bf38-ff6c-41c7-aa39-cf9e3441ccb7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Book746b1c28-d388-4c8e-8a9a-91ba709e6457 ;
     mcc:MCC-R35-4 "1988"^^xsd:gYear .
 
 ns1:Prix_Québec46f5e4ea-38c8-478c-a117-c5c622b63d5b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Book12af92d2-138a-4c61-849d-ba9f4dd84ba7 ;
     mcc:MCC-R35-4 "1994"^^xsd:gYear .
 
 ns1:Prix_Québec4c21e32f-d68b-4463-aa9c-6179bcc50770 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Book8c2d3b3e-c031-43dd-ac85-036d88d6cb6b ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear .
 
 ns1:Prix_Québec58e12e1b-1e3e-498a-ba48-a5192d75424d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Book7eac7aa9-efbd-4123-887e-62749383796f ;
     mcc:MCC-R35-4 "1982"^^xsd:gYear .
 
 ns1:Prix_Québec72a7b43e-06ef-4b42-b257-6fcf377ddd7c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Book171f4eed-3bdf-4d80-b7fe-0e178372a5bc ;
     mcc:MCC-R35-4 "1996"^^xsd:gYear .
 
 ns1:Prix_Québec78a6afa1-5d2e-4bee-9dac-1e5fc7dbcc45 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Book8062cdfc-ea7a-4ac4-8a4c-ffdd6ec68a42 ;
     mcc:MCC-R35-4 "1992"^^xsd:gYear .
 
 ns1:Prix_Québec98eb2be0-f470-4062-995f-f171ecebf936 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Book7d5e1306-b75e-4984-ba09-b8a0cf882d27 ;
     mcc:MCC-R35-4 "2002"^^xsd:gYear .
 
 ns1:Prix_Québec9e10c46c-4479-49b7-9e7d-83cbd7b19944 a mcc:MCC-E12 ;
@@ -14353,100 +14378,119 @@ ns1:Prix_Québec9e10c46c-4479-49b7-9e7d-83cbd7b19944 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxelles a pbs:Award ;
-    rdfs:label "Prix Québec / Wallonie-Bruxelles"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Québec/Wallonie-Bruxelles de littérature de jeunesse" ;
+    schema:description "Le Prix Québec/Wallonie-Bruxelles de littérature de jeunesse est attribué tous les deux ans simultanément à des auteurs ou à des illustrateurs du Québec et de la Communauté française de Belgique. Créé en 1978 et remis pour la première fois en 1981, le Prix Québec/Wallonie-Bruxelles de littérature de jeunesse vise à encourager le développement de la littérature de jeunesse de langue française et à faire la promotion des lauréats. La remise officielle du Prix a lieu au Salon du Livre de Jeunesse de Charleroi (octobre) et au Salon du livre de Montréal (novembre)." .
 
 ns1:Prix_Québec_Wallonie_Bruxelles028b5886-70a4-4641-8ba6-8163d06970f6 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Bookc16bd802-1ba8-4e24-aba0-414ca4b9392e ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxelles0ce31723-0885-4018-abd4-94f084bf04aa a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b35c ;
     mcc:MCC-R35-4 "2000"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxelles21b4b3dc-4a71-414b-80f3-5377b2c863bd a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Book10e61647-96ae-463d-bacb-58a999cb4963 ;
     mcc:MCC-R35-4 "1990"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxelles3e7f1e27-3134-4f6d-84f8-cea6b0b13156 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Bookd5612b85-f963-46af-9df4-b817c466d66a ;
     mcc:MCC-R35-4 "1998"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxelles49525a7f-8edb-458a-a4ae-986f769367b8 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Book8c2d3b3e-c031-43dd-ac85-036d88d6cb6b ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxelles5270d2bf-923d-4ca9-9ece-ef99ac8b6b4b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Book746b1c28-d388-4c8e-8a9a-91ba709e6457 ;
     mcc:MCC-R35-4 "1988"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxelles6894636a-9b28-4c64-aa19-c2893d901dbc a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Book8062cdfc-ea7a-4ac4-8a4c-ffdd6ec68a42 ;
     mcc:MCC-R35-4 "1992"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxelles79225264-870e-425c-ae05-da7ce7d34810 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Book3dee401c-1584-4d24-8e10-003be7978070 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxellesa18601ad-4ab3-4192-ab63-300bff9745f7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Book54d572bb-dd86-4817-8446-f5bc2ebb8244 ;
     mcc:MCC-R35-4 "2004"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxellesac11b7ce-b240-4db0-9628-862a77eb4e71 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Book7eac7aa9-efbd-4123-887e-62749383796f ;
     mcc:MCC-R35-4 "1982"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxellesb7987893-b885-43de-84e3-ef187ada9e1d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Bookbdcefb6d-5aa2-402b-a678-d2a8b59ff5dc ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxellescceca8ce-1355-427d-ae58-4adada1fe7a7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Book171f4eed-3bdf-4d80-b7fe-0e178372a5bc ;
     mcc:MCC-R35-4 "1996"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxellese99d35cb-6a11-45e9-b676-66061b7dca42 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Book32415515-b16c-4dc5-88b7-655d98b17fd8 ;
     mcc:MCC-R35-4 "1985"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxellesebdd5ac1-63d7-4eae-bf20-1ef8521fe740 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Book7d5e1306-b75e-4984-ba09-b8a0cf882d27 ;
     mcc:MCC-R35-4 "2002"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxellesee70b6df-fcfb-480d-afa3-701e664d75c4 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Booka1cbb8d5-ddd0-44ad-9e30-acd9274ea94b ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear .
 
 ns1:Prix_Québec_Wallonie_Bruxellesfa4aab2f-4c14-4f40-83b2-4ab420960c36 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec_Wallonie_Bruxelles .
+    mcc:R37 ns1:Book12af92d2-138a-4c61-849d-ba9f4dd84ba7 ;
     mcc:MCC-R35-4 "1994"^^xsd:gYear .
 
 ns1:Prix_Québeca6cc4005-2fa1-415b-8dd7-3fcb40f4b2af a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Bookc16bd802-1ba8-4e24-aba0-414ca4b9392e ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Québecae00c72f-175f-4dc5-aed0-69c26ee0090d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Book3eb38b45-6082-41ac-9466-0f3a7b42b35c ;
     mcc:MCC-R35-4 "2000"^^xsd:gYear .
 
 ns1:Prix_Québecc3825360-9553-4458-9875-8a64a14ac7b5 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Book32415515-b16c-4dc5-88b7-655d98b17fd8 ;
     mcc:MCC-R35-4 "1985"^^xsd:gYear .
 
 ns1:Prix_Québeccd18a150-7c59-42d4-a38a-1d3149e0dcbe a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Book54d572bb-dd86-4817-8446-f5bc2ebb8244 ;
     mcc:MCC-R35-4 "2005"^^xsd:gYear .
 
 ns1:Prix_Québecd0683cd2-bee8-43bc-8e87-b39107d85bf1 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Book3dee401c-1584-4d24-8e10-003be7978070 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Québecd3746fca-4b3a-4c7c-bcfd-e0379b5d6f0e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Québec .
+    mcc:R37 ns1:Book10e61647-96ae-463d-bacb-58a999cb4963 ;
     mcc:MCC-R35-4 "1990"^^xsd:gYear .
-
-ns1:Prix_Raymond_Plante a pbs:Award ;
-    rdfs:label "Prix Raymond-Plante"^^xsd:string ;
-    ns1:description "An award for the science enquiry in the field of scientific policing" .
 
 ns1:Prix_Real a pbs:Award ;
     rdfs:label "Prix Real"^^xsd:string ;
