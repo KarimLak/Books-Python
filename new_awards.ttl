@@ -3949,7 +3949,7 @@ ns1:Prix_Alvine_Bélisle9a5bcdf6-f5b5-422a-b1b2-49b989adc7f2 a mcc:MCC-E12 ;
 ns1:Prix_Alvine_Bélisle9e62bc99-79a9-4307-8500-69f4948f8524 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Alvine_Bélisle ;
     mcc:R37 ns1:Book8cae18da-1f33-4332-b487-d16df16e55d6 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2014"^^xsd:gYear .
 
 ns1:Prix_Alvine_Bélisle_Mention_Spéciale a pbs:Award ;
     schema:name "Prix Alvine-Bélisle - Mention Spéciale" .
@@ -16627,12 +16627,12 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse a pbs:Award
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse05d34c97-1808-400d-a7f7-e89a9c13fbf0 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Book4ec90321-5de5-4ec1-948f-5f9d0a3a6c25 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2019"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse0960adf5-97b4-4d7f-a9cf-589bf0579188 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Bookd4a94ec9-7d33-49e3-97b5-4d17ad84db19 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2016"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse0f662a24-ae07-4d34-9aee-fbdf10f5adf0 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
@@ -16647,17 +16647,17 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse1203a856-fd0
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse173b8793-2576-460b-bebd-3fdb3df80957 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Book576fd2a0-9f7a-4101-8351-2e27a4359a4d ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2007"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse1b8c874b-0be2-48e3-af11-ae2a4e8975bc a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Book4dd1e0b7-7e5a-49b3-a4e6-55a6ac4d9e95 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2004"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse1df17c5c-715a-49a9-b0e9-568a0b49d0ec a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Book6a9f3ed9-8af3-4b1c-87b1-4a8d20b36a9e ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2015"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse26cf854b-ba33-4678-869d-6fef90d57642 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
@@ -16667,7 +16667,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse26cf854b-ba3
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse2f68c153-c0e6-4f4d-b000-b8bdf94d9965 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Booka2d7e628-0f34-4e8c-bf44-f2aa3a8a5b18 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2009"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse3082edde-e85c-4915-873a-de0221d41dec a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
@@ -16682,12 +16682,12 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse3e63b628-84b
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse480480e6-6a3e-4dfe-a2d0-08d554403ea7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Bookdbe2aa9e-4c19-4685-94ef-7734cf6df295 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2021"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse535ba642-ee9c-4c83-9b2e-ac403b4e9222 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Bookc9bce53b-8425-4d64-ba56-3e318dfc97c9 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2020"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse5a481d47-c877-484c-9d90-d310957702a5 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
@@ -16717,12 +16717,12 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse7d59e6e3-9bc
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse85721b3c-0245-4893-8272-ed73c809ce20 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Bookc3a72983-5c7b-4c9b-98b1-94a23c17d6f5 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2013"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse9126ee91-c903-44b8-8854-5672e658f712 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Book883e43e5-0f5e-46a5-a8a7-7f8c7b0e4a15 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2014"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse924958d2-ad56-4954-a156-ecfe3f44cb6b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
@@ -16737,7 +16737,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessea9cdf60b-aca
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesseba5c9215-6a46-40a3-9e9c-46f223de0a2f a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Book9ebd49f3-42b7-4ef0-afe3-4a4e4e4e685b ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2006"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessec1d28499-5e28-402e-b91f-38501a4e060e a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
@@ -16747,7 +16747,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessec1d28499-5e2
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessec3b2d65e-9dfa-45ac-a509-bb1d9dd64d6d a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Bookc8d8e97c-1f5f-4de1-87a5-5e65e7eae01c ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2012"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessec73ac228-9eb2-4271-937a-35c3a7a568f0 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
@@ -16757,7 +16757,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessec73ac228-9eb
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessecde2e69d-6008-41cd-b72d-ec5a08022870 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Bookaf4a0f4e-7217-4a6b-9c1f-4e1024c2d851 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2004"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessed13e934a-916e-4d06-b889-ed70a2530fa1 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
@@ -16767,7 +16767,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessed13e934a-916
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessedb8cd751-bcf4-4bc7-8892-9de91119c416 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Book25b6e934-39f4-4b29-9509-8b6e6cbb9c96 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessee9baa9f9-5a43-4b4a-839e-8f429917fb43 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
@@ -16777,12 +16777,12 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessee9baa9f9-5a4
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesseec27339e-f1e5-4e3f-8db5-75e82ab33130 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Book0d4f2af3-5b68-4a37-a7b4-ff48d3a3e5c9 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2017"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesseed197071-0007-4d41-838b-2320b9e9c68f a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Book204fd1e5-9810-4d4e-8b89-5e0e89f827d0 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2018"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesseee7f02fd-89b0-4207-99d6-5df42451e176 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
@@ -16792,7 +16792,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesseee7f02fd-89b
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessef7c13f5b-b41d-47c7-b6b1-53d40fe9dd1f a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Book6eb6cbea-1c72-4f3b-b8e9-9c6f9af9e8e1 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2011"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessef9762bb0-b7ac-43e4-92b9-f390ba38b632 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
@@ -16802,7 +16802,7 @@ ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessef9762bb0-b7a
 ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunessefafdfa4a-50fb-4ff8-b8c0-a48eeaaf30d7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse ;
     mcc:R37 ns1:Bookc9b9e5d2-8c23-4ee9-8ff3-9e07dc4c1ee9 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2010"^^xsd:gYear .
 
 ns1:Prix_Td_De_Littérature_Jeunesse_Canadienne_ a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
@@ -17375,7 +17375,7 @@ ns1:Prix_des_libraires_Lauréat_2023_Essai_Québec a pbs:Award ;
 ns1:Prix_des_libraires_Lauréat_2023_Essai_Québecab403eec-16a2-4c58-8961-16c4be9857bd a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréat_2023_Essai_Québec ;
     mcc:R37 ns1:Book43e81266-41b1-4217-99c4-cdb72dfc576d ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec a pbs:Award ;
     schema:name "Prix des libraires - Lauréat Poésie" .
@@ -17383,7 +17383,7 @@ ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec a pbs:Award ;
 ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec2120db9f-30c0-4b8f-958c-a9e5a2015dfc a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec ;
     mcc:R37 ns1:Book200b7bf3-b9f2-45bc-97a4-86d3a0f96981 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec a pbs:Award ;
     schema:name "Prix des libraires - Lauréat Jeunesse" ;
@@ -17411,7 +17411,7 @@ ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec6f9057af-84be-4529-8221-f09abf3f
 ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec9e1be312-0628-4563-9acc-da98d0aaf40b a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec ;
     mcc:R37 ns1:Book780c50c6-67dc-40fd-a551-c41ae48b245b ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec a pbs:Award ;
     schema:name "Prix des libraires - Lauréat Jeunesse" ;
@@ -17439,7 +17439,7 @@ ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québecc89a2182-9111-4707-946a-5bb707
 ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072dd-0cd7-4915-bb26-6bd86917c34f a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec ;
     mcc:R37 ns1:Book6a853c48-0244-4f12-ad6a-c544dbbfb081 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Hors_Québec a pbs:Award ;
     schema:name "Prix des libraires - Lauréat Adulte" .
@@ -17450,7 +17450,7 @@ ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec a pbs:Award ;
 ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec610eb127-440f-4f88-b263-8fc11f4d46d7 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec ;
     mcc:R37 ns1:Book3593af2c-0b73-47a4-b546-3d375d568697 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québecbd72b596-9449-450a-80b1-8d46b7669fc9 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec ;
@@ -17478,12 +17478,12 @@ ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec a pbs:Award ;
 ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec63cd2214-71ae-428a-bd9a-e67b7318f33c a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec ;
     mcc:R37 ns1:Book65c5f988-25ce-4e8f-8314-c409efd26d75 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québecd2001158-37e5-46bd-a0d6-3cbb63ead80f a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec ;
     mcc:R37 ns1:Booke3bf6789-5496-496a-957c-ac3568471023 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Hors_Québec a pbs:Award ;
     schema:name "Prix des libraires - BD Jeunesse" .
@@ -17494,12 +17494,12 @@ ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec a pbs:Award ;
 ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec9350c0c7-2878-4d28-8ada-d51079755b75 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec ;
     mcc:R37 ns1:Book227eba09-1174-4a55-863e-96a6faad9765 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québecd2151bfc-410b-46e8-af99-1a9d58d4fa24 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec ;
     mcc:R37 ns1:Book2e99dd44-0bc8-4934-a1a1-13cbfcfe3ca7 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec a pbs:Award ;
     schema:name "Prix des libraires - Roman Nouvelles Récit" .
@@ -17510,12 +17510,12 @@ ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec a pbs:Award
 ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec1e94a181-def6-45ac-8c3f-83fab1816eb8 a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec ;
     mcc:R37 ns1:Book40eb9b7c-e6ea-4722-a837-c4344e5018d8 ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecb9dcce3f-9f35-4cb4-9006-d655959284af a mcc:MCC-E12 ;
     pbs:award ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec ;
     mcc:R37 ns1:Book05e098f1-a21f-4aff-8176-83321035150d ;
-    mcc:MCC-R35-4 "None"^^xsd:gYear .
+    mcc:MCC-R35-4 "2022"^^xsd:gYear .
 
 ns1:Révélation_Livre_Jeunesse a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
