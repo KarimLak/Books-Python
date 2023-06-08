@@ -1,23 +1,15 @@
-def add_url_attribute(file_path, output_file_path, url_string):
-    with open(file_path, 'r') as f:
+def create_award_file(input_file_path, output_file_path):
+    with open(input_file_path, 'r') as f:
         content = f.readlines()
 
-    new_content = []
-    current_block = []
+    awards = []
     for line in content:
-        current_block.append(line)
-        if line.strip().endswith('.'):
-            # Process the block
-            if not any('ns1:url' in l for l in current_block):
-                # Add the URL attribute if not present
-                current_block.insert(-1, f'    ns1:url "{url_string}"^^xsd:string ;\n')
-            new_content.extend(current_block)
-            current_block = []
+        if line.strip().endswith('mcc:MCC-E12 ;'):
+            award = line.strip().split(' ')[0] + ',\n'
+            awards.append(award)
 
     with open(output_file_path, 'w') as f:
-        for line in new_content:
-            f.write(line)
+        f.writelines(awards)
 
 
-url_string = "https://livresgg.ca/gagnants-et-finalistes-precedents"
-add_url_attribute('./missing_output_1.ttl', './missing_output_1.ttl', url_string)
+create_award_file('./updated_award_blocks.ttl', './awards_list.txt')
