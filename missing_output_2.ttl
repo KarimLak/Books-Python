@@ -8,7 +8,7 @@ ns1:Book002331cc-5d27-49a7-9d26-3985495d3e3b a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "L'autobus"^^xsd:string ;
     ns1:publisher ns1:Comme_Des_Géants^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book0062d1fb-f0d5-4952-b2e7-3f54549d64d1 a ns1:Book ;
     ns1:author "Donna Tartt"^^xsd:string ;
@@ -17,7 +17,7 @@ ns1:Book0062d1fb-f0d5-4952-b2e7-3f54549d64d1 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Le Maître des illusions"^^xsd:string ;
     ns1:publisher ns1:Plon^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book015bd46c-db09-45fd-84b6-8010e6987d95 a ns1:Book ;
     ns1:author "Siri Hustvedt"^^xsd:string ;
@@ -26,7 +26,7 @@ ns1:Book015bd46c-db09-45fd-84b6-8010e6987d95 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Tout ce que j'aimais"^^xsd:string ;
     ns1:publisher ns1:Actes_Sud^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book03caedf0-79a6-4e61-86bb-1eb70bdcf1e2 a ns1:Book ;
     ns1:author "David L. Carlson"^^xsd:string,
@@ -36,7 +36,7 @@ ns1:Book03caedf0-79a6-4e61-86bb-1eb70bdcf1e2 a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "L'Accident de chasse"^^xsd:string ;
     ns1:publisher ns1:Sonatine^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book07f76762-6d46-4d37-a7ca-1ae186364626 a ns1:Book ;
     ns1:author "Andrée Poulin"^^xsd:string,
@@ -46,7 +46,7 @@ ns1:Book07f76762-6d46-4d37-a7ca-1ae186364626 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Enterrer la lune"^^xsd:string ;
     ns1:publisher ns1:La_Courte_Échelle^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book08017363-2f69-4ab1-8526-ccefec6eaf5b a ns1:Book ;
     ns1:author "Simon Roy"^^xsd:string ;
@@ -55,7 +55,7 @@ ns1:Book08017363-2f69-4ab1-8526-ccefec6eaf5b a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Ma vie rouge Kubrick"^^xsd:string ;
     ns1:publisher ns1:Boréal^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book09e859c7-1282-4c96-aed8-4fabcccc5ad1 a ns1:Book ;
     ns1:author "Lise Tremblay"^^xsd:string ;
@@ -64,7 +64,7 @@ ns1:Book09e859c7-1282-4c96-aed8-4fabcccc5ad1 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "La Héronnière"^^xsd:string ;
     ns1:publisher ns1:Leméac^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book0a0e23b2-7d53-44b0-9c5d-3cb60baf4ee7 a ns1:Book ;
     ns1:author "Simon Boulerice"^^xsd:string ;
@@ -73,7 +73,7 @@ ns1:Book0a0e23b2-7d53-44b0-9c5d-3cb60baf4ee7 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Edgar Paillettes"^^xsd:string ;
     ns1:publisher ns1:Québec_Amérique^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book0a8eae3b-ecc2-48c5-aefa-187eac52e1ed a ns1:Book ;
     ns1:author "Audren"^^xsd:string,
@@ -83,7 +83,7 @@ ns1:Book0a8eae3b-ecc2-48c5-aefa-187eac52e1ed a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Mon chien est raciste"^^xsd:string ;
     ns1:publisher ns1:Albin_Michel_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book0aa2b6ab-2628-403d-9420-2b070b5e2a61 a ns1:Book ;
     ns1:author "Jonas Gardell"^^xsd:string ;
@@ -92,7 +92,7 @@ ns1:Book0aa2b6ab-2628-403d-9420-2b070b5e2a61 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "N'essuie jamais de larmes sans gants"^^xsd:string ;
     ns1:publisher ns1:Gaïa^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book0c5a318d-3100-4e8a-88c8-7d3cbb381489 a ns1:Book ;
     ns1:author "Oliver Jeffers"^^xsd:string ;
@@ -101,7 +101,7 @@ ns1:Book0c5a318d-3100-4e8a-88c8-7d3cbb381489 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Nous sommes là: notes concernant la vie sur la planète Terre"^^xsd:string ;
     ns1:publisher ns1:Kaléidoscope^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book0c7dab75-082b-4fd6-8d64-14753b20d810 a ns1:Book ;
     ns1:author "Patrick DeWitt"^^xsd:string ;
@@ -110,7 +110,7 @@ ns1:Book0c7dab75-082b-4fd6-8d64-14753b20d810 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Les Frères Sisters"^^xsd:string ;
     ns1:publisher ns1:Alto^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book0e623d00-4c83-49da-ac5e-574b1fdd8236 a ns1:Book ;
     ns1:author "Evelyne Payette"^^xsd:string,
@@ -120,7 +120,7 @@ ns1:Book0e623d00-4c83-49da-ac5e-574b1fdd8236 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Mammouth rock"^^xsd:string ;
     ns1:publisher ns1:La_Courte_Échelle^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book0fdcfe84-dd50-48c8-b9e3-cc9b1e194cb5 a ns1:Book ;
     ns1:author "Jonathan Durand Folco"^^xsd:string ;
@@ -129,7 +129,7 @@ ns1:Book0fdcfe84-dd50-48c8-b9e3-cc9b1e194cb5 a ns1:Book ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "À nous la ville !"^^xsd:string ;
     ns1:publisher ns1:Écosociété^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book107eb4ec-cddc-48a0-a2ac-2fa87a326825 a ns1:Book ;
     ns1:author "Tim Probert"^^xsd:string ;
@@ -138,7 +138,7 @@ ns1:Book107eb4ec-cddc-48a0-a2ac-2fa87a326825 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Lightfall (T. 1). La dernière flamme"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book10f0f493-23e1-4da4-82c6-dc7565e41d28 a ns1:Book ;
     ns1:author "Dai Sijie"^^xsd:string ;
@@ -147,7 +147,7 @@ ns1:Book10f0f493-23e1-4da4-82c6-dc7565e41d28 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Balzac et la Petite Tailleuse chinoise"^^xsd:string ;
     ns1:publisher ns1:Gallimard^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book12f70669-c39f-45da-822b-f86bdb0d9b7f a ns1:Book ;
     ns1:author "Rogé"^^xsd:string ;
@@ -156,7 +156,7 @@ ns1:Book12f70669-c39f-45da-822b-f86bdb0d9b7f a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Le roi de la patate"^^xsd:string ;
     ns1:publisher ns1:Dominique_Et_Compagnie^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book140e1dc8-b555-436e-8fe9-4a94dafec244 a ns1:Book ;
     ns1:author "Samuel Ribeyron"^^xsd:string ;
@@ -165,7 +165,7 @@ ns1:Book140e1dc8-b555-436e-8fe9-4a94dafec244 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Super beige"^^xsd:string ;
     ns1:publisher ns1:Le_Vengeur_Masqué^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book1683fc3b-a506-4f68-b808-7467cb6e472f a ns1:Book ;
     ns1:author "Orianne Charpentier"^^xsd:string ;
@@ -174,7 +174,7 @@ ns1:Book1683fc3b-a506-4f68-b808-7467cb6e472f a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Rage"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book169fab41-2c34-4126-b498-c612ade6bed1 a ns1:Book ;
     ns1:author "Alessandro Baricco"^^xsd:string ;
@@ -183,7 +183,7 @@ ns1:Book169fab41-2c34-4126-b498-c612ade6bed1 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Soie"^^xsd:string ;
     ns1:publisher ns1:Albin_Michel^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book188f1591-a60f-4bf2-8522-242d0f5f6951 a ns1:Book ;
     ns1:author "Joe Todd-Stanton"^^xsd:string ;
@@ -192,7 +192,7 @@ ns1:Book188f1591-a60f-4bf2-8522-242d0f5f6951 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Le secret du rocher noir"^^xsd:string ;
     ns1:publisher ns1:LÉcole_Des_Loisirs^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book1941d354-f2b0-4619-8b71-d4bcdf3a0665 a ns1:Book ;
     ns1:author "Paul Kawczak"^^xsd:string ;
@@ -201,7 +201,7 @@ ns1:Book1941d354-f2b0-4619-8b71-d4bcdf3a0665 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Ténèbre"^^xsd:string ;
     ns1:publisher ns1:La_Peuplade^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book1c6dded5-1012-480f-822a-3927ff7025cc a ns1:Book ;
     ns1:author "Nadine Brun-Cosme"^^xsd:string,
@@ -211,7 +211,7 @@ ns1:Book1c6dded5-1012-480f-822a-3927ff7025cc a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Moi devant"^^xsd:string ;
     ns1:publisher ns1:Flammarion_Père_Castor^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book1ea59055-29be-4664-892a-c937a13b745a a ns1:Book ;
     ns1:author "François Vigneault"^^xsd:string,
@@ -221,7 +221,7 @@ ns1:Book1ea59055-29be-4664-892a-c937a13b745a a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "13e avenue (T. 1)"^^xsd:string ;
     ns1:publisher ns1:La_Pastèque^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book22d32860-831b-4b53-ba63-6e8266ec7098 a ns1:Book ;
     ns1:author "Jacques Goldstyn"^^xsd:string ;
@@ -230,7 +230,7 @@ ns1:Book22d32860-831b-4b53-ba63-6e8266ec7098 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Les étoiles"^^xsd:string ;
     ns1:publisher ns1:La_Pastèque^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book2453ba3a-ed1d-4d9b-a2f0-52fb507a360f a ns1:Book ;
     ns1:author "R.J. Ellory"^^xsd:string ;
@@ -239,7 +239,7 @@ ns1:Book2453ba3a-ed1d-4d9b-a2f0-52fb507a360f a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Vendetta"^^xsd:string ;
     ns1:publisher ns1:Sonatine^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book24616de0-b38c-4798-8a31-f8520791f826 a ns1:Book ;
     ns1:author "Catherine Mavrikakis"^^xsd:string ;
@@ -248,7 +248,7 @@ ns1:Book24616de0-b38c-4798-8a31-f8520791f826 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Le Ciel de Bay city"^^xsd:string ;
     ns1:publisher ns1:Héliotrope^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book2497a300-ffb3-4749-9673-cb0baa4c86a0 a ns1:Book ;
     ns1:author "Philippe Claudel"^^xsd:string ;
@@ -257,7 +257,7 @@ ns1:Book2497a300-ffb3-4749-9673-cb0baa4c86a0 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Le Rapport de Brodeck"^^xsd:string ;
     ns1:publisher ns1:Stock^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book26a57d52-e9f5-45b7-8e8a-e0a12ec9ec0c a ns1:Book ;
     ns1:author "Isabelle Arsenault"^^xsd:string ;
@@ -266,7 +266,7 @@ ns1:Book26a57d52-e9f5-45b7-8e8a-e0a12ec9ec0c a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "L'oiseau de Colette"^^xsd:string ;
     ns1:publisher ns1:La_Pastèque^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book298b8778-e224-4dce-8442-be402002cb34 a ns1:Book ;
     ns1:author "Ronan Badel"^^xsd:string,
@@ -276,7 +276,7 @@ ns1:Book298b8778-e224-4dce-8442-be402002cb34 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Émile est invisible"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book2ac53b02-e255-46b9-a277-d22373b8bb17 a ns1:Book ;
     ns1:author "Fanny Britt"^^xsd:string,
@@ -286,7 +286,7 @@ ns1:Book2ac53b02-e255-46b9-a277-d22373b8bb17 a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "Truffe"^^xsd:string ;
     ns1:publisher ns1:La_Pastèque^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book2b03861a-b0de-4310-9b31-75a60a846b50 a ns1:Book ;
     ns1:author "Samuel Archibald"^^xsd:string ;
@@ -295,7 +295,7 @@ ns1:Book2b03861a-b0de-4310-9b31-75a60a846b50 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Arvida"^^xsd:string ;
     ns1:publisher ns1:Le_Quartanier^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book2dd64b71-899a-4bf6-8185-8d53672b4998 a ns1:Book ;
     ns1:author "Stéphane Larue"^^xsd:string ;
@@ -304,7 +304,7 @@ ns1:Book2dd64b71-899a-4bf6-8185-8d53672b4998 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Le Plongeur"^^xsd:string ;
     ns1:publisher ns1:Le_Quartanier^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book2e5131d9-c20d-4d14-8837-fa5b53fd0223 a ns1:Book ;
     ns1:author "Anaïs Barbeau-Lavalette"^^xsd:string ;
@@ -313,7 +313,7 @@ ns1:Book2e5131d9-c20d-4d14-8837-fa5b53fd0223 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "La Femme qui fuit"^^xsd:string ;
     ns1:publisher ns1:Marchand_De_Feuilles^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book333cc35c-5227-4f1a-9c1c-3919a62ca886 a ns1:Book ;
     ns1:author "Nancy Huston"^^xsd:string ;
@@ -322,7 +322,7 @@ ns1:Book333cc35c-5227-4f1a-9c1c-3919a62ca886 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "L'Empreinte de l'ange"^^xsd:string ;
     ns1:publisher ns1:Leméac^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book33a5587b-7627-442e-82fb-028a1d7eacdb a ns1:Book ;
     ns1:author "Sorj Chalandon"^^xsd:string ;
@@ -331,7 +331,7 @@ ns1:Book33a5587b-7627-442e-82fb-028a1d7eacdb a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Le Quatrième Mur"^^xsd:string ;
     ns1:publisher ns1:Grasset^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book35d850b0-92f7-4f50-9fec-54c3008b42d9 a ns1:Book ;
     ns1:author "Dany Laferrière"^^xsd:string ;
@@ -340,7 +340,7 @@ ns1:Book35d850b0-92f7-4f50-9fec-54c3008b42d9 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "L'Énigme du retour"^^xsd:string ;
     ns1:publisher ns1:Boréal^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book365972f1-4395-4725-9ff9-37463f3dd0fb a ns1:Book ;
     ns1:author "Carole David"^^xsd:string ;
@@ -349,7 +349,7 @@ ns1:Book365972f1-4395-4725-9ff9-37463f3dd0fb a ns1:Book ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "L'Année de ma disparition"^^xsd:string ;
     ns1:publisher ns1:Les_Herbes_Rouges^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book37923c33-32e6-4f33-8f68-b1d66d19e619 a ns1:Book ;
     ns1:author "Pénélope Bagieu"^^xsd:string,
@@ -359,7 +359,7 @@ ns1:Book37923c33-32e6-4f33-8f68-b1d66d19e619 a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "Sacrées sorcières"^^xsd:string ;
     ns1:publisher ns1:Gallimard^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book37ca6c9e-e999-4794-88a8-019473b1776f a ns1:Book ;
     ns1:author "Marie Laberge"^^xsd:string ;
@@ -368,7 +368,7 @@ ns1:Book37ca6c9e-e999-4794-88a8-019473b1776f a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Annabelle"^^xsd:string ;
     ns1:publisher ns1:Boréal^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book3a81e4d5-5036-48af-bea0-0d28c4a65c1c a ns1:Book ;
     ns1:author "Jessica Love"^^xsd:string ;
@@ -377,7 +377,7 @@ ns1:Book3a81e4d5-5036-48af-bea0-0d28c4a65c1c a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Julian est une sirène"^^xsd:string ;
     ns1:publisher ns1:Pastel^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book3b015676-1125-4b78-ada0-daf239c19b2d a ns1:Book ;
     ns1:author "François Vigneau"^^xsd:string,
@@ -387,7 +387,7 @@ ns1:Book3b015676-1125-4b78-ada0-daf239c19b2d a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "13e avenue t.1"^^xsd:string ;
     ns1:publisher ns1:La_Pastèque^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book4147aac7-817f-426b-a087-3f529d8e3f45 a ns1:Book ;
     ns1:author "Rogé"^^xsd:string ;
@@ -396,7 +396,7 @@ ns1:Book4147aac7-817f-426b-a087-3f529d8e3f45 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Mingan, poèmes d'écoliers innus illustrés par Rogé"^^xsd:string ;
     ns1:publisher ns1:La_Bagnole^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book41fbed4b-f42b-4271-b128-03ad0dd426b4 a ns1:Book ;
     ns1:author "Fabrice Boulanger"^^xsd:string ;
@@ -405,7 +405,7 @@ ns1:Book41fbed4b-f42b-4271-b128-03ad0dd426b4 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Ma soeur veut un zizi"^^xsd:string ;
     ns1:publisher ns1:La_Bagnole^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book44f0457c-3230-479f-92c5-2f5c12327c9d a ns1:Book ;
     ns1:author "Gaétan Soucy"^^xsd:string ;
@@ -414,7 +414,7 @@ ns1:Book44f0457c-3230-479f-92c5-2f5c12327c9d a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Music-Hall !"^^xsd:string ;
     ns1:publisher ns1:Boréal^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book45e404c0-da1a-45fe-918c-121d066cfe8d a ns1:Book ;
     ns1:author "Marianne Dubuc"^^xsd:string ;
@@ -423,7 +423,7 @@ ns1:Book45e404c0-da1a-45fe-918c-121d066cfe8d a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "La tournée de Facteur Souris"^^xsd:string ;
     ns1:publisher ns1:Casterman^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book48a0b4a7-e4c7-4eba-8055-b755e6afb981 a ns1:Book ;
     ns1:author "Bastien Vivès"^^xsd:string ;
@@ -432,7 +432,7 @@ ns1:Book48a0b4a7-e4c7-4eba-8055-b755e6afb981 a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "Une sœur"^^xsd:string ;
     ns1:publisher ns1:Casterman^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book48adc981-42bb-455b-8f9e-51f65ab4847b a ns1:Book ;
     ns1:author "André Marois"^^xsd:string ;
@@ -441,7 +441,7 @@ ns1:Book48adc981-42bb-455b-8f9e-51f65ab4847b a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Les voleurs de mémoire"^^xsd:string ;
     ns1:publisher ns1:La_Courte_Échelle^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book4bbc5460-f0e4-4a00-ad97-0351b008a4e4 a ns1:Book ;
     ns1:author "François Blais"^^xsd:string,
@@ -451,7 +451,7 @@ ns1:Book4bbc5460-f0e4-4a00-ad97-0351b008a4e4 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Le livre où la poule meurt à la fin"^^xsd:string ;
     ns1:publisher ns1:Les_400_Coups^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book4c0567e9-1b6e-42cc-9aa8-a57b816e107e a ns1:Book ;
     ns1:author "Amélie Nothomb"^^xsd:string ;
@@ -460,7 +460,7 @@ ns1:Book4c0567e9-1b6e-42cc-9aa8-a57b816e107e a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Stupeur et Tremblements"^^xsd:string ;
     ns1:publisher ns1:Albin_Michel^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book4ddc8a6c-c4a0-4f65-b512-192e35b73cda a ns1:Book ;
     ns1:author "Koy Maclear"^^xsd:string,
@@ -470,7 +470,7 @@ ns1:Book4ddc8a6c-c4a0-4f65-b512-192e35b73cda a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "M. Flux"^^xsd:string ;
     ns1:publisher ns1:La_Pastèque^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book50a27eb9-1d88-4649-b1e7-e3e62c2ad2c9 a ns1:Book ;
     ns1:author "Peter Mayle"^^xsd:string ;
@@ -479,7 +479,7 @@ ns1:Book50a27eb9-1d88-4649-b1e7-e3e62c2ad2c9 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Une année en Provence"^^xsd:string ;
     ns1:publisher ns1:Seuil^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book515c166b-be0a-4931-b362-7b66899e534e a ns1:Book ;
     ns1:author "Hugh Howey"^^xsd:string ;
@@ -488,7 +488,7 @@ ns1:Book515c166b-be0a-4931-b362-7b66899e534e a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Silo"^^xsd:string ;
     ns1:publisher ns1:Actes_Sud^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book559931c9-53b4-4c2f-9934-59af0a481079 a ns1:Book ;
     ns1:author "Timothée de Fombelle"^^xsd:string ;
@@ -497,7 +497,7 @@ ns1:Book559931c9-53b4-4c2f-9934-59af0a481079 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Vango (T. 1) : Entre ciel et terre"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book55f9815f-fc99-49e8-81fc-3734d3398411 a ns1:Book ;
     ns1:author "Nadine Robert"^^xsd:string,
@@ -507,7 +507,7 @@ ns1:Book55f9815f-fc99-49e8-81fc-3734d3398411 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Trèfle"^^xsd:string ;
     ns1:publisher ns1:Comme_Des_Géants^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book573d45fe-dabb-487e-8703-5ae1c4fab11f a ns1:Book ;
     ns1:author "John Green"^^xsd:string ;
@@ -516,7 +516,7 @@ ns1:Book573d45fe-dabb-487e-8703-5ae1c4fab11f a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Nos étoiles contraires"^^xsd:string ;
     ns1:publisher ns1:Nathan^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book57ed501c-25e4-41f7-8a5d-fde420be1dc3 a ns1:Book ;
     ns1:author "Alexandria Marzano-Lesnevich"^^xsd:string ;
@@ -525,7 +525,7 @@ ns1:Book57ed501c-25e4-41f7-8a5d-fde420be1dc3 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "L'empreinte"^^xsd:string ;
     ns1:publisher ns1:Sonatine^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book5a12d5c1-ee91-43c7-8976-96030a93ebf3 a ns1:Book ;
     ns1:author "Brianna Jonnie"^^xsd:string,
@@ -536,7 +536,7 @@ ns1:Book5a12d5c1-ee91-43c7-8976-96030a93ebf3 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Si je disparais"^^xsd:string ;
     ns1:publisher ns1:Isatis^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book5ce250f3-772d-4f59-90c9-d0267ad67e8f a ns1:Book ;
     ns1:author "Jean-François Beauchemin"^^xsd:string ;
@@ -545,7 +545,7 @@ ns1:Book5ce250f3-772d-4f59-90c9-d0267ad67e8f a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "La Fabrication de l'aube"^^xsd:string ;
     ns1:publisher ns1:Québec_Amérique^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book5d0d5ec3-54ab-4010-9dfe-db7030f8534f a ns1:Book ;
     ns1:author "Susin Nielsen"^^xsd:string ;
@@ -554,7 +554,7 @@ ns1:Book5d0d5ec3-54ab-4010-9dfe-db7030f8534f a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Nous sommes tous faits de molécules"^^xsd:string ;
     ns1:publisher ns1:La_Courte_Échelle^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book5d2fc31f-3de8-4176-b97a-f22c7e02da6f a ns1:Book ;
     ns1:author "Francis Desharnais"^^xsd:string ;
@@ -563,7 +563,7 @@ ns1:Book5d2fc31f-3de8-4176-b97a-f22c7e02da6f a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "La petite Russie"^^xsd:string ;
     ns1:publisher ns1:Pow_Pow^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book627fc37e-4e2f-46cc-ad89-13f201378c7d a ns1:Book ;
     ns1:author "Gil Courtemanche"^^xsd:string ;
@@ -572,7 +572,7 @@ ns1:Book627fc37e-4e2f-46cc-ad89-13f201378c7d a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Un dimanche à la piscine à Kigali"^^xsd:string ;
     ns1:publisher ns1:Boréal^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book63b56628-f64d-44b8-9f55-0aacda8c66af a ns1:Book ;
     ns1:author "Alice Oseman"^^xsd:string ;
@@ -581,7 +581,7 @@ ns1:Book63b56628-f64d-44b8-9f55-0aacda8c66af a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Loveless"^^xsd:string ;
     ns1:publisher ns1:Hachette^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book6525a8b2-0684-453e-af00-14347a9a2532 a ns1:Book ;
     ns1:author "Philippe Lançon"^^xsd:string ;
@@ -590,7 +590,7 @@ ns1:Book6525a8b2-0684-453e-af00-14347a9a2532 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Le lambeau"^^xsd:string ;
     ns1:publisher ns1:Gallimard^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book670e0ba9-6032-4d49-919e-eee93ef306f6 a ns1:Book ;
     ns1:author "Marie-Louise Gay"^^xsd:string ;
@@ -599,7 +599,7 @@ ns1:Book670e0ba9-6032-4d49-919e-eee93ef306f6 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Un million de questions !"^^xsd:string ;
     ns1:publisher ns1:Dominique_Et_Compagnie^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book678c3b96-29a9-445a-83e0-ee0d7a15e3d2 a ns1:Book ;
     ns1:author "Alexie Morin"^^xsd:string ;
@@ -608,7 +608,7 @@ ns1:Book678c3b96-29a9-445a-83e0-ee0d7a15e3d2 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Ouvrir son coeur"^^xsd:string ;
     ns1:publisher ns1:Le_Quartanier^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book6c96b9ce-fba5-47ac-997a-8f2914f1d784 a ns1:Book ;
     ns1:author "Fanny Britt"^^xsd:string,
@@ -618,7 +618,7 @@ ns1:Book6c96b9ce-fba5-47ac-997a-8f2914f1d784 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Truffe"^^xsd:string ;
     ns1:publisher ns1:La_Pastèque^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book6de58be1-fe5b-4907-96e7-6ffc738e2eaf a ns1:Book ;
     ns1:author "Antoine Ronzon"^^xsd:string,
@@ -628,7 +628,7 @@ ns1:Book6de58be1-fe5b-4907-96e7-6ffc738e2eaf a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Jefferson"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book6e874b13-5de3-4344-a98a-34d556d1b5f4 a ns1:Book ;
     ns1:author "David Almond"^^xsd:string,
@@ -638,7 +638,7 @@ ns1:Book6e874b13-5de3-4344-a98a-34d556d1b5f4 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Le garçon qui nageait avec les piranhas"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book6fc6946c-55a2-40fe-83cd-34b626ba0ce3 a ns1:Book ;
     ns1:author "Alcante"^^xsd:string,
@@ -649,7 +649,7 @@ ns1:Book6fc6946c-55a2-40fe-83cd-34b626ba0ce3 a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "La Bombe"^^xsd:string ;
     ns1:publisher ns1:Glénat^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book701c454d-f097-4356-b2f4-bce1be12468d a ns1:Book ;
     ns1:author "Anouk Mahiout"^^xsd:string,
@@ -659,7 +659,7 @@ ns1:Book701c454d-f097-4356-b2f4-bce1be12468d a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Pauline, une petite place pour moi"^^xsd:string ;
     ns1:publisher ns1:Comme_Des_Géants^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book70243df8-254a-4193-86e0-dff0c0922964 a ns1:Book ;
     ns1:author "Jean-François Sénéchal"^^xsd:string ;
@@ -668,7 +668,7 @@ ns1:Book70243df8-254a-4193-86e0-dff0c0922964 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Au carrefour"^^xsd:string ;
     ns1:publisher ns1:Leméac^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book71a2ab10-e2ab-478a-8007-9bf1668d98da a ns1:Book ;
     ns1:author "Ian De Haes"^^xsd:string ;
@@ -677,7 +677,7 @@ ns1:Book71a2ab10-e2ab-478a-8007-9bf1668d98da a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Superlumineuse"^^xsd:string ;
     ns1:publisher ns1:Alice_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book723b3a3e-39cd-470a-8f80-e37ff676945f a ns1:Book ;
     ns1:author "Joséphine Bacon"^^xsd:string ;
@@ -686,7 +686,7 @@ ns1:Book723b3a3e-39cd-470a-8f80-e37ff676945f a ns1:Book ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Uiesh / Quelque part"^^xsd:string ;
     ns1:publisher ns1:Mémoire_DEncrier^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book72fe4977-626c-4069-9ff8-3d4f70e283e1 a ns1:Book ;
     ns1:author "Véronique Drouin"^^xsd:string ;
@@ -695,7 +695,7 @@ ns1:Book72fe4977-626c-4069-9ff8-3d4f70e283e1 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Rivière-au-Cerf-Blanc"^^xsd:string ;
     ns1:publisher ns1:Québec_Amérique^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book75f57050-9d3f-445a-bdad-13c089986970 a ns1:Book ;
     ns1:author "Nicolas Dickner"^^xsd:string ;
@@ -704,7 +704,7 @@ ns1:Book75f57050-9d3f-445a-bdad-13c089986970 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Nikolski"^^xsd:string ;
     ns1:publisher ns1:Alto^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book76fd5a77-14b8-4bd6-9127-b24b8b3c52cc a ns1:Book ;
     ns1:author "Robyn Maynard"^^xsd:string ;
@@ -713,7 +713,7 @@ ns1:Book76fd5a77-14b8-4bd6-9127-b24b8b3c52cc a ns1:Book ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "NoirEs sous surveillance"^^xsd:string ;
     ns1:publisher ns1:Mémoire_DEncrier^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book7a983e6c-df4a-403b-8b40-06965979418e a ns1:Book ;
     ns1:author "AJ Dungo"^^xsd:string ;
@@ -722,7 +722,7 @@ ns1:Book7a983e6c-df4a-403b-8b40-06965979418e a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "In waves"^^xsd:string ;
     ns1:publisher ns1:Casterman^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book7cdf01d6-30d1-41ca-a8ff-8b4f00f99d37 a ns1:Book ;
     ns1:author "Mike Curato"^^xsd:string ;
@@ -731,7 +731,7 @@ ns1:Book7cdf01d6-30d1-41ca-a8ff-8b4f00f99d37 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Petit Elliot dans la grande ville"^^xsd:string ;
     ns1:publisher ns1:Casterman^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book7e70f9fb-beee-4f39-8606-c5e38c6dd281 a ns1:Book ;
     ns1:author "Rawi Hage"^^xsd:string ;
@@ -740,7 +740,7 @@ ns1:Book7e70f9fb-beee-4f39-8606-c5e38c6dd281 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Parfum de poussière"^^xsd:string ;
     ns1:publisher ns1:Alto^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book80655b37-0c35-4959-a7c1-a727c4e8caa4 a ns1:Book ;
     ns1:author "Julie Champagne"^^xsd:string ;
@@ -749,7 +749,7 @@ ns1:Book80655b37-0c35-4959-a7c1-a727c4e8caa4 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Cancer ascendant Autruche"^^xsd:string ;
     ns1:publisher ns1:La_Courte_Échelle^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book820ffecb-3606-417e-b2b6-75ce370182a8 a ns1:Book ;
     ns1:author "Anne-Marie Desmeules"^^xsd:string ;
@@ -758,7 +758,7 @@ ns1:Book820ffecb-3606-417e-b2b6-75ce370182a8 a ns1:Book ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Le tendon et l'os"^^xsd:string ;
     ns1:publisher ns1:LHexagone^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book834cdac3-d870-406b-bb0e-68d417cf199d a ns1:Book ;
     ns1:author "Auður Ava Ólafsdóttir"^^xsd:string ;
@@ -767,7 +767,7 @@ ns1:Book834cdac3-d870-406b-bb0e-68d417cf199d a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Rosa candida"^^xsd:string ;
     ns1:publisher ns1:Zulma^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book83578a26-e36c-4655-8823-0086da6d98e1 a ns1:Book ;
     ns1:author "Jean Claverie"^^xsd:string,
@@ -777,7 +777,7 @@ ns1:Book83578a26-e36c-4655-8823-0086da6d98e1 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Mon frère et moi"^^xsd:string ;
     ns1:publisher ns1:DEux^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book83ac54da-fffa-4577-a688-22836b64635a a ns1:Book ;
     ns1:author "Dennis Lehane"^^xsd:string ;
@@ -786,7 +786,7 @@ ns1:Book83ac54da-fffa-4577-a688-22836b64635a a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Mystic River"^^xsd:string ;
     ns1:publisher ns1:Rivages^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book8a01452d-d7cc-4634-9a52-01b1891046b6 a ns1:Book ;
     ns1:author "Júlia Sardá"^^xsd:string,
@@ -796,7 +796,7 @@ ns1:Book8a01452d-d7cc-4634-9a52-01b1891046b6 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Mary, auteure de Frankenstein"^^xsd:string ;
     ns1:publisher ns1:La_Pastèque^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book8e2ae508-8adf-4d29-8409-d4ce7686010e a ns1:Book ;
     ns1:author "Jean Barbe"^^xsd:string ;
@@ -805,7 +805,7 @@ ns1:Book8e2ae508-8adf-4d29-8409-d4ce7686010e a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Comment devenir un monstre"^^xsd:string ;
     ns1:publisher ns1:Leméac^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book8fab9cba-55cd-4667-ac3e-0061938b1dff a ns1:Book ;
     ns1:author "Bruno Hébert"^^xsd:string ;
@@ -814,7 +814,7 @@ ns1:Book8fab9cba-55cd-4667-ac3e-0061938b1dff a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "C'est pas moi, je le jure"^^xsd:string ;
     ns1:publisher ns1:Boréal^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book9305713a-99ee-48ac-aab4-162691ec005a a ns1:Book ;
     ns1:author "Pénélope Bagieu"^^xsd:string,
@@ -824,7 +824,7 @@ ns1:Book9305713a-99ee-48ac-aab4-162691ec005a a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Sacrées sorcières"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book9357d051-297c-4db4-bc09-f5cd6b92d330 a ns1:Book ;
     ns1:author "Larry Tremblay"^^xsd:string ;
@@ -833,7 +833,7 @@ ns1:Book9357d051-297c-4db4-bc09-f5cd6b92d330 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "L'Orangeraie"^^xsd:string ;
     ns1:publisher ns1:Alto^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book94a65248-761f-4759-ae52-0ff5118a33b8 a ns1:Book ;
     ns1:author "Dominique Payette"^^xsd:string ;
@@ -842,7 +842,7 @@ ns1:Book94a65248-761f-4759-ae52-0ff5118a33b8 a ns1:Book ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "Les brutes et la punaise"^^xsd:string ;
     ns1:publisher ns1:Lux^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book965e34b6-72e3-4f7d-92c7-35bc86f98caf a ns1:Book ;
     ns1:author "Julie Rocheleau"^^xsd:string,
@@ -852,7 +852,7 @@ ns1:Book965e34b6-72e3-4f7d-92c7-35bc86f98caf a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Tommy l'enfant-loup : les aventures de Bill Bilodeau, l'ami des animaux"^^xsd:string ;
     ns1:publisher ns1:Le_Quartanier^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book96778403-f120-4bde-ab72-aa12c98d622f a ns1:Book ;
     ns1:author "Julien Béziat"^^xsd:string ;
@@ -861,7 +861,7 @@ ns1:Book96778403-f120-4bde-ab72-aa12c98d622f a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Le bain de Berk"^^xsd:string ;
     ns1:publisher ns1:LÉcole_Des_Loisirs^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book999aa47e-f2d7-4c06-ab22-ca37975b4c15 a ns1:Book ;
     ns1:author "Delphine de Vigan"^^xsd:string ;
@@ -870,7 +870,7 @@ ns1:Book999aa47e-f2d7-4c06-ab22-ca37975b4c15 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Rien ne s'oppose à la nuit"^^xsd:string ;
     ns1:publisher ns1:JC_Lattès^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book9b00f452-4b4a-46d9-85ba-b65c227eae75 a ns1:Book ;
     ns1:author "Jean-François Sénéchal"^^xsd:string ;
@@ -879,7 +879,7 @@ ns1:Book9b00f452-4b4a-46d9-85ba-b65c227eae75 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Imbécile heureux"^^xsd:string ;
     ns1:publisher ns1:Sarbacane^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book9b17a16b-6cb3-4868-8399-f1d594557f5a a ns1:Book ;
     ns1:author "Vera Brosgol"^^xsd:string ;
@@ -888,7 +888,7 @@ ns1:Book9b17a16b-6cb3-4868-8399-f1d594557f5a a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Un été d'enfer!"^^xsd:string ;
     ns1:publisher ns1:Rue_De_Sèvres^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book9b852a87-76c3-4060-8f07-0802e6c1c6c3 a ns1:Book ;
     ns1:author "Geneviève Godbout"^^xsd:string,
@@ -898,7 +898,7 @@ ns1:Book9b852a87-76c3-4060-8f07-0802e6c1c6c3 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Quand le père Noël était petit…"^^xsd:string ;
     ns1:publisher ns1:Scholastic^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book9e1653b2-fe89-402a-ae19-69a74e72d396 a ns1:Book ;
     ns1:author "Agnès Laroche"^^xsd:string,
@@ -908,7 +908,7 @@ ns1:Book9e1653b2-fe89-402a-ae19-69a74e72d396 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Le cadeau"^^xsd:string ;
     ns1:publisher ns1:Alice_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Book9ec2f652-2b5a-43a6-9412-5a31eaa4f732 a ns1:Book ;
     ns1:author "Vera Brosgol"^^xsd:string ;
@@ -917,7 +917,7 @@ ns1:Book9ec2f652-2b5a-43a6-9412-5a31eaa4f732 a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "Un été d’enfer !"^^xsd:string ;
     ns1:publisher ns1:Rue_De_Sèvres^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booka01db9d6-68da-45d1-b870-5c08b3f12f1c a ns1:Book ;
     ns1:author "Nadine Bismuth"^^xsd:string ;
@@ -926,7 +926,7 @@ ns1:Booka01db9d6-68da-45d1-b870-5c08b3f12f1c a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Les gens fidèles ne font pas les nouvelles"^^xsd:string ;
     ns1:publisher ns1:Boréal^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booka42f0094-7f5c-402f-a1cb-53b70b19129e a ns1:Book ;
     ns1:author "Sarah Lalonde"^^xsd:string ;
@@ -935,7 +935,7 @@ ns1:Booka42f0094-7f5c-402f-a1cb-53b70b19129e a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Trash anxieuse"^^xsd:string ;
     ns1:publisher ns1:Leméac^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booka90e0ab1-f044-42aa-8662-14695c0d3366 a ns1:Book ;
     ns1:author "Tom Gauld"^^xsd:string ;
@@ -944,7 +944,7 @@ ns1:Booka90e0ab1-f044-42aa-8662-14695c0d3366 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Le petit robot de bois et la princesse bûche"^^xsd:string ;
     ns1:publisher ns1:LÉcole_Des_Loisirs^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booka97ca6c6-114d-4c05-b4b2-265735290a9c a ns1:Book ;
     ns1:author "Khaled Hosseini"^^xsd:string ;
@@ -953,7 +953,7 @@ ns1:Booka97ca6c6-114d-4c05-b4b2-265735290a9c a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Les Cerfs-volants de Kaboul"^^xsd:string ;
     ns1:publisher ns1:Belfond^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booka9f4f023-55d7-48c3-9dac-bc33dc68e569 a ns1:Book ;
     ns1:author "Cormac McCarthy"^^xsd:string ;
@@ -962,7 +962,7 @@ ns1:Booka9f4f023-55d7-48c3-9dac-bc33dc68e569 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "La Route"^^xsd:string ;
     ns1:publisher ns1:LOlivier^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookb109d346-7081-431d-a615-66802e3f7d80 a ns1:Book ;
     ns1:author "Jostein Gaarder"^^xsd:string ;
@@ -971,7 +971,7 @@ ns1:Bookb109d346-7081-431d-a615-66802e3f7d80 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Le Monde de Sophie"^^xsd:string ;
     ns1:publisher ns1:Seuil^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookb25e63f1-0b63-44f1-9821-dc6f1deb4d43 a ns1:Book ;
     ns1:author "François Rioux"^^xsd:string ;
@@ -980,7 +980,7 @@ ns1:Bookb25e63f1-0b63-44f1-9821-dc6f1deb4d43 a ns1:Book ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Poissons volants"^^xsd:string ;
     ns1:publisher ns1:Le_Quartanier^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookb281996c-f756-48b2-9c23-5d7bf6bedcc9 a ns1:Book ;
     ns1:author "Marie-Ève Thuot"^^xsd:string ;
@@ -989,7 +989,7 @@ ns1:Bookb281996c-f756-48b2-9c23-5d7bf6bedcc9 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "La trajectoire des confettis"^^xsd:string ;
     ns1:publisher ns1:Les_Herbes_Rouges^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookb3da9b85-88a5-4ac6-9cb5-6ed2af728f4e a ns1:Book ;
     ns1:author "Sara Pennypacker"^^xsd:string ;
@@ -998,7 +998,7 @@ ns1:Bookb3da9b85-88a5-4ac6-9cb5-6ed2af728f4e a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Pax et le petit soldat"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookb56cf51e-5e40-4304-85bc-f181e05f0df5 a ns1:Book ;
     ns1:author "Carlos Ruíz Zafón"^^xsd:string ;
@@ -1007,7 +1007,7 @@ ns1:Bookb56cf51e-5e40-4304-85bc-f181e05f0df5 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "L'Ombre du vent"^^xsd:string ;
     ns1:publisher ns1:Grasset^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookb60ad74c-dc69-4856-afa3-c2eca7ffa97e a ns1:Book ;
     ns1:author "Alain Bergeron"^^xsd:string,
@@ -1017,7 +1017,7 @@ ns1:Bookb60ad74c-dc69-4856-afa3-c2eca7ffa97e a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Ma petite amie"^^xsd:string ;
     ns1:publisher ns1:Soulières^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookb6ea3a00-976a-4c7a-baa3-e2f843641b8f a ns1:Book ;
     ns1:author "Emily St. John Mandel"^^xsd:string ;
@@ -1026,7 +1026,7 @@ ns1:Bookb6ea3a00-976a-4c7a-baa3-e2f843641b8f a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Station Eleven"^^xsd:string ;
     ns1:publisher ns1:Alto^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookb74da22b-b8bc-46df-933d-7c06ab4568ee a ns1:Book ;
     ns1:author "Ying Chen"^^xsd:string ;
@@ -1035,7 +1035,7 @@ ns1:Bookb74da22b-b8bc-46df-933d-7c06ab4568ee a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "L'Ingratitude"^^xsd:string ;
     ns1:publisher ns1:Actes_Sud^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookb83b54ec-8883-4059-aeef-d4d56183600d a ns1:Book ;
     ns1:author "Kris Di Giacomo"^^xsd:string,
@@ -1045,7 +1045,7 @@ ns1:Bookb83b54ec-8883-4059-aeef-d4d56183600d a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Sans le A : l'anti-abécédaire"^^xsd:string ;
     ns1:publisher ns1:Kaléidoscope^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookb9bcd21c-c970-4d86-8e5b-383289ab82f2 a ns1:Book ;
     ns1:author "Alex Cousseau"^^xsd:string,
@@ -1055,7 +1055,7 @@ ns1:Bookb9bcd21c-c970-4d86-8e5b-383289ab82f2 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Charles à l'école des dragons"^^xsd:string ;
     ns1:publisher ns1:Seuil_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookbacaefe3-83bd-4a16-a159-f77caf6c4c38 a ns1:Book ;
     ns1:author "Patrick Isabelle"^^xsd:string ;
@@ -1064,7 +1064,7 @@ ns1:Bookbacaefe3-83bd-4a16-a159-f77caf6c4c38 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Camille"^^xsd:string ;
     ns1:publisher ns1:Leméac^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookbc806cef-98d6-4f41-bef2-748484c1246e a ns1:Book ;
     ns1:author "Christophe Bernard"^^xsd:string ;
@@ -1073,7 +1073,7 @@ ns1:Bookbc806cef-98d6-4f41-bef2-748484c1246e a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "La Bête creuse"^^xsd:string ;
     ns1:publisher ns1:Le_Quartanier^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookbe6e14da-648f-48e2-bea6-181531f61296 a ns1:Book ;
     ns1:author "Ruta Sepetys"^^xsd:string ;
@@ -1082,7 +1082,7 @@ ns1:Bookbe6e14da-648f-48e2-bea6-181531f61296 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Ce qu'ils n'ont pas pu nous prendre"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookbe9e2255-bdc5-48a5-bf87-09f6483f9d5b a ns1:Book ;
     ns1:author "Anouk Mahiout"^^xsd:string,
@@ -1092,7 +1092,7 @@ ns1:Bookbe9e2255-bdc5-48a5-bf87-09f6483f9d5b a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "Pauline, une petite place pour moi"^^xsd:string ;
     ns1:publisher ns1:Comme_Des_Géants^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookbf663984-5e92-470e-8a11-1d1a73721d01 a ns1:Book ;
     ns1:author "Tiffany McDaniel"^^xsd:string ;
@@ -1101,7 +1101,7 @@ ns1:Bookbf663984-5e92-470e-8a11-1d1a73721d01 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Betty"^^xsd:string ;
     ns1:publisher ns1:Gallmeister^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookc4580ae7-6066-49ed-9918-4d6a186795af a ns1:Book ;
     ns1:author "Monique Proulx"^^xsd:string ;
@@ -1110,7 +1110,7 @@ ns1:Bookc4580ae7-6066-49ed-9918-4d6a186795af a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Homme invisible à la fenêtre"^^xsd:string ;
     ns1:publisher ns1:Boréal^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookc5c4385a-b8bf-4749-b490-d899467e58bf a ns1:Book ;
     ns1:author "Sébastien B. Gagnon"^^xsd:string ;
@@ -1119,7 +1119,7 @@ ns1:Bookc5c4385a-b8bf-4749-b490-d899467e58bf a ns1:Book ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Mèche"^^xsd:string ;
     ns1:publisher ns1:Oie_De_Cravan^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookc69dadd8-4db7-4666-b17c-d08b039e1ef9 a ns1:Book ;
     ns1:author "Isabelle Arsenault"^^xsd:string,
@@ -1129,7 +1129,7 @@ ns1:Bookc69dadd8-4db7-4666-b17c-d08b039e1ef9 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Fourchon"^^xsd:string ;
     ns1:publisher ns1:La_Pastèque^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookc6ba6069-7724-4da4-9f70-c74ca67bc803 a ns1:Book ;
     ns1:author "Emil Ferris"^^xsd:string ;
@@ -1138,7 +1138,7 @@ ns1:Bookc6ba6069-7724-4da4-9f70-c74ca67bc803 a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "Moi, ce que j’aime, c’est les monstres"^^xsd:string ;
     ns1:publisher ns1:Alto^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookc83e17f7-ae62-4be9-abbf-3d588986e25c a ns1:Book ;
     ns1:author "Julie Rocheleau"^^xsd:string,
@@ -1148,7 +1148,7 @@ ns1:Bookc83e17f7-ae62-4be9-abbf-3d588986e25c a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "Betty Boob"^^xsd:string ;
     ns1:publisher ns1:Casterman^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookc91fd4bc-f8c5-458a-9c4b-fc8182bff998 a ns1:Book ;
     ns1:author "Éric Dupont"^^xsd:string ;
@@ -1157,7 +1157,7 @@ ns1:Bookc91fd4bc-f8c5-458a-9c4b-fc8182bff998 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "La Fiancée américaine"^^xsd:string ;
     ns1:publisher ns1:Marchand_De_Feuilles^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookcb6df43c-53a4-4d2b-821d-4f591ef81c91 a ns1:Book ;
     ns1:author "Marie Laberge"^^xsd:string ;
@@ -1166,7 +1166,7 @@ ns1:Bookcb6df43c-53a4-4d2b-821d-4f591ef81c91 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "La Cérémonie des anges"^^xsd:string ;
     ns1:publisher ns1:Boréal^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookcec5799d-c485-456a-b800-a0d0fa0303c8 a ns1:Book ;
     ns1:author "Sylvain Trudel"^^xsd:string ;
@@ -1175,7 +1175,7 @@ ns1:Bookcec5799d-c485-456a-b800-a0d0fa0303c8 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Du mercure sous la langue"^^xsd:string ;
     ns1:publisher ns1:Les_Allusifs^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookcf2bdc9d-b3c1-4333-abb3-c89bcb918a70 a ns1:Book ;
     ns1:author "Jonathan Safran Foer"^^xsd:string ;
@@ -1184,7 +1184,7 @@ ns1:Bookcf2bdc9d-b3c1-4333-abb3-c89bcb918a70 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Extrêmement fort et incroyablement près"^^xsd:string ;
     ns1:publisher ns1:LOlivier^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookd05f1d5a-2b73-4cb7-8024-8893093be87d a ns1:Book ;
     ns1:author "Anne Renaud"^^xsd:string,
@@ -1194,7 +1194,7 @@ ns1:Bookd05f1d5a-2b73-4cb7-8024-8893093be87d a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Albertine Petit-Brindamour déteste les choux de Bruxelles"^^xsd:string ;
     ns1:publisher ns1:La_Courte_Échelle^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookd17a14e0-b052-438e-862f-55e7cd6ab2d5 a ns1:Book ;
     ns1:author "Matthieu Maudet"^^xsd:string ;
@@ -1203,7 +1203,7 @@ ns1:Bookd17a14e0-b052-438e-862f-55e7cd6ab2d5 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "J'y vais !"^^xsd:string ;
     ns1:publisher ns1:LÉcole_Des_Loisirs^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookd1ebb5be-13e5-4915-a6cc-570e1ee21333 a ns1:Book ;
     ns1:author "Tim Probert"^^xsd:string ;
@@ -1212,7 +1212,7 @@ ns1:Bookd1ebb5be-13e5-4915-a6cc-570e1ee21333 a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "Lightfall T2: La dernière flamme"^^xsd:string ;
     ns1:publisher ns1:Gallimard^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookd240ebd2-850d-4293-9d3f-878ea6aa39cc a ns1:Book ;
     ns1:author "Marie-Noëlle Hébert"^^xsd:string ;
@@ -1221,7 +1221,7 @@ ns1:Bookd240ebd2-850d-4293-9d3f-878ea6aa39cc a ns1:Book ;
     ns1:genre "BD"^^xsd:string ;
     ns1:name "La grosse laide"^^xsd:string ;
     ns1:publisher ns1:XYZ_Éditeur^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookd43ba96a-6664-4314-bd95-c81469875b66 a ns1:Book ;
     ns1:author "Biz"^^xsd:string ;
@@ -1230,7 +1230,7 @@ ns1:Bookd43ba96a-6664-4314-bd95-c81469875b66 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "La chute de Sparte"^^xsd:string ;
     ns1:publisher ns1:Leméac^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookd4d19376-bd2c-4c15-9e44-1e0defbca987 a ns1:Book ;
     ns1:author "Alexandre Côté-Fournier"^^xsd:string,
@@ -1240,7 +1240,7 @@ ns1:Bookd4d19376-bd2c-4c15-9e44-1e0defbca987 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Quincaillerie Miville"^^xsd:string ;
     ns1:publisher ns1:La_Courte_Échelle^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookd68d98d3-bd34-4df8-b24a-22573fbfe145 a ns1:Book ;
     ns1:author "Linda Amyot"^^xsd:string ;
@@ -1249,7 +1249,7 @@ ns1:Bookd68d98d3-bd34-4df8-b24a-22573fbfe145 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "La fille d'en face"^^xsd:string ;
     ns1:publisher ns1:Leméac^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookd8a0366e-8199-40ba-b080-9301cfd841e5 a ns1:Book ;
     ns1:author "Bernhard Schlink"^^xsd:string ;
@@ -1258,7 +1258,7 @@ ns1:Bookd8a0366e-8199-40ba-b080-9301cfd841e5 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Le Liseur"^^xsd:string ;
     ns1:publisher ns1:Gallimard^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookda8582e0-79ba-434f-b10c-5f242499c7f2 a ns1:Book ;
     ns1:author "Guillaume Perreault"^^xsd:string,
@@ -1268,7 +1268,7 @@ ns1:Bookda8582e0-79ba-434f-b10c-5f242499c7f2 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "La soupe aux allumettes"^^xsd:string ;
     ns1:publisher ns1:Fonfon^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookdbb0080a-7705-418d-9202-8edb4cf59aa4 a ns1:Book ;
     ns1:author "Lorrie Jean-Louis"^^xsd:string ;
@@ -1277,7 +1277,7 @@ ns1:Bookdbb0080a-7705-418d-9202-8edb4cf59aa4 a ns1:Book ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "La femme cent couleurs"^^xsd:string ;
     ns1:publisher ns1:Mémoire_DEncrier^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookdf0d3579-9d04-4195-b0a2-358d6aaf8557 a ns1:Book ;
     ns1:author "Sarah Cohen-Scali"^^xsd:string ;
@@ -1286,7 +1286,7 @@ ns1:Bookdf0d3579-9d04-4195-b0a2-358d6aaf8557 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Max"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booke05417e1-d981-45bc-8133-0060a2b63ce5 a ns1:Book ;
     ns1:author "Nnedi Okorafor"^^xsd:string ;
@@ -1295,7 +1295,7 @@ ns1:Booke05417e1-d981-45bc-8133-0060a2b63ce5 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Akata Witch"^^xsd:string ;
     ns1:publisher ns1:LÉcole_Des_Loisirs^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booke2000161-8e40-42cb-b8a2-ed15abdbc5ab a ns1:Book ;
     ns1:author "Timothy Findley"^^xsd:string ;
@@ -1304,7 +1304,7 @@ ns1:Booke2000161-8e40-42cb-b8a2-ed15abdbc5ab a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Pilgrim"^^xsd:string ;
     ns1:publisher ns1:Serpent_À_Plumes^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booke210fe98-3cae-4a96-8efa-4ff90900cd00 a ns1:Book ;
     ns1:author "Daphné B."^^xsd:string ;
@@ -1313,7 +1313,7 @@ ns1:Booke210fe98-3cae-4a96-8efa-4ff90900cd00 a ns1:Book ;
     ns1:genre "Essai"^^xsd:string ;
     ns1:name "Maquillée"^^xsd:string ;
     ns1:publisher ns1:Marchand_De_Feuilles^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booke28df43a-ec24-4b97-bde2-60b8fc786135 a ns1:Book ;
     ns1:author "Jessica Townsend"^^xsd:string ;
@@ -1322,7 +1322,7 @@ ns1:Booke28df43a-ec24-4b97-bde2-60b8fc786135 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Nevermoor (T. 1). Les défis de Morrigane Crow"^^xsd:string ;
     ns1:publisher ns1:Pocket_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booke353e7b7-2d15-4e7f-8b13-0c61fed0ddc5 a ns1:Book ;
     ns1:author "Amélie Dumoulin"^^xsd:string ;
@@ -1331,7 +1331,7 @@ ns1:Booke353e7b7-2d15-4e7f-8b13-0c61fed0ddc5 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Fé aime Fé"^^xsd:string ;
     ns1:publisher ns1:Québec_Amérique^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booke550a982-2a0f-432c-b3b0-50363cf955c8 a ns1:Book ;
     ns1:author "Jolan Bertrand"^^xsd:string,
@@ -1341,7 +1341,7 @@ ns1:Booke550a982-2a0f-432c-b3b0-50363cf955c8 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Les sœurs Hiver"^^xsd:string ;
     ns1:publisher ns1:LÉcole_Des_Loisirs^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booke5b090bc-aa65-4f72-bd31-b757f5c5c5a8 a ns1:Book ;
     ns1:author "Jandy Nelson"^^xsd:string ;
@@ -1350,7 +1350,7 @@ ns1:Booke5b090bc-aa65-4f72-bd31-b757f5c5c5a8 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Le soleil est pour toi"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booke89cfc4e-d890-45cb-9ebb-f6445d9c9526 a ns1:Book ;
     ns1:author "Guillaume Perreault"^^xsd:string ;
@@ -1359,7 +1359,7 @@ ns1:Booke89cfc4e-d890-45cb-9ebb-f6445d9c9526 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Le facteur de l’espace (T.3). La faim du monde"^^xsd:string ;
     ns1:publisher ns1:La_Pastèque^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Booke8f1c606-eedc-4676-9387-45e74efe53f4 a ns1:Book ;
     ns1:author "François Blais"^^xsd:string,
@@ -1369,7 +1369,7 @@ ns1:Booke8f1c606-eedc-4676-9387-45e74efe53f4 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Lac Adélard"^^xsd:string ;
     ns1:publisher ns1:La_Courte_Échelle^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookeab8613a-5daa-4ca0-80ca-ddff927f6c83 a ns1:Book ;
     ns1:author "Colas Gutman"^^xsd:string,
@@ -1379,7 +1379,7 @@ ns1:Bookeab8613a-5daa-4ca0-80ca-ddff927f6c83 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "L'enfant"^^xsd:string ;
     ns1:publisher ns1:LÉcole_Des_Loisirs^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookeb3bc1a3-883e-4de4-ae3b-760f9b29d9ef a ns1:Book ;
     ns1:author "Sophie Escabasse"^^xsd:string ;
@@ -1388,7 +1388,7 @@ ns1:Bookeb3bc1a3-883e-4de4-ae3b-760f9b29d9ef a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Les sorcières de Brooklyn"^^xsd:string ;
     ns1:publisher ns1:Bayard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookec554211-43c2-44dc-b30c-db70151159e6 a ns1:Book ;
     ns1:author "Mario Brassard"^^xsd:string,
@@ -1398,7 +1398,7 @@ ns1:Bookec554211-43c2-44dc-b30c-db70151159e6 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "La saison des pluies"^^xsd:string ;
     ns1:publisher ns1:Soulières^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookeda9dbcc-9fd5-4e17-85cc-44d63c6d78eb a ns1:Book ;
     ns1:author "Stéphane Servant"^^xsd:string ;
@@ -1407,7 +1407,7 @@ ns1:Bookeda9dbcc-9fd5-4e17-85cc-44d63c6d78eb a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Sirius"^^xsd:string ;
     ns1:publisher ns1:Le_Rouergue^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookf15ae835-7fc5-43a0-8071-b51924d437ba a ns1:Book ;
     ns1:author "Michel Tremblay"^^xsd:string ;
@@ -1416,7 +1416,7 @@ ns1:Bookf15ae835-7fc5-43a0-8071-b51924d437ba a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "Un ange cornu avec des ailes de tôle"^^xsd:string ;
     ns1:publisher ns1:Boréal^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookf495f6e1-c73d-4ba5-ac93-4d7b1a6823db a ns1:Book ;
     ns1:author "Emilie Rivard"^^xsd:string ;
@@ -1425,7 +1425,7 @@ ns1:Bookf495f6e1-c73d-4ba5-ac93-4d7b1a6823db a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "1re avenue"^^xsd:string ;
     ns1:publisher ns1:Espoir_En_Canne^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookf92a5b73-e65e-486a-80b0-db6d41a4eb1e a ns1:Book ;
     ns1:author "Mélina Schoenborn"^^xsd:string,
@@ -1435,7 +1435,7 @@ ns1:Bookf92a5b73-e65e-486a-80b0-db6d41a4eb1e a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Bob le bobo"^^xsd:string ;
     ns1:publisher ns1:La_Courte_Échelle^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookfaced28b-a480-4de0-9bfe-70aaff2ca218 a ns1:Book ;
     ns1:author "Elena Ferrante"^^xsd:string ;
@@ -1444,7 +1444,7 @@ ns1:Bookfaced28b-a480-4de0-9bfe-70aaff2ca218 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "L'Amie prodigieuse"^^xsd:string ;
     ns1:publisher ns1:Gallimard^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookfb059aad-d0c2-4038-8249-b64c707de971 a ns1:Book ;
     ns1:author "Patrick Isabelle"^^xsd:string ;
@@ -1453,7 +1453,7 @@ ns1:Bookfb059aad-d0c2-4038-8249-b64c707de971 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Eux"^^xsd:string ;
     ns1:publisher ns1:Leméac^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookfb4e7ce6-53e9-4462-8b80-fe44ace510f2 a ns1:Book ;
     ns1:author "Louis Hamelin"^^xsd:string ;
@@ -1462,7 +1462,7 @@ ns1:Bookfb4e7ce6-53e9-4462-8b80-fe44ace510f2 a ns1:Book ;
     ns1:genre "Romans et nouvelles"^^xsd:string ;
     ns1:name "La Constellation du Lynx"^^xsd:string ;
     ns1:publisher ns1:Boréal^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookfb7397e2-e1dc-4128-8eea-b0645c9ecd6e a ns1:Book ;
     ns1:author "René Lapierre"^^xsd:string ;
@@ -1471,7 +1471,7 @@ ns1:Bookfb7397e2-e1dc-4128-8eea-b0645c9ecd6e a ns1:Book ;
     ns1:genre "Poésie"^^xsd:string ;
     ns1:name "Les Adieux"^^xsd:string ;
     ns1:publisher ns1:Les_Herbes_Rouges^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookfeaffaa2-6edb-4eed-a4c9-9d3b89ccc39d a ns1:Book ;
     ns1:author "Sara Pennypacker"^^xsd:string ;
@@ -1480,7 +1480,7 @@ ns1:Bookfeaffaa2-6edb-4eed-a4c9-9d3b89ccc39d a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Le château des papayes"^^xsd:string ;
     ns1:publisher ns1:Gallimard_Jeunesse^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookfed10189-543b-4bbe-b44a-f8365d210b00 a ns1:Book ;
     ns1:author "Maude Nepveu-Villeneuve"^^xsd:string,
@@ -1490,7 +1490,7 @@ ns1:Bookfed10189-543b-4bbe-b44a-f8365d210b00 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Simone sous les ronces"^^xsd:string ;
     ns1:publisher ns1:Fonfon^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 
 ns1:Bookffc71533-ffbd-4312-92f9-6eef442b5f08 a ns1:Book ;
     ns1:author "Meritxell Martí"^^xsd:string,
@@ -1500,5 +1500,5 @@ ns1:Bookffc71533-ffbd-4312-92f9-6eef442b5f08 a ns1:Book ;
     ns1:genre "Jeunesse"^^xsd:string ;
     ns1:name "Sous les vagues"^^xsd:string ;
     ns1:publisher ns1:Les_400_Coups^^xsd:string ;
-    ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
+    ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
 

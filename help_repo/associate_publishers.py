@@ -9,7 +9,7 @@ ns1 = Namespace("http://schema.org/")
 
 # List of input file paths
 input_files = [
-    "./updated_output.ttl"
+    "./1_final_output_merged_final_demo.ttl"
 ]
 
 # Create a new graph

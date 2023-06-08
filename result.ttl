@@ -3138,7 +3138,8 @@ ns1:Prix_des_libraires skos:narrower ns1:Prix_des_libraires_Lauréat_2023_Essai_
         ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Hors_Québec,
         ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec,
         ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec,
-        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec,
+        ns1:Prix_des_libraires_Lauréats_0_4_Ans_Québec .
 
 ns1:Révélation_Livre_Jeunesse skos:narrower ns1:Révélation_Livre_Jeunesse2c48668a-8bb6-4533-aa05-5d883c6b2a5f,
         ns1:Révélation_Livre_Jeunesse3479cc1c-e679-410a-bff5-dc13256d6a4d,
@@ -4479,27 +4480,140 @@ ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Ans skos:narrower ns1:P
         ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Ansc4e611bb-465b-4c9d-bd61-5021feaf5bb0,
         ns1:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Anseb8ddacd-1210-4de7-8cee-597699642381 .
 
-ns1:Prix_des_libraires_Lauréat_2023_Essai_Québec skos:narrower ns1:Prix_des_libraires_Lauréat_2023_Essai_Québecab403eec-16a2-4c58-8961-16c4be9857bd .
+ns1:Prix_des_libraires_Lauréat_2023_Essai_Québec skos:narrower ns1:Prix_des_libraires_Lauréat_2023_Essai_Québecab403eec-16a2-4c58-8961-16c4be9857bd,
+        ns1:Prix_des_libraires_Lauréat_2023_Essai_Québec9c779877-e3fc-4d91-86a8-e3a04cb2c0fd,
+        ns1:Prix_des_libraires_Lauréat_2023_Essai_Québec8a74d7f4-7d60-4d13-b3c6-a9d28cb50e36,
+        ns1:Prix_des_libraires_Lauréat_2023_Essai_Québec60e23b19-c78e-497f-8952-6040784f141b,
+        ns1:Prix_des_libraires_Lauréat_2023_Essai_Québec3a1195ec-e034-4fb2-add5-d403d0e967c7 .
 
-ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec skos:narrower ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec2120db9f-30c0-4b8f-958c-a9e5a2015dfc .
+ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec skos:narrower ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec2120db9f-30c0-4b8f-958c-a9e5a2015dfc,
+        ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec43a02890-2af7-40db-b15e-ac22831d45a1,
+        ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec02f817ac-3a5b-4357-b79c-07f4dfb1342a,
+        ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québecd2d672d5-e97d-4193-9fe9-b81bfe53edda,
+        ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec1c1ecc1d-9baa-4119-b92a-cd831262dd99,
+        ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québec43fa783a-4163-44e1-acb2-ee0229bb0dc8,
+        ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québecf7a3e0eb-ab9a-4e86-b3d8-d2224c1b796f,
+        ns1:Prix_des_libraires_Lauréat_2023_Poésie_Québecaa34bc32-e843-44cd-8c29-1a7859787dfa .
 
 ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec skos:narrower ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec6f9057af-84be-4529-8221-f09abf3f365e,
-        ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec9e1be312-0628-4563-9acc-da98d0aaf40b .
+        ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec9e1be312-0628-4563-9acc-da98d0aaf40b,
+        ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec3d29071e-fdfc-4d38-b2fe-ecc7fe28a255,
+        ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québecb9b5c818-bdd9-41d4-93b6-25792abce8b3,
+        ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec35569d76-65d1-44f2-8498-cd4fce49351e,
+        ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec6bc663f9-3a3e-4910-8081-976d91d1d45d,
+        ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec46d70f7c-127f-47da-a234-b417222d1c71,
+        ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec2af9c4b0-9430-4aae-92ad-a48f9883db93,
+        ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québec9758df1d-8600-419e-a0fd-93c839462934,
+        ns1:Prix_des_libraires_Lauréats_0_5_Ans_Québecc54cf657-aa4d-443f-b186-625d46eb9c3a .
 
 ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec skos:narrower ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québecc89a2182-9111-4707-946a-5bb707ac73d8,
-        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072dd-0cd7-4915-bb26-6bd86917c34f .
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072dd-0cd7-4915-bb26-6bd86917c34f,
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec7575bace-38f7-40ac-a6bb-9192786be195,
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec5b998b8d-7d86-4e25-bcc8-7b48926cab17,
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec66488f2f-49cc-45bf-8a7e-f7cc740f002a,
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québecc416fd85-b16a-44bb-94ee-0c1cf551e829,
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec2d0db4b3-d696-4960-bad3-d3ca3e996fb8,
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québece8f857a5-ad5d-41e8-9285-16c72c0ab08e,
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec867fa08a-4b09-47fc-9006-edc5bff2fe23,
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québecb7d54e23-b122-415a-8fbc-115ac69de6b5,
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec168f4a12-3dee-4df9-a120-18b2bf73a66c,
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec23eda246-5f7f-47fb-bd4f-f3776247a476,
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québecdc140826-29d1-418b-93c3-cbc9409c866d,
+        ns1:Prix_des_libraires_Lauréats_12_17_Ans_Québec30cf7212-237f-4821-a8b0-8e216cb4f84f .
 
 ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec skos:narrower ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec610eb127-440f-4f88-b263-8fc11f4d46d7,
-        ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québecbd72b596-9449-450a-80b1-8d46b7669fc9 .
+        ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québecbd72b596-9449-450a-80b1-8d46b7669fc9,
+        ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec969e138e-daaa-4ee8-b1fb-08c80859bc5f,
+        ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québeca375a48e-ec60-4244-b313-414e0503c60e,
+        ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québeca1458a64-c34d-4022-9acf-152b0f9cb915,
+        ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québece1e87965-8d17-42af-9be3-a6a3a0747b4d,
+        ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec25d400e4-35e0-4d33-aac4-ba0d3f396e30,
+        ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec6c33a8fa-3a1c-4ade-ac4a-d459ad256d61,
+        ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec18d30f11-0e15-46de-a81f-b7cf417682c0,
+        ns1:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québecd86ab1e2-9057-4fd4-94c9-08fd8e707aed .
 
 ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec skos:narrower ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec63cd2214-71ae-428a-bd9a-e67b7318f33c,
-        ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québecd2001158-37e5-46bd-a0d6-3cbb63ead80f .
+        ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québecd2001158-37e5-46bd-a0d6-3cbb63ead80f,
+        ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec31f6f1b9-17da-42d5-9e08-9b7cb2aeb7a1,
+        ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québecef2b970c-243e-499e-9b2f-2b23c599cb32,
+        ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec1c8078b5-aa64-473a-b66a-604953833bcd,
+        ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec5ad27298-72e5-44df-bfd1-3bb6ebdad6c2,
+        ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québeceb1581ca-06ed-4f00-b21e-694a9f27b2c2,
+        ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québece8a2476a-b7f1-4610-b8e7-1c5d58268c02,
+        ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec18e7b7c8-830d-472d-bba9-bd9f469d977c,
+        ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec74b4a83e-9f1e-48fe-b51b-71b8a09bd1fb,
+        ns1:Prix_des_libraires_Lauréats_6_11_Ans_Québec64c8de83-119a-4b1d-8798-35fbd11a6b32 .
 
 ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec skos:narrower ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec9350c0c7-2878-4d28-8ada-d51079755b75,
-        ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québecd2151bfc-410b-46e8-af99-1a9d58d4fa24 .
+        ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québecd2151bfc-410b-46e8-af99-1a9d58d4fa24,
+        ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québecbd9d4cd9-a9b7-4a4c-83f9-cf6b925aed24,
+        ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec8493fe0e-6ca6-4133-87c5-3992e6385a9d,
+        ns1:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québece3a2a54b-a841-49e6-a279-111740798d10 .
+
+ns1:Prix_des_libraires_Lauréats_0_4_Ans_Québec ns1:ns1:Prix_des_libraires_Lauréats_0_4_Ans_Québec713a0b20-e031-4d2b-bfb0-252f29110214,
+        ns1:Prix_des_libraires_Lauréats_0_4_Ans_Québecb75e5713-0d96-4b56-ac58-44fd845a60f4,
+        ns1:Prix_des_libraires_Lauréats_0_4_Ans_Québec280271a1-642c-40ab-bb59-5ae8260ee7c6,
+        ns1:Prix_des_libraires_Lauréats_0_4_Ans_Québec7d7d46fd-2586-45da-8197-23956336a188,
+        ns1:Prix_des_libraires_Lauréats_0_4_Ans_Québecd87e4c5d-be8d-4116-b14c-f2f26de897e4,
+        ns1:Prix_des_libraires_Lauréats_0_4_Ans_Québece87f9625-4ae4-4c06-8b1e-016c5d5b19b4 .
 
 ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec skos:narrower ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec1e94a181-def6-45ac-8c3f-83fab1816eb8,
-        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecb9dcce3f-9f35-4cb4-9006-d655959284af .
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecb9dcce3f-9f35-4cb4-9006-d655959284af,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecf8b4aaa6-5ac5-4914-b6b5-0b71ef26fac1,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec03b7d771-9b08-4a16-9736-23ce936370b4,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecb8fec82f-0a04-4bd1-a933-ae33b00f790c,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecec5a3459-f576-41dd-835a-12614387dac7,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecadaf61ca-3f73-414d-8333-ccbb680bd69b,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec8733f939-848c-4dd8-98f7-7b6e8cab90bc,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec745169d6-c248-4f7a-94c4-5653b7090bfa,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec69a249ec-d316-49e8-ab89-ec5cb21514ca,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec20ca8cd3-2fef-4cfe-ba3f-c6e3ea93cdef,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecce3cc586-8b78-4faa-807e-d7094bb5720c,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecde204dff-687d-43e2-a848-91f25364f5b4,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecc09ddcfd-9ed6-43fe-8d68-92ca4c3e1efd,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecddf1455d-8d75-4b4b-a69a-f4ed0d2ebf35,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecb7ecea3e-0bd0-4dd2-a22f-3083ec43365f,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec6862600a-57c3-44a8-aaab-a9b163b6992b,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec1b571629-c5e0-4430-908b-bb76fd59ecb3,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québeca2da5a71-54f1-438e-a104-8164925614f1,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québece2b58a94-3702-4a0b-bbc9-abcf3bab89b0,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec4a226402-d957-4ba9-925d-4d6858780b00,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecaba99c7b-f91f-498e-a7b3-dd206916ffb4,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec32663bb8-767c-4255-a781-cd11e4955062,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecc4e476ac-c7a8-44bf-b555-0328f37f56a6,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec694b8c87-44bd-467e-ac35-0ab01277fbe8,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québece9ec4fd0-aa00-4e25-a1a6-944baad562cd,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecc9f79b04-c3c3-4454-bf66-8f3b3b401fd3,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec12ef4400-fe12-4f8a-91af-30e89313eacd,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecdfc541f6-6b17-4394-8832-c5788da8813a,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec31242bac-6f77-4d98-b935-2b097e5d7dec,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecc07efd5d-0ede-48ab-ae60-b638f31f14ad,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec728615ca-aa6d-4631-ae56-a621bdee2f30,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec96843eb1-6101-4124-b1f7-e28cb51dd94f,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québeca5278d88-3d24-497c-a3b8-fc79fb6b0582,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec01efa9e2-a185-47ff-b2a2-f3198c475eb7,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec88e5c181-b4ab-41ae-a7ff-8cff541d58f1,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec276c89c1-ae2a-458f-b68d-8f965fdefbf2,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec7b9ddefd-8af1-4178-84b2-a231f339a15c,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec08c5c5a4-807a-48f3-89db-4070afdc82a5,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec9fa0aeef-a470-44a5-8ded-98926e1befa7,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec5d1d2c36-e7e8-4017-8421-560e7216df9b,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec1f1a7d32-5774-44fc-85ff-4cc269f849bb,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecd0ac0134-f0fe-4542-b321-f12c22358956,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec9aea7765-f69e-41e7-aa91-3d61a31fc485,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec172ba97c-5c79-40ad-9d04-203ace6bd92d,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec1d2bbfae-5578-4560-8f44-a69b3b315472,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec46ab263d-638c-4075-91f5-c92bb73e5079,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec2505f863-6a08-4aad-9403-ce82aba1a537,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québece2d774ac-c3d5-4ada-9a7d-b1a0f29ac45f,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec47b75c8f-7daa-45a8-9ae2-52958f190e43,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec98d25895-70e7-4f13-a753-9315bbd108ac,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec37ac8ee4-8526-4177-b362-8a3c3a885738,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec420d396a-21f9-444e-a8d8-245c69f1050e,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecf022dcc6-4928-4f75-bbd7-993585cf99a7,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec49110d75-6331-4f62-bce2-211ffb776f38,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec7f01aa30-8c45-4e0e-bed5-62f3b8e83af1,
+        ns1:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec6e09f5db-8f32-4c25-883d-ae2584f9a727 .
 
 ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Bande_Dessinée skos:narrower ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Bande_Dessinée05725094-c4e8-4658-83f4-1ef6d9cc774f,
         ns1:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Bande_Dessinée836af087-f929-43f1-9f94-d24f2f0b463c,

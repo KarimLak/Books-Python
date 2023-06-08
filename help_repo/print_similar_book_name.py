@@ -6,7 +6,7 @@ from unidecode import unidecode
 
 # Load the main data graph
 g_main = Graph()
-g_main.parse("./updated_output.ttl", format="turtle")
+g_main.parse("./1_final_output_merged_final_demo.ttl", format="turtle")
 
 ns1 = Namespace("http://schema.org/")
 
