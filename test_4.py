@@ -22,22 +22,34 @@ def has_description(node):
         return True
     return False
 
+def has_genre(node):
+    """
+    Check if a given node has a genre.
+    """
+    if (node, PBS.genreLittéraire, None) in graph:
+        return True
+    return False
+
 def find_parent(node):
     """
     Find the parent of a given node.
     """
-    for parent in graph.objects(None, SKOS.narrower):
-        if node in parent:
-            return parent
+    for parent in graph.subjects(SKOS.narrower, node):
+        return parent
     return None
+
+# Create a set to hold the seen parents
+seen_parents = set()
 
 # Iterate over all awards
 for award in graph.subjects(RDF.type, MCC['MCC-E12']):
     parent = find_parent(award)
     grandparent = find_parent(parent) if parent else None
+    great_grandparent = find_parent(grandparent) if grandparent else None
 
-    if parent and grandparent:
-        if not has_description(parent) and not has_description(grandparent):
-            # If neither the parent nor the grandparent has a description, print the book URI
-            book_uri = graph.value(award, MCC['R37'])
-            print(book_uri)
+    if parent and grandparent and great_grandparent:
+        if not has_description(parent) and not has_description(grandparent) and not has_genre(great_grandparent):
+            # If either the parent or the grandparent doesn't have a description, or the great grandparent doesn't have a genre, print the parent URI
+            if parent not in seen_parents:
+                print(parent)
+                seen_parents.add(parent)

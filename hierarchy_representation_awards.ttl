@@ -2901,6 +2901,8 @@ ns1:Prix_Rts_Littérature_Ados skos:narrower ns1:Prix_Rts_Littérature_Ados1ff8b
         ns1:Prix_Rts_Littérature_Adosf08ccc18-ac31-4968-af02-02673c36c741,
         ns1:Prix_Rts_Littérature_Adosfd2da637-0ed4-4aa7-886a-e20d8297f0aa .
 
+ns1:Prix_Saint_Exupéry skos:narrower ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse .
+
 ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse skos:narrower ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse253a8195-9897-42b4-8f2c-b7dfc825c6fa,
         ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse2d260943-474f-4d2d-9316-272e9df50fca,
         ns1:Prix_Saint_Exupéry_Valeurs_Jeunesse96a30efc-5aa6-419c-8242-e7d5a9850845,

@@ -21344,7 +21344,9 @@ schema:Prix_Magazine_Enfants_Québec_Du_Meilleur_Album_Jeunesse a pbs:Award ;
     schema:name "Prix Magazine Enfants Québec du meilleur Album Jeunesse" .
 
 schema:Prix_Saint_Exupéry_Valeurs_Jeunesse a pbs:Award ;
-    schema:name "Prix Saint-Exupéry - Valeurs Jeunesse" .
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:description "A travers une sélection d’ouvrages de langue française qui encouragent la lecture chez les jeunes par leur qualité d’écriture et leur inspiration, le Prix Saint-Exupéry - Valeurs Jeunesse récompense depuis 1987 les œuvres littéraires destinées à la jeunesse qui portent les valeurs de l’œuvre de Saint-Exupéry et le sens de sa vie : L’audace, celle des premiers vols de nuit, Le courage de surmonter les obstacles et la volonté de survie, La solidarité en cultivant la fraternité, La sagesse : discerner et dépasser les dimensions trop matérielles." ;
+    schema:name "Prix Saint-Exupéry" .
 
 schema:Prix_Talents_Cultura_Les_Talents_Bandes_Dessinées_2021 a pbs:Award ;
     schema:name "Prix Talents Cultura - Les Talents Bandes Dessinées" .
