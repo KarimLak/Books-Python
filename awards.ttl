@@ -21279,7 +21279,7 @@ schema:Prix_Cendres a pbs:Award ;
 schema:Prix_Ibby_Belgique_Francophone a pbs:Award ;
     pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE ;
     schema:description "Les Prix IBBY Belgique francophone ont été créés en 2022 par la Section belge francophone de IBBY. Ils récompensent le meilleur album de l’année écoulée dans trois catégories : album, album belge et album drôle. Les éditeurs sont invités à faire parvenir leurs livres à la Section belge francophone de IBBY, dont les membres peuvent également proposer des titres. La Section belge francophone demande pour le premier tour aux trois centres de littérature de jeunesse de Belgique francophone et à une demi-douzaine de librairies ayant un riche rayon jeunesse de lui proposer leurs cinq titres préférés dans chacune des catégories. Elle complète les réponses obtenues de ses choix propres. Appel est fait à tous les membres de la Section belge francophone de faire partie du jury à chacun des tours. Ce dernier, parmi lequel on retrouve également le Conseil d'administration de IBBY Belgique francophone, met en avant des albums de grandes qualités graphique et littéraire, accessibles au plus grand nombre d'enfants, lecteurs expérimentés ou non, en conformité avec les missions de IBBY. Il n’y a pas de tranche d’âge spécifique pour la sélection, mais les albums sont toutefois accessibles à une large gamme d'âges, d’environ 3 à 8 ans. Les lauréats des Prix, dotés par la Fondation Monique Martin - Gabrielle Vincent, sont dévoilés en janvier de l’année suivante." ;
-    schema:name "Prix IBBY Belgique francophone" .
+    schema:name "Prix IBBY Belgique francophone" ;
     pbs:groupeAge "3",
         "4",
         "5",

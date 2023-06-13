@@ -1,53 +1,43 @@
-from rdflib import Graph, Namespace, Literal, URIRef
-from rdflib.namespace import XSD
+from rdflib import Graph, Namespace, Literal, RDF
+import glob
 
-# Define your namespaces
-ns1 = Namespace("http://schema.org/")
-mcc = Namespace("http://example.com/mcc#")
-schema = Namespace("http://schema.org/")
-pbs = Namespace("http://example.com/pbs#")
+# Define the namespaces
+MCC = Namespace("http://example.com/mcc#")
+PBS = Namespace("http://example.com/pbs#")
+SCHEMA = Namespace("http://schema.org/")
+SKOS = Namespace("http://www.w3.org/2004/02/skos/core#")
 
-# Load your graphs
-books = Graph()
-books.parse("./books.ttl", format="ttl")
+# Create an empty graph
+graph = Graph()
 
-awards = Graph()
-awards.parse("./awards.ttl", format="ttl")
+# Load the RDF data from the awards and hierarchy_representation_awards files
+graph.parse("./awards.ttl", format="turtle")
+graph.parse("./hierarchy_representation_awards.ttl", format="turtle")
 
-# Create dictionaries for storing the books URIs
-genre_to_books = {
-    "Album": [],
-    "Petit roman illustré": [],
-    "Bande dessinée": [],
-    "Relève": [],
-}
+def has_description(node):
+    """
+    Check if a given node has a description.
+    """
+    if (node, SCHEMA.description, None) in graph:
+        return True
+    return False
 
-# Iterate over the books and add the book URI to the corresponding genre list
-for s, p, o in books.triples((None, ns1.award, None)):
-    if "ustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivi" in str(o):
-        for genre in genre_to_books.keys():
-            book_genres = [str(o) for o in books.objects(s, ns1.genre)]
-            if genre in book_genres:
-                genre_to_books[genre].append(str(s))
+def find_parent(node):
+    """
+    Find the parent of a given node.
+    """
+    for parent in graph.objects(None, SKOS.narrower):
+        if node in parent:
+            return parent
+    return None
 
-# Now genre_to_books dictionary contains the book URIs categorized by genre
-# Create a dictionary to store award URIs instead of book URIs
-genre_to_awards = {genre: [] for genre in genre_to_books.keys()}
+# Iterate over all awards
+for award in graph.subjects(RDF.type, MCC['MCC-E12']):
+    parent = find_parent(award)
+    grandparent = find_parent(parent) if parent else None
 
-# Iterate over the awards and replace the book URIs with the award URIs
-for genre, book_uris in genre_to_books.items():
-    for book_uri in book_uris:
-        for s, p, o in awards.triples((None, mcc.R37, URIRef(book_uri))):
-            genre_to_awards[genre].append(str(s))
-
-# Now genre_to_awards dictionary contains the award URIs categorized by genre
-# Now genre_to_awards dictionary contains the award URIs categorized by genre
-for genre, awards in genre_to_awards.items():
-    print(f"Genre: {genre}")
-    # Inside your loop
-    for award in awards:
-        # Convert the URI to the preferred format
-        award_formatted = award.replace('http://schema.org/', 'ns1:')
-        print(f"{award_formatted},")
-    print("\n")
-
+    if parent and grandparent:
+        if not has_description(parent) and not has_description(grandparent):
+            # If neither the parent nor the grandparent has a description, print the book URI
+            book_uri = graph.value(award, MCC['R37'])
+            print(book_uri)

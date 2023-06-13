@@ -746,7 +746,7 @@ ns1:Prix_Cendres skos:narrower ns1:Prix_Cendres89aa01b7-b3c4-45c4-b125-f4e0af6bd
         ns1:Prix_Cendresed4faf0a-bd66-4785-b161-23b5ff02b330 .
 
 ns1:Prix_Chimère skos:narrower ns1:Prix_Chimère_11_14,
-        Prix_Chimère_15_18 .
+        ns1:Prix_Chimère_15_18 .
 
 ns1:Prix_Chimère_11_14 skos:narrower ns1:ns1:Prix_Chimère72742675-36e6-4c9f-bee4-d59584d25bb6,
         ns1:Prix_Chimèree94bf67b-2ed5-4488-adc5-6b1dde1dec79,
@@ -1185,7 +1185,7 @@ ns1:Prix_Du_1èr_Album skos:narrower ns1:Prix_Du_1èr_Album43c24f23-4480-407c-ac
         ns1:Prix_Du_1èr_Album93ea1440-1493-4c7b-a0c7-7bde94ca72e7 .
 
 ns1:Prix_Du_Conseil_Des_Arts_Du_Canada skos:narrower ns1:Prix_Du_Conseil_Des_Arts_Du_Canada_Illustration,
-        Prix_Du_Conseil_Des_Arts_Du_Canada_Texte .
+        ns1:Prix_Du_Conseil_Des_Arts_Du_Canada_Texte .
 
 ns1:Prix_Du_Conseil_Des_Arts_Du_Canada_Illustration skos:narrower ns1:Prix_Du_Conseil_Des_Arts_Du_Canada4fbdafb5-975d-4d7d-b507-82925aca9cfd,
         ns1:Prix_Du_Conseil_Des_Arts_Du_Canada75ec050c-9e68-464d-9bba-b0e078edd0b3,
