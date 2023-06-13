@@ -20323,6 +20323,12 @@ pbs:ROMAN_HISTORIQUE a pbs:GenreLitteraire ;
 pbs:SCIENCE_FICTION a pbs:GenreLitteraire ;
     rdfs:label "Science-Fiction" .
 
+pbs:BD a pbs:GenreLitteraire ;
+    rdfs:label "Bande Dessinée" .
+
+pbs:RELEVE a pbs:GenreLitteraire ;
+    rdfs:label "Relève" .
+
 schema:Award rdfs:subClassOf schema:Organization .
 
 schema:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_L_Adaptation_Cinéma_D_Animation a pbs:Award ;
@@ -21274,6 +21280,12 @@ schema:Prix_Ibby_Belgique_Francophone a pbs:Award ;
     pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE ;
     schema:description "Les Prix IBBY Belgique francophone ont été créés en 2022 par la Section belge francophone de IBBY. Ils récompensent le meilleur album de l’année écoulée dans trois catégories : album, album belge et album drôle. Les éditeurs sont invités à faire parvenir leurs livres à la Section belge francophone de IBBY, dont les membres peuvent également proposer des titres. La Section belge francophone demande pour le premier tour aux trois centres de littérature de jeunesse de Belgique francophone et à une demi-douzaine de librairies ayant un riche rayon jeunesse de lui proposer leurs cinq titres préférés dans chacune des catégories. Elle complète les réponses obtenues de ses choix propres. Appel est fait à tous les membres de la Section belge francophone de faire partie du jury à chacun des tours. Ce dernier, parmi lequel on retrouve également le Conseil d'administration de IBBY Belgique francophone, met en avant des albums de grandes qualités graphique et littéraire, accessibles au plus grand nombre d'enfants, lecteurs expérimentés ou non, en conformité avec les missions de IBBY. Il n’y a pas de tranche d’âge spécifique pour la sélection, mais les albums sont toutefois accessibles à une large gamme d'âges, d’environ 3 à 8 ans. Les lauréats des Prix, dotés par la Fondation Monique Martin - Gabrielle Vincent, sont dévoilés en janvier de l’année suivante." ;
     schema:name "Prix IBBY Belgique francophone" .
+    pbs:groupeAge "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8" .
 
 schema:Prix_Imaginales_Catégorie_Album a pbs:Award ;
     pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE ;
@@ -21669,6 +21681,24 @@ schema:Le_Prix_Espiègle a pbs:Award ;
     schema:description "Le Prix Espiègle est décerné par l’APSDS, l’Association pour la promotion des services documentaires scolaire, qui réunit des responsables de bibliothèques scolaires. Il est décerné pour des livres «d’une grande qualité littéraire, audacieux, malicieux, qui osent». Chaque volet comporte une bourse de mille dollars : livres destinés au primaire (5 à 11 ans), livres destinés au secondaire (12 à 17 ans)." ;
     schema:name "Le Prix Espiègle" .
 
+schema:Le_Prix_Espiègle_Primaire a pbs:Award ;
+    pbs:groupeAge "5",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11" .
+
+schema:Le_Prix_Espiègle_Secondaire a pbs:Award ;
+    pbs:groupeAge "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17" .
+
 schema:Prix_Du_Roman_Historique_Jeunesse_Cm2_6ème a pbs:Award ;
     pbs:groupeAge "10",
         "11" .
@@ -21905,6 +21935,12 @@ schema:Prix_Du_Conseil_Des_Arts_Du_Canada a pbs:Award ;
     schema:description "En 1975, le Conseil des Arts du Canada instituait deux prix pour récompenser les meilleures œuvres de littérature pour la jeunesse, l’une de langue française et l’autre de langue anglaise. Puis deux prix furent remis respectivement au meilleur auteur et au meilleur illustrateur, tant francophone qu’anglophone. Depuis 1987, ces prix sont intégrés aux Prix littéraires du Gouverneur général du Canada, sous la catégorie «Littérature jeunesse», texte et illustration." ;
     schema:name "Prix du Conseil des Arts du Canada" .
 
+schema:Prix_Du_Conseil_Des_Arts_Du_Canada_Illustration a pbs:Award ;
+    pbs:genreLittéraire pbs:ILLUSTRATION .
+
+schema:Prix_Du_Conseil_Des_Arts_Du_Canada_Texte a pbs:Award ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE .
+
 schema:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or a pbs:Award ;
     schema:name "Biennale de l'illustration de Bratislava - Plaque D'or" .
 
@@ -21941,6 +21977,20 @@ schema:Prix_Ficelle a pbs:Award ;
     schema:description "Le Prix Ficelle a été créé en 2011 par quelques bibliothécaires du réseau de la Médiathèque Départementale de l’Oise, qui ont eu l'envie de travailler ensemble avec un but commun promouvoir la littérature jeunesse sur leur territoire. Le Prix a fait du chemin au fil des ans, entraînant dans son sillage un nombre croissant de bibliothèques. Ce Prix récompense un album parmi 5 titres sélectionnés à partir des coups de cœur des bibliothécaires participants, dans chacune des trois catégories proposées : la première est accessible aux 3-5 ans, la seconde destinée aux 6-7 ans et la dernière aux 8-10 ans." ;
     schema:name "Prix Ficelle" .
 
+schema:Prix_Ficelle_8_10 a pbs:Award ;
+    pbs:groupeAge "8",
+        "9",
+        "10" .
+
+schema:Prix_Ficelle_3_5 a pbs:Award ;
+    pbs:groupeAge "3",
+        "4",
+        "5" .
+
+schema:Prix_Ficelle_6_7 a pbs:Award ;
+    pbs:groupeAge "6",
+        "7" .
+
 schema:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or a pbs:Award ;
     schema:name "Biennale de l'illustration de Bratislava - Pomme D'or" .
 
@@ -21953,6 +22003,18 @@ schema:Prix_Chimère a pbs:Award ;
     pbs:genreLittéraire pbs:ROMAN ;
     schema:description "Créé par la Librairie l'ange bleu, le prix Chimère récompense un roman lié à l’imaginaire. Destiné aux jeunes de 11 à 18 ans, ils composent aussi le jury qui décerne le prix. L’objectif est d’amener les jeunes lecteurs à la découverte de romans de qualité et à fréquenter les Centres de Documentation et d’information (CDI) ainsi que les bibliothèques et médiathèques." ;
     schema:name "Prix Cendres" .
+
+schema:Prix_Chimère_11_14 a pbs:Award ;
+    pbs:groupeAge "11",
+        "12" ,
+        "13" ,
+        "14" .
+
+schema:Prix_Chimère_15_18 a pbs:Award ;
+    pbs:groupeAge "15",
+        "16" ,
+        "17" ,
+        "18" .
 
 schema:Prix_Chronos_De_Littérature_Maternelle_Cp a pbs:Award ;
     pbs:groupeAge "5",
@@ -22010,6 +22072,10 @@ schema:Prix_De_La_Pièce_De_Théâtre_Contemporain_Pour_Le_Jeune_Public_3Ème_2N
     pbs:groupeAge "14",
         "15" .
 
+schema:Prix_De_La_Pièce_De_Théâtre_Contemporain_Pour_Le_Jeune_Public_CM2_6Ème a pbs:Award ;
+    pbs:groupeAge "10",
+        "11" .
+
 schema:Prix_Jacques_Asklund a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "La ville de Beaugency, avec le soutien de la Communauté de Communes des Terres du Val de Loire, décerne chaque année le Prix Jacques Asklund, anciennement le Prix Beaugency, à l’auteur·rice du livre choisi pour la qualité de son intrigue. Le nom de ce Prix a changé en 2015 pour rendre hommage à cette personnalité marquante de la ville qu’était M. Jacques Asklund. Les romans du Prix Jacques Asklund sont sélectionnés par des membres des bibliothèques du réseau de lecture publique de la CCTVL et de Val de Lire. Ils s'adressent aux enfants de CM2-6e-5e du territoire, qui désignent un-e lauréat-e à qui le Prix est remis lors du Salon du Livre jeunesse de Beaugency et Saint-Laurent-Nouan, organisé par l’association Val de Lire." ;
@@ -22028,6 +22094,12 @@ schema:Prix_Cécile_Gagnon a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "Créé en 1997 par l'Association des écrivaines et des écrivains québécois pour la jeunesse (AEQJ), le prix Cécile-Gagnon veut rendre hommage à cette grande écrivaine pour la jeunesse, l'une des pionnières de cette forme très particulière de littérature. Le prix est destiné exclusivement aux auteurs d'une première oeuvre de fiction pour la jeunesse, publiée entre le 1er septembre et le 31 août précédant la date d'attribution du prix. Il a d'abord récompensé les auteurs de romans et en 2004 s'est ajouté un second volet visant à honorer les nouveaux auteurs d’albums pour la jeunesse. En 2019, lors de l’Assemblée générale annuelle des membres, il a été établi que le Prix Cécile-Gagnon serait remis au volet roman, aux années paires et au volet album, les années impaires." ;
     schema:name "Prix Cécile-Gagnon" .
+
+schema:Prix_Cécile_Gagnon_ROMAN a pbs:Award ;
+    pbs:genreLittéraire pbs:ROMAN .
+
+schema:Prix_Cécile_Gagnon_ALBUM a pbs:Award ;
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE .
 
 schema:Prix_Td_De_Littérature_Canadienne_Pour_L_Enfance_Et_La_Jeunesse a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
@@ -22052,12 +22124,39 @@ schema:Prix_De_La_Semaine_Paul_Hurtmans_Du_Livre_De_Jeunesse a pbs:Award ;
 schema:Goncourt_Des_Lycéens a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "Organisé par la Fnac et le Ministère de l’Education Nationale, le Prix Goncourt des lycéens est décerné par de jeunes lecteurs âgés de 15 à 18 ans. A l’aide de leurs professeurs et de l’Association Bruit de Lire, les lycéens lisent et étudient les ouvrages sélectionnés par l’Académie Goncourt." ;
-    schema:name "Goncourt des Lycéens" .
+    schema:name "Goncourt des Lycéens" ;
+    pbs:groupeAge "15",
+        "16",
+        "17",
+        "18" .
 
 schema:Prix_Du_Livre_M_Christie a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "Prix parrainés par la compagnie Christie Brown et comportant un volet anglophone et un volet francophone. Les prix ont d’abord été décernés dans deux catégories: texte et illustrations, puis dans trois catégories: publications destinées aux enfants de sept ans et moins, de huit à onze ans et aux adolescents de douze ans et plus. Chaque lauréat reçoit un prix de 7 500 $." ;
     schema:name "Prix du Livre M.Christie" .
+
+schema:Prix_Du_Livre_M_Christie_0_7 a pbs:Award ;
+pbs:groupeAge "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7" .
+
+schema:Prix_Du_Livre_M_Christie_8_11 a pbs:Award ;
+pbs:groupeAge "8",
+        "9",
+        "10",
+        "11" .
+
+schema:Prix_Du_Livre_M_Christie_12_16 a pbs:Award ;
+pbs:groupeAge "12",
+        "13",
+        "14",
+        "15",
+        "16" .
 
 schema:Grand_Prix_Des_Jeunes_Lecteurs_De_La_Peep a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
@@ -22089,6 +22188,18 @@ schema:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières a pbs:Award 
     schema:description "Prix remis au Salon du livre de Trois-Rivières récompensant le travail des illustrateurs de livres pour la jeunesse. La première année le prix ne comportait qu’une catégorie: l’album. Il en comprend maintenant trois: «Album», «Petit roman illustré» et «Relève», chacune dotée d'une bourse de mille dollars." ;
     schema:name "Prix Illustration Jeunesse Salon du Livre de Trois Rivières" .
 
+schema:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières_Album a pbs:Award ;
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE .
+
+schema:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières_Roman a pbs:Award ;
+    pbs:genreLittéraire pbs:ROMAN .
+
+schema:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières_BD a pbs:Award ;
+    pbs:genreLittéraire pbs:BD .
+
+schema:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières_Releve a pbs:Award ;
+    pbs:genreLittéraire pbs:RELEVE .
+
 pbs:LIVRE_JEUNESSE a pbs:GenreLitteraire ;
     rdfs:label "Livre Jeunesse" .
 
@@ -22101,6 +22212,30 @@ schema:Gayant_Lecture a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "Le Gayant Lecture est décerné chaque année par l'Association Brouillons de Culture. Il a concerné les 11-13 ans la première année. Il concerne à présent les enfants et les adolescents de 4 à 16 ans. On distingue 5 catégories. Il est accessible à tous les établissements de la région (bibliothèques, médiathèques, écoles, collèges, lycées, centres sociaux...). Ce Prix est décerné lors du Salon du Livre Jeunesse de Douai." ;
     schema:name "Gayant Lecture" .
+
+schema:Gayant_Lecture_4_6 a pbs:Award ;
+    pbs:groupeAge "4",
+        "5",
+        "6" .
+
+schema:Gayant_Lecture_7_8 a pbs:Award ;
+    pbs:groupeAge "7",
+        "8" .
+
+schema:Gayant_Lecture_9_11 a pbs:Award ;
+    pbs:groupeAge "9",
+        "10",
+        "11" .
+
+schema:Gayant_Lecture_12_13 a pbs:Award ;
+    pbs:groupeAge "12",
+        "13" .
+
+schema:Gayant_Lecture_14_17 a pbs:Award ;
+    pbs:groupeAge "14",
+        "15",
+        "16",
+        "17" .
 
 schema:Prix_Libbylit a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
