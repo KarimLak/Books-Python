@@ -1,55 +1,42 @@
-from rdflib import Graph, Namespace, Literal, RDF
-import glob
+import rdflib
+
+# Load the books and awards graphs
+books = rdflib.Graph()
+books.parse("./books.ttl", format="ttl")
+
+awards = rdflib.Graph()
+awards.parse("./awards.ttl", format="ttl")
 
 # Define the namespaces
-MCC = Namespace("http://example.com/mcc#")
-PBS = Namespace("http://example.com/pbs#")
-SCHEMA = Namespace("http://schema.org/")
-SKOS = Namespace("http://www.w3.org/2004/02/skos/core#")
+ns1 = rdflib.Namespace("http://schema.org/")
+pbs = rdflib.Namespace("http://example.com/pbs#")
+mcc = rdflib.Namespace("http://example.com/mcc#")
 
-# Create an empty graph
-graph = Graph()
+# Get all the books in the books file
+book_resources = list(books.subjects(predicate=rdflib.RDF.type, object=ns1.Book))
 
-# Load the RDF data from the awards and hierarchy_representation_awards files
-graph.parse("./awards.ttl", format="turtle")
-graph.parse("./hierarchy_representation_awards.ttl", format="turtle")
+for book in book_resources:
+    # Remove the old awards properties
+    old_awards = list(books.objects(subject=book, predicate=ns1.award))
+    for award in old_awards:
+        books.remove((book, ns1.award, award))
 
-def has_description(node):
-    """
-    Check if a given node has a description.
-    """
-    if (node, SCHEMA.description, None) in graph:
-        return True
-    return False
+    # Convert the book to a string format and remove 'ns1:' prefix
+    book_str = str(book).replace('ns1:', 'schema:')
 
-def has_genre(node):
-    """
-    Check if a given node has a genre.
-    """
-    if (node, PBS.genreLittéraire, None) in graph:
-        return True
-    return False
+    # Get the award resources in the awards file that match the book
+    award_resources = list(awards.subjects(predicate=mcc.R37, object=rdflib.URIRef(book_str)))
 
-def find_parent(node):
-    """
-    Find the parent of a given node.
-    """
-    for parent in graph.subjects(SKOS.narrower, node):
-        return parent
-    return None
+    for award_resource in award_resources:
+        # Get the actual award name that the award_resource points to
+        award = awards.value(subject=award_resource, predicate=pbs.award)
 
-# Create a set to hold the seen parents
-seen_parents = set()
+        # Get the award name
+        award_name = awards.value(subject=award, predicate=ns1.name)
 
-# Iterate over all awards
-for award in graph.subjects(RDF.type, MCC['MCC-E12']):
-    parent = find_parent(award)
-    grandparent = find_parent(parent) if parent else None
-    great_grandparent = find_parent(grandparent) if grandparent else None
+        # Add the new award property to the book
+        if award_name is not None:
+            books.add((book, ns1.award, rdflib.Literal(award_name)))
 
-    if parent and grandparent and great_grandparent:
-        if not has_description(parent) and not has_description(grandparent) and not has_genre(great_grandparent):
-            # If either the parent or the grandparent doesn't have a description, or the great grandparent doesn't have a genre, print the parent URI
-            if parent not in seen_parents:
-                print(parent)
-                seen_parents.add(parent)
+# Save the modified books file
+books.serialize(destination="./books_updated.ttl", format="ttl")
