@@ -1,27 +1,51 @@
-from rdflib import Graph, Namespace
-from rdflib.namespace import SKOS
+from rdflib import Graph, Namespace, Literal, URIRef
+from rdflib.namespace import XSD
 
-# Load your files
-awards_graph = Graph()
-awards_graph.parse('awards.ttl', format='turtle')
+# Define your namespaces
+ns1 = Namespace("http://schema.org/")
+mcc = Namespace("http://example.com/mcc#")
+schema = Namespace("http://schema.org/")
+pbs = Namespace("http://example.com/pbs#")
 
-hierarchy_graph = Graph()
-hierarchy_graph.parse('hierarchy_representation_awards.ttl', format='turtle')
+# Load your graphs
+books = Graph()
+books.parse("./books.ttl", format="ttl")
 
-# Define your namespace
-pbs = Namespace('http://example.com/pbs#')
-mcc = Namespace('http://example.com/mcc#')
+awards = Graph()
+awards.parse("./awards.ttl", format="ttl")
 
-# Get all the awards of type MCC-E12 in the awards file
-awards_to_remove = set()
-for subj, _, _ in awards_graph.triples((None, None, mcc['MCC-E12'])):
-    awards_to_remove.add(subj)
+# Create dictionaries for storing the books URIs
+genre_to_books = {
+    "Littérature jeunesse": [],
+    "Album jeunesse": [],
+    "Roman ado": []
+}
 
-# Iterate over the triples in your hierarchy file
-for subj, pred, obj in list(hierarchy_graph.triples((None, SKOS.narrower, None))):
-    # If the object (award) is in the set of awards to remove, delete the triple
-    if obj in awards_to_remove:
-        hierarchy_graph.remove((subj, pred, obj))
+# Iterate over the books and add the book URI to the corresponding genre list
+for s, p, o in books.triples((None, ns1.award, None)):
+    if "Prix_Libr_À_Nous" in str(o):
+        for genre in genre_to_books.keys():
+            book_genres = [str(o) for o in books.objects(s, ns1.genre)]
+            if genre in book_genres:
+                genre_to_books[genre].append(str(s))
 
-# Serialize the modified graph back to turtle
-hierarchy_graph.serialize(destination='modified_hierarchy.ttl', format='turtle')
+# Now genre_to_books dictionary contains the book URIs categorized by genre
+# Create a dictionary to store award URIs instead of book URIs
+genre_to_awards = {genre: [] for genre in genre_to_books.keys()}
+
+# Iterate over the awards and replace the book URIs with the award URIs
+for genre, book_uris in genre_to_books.items():
+    for book_uri in book_uris:
+        for s, p, o in awards.triples((None, mcc.R37, URIRef(book_uri))):
+            genre_to_awards[genre].append(str(s))
+
+# Now genre_to_awards dictionary contains the award URIs categorized by genre
+# Now genre_to_awards dictionary contains the award URIs categorized by genre
+for genre, awards in genre_to_awards.items():
+    print(f"Genre: {genre}")
+    # Inside your loop
+    for award in awards:
+        # Convert the URI to the preferred format
+        award_formatted = award.replace('http://schema.org/', 'ns1:')
+        print(f"{award_formatted},")
+    print("\n")

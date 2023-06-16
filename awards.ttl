@@ -11227,92 +11227,92 @@ pbs:Prix_Libbylitf9cf812b-d434-4716-8f01-ff9b2c12960b a mcc:MCC-E12 ;
 pbs:Prix_Libr_À_Nous082ff437-b46b-4841-9cd4-42ef736fbe09 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0702 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Roman .
 
 pbs:Prix_Libr_À_Nous09d5ce4b-625c-4a31-be4a-589a62f670a4 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b275 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Roman .
 
 pbs:Prix_Libr_À_Nous14dee25c-d257-4430-a965-71ff1cd48fba a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
     mcc:R37 schema:Book2d70ea2c-6176-4d9a-a7fe-77bd801dc140 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Roman .
 
 pbs:Prix_Libr_À_Nous172380b2-d82c-4a1e-9989-88c34346b50d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b282 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Album .
 
 pbs:Prix_Libr_À_Nous206d1a76-d907-4f83-821f-b2d80bb74126 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b279 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Roman .
 
 pbs:Prix_Libr_À_Nous20c87196-d64e-45d8-a352-28e4963ac908 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2023"^^xsd:gYear ;
     mcc:R37 schema:Book4c4d7023-24fc-4f2f-8b07-9b5b8fe62c83 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Roman .
 
 pbs:Prix_Libr_À_Nous21357653-a366-4d0a-9b66-28b9d6f24b64 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b281 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Roman .
 
 pbs:Prix_Libr_À_Nous226cbb90-23a3-42b9-869a-e4015fd9f8ae a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b278 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Album .
 
 pbs:Prix_Libr_À_Nous278dc727-abc2-4912-8d43-1afcbb594b32 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b283 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Roman .
 
 pbs:Prix_Libr_À_Nous2f326337-1008-46ac-8ac4-a5a60d99ddbe a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book2ba2474f-b7fc-43cf-a6a6-7a40d9e9890a ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Album .
 
 pbs:Prix_Libr_À_Nous643bf1e3-f006-4d9d-a7f7-3f090596e1c4 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b270 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Album .
 
 pbs:Prix_Libr_À_Nous7a082197-1f1c-494d-b7b5-4b37f511b94d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b277 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Roman .
 
 pbs:Prix_Libr_À_Nous874366cf-1de3-49da-a56e-981f0909b23b a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book35c98e4-1962-4a5e-8e7b-89f6158246b181 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Album .
 
 pbs:Prix_Libr_À_Nous8e808475-19d5-4ffc-8d6c-b7c3a49d3e81 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b272 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Album .
 
 pbs:Prix_Libr_À_Nous93e6f2db-cd0c-41b1-9e92-1847ef41e0f7 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2023"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b52b267 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Album .
 
 pbs:Prix_Libr_À_Nousb16c087e-3523-41f8-bbbe-9bcfb1ba8a57 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b276 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Album .
 
 pbs:Prix_Libr_À_Nousb313451f-8dfd-4063-910b-41d75f7f32a7 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b273 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Roman .
 
 pbs:Prix_Libr_À_Nousb6efb32e-b6d0-4f14-b0e8-2c0755aeaa03 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b268 ;
-    pbs:award pbs:Prix_Libr_À_Nous .
+    pbs:award pbs:Prix_Libr_À_Nous_Album .
 
 pbs:Prix_Littéraire_Hackmatack003d8ac1-ab3e-4b3a-8e35-9e8959d11efa a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
@@ -19812,7 +19812,12 @@ pbs:Prix_Val_Céroufc6cabdb-732b-4c85-beb1-3e2ff8488566 a mcc:MCC-E12 ;
 pbs:Prix_Vendredi06152aed-1e3e-4f4e-b6e9-cabbd8acfe55 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Book1e4d5b27-45ae-4568-a369-f109f771bu88 ;
-    pbs:award pbs:Prix_Vendredi .
+    pbs:award pbs:Prix_Vendredi ;
+    pbs:groupeAge "13",
+        "14",
+        "15",
+        "16",
+        "17" .
 
 pbs:Prix_Vendredi18b21acb-f33e-4a3a-b9ea-66685c32b392 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
@@ -21338,8 +21343,12 @@ pbs:Prix_Littéralouest_Moins_De_4_Ans a pbs:Award ;
 pbs:Prix_Magazine_Enfants_Québec_Du_Meilleur_Album_Jeunesse a pbs:Award ;
     pbs:genreLittéraire pbs:MAGAZINE ;
     schema:description "Décerné pour la première fois en octobre 2010, le prix était accordé par les lectrices et les lecteurs du magazine Enfants Québec qui votaient par Internet, durant l’été précédent, à partir d’une sélection de cinq finalistes choisis par du personnel des bibliothèques publiques du Québec, parmi la production de l’année antérieure destinée aux enfants de 3 à 6 ans. Le prix était doté d’une bourse de 8000 $, plus 500 $ pour chaque titre finaliste non-gagnant." ;
-    schema:name "Prix Magazine Enfants Québec du meilleur Album Jeunesse" .
-
+    schema:name "Prix Magazine Enfants Québec du meilleur Album Jeunesse" ;
+    pbs:groupeAge "3",
+        "4",
+        "5",
+        "6" .
+    
 pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "A travers une sélection d’ouvrages de langue française qui encouragent la lecture chez les jeunes par leur qualité d’écriture et leur inspiration, le Prix Saint-Exupéry - Valeurs Jeunesse récompense depuis 1987 les œuvres littéraires destinées à la jeunesse qui portent les valeurs de l’œuvre de Saint-Exupéry et le sens de sa vie : L’audace, celle des premiers vols de nuit, Le courage de surmonter les obstacles et la volonté de survie, La solidarité en cultivant la fraternité, La sagesse : discerner et dépasser les dimensions trop matérielles." ;
@@ -21423,7 +21432,18 @@ pbs:Prix_La_Science_Se_Livre_Catégorie_9_14_Ans a pbs:Award ;
 pbs:Prix_Littéraire_Suzanne_Pouliot_Et_Antoine_Sirois a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "Remis par l'Association des auteures et auteurs de l'Estrie, ce prix a été créé en 2015 par Mme Suzanne Pouliot et M. Antoine Sirois, tous deux professeurs retraités de l'Université de Sherbrooke. Remis tous les deux ans, il est attribué à une œuvre littéraire créée par un auteur estrien et destinée aux lecteurs de 6 à 16 ans. Il est assorti d'une bourse de 2000 $." ;
-    schema:name "Prix Littéraire Suzanne Pouliot et Antoine Sirois" .
+    schema:name "Prix Littéraire Suzanne Pouliot et Antoine Sirois" ;
+    pbs:groupeAge "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16" .
 
 pbs:Prix_Pierre_Bottero a pbs:Award ;
     pbs:genreLittéraire pbs:ROMAN ;
@@ -21483,7 +21503,11 @@ pbs:Prix_Imaginales_Catégorie_Jeunesse a pbs:Award ;
 pbs:Prix_Première_Victor_Du_Livre_Jeunesse a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "La RTBF (Radio-télévision belge francophone de service public) et le Fonds Victor ont lancé, en octobre 2018, un prix de littérature jeunesse, le Prix Première Victor du Livre jeunesse. Ce Prix a une double originalité. D’abord, il s’adresse à des jeunes de 12 à 15 ans, une tranche d’âge jusqu’ici peu sollicitée. Il leur propose une sélection de cinq livres de qualité. Les jeunes sont invités à les lire (à l’école, dans des groupes de lecture, des bibliothèques, des écoles de devoirs, académies, mouvements de jeunesse…) et à voter pour celui qu’ils préfèrent. Ensuite, il veut valoriser toute la chaîne du livre belge francophone, en faisant mieux connaître les auteurs et traducteurs de la Fédération Wallonie-Bruxelles." ;
-    schema:name "Prix Première Victor du Livre jeunesse" .
+    schema:name "Prix Première Victor du Livre jeunesse" ;
+    pbs:groupeAge "12",
+        "13",
+        "14",
+        "15" .
 
 pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_15_Ans a pbs:Award ;
     pbs:groupeAge "13",
@@ -21702,9 +21726,15 @@ pbs:Prix_Franco_Allemand_Pour_La_Littérature_De_Jeunesse_France a pbs:Award ;
     schema:name "Prix franco-allemand pour la littérature de jeunesse - France" .
 
 pbs:Prix_Landerneau_Album_Jeunesse a pbs:Award ;
-    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE ;
     schema:description "Depuis 2013, le Prix Landerneau Album Jeunesse créé par les Espaces Culturels E.Leclerc récompense un ouvrage francophone, destiné aux enfants de 3 à 8 ans, paru dans l'année, et alliant qualités graphiques et éditoriales tout en étant porteur de messages contribuant à initier l'enfant à la découverte du monde et de soi." ;
-    schema:name "Prix Landerneau Album Jeunesse" .
+    schema:name "Prix Landerneau Album Jeunesse" ;
+    pbs:groupeAge "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8" .
 
 pbs:Prix_des_libraires_Lauréats_0_5_Ans_Québec a pbs:Award ;
     pbs:groupeAge "0",
@@ -21950,7 +21980,10 @@ pbs:Prix_Québec_Wallonie_Bruxelles a pbs:Award ;
 pbs:Prix_Rts_Littérature_Ados a pbs:Award ;
     pbs:genreLittéraire pbs:ROMAN ;
     schema:description "Le Prix RTS Littérature Ados (nommé Prix TSR Littérature Ados jusqu’en 2011) est le premier du genre en Suisse romande. Il souhaite encourager la création littéraire qui s’adresse aux jeunes et promouvoir la lecture auprès des adolescents. Ce prix est décerné à un ouvrage dédié aux adolescents de 13 à 15 ans. Ces livres sont sélectionnés pour leur qualité littéraire et la sensibilité avec laquelle ils abordent les questions, fragilités et difficultés éprouvées au sortir de l’enfance. Sept classes de sept cantons romands participent aux émissions télévisées Lire Délire avec le soutien de la CIIP (Conférence intercantonale de l’instruction publique). Ces élèves composent le jury qui remet le Prix RTS Littérature Ados à un des auteurs des sept livres en compétition. L'émission Lire Délire s'arrête en 2016, mais le Prix RTS Littérature Ados continue. Dans toute la Suisse romande, des jeunes se réunissent au sein de clubs de lecture, puis d'un jury cantonal et enfin d'un jury final pour débattre des cinq titres en lice et élire leur roman préféré." ;
-    schema:name "Prix RTS Littérature Ados" .
+    schema:name "Prix RTS Littérature Ados" ;
+    pbs:groupeAge "13",
+        "14",
+        "15" .
 
 pbs:ROMAN a pbs:GenreLitteraire ;
     rdfs:label "Roman" .
@@ -21970,7 +22003,10 @@ pbs:Prix_Jacaranda a pbs:Award ;
 pbs:Prix_P_Tits_Mômes a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "Crée en 2006 par les Bibliothèques municipales de Genève, le Prix P’tits Mômes est l’un des rares prix littéraires décerné par des enfants de 2 à 4 ans. La sélection porte sur 4 ouvrages récents diffusés dans les crèches, les jardins d’enfants et les bibliothèques de la ville de Genève. Plus de 1’800 enfants participent annuellement à ce prix qui est attribué au mois de mai lors d’une cérémonie qui leur permet de rencontrer le-la lauréat-e.  Avec ce prix, les Bibliothèques municipales permettent à ce jeune public d’aborder les livres de manière originale mais également, de développer leur sens critique. Découvrez la vidéo des coulisses du Prix Pt’its Mômes 2017." ;
-    schema:name "Prix P’tits Mômes" .
+    schema:name "Prix P’tits Mômes" ;
+    pbs:groupeAge "2",
+        "3",
+        "4" .
 
 pbs:Gayant_Lecture_7_8 a pbs:Award ;
     pbs:groupeAge "7",
@@ -22004,6 +22040,12 @@ pbs:Prix_Libr_À_Nous a pbs:Award ;
     schema:description "Créé en 2014 par Valérie Caffier et Audrey Andriot, toutes deux libraires, le Prix Libr'à Nous est un mouvement spontané et libre de libraires voulant mettre en avant dans différentes catégories leurs coups de cœur. C'est un Prix pour tous les libraires francophones du monde entier en poste (ayant exercé au moins 4 mois durant l'année), que l’on travaille en petite ou grande librairie indépendante, spécialisée ou généraliste, dans une chaîne ou une maison de la presse. Chaque libraire a le même poids et propose les titres qu'il souhaite voir concourir. Aucune présélection n'est effectuée au départ. Libr'à Nous est une association loi 1901 pour la promotion d’un prix littéraire et de toutes formes de littératures. Neuf catégories éditoriales sont représentées, parmi lesquelles Album jeunesse et Roman ado, rebaptisé Littérature jeunesse en 2020. " ;
     schema:name "Prix Libr'à Nous" .
 
+pbs:Prix_Libr_À_Nous_Album a pbs:Award ;
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE .
+
+pbs:Prix_Libr_À_Nous_Roman a pbs:Award ;
+    pbs:genreLittéraire pbs:ROMAN .
+
 pbs:Prix_Littéraires_Du_Salon_Du_Livre_Du_Saguenay_Lac_Saint_Jean a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "Le Salon du livre du Saguenay—Lac-Saint-Jean a d'abord créé deux prix en 1991 afin de faire la promotion des auteurs de la région. Le nombre de prix et le découpage des catégories ont changé au fil des ans. Il y a maintenant six prix, dont le prix jeunesse, chacun doté d'une bourse de 1000 $." ;
@@ -22012,7 +22054,20 @@ pbs:Prix_Littéraires_Du_Salon_Du_Livre_Du_Saguenay_Lac_Saint_Jean a pbs:Award ;
 pbs:Prix_Td_De_Littérature_Jeunesse_Canadienne_ a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "Le Prix TD de littérature canadienne pour l'enfance et la jeunesse a été créé en 2004 et remis pour la première fois à l'automne 2005. Il récompense le livre le plus remarquable de l’année destiné à des enfants âgés de 0 à 12 ans. Ainsi, chaque année, deux prix sont attribués aux œuvres de langues française et anglaise s’étant le plus distinguées durant l’année précédente. Le prix est remis dans le cadre de la Semaine canadienne du livre pour enfants TD, gérée par le Canadian Children's Book Center. Ce prix est le plus important, exclusivement consacré à la littérature jeunesse, au Canada." ;
-    schema:name "Prix TD de littérature canadienne pour l'enfance et la jeunesse" .
+    schema:name "Prix TD de littérature canadienne pour l'enfance et la jeunesse" ;
+    pbs:groupeAge "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12" .
 
 pbs:Gayant_Lecture_14_17 a pbs:Award ;
     pbs:groupeAge "14",
@@ -22257,4 +22312,3 @@ pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "Les prestigieux Prix littéraires du Gouverneur général du Canada existent depuis 1937. Ils sont parrainés depuis 1959 par le Conseil des Arts du Canada et comportent un volet anglophone et un volet francophone. Les prix dans la catégorie «Littérature pour la jeunesse», Illustrations et Texte, sont décernés depuis 1987; auparavant cette distinction était appelée Prix du Conseil des Arts du Canada en littérature jeunesse. Les lauréats reçoivent une bourse de 25 000 $ tandis que les finalistes non-gagnants reçoivent 1000 $." ;
     schema:name "Prix Littéraires du Gouverneur Général du Canada" .
-

@@ -160,8 +160,10 @@ pbs:Prix_Libbylit skos:narrower pbs:Prix_Libbylit_Mention_Spéciale_,
         pbs:Prix_Libbylit_Mention_Spéciale_Hors_Catégorie_,
         pbs:Prix_Libbylit_Mention_Spéciale_Théâtre_Jeunesse_,
         pbs:Prix_Libbylit_Ovni_ .
-
 pbs:Prix_Littéraire_Hackmatack skos:narrower pbs:Prix_Littéraire_Hackmatack_Égalité_ .
+
+pbs:Prix_Libr_À_Nous skos:narrower pbs:Prix_Libr_À_Nous_Album,
+        pbs:Prix_Libr_À_Nous_Roman .
 
 pbs:Prix_Littéralouest skos:narrower pbs:Prix_Littéralouest_10_11_Ans,
         pbs:Prix_Littéralouest_4_5_Ans,
