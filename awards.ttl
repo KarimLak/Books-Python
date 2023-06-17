@@ -10712,302 +10712,302 @@ pbs:Prix_Landerneau_Album_Jeunesseede2574e-1cc5-4f8c-b054-febaaf9f9c42 a mcc:MCC
 pbs:Prix_Libbylit0359e806-b627-4bd1-8b03-c98532c3fee2 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Book8b2c1a52-0c71-45b9-985b-7a7dd1da9e86 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit06cc49b0-2774-4bab-b2bc-80d9adbece2f a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book1c7a07f5-3db2-4c71-96b6-d6d97e064f3e ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit08682936-b6b6-4c4d-88ab-5b46b95077e4 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2005"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b266 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit0ce36cf3-dc00-4c3d-9a7f-376d0d491bf6 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Bookac1f71c4-3ef2-4a33-bf36-360f8612e137 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit0d82cf02-f1be-40dc-9f4f-fca76dae4a79 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Book5f4d4a55-6d8d-4f1b-9f56-2f711a97b165 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Petite_Enfance_ .
 
 pbs:Prix_Libbylit0e50931f-3279-499d-8f4c-17152c56b550 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Bookc6b25a12-140a-4c92-99be-65d8d43353a5 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit150aa6d9-e2f0-4d62-86f1-3aa190aebb50 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Book35dbd3ce-f825-4bc5-82e1-78a2bd04c787 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit178c365a-5c88-4165-95a9-bd6f30590435 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book82e8b6a7-d4a4-4f72-b6eb-4b8bc19e5c79 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit1b97e418-c257-4ef4-aebf-c32755e2c2c8 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book6c19e19c-09ee-4474-b47e-3935cc9c3f2e ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_BD_ .
 
 pbs:Prix_Libbylit2077282c-3c5a-4206-a6a4-5742ec8a43e8 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Booka6c87514-8aa0-4b5b-8825-9f0ab553b5d6 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit24baa2df-04a7-4f6d-8e8c-2587db07d830 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book713d9a4b-5c70-4f77-8a66-30c5e07d4b5e ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit24f6a1f1-8dd3-4893-8031-2a85a7dfdea3 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Book680efbc2-7ce9-467f-8ce1-83ed5a6381a7 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit271172a3-bb86-4a15-af35-29f569cb310f a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Bookc6db0f8c-9cb3-4aa6-8ab9-4585b160d162 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit273c7bb7-6e1c-4295-8f30-5cd0e9e44e06 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Booked7a4921-0d39-4370-a445-9ca6b61df9d77 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit27cc7b43-76e3-468f-87d7-372e7886c111 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Book3d7a8622-381e-4615-8224-1e3c2a2a7d42 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit27ed0f9a-719c-4b3f-862e-e6d0d548bc06 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear ;
     mcc:R37 schema:Book16bba4a-57b7-471d-bbd1-c0f4f4e25d15 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit28b3cb48-a357-4a07-8d95-da180a3dc1ba a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book7bc7a118-0e18-42b5-9134-7e2e754b1d1c ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit2a98bb25-ff2c-4cfe-b124-3e0f1a3a9f9a a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear ;
     mcc:R37 schema:Bookaa327408-f51d-4a36-88c8-b6f3f47ff1ef ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit2d186ead-107b-483d-91d3-028f69cd71f2 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Book74261fa1-8b33-4e7e-a7e9-65ae29be4898 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit33ba6a97-7a8f-4c43-8952-3967b3a09923 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear ;
     mcc:R37 schema:Book32bb09b5-1e11-45a6-aa4c-9b37cb08136c ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit34a89659-6f7c-42c0-847b-1a82f999de03 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book0aef1f82-8d18-40d1-8daa-d70f08a46d68 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit37ca417f-f9be-4252-bbc6-d005a83e2526 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book5a48b3ef-4760-4e37-9839-3d29837a7d7a ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit39b34715-b67c-4a1a-821c-617d0b120982 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Bookf0f1c42f-9440-4a7f-bb6d-2fe2a4ae40ea ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit3f71eac7-20ab-4196-bfbf-013b0760de1c a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Bookb37f09e9-2cb0-41a3-86c6-65f28b7f858e ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit40e75970-95d5-408f-9051-f2d2beb5a5ba a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
     mcc:R37 schema:Bookd1b986d6-95a5-4360-ba01-56c49a1f55e1 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Petite_Enfance_ .
 
 pbs:Prix_Libbylit440cd255-fcc5-409e-9a19-db7c44dc90db a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book1f6fe726-7869-4fae-a830-6e3bbfdd2cb1 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit464ac547-5359-458d-911c-cc87c4b38c40 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Book09a02e16-7a32-4316-bc36-b2d6002263c8 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit478fb5ce-ee91-446b-84ce-718fc3ca2c62 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Bookf2a80ff6-5c2f-4b7c-a168-09c55b6160fd ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit48091ec9-5381-4a31-8695-0e7474c4e020 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Bookd8d53e19-16fc-45d9-947f-830271f4f5d2 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit4f950847-1dad-4699-8b23-6b08b0e370a0 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Booka6892c71-2c6d-4f9d-ae8a-bca7a5b8a442 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit5106b714-114d-4c0e-969a-53fa01f1d40e a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Book44cb87e2-d60f-497b-854b-41f2eecc032e ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit526064a2-8b5e-4bdd-9af0-4b6484d23a07 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Bookb28aa206-b78f-43c6-bf2d-2cde1e82e333 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit533f0692-65aa-496c-a20f-56802b5d1247 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
     mcc:R37 schema:Book7d4d55a1-3a0e-47a1-8a8a-9f296de24f34 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit55a56b09-746e-419b-80f9-11dff1e6dc3c a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Bookab1b9a41-5987-485b-a0a6-747135ee4a70 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit55bc135e-51ee-4369-b119-174abba37c9b a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book96f4fb61-6181-42ed-9b19-6c5f880c2f3f ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit576d2d54-7c81-41a3-93f0-04a2cc114233 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Bookcafc48df-06d1-4e60-ba17-dc788fc63dc4 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit590ac5d1-b37b-41b9-8ac8-f0cd679c4656 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Book755e2b6e-3a10-4e6c-9479-2b1564a67734 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit5a8eb4f4-858d-4ebf-98af-3a74be1f0c6a a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear ;
     mcc:R37 schema:Bookc1404339-52c6-4a6c-99ff-d8beff509cdf ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit5e36c73e-5155-4c43-8578-05ff4578ac71 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Book0c5f3e4e-9fa2-460e-a8f9-2f0dacf32922 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit646cabdd-ec39-409d-8eee-0de4f80868d9 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear ;
     mcc:R37 schema:Book5111534f-875e-48e1-bd2e-f4395c5d5a4a ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit6590fb53-6409-49d9-9523-255710a7dc79 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book0dd78965-aa6b-4577-9ab7-dffbf601a411 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit6614c711-1787-4cce-9239-49b919fefcb3 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2005"^^xsd:gYear ;
     mcc:R37 schema:Book53e6fb92-bb8a-4f8a-b3fb-7175f13b2b5e ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit69dbafed-ba4d-42d6-969d-07d9faa88d74 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book10509ba1-95b4-4f22-b09a-2bb6da21836a ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit71552c65-b53f-482f-b250-1afa30f8ce50 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
     mcc:R37 schema:Book0eeb00e3-2f02-4480-bde7-1f288872239d ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit7313d505-6d8a-47f2-ad74-40845c0d01cc a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Book7e6f6688-69be-4466-8d8b-b2e0d4026544 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit735e29ff-29af-428e-aeae-ca94d8174ffa a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Book0533f7ac-c32d-40a1-888f-8d275e14a790 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit74204080-b659-4c00-a755-a3e1078dbabf a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Bookb162f1e9-53e7-49d3-9de7-44e7a94b8b06 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit7433281c-d558-45d3-8f34-6caa9323d41a a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Bookdfc4181d-08a6-4a51-8452-7ee85b169c9f ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit7597939b-fabf-41c0-89f2-7cdb8ef20046 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book2aef101a-586b-42e8-8c24-68d124546e67 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Petite_Enfance_ .
 
 pbs:Prix_Libbylit7781cdb4-4e2b-4124-ba08-b779c044508b a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book67b7e72b-8981-44f6-8f8f-2e39af176ad8 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit7a42b961-44a4-4e62-ae11-fe03f744ba9c a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book79b3b7ce-c1e4-4280-b8c4-d41a2c3f6370 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit7ee1d618-1f75-45a7-9618-5f033935a839 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Bookd5a7e1cc-826a-487b-8201-cb6f7e5c529b ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit8326a6b9-52b4-411b-aca9-3004622155ca a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2005"^^xsd:gYear ;
     mcc:R37 schema:Book6ce4051f-365f-4a8c-a54c-9b9f66b56d56 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit83657c91-be88-4a8e-8891-d274a52c7cad a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book1e4d5b27-45ae-4568-a369-f109f771b89s ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit86e2ecd3-98f0-4fd5-87b1-966dfd277ce0 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear ;
     mcc:R37 schema:Bookb5d4a431-0bea-4fe2-ae94-0a1676d236ad ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit8d6c5390-ee49-4ff1-842d-6780e416d798 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Bookc292ce7c-8e3e-4b35-a4f0-3d7c81dd26a0 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit94168b0f-5f21-4348-b818-d185fdbfda60 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear ;
     mcc:R37 schema:Bookd6a47b1d-0116-4b5f-9994-8a0ff1ffdc3e ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit942ef057-ceb5-4814-8e72-ed91212ae098 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book5bbf7ef4-5b08-426a-9783-ba146ed26778 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit957356ae-0f52-4e0a-8b8f-1eb4a8b8ee17 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book73f7f971-5ee3-4792-8c4b-43d4c14277db ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylit960984e5-a0a0-480f-bba4-395b1392e0c3 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book1a74a3bc-c871-478e-9258-9abf0a67d75b ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylit_Mention_Spéciale_4142ab2f-b227-4fa2-94bf-318c2a875f17 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
@@ -11077,152 +11077,152 @@ pbs:Prix_Libbylit_Ovni_59d81486-6af4-443d-afce-cab5ae1ea7de a mcc:MCC-E12 ;
 pbs:Prix_Libbylita2e74fa1-271a-4f7c-9b51-7287d1ad782a a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Bookc26c0c8f-0593-4d1c-8e95-1de9e445f38f ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylita70b41c8-d054-4f33-b60c-4c339259587a a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book0a36b6ff-5259-4c79-9f23-c5efea81c122 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylita7aa93dd-4263-4bc9-9213-1b0790116e86 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
     mcc:R37 schema:Bookb0e9018d-8d8a-40bc-ae29-bc1222169a6a ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylita9ffed2b-578e-4265-88ac-5ee7be95aadc a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear ;
     mcc:R37 schema:Book06cf1e2c-e080-4c0e-a110-26824751a771 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitab266235-1764-4bc9-aabf-81bb81e4bf80 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Bookf381e95f-72a7-4e24-9238-865f7a02a6c7 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitacff8a22-73d7-4f8f-8632-b86117e1129d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear ;
     mcc:R37 schema:Book75be5f34-95e6-4cde-b371-c76ed741ae08 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylitaf53f82c-8476-420b-a74a-28892403ee9f a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear ;
     mcc:R37 schema:Book1e12f255-684a-4df3-a006-dc1b23232ef1 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitb03716ac-288d-4f66-90fd-2fe40b8a67e8 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Book5c6f3db7-48da-4d32-9988-24e04dc18a8f ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylitb11f78fd-3103-48c2-9ae5-c916592c63d0 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Bookfb5c7181-6ac7-4527-9278-d587e878aa4f ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitb218935e-627d-4fda-98e2-27c0f0318140 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear ;
     mcc:R37 schema:Book60ef751b-cb7b-4ab4-9598-3c0b301ab901 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitbc9f9aaf-4f5c-468d-90f4-449e11823b2d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Book488e1e0e-fdb9-4ebf-9fd7-1ad55e1c8ed3 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitbd057724-e5d3-4813-992b-26a9a28e0d32 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Book5e66e9df-00da-48b3-8a2d-4672e2db9b32 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Mention_Spéciale_ .
 
 pbs:Prix_Libbylitbe3e0ad0-2436-4ff1-b3a4-c29cc61a3949 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear ;
     mcc:R37 schema:Book2d876aee-c82b-49d3-9af4-41504f622eaa ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitc0d0a423-1246-432d-b607-936a2cf3cce9 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book131e4a6d-9b3b-4f29-b80a-d18ac7396aa7 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitc307f207-4ad4-47e0-b908-77237ca56552 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Book14c69f01-87e3-4967-b246-93720cb4728a ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitcbc69893-3313-4349-bcbf-765c2d0b5823 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book2771913f-1d08-4a32-92ff-5f0c2ce5e8b4 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitceda7173-2262-469b-9581-a4fbb5d1e3af a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear ;
     mcc:R37 schema:Book3bc52b6f-3702-4a6f-8a23-4b06572e58e5 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylitcff9f053-c732-45c9-ae7d-018fb3bc6550 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book0e7d3f22-9771-4a0c-9394-f84f3beec5b8 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Petite_Enfance_ .
 
 pbs:Prix_Libbylitd0d49e68-e6db-4949-aa46-4e60eeaaf38d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Bookd16e9ab7-9c7c-40fe-81a2-c6aa9d2a0a2c ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylitdd2f1936-2212-4766-90a5-74eed686be64 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book61e6623b-184d-4219-8faa-313b4a61a710 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylite02e0494-3b0d-4f93-b603-a5e17bf541b3 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Bookfbc56f85-f2a7-4ce0-a11b-65b9d663a2df ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylite06d745b-cbfa-467c-8d92-8cb7a5ce2b57 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book1a48dc70-8740-4aa0-b7ee-4bdeaa46dc29 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylite4d85c4a-4637-404c-aad3-1095e09b2457 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Book227a8775-f317-4779-92f4-b4e4e47d93ad ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylite6cca806-6594-43e9-b572-6ab788f75b15 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2005"^^xsd:gYear ;
     mcc:R37 schema:Book2a7f365a-8916-4896-b8a3-3eb87d295fd1 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylite7b4bdc3-4e55-4e99-91e4-c38c284368a6 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear ;
     mcc:R37 schema:Book84a0f46f-344d-418a-a207-6b153d154bdf ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbylite9de7b8f-87b4-41ad-a921-bad9a1904e21 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Bookd36d9a19-2572-47ef-8eaa-c98e726b0c84 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitea97cc79-2d9d-4ccb-8d69-e04fc4182081 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear ;
     mcc:R37 schema:Book01db229d-59be-4eab-9430-55b23a9a0701 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitec4f812e-0776-4b55-ab7b-992d32b2e2b5 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
     mcc:R37 schema:Bookc59ab8e7-5f15-4939-97a0-32ff7be183f9 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libbyliteed7f779-3739-431a-822c-1bf13aff1361 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Book36a8c9e4-7a8c-4745-bb7a-c1ffbe2a8b8b ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Roman_ .
 
 pbs:Prix_Libbylitf9cf812b-d434-4716-8f01-ff9b2c12960b a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Bookc2c3d588-dcd0-49dd-b269-d51d8e22bea5 ;
-    pbs:award pbs:Prix_Libbylit .
+    pbs:award pbs:Prix_Libbylit_Album_ .
 
 pbs:Prix_Libr_À_Nous082ff437-b46b-4841-9cd4-42ef736fbe09 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
@@ -11317,67 +11317,67 @@ pbs:Prix_Libr_À_Nousb6efb32e-b6d0-4f14-b0e8-2c0755aeaa03 a mcc:MCC-E12 ;
 pbs:Prix_Littéraire_Hackmatack003d8ac1-ab3e-4b3a-8e35-9e8959d11efa a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b288 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack02fbec5c-836c-48fc-a17e-88c89c31d2cf a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a8b42b280 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack0366cb24-dc4a-4b9f-be29-eec6849c5a6d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b305 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack05c328b8-8f88-448c-bea1-b2ec855a227e a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3k7b42b278 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack0a368e73-6b47-4e14-8c4b-169fb1f27f15 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b4zb273 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack0b40cd99-f299-49e6-a98b-4829b5d9915a a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b287 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack0cde8893-a00f-41d2-a74e-2d766008e909 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b319 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack0d063287-c028-4ce8-9f79-0a760283fac3 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b292 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack155fe7cb-c20b-4295-b368-b8ff8d857e5f a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b299 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack1570fba1-bbea-4490-8d03-605087ef8ea0 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b315 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack1a919b83-1b5a-443f-acb2-b32dd4593fc6 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3g7b42b271 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack1ae40b12-12e9-445f-b37e-9945f24c6c97 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b291 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack1d8b015a-40f5-4a1a-afc7-bcaed8724f24 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b62b272 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack212c13da-25e5-4d94-aa53-e5b5a4876208 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2004"^^xsd:gYear ;
@@ -11387,147 +11387,147 @@ pbs:Prix_Littéraire_Hackmatack212c13da-25e5-4d94-aa53-e5b5a4876208 a mcc:MCC-E1
 pbs:Prix_Littéraire_Hackmatack2221a755-82d7-4cc9-864c-a18a62cfa239 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b303 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack259d45af-a0e6-4d40-927b-8938f8fe7bfe a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b43b275 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack25a6c84f-7fb2-40dc-9a0e-3feea653a937 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b301 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack300053ad-7e6b-4895-9a20-256b9bc3910b a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2005"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b31c ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack3168a533-57c0-4077-862f-2bd8276a47d6 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b306 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack3262f8e1-96a1-47d5-9ea8-c71754d1c657 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2001"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b328 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack367d6d56-a715-4bb7-9b7d-810f837b12f9 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-1f3a7b42b279 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack3f0d78c5-b986-49fd-9595-020bfb812d90 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b285 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack418fbf27-625e-4973-904c-58df051c5328 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b316 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack45f2a941-58d4-457d-b631-8d63960a6574 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b269 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack46e39920-22eb-434b-aeb9-cdd5f0f2927a a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7z42b267 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack46ed64cd-bb4d-4fcd-a165-4147e39eb635 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7x42b270 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack4990169b-603d-40ee-a1dd-579ff9d94458 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2004"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b31f ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack4c4374b1-f04e-4f8e-b718-15de61eeffc1 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b31b ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack50a90eba-bb8a-48cb-aa02-4abdc85783dc a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7bu2b269 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack50f57339-1b57-467a-9d7a-306257e1a20d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b284 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack543a672a-d5cf-48db-b699-10b284d38ed9 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b312 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack57ff1ca4-7042-4de2-bfa3-5f18ce4140d8 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b30d ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack596ee690-01ee-41c3-a5b3-c6be09520216 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2005"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b31e ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack59e129f4-e5b1-44f2-978e-16d15de71a76 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b294 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack634a66d7-7601-4535-bcd6-3e1f23a2440f a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b289 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack638727e6-bcba-4a1c-850c-1cef5a304b1c a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b30b ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack6411b8df-6f4c-4f59-8537-b80e3c5dd897 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b290 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack6443ff50-4d9f-4787-ae63-ca6a4c17dd48 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2000"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b32b ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack64ad47db-7f8f-48fd-b77d-8d72a6d78d6d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b293 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack64b7cb4e-f24c-48f6-8c8f-8f6f0a65c3ff a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b300 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack6a5541c6-5313-4b87-94bb-41d4f45f6715 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2000"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b32c ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack6edaa004-f188-4978-a419-6448366ba04e a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b302 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack72787162-853f-43ac-84b9-ef794ed158a2 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b296 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack7aac9268-f0c7-4402-8c78-524367657497 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2003"^^xsd:gYear ;
@@ -11537,82 +11537,82 @@ pbs:Prix_Littéraire_Hackmatack7aac9268-f0c7-4402-8c78-524367657497 a mcc:MCC-E1
 pbs:Prix_Littéraire_Hackmatack7b3a1c3c-22b8-4c77-91b7-0e6067559f9e a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a9b42b281 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack7cafbfdd-87a8-41a6-b47f-7eb94a890cb3 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7bs2b274 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack7e21efe7-ab61-4fa6-b1e3-87e29d5e4620 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b304 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack84478473-5357-4bcd-9719-f0f9660b8bc2 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1999"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b32e ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack8ae60f1b-ad6b-4fbc-ae6d-9d8007a3a91b a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2002"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b325 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack8bc69c26-bd7e-4e38-8dd3-7f2b6ff192e9 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b307 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack90ce1fb1-0d09-46c4-85e9-aaccd9e80e94 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b30c ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack9130b2e9-cd72-4648-95b7-845958c6f6d0 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b310 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack9346db6d-ec24-433f-9671-06441771f684 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b297 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack9702b8a2-7f4e-4068-ae54-301385100563 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b314 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack9a22bf07-715a-48e5-91b9-64999c322d34 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2003"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b322 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack9b8f2262-30b6-4c1a-bd2c-d62e69470199 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b30a ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatack_Égalité_1e185ca9-35fa-4ce8-a12a-d1b4a454c61a a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a8b42b277 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack_Égalité_ .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatack_Égalité_b80e556d-63e1-478b-a93a-96ea6454cada a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9467-0f3a7b42b276 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack_Égalité_ .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatacka3538121-fbfc-4895-9b72-23ff128a6f48 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b298 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatacka50c8857-ab9f-4ba0-9f57-21e5708915ba a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b295 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatacka553c199-400f-4c70-b80b-875be8954b8d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2002"^^xsd:gYear ;
@@ -11622,97 +11622,97 @@ pbs:Prix_Littéraire_Hackmatacka553c199-400f-4c70-b80b-875be8954b8d a mcc:MCC-E1
 pbs:Prix_Littéraire_Hackmatacka66a25c9-cf11-4523-a1ff-96e1e3b1eccb a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7z42b283 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatackae6a7ba8-6295-43f9-8ca9-079ec1873cb9 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2003"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b323 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatackb5401126-bcdb-4f6b-b8c2-053d613c7695 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2001"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b329 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatackbc19dab8-2146-4d84-ad28-b6963bc84c9e a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7bo2b268 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatackbfb9b454-2604-48e1-9b3b-9b9763bdae01 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2004"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b320 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatackc1783eb1-c46e-402e-88a5-99eb43685f51 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b30e ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatackc5870384-d7b0-43c8-b0d0-1529905fe5d7 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b286 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatackcbf126f7-228d-4ff7-aa6f-601662181cf2 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2005"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b31d ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatackd233beb2-591a-4d22-80db-3e925e7c9413 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b317 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatackd351b388-a805-4ddd-b5c2-8ffaf895b50d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b308 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatackd8333175-be5d-4b93-b469-60eb714be5f4 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7c42b268 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatacke07214f9-b89b-4209-b41f-a623ff9dbda9 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b313 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatacke089cefa-7a12-448a-9575-714549af889a a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b31a ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatacke1f5ba31-5700-4885-9f22-f4e64734e0f5 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2002"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b326 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatacke3421c23-c17a-4c39-975a-451e9c84f590 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b309 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatacke4b0113f-430f-461f-bf30-c752fd28056d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1999"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b32d ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatacke697cdbf-e840-485d-92e1-f3498e304889 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3i7b42b270 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatacke78896ed-189d-4d22-9453-faf964c7a26b a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b30f ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Hackmatackeecb486e-b491-405c-ad94-1ed90b0e3324 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b267 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatackefb6c4d8-bce4-47e8-b13f-142c1cc79169 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2001"^^xsd:gYear ;
@@ -11722,17 +11722,17 @@ pbs:Prix_Littéraire_Hackmatackefb6c4d8-bce4-47e8-b13f-142c1cc79169 a mcc:MCC-E1
 pbs:Prix_Littéraire_Hackmatackf0359cc0-6e88-4e09-b411-d2b8e325bed2 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3ajb42b282 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatackf3b82550-3e4c-46a7-8ca2-712dc3767593 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear ;
     mcc:R37 schema:Bookf26bb5ef-23ef-4de9-9944-317f039221de ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Roman .
 
 pbs:Prix_Littéraire_Hackmatackf67945e7-1b88-4bbc-8169-4097d4fe5309 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b311 ;
-    pbs:award pbs:Prix_Littéraire_Hackmatack .
+    pbs:award pbs:Prix_Littéraire_Hackmatack_Documentaire .
 
 pbs:Prix_Littéraire_Le_Droit_Jeunesse04af0051-78fe-4e7d-b6ac-e8a79995831c a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
@@ -11872,7 +11872,7 @@ pbs:Prix_Littéraire_Suzanne_Pouliot_Et_Antoine_Siroisda7447b7-a50e-479a-aa04-f3
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel04aa705a-e178-4f44-a0d1-38801391ef7a a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Book73ebbb94-d5ee-41ab-98d6-f0ad196c261f ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel073239a1-8f9e-4bb3-97af-68d533188142 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1992"^^xsd:gYear ;
@@ -11882,47 +11882,47 @@ pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel073239a1-8f9e-4bb3-97af-68d533188
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel314bf078-fbb6-4c11-a95c-5356493496a1 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book1e94aab0-0497-48d7-a8aa-0e1a102f4e0b ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel35c5473a-94da-4cf9-95f3-c52dfa016c46 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Booka6ee00e4-68ed-43e8-a371-65118a06d67b ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_9_12 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel3dc8cd6a-b2c3-4ba8-bb23-fd5b1dd6a520 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book3e45115e-ee6d-45fb-9cc3-feb25847f7e4 ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel40ee2af4-cf95-4881-b8c9-b4acfb5c0ec5 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Bookbca2f924-522a-41f6-a9d6-7b3b1300555e ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_9_12 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel43c8422c-6ef5-4f6f-b299-adf2dd412548 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b298 ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_9_12 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel58099a3a-99dd-4da4-85a5-afd189d0bc48 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Booke15973e0-edb9-4fec-8ce0-29e0d8427398 ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel589e448d-d4f3-4e21-9d20-4357518b4796 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book67535826-e06d-4c8e-b64f-a3246f2d9f63 ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel621a2d8f-5129-49f2-b158-8e9c24517926 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book6b0f2af4-4fee-45a0-b625-859a3e0f63bd ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_9_12 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel71344568-aeb2-4329-8b76-db2ca317d3cf a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
     mcc:R37 schema:Book9d162ad0-87fd-4be1-9296-db8b45a41264 ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Roman_9_12 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel7f0074c6-6fc0-419a-b543-b37b24b34298 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1991"^^xsd:gYear ;
@@ -11937,7 +11937,7 @@ pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel8bfb05cb-68ce-45f8-8ef4-1f91684b6
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anela5b33f61-1bb5-4a41-8bcc-4f1ba9f1c437 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Book67a049a8-eaac-4465-b63f-5a8ebc0e8f1c ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anela7227c79-b903-45af-a7ca-7c40110004ee a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1993"^^xsd:gYear ;
@@ -11947,22 +11947,22 @@ pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anela7227c79-b903-45af-a7ca-7c4011000
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anela9adaa66-fa86-414e-8ad3-448671eae930 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book0701fb86-bfb0-4486-b554-468344e650ad ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anela9f3292c-c3f8-43db-ae7a-051af492fb81 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Book20372999-5d0e-4ae8-bd30-0ae32586d3b7 ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anelab81e29a-d426-4452-94dd-1c305121d55b a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Bookf470a33c-6a3e-4e5b-91c7-d0ff8419446a ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_9_12 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anelac1dfea0-6a57-4247-99d9-bd8e0fc7e3e0 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book23bb391b-33f7-42fe-8ff7-385abf19d573 ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Roman_9_12 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anelb4f69ea8-6795-4252-84ae-9714f6151344 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1994"^^xsd:gYear ;
@@ -11972,17 +11972,17 @@ pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anelb4f69ea8-6795-4252-84ae-9714f6151
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anelc693d152-8777-42bc-878a-1c9989f15155 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Booka2e78592-5b15-4de5-a5c2-e99c680b3297 ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anelcc850d3c-95c6-43a7-8e8e-3923ab839f4e a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Book7b843a0a-5a4e-4313-9bf5-a2b2fdad3be8 ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anelcce477bf-a342-4fbf-a56f-ed40ca73929c a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Book7e1d4570-3757-4928-91ee-e72324a27183 ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_9_12 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anele3b88b6e-51a4-4b48-86db-1123a436926a a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1995"^^xsd:gYear ;
@@ -11992,12 +11992,12 @@ pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anele3b88b6e-51a4-4b48-86db-1123a4369
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anelefdca28e-189d-4958-bdac-b9c0b932afd6 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book83bdbb59-3062-4b01-9957-0fb4074bcf7f ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Roman_9_12 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anelf09616c6-bf0f-4791-bb45-efd5b44a3a8d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Book2dd18ac9-3a81-4876-984c-0c9bc99444c4 ;
-    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_9_12 .
 
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada00a58f52-ee58-4ca3-b4ed-09e6a1c1b1ba a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
@@ -20676,6 +20676,15 @@ pbs:Révélation_Livre_Jeunessed769387e-1295-4076-a132-c252905a3f9a a mcc:MCC-E1
     pbs:award pbs:Révélation_Livre_Jeunesse .
 
 pbs:Tam_Tam_Du_Livre_De_Jeunesse a pbs:Award ;
+    pbs:groupeAge "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15" ;
     pbs:genreLittéraire pbs:ROMAN ;
     schema:description "Organisé conjointement par Bayard Presse et le Salon du Livre et de la Presse Jeunesse à Montreuil, ce prix s'adresse principalement aux enfants entre 7 et 15 ans. Il s'ouvre depuis 2003 à tous les lecteurs. Il permet de proclamer les meilleurs ouvrages à partir des sélections selon deux catégories d’âge – J’aime lire pour les 7/ 10 ans et Je bouquine pour les 10/15 ans. En 2007 le magazine DLire et le réseau de librairies Canal BD rejoignent J'aime lire et Je bouquine avec deux nouveaux Tam-Tam : BD et Mangas. En 2012, le Salon du livre et de la presse jeunesse en Seine-Saint-Denis et la revue J’aime lire se recentrent sur un unique prix Tam-Tam, qui récompense le meilleur roman jeunesse destiné aux lecteurs de 8 à 12 ans. A partir de la même année le Prix DLire - Canal BD continue, mais n'est plus lié aux Tam-Tam." ;
     schema:name "Tam-Tam du livre de jeunesse" .
@@ -21141,6 +21150,7 @@ pbs:Prix_Sorcières_Ados a pbs:Award ;
     schema:name "Prix Sorcières - Ados" .
 
 pbs:Prix_Sorcières_Documentaire a pbs:Award ;
+    pbs:genreLittéraire pbs:DOCUMENTAIRE ;
     schema:name "Prix Sorcières - Documentaire" .
 
 pbs:Prix_Sorcières_Première_Lecture a pbs:Award ;
@@ -21254,12 +21264,8 @@ pbs:Prix_Farniente_Sélection_Verte_15_ a pbs:Award ;
 pbs:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières_BD a pbs:Award ;
     pbs:genreLittéraire pbs:BD .
 
-pbs:Prix_Littéraire_Hackmatack_Égalité_ a pbs:Award ;
-    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
-    schema:description "Le Prix littéraire Hackmatack – Le choix des jeunes est un programme littéraire conçu pour les enfants âgés de 9 à 12 ans du Canada Atlantique. Ces jeunes lecteurs choisissent de lire les livres sélectionnés par le Comité de sélection Hackmatack et votent pour les gagnants. Les comités de sélection Hackmatack composés d'enseignants, de bibliothécaires et de jeunes lecteurs examinent attentivement plus de 200 livres pour enfants écrits et publiés au Canada. La sélection est raffinée à 40 titres: dix romans français, dix documentaires français, dix romans anglais et dix documentaires anglais. Chaque année, les jeunes inscrits dans des groupes de lecture votent pour les gagnants du prix au printemps. Lors de la remise de prix en mai, les gagnants sont annoncés pour chaque catégorie." ;
-    schema:name "Prix littéraire Hackmatack - Le choix des jeunes" .
-
 pbs:Prix_Sorcières_Romans_Jeunes a pbs:Award ;
+    pbs:genreLittéraire pbs:ROMAN ;
     schema:name "Prix Sorcières - Romans Jeunes" .
 
 pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_3_5_Ans a pbs:Award ;
@@ -21269,6 +21275,12 @@ pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_3_5_Ans a pbs:Award ;
 
 pbs:ROMAN_POLICIER a pbs:GenreLitteraire ;
     rdfs:label "Roman Policier"^^xsd:string .
+
+pbs:DOCUMENTAIRE a pbs:GenreLitteraire ;
+    rdfs:label "Documentaire"^^xsd:string .
+
+pbs:IMAGINAIRE_MEDIEVALE a pbs:GenreLitteraire ;
+    rdfs:label "Imaginaire Mediéval"^^xsd:string .
 
 pbs:THEATRE a pbs:GenreLitteraire ;
     rdfs:label "Théâtre"^^xsd:string .
@@ -21470,9 +21482,11 @@ pbs:Prix_Tatoulu_Tatou_Violet a pbs:Award ;
     schema:name "Prix Tatoulu - Tatou Violet" .
 
 pbs:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Bande_Dessinée a pbs:Award ;
+    pbs:genreLittéraire pbs:BD ;
     schema:name "Tam-Tam du livre de jeunesse - Dlire/Canal BD Catégorie bande dessinée" .
 
 pbs:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Manga a pbs:Award ;
+    pbs:genreLittéraire pbs:MANGA ;
     schema:name "Tam-Tam du livre de jeunesse - Dlire/Canal BD Catégorie Manga" .
 
 pbs:Biennale_De_L_illustration_De_Bratislava_Grand_Prix a pbs:Award ;
@@ -21630,7 +21644,11 @@ pbs:Prix_Real_15_18_Ans a pbs:Award ;
         "18" .
 
 pbs:Prix_Sorcières_Romans_Juniors a pbs:Award ;
-    schema:name "Prix Sorcières - Romans Juniors" .
+    schema:name "Prix Sorcières - Romans Juniors" ;
+    pbs:groupeAge "9",
+        "10",
+        "11",
+        "12" .
 
 pbs:Prix_Babelio a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
@@ -21693,24 +21711,44 @@ pbs:Prix_Gulli_Du_Roman a pbs:Award ;
     schema:name "Prix Gulli du roman" .
 
 pbs:Prix_Tatoulu_Tatou_Blanc a pbs:Award ;
+    pbs:groupeAge "13",
+        "14" ;
     schema:name "Prix Tatoulu - Tatou Blanc" .
 
 pbs:Prix_Tatoulu_Tatou_Bleu a pbs:Award ;
+    pbs:groupeAge "9",
+        "10" ;
     schema:name "Prix Tatoulu - Tatou Bleu" .
 
 pbs:Prix_Tatoulu_Tatou_Jaune a pbs:Award ;
+    pbs:groupeAge "5",
+        "6" ;
     schema:name "Prix Tatoulu - Tatou Jaune" .
 
 pbs:Prix_Tatoulu_Tatou_Noir a pbs:Award ;
+    pbs:groupeAge "15",
+        "16",
+        "17",
+        "18" ;
     schema:name "Prix Tatoulu - Tatou Noir" .
 
 pbs:Prix_Tatoulu_Tatou_Rose a pbs:Award ;
+    pbs:groupeAge "3",
+        "4",
+        "5" ;
     schema:name "Prix Tatoulu - Tatou Rose" .
 
 pbs:Prix_Tatoulu_Tatou_Rouge a pbs:Award ;
+    pbs:groupeAge "12" ;
     schema:name "Prix Tatoulu - Tatou Rouge" .
 
 pbs:Prix_Tatoulu_Tatou_Vert a pbs:Award ;
+    pbs:groupeAge "7",
+        "8" ;
+    schema:name "Prix Tatoulu - Tatou Vert" .
+
+pbs:Prix_Tatoulu_Tatou_Violet a pbs:Award ;
+    pbs:groupeAge "11" ;
     schema:name "Prix Tatoulu - Tatou Vert" .
 
 pbs:Prix_Du_Conseil_Des_Arts_Du_Canada_Illustration a pbs:Award ;
@@ -21989,6 +22027,12 @@ pbs:ROMAN a pbs:GenreLitteraire ;
     rdfs:label "Roman" .
 
 pbs:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquine a pbs:Award ;
+    pbs:groupeAge "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15" ;
     schema:name "Tam-Tam du livre de jeunesse - Je Bouquine" .
 
 pbs:Gayant_Lecture_12_13 a pbs:Award ;
@@ -22090,6 +22134,12 @@ pbs:Prix_Poésie_Des_Lecteurs_Lire_Et_Faire_Lire a pbs:Award ;
     schema:name "Prix Poésie des lecteurs Lire et faire lire" .
 
 pbs:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire a pbs:Award ;
+    pbs:groupeAge "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12" ;
     schema:name "Tam-Tam du livre de jeunesse - J'aime lire" .
 
 pbs:Prix_Chronos_De_Littérature_Lycéens a pbs:Award ;
@@ -22124,7 +22174,7 @@ pbs:Médaille_Carnegie a pbs:Award ;
     schema:name "Médaille Carnegie" .
 
 pbs:Prix_Val_Cérou a pbs:Award ;
-    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    pbs:genreLittéraire pbs:IMAGINAIRE_MEDIEVALE ;
     schema:description "Le Prix Val Cérou a été créé en 2000. Il récompense un auteur de littérature de jeunesse pour une oeuvre sur l'imaginaire médiéval. Le prix est décerné dans la cité de Cordes-sur-Ciel." ;
     schema:name "Prix Val Cérou" .
 
@@ -22173,6 +22223,32 @@ pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "Créés conjointement par l'Association québécoise des professeurs de français (AQPF) et l'Association nationale des éditeurs de livres (ANEL), ces prix récompensent, depuis 2008, un auteur et son éditeur. Ils visent à promouvoir la littérature québécoise et canadienne de langue française auprès des enseignants de français du Québec, à stimuler leur intérêt pour ces œuvres et à les faire connaître et apprécier par leurs élèves. Les auteurs lauréats reçoivent une bourse de cinq-cents dollars offerte par l'AQPF, tandis que les éditeurs de ces livres gagnent des crédits chez les imprimeurs commanditaires." ;
     schema:name "Prix Littéraires des Enseignants AQPF-ANEL" .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17 a pbs:Award ;
+    pbs:groupeAge "13",
+        "14",
+        "15",
+        "16",
+        "17" .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8 a pbs:Award ;
+    pbs:groupeAge "5",
+        "6",
+        "7",
+        "8" .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_9_12 a pbs:Award ;
+    pbs:groupeAge "9",
+        "10",
+        "11",
+        "12" .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Roman_9_12 a pbs:Award ;
+    pbs:groupeAge "9",
+        "10",
+        "11",
+        "12" ;
+    pbs:genreLittéraire pbs:ROMAN .
 
 pbs:Prix_Chronos_De_Littérature_6E_5E a pbs:Award ;
     pbs:groupeAge "11",
@@ -22296,10 +22372,34 @@ pbs:Prix_Littéraire_Hackmatack a pbs:Award ;
     schema:description "Le Prix littéraire Hackmatack – Le choix des jeunes est un programme littéraire conçu pour les enfants âgés de 9 à 12 ans du Canada Atlantique. Ces jeunes lecteurs choisissent de lire les livres sélectionnés par le Comité de sélection Hackmatack et votent pour les gagnants. Les comités de sélection Hackmatack composés d'enseignants, de bibliothécaires et de jeunes lecteurs examinent attentivement plus de 200 livres pour enfants écrits et publiés au Canada. La sélection est raffinée à 40 titres: dix romans français, dix documentaires français, dix romans anglais et dix documentaires anglais. Chaque année, les jeunes inscrits dans des groupes de lecture votent pour les gagnants du prix au printemps. Lors de la remise de prix en mai, les gagnants sont annoncés pour chaque catégorie." ;
     schema:name "Prix littéraire Hackmatack - Le choix des jeunes" .
 
+pbs:Prix_Littéraire_Hackmatack_Roman a pbs:Award ;
+    pbs:genreLittéraire pbs:ROMAN .
+
+pbs:Prix_Littéraire_Hackmatack_Documentaire a pbs:Award ;
+    pbs:genreLittéraire pbs:DOCUMENTAIRE .
+
+pbs:Prix_Littéraire_Hackmatack_Album a pbs:Award ;
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE .
+
 pbs:Prix_Libbylit a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "En 2005, la section belge francophone d’IBBY (International Board on books for Young people) qui publie la revue Libbylit crée le Prix Libbylit. Il permet de primer les coups de cœur de l’équipe de la revue parmi les albums et romans marquants de l’année. Le jury est composé des recenseurs, professionnels du livre de jeunesse, de la revue LIBBYLIT, revue belge du Centre de littérature de Bruxelles et de la section francophone de l'IBBY. La dernière édition a eu lieu en 2022." ;
     schema:name "Prix Libbylit" .
+
+pbs:Prix_Libbylit_Album_ a pbs:Award ;
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE ;
+    schema:name "Prix Libbylit - Album" .
+
+pbs:Prix_Libbylit_Roman_ a pbs:Award ;
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE ;
+    schema:name "Prix Libbylit - Roman" .
+
+pbs:Prix_Libbylit_BD_ a pbs:Award ;
+    pbs:genreLittéraire pbs:BD ;
+    schema:name "Prix Libbylit - BD" .
+
+pbs:Prix_Libbylit_Petite_Enfance_ a pbs:Award ;
+    schema:name "Prix Libbylit - Petite Enfance" .
 
 pbs:Prix_Des_Incorruptibles a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;

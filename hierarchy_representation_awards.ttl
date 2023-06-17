@@ -159,8 +159,15 @@ pbs:Prix_Libbylit skos:narrower pbs:Prix_Libbylit_Mention_Spéciale_,
         pbs:Prix_Libbylit_Mention_Spéciale_Du_Jury_,
         pbs:Prix_Libbylit_Mention_Spéciale_Hors_Catégorie_,
         pbs:Prix_Libbylit_Mention_Spéciale_Théâtre_Jeunesse_,
-        pbs:Prix_Libbylit_Ovni_ .
-pbs:Prix_Littéraire_Hackmatack skos:narrower pbs:Prix_Littéraire_Hackmatack_Égalité_ .
+        pbs:Prix_Libbylit_Ovni_,
+        pbs:Prix_Libbylit_Album_,
+        pbs:Prix_Libbylit_Roman_,
+        pbs:Prix_Libbylit_BD_,
+        pbs:Prix_Libbylit_Petite_Enfance_ .
+
+pbs:Prix_Littéraire_Hackmatack skos:narrower pbs:Prix_Littéraire_Hackmatack_Roman,
+    pbs:Prix_Littéraire_Hackmatack_Documentaire,
+    pbs:Prix_Littéraire_Hackmatack_Album.    
 
 pbs:Prix_Libr_À_Nous skos:narrower pbs:Prix_Libr_À_Nous_Album,
         pbs:Prix_Libr_À_Nous_Roman .
@@ -211,6 +218,11 @@ pbs:Prix_Lu_Et_Partagé skos:narrower pbs:Prix_Lu_Et_Partagé_Grand_Prix_De_L_Al
 pbs:Prix_Mangawa skos:narrower pbs:Prix_Mangawa_Catégorie_Seinen,
         pbs:Prix_Mangawa_Catégorie_Shojo,
         pbs:Prix_Mangawa_Catégorie_Shonen .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel skos:narrower pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17,
+        pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8,
+        pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_9_12,
+        pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Roman_9_12 .
 
 pbs:Prix_Petit_Angle skos:narrower pbs:Prix_Petit_Angle_Petit_Angle_Étranger,
         pbs:Prix_Petit_Angle_Prix_Spécial,

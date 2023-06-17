@@ -16,14 +16,14 @@ awards.parse("./awards.ttl", format="ttl")
 
 # Create dictionaries for storing the books URIs
 genre_to_books = {
-    "Littérature jeunesse": [],
-    "Album jeunesse": [],
-    "Roman ado": []
+    "13 ans et +": [],
+    "Album 5 à 8 ans": [],
+    "9 à 12 ans": [],
 }
 
 # Iterate over the books and add the book URI to the corresponding genre list
 for s, p, o in books.triples((None, ns1.award, None)):
-    if "Prix_Libr_À_Nous" in str(o):
+    if "Prix_Jeunesse_Des_Libraires_Du_Québec" in str(o):
         for genre in genre_to_books.keys():
             book_genres = [str(o) for o in books.objects(s, ns1.genre)]
             if genre in book_genres:
