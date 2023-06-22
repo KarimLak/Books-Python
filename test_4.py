@@ -1,42 +1,28 @@
-import rdflib
+import csv
 
-# Load the books and awards graphs
-books = rdflib.Graph()
-books.parse("./books.ttl", format="ttl")
+def read_csv_file(file_path):
+    with open(file_path, 'r', encoding= "utf-8") as f:
+        reader = csv.reader(f)
+        data_list = list(reader)
+    
+    # Flattens the list if it's a list of lists
+    data_list = [item for sublist in data_list for item in sublist]
 
-awards = rdflib.Graph()
-awards.parse("./awards.ttl", format="ttl")
+    return data_list
 
-# Define the namespaces
-ns1 = rdflib.Namespace("http://schema.org/")
-pbs = rdflib.Namespace("http://example.com/pbs#")
-mcc = rdflib.Namespace("http://example.com/mcc#")
+def write_to_file(file_path, data):
+    with open(file_path, 'w', encoding= "utf-8") as f:
+        f.write("[")
+        for item in data[:-1]:
+            f.write('"' + item + '",')
+        f.write('"' + data[-1] + '"')
+        f.write("]")
 
-# Get all the books in the books file
-book_resources = list(books.subjects(predicate=rdflib.RDF.type, object=ns1.Book))
+file_path = './query_result.txt'
+names = read_csv_file(file_path)
 
-for book in book_resources:
-    # Remove the old awards properties
-    old_awards = list(books.objects(subject=book, predicate=ns1.award))
-    for award in old_awards:
-        books.remove((book, ns1.award, award))
+# Removing duplicates and sorting the list
+unique_names = sorted(list(set(names)))
 
-    # Convert the book to a string format and remove 'ns1:' prefix
-    book_str = str(book).replace('ns1:', 'schema:')
-
-    # Get the award resources in the awards file that match the book
-    award_resources = list(awards.subjects(predicate=mcc.R37, object=rdflib.URIRef(book_str)))
-
-    for award_resource in award_resources:
-        # Get the actual award name that the award_resource points to
-        award = awards.value(subject=award_resource, predicate=pbs.award)
-
-        # Get the award name
-        award_name = awards.value(subject=award, predicate=ns1.name)
-
-        # Add the new award property to the book
-        if award_name is not None:
-            books.add((book, ns1.award, rdflib.Literal(award_name)))
-
-# Save the modified books file
-books.serialize(destination="./books_updated.ttl", format="ttl")
+# Writing to a new file
+write_to_file('./query_result.txt', unique_names)

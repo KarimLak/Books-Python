@@ -2216,7 +2216,7 @@ pbs:Les_Mordus_Du_Polarff01d710-3f96-4f4f-b204-a990fc23b9ce a mcc:MCC-E12 ;
     pbs:award pbs:Les_Mordus_Du_Polar .
 
 pbs:Les_Pépites_Du_Salon_De_Montreuil a pbs:Award ;
-    pbs:genreLittéraire pbs:ROMAN_POLICIER ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
     schema:description "En 2011, la création des Pépites du Salon a permis au public de mieux percevoir la grande diversité des œuvres et des talents qui font la richesse de la littérature jeunesse. Remises une semaine avant le Salon du livre et de la presse jeunesse de Montreuil, ces Pépites offrent également aux lauréats et artistes en lice, une visibilité plus forte durant le Salon, tant du côté des lecteurs que des médias. Pour désigner chaque prix, une première sélection de 5 œuvres par catégorie, réalisée par des pré-jurys réunissant des membres d’associations et des groupements de libraires, a été soumise à un jury final unique composé de professionnels du livre, de la culture et de l’éducation, accompagné de journalistes." ;
     schema:name "Les Pépites du Salon de Montreuil" .
 
@@ -10132,7 +10132,7 @@ pbs:Prix_Jeunesse_Des_Libraires_Du_Québec16c995c2-fe4b-498a-9615-91ebd91fecff a
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec1e5ea3a9-89b7-4b3f-bf51-889ff38e51f5 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book26a57d52-e9f5-45b7-8e8a-e0a12ec9ec0c ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec20f06b3f-d0b6-48fe-b593-54277dd3aab7 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
@@ -10147,7 +10147,7 @@ pbs:Prix_Jeunesse_Des_Libraires_Du_Québec2313ce6f-5171-4525-99eb-bb6468d53417 a
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec2350dc35-9de8-44fe-9fa0-9a464fc8cd67 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Bookbacaefe3-83bd-4a16-a159-f77caf6c4c38 ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec259b1f43-36e3-4efa-827e-c9aa5bfe0d7d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
@@ -10162,17 +10162,17 @@ pbs:Prix_Jeunesse_Des_Libraires_Du_Québec25b2dcef-ce7a-478a-a7a4-5f78a42f1dee a
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec4870127e-c53b-4959-9471-7da71d6d1b84 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book0e623d00-4c83-49da-ac5e-574b1fdd8236 ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec4a2cdec2-7e2c-4869-aa7e-2b72db6e0580 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book670e0ba9-6032-4d49-919e-eee93ef306f6 ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec564e44e9-1f7a-4484-9b85-8c09bfb11c14 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Book72fe4977-626c-4069-9ff8-3d4f70e283e1 ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec6601bfd1-6a33-4048-b552-8138731ef836 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
@@ -10182,12 +10182,12 @@ pbs:Prix_Jeunesse_Des_Libraires_Du_Québec6601bfd1-6a33-4048-b552-8138731ef836 a
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec7c6a09af-e195-497a-b6ff-8ef13d94cafe a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Book48adc981-42bb-455b-8f9e-51f65ab4847b ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec8d3e3806-57fd-4f46-a39e-95dffb4bef0f a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Book22d32860-831b-4b53-ba63-6e8266ec7098 ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec93aa2877-b23e-476c-96e4-e534f9fb7165 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
@@ -10197,7 +10197,7 @@ pbs:Prix_Jeunesse_Des_Libraires_Du_Québec93aa2877-b23e-476c-96e4-e534f9fb7165 a
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec949dae92-8276-4cc5-bafd-f4abda919b45 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Bookfed10189-543b-4bbe-b44a-f8365d210b00 ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec99b31c27-4e0d-469d-bef8-705be59a027e a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
@@ -10222,32 +10222,77 @@ pbs:Prix_Jeunesse_Des_Libraires_Du_Québecae6cb038-708f-419e-aaa0-99dbe7a9427f a
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québecb01f7283-8ee0-42f3-bdce-07c252f98204 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book83578a26-e36c-4655-8823-0086da6d98e1 ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québecb1b2f993-aa69-4701-8f14-63dd14e807f3 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Book0a0e23b2-7d53-44b0-9c5d-3cb60baf4ee7 ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québecbcbda848-2169-4664-809a-7470c0e9a279 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Book002331cc-5d27-49a7-9d26-3985495d3e3b ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Québec .
+
+pbs:Prix_Jeunesse_Des_Libraires_Du_Québecbcbdw848-2160-4664-809a-7470k0e9a229 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book188f1591-a60f-4bf2-8522-242d0f5f6951 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
+
+pbs:Prix_Jeunesse_Des_Libraires_Du_Québecbcbdwk48-8160-4664-809a-7470k0e9a229 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book1c6dded5-1012-480f-822a-3927ff7025cc ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
+
+pbs:Prix_Jeunesse_Des_Libraires_Du_Québecbcbdwk-i48-8160-4664-809i-7470c0e9a229 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book3a81e4d5-5036-48af-bea0-0d28c4a65c1c ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
+
+pbs:Prix_Jeunesse_Des_Libraires_Du_Québecbcbdwk-i48-8160-4665-809f-7470c0e9a229 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book71a2ab10-e2ab-478a-8007-9bf1668d98da ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
+
+pbs:Prix_Jeunesse_Des_Libraires_Du_Québecbcbdwk-i49-8160-4665-801f-7470c0w9a229 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book7cdf01d6-30d1-41ca-a8ff-8b4f00f99d37 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
+
+pbs:Prix_Jeunesse_Des_Libraires_Du_Québecbcbdwk-i4l-8160-4665-801f-7470l0w9a239 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Book96778403-f120-4bde-ab72-aa12c98d622f ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
+
+pbs:Prix_Jeunesse_Des_Libraires_Du_Québecbcbdwk-i4l-8160-4665-807f-7470l0w9b239 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Book9e1653b2-fe89-402a-ae19-69a74e72d396 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
+
+pbs:Prix_Jeunesse_Des_Libraires_Du_Québecbcbdak-i4l-8160-4665-907f-7470l1w9b239 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Booka90e0ab1-f044-42aa-8662-14695c0d3366 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
+
+pbs:Prix_Jeunesse_Des_Libraires_Du_Québecbcbzak-i4l-8161-6665-907f-7470l1w9b239 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Bookffc71533-ffbd-4312-92f9-6eef442b5f08 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québecbd3ee47a-048c-4cbb-9a54-35c29775efeb a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
     mcc:R37 schema:Bookfb059aad-d0c2-4038-8249-b64c707de971 ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québecbe709387-e267-4a70-a9f0-5af37c528e7d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book4bbc5460-f0e4-4a00-ad97-0351b008a4e4 ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québecc23c86db-08b5-41b1-a68d-c8979aeb2f03 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book70243df8-254a-4193-86e0-dff0c0922964 ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québecec20cf0c-d324-453b-b4dd-8806683b87a1 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
@@ -10262,17 +10307,17 @@ pbs:Prix_Jeunesse_Des_Libraires_Du_Québecf2839fa5-53c5-4717-a7a8-04f039a34516 a
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québecfa2b4755-59bb-4579-ac38-3427d89e2441 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Bookf495f6e1-c73d-4ba5-ac93-4d7b1a6823db ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québecfcb30017-4d5d-4e5b-a931-0dd73e41d7b3 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Book45e404c0-da1a-45fe-918c-121d066cfe8d ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québecfda7a759-7fb3-4d9a-b214-9f7ee615a782 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Bookd68d98d3-bd34-4df8-b24a-22573fbfe145 ;
-    pbs:award pbs:Prix_Jeunesse_Des_Libraires_Du_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
 
 pbs:Prix_Jeunesse_Des_Terres_Du_Val_De_Loire6d0c822c-a62c-4651-b4fc-09f96eb03960 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
@@ -20009,6 +20054,11 @@ pbs:Prix_des_libraires_Lauréat_2023_Poésie_Québec02f817ac-3a5b-4357-b79c-07f4
     mcc:R37 schema:Book723b3a3e-39cd-470a-8f80-e37ff676945f ;
     pbs:award pbs:Prix_des_libraires_Lauréat_2023_Poésie_Québec .
 
+pbs:Prix_des_libraires_Lauréat_2023_Poésie_Québec02f817ac-3a5b-4357-b79c-07f4dfb1342a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book820ffecb-3606-417e-b2b6-75ce370182a8 ;
+    pbs:award pbs:Prix_des_libraires_Lauréat_2023_Poésie_Québec .
+
 pbs:Prix_des_libraires_Lauréat_2023_Poésie_Québec1c1ecc1d-9baa-4119-b92a-cd831262dd99 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Bookb25e63f1-0b63-44f1-9821-dc6f1deb4d43 ;
@@ -20062,7 +20112,12 @@ pbs:Prix_des_libraires_Lauréats_0_4_Ans_Québec7d7d46fd-2586-45da-8197-23956336
 pbs:Prix_des_libraires_Lauréats_0_4_Ans_Québecb75e5713-0d96-4b56-ac58-44fd845a60f4 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book140e1dc8-b555-436e-8fe9-4a94dafec244 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_0_4_Ans_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_0_4_Ans_Québecb75f5713-0d99-4b56-ac58-44kd845a60f4 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Book298b8778-e224-4dce-8442-be402002cb34 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_0_4_Ans_Québecd87e4c5d-be8d-4116-b14c-f2f26de897e4 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
@@ -20072,7 +20127,7 @@ pbs:Prix_des_libraires_Lauréats_0_4_Ans_Québecd87e4c5d-be8d-4116-b14c-f2f26de8
 pbs:Prix_des_libraires_Lauréats_0_4_Ans_Québece87f9625-4ae4-4c06-8b1e-016c5d5b19b4 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Bookd17a14e0-b052-438e-862f-55e7cd6ab2d5 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_0_4_Ans_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec a pbs:Award ;
     pbs:groupeAge "0",
@@ -20147,6 +20202,11 @@ pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec168f4a12-3dee-4df9-a120-18b2bf
     mcc:R37 schema:Booke353e7b7-2d15-4e7f-8b13-0c61fed0ddc5 ;
     pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
 
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec168f4a12-3dee-4df9-a120-18b2bf73a66c a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Booke8f1c606-eedc-4676-9387-45e74efe53f4 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
+
 pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec23eda246-5f7f-47fb-bd4f-f3776247a476 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Book6a2ece97-8c47-40f5-9215-d3eab5ba988b ;
@@ -20197,6 +20257,11 @@ pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecc89a2182-9111-4707-946a-5bb707
     mcc:R37 schema:Book80655b37-0c35-4959-a7c1-a727c4e8caa4 ;
     pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
 
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecc89a2182-9111-4707-946a-5bb707ac73d8 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Booka42f0094-7f5c-402f-a1cb-53b70b19129e ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
+    
 pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecdc140826-29d1-418b-93c3-cbc9409c866d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book0da42a11-56e6-43c4-9ed4-3eae7362fb0a ;
@@ -20210,7 +20275,67 @@ pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québece8f857a5-ad5d-41e8-9285-16c72c
 pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072dd-0cd7-4915-bb26-6bd86917c34f a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
     mcc:R37 schema:Book63b56628-f64d-44b8-9f55-0aacda8c66af ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072jd-0cd7-4915-bb27-9bd86917c34f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Book1683fc3b-a506-4f68-b808-7467cb6e472f ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072kd-0cd7-4915-bb26-9bd86617c34f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Book559931c9-53b4-4c2f-9934-59af0a481079 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072jk-0cd7-4917-bc26-9bd86917c34f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Book573d45fe-dabb-487e-8703-5ae1c4fab11f ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c172jd-0cd7-4917-bc26-9bd86917c34f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book5a12d5c1-ee91-43c7-8976-96030a93ebf3 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072jd-0cd7-4917-bc26-9bd86917c34f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book5d0d5ec3-54ab-4010-9dfe-db7030f8534f ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072jd-0cd7-4917-bc26-9bd86917c34f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book9b00f452-4b4a-46d9-85ba-b65c227eae75 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072jd-0cdf-4917-bc26-9bd86917c34f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Bookbe6e14da-648f-48e2-bea6-181531f61296 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072jd-0cdf-4917-bc26-9bd86917c34f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Bookdf0d3579-9d04-4195-b0a2-358d6aaf8557 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072jd-0cdf-4917-bc26-9bd86917c34f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Booke05417e1-d981-45bc-8133-0060a2b63ce5 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072jd-0cdf-4917-bc26-9bd86917c34f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Booke28df43a-ec24-4b97-bde2-60b8fc786135 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072jd-0cdf-4917-bc26-9bd86917c34f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Booke5b090bc-aa65-4f72-bd31-b757f5c5c5a8 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québecf4c072jd-0cdf-4917-bc26-9bd86917c34f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Bookeda9dbcc-9fd5-4e17-85cc-44d63c6d78eb ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Hors_Québec a pbs:Award ;
     schema:name "Prix des libraires - Lauréat Adulte" .
@@ -20223,7 +20348,7 @@ pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec18d30f11-0e15-46de-a81
 pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec25d400e4-35e0-4d33-aac4-ba0d3f396e30 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Book7a983e6c-df4a-403b-8b40-06965979418e ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec610eb127-440f-4f88-b263-8fc11f4d46d7 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
@@ -20233,12 +20358,17 @@ pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec610eb127-440f-4f88-b26
 pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec6c33a8fa-3a1c-4ade-ac4a-d459ad256d61 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Bookc6ba6069-7724-4da4-9f70-c74ca67bc803 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec6c63a8fa-3a1c-4ade-ac4a-d459ad256d61 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book3b015676-1125-4b78-ada0-daf239c19b2d ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec .
 
 pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec969e138e-daaa-4ee8-b1fb-08c80859bc5f a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Book03caedf0-79a6-4e61-86bb-1eb70bdcf1e2 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québeca1458a64-c34d-4022-9acf-152b0f9cb915 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
@@ -20248,7 +20378,7 @@ pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québeca1458a64-c34d-4022-9ac
 pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québeca375a48e-ec60-4244-b313-414e0503c60e a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book48a0b4a7-e4c7-4eba-8055-b755e6afb981 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québecbd72b596-9449-450a-80b1-8d46b7669fc9 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2023"^^xsd:gYear ;
@@ -20259,6 +20389,26 @@ pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québecd86ab1e2-9057-4fd4-94c
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Bookd240ebd2-850d-4293-9d3f-878ea6aa39cc ;
     pbs:award pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec .
+
+pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québecd86ab2e3-9057-4fd4-94c9-08fd8e707aed a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book9305713a-99ee-48ac-aab4-162691ec005a ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_Bd_Jeunesse_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québecd86ab2e3-9057-4fd4-94c9-08fd8e707aed a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book9ec2f652-2b5a-43a6-9412-5a31eaa4f732;
+    pbs:award pbs:Prix_des_libraires_Lauréats_Bd_Jeunesse_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québecd86ab2e3-9057-4fd4-94c9-08fd8e707aed a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Bookd1ebb5be-13e5-4915-a6cc-570e1ee21333;
+    pbs:award pbs:Prix_des_libraires_Lauréats_Bd_Jeunesse_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québecd86ab2e3-9057-4fd4-94c9-08fd8e707aed a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Bookeb3bc1a3-883e-4de4-ae3b-760f9b29d9ef;
+    pbs:award pbs:Prix_des_libraires_Lauréats_Bd_Jeunesse_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québece1e87965-8d17-42af-9be3-a6a3a0747b4d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
@@ -20288,6 +20438,51 @@ pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec31f6f1b9-17da-42d5-9e08-9b7cb2a
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Book07f76762-6d46-4d37-a7ca-1ae186364626 ;
     pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec .
+
+pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec31f5f1b9-17da-42d5-9e08-9b7cb2aeb7a1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book0a8eae3b-ecc2-48c5-aefa-187eac52e1ed ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec32f5f1b9-17da-42d5-9e08-9b7cb2aeb7a1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book0c5a318d-3100-4e8a-88c8-7d3cbb381489 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec32f5f1b9-17da-42d5-9e08-9b7cb2aeb7a1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Book4ddc8a6c-c4a0-4f65-b512-192e35b73cda ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec32f5f1b9-17da-42d5-9e08-9b7cb2aeb7a1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book6de58be1-fe5b-4907-96e7-6ffc738e2eaf ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec32f5f1b9-16da-42d5-9v08-9b7cb2aeb7a1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book6e874b13-5de3-4344-a98a-34d556d1b5f4 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec32f5f1b9-17da-42d5-9r08-9b7cb2aeb7a1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book8a01452d-d7cc-4634-9a52-01b1891046b6 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec32f5f1b9-17dw-42d5-9r08-9b7cb2aeb7a1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Bookb3da9b85-88a5-4ac6-9cb5-6ed2af728f4e ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec32f5f1b9-19da-42dk-9r08-9b7cb2aeb7a1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Booke550a982-2a0f-432c-b3b0-50363cf955c8 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec32f5h2b9-17dt-42dk-9r08-9b7cb2aeb7a1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Bookfeaffaa2-6edb-4eed-a4c9-9d3b89ccc39d ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec5ad27298-72e5-44df-bfd1-3bb6ebdad6c2 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
@@ -20347,6 +20542,11 @@ pbs:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québecbd9d4cd9-a9b7-4a4c-83f9-cf6b
     mcc:R37 schema:Book6c96b9ce-fba5-47ac-997a-8f2914f1d784 ;
     pbs:award pbs:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec .
 
+pbs:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québecbd9d4id9-a9b7-4a4c-83f9-cf6b925aed24 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Bookbe9e2255-bdc5-48a5-bf87-09f6483f9d5b ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec .
+
 pbs:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québecd2151bfc-410b-46e8-af99-1a9d58d4fa24 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2022"^^xsd:gYear ;
     mcc:R37 schema:Booke89cfc4e-d890-45cb-9ebb-f6445d9c9526 ;
@@ -20368,17 +20568,17 @@ pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec01efa9e2-a18
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec03b7d771-9b08-4a16-9736-23ce936370b4 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2004"^^xsd:gYear ;
     mcc:R37 schema:Book015bd46c-db09-45fd-84b6-8010e6987d95 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec08c5c5a4-807a-48f3-89db-4070afdc82a5 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2006"^^xsd:gYear ;
     mcc:R37 schema:Booka97ca6c6-114d-4c05-b4b2-265735290a9c ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec12ef4400-fe12-4f8a-91af-30e89313eacd a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2019"^^xsd:gYear ;
     mcc:R37 schema:Book6525a8b2-0684-453e-af00-14347a9a2532 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec172ba97c-5c79-40ad-9d04-203ace6bd92d a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1996"^^xsd:gYear ;
@@ -20418,7 +20618,7 @@ pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec2505f863-6a0
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec276c89c1-ae2a-458f-b68d-8f965fdefbf2 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
     mcc:R37 schema:Book999aa47e-f2d7-4c06-ab22-ca37975b4c15 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec30f0fd4e-9974-4afe-aa23-b482c65fc900 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
@@ -20433,22 +20633,22 @@ pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec31242bac-6f7
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec32663bb8-767c-4255-a781-cd11e4955062 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1995"^^xsd:gYear ;
     mcc:R37 schema:Book50a27eb9-1d88-4649-b1e7-e3e62c2ad2c9 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec37ac8ee4-8526-4177-b362-8a3c3a885738 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear ;
     mcc:R37 schema:Bookcf2bdc9d-b3c1-4333-abb3-c89bcb918a70 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec420d396a-21f9-444e-a8d8-245c69f1050e a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1997"^^xsd:gYear ;
     mcc:R37 schema:Bookd8a0366e-8199-40ba-b080-9301cfd841e5 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec46ab263d-638c-4075-91f5-c92bb73e5079 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
     mcc:R37 schema:Bookbf663984-5e92-470e-8a11-1d1a73721d01 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec47b75c8f-7daa-45a8-9ae2-52958f190e43 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1999"^^xsd:gYear ;
@@ -20468,22 +20668,27 @@ pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec4a226402-d95
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec5d1d2c36-e7e8-4017-8421-560e7216df9b a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1996"^^xsd:gYear ;
     mcc:R37 schema:Bookb109d346-7081-431d-a615-66802e3f7d80 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec6862600a-57c3-44a8-aaab-a9b163b6992b a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1999"^^xsd:gYear ;
     mcc:R37 schema:Book333cc35c-5227-4f1a-9c1c-3919a62ca886 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
+
+pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec6882600a-57c4-44a8-aaab-a9b163b6992b a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Book33a5587b-7627-442e-82fb-028a1d7eacdb ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec694b8c87-44bd-467e-ac35-0ab01277fbe8 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Book57ed501c-25e4-41f7-8a5d-fde420be1dc3 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec69a249ec-d316-49e8-ab89-ec5cb21514ca a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1998"^^xsd:gYear ;
     mcc:R37 schema:Book169fab41-2c34-4126-b498-c612ade6bed1 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec6e09f5db-8f32-4c25-883d-ae2584f9a727 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
@@ -20493,12 +20698,12 @@ pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec6e09f5db-8f3
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec728615ca-aa6d-4631-ae56-a621bdee2f30 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book834cdac3-d870-406b-bb0e-68d417cf199d ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec745169d6-c248-4f7a-94c4-5653b7090bfa a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2001"^^xsd:gYear ;
     mcc:R37 schema:Book10f0f493-23e1-4da4-82c6-dc7565e41d28 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec7b9ddefd-8af1-4178-84b2-a231f339a15c a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2000"^^xsd:gYear ;
@@ -20508,12 +20713,12 @@ pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec7b9ddefd-8af
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec7f01aa30-8c45-4e0e-bed5-62f3b8e83af1 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
     mcc:R37 schema:Bookfaced28b-a480-4de0-9bfe-70aaff2ca218 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec8733f939-848c-4dd8-98f7-7b6e8cab90bc a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Book0c7dab75-082b-4fd6-8d64-14753b20d810 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec88e5c181-b4ab-41ae-a7ff-8cff541d58f1 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2014"^^xsd:gYear ;
@@ -20523,7 +20728,7 @@ pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec88e5c181-b4a
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec96843eb1-6101-4124-b1f7-e28cb51dd94f a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2003"^^xsd:gYear ;
     mcc:R37 schema:Book83ac54da-fffa-4577-a688-22836b64635a ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec98d25895-70e7-4f13-a753-9315bbd108ac a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2002"^^xsd:gYear ;
@@ -20533,12 +20738,12 @@ pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec98d25895-70e
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec9aea7765-f69e-41e7-aa91-3d61a31fc485 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Bookb6ea3a00-976a-4c7a-baa3-e2f843641b8f ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec9fa0aeef-a470-44a5-8ded-98926e1befa7 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2009"^^xsd:gYear ;
     mcc:R37 schema:Booka9f4f023-55d7-48c3-9dac-bc33dc68e569 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québeca2da5a71-54f1-438e-a104-8164925614f1 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
@@ -20553,12 +20758,12 @@ pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québeca5278d88-3d2
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecaba99c7b-f91f-498e-a7b3-dd206916ffb4 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2000"^^xsd:gYear ;
     mcc:R37 schema:Book4c0567e9-1b6e-42cc-9aa8-a57b816e107e ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecadaf61ca-3f73-414d-8333-ccbb680bd69b a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book0aa2b6ab-2628-403d-9420-2b070b5e2a61 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecb7ecea3e-0bd0-4dd2-a22f-3083ec43365f a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
@@ -20588,7 +20793,7 @@ pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecc09ddcfd-9ed
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecc4e476ac-c7a8-44bf-b555-0328f37f56a6 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2015"^^xsd:gYear ;
     mcc:R37 schema:Book515c166b-be0a-4931-b362-7b66899e534e ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecc9f79b04-c3c3-4454-bf66-8f3b3b401fd3 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2001"^^xsd:gYear ;
@@ -20598,12 +20803,17 @@ pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecc9f79b04-c3c
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecce3cc586-8b78-4faa-807e-d7094bb5720c a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2010"^^xsd:gYear ;
     mcc:R37 schema:Book2453ba3a-ed1d-4d9b-a2f0-52fb507a360f ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
+pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecce4cc586-8b78-4faa-807e-d7094bb5720c a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Book2497a300-ffb3-4749-9673-cb0baa4c86a0 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
+    
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecd0ac0134-f0fe-4542-b321-f12c22358956 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2005"^^xsd:gYear ;
     mcc:R37 schema:Bookb56cf51e-5e40-4304-85bc-f181e05f0df5 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecddf1455d-8d75-4b4b-a69a-f4ed0d2ebf35 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2012"^^xsd:gYear ;
@@ -20643,12 +20853,12 @@ pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecec5a3459-f57
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecf022dcc6-4928-4f75-bbd7-993585cf99a7 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2002"^^xsd:gYear ;
     mcc:R37 schema:Booke2000161-8e40-42cb-b8a2-ed15abdbc5ab ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québecf8b4aaa6-5ac5-4914-b6b5-0b71ef26fac1 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1994"^^xsd:gYear ;
     mcc:R37 schema:Book0062d1fb-f0d5-4952-b2e7-3f54549d64d1 ;
-    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+    pbs:award pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec .
 
 pbs:Révélation_Livre_Jeunesse2c48668a-8bb6-4533-aa05-5d883c6b2a5f a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2021"^^xsd:gYear ;
@@ -21937,6 +22147,7 @@ pbs:Prix_La_Science_Se_Livre_Catégorie_Adolescents_11_15_Ans a pbs:Award ;
         "15" .
 
 pbs:Prix_Sorcières_Documentaires a pbs:Award ;
+    pbs:genreLittéraire pbs:DOCUMENTAIRE ;
     schema:name "Prix Sorcières - Documentaires" .
 
 pbs:Prix_Wallonie_Bruxelles a pbs:Award ;
