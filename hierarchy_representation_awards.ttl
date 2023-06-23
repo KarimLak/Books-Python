@@ -268,9 +268,17 @@ pbs:Prix_Unicef_De_Littérature_Jeunesse skos:narrower pbs:Prix_Unicef_De_Litté
         pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_8_11_Ans,
         pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Ans .
 
+pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada skos:narrower pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Poesie,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Roman,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Essai,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Jeunesse_Texte,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Traduction_Francais,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Traduction_Anglais,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Theatre,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration .
+
 pbs:Prix_des_libraires skos:narrower pbs:Prix_des_libraires_Lauréat_2023_Essai_Québec,
         pbs:Prix_des_libraires_Lauréat_2023_Poésie_Québec,
-        pbs:Prix_des_libraires_Lauréats_0_4_Ans_Québec,
         pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec,
         pbs:Prix_des_libraires_Lauréats_0_5_Ans_Québec,
         pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec,

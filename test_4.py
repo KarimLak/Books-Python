@@ -1,28 +1,21 @@
-import csv
+from rdflib import Graph, Namespace, URIRef
 
-def read_csv_file(file_path):
-    with open(file_path, 'r', encoding= "utf-8") as f:
-        reader = csv.reader(f)
-        data_list = list(reader)
-    
-    # Flattens the list if it's a list of lists
-    data_list = [item for sublist in data_list for item in sublist]
+# Define your namespaces
+ns1 = Namespace("http://schema.org/")
+mcc = Namespace("http://example.com/mcc#")  
 
-    return data_list
+# Load your graphs
+books = Graph()
+awards = Graph()
 
-def write_to_file(file_path, data):
-    with open(file_path, 'w', encoding= "utf-8") as f:
-        f.write("[")
-        for item in data[:-1]:
-            f.write('"' + item + '",')
-        f.write('"' + data[-1] + '"')
-        f.write("]")
+books.parse("./books.ttl", format="turtle")
+awards.parse("./awards.ttl", format="turtle")
 
-file_path = './query_result.txt'
-names = read_csv_file(file_path)
+# Collect all book URIs in the books graph
+book_uris = set(str(s) for s, p, o in books if isinstance(s, URIRef) and str(s).startswith(ns1))
 
-# Removing duplicates and sorting the list
-unique_names = sorted(list(set(names)))
-
-# Writing to a new file
-write_to_file('./query_result.txt', unique_names)
+# Check if each book URI is present in the awards graph
+for book_uri in book_uris:
+    book_uri = URIRef(book_uri.replace(str(ns1), str(ns1)))
+    if (None, mcc["R37"], book_uri) not in awards:
+        print(f"The book {book_uri} is not present in the awards graph.")
