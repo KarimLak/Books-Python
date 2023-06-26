@@ -65,9 +65,39 @@ pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada80f62ckg-13s5-457c-a7fe-9
     mcc:R37 schema:Bookaa9a33d0-b058-440e-8266-91534a3b4ec0 ;
     pbs:award pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration .
 
+pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada81f62fkg-13s5-457c-a7fe-9f42f6e890e0 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book9b464445-7595-4e57-bbb8-116dc3ddb0ea ;
+    pbs:award pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration .
+
+pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada80f62ckg-13s5-458c-f7fk-9f42f6e890e0 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book3920cccf-c634-4f6a-ac5a-7baf3fefb5be ;
+    pbs:award pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration .
+
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada80f62ckg-13s5-456c-a7fn-9f42f6e890e0 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2020"^^xsd:gYear ;
     mcc:R37 schema:Bookeb0f2410-ea57-4a4f-b30d-66fc49f639a3 ;
+    pbs:award pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration .
+
+pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada80f62ckg-13s5-456c-b8fn-9f42f6e890e0 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Bookb1e7cdd7-b896-4aac-addf-7d5851520669 ;
+    pbs:award pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration .
+
+pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada80f62ckg-23s5-456b-a7fn-9f42f6e890e0 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book603b1b1f-1417-4d64-984d-1d6e421cbfcf ;
+    pbs:award pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration .
+
+pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada80f62ckg-13s5-456k-a7fn-9f42f6e890e0 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book5aff43ff-2f85-4827-8b88-5220b8d5bab0 ;
+    pbs:award pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration .
+
+pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada80f62hkg-13s5-456k-a7fn-9f42f6e891e0 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Bookbb5d7333-d8eb-4e51-8867-2c6567a89a22 ;
     pbs:award pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration .
 
 pbs:Baobab_De_L_albuma7665f6c-f772-40ca-b0f1-b0e4807bbfca a mcc:MCC-E12 ;
@@ -3585,6 +3615,11 @@ pbs:Prix_Alvine_Bélisle05cae6e4-f0c8-46f1-9ca7-8a87f500f82e a mcc:MCC-E12 ;
     mcc:R37 schema:Bookabcd0d82-5f2b-4c9c-97cc-5b1deb87d435 ;
     pbs:award pbs:Prix_Alvine_Bélisle .
 
+pbs:Prix_Alvine_Bélisle05cae6e4-f0c8-46f1-9ca7-8a87f501f82e a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1993"^^xsd:gYear ;
+    mcc:R37 schema:Booka6b1e7a7-9125-4549-be45-7cfa39bfdf93 ;
+    pbs:award pbs:Prix_Alvine_Bélisle .
+
 pbs:Prix_Alvine_Bélisle09848640-2c93-426d-b7d1-a971ce8087a8 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2008"^^xsd:gYear ;
     mcc:R37 schema:Book268f02e2-6574-480a-8885-7f6e38d5993c ;
@@ -5703,18 +5738,13 @@ pbs:Prix_Chronos_De_Littérature_Cm1_Cm29920a9dc-ddbb-41bd-a9e0-b19fd39d3a69 a m
     mcc:R37 schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0898 ;
     pbs:award pbs:Prix_Chronos_De_Littérature_Cm1_Cm2 .
 
-pbs:Prix_Chronos_De_Littérature_Cm1_Cm2a67e8de4-0fae-4519-9734-495286add699 a mcc:MCC-E12 ;
-    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
-    mcc:R37 schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0874 ;
-    pbs:award pbs:Prix_Chronos_De_Littérature_Cm1_Cm2 .
-
 pbs:Prix_Chronos_De_Littérature_Cm1_Cm2a8269b5d-98d1-4559-a5a7-377db4ac7292 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2002"^^xsd:gYear ;
     mcc:R37 schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0963 ;
     pbs:award pbs:Prix_Chronos_De_Littérature_Cm1_Cm2 .
 
 pbs:Prix_Chronos_De_Littérature_Cm1_Cm2b26b1e8e-61c2-4c11-b6c4-e8fc2f80ff0b a mcc:MCC-E12 ;
-    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0874 ;
     pbs:award pbs:Prix_Chronos_De_Littérature_Cm1_Cm2 .
 
@@ -10169,6 +10199,11 @@ pbs:Prix_Jeunesse_Des_Libraires_Du_Québec00c38287-7c06-4e5e-a1db-b2a94490d799 a
     mcc:R37 schema:Bookb83b54ec-8883-4059-aeef-d4d56183600d ;
     pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec .
 
+pbs:Prix_Jeunesse_Des_Libraires_Du_Québec00c38287-7c06-4e5g-a2db-b2a94490d799 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Bookeab8613a-5daa-4ca0-80ca-ddff927f6c83 ;
+    pbs:award pbs:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec .
+
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec16c995c2-fe4b-498a-9615-91ebd91fecff a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2017"^^xsd:gYear ;
     mcc:R37 schema:Book7e5707ca-2deb-4ccd-9a3b-97e310aafc91 ;
@@ -12137,6 +12172,11 @@ pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_CanadaBook05933dch-5d27-49a7-9d
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_CanadaBook05233dch-5d27-49a7-9d26-3985495d3e3l a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Bookf2cde1bb-9cf8-4a24-b197-5d4d4fb37c3d ;
+    pbs:award pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration .
+
+pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_CanadaBook05433dcz-5d27-49a7-9d26-3985495d3e3l a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book55f9815f-fc99-49e8-81fc-3734d3398411 ;
     pbs:award pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration .
 
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_CanadaBook05233dgh-5d27-49a7-9d26-3985495d3e3l a mcc:MCC-E12 ;
@@ -16942,6 +16982,11 @@ pbs:Prix_Québec9e10c46c-4479-49b7-9e7d-83cbd7b19944 a mcc:MCC-E12 ;
 pbs:Prix_Québec_Wallonie_Bruxelles028b5886-70a4-4641-8ba6-8163d06970f6 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2007"^^xsd:gYear ;
     mcc:R37 schema:Bookc16bd802-1ba8-4e24-aba0-414ca4b9392e ;
+    pbs:award pbs:Prix_Québec_Wallonie_Bruxelles .
+
+pbs:Prix_Québec_Wallonie_Bruxelles028b5886-70a4-4642-8ba6-8163g06970f6 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2005"^^xsd:gYear ;
+    mcc:R37 schema:Booka897380b-28a8-485e-92c3-56527a541a78 ;
     pbs:award pbs:Prix_Québec_Wallonie_Bruxelles .
 
 pbs:Prix_Québec_Wallonie_Bruxelles0ce31723-0885-4018-abd4-94f084bf04aa a mcc:MCC-E12 ;
