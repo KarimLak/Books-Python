@@ -1,21 +1,42 @@
-from rdflib import Graph, Namespace, URIRef
+import rdflib
 
-# Define your namespaces
-ns1 = Namespace("http://schema.org/")
-mcc = Namespace("http://example.com/mcc#")  
+# Load the books and awards graphs
+books = rdflib.Graph()
+books.parse("./books.ttl", format="ttl")
 
-# Load your graphs
-books = Graph()
-awards = Graph()
+awards = rdflib.Graph()
+awards.parse("./awards.ttl", format="ttl")
 
-books.parse("./books.ttl", format="turtle")
-awards.parse("./awards.ttl", format="turtle")
+# Define the namespaces
+ns1 = rdflib.Namespace("http://schema.org/")
+pbs = rdflib.Namespace("http://example.com/pbs#")
+mcc = rdflib.Namespace("http://example.com/mcc#")
 
-# Collect all book URIs in the books graph
-book_uris = set(str(s) for s, p, o in books if isinstance(s, URIRef) and str(s).startswith(ns1))
+# Get all the books in the books file
+book_resources = list(books.subjects(predicate=rdflib.RDF.type, object=ns1.Book))
 
-# Check if each book URI is present in the awards graph
-for book_uri in book_uris:
-    book_uri = URIRef(book_uri.replace(str(ns1), str(ns1)))
-    if (None, mcc["R37"], book_uri) not in awards:
-        print(f"The book {book_uri} is not present in the awards graph.")
+for book in book_resources:
+    # Remove the old awards properties
+    old_awards = list(books.objects(subject=book, predicate=ns1.award))
+    for award in old_awards:
+        books.remove((book, ns1.award, award))
+
+    # Convert the book to a string format and remove 'ns1:' prefix
+    book_str = str(book).replace('ns1:', 'schema:')
+
+    # Get the award resources in the awards file that match the book
+    award_resources = list(awards.subjects(predicate=mcc.R37, object=rdflib.URIRef(book_str)))
+
+    for award_resource in award_resources:
+        # Get the actual award name that the award_resource points to
+        award = awards.value(subject=award_resource, predicate=pbs.award)
+
+        # Get the award name
+        award_name = awards.value(subject=award, predicate=ns1.name)
+
+        # Add the new award property to the book
+        if award_name is not None:
+            books.add((book, ns1.award, rdflib.Literal(award_name)))
+
+# Save the modified books file
+books.serialize(destination="./books_updated.ttl", format="ttl")
