@@ -7,6 +7,9 @@ ns1:Publisher rdfs:subClassOf ns1:Organization .
 ns1:12_Bis a ns1:Publisher ;
     ns1:name "12 Bis"^^xsd:string .
 
+ns1:Grandir a ns1:Publisher ;
+    ns1:name "Grandir"^^xsd:string .
+
 ns1:2024 a ns1:Publisher ;
     ns1:name "2024"^^xsd:string .
 

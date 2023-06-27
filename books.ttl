@@ -70,6 +70,7 @@ ns1:Book0062d1fb-f0d5-4952-b2e7-3f54549d64d1 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "1994"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le Maître des illusions" ;
     ns1:publisher ns1:Plon ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -180,6 +181,7 @@ ns1:Book015bd46c-db09-45fd-84b6-8010e6987d95 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2004"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Tout ce que j'aimais" ;
     ns1:publisher ns1:Actes_Sud ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -989,6 +991,7 @@ ns1:Book03caedf0-79a6-4e61-86bb-1eb70bdcf1e2 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : BD Adulte Hors Québec" ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "BD" ;
+    ns1:inLanguage "Français" ;
     ns1:name "L'Accident de chasse" ;
     ns1:publisher ns1:Sonatine ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -1055,6 +1058,7 @@ ns1:Book046fe56f-6682-49a2-9d65-3e371c990ad7 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_slslsj.html"^^xsd:string .
 
 ns1:Book048b9fa9-4e0a-44dc-a3a6-1aa0a50b4ed8 a ns1:Book ;
+    ns1:author "Chiki Kikuchi"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or63f255a3-026d-49a1-bcee-3bb62ca8d124 ;
     ns1:countryOfOrigin "Japon"^^xsd:string ;
     ns1:dateReceived "2019"^^xsd:gYear ;
@@ -1446,6 +1450,7 @@ ns1:Book07cf91d5-a065-4927-a776-dc5f39ec0aa2 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_conseildesarts.html"^^xsd:string .
 
 ns1:Book07ef8225-4325-4b34-8337-af81b37a684b a ns1:Book ;
+    ns1:author "Javier Zabala"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_orb4c4bdce-be61-41f0-9c5a-13bdf48706c4 ;
     ns1:countryOfOrigin "Espagne"^^xsd:string ;
     ns1:dateReceived "2015"^^xsd:gYear ;
@@ -1460,6 +1465,7 @@ ns1:Book07f76762-6d46-4d37-a7ca-1ae186364626 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 6-11 ans" ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Enterrer la lune" ;
     ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -1469,6 +1475,7 @@ ns1:Book08017363-2f69-4ab1-8526-ccefec6eaf5b a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2015"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Ma vie rouge Kubrick" ;
     ns1:publisher ns1:Boréal ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -1672,6 +1679,7 @@ ns1:Book09e859c7-1282-4c96-aed8-4fabcccc5ad1 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2004"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La Héronnière" ;
     ns1:publisher ns1:Leméac ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -1865,6 +1873,7 @@ ns1:Book0a8eae3b-ecc2-48c5-aefa-187eac52e1ed a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 6-11 ans Hors Québec" ;
     ns1:dateReceived "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Mon chien est raciste" ;
     ns1:publisher ns1:Albin_Michel_Jeunesse ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -1874,6 +1883,7 @@ ns1:Book0aa2b6ab-2628-403d-9420-2b070b5e2a61 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2018"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "N'essuie jamais de larmes sans gants" ;
     ns1:publisher ns1:Gaïa ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -2041,6 +2051,7 @@ ns1:Book0c25e5e2-3398-4c2f-bd8b-4de754035ef0 a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Book0c2d1737-3d6c-4a99-a5fd-0321d13e0d3c a ns1:Book ;
+    ns1:author "Erme Ohrun"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Publicef1c8227-3ea1-48f8-b218-2b8115818b58 ;
     ns1:dateReceived "1998"^^xsd:gYear ;
     ns1:illustrator "Erme Ohrun"^^xsd:string ;
@@ -2079,6 +2090,7 @@ ns1:Book0c5a318d-3100-4e8a-88c8-7d3cbb381489 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 6-11 ans Hors Québec" ;
     ns1:dateReceived "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Nous sommes là: notes concernant la vie sur la planète Terre" ;
     ns1:publisher ns1:Kaléidoscope ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -2098,6 +2110,7 @@ ns1:Book0c7dab75-082b-4fd6-8d64-14753b20d810 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2013"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Les Frères Sisters" ;
     ns1:publisher ns1:Alto ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -2269,6 +2282,7 @@ ns1:Book0de4ac0f-b6ef-46d6-b889-955c60e441ab a ns1:Book ;
     ns1:url "https://prixdeslibraires.qc.ca/zoom-demo/?bigtitle=Préliminaire 2023 Québec&firstid=10503&theme=poesie&book_id_list=a%3A8%3A%7Bi%3A0%3Bi%3A10501%3Bi%3A1%3Bi%3A10499%3Bi%3A2%3Bi%3A10498%3Bi%3A3%3Bi%3A10503%3Bi%3A4%3Bi%3A10500%3Bi%3A5%3Bi%3A10497%3Bi%3A6%3Bi%3A10496%3Bi%3A7%3Bi%3A10502%3B%7D"^^xsd:string .
 
 ns1:Book0e1f4db7-49e4-4b4f-8999-8da549b536ad a ns1:Book ;
+    ns1:author "Hassan Moosavi"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Grand_Prixe035fa22-f2b9-40a3-8840-a27c92829554 ;
     ns1:countryOfOrigin "Iran"^^xsd:string ;
     ns1:dateReceived "2019"^^xsd:gYear ;
@@ -2464,6 +2478,7 @@ ns1:Book0fdcfe84-dd50-48c8-b9e3-cc9b1e194cb5 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Essai" ;
     ns1:dateReceived "2018"^^xsd:gYear ;
     ns1:genre "Essai" ;
+    ns1:inLanguage "Français" ;
     ns1:name "À nous la ville !" ;
     ns1:publisher ns1:Écosociété ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -2605,6 +2620,7 @@ ns1:Book10f0f493-23e1-4da4-82c6-dc7565e41d28 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2001"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Balzac et la Petite Tailleuse chinoise" ;
     ns1:publisher ns1:Gallimard ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -2778,6 +2794,7 @@ ns1:Book12af92d2-138a-4c61-849d-ba9f4dd84ba7 a ns1:Book ;
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-quebecwallonie-bruxelles-de-litterature-de-jeunesse"^^xsd:string .
 
 ns1:Book12cf5f1b-68df-4e32-b738-cdf76f99d627 a ns1:Book ;
+    ns1:author "Andrzej Pilichowski-Ragno"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Publicd24bb150-4c64-408c-b755-75d9f78a5191 ;
     ns1:dateReceived "2002"^^xsd:gYear ;
     ns1:illustrator "Andrzej Pilichowski-Ragno"^^xsd:string,
@@ -2815,6 +2832,7 @@ ns1:Book12f70669-c39f-45da-822b-f86bdb0d9b7f a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-4 ans" ;
     ns1:dateReceived "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le roi de la patate" ;
     ns1:publisher ns1:Dominique_Et_Compagnie ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -2936,6 +2954,7 @@ ns1:Book140e1dc8-b555-436e-8fe9-4a94dafec244 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-4 ans Hors Québec" ;
     ns1:dateReceived "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Super beige" ;
     ns1:publisher ns1:Le_Vengeur_Masqué ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -2983,6 +3002,7 @@ ns1:Book1478a3ca-8652-4c17-96ec-d629338a0cd9 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string .
 
 ns1:Book14a8e7b1-ba39-46d0-ae09-24d06fe07294 a ns1:Book ;
+    ns1:author "Hanne Bartholin"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_orcadae7d8-7ce0-43ab-a613-c7d8f4120f6b ;
     ns1:countryOfOrigin "Danemark"^^xsd:string ;
     ns1:dateReceived "2017"^^xsd:gYear ;
@@ -3223,6 +3243,7 @@ ns1:Book1671c26a-6641-4a8f-9c63-11fe87a9d516 a ns1:Book ;
     ns1:award ns1:Concours_Communication_Jeunesse_Culinar87dd2108-924a-409c-b65d-83df7281f1a6 ;
     ns1:dateReceived "1981"^^xsd:gYear ;
     ns1:inLanguage "Français" ;
+    ns1:name "" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 ns1:Book1683fc3b-a506-4f68-b808-7467cb6e472f a ns1:Book ;
@@ -3255,6 +3276,7 @@ ns1:Book169fab41-2c34-4126-b498-c612ade6bed1 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "1998"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Soie" ;
     ns1:publisher ns1:Albin_Michel ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -3467,6 +3489,7 @@ ns1:Book188f1591-a60f-4bf2-8522-242d0f5f6951 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-5 ans Hors Québec" ;
     ns1:dateReceived "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le secret du rocher noir" ;
     ns1:publisher ns1:LÉcole_Des_Loisirs ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -3506,6 +3529,7 @@ ns1:Book1941d354-f2b0-4619-8b71-d4bcdf3a0665 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Ténèbre" ;
     ns1:publisher ns1:La_Peuplade ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -3562,6 +3586,7 @@ ns1:Book1a066880-dc2e-4c55-a6c1-dba288e4f9df a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Book1a33e55c-9086-4dd8-a80d-2c456b5a2b55 a ns1:Book ;
+    ns1:author "Israel Barron"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_ord0656715-14c3-4fdc-aa21-d6a1c50bdbbd ;
     ns1:countryOfOrigin "Mexique"^^xsd:string ;
     ns1:dateReceived "2017"^^xsd:gYear ;
@@ -3815,6 +3840,7 @@ ns1:Book1c401182-a891-4623-ac0e-ad81c40f2bd6 a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Book1c51d295-a716-4b8e-9aa5-5e34efc5019b a ns1:Book ;
+    ns1:author "Mamiko Shiotani"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_orfee780ef-497f-4f2f-84be-f0a075d90a92 ;
     ns1:countryOfOrigin "Japon"^^xsd:string ;
     ns1:dateReceived "2021"^^xsd:gYear ;
@@ -3846,6 +3872,7 @@ ns1:Book1c6dded5-1012-480f-822a-3927ff7025cc a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-5 ans Hors Québec" ;
     ns1:dateReceived "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Moi devant" ;
     ns1:publisher ns1:Flammarion_Père_Castor ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -3886,6 +3913,7 @@ ns1:Book1c98c89e-d8b1-44f3-b674-9e4b43e9e9e4 a ns1:Book ;
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-sesame"^^xsd:string .
 
 ns1:Book1c9d2954-0bca-4d6c-aa51-fa9245bc90a1 a ns1:Book ;
+    ns1:author "Evelyne Laube"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Grand_Prixfa447a95-aa11-4474-9ecf-c081f9540be7 ;
     ns1:countryOfOrigin "Suisse"^^xsd:string ;
     ns1:dateReceived "2013"^^xsd:gYear ;
@@ -4058,6 +4086,7 @@ ns1:Book1df334e9-b7ba-49fc-a768-53bb9eadf86b a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
 
 ns1:Book1df91493-8812-4b29-9aa1-06e2f4689661 a ns1:Book ;
+    ns1:author "Mirocomachiko"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or1dc32718-c533-448b-b08f-ab5dbba84f08 ;
     ns1:countryOfOrigin "Japon"^^xsd:string ;
     ns1:dateReceived "2015"^^xsd:gYear ;
@@ -5411,12 +5440,13 @@ ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0752 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chretien-de-troyes"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0753 a ns1:Book ;
+    ns1:author "Mandana Sadat" ;
     ns1:award ns1:Prix_Chrétien_De_Troyesbda2b316-02ff-4565-8c80-2f947b8306b0 ;
     ns1:dateReceived "1997"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
     ns1:inLanguage "Français" ;
     ns1:name "De l’autre côté de l’arbre"^^xsd:string ;
-    ns1:publisher ns1:Gründ ;
+    ns1:publisher ns1:Grandir ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-chretien-de-troyes"^^xsd:string .
 
 ns1:Book20794681-c12d-4a3f-8968-3e4ba8ba0754 a ns1:Book ;
@@ -7833,6 +7863,7 @@ ns1:Book2453ba3a-ed1d-4d9b-a2f0-52fb507a360f a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2010"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Vendetta" ;
     ns1:publisher ns1:Sonatine ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -7853,6 +7884,7 @@ ns1:Book24616de0-b38c-4798-8a31-f8520791f826 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2009"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le Ciel de Bay city" ;
     ns1:publisher ns1:Héliotrope ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -8428,6 +8460,7 @@ ns1:Book2a95963f-81f5-40e2-ab5b-cfc25880d423 a ns1:Book ;
     ns1:award ns1:Concours_Communication_Jeunesse_Culinar0b34ac5b-ca14-440e-b4c9-4629a0878a8c ;
     ns1:dateReceived "1987"^^xsd:gYear ;
     ns1:inLanguage "Français" ;
+    ns1:name "" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 ns1:Book2aa8318e-30a5-4d88-96b6-03715c1eeb10 a ns1:Book ;
@@ -8465,6 +8498,7 @@ ns1:Book2b03861a-b0de-4310-9b31-75a60a846b50 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2012"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Arvida" ;
     ns1:publisher ns1:Le_Quartanier ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -8611,6 +8645,7 @@ ns1:Book2c1c4dd6-0e77-44d4-8fb9-d9ea72c791c2 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
 
 ns1:Book2c25b298-cc80-43ca-9c41-0b3781d8d9c6 a ns1:Book ;
+    ns1:author "Soojung Myung"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_orde9c0abd-9574-479e-a3ce-dbb024454ae5 ;
     ns1:countryOfOrigin "Corée du Sud"^^xsd:string ;
     ns1:dateReceived "2019"^^xsd:gYear ;
@@ -8821,6 +8856,7 @@ ns1:Book2dd64b71-899a-4bf6-8185-8d53672b4998 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2017"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le Plongeur" ;
     ns1:publisher ns1:Le_Quartanier ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -8867,6 +8903,7 @@ ns1:Book2e15ec9c-a55b-43c7-980b-2a3e143f25b1 a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Book2e2b3542-9bbf-46d7-8907-1b808fa8cdab a ns1:Book ;
+    ns1:author "Rosalind Grey Stockhall"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Public_Enfants765ba0b8-da5c-441e-a409-c4b03f26d296 ;
     ns1:dateReceived "2000"^^xsd:gYear ;
     ns1:illustrator "Rosalind Grey Stockhall"^^xsd:string ;
@@ -8877,6 +8914,7 @@ ns1:Book2e2b3542-9bbf-46d7-8907-1b808fa8cdab a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/figures-futur"^^xsd:string .
 
 ns1:Book2e4e6e65-2516-4f95-b9a3-749f204ccab9 a ns1:Book ;
+    ns1:author "Stella Dreis"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_orc62d5d42-74fa-4c0a-9c8e-816da0e4729b ;
     ns1:dateReceived "2013"^^xsd:gYear ;
     ns1:illustrator "Stella Dreis"^^xsd:string ;
@@ -8889,6 +8927,7 @@ ns1:Book2e5131d9-c20d-4d14-8837-fa5b53fd0223 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2016"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La Femme qui fuit" ;
     ns1:publisher ns1:Marchand_De_Feuilles ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -8940,6 +8979,7 @@ ns1:Book2f8e1719-8e64-4e75-9f7b-79f5b704f401 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-du-roman-historique-jeunesse"^^xsd:string .
 
 ns1:Book2fb4acdb-3648-4dc8-b24c-4da94955b8a0 a ns1:Book ;
+    ns1:author "André Letria"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or54fa8dbe-7ba1-4eb4-a9bc-698b957d1cad ;
     ns1:countryOfOrigin "Portugal"^^xsd:string ;
     ns1:dateReceived "2019"^^xsd:gYear ;
@@ -8958,6 +8998,7 @@ ns1:Book2fd058a-7f5b-492a-84c3-747be9c8285a74 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-ptits-momes"^^xsd:string .
 
 ns1:Book2ff3f96c-cf8e-4c78-8a66-261e7a252192 a ns1:Book ;
+    ns1:author "In-Kyung Noh"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or45aa1388-dd3a-4deb-b7ce-6048d94d3b2b ;
     ns1:countryOfOrigin "Corée du sud"^^xsd:string ;
     ns1:dateReceived "2013"^^xsd:gYear ;
@@ -9277,6 +9318,7 @@ ns1:Book333cc35c-5227-4f1a-9c1c-3919a62ca886 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "1999"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "L'Empreinte de l'ange" ;
     ns1:publisher ns1:Leméac ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -9408,6 +9450,7 @@ ns1:Book34b50e13-72a5-4b04-9b53-dd6893823aa6 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_villedequebec.html"^^xsd:string .
 
 ns1:Book34c68704-98d8-4e77-9ee6-cc47de2f8d20 a ns1:Book ;
+    ns1:author "Alexandre Vadon"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Publicacd2592e-5583-405d-86d2-b5b2048a68d7 ;
     ns1:dateReceived "1996"^^xsd:gYear ;
     ns1:illustrator "Alexandre Vadon"^^xsd:string ;
@@ -9549,6 +9592,7 @@ ns1:Book35d850b0-92f7-4f50-9fec-54c3008b42d9 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2010"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "L'Énigme du retour" ;
     ns1:publisher ns1:Boréal ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -9599,6 +9643,7 @@ ns1:Book365972f1-4395-4725-9ff9-37463f3dd0fb a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Poésie" ;
     ns1:dateReceived "2016"^^xsd:gYear ;
     ns1:genre "Poésie" ;
+    ns1:inLanguage "Français" ;
     ns1:name "L'Année de ma disparition" ;
     ns1:publisher ns1:Les_Herbes_Rouges ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -9669,6 +9714,7 @@ ns1:Book37ca6c9e-e999-4794-88a8-019473b1776f a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "1997"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Annabelle" ;
     ns1:publisher ns1:Boréal ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -9962,6 +10008,7 @@ ns1:Book3a81e4d5-5036-48af-bea0-0d28c4a65c1c a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-5 ans Hors Québec" ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Julian est une sirène" ;
     ns1:publisher ns1:Pastel ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -10007,6 +10054,7 @@ ns1:Book3b015676-1125-4b78-ada0-daf239c19b2d a ns1:Book ;
     ns1:dateReceived "2020"^^xsd:gYear ;
     ns1:genre "BD",
         "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "13e avenue t.1" ;
     ns1:publisher ns1:La_Pastèque ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -10032,6 +10080,7 @@ ns1:Book3b17e5b2-877a-4197-95e4-6a293b6e299f a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-sgdl-du-roman-jeunesse"^^xsd:string .
 
 ns1:Book3b1c33b8-4c5d-44ea-9492-530f41fb5f03 a ns1:Book ;
+    ns1:author "Sergio Mora"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Public_Enfantsbe13db41-167d-4ac3-8cc2-10c9014b6860 ;
     ns1:dateReceived "2002"^^xsd:gYear ;
     ns1:illustrator "Sergio Mora"^^xsd:string ;
@@ -11829,6 +11878,7 @@ ns1:Book4147aac7-817f-426b-a087-3f529d8e3f45 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 5-11 ans" ;
     ns1:dateReceived "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Mingan, poèmes d'écoliers innus illustrés par Rogé" ;
     ns1:publisher ns1:La_Bagnole ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -11923,6 +11973,7 @@ ns1:Book41fbed4b-f42b-4271-b128-03ad0dd426b4 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-4 ans" ;
     ns1:dateReceived "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Ma soeur veut un zizi" ;
     ns1:publisher ns1:La_Bagnole ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -12127,6 +12178,7 @@ ns1:Book44f0457c-3230-479f-92c5-2f5c12327c9d a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2003"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Music-Hall !" ;
     ns1:publisher ns1:Boréal ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -12328,6 +12380,7 @@ ns1:Book46c2a7d8-5864-4425-8551-cc09af246951 a ns1:Book ;
     ns1:award ns1:Concours_Communication_Jeunesse_Culinar79ff3d73-38df-4c6c-b42f-ccbecea20ea7 ;
     ns1:dateReceived "1984"^^xsd:gYear ;
     ns1:inLanguage "Français" ;
+    ns1:name "" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 ns1:Book46e548eb-0764-4351-807b-f0d6395fa191 a ns1:Book ;
@@ -12509,6 +12562,7 @@ ns1:Book48a0b4a7-e4c7-4eba-8055-b755e6afb981 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : BD Adulte Hors Québec" ;
     ns1:dateReceived "2018"^^xsd:gYear ;
     ns1:genre "BD" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Une sœur" ;
     ns1:publisher ns1:Casterman ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -12977,6 +13031,7 @@ ns1:Book4c0567e9-1b6e-42cc-9aa8-a57b816e107e a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2000"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Stupeur et Tremblements" ;
     ns1:publisher ns1:Albin_Michel ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -13222,6 +13277,7 @@ ns1:Book4ddc8a6c-c4a0-4f65-b512-192e35b73cda a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 6-11 ans Hors Québec" ;
     ns1:dateReceived "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "M. Flux" ;
     ns1:publisher ns1:La_Pastèque ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -13537,12 +13593,14 @@ ns1:Book50a27eb9-1d88-4649-b1e7-e3e62c2ad2c9 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "1995"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Une année en Provence" ;
     ns1:publisher ns1:Seuil ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
         "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
 
 ns1:Book50b8f5c0-2bbd-4a4e-85d3-5d8b4f38f315 a ns1:Book ;
+    ns1:author "Virginie Jamin"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Des_Médiateurs384d1a6d-fb39-4ac2-a0fc-9042f85bb0cc ;
     ns1:dateReceived "2002"^^xsd:gYear ;
     ns1:illustrator "Virginie Jamin"^^xsd:string ;
@@ -13601,6 +13659,7 @@ ns1:Book515c166b-be0a-4931-b362-7b66899e534e a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2015"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Silo" ;
     ns1:publisher ns1:Actes_Sud ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -13712,6 +13771,7 @@ ns1:Book527b39b0-8e45-4c43-98db-4d20ae445b37 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
 ns1:Book528371c5-e3f8-4717-a224-4ac3d1712e26 a ns1:Book ;
+    ns1:author "Maya Kastelic"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_orcdd7844a-560e-4b58-a8f7-645fdd886423 ;
     ns1:countryOfOrigin "Slovénie"^^xsd:string ;
     ns1:dateReceived "2019"^^xsd:gYear ;
@@ -14128,6 +14188,7 @@ ns1:Book565e7aa7-425d-4ef4-88b9-5fa8271b6b3d a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
 ns1:Book56b7cd81-5874-46dc-830e-80d4daea2602 a ns1:Book ;
+    ns1:author "Ana Desnitskaya"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_orbe844e68-1e0c-46bb-ae51-1a63b5c55852 ;
     ns1:countryOfOrigin "Russie"^^xsd:string ;
     ns1:dateReceived "2017"^^xsd:gYear ;
@@ -14163,6 +14224,7 @@ ns1:Book56c7b083-3f9a-4b76-9fe1-0d4dbae3e702 a ns1:Book ;
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente"^^xsd:string .
 
 ns1:Book56f33361-41d1-46a1-b7ae-52c79934cb60 a ns1:Book ;
+    ns1:author "Anat Warshavski"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or350e0faa-ffd9-47d4-b557-6b324c5a1533 ;
     ns1:countryOfOrigin "Israël"^^xsd:string ;
     ns1:dateReceived "2019"^^xsd:gYear ;
@@ -14192,6 +14254,7 @@ ns1:Book570a0a26-53e9-4f12-8162-139392ca06e7 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-des-jeunes-lecteurs-de-la-peep"^^xsd:string .
 
 ns1:Book57104e61-96b6-4c7c-888b-58026bb05a9a a ns1:Book ;
+    ns1:author "Mohammad Barangi Fashtami"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_orb6abda50-4759-486e-807f-9ad5e82252f9 ;
     ns1:countryOfOrigin "Iran"^^xsd:string ;
     ns1:dateReceived "2021"^^xsd:gYear ;
@@ -14260,6 +14323,7 @@ ns1:Book57ed501c-25e4-41f7-8a5d-fde420be1dc3 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2020"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "L'empreinte" ;
     ns1:publisher ns1:Sonatine ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -14459,6 +14523,7 @@ ns1:Book5a00e6c5-083d-47cb-bf80-a984de0a97eb a ns1:Book ;
     ns1:award ns1:Concours_Communication_Jeunesse_Culinar827eaf54-2689-46cd-b1f8-93b984e8baf3 ;
     ns1:dateReceived "1982"^^xsd:gYear ;
     ns1:inLanguage "Français" ;
+    ns1:name "" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 ns1:Book5a0298d2-c358-4d2f-b16d-ffd8e2a553d9 a ns1:Book ;
@@ -14487,6 +14552,7 @@ ns1:Book5a12d5c1-ee91-43c7-8976-96030a93ebf3 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 12-17 ans Hors Québec" ;
     ns1:dateReceived "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Si je disparais" ;
     ns1:publisher ns1:Isatis ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -14618,6 +14684,7 @@ ns1:Book5b442af0-6b9c-4bec-be2c-763490af14b3 a ns1:Book ;
     ns1:award ns1:Concours_Communication_Jeunesse_Culinar7be337c3-7530-4d8a-8955-685f296b6f44 ;
     ns1:dateReceived "1986"^^xsd:gYear ;
     ns1:inLanguage "Français" ;
+    ns1:name "" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 ns1:Book5b4505a4-d39e-436b-aec3-0a97d4b669b9 a ns1:Book ;
@@ -14807,6 +14874,7 @@ ns1:Book5ce250f3-772d-4f59-90c9-d0267ad67e8f a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2007"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La Fabrication de l'aube" ;
     ns1:publisher ns1:Québec_Amérique ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -14817,6 +14885,7 @@ ns1:Book5d0d5ec3-54ab-4010-9dfe-db7030f8534f a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 12-17 ans Hors Québec" ;
     ns1:dateReceived "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Nous sommes tous faits de molécules" ;
     ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -14854,6 +14923,7 @@ ns1:Book5d2fc31f-3de8-4176-b97a-f22c7e02da6f a ns1:Book ;
     ns1:award "Prix des libraires du Québec : BD Adulte" ;
     ns1:dateReceived "2019"^^xsd:gYear ;
     ns1:genre "BD" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La petite Russie" ;
     ns1:publisher ns1:Pow_Pow ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -15861,6 +15931,7 @@ ns1:Book5efaef8e-063f-4180-925d-4f7acd704e12 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_espiegle.html"^^xsd:string .
 
 ns1:Book5f0c6402-7d9a-4a0b-bfc3-6a460e9ec1f6 a ns1:Book ;
+    ns1:author "Mirko Rathke"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Juryb09b9dd9-d4cd-4d8d-a872-7a9eece7309e ;
     ns1:dateReceived "2000"^^xsd:gYear ;
     ns1:illustrator "Mirko Rathke"^^xsd:string ;
@@ -15980,6 +16051,7 @@ ns1:Book5fd5d044-f97f-4f49-9e36-7fb1f9a0919c a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string .
 
 ns1:Book5fe3d713-6c5b-4004-9076-1b4b4d4a3eb0 a ns1:Book ;
+    ns1:author "Béatrice Alemagna"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Jury2ac17ffb-09c6-44fe-aa1f-9cb77ee326e3 ;
     ns1:dateReceived "1996"^^xsd:gYear ;
     ns1:illustrator "Béatrice Alemagna"^^xsd:string ;
@@ -16048,6 +16120,7 @@ ns1:Book60b242bc-ae1e-4202-9ed7-ae21d1a1e6d3 a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Book60dbb679-d77b-44d8-97c7-6fca6bea85c8 a ns1:Book ;
+    ns1:author "Kitty Crowther"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Jury609270f7-ab98-411f-a3e1-3332a66deaf1 ;
     ns1:dateReceived "1992"^^xsd:gYear ;
     ns1:illustrator "Kitty Crowther"^^xsd:string ;
@@ -16357,6 +16430,7 @@ ns1:Book627fc37e-4e2f-46cc-ad89-13f201378c7d a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2001"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Un dimanche à la piscine à Kigali" ;
     ns1:publisher ns1:Boréal ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -16627,6 +16701,7 @@ ns1:Book64e9c4e-1b7e-4cc4-9f5e-5a6f9e855c9a a ns1:Book ;
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-sesame"^^xsd:string .
 
 ns1:Book6506218a-21eb-4a5a-b66f-87ad0f739547 a ns1:Book ;
+    ns1:author "Nobuhiko Haijima"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or8e65d805-2fcf-453d-b726-e8957eadde76 ;
     ns1:countryOfOrigin "Japon"^^xsd:string ;
     ns1:dateReceived "2013"^^xsd:gYear ;
@@ -16640,6 +16715,7 @@ ns1:Book6525a8b2-0684-453e-af00-14347a9a2532 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2019"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le lambeau" ;
     ns1:publisher ns1:Gallimard ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -16717,6 +16793,7 @@ ns1:Book65fe57d0-5d69-42ed-a2bd-754e44b96430 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_illojeunesse.html"^^xsd:string .
 
 ns1:Book6616d11b-aac1-4e0f-a6ba-52eb6085b561 a ns1:Book ;
+    ns1:author "Myung Ae Lee"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or10942188-82d4-49fa-95e8-8e268e3e0db2 ;
     ns1:countryOfOrigin "Corée du Sud"^^xsd:string ;
     ns1:dateReceived "2021"^^xsd:gYear ;
@@ -16875,6 +16952,7 @@ ns1:Book678c3b96-29a9-445a-83e0-ee0d7a15e3d2 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2019"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Ouvrir son coeur" ;
     ns1:publisher ns1:Le_Quartanier ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -16968,6 +17046,7 @@ ns1:Book6864397b-5014-4c81-a5b7-a079d18c384b a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
 ns1:Book6884e7f9-fc3e-4a62-b0a0-79f2571a82e0 a ns1:Book ;
+    ns1:author "Daniela Olejníková"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or479dc8bd-415f-4567-959e-3a12d8afb6c3 ;
     ns1:countryOfOrigin "Slovaquie"^^xsd:string ;
     ns1:dateReceived "2013"^^xsd:gYear ;
@@ -17313,6 +17392,7 @@ ns1:Book6c96b9ce-fba5-47ac-997a-8f2914f1d784 a ns1:Book ;
     ns1:dateReceived "2022"^^xsd:gYear ;
     ns1:genre "BD",
         "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Truffe" ;
     ns1:publisher ns1:La_Pastèque ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -17465,6 +17545,7 @@ ns1:Book6de0fa98-f5b4-42c6-ad68-dbf8bdb3bca4 a ns1:Book ;
     ns1:award ns1:Concours_Communication_Jeunesse_Culinared90e0d5-6520-4a1b-af5e-3b69cf50ee35 ;
     ns1:dateReceived "1988"^^xsd:gYear ;
     ns1:inLanguage "Français" ;
+    ns1:name "" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 ns1:Book6de58be1-fe5b-4907-96e7-6ffc738e2eaf a ns1:Book ;
@@ -17536,6 +17617,7 @@ ns1:Book6e32b04f-cabb-4b8a-83db-4146b8c11b24 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-enfantaisie"^^xsd:string .
 
 ns1:Book6e47fde6-f5cd-467d-88c7-39eb6b776b36 a ns1:Book ;
+    ns1:author "Narges Mohamadi"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_orab29c465-c367-4481-9c8c-a2d4c179f0c1 ;
     ns1:countryOfOrigin "Iran"^^xsd:string ;
     ns1:dateReceived "2017"^^xsd:gYear ;
@@ -17582,6 +17664,7 @@ ns1:Book6e874b13-5de3-4344-a98a-34d556d1b5f4 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 6-11 ans Hors Québec" ;
     ns1:dateReceived "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le garçon qui nageait avec les piranhas" ;
     ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -17676,6 +17759,7 @@ ns1:Book6f748417-218d-4ef7-810e-0e0a65fc88c7 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-libbylit"^^xsd:string .
 
 ns1:Book6f8309dd-3b38-4a3a-9ba8-3fd37e37f6aa a ns1:Book ;
+    ns1:author "Laura Carlin"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Grand_Prix29653f8b-af75-46de-844b-55dbcb49565b ;
     ns1:countryOfOrigin "Royaume-Uni"^^xsd:string ;
     ns1:dateReceived "2015"^^xsd:gYear ;
@@ -17717,6 +17801,7 @@ ns1:Book6fc6946c-55a2-40fe-83cd-34b626ba0ce3 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : BD Adulte" ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "BD" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La Bombe" ;
     ns1:publisher ns1:Glénat ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -17838,6 +17923,7 @@ ns1:Book70b4605f-e77d-4b27-92cc-a9810dd7f89b a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Book70e5b127-98ab-4e16-a76f-7e3e99c2e235 a ns1:Book ;
+    ns1:author "Renate Habinger"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or26b96cb5-1136-4fca-b8a9-5afcd12a769b ;
     ns1:countryOfOrigin "Autriche"^^xsd:string ;
     ns1:dateReceived "2013"^^xsd:gYear ;
@@ -17919,6 +18005,7 @@ ns1:Book7155424c-c43a-4b55-9fa5-472d3b0b7f3e a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-franco-allemand-pour-la-litterature-de-jeunesse"^^xsd:string .
 
 ns1:Book716f3f0d-7d5e-42b0-8d44-9f5f0b1bf9a2 a ns1:Book ;
+    ns1:author "Delphine Durand"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Public_Enfants1ffa2395-c8aa-40f7-b0e7-e5182e740a19 ;
     ns1:dateReceived "1994"^^xsd:gYear ;
     ns1:illustrator "Delphine Durand"^^xsd:string ;
@@ -17974,6 +18061,7 @@ ns1:Book71a2ab10-e2ab-478a-8007-9bf1668d98da a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-5 ans Hors Québec" ;
     ns1:dateReceived "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Superlumineuse" ;
     ns1:publisher ns1:Alice_Jeunesse ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -18022,6 +18110,7 @@ ns1:Book71fd7e68-94f2-4dc1-bb6a-28b24e4c7ea1 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-des-jeunes-lecteurs-de-la-peep"^^xsd:string .
 
 ns1:Book7208486c-8ec5-42ed-98a6-9384a68b2482 a ns1:Book ;
+    ns1:author "Armando Fonseca"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or1503540a-415d-42d5-8e1e-9ce9217d28cb ;
     ns1:countryOfOrigin "Mexique"^^xsd:string ;
     ns1:dateReceived "2021"^^xsd:gYear ;
@@ -18055,6 +18144,7 @@ ns1:Book723b3a3e-39cd-470a-8f80-e37ff676945f a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Poésie" ;
     ns1:dateReceived "2019"^^xsd:gYear ;
     ns1:genre "Poésie" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Uiesh / Quelque part" ;
     ns1:publisher ns1:Mémoire_DEncrier ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -18312,6 +18402,7 @@ ns1:Book75f57050-9d3f-445a-bdad-13c089986970 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2006"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Nikolski" ;
     ns1:publisher ns1:Alto ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -18346,6 +18437,7 @@ ns1:Book76fd5a77-14b8-4bd6-9127-b24b8b3c52cc a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Essai" ;
     ns1:dateReceived "2019"^^xsd:gYear ;
     ns1:genre "Essai" ;
+    ns1:inLanguage "Français" ;
     ns1:name "NoirEs sous surveillance" ;
     ns1:publisher ns1:Mémoire_DEncrier ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -18643,6 +18735,7 @@ ns1:Book7a983e6c-df4a-403b-8b40-06965979418e a ns1:Book ;
     ns1:award "Prix des libraires du Québec : BD Adulte Hors Québec" ;
     ns1:dateReceived "2020"^^xsd:gYear ;
     ns1:genre "BD" ;
+    ns1:inLanguage "Français" ;
     ns1:name "In waves" ;
     ns1:publisher ns1:Casterman ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -18856,6 +18949,7 @@ ns1:Book7cdf01d6-30d1-41ca-a8ff-8b4f00f99d37 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-5 ans Hors Québec" ;
     ns1:dateReceived "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Petit Elliot dans la grande ville" ;
     ns1:publisher ns1:Casterman ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -18883,6 +18977,7 @@ ns1:Book7d063d55-6079-478b-a95a-4d3dcd14a8a1 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/gayant-lecture"^^xsd:string .
 
 ns1:Book7d0c71b5-1b36-4c48-8e3d-2469416fe5ac a ns1:Book ;
+    ns1:author "Anton Lomaev"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_orb50bccfd-c52e-47f9-a2be-91ca3eb759d6 ;
     ns1:countryOfOrigin "Russie"^^xsd:string ;
     ns1:dateReceived "2019"^^xsd:gYear ;
@@ -19005,6 +19100,7 @@ ns1:Book7d9632e4-38e2-4998-96db-9f808efd142a a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Book7db7346b-c9ac-4247-9025-ff3e3a0b0562 a ns1:Book ;
+    ns1:author "Susanne Thurn"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Public_Enfants76386758-c4ba-44d7-a753-6cf6bf689822 ;
     ns1:dateReceived "1996"^^xsd:gYear ;
     ns1:illustrator "Susanne Thurn"^^xsd:string ;
@@ -19125,6 +19221,7 @@ ns1:Book7e70f9fb-beee-4f39-8606-c5e38c6dd281 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2008"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Parfum de poussière" ;
     ns1:publisher ns1:Alto ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -19242,6 +19339,7 @@ ns1:Book7f55d908-ebc4-4c08-992c-effc319d5800 a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
 
 ns1:Book7f7d86f3-9721-46ba-943d-d64f151d8c94 a ns1:Book ;
+    ns1:author "Maurizio Quarello"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Des_Médiateursdc6c2ff4-485d-477d-b677-38afbb6bfede ;
     ns1:dateReceived "2004"^^xsd:gYear ;
     ns1:illustrator "Maurizio Quarello"^^xsd:string ;
@@ -19391,6 +19489,7 @@ ns1:Book80be5ec9-c68a-4beb-adee-d649d584ebde a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
 
 ns1:Book80c7c4d3-79e8-4a9d-a1ee-2acae1c0fca8 a ns1:Book ;
+    ns1:author "Mirocomachiko"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or4d27ce63-0237-4caa-9b71-40c5c9c144c2 ;
     ns1:countryOfOrigin "Japon"^^xsd:string ;
     ns1:dateReceived "2017"^^xsd:gYear ;
@@ -19519,6 +19618,7 @@ ns1:Book820ffecb-3606-417e-b2b6-75ce370182a8 a ns1:Book ;
         "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Book827b3b1c-7009-4e80-85a1-365f91e64c87 a ns1:Book ;
+    ns1:author "Ji-Min Kim"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or713816ff-34f3-4172-9b08-5f8c526d89bb ;
     ns1:countryOfOrigin "Corée du Sud"^^xsd:string ;
     ns1:dateReceived "2017"^^xsd:gYear ;
@@ -19597,6 +19697,7 @@ ns1:Book834cdac3-d870-406b-bb0e-68d417cf199d a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2011"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Rosa candida" ;
     ns1:publisher ns1:Zulma ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -19664,6 +19765,7 @@ ns1:Book83ac54da-fffa-4577-a688-22836b64635a a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2003"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Mystic River" ;
     ns1:publisher ns1:Rivages ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -19718,6 +19820,7 @@ ns1:Book83d099a4-6f85-4ce5-a501-b166d4488477 a ns1:Book ;
     ns1:award ns1:Prix_12_17_Brive_Montréal4f01b63d-91f1-4275-9205-02483e4e7050 ;
     ns1:dateReceived "1991"^^xsd:gYear ;
     ns1:inLanguage "Français" ;
+    ns1:name "" ;
     ns1:url "https://www.lurelu.net/prixlitt_brivemontreal.html"^^xsd:string .
 
 ns1:Book83ec934b-d3f7-49f9-b29b-fa3d69fe6a14 a ns1:Book ;
@@ -19776,6 +19879,7 @@ ns1:Book84a0f46f-344d-418a-a207-6b153d154bdf a ns1:Book ;
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-libbylit"^^xsd:string .
 
 ns1:Book84e93c62-ff63-40f4-9f2c-82b27f9a93a0 a ns1:Book ;
+    ns1:author "Iraia Okina"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or30b8a26f-b822-4184-9f07-fc61f6bac598 ;
     ns1:countryOfOrigin "Espagne"^^xsd:string ;
     ns1:dateReceived "2013"^^xsd:gYear ;
@@ -20140,6 +20244,7 @@ ns1:Book8a01452d-d7cc-4634-9a52-01b1891046b6 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 6-11 ans Hors Québec" ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Mary, auteure de Frankenstein" ;
     ns1:publisher ns1:La_Pastèque ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -20493,6 +20598,7 @@ ns1:Book8e2ae508-8adf-4d29-8409-d4ce7686010e a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2005"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Comment devenir un monstre" ;
     ns1:publisher ns1:Leméac ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -20519,6 +20625,7 @@ ns1:Book8e4eee32-fe67-44f4-9965-0f5adc221c07 a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
 
 ns1:Book8e5c6129-0ee8-4b07-a3ec-4eddd3c6b60e a ns1:Book ;
+    ns1:author "Janis Blanks"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or6e5c112e-214e-48a1-a8bd-27cd56747ef0 ;
     ns1:countryOfOrigin "Lettonie"^^xsd:string ;
     ns1:dateReceived "2019"^^xsd:gYear ;
@@ -20538,6 +20645,7 @@ ns1:Book8e7e4b7-09b2-4f27-985e-2a14797f9b1b77 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-pitchou"^^xsd:string .
 
 ns1:Book8e9d51eb-3a84-40f0-bb6d-547dda75fe3c a ns1:Book ;
+    ns1:author "Daniela Olejnikova"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_orbda962f0-d564-4dc7-8800-9db29dc59955 ;
     ns1:countryOfOrigin "Slovaquie"^^xsd:string ;
     ns1:dateReceived "2017"^^xsd:gYear ;
@@ -20648,6 +20756,7 @@ ns1:Book8fab9cba-55cd-4667-ac3e-0061938b1dff a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "1998"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "C'est pas moi, je le jure" ;
     ns1:publisher ns1:Boréal ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -20932,6 +21041,7 @@ ns1:Book9305713a-99ee-48ac-aab4-162691ec005a a ns1:Book ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "BD",
         "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Sacrées sorcières" ;
     ns1:publisher ns1:Gallimard,
         ns1:Gallimard_Jeunesse ;
@@ -20952,6 +21062,7 @@ ns1:Book9357d051-297c-4db4-bc09-f5cd6b92d330 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2014"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "L'Orangeraie" ;
     ns1:publisher ns1:Alto ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -21063,6 +21174,7 @@ ns1:Book94a65248-761f-4759-ae52-0ff5118a33b8 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Essai" ;
     ns1:dateReceived "2020"^^xsd:gYear ;
     ns1:genre "Essai" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Les brutes et la punaise" ;
     ns1:publisher ns1:Lux ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -21208,6 +21320,7 @@ ns1:Book965e34b6-72e3-4f7d-92c7-35bc86f98caf a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 6-11 ans" ;
     ns1:dateReceived "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Tommy l'enfant-loup : les aventures de Bill Bilodeau, l'ami des animaux" ;
     ns1:publisher ns1:Le_Quartanier ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -21408,6 +21521,7 @@ ns1:Book97d52e9-6e29-4d4e-b0ed-eb9783c402431 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-pitchou"^^xsd:string .
 
 ns1:Book981a6f59-0803-4008-b7a9-facce2aafbc4 a ns1:Book ;
+    ns1:author "Nathalie Basset"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Public_Enfants8730d2d8-d632-4282-8cf3-3f8ede9a222d ;
     ns1:dateReceived "1998"^^xsd:gYear ;
     ns1:illustrator "Nathalie Basset"^^xsd:string ;
@@ -21539,6 +21653,7 @@ ns1:Book999aa47e-f2d7-4c06-ab22-ca37975b4c15 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2012"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Rien ne s'oppose à la nuit" ;
     ns1:publisher ns1:JC_Lattès ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -21577,6 +21692,7 @@ ns1:Book9a007984-83cb-4490-8641-7beafc4f6c2a a ns1:Book ;
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-harry-black-de-lalbum-jeunesse"^^xsd:string .
 
 ns1:Book9a0f38c9-dfdf-4c72-8432-38b9928e3991 a ns1:Book ;
+    ns1:author "Ghazal Fatollahi"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or67f7ed91-5c87-4c44-97a2-739d36e60583 ;
     ns1:countryOfOrigin "Iran"^^xsd:string ;
     ns1:dateReceived "2021"^^xsd:gYear ;
@@ -21648,6 +21764,7 @@ ns1:Book9aa35473-282d-4398-969a-d87010920124 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_espiegle.html"^^xsd:string .
 
 ns1:Book9aa36bd6-c368-4a46-a318-57c5f53b35ab a ns1:Book ;
+    ns1:author "Ronald Curchod"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or53e33039-7732-41a9-9f5c-4d4b7f6dcef2 ;
     ns1:countryOfOrigin "Suisse"^^xsd:string ;
     ns1:dateReceived "2015"^^xsd:gYear ;
@@ -21681,6 +21798,7 @@ ns1:Book9b00f452-4b4a-46d9-85ba-b65c227eae75 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 12-17 ans Hors Québec" ;
     ns1:dateReceived "2019"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Imbécile heureux" ;
     ns1:publisher ns1:Sarbacane ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -21778,6 +21896,7 @@ ns1:Book9b852a87-76c3-4060-8f07-0802e6c1c6c3 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-5 ans" ;
     ns1:dateReceived "2017"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Quand le père Noël était petit…" ;
     ns1:publisher ns1:Scholastic ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -21848,6 +21967,7 @@ ns1:Book9bdb2189-83ae-4278-a69a-7aad1b9466be a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_christie.html"^^xsd:string .
 
 ns1:Book9bfaa956-3d7e-4a6d-9a4b-44c6da68ea45 a ns1:Book ;
+    ns1:author "Renate Habinger"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_orce5b106a-c626-4235-9324-a0ef5d123f05 ;
     ns1:countryOfOrigin "Autriche"^^xsd:string ;
     ns1:dateReceived "2013"^^xsd:gYear ;
@@ -22205,6 +22325,7 @@ ns1:Book9e1653b2-fe89-402a-ae19-69a74e72d396 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-5 ans Hors Québec" ;
     ns1:dateReceived "2014"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le cadeau" ;
     ns1:publisher ns1:Alice_Jeunesse ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -22275,6 +22396,7 @@ ns1:Book9e4b1730-1342-49ec-8d73-0351e68a1f5b a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
 
 ns1:Book9e6b0e32-54a9-42b1-bc61-1b7a406654a1 a ns1:Book ;
+    ns1:author "Ángela Cabrera Molina"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_orb4cfb777-5bf7-41b5-9393-43d6945c7cad ;
     ns1:countryOfOrigin "Espagne"^^xsd:string ;
     ns1:dateReceived "2013"^^xsd:gYear ;
@@ -22429,6 +22551,7 @@ ns1:Booka01db9d6-68da-45d1-b870-5c08b3f12f1c a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2000"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Les gens fidèles ne font pas les nouvelles" ;
     ns1:publisher ns1:Boréal ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -22465,6 +22588,7 @@ ns1:Booka0d33f14-61c3-453b-a6e5-14569091ad2c a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
 
 ns1:Booka117d3d6-bb94-4b22-a2be-0e59f77ebeea a ns1:Book ;
+    ns1:author "Rong Yu"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or01327e48-8248-4d51-b425-afffd0f46d7e ;
     ns1:countryOfOrigin "Chine"^^xsd:string ;
     ns1:dateReceived "2013"^^xsd:gYear ;
@@ -23344,6 +23468,7 @@ ns1:Booka90e0ab1-f044-42aa-8662-14695c0d3366 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-5 ans Hors Québec" ;
     ns1:dateReceived "2023"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le petit robot de bois et la princesse bûche" ;
     ns1:publisher ns1:LÉcole_Des_Loisirs ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -23375,6 +23500,7 @@ ns1:Booka97ca6c6-114d-4c05-b4b2-265735290a9c a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2006"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Les Cerfs-volants de Kaboul" ;
     ns1:publisher ns1:Belfond ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -23458,6 +23584,7 @@ ns1:Booka9e38142-4fc5-4f2c-b13c-529b2e10e84d a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bulles-de-cristal"^^xsd:string .
 
 ns1:Booka9f389b3-260d-44b6-97ca-81363bf599c5 a ns1:Book ;
+    ns1:author "Sarah Guilloux"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Public_Enfantsd92aa306-1ed5-4b2e-aa5b-af6b38b4c7df ;
     ns1:dateReceived "2004"^^xsd:gYear ;
     ns1:illustrator "Sarah Guilloux"^^xsd:string ;
@@ -23491,6 +23618,7 @@ ns1:Booka9f4f023-55d7-48c3-9dac-bc33dc68e569 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2009"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La Route" ;
     ns1:publisher ns1:LOlivier ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -23686,6 +23814,7 @@ ns1:Bookab1b9a41-5987-485b-a0a6-747135ee4a70 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-libbylit"^^xsd:string .
 
 ns1:Bookab46b88f-67f4-43c2-a493-34c9d49443c8 a ns1:Book ;
+    ns1:author "Daniela Olejníková"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or75278508-4c15-43a3-8612-24d3a1d9b1b8 ;
     ns1:countryOfOrigin "Slovaquie"^^xsd:string ;
     ns1:dateReceived "2013"^^xsd:gYear ;
@@ -23936,6 +24065,7 @@ ns1:Bookae5c99fa-f810-4192-9658-953add452958 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
 ns1:Bookae832591-f2d7-44c6-9d8b-e694aa3806c2 a ns1:Book ;
+    ns1:author "Elena Odriozola"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or953d49bd-bb06-49e1-a50c-fcb283c37d61 ;
     ns1:countryOfOrigin "Espagne"^^xsd:string ;
     ns1:dateReceived "2015"^^xsd:gYear ;
@@ -24239,6 +24369,7 @@ ns1:Bookb109d346-7081-431d-a615-66802e3f7d80 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "1996"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le Monde de Sophie" ;
     ns1:publisher ns1:Seuil ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -24412,6 +24543,7 @@ ns1:Bookb25e63f1-0b63-44f1-9821-dc6f1deb4d43 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Poésie" ;
     ns1:dateReceived "2015"^^xsd:gYear ;
     ns1:genre "Poésie" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Poissons volants" ;
     ns1:publisher ns1:Le_Quartanier ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -24456,6 +24588,7 @@ ns1:Bookb281996c-f756-48b2-9c23-5d7bf6bedcc9 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2020"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La trajectoire des confettis" ;
     ns1:publisher ns1:Les_Herbes_Rouges ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -24706,6 +24839,7 @@ ns1:Bookb3da9b85-88a5-4ac6-9cb5-6ed2af728f4e a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 6-11 ans Hors Québec" ;
     ns1:dateReceived "2018"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Pax et le petit soldat" ;
     ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -24823,6 +24957,7 @@ ns1:Bookb4ef307-5b6a-4e34-a70b-0f4ab7742a1d a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-val-cerou"^^xsd:string .
 
 ns1:Bookb4f9e16c-0b75-4e6e-b5e9-724f237ff545 a ns1:Book ;
+    ns1:author "Bingchun Huang"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or944bd2ef-20fe-4923-81ea-cee4fb1b90c4 ;
     ns1:countryOfOrigin "Chine"^^xsd:string ;
     ns1:dateReceived "2015"^^xsd:gYear ;
@@ -24856,6 +24991,7 @@ ns1:Bookb56cf51e-5e40-4304-85bc-f181e05f0df5 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2005"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "L'Ombre du vent" ;
     ns1:publisher ns1:Grasset ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -24993,6 +25129,7 @@ ns1:Bookb6ea3a00-976a-4c7a-baa3-e2f843641b8f a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2017"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Station Eleven" ;
     ns1:publisher ns1:Alto ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -25023,6 +25160,7 @@ ns1:Bookb74da22b-b8bc-46df-933d-7c06ab4568ee a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "1996"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "L'Ingratitude" ;
     ns1:publisher ns1:Actes_Sud ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -25076,6 +25214,7 @@ ns1:Bookb7bc862-924e-4f12-83a3-67c7be46f249 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-poesie-des-lecteurs-lire-et-faire-lire"^^xsd:string .
 
 ns1:Bookb7da0420-aa3d-45c5-8854-3130a9f5dc3d a ns1:Book ;
+    ns1:author "Xenia Lassak"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Jury816f90ad-05fd-4cad-ac89-1324c565e22c ;
     ns1:dateReceived "2002"^^xsd:gYear ;
     ns1:illustrator "Xenia Lassak"^^xsd:string ;
@@ -25115,6 +25254,7 @@ ns1:Bookb83b54ec-8883-4059-aeef-d4d56183600d a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 5-11 ans Hors Québec" ;
     ns1:dateReceived "2013"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Sans le A : l'anti-abécédaire" ;
     ns1:publisher ns1:Kaléidoscope ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -25131,6 +25271,7 @@ ns1:Bookb86bc71f-c238-44df-b381-5e27f28f4257 a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Bookb86f44ea-7885-4a99-9fa9-c6d914174cb7 a ns1:Book ;
+    ns1:author "Elena Odriozola"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Grand_Prixeb273880-feda-4802-968f-058cb0f8c9c1 ;
     ns1:countryOfOrigin "Espagne"^^xsd:string ;
     ns1:dateReceived "2021"^^xsd:gYear ;
@@ -25218,6 +25359,7 @@ ns1:Bookb9bcd21c-c970-4d86-8e5b-383289ab82f2 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 5-11 ans Hors Québec" ;
     ns1:dateReceived "2011"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Charles à l'école des dragons" ;
     ns1:publisher ns1:Seuil_Jeunesse ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -25369,6 +25511,7 @@ ns1:Bookbaec8824-8af2-4f9a-99d5-64feafabaff9 a ns1:Book ;
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-unicef-de-litterature-jeunesse"^^xsd:string .
 
 ns1:Bookbaf40e68-2b53-4b92-bd12-26d96dcbead1 a ns1:Book ;
+    ns1:author "Aljocha Blau"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Jurya2037e65-f72b-429f-af51-3c389883d0f4 ;
     ns1:dateReceived "1998"^^xsd:gYear ;
     ns1:illustrator "Aljocha Blau"^^xsd:string ;
@@ -25512,6 +25655,7 @@ ns1:Bookbc806cef-98d6-4f41-bef2-748484c1246e a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2018"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La Bête creuse" ;
     ns1:publisher ns1:Le_Quartanier ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -25624,6 +25768,7 @@ ns1:Bookbddb7a6a5-2cfc-42d7-b9fc-5e9a5f84ce51 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/goncourt-des-lyceens"^^xsd:string .
 
 ns1:Bookbe22e385-1031-49fb-b5fd-598eb63ab708 a ns1:Book ;
+    ns1:author "Andryi Lesiv"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or70c27285-c950-448c-98ce-2475fc0ecb2b ;
     ns1:countryOfOrigin "Ukraine"^^xsd:string ;
     ns1:dateReceived "2017"^^xsd:gYear ;
@@ -25634,6 +25779,7 @@ ns1:Bookbe22e385-1031-49fb-b5fd-598eb63ab708 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/biennale-de-lillustration-de-bratislava"^^xsd:string .
 
 ns1:Bookbe288adf-a361-4d85-8f2d-07bafae4e15a a ns1:Book ;
+    ns1:author "Chao Zhang"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or6034d51e-8085-4c6d-baaf-d671eaba66cb ;
     ns1:countryOfOrigin "Chine"^^xsd:string ;
     ns1:dateReceived "2021"^^xsd:gYear ;
@@ -25708,6 +25854,7 @@ ns1:Bookbe9e2255-bdc5-48a5-bf87-09f6483f9d5b a ns1:Book ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "BD",
         "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Pauline, une petite place pour moi" ;
     ns1:publisher ns1:Comme_Des_Géants ;
     ns1:url "https://prixdeslibraires.qc.ca/"^^xsd:anyURI .
@@ -25768,6 +25915,7 @@ ns1:Bookbf663984-5e92-470e-8a11-1d1a73721d01 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Betty" ;
     ns1:publisher ns1:Gallmeister ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -25873,6 +26021,7 @@ ns1:Bookc05e94dd-7ed9-4830-87d5-a58a188fbad1 a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
 
 ns1:Bookc0798f7d-6e1b-4a46-a5da-b8c7a1e83c57 a ns1:Book ;
+    ns1:author "Anna Kendel"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_ore1a02190-de83-4df6-b12a-7536e92fca20 ;
     ns1:countryOfOrigin "Russie"^^xsd:string ;
     ns1:dateReceived "2021"^^xsd:gYear ;
@@ -26199,6 +26348,7 @@ ns1:Bookc3a72983-5c7b-4c9b-98b1-94a23c17d6f5 a ns1:Book ;
     ns1:publisher ns1:Annick .
 
 ns1:Bookc3d15a4e-4b13-4c17-8d5f-f8d4f59ff9a4 a ns1:Book ;
+    ns1:author "Chiki Kikuchi"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_ordf4d7b39-2ba1-4821-b6b8-73bc7a66b1a9 ;
     ns1:countryOfOrigin "Japon"^^xsd:string ;
     ns1:dateReceived "2013"^^xsd:gYear ;
@@ -26208,6 +26358,7 @@ ns1:Bookc3d15a4e-4b13-4c17-8d5f-f8d4f59ff9a4 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/biennale-de-lillustration-de-bratislava"^^xsd:string .
 
 ns1:Bookc3e3bd64-607d-43a7-9f8f-33a83b9d5821 a ns1:Book ;
+    ns1:author "Maud Riemann"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Juryc52fdeed-926c-483b-8376-a330e1553e7b ;
     ns1:dateReceived "2004"^^xsd:gYear ;
     ns1:illustrator "Maud Riemann"^^xsd:string ;
@@ -26237,6 +26388,7 @@ ns1:Bookc4580ae7-6066-49ed-9918-4d6a186795af a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "1994"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Homme invisible à la fenêtre" ;
     ns1:publisher ns1:Boréal ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -30041,6 +30193,7 @@ ns1:Bookc5c4385a-b8bf-4749-b490-d899467e58bf a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Poésie" ;
     ns1:dateReceived "2017"^^xsd:gYear ;
     ns1:genre "Poésie" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Mèche" ;
     ns1:publisher ns1:Oie_De_Cravan ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -30161,6 +30314,7 @@ ns1:Bookc69dadd8-4db7-4666-b17c-d08b039e1ef9 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-4 ans" ;
     ns1:dateReceived "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Fourchon" ;
     ns1:publisher ns1:La_Pastèque ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -30192,6 +30346,7 @@ ns1:Bookc6ba6069-7724-4da4-9f70-c74ca67bc803 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : BD Adulte Hors Québec" ;
     ns1:dateReceived "2019"^^xsd:gYear ;
     ns1:genre "BD" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Moi, ce que j’aime, c’est les monstres" ;
     ns1:publisher ns1:Alto ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -30258,6 +30413,7 @@ ns1:Bookc7905d20-7857-4385-ad47-84708b63cd24 a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Bookc7956bb7-2b8b-43ee-92b4-909d0942dd13 a ns1:Book ;
+    ns1:author "Chengliang Zhu"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or03b52408-5dad-4173-a882-13446cb84292 ;
     ns1:countryOfOrigin "Chine"^^xsd:string ;
     ns1:dateReceived "2019"^^xsd:gYear ;
@@ -30347,6 +30503,7 @@ ns1:Bookc83e17f7-ae62-4be9-abbf-3d588986e25c a ns1:Book ;
     ns1:award "Prix des libraires du Québec : BD Adulte" ;
     ns1:dateReceived "2018"^^xsd:gYear ;
     ns1:genre "BD" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Betty Boob" ;
     ns1:publisher ns1:Casterman ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -30407,6 +30564,7 @@ ns1:Bookc91fd4bc-f8c5-458a-9c4b-fc8182bff998 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2013"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La Fiancée américaine" ;
     ns1:publisher ns1:Marchand_De_Feuilles ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -30423,6 +30581,7 @@ ns1:Bookc92a6911-83c2-4a0a-9e8b-685f69e36649 a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Bookc9a8f7f6-8f11-4f5b-9421-91da7e4c1f14 a ns1:Book ;
+    ns1:author "Hélène Bellanger"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Public32eba158-bdaa-47f6-95c8-86b88c4889b0 ;
     ns1:dateReceived "2004"^^xsd:gYear ;
     ns1:illustrator "Hélène Bellanger"^^xsd:string ;
@@ -30637,6 +30796,7 @@ ns1:Bookcb6df43c-53a4-4d2b-821d-4f591ef81c91 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "1999"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La Cérémonie des anges" ;
     ns1:publisher ns1:Boréal ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -30840,6 +31000,7 @@ ns1:Bookcec5799d-c485-456a-b800-a0d0fa0303c8 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2002"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Du mercure sous la langue" ;
     ns1:publisher ns1:Les_Allusifs ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -30929,6 +31090,7 @@ ns1:Bookcf2bdc9d-b3c1-4333-abb3-c89bcb918a70 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2007"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Extrêmement fort et incroyablement près" ;
     ns1:publisher ns1:LOlivier ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -30987,10 +31149,12 @@ ns1:Bookcfb0c99e-bbe8-431a-9166-3045699c02ab a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Bookcfe5409a-6f4a-44c6-a65d-1f28c3847f1b a ns1:Book ;
+    ns1:author "Laurence-Delphine Henno"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Publica2841f48-7b5d-4109-8ad8-faa2fe368afd ;
     ns1:dateReceived "1992"^^xsd:gYear ;
     ns1:illustrator "Laurence-Delphine Henno"^^xsd:string ;
     ns1:inLanguage "Français"^^xsd:string ;
+    ns1:name "" ;
     ns1:technique "Alkyde et pastel gras"^^xsd:string ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/figures-futur"^^xsd:string .
 
@@ -31026,6 +31190,7 @@ ns1:Bookd01fa2b9-5fa6-4d86-accb-4b93b33c2723 a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:anyURI .
 
 ns1:Bookd0385e97-67a1-4f19-8b91-085b2a50da25 a ns1:Book ;
+    ns1:author "Jadwiga Okrassa"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Publicce1ae2a1-a73f-4822-8501-121e46793ee7 ;
     ns1:dateReceived "2000"^^xsd:gYear ;
     ns1:illustrator "Jadwiga Okrassa"^^xsd:string ;
@@ -31062,6 +31227,7 @@ ns1:Bookd05f1d5a-2b73-4cb7-8024-8893093be87d a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-5 ans" ;
     ns1:dateReceived "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Albertine Petit-Brindamour déteste les choux de Bruxelles" ;
     ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -31198,6 +31364,7 @@ ns1:Bookd17a14e0-b052-438e-862f-55e7cd6ab2d5 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-4 ans Hors Québec" ;
     ns1:dateReceived "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "J'y vais !" ;
     ns1:publisher ns1:LÉcole_Des_Loisirs ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -31251,6 +31418,7 @@ ns1:Bookd1ebb5be-13e5-4915-a6cc-570e1ee21333 a ns1:Book ;
     ns1:dateReceived "2022"^^xsd:gYear ;
     ns1:genre "BD",
         "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Lightfall T2: La dernière flamme" ;
     ns1:publisher ns1:Gallimard,
         ns1:Gallimard_Jeunesse ;
@@ -31292,6 +31460,7 @@ ns1:Bookd240ebd2-850d-4293-9d3f-878ea6aa39cc a ns1:Book ;
     ns1:award "Prix des libraires du Québec : BD Adulte" ;
     ns1:dateReceived "2020"^^xsd:gYear ;
     ns1:genre "BD" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La grosse laide" ;
     ns1:publisher ns1:XYZ_Éditeur ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -31433,6 +31602,7 @@ ns1:Bookd314d615-27b9-4a61-95f3-802bf1aff64a a ns1:Book ;
     ns1:award ns1:Prix_Du_Livre_Jeunesse_Des_Bibliothèques_De_Montréal081cd036-74e2-446d-a826-a61781c6a135 ;
     ns1:dateReceived "2005"^^xsd:gYear ;
     ns1:inLanguage "Français" ;
+    ns1:name "" ;
     ns1:url "https://www.lurelu.net/prixlitt_biblioMTL.html"^^xsd:string .
 
 ns1:Bookd324b3a3-e5c0-45f0-a15d-fc4f4462cdb4 a ns1:Book ;
@@ -31553,6 +31723,7 @@ ns1:Bookd43ba96a-6664-4314-bd95-c81469875b66 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 12-17 ans" ;
     ns1:dateReceived "2012"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La chute de Sparte" ;
     ns1:publisher ns1:Leméac ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -31795,6 +31966,7 @@ ns1:Bookd621a94e-b70e-43e9-9dc1-c22f85a01481 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-bologna-ragazzi"^^xsd:string .
 
 ns1:Bookd65e5c9f-9366-4907-b23c-1b67c19ef8b8 a ns1:Book ;
+    ns1:author "Dale Blankenaar"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_orb483dc4b-d7f5-4299-b0ec-f8797c66efe1 ;
     ns1:countryOfOrigin "Afrique du Sud"^^xsd:string ;
     ns1:dateReceived "2021"^^xsd:gYear ;
@@ -31824,6 +31996,7 @@ ns1:Bookd663c49e-6621-4549-a2d7-2edea9c64631 a ns1:Book ;
     ns1:url "https://www.lurelu.net/prixlitt_masque.html"^^xsd:string .
 
 ns1:Bookd6782a8b-7005-4875-b9cf-65e6b1cd2333 a ns1:Book ;
+    ns1:author "Clemens Maurer"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Jury342c1568-1429-49ba-9736-8a42232c5e42 ;
     ns1:dateReceived "1994"^^xsd:gYear ;
     ns1:illustrator "Clemens Maurer"^^xsd:string ;
@@ -32025,6 +32198,7 @@ ns1:Bookd8454ce4-5688-4bff-bb8d-56e0292afec2 a ns1:Book ;
     ns1:award ns1:Concours_Communication_Jeunesse_Culinarbdd77225-451d-4ca3-a066-c2e669e83080 ;
     ns1:dateReceived "1983"^^xsd:gYear ;
     ns1:inLanguage "Français" ;
+    ns1:name "" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 ns1:Bookd8493605-9247-4eb3-9202-217611910c14 a ns1:Book ;
@@ -32094,6 +32268,7 @@ ns1:Bookd8a0366e-8199-40ba-b080-9301cfd841e5 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "1997"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le Liseur" ;
     ns1:publisher ns1:Gallimard ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -32312,6 +32487,7 @@ ns1:Bookda8582e0-79ba-434f-b10c-5f242499c7f2 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 6-11 ans" ;
     ns1:dateReceived "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La soupe aux allumettes" ;
     ns1:publisher ns1:Fonfon ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -32423,6 +32599,7 @@ ns1:Bookdb7114ba-a326-4e00-b548-71fec78039ae a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Bookdb7ecb13-3368-4d7a-98f3-0c58681a8856 a ns1:Book ;
+    ns1:author "Guilherme Karsten"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_oradd5b7f4-4ddd-49c5-89e5-907fa0eb7f68 ;
     ns1:countryOfOrigin "Brésil"^^xsd:string ;
     ns1:dateReceived "2019"^^xsd:gYear ;
@@ -32436,6 +32613,7 @@ ns1:Bookdbb0080a-7705-418d-9202-8edb4cf59aa4 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Poésie" ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "Poésie" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La femme cent couleurs" ;
     ns1:publisher ns1:Mémoire_DEncrier ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -32521,6 +32699,7 @@ ns1:Bookdc92fcdc-12f9-4f5f-97b6-9d0c5378fca7 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/grand-prix-de-lillustration"^^xsd:string .
 
 ns1:Bookdc92fded-b0b6-43b3-9f5c-d689bf5c8bb2 a ns1:Book ;
+    ns1:author "Amanda Mijangos"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or14b2c220-cc57-4c6d-ac39-1480981cbc4f ;
     ns1:countryOfOrigin "Mexique"^^xsd:string ;
     ns1:dateReceived "2021"^^xsd:gYear ;
@@ -33213,6 +33392,7 @@ ns1:Bookdf0d3579-9d04-4195-b0a2-358d6aaf8557 a ns1:Book ;
         "https://www.ricochet-jeunes.org/prix-litteraires/prix-tatoulu"^^xsd:string .
 
 ns1:Bookdf241906-6cb2-4a0e-a249-0517b60d3b79 a ns1:Book ;
+    ns1:author "Christian Voltz"^^xsd:string ;
     ns1:award ns1:Figures_Futur_Prix_Du_Publice73b67e1-9704-4910-b81d-d629a074eaf2 ;
     ns1:dateReceived "1994"^^xsd:gYear ;
     ns1:illustrator "Christian Voltz"^^xsd:string ;
@@ -33233,6 +33413,7 @@ ns1:Bookdf363bdf-fb1e-4a43-a6d1-7476ed8ea3a7 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/baobab-de-lalbum"^^xsd:string .
 
 ns1:Bookdf3a7766-9fbc-40b5-98a7-72c5adcc1ba4 a ns1:Book ;
+    ns1:author "Wen Dee Tan"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_orc8bf2104-e736-4460-93cc-f5cc57254449 ;
     ns1:countryOfOrigin "Malaisie"^^xsd:string ;
     ns1:dateReceived "2019"^^xsd:gYear ;
@@ -33566,6 +33747,7 @@ ns1:Booke2000161-8e40-42cb-b8a2-ed15abdbc5ab a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2002"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Pilgrim" ;
     ns1:publisher ns1:Serpent_À_Plumes ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -33576,6 +33758,7 @@ ns1:Booke210fe98-3cae-4a96-8efa-4ff90900cd00 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Essai" ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "Essai" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Maquillée" ;
     ns1:publisher ns1:Marchand_De_Feuilles ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -33586,6 +33769,7 @@ ns1:Booke28df43a-ec24-4b97-bde2-60b8fc786135 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 12-17 ans Hors Québec" ;
     ns1:dateReceived "2020"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Nevermoor (T. 1). Les défis de Morrigane Crow" ;
     ns1:publisher ns1:Pocket_Jeunesse ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -33657,6 +33841,7 @@ ns1:Booke353e7b7-2d15-4e7f-8b13-0c61fed0ddc5 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 12-17 ans" ;
     ns1:dateReceived "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Fé aime Fé" ;
     ns1:publisher ns1:Québec_Amérique ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -33747,6 +33932,7 @@ ns1:Booke550a982-2a0f-432c-b3b0-50363cf955c8 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 6-11 ans Hors Québec" ;
     ns1:dateReceived "2023"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Les sœurs Hiver" ;
     ns1:publisher ns1:LÉcole_Des_Loisirs ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -33757,6 +33943,7 @@ ns1:Booke5b090bc-aa65-4f72-bd31-b757f5c5c5a8 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 12-17 ans Hors Québec" ;
     ns1:dateReceived "2016"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le soleil est pour toi" ;
     ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -34167,6 +34354,7 @@ ns1:Bookeb3bc1a3-883e-4de4-ae3b-760f9b29d9ef a ns1:Book ;
     ns1:award "Prix des libraires du Québec : BD Hors Québec" ;
     ns1:dateReceived "2023"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Les sorcières de Brooklyn" ;
     ns1:publisher ns1:Bayard_Jeunesse ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -34371,6 +34559,7 @@ ns1:Booked5e2d44-e574-486b-9e32-bb0a6c0b6843 a ns1:Book ;
     ns1:url "https://livresgg.ca/gagnants-et-finalistes-precedents"^^xsd:string .
 
 ns1:Booked7801b25-682b-4b36-9f97-38acfb3be3d4 a ns1:Book ;
+    ns1:author "Irma Bastida Herrera"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or7791775b-9911-424b-b88d-bfe66941616e ;
     ns1:countryOfOrigin "Mexique"^^xsd:string ;
     ns1:dateReceived "2013"^^xsd:gYear ;
@@ -36455,15 +36644,6 @@ ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d1633 a ns1:Book ;
     ns1:inLanguage "Français" ;
     ns1:name "Mon cher correspondant"^^xsd:string ;
     ns1:publisher ns1:Fleurus ;
-    ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund"^^xsd:string .
-
-ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d1634 a ns1:Book ;
-    ns1:award ns1:Prix_Jacques_Asklundd462cb93-3a36-4439-84dc-4655a6f6e5a8 ;
-    ns1:dateReceived "2020"^^xsd:gYear ;
-    ns1:genre "Jeunesse" ;
-    ns1:inLanguage "Français" ;
-    ns1:name "Pas de lauréat"^^xsd:string ;
-    ns1:publisher ns1:Kana ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-jacques-asklund"^^xsd:string .
 
 ns1:Booked7a4921-0d39-4370-a445-9ca6b61df9d1635 a ns1:Book ;
@@ -38671,6 +38851,7 @@ ns1:Bookeff2965c-a5ff-4c52-bbca-2ae190a0ffe3 a ns1:Book ;
     ns1:award ns1:Concours_Communication_Jeunesse_Culinare93ec7d7-4e1d-4888-acd5-a67e5773ebd6 ;
     ns1:dateReceived "1985"^^xsd:gYear ;
     ns1:inLanguage "Français" ;
+    ns1:name "" ;
     ns1:url "https://www.lurelu.net/prixlitt_culinar.html"^^xsd:string .
 
 ns1:Bookf0038421-6de7-4d13-a13c-5418d56eda8d a ns1:Book ;
@@ -38802,6 +38983,7 @@ ns1:Bookf15ae835-7fc5-43a0-8071-b51924d437ba a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "1995"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Un ange cornu avec des ailes de tôle" ;
     ns1:publisher ns1:Boréal ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -38829,6 +39011,7 @@ ns1:Bookf1a47d01-eed9-4277-987b-5a08e41d7d6d a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-sorcieres"^^xsd:string .
 
 ns1:Bookf1dc6a01-497b-429b-bf93-5a0d91f8db38 a ns1:Book ;
+    ns1:author "Ofra Amit"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Plaques_D_orf88ea884-66dc-44a6-bd35-1d268b680105 ;
     ns1:countryOfOrigin "Israël"^^xsd:string ;
     ns1:dateReceived "2017"^^xsd:gYear ;
@@ -39575,6 +39758,7 @@ ns1:Bookf92a5b73-e65e-486a-80b0-db6d41a4eb1e a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-5 ans" ;
     ns1:dateReceived "2021"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Bob le bobo" ;
     ns1:publisher ns1:La_Courte_Échelle ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -39703,6 +39887,7 @@ ns1:Bookfa5a380-b7dd-4fbf-8939-32b50813c090429 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-lu-et-partage"^^xsd:string .
 
 ns1:Bookfa5b72ce-91e2-43ef-a4df-78fe9cbf63b1 a ns1:Book ;
+    ns1:author "Maki Arai"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Pommes_D_ore827b595-8242-4db1-9fbe-ea594d490e96 ;
     ns1:countryOfOrigin "Japon"^^xsd:string ;
     ns1:dateReceived "2017"^^xsd:gYear ;
@@ -39842,6 +40027,7 @@ ns1:Bookfaced28b-a480-4de0-9bfe-70aaff2ca218 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles Hors Québec" ;
     ns1:dateReceived "2016"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "L'Amie prodigieuse" ;
     ns1:publisher ns1:Gallimard ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -39905,6 +40091,7 @@ ns1:Bookfb4e7ce6-53e9-4462-8b80-fe44ace510f2 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Romans et nouvelles" ;
     ns1:dateReceived "2011"^^xsd:gYear ;
     ns1:genre "Romans et nouvelles" ;
+    ns1:inLanguage "Français" ;
     ns1:name "La Constellation du Lynx" ;
     ns1:publisher ns1:Boréal ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -39940,6 +40127,7 @@ ns1:Bookfb7397e2-e1dc-4128-8eea-b0645c9ecd6e a ns1:Book ;
     ns1:award "Prix des libraires du Québec : Poésie" ;
     ns1:dateReceived "2018"^^xsd:gYear ;
     ns1:genre "Poésie" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Les Adieux" ;
     ns1:publisher ns1:Les_Herbes_Rouges ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -40135,6 +40323,7 @@ ns1:Bookfcff0d20-d716-49cf-a96b-f5c8a6cfcc90 a ns1:Book ;
     ns1:url "https://www.ricochet-jeunes.org/prix-litteraires/prix-farniente" .
 
 ns1:Bookfd321ed9-43c6-4a52-9bc2-945da78a7329 a ns1:Book ;
+    ns1:author "Ludwig Volbeda"^^xsd:string ;
     ns1:award ns1:Biennale_De_L_illustration_De_Bratislava_Grand_Prixbf8de3c3-d342-49ab-a536-fd57dade40bf ;
     ns1:countryOfOrigin "Pays-Bas"^^xsd:string ;
     ns1:dateReceived "2017"^^xsd:gYear ;
@@ -40281,6 +40470,7 @@ ns1:Bookfeaffaa2-6edb-4eed-a4c9-9d3b89ccc39d a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 6-11 ans Hors Québec" ;
     ns1:dateReceived "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Le château des papayes" ;
     ns1:publisher ns1:Gallimard_Jeunesse ;
     ns1:url <https://prixdeslibraires.qc.ca/>,
@@ -40389,6 +40579,7 @@ ns1:Bookffc71533-ffbd-4312-92f9-6eef442b5f08 a ns1:Book ;
     ns1:award "Prix des libraires du Québec : 0-5 ans Hors Québec" ;
     ns1:dateReceived "2022"^^xsd:gYear ;
     ns1:genre "Jeunesse" ;
+    ns1:inLanguage "Français" ;
     ns1:name "Sous les vagues" ;
     ns1:publisher ns1:Les_400_Coups ;
     ns1:url <https://prixdeslibraires.qc.ca/>,

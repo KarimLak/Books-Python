@@ -38,4 +38,3 @@ for book, count in book_awards_counts.items():
         print(f"The book {book} is not present in the awards graph.")
 
 
-Book91c08d04-bef4-420b-98bc-fe47d81a1daa
