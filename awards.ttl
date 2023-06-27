@@ -10119,11 +10119,6 @@ pbs:Prix_Jacques_Asklundfd3f207d-fad4-4bf4-8e4d-8885310554b8 a mcc:MCC-E12 ;
     mcc:R37 schema:Booked7a4921-0d39-4370-a445-9ca6b61df9d1639 ;
     pbs:award pbs:Prix_Jacques_Asklund .
 
-pbs:Prix_Jeunesse_Des_Libraires_Du_Québec a pbs:Award ;
-    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
-    schema:description "Décerné pour la première fois en septembre 2011, le prix est accordé par les libraires, qui votent pour des finalistes désignés par l'ALQ, l'Association des libraires du Québec. Il présente deux volets, international et québécois, avec trois catégories d'âge dans chacun. Les bourses (3000 $ depuis 2018) sont offertes par le Conseil des arts de Montréal et remises en février. Du côté «adulte», le Prix des libraires du Québec existe depuis 1994." ;
-    schema:name "Prix Jeunesse des Libraires du Québec" .
-
 pbs:Prix_Jeunesse_Des_Libraires_Du_Québec00c38285-7c06-4e4e-a1db-b2a94490d799 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2013"^^xsd:gYear ;
     mcc:R37 schema:Book4147aac7-817f-426b-a087-3f529d8e3f45 ;
