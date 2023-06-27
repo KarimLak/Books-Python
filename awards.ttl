@@ -21987,11 +21987,11 @@ pbs:Prix_Cécile_Gagnon a pbs:Award ;
 
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Traduction_Anglais a pbs:Award ;
     pbs:genreLittéraire pbs:TRADUCTION ;
-    schema:name "Prix Littéraires du Gouverneur Général du Canada" .
+    schema:name "Prix Littéraires du Gouverneur Général du Canada - Traduction" .
 
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Traduction_Francais a pbs:Award ;
     pbs:genreLittéraire pbs:TRADUCTION ;
-    schema:name "Prix Littéraires du Gouverneur Général du Canada" .
+    schema:name "Prix Littéraires du Gouverneur Général du Canada - Traduction" .
 
 pbs:Prix_Chronos a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
@@ -22079,14 +22079,14 @@ pbs:LIVRE_JEUNESSE a pbs:GenreLitteraire ;
 
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration a pbs:Award ;
     pbs:genreLittéraire pbs:ILLUSTRATION ;
-    schema:name "Prix Littéraires du Gouverneur Général du Canada" .
+    schema:name "Prix Littéraires du Gouverneur Général du Canada - Illustration" .
 
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Jeunesse_Texte a pbs:Award ;
-    schema:name "Prix Littéraires du Gouverneur Général du Canada" .
+    schema:name "Prix Littéraires du Gouverneur Général du Canada - Texte" .
 
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Theatre a pbs:Award ;
     pbs:genreLittéraire pbs:THEATRE ;
-    schema:name "Prix Littéraires du Gouverneur Général du Canada" .
+    schema:name "Prix Littéraires du Gouverneur Général du Canada - Théâtre" .
 
 pbs:Prix_Des_Incorruptibles a pbs:Award ;
     pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
@@ -22095,15 +22095,15 @@ pbs:Prix_Des_Incorruptibles a pbs:Award ;
 
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Essai a pbs:Award ;
     pbs:genreLittéraire pbs:ESSAI ;
-    schema:name "Prix Littéraires du Gouverneur Général du Canada" .
+    schema:name "Prix Littéraires du Gouverneur Général du Canada - Essai" .
 
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Poesie a pbs:Award ;
     pbs:genreLittéraire pbs:POESIE ;
-    schema:name "Prix Littéraires du Gouverneur Général du Canada" .
+    schema:name "Prix Littéraires du Gouverneur Général du Canada - Poésie" .
 
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Roman a pbs:Award ;
     pbs:genreLittéraire pbs:ROMAN ;
-    schema:name "Prix Littéraires du Gouverneur Général du Canada" .
+    schema:name "Prix Littéraires du Gouverneur Général du Canada - Roman" .
 
 pbs:Award rdfs:subClassOf pbs:Organization .
 
