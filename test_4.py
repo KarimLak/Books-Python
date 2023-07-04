@@ -2,7 +2,7 @@ import rdflib
 
 # Load the books and awards graphs
 books = rdflib.Graph()
-books.parse("./books.ttl", format="ttl")
+books.parse("./missing_outputs.ttl", format="ttl")
 
 awards = rdflib.Graph()
 awards.parse("./awards.ttl", format="ttl")
@@ -39,4 +39,4 @@ for book in book_resources:
             books.add((book, ns1.award, rdflib.Literal(award_name)))
 
 # Save the modified books file
-books.serialize(destination="./books_updated.ttl", format="ttl")
+books.serialize(destination="./missing_outputs.ttl", format="ttl")

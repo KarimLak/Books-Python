@@ -5,7 +5,7 @@ ns1 = Namespace("http://schema.org/")
 
 # Load your graph
 g = Graph()
-g.parse("./books.ttl", format="turtle")
+g.parse("./missing_outputs.ttl", format="turtle")
 
 # Define your SPARQL query
 query = """
@@ -15,9 +15,8 @@ query = """
         OPTIONAL { ?book ns1:illustrator ?illustrator . }
         OPTIONAL { ?book ns1:inLanguage ?inLanguage . }
         OPTIONAL { ?book ns1:name ?name . }
-        OPTIONAL { ?book ns1:publisher ?publisher . }
         OPTIONAL { ?book ns1:countryOfOrigin ?countryOfOrigin . }
-        FILTER ((!bound(?author) && !bound(?illustrator)) || !bound(?inLanguage) || (!bound(?publisher) && !bound(?countryOfOrigin)) || !bound(?name))
+        FILTER ((!bound(?author) && !bound(?illustrator)) || !bound(?inLanguage) || !bound(?name))
     }
 """
 # Run your query

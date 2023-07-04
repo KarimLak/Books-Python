@@ -222,6 +222,8 @@ pbs:Prix_Mangawa skos:narrower pbs:Prix_Mangawa_Catégorie_Seinen,
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel skos:narrower pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17,
         pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8,
         pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_9_12,
+        pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Album_5_12,
+        pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Poesie
         pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Roman_9_12 .
 
 pbs:Prix_Petit_Angle skos:narrower pbs:Prix_Petit_Angle_Petit_Angle_Étranger,
@@ -296,6 +298,27 @@ pbs:Tam_Tam_Du_Livre_De_Jeunesse skos:narrower pbs:Tam_Tam_Du_Livre_De_Jeunesse_
         pbs:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Manga,
         pbs:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire,
         pbs:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquine .
+
+pbs:Livrentete skos:narrower pbs:Livrentete_Album_3_4,
+        pbs:Livrentete_Album_5_6,
+        pbs:Livrentete_7_8,
+        pbs:Livrentete_9_10,
+        pbs:Livrentete_11_12,
+        pbs:Livrentete_13_14,
+        pbs:Livrentete_15_17,
+        pbs:Livrentete_BD_9_12,
+        pbs:Livrentete_BD_13_17,
+        pbs:Livrentete_12_14,
+        pbs:Livrentete_BD_7_9,
+        pbs:Livrentete_BD_10_12,
+        pbs:Livrentete_BD_Enfant,
+        pbs:Livrentete_BD_Junior,
+        pbs:Livrentete_Premieres_Lectures,
+        pbs:Livrentete_Premieres_BD,
+        pbs:Livrentete_Roman_Enfant,
+        pbs:Livrentete_Roman_Junior,
+        pbs:Livrentete_Roman_Ado,
+        pbs:Livrentete_Livre_Image ;
 
 pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse skos:narrower pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album,
         pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse_Coup_De_C_ur_Jury_Enfants,

@@ -5,6 +5,2026 @@
 @prefix schema: <http://schema.org/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles063d75511d5748cfb8e7bbc8ee761e7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Book52b6e0aa-7f63-4d52-8363-971fc1682193 ;
+    pbs:award pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles .
+
+pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles043d75511d5748cfb8e7bbc8ee761e7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Book912d7f17-8aa5-4233-9281-ee969ad15620 ;
+    pbs:award pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles .
+
+pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles043d15511y5748cfb8e7bbc8ee761e7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book9c7394d4-ed25-4be5-9f91-a27a551dacb8 ;
+    pbs:award pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles .
+
+pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles043d15511y5g48cfb8e7bbc8ee761e7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Bookaa47eaf6-7ad0-4f37-ad36-9126b766a29e ;
+    pbs:award pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles .
+
+pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles043d15511yhg48cfb8e7bbc8ee761e7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Bookcf7db632-ff7c-4418-988b-cb278a59674d ;
+    pbs:award pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles .
+
+pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles043d15711yhg48cfb8e7bbc8ee761e7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Booke286508b-fb29-4d12-949c-ae9fe28973e3 ;
+    pbs:award pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles .
+
+pbs:Prix_Livrentête_Premiers_Romans043d75511d5748cfb8e7bbc8ee761e7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Bookbb5d7333-d8eb-4e51-8867-2c6567a89a22 ;
+    pbs:award pbs:Prix_Livrentête_Premiers_Romans .
+
+pbs:Prix_Acelf063d75511d5748cfb8e7bbc8ee761e7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1959"^^xsd:gYear ;
+    mcc:R37 schema:Book9a2eb345-7e3e-4d9c-87b0-93b2c48d9d07 ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelf0aa8b4ce753d4cf9980e52d4c0f3d1fe a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1983"^^xsd:gYear ;
+    mcc:R37 schema:Booka409ce31-0fdf-49ba-84cf-aab8bb8ca60b ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelf152df1db494d462397367bc076f4bc8b a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1958"^^xsd:gYear ;
+    mcc:R37 schema:Bookbf3b5e1e-a115-4d47-9da5-b9adbadf9a98 ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelf282202aa3ce54b8aad95cf98d9569b1a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1963"^^xsd:gYear ;
+    mcc:R37 schema:Book46edea6a-848b-4cb4-9c14-990e6a432122 ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelf30390a4e35e54e528a1421f2afb2f45d a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1982"^^xsd:gYear ;
+    mcc:R37 schema:Booke316fd44-d5b0-4081-80c0-4a708c6993bb ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelf437f293343eb46ca9d65294c3d9a3e4a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1981"^^xsd:gYear ;
+    mcc:R37 schema:Book29f7b553-1e03-4547-961a-8df473400e9d ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelf62071a331f3845938d66b121901d4861 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1982"^^xsd:gYear ;
+    mcc:R37 schema:Book55ca7b24-86bc-480a-bb7f-546d4cf2ee40 ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelf68117c8c25a04b308e63f4512f1790a5 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1960"^^xsd:gYear ;
+    mcc:R37 schema:Book8254ca1e-5e8c-431d-9e24-820066c5bde8 ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelf80c86e99e80640699da954c644a07b88 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1980"^^xsd:gYear ;
+    mcc:R37 schema:Book9cede81a-6a92-4355-9a3a-bcca9fe949a5 ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelf9cea2cd77f2144db84e3efc18a596638 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1979"^^xsd:gYear ;
+    mcc:R37 schema:Book627d0842-401c-4a54-aa29-fe6b0e24a249 ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelfd5ae534fa6794eb3999e63a37d6cbb3d a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1962"^^xsd:gYear ;
+    mcc:R37 schema:Book130ec333-baec-4efd-9a82-2e552c2de3f2 ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelfebc4061dbd614ee79d872d064db3bc66 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1961"^^xsd:gYear ;
+    mcc:R37 schema:Book1e57311b-b22f-4ff9-b2bc-5e201ff32e19 ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelff660f524205f4af5b772cdedb46b3919 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1958"^^xsd:gYear ;
+    mcc:R37 schema:Book721db72c-4647-4176-91e0-fb872263d8b8 ;
+    pbs:award pbs:Prix_Acelf .
+
+pbs:Prix_Acelf_Raymond_Beauchemin092811bcd1d24ddcbd5274d1f8f9bfae a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1986"^^xsd:gYear ;
+    mcc:R37 schema:Book3c295c0f-9edf-45d5-bf84-4a1559d7c2f6 ;
+    pbs:award pbs:Prix_Acelf_Raymond_Beauchemin .
+
+pbs:Prix_Acelf_Raymond_Beauchemin215bda359e5740b09ccaf8390509bdcc a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1985"^^xsd:gYear ;
+    mcc:R37 schema:Bookfcd54fd9-181a-422e-bf22-29bc848ed24c ;
+    pbs:award pbs:Prix_Acelf_Raymond_Beauchemin .
+
+pbs:Prix_Acelf_Raymond_Beaucheminc22e893af25244aabb000af0a30a7889 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1987"^^xsd:gYear ;
+    mcc:R37 schema:Bookcd1d7f08-ebb2-427d-a37f-576e0023e541 ;
+    pbs:award pbs:Prix_Acelf_Raymond_Beauchemin .
+
+pbs:Prix_Acelf_Raymond_Beauchemine671205f3c1e47a3bfa4a82d6bf57a22 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1989"^^xsd:gYear ;
+    mcc:R37 schema:Bookdde7f609-2193-45d7-9add-77b8aa492d4e ;
+    pbs:award pbs:Prix_Acelf_Raymond_Beauchemin .
+
+pbs:Prix_Acelf_Raymond_Beauchemine8a3b39f4c98478ab764bb5df692955c a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1988"^^xsd:gYear ;
+    mcc:R37 schema:Book375e7611-2a51-4740-b9b7-421900369985 ;
+    pbs:award pbs:Prix_Acelf_Raymond_Beauchemin .
+
+pbs:Prix_Acelf_Raymond_Beaucheminfbaeb57118234225b3f3cdd51f760d2a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1990"^^xsd:gYear ;
+    mcc:R37 schema:Book2efadc8d-1b49-4500-a1f9-3a1257d31451 ;
+    pbs:award pbs:Prix_Acelf_Raymond_Beauchemin .
+
+pbs:Prix_Acelf_Cecile_Rouleau2dada9ce368449ad8abd633feb52a393 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1988"^^xsd:gYear ;
+    mcc:R37 schema:Book96b16eeb-b3e1-4a58-94d7-d168abac7426 ;
+    pbs:award pbs:Prix_Acelf_Cecile_Rouleau .
+
+pbs:Prix_Acelf_Cecile_Rouleau70c5ca03628c43a5a07d9fe0ca59127a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1987"^^xsd:gYear ;
+    mcc:R37 schema:Book430dad67-3242-4b82-919d-a89a6fac7ea8 ;
+    pbs:award pbs:Prix_Acelf_Cecile_Rouleau .
+
+pbs:Prix_Acelf_Cecile_Rouleau76cc8fb87bb9411eabffd922e9b2209a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1989"^^xsd:gYear ;
+    mcc:R37 schema:Book3edbb041-7f53-423a-a84e-28827b6409c5 ;
+    pbs:award pbs:Prix_Acelf_Cecile_Rouleau .
+
+pbs:Prix_Acelf_Cecile_Rouleaub3b4e4fe8ace4bdeae3842327d5ccccd a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1986"^^xsd:gYear ;
+    mcc:R37 schema:Book272e3593-19d8-4738-bb2b-093ce6bd1350 ;
+    pbs:award pbs:Prix_Acelf_Cecile_Rouleau .
+
+pbs:Prix_Raymond_Plante1c1fdf3a216a472091bf636c57d001b1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Book6927e570-11ad-4adb-babb-3013870f1190 ;
+    pbs:award pbs:Prix_Raymond_Plante .
+
+pbs:Prix_Raymond_Plante37f8e41caf5f4207a5c9be945a9ea87e a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Bookdb6bc2fb-df81-4215-9852-83d62b8c532f ;
+    pbs:award pbs:Prix_Raymond_Plante .
+
+pbs:Prix_Raymond_Plante468c7b0155b84467b638c0c936648196 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Bookb9831c1f-07c1-4c30-b48d-d725a4bb879c ;
+    pbs:award pbs:Prix_Raymond_Plante .
+
+pbs:Prix_Raymond_Plante4d2c9d14567d45db909804c639a771c5 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book5e1f8659-c897-4871-904a-00e304941f3f ;
+    pbs:award pbs:Prix_Raymond_Plante .
+
+pbs:Prix_Raymond_Plante81fd8f20a0b345f6b786b87838de945a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book2cf51f8d-e0b3-4c32-926d-9fd50e919dfc ;
+    pbs:award pbs:Prix_Raymond_Plante .
+
+pbs:Prix_Raymond_Plante82dd6b3a836b42d5a043b8699bdc7776 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Book4cf0f381-fb09-4ecc-b171-dd54dca5cb37 ;
+    pbs:award pbs:Prix_Raymond_Plante .
+
+pbs:Prix_Raymond_Plante9e4157ed460a4a69a93f678f98ce5be7 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book16cddf73-8792-444d-9e9b-c7ec48389a77 ;
+    pbs:award pbs:Prix_Raymond_Plante .
+
+pbs:Prix_Raymond_Plantedb61650d218c41118e5fe796fe6cce1c a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Bookdcc2e2ab-176f-4294-b5a6-5e681f77c392 ;
+    pbs:award pbs:Prix_Raymond_Plante .
+
+pbs:Prix_Raymond_Plantefff20cd2d05841289e1cf2319401bd0e a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Bookd8d722e6-b61a-46c4-a0d6-9944d1aedae0 ;
+    pbs:award pbs:Prix_Raymond_Plante .
+
+pbs:Children_Laureate171033ef63a14278857079976932477b a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book6efef353-b90b-4b32-a340-94133a1f56a3 ;
+    pbs:award pbs:Children_Laureate .
+
+pbs:Children_Laureate178679f5aab84445a102c7713ec84bac a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2003"^^xsd:gYear ;
+    mcc:R37 schema:Bookf3ca4f11-d41e-4d69-89f9-515ecb30841b ;
+    pbs:award pbs:Children_Laureate .
+
+pbs:Children_Laureate2a90f523799a4c86bc8b466ed8f232fb a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Bookdf299d74-2d55-4e73-97c6-3c04821190d2 ;
+    pbs:award pbs:Children_Laureate .
+
+pbs:Children_Laureate2eff3a70213e4b148bd43dd99eeb1b0f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Book37faaa38-26bf-4e97-99dc-2e0095eb3c73 ;
+    pbs:award pbs:Children_Laureate .
+
+pbs:Children_Laureate380b6ab563e84e0bac21de7f9c031833 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Bookde4131eb-77b2-4ac4-9fb6-b5c06afa31b0 ;
+    pbs:award pbs:Children_Laureate .
+
+pbs:Children_Laureate52aebf19115642db9e6f414e190ae603 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1999"^^xsd:gYear ;
+    mcc:R37 schema:Bookeea9d26b-30f0-4139-a7cd-8abbcf452e37 ;
+    pbs:award pbs:Children_Laureate .
+
+pbs:Children_Laureatea79fecc21e184ec282f6dcd65256c2c0 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2005"^^xsd:gYear ;
+    mcc:R37 schema:Book8ea7a475-ddfe-466b-b693-9e903ea51858 ;
+    pbs:award pbs:Children_Laureate .
+
+pbs:Children_Laureateb16213e38c734e4fab57fc75f4a7e55c a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Bookc44d2c4b-3186-43e0-ae12-1d5ca9657009 ;
+    pbs:award pbs:Children_Laureate .
+
+pbs:Children_Laureatec0dc2bd254474b6bb98f10ee5d232b09 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2001"^^xsd:gYear ;
+    mcc:R37 schema:Book3ff52311-6637-4470-b8cc-33e3e1f3fd34 ;
+    pbs:award pbs:Children_Laureate .
+
+pbs:Children_Laureatecdd2f64b604f48c9bc6b436c009cadfd a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Bookfc5c4029-8d55-4f35-8a75-7c50ab3451e9 ;
+    pbs:award pbs:Children_Laureate .
+
+pbs:Children_Laureatee930d7701200448a8bc2c938190a88f0 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book73cad72d-87d8-46a5-b04e-0e3d63f938e4 ;
+    pbs:award pbs:Children_Laureate .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia06544b99cb2a43f085bd31287d2159aa a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Book13c16e78-4634-4965-b9c4-8002f6827711 ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia08155dc0b7ed497b9df153d778931ad2 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Book255ae79f-dcbb-4a56-b13a-21a5ebe8acfb ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia2ef1ffae945241a68fb4ff563d540d0c a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Book593c345d-b4fc-4aab-a004-e1f5c48c41b6 ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia3c77ae5f28e64b09a1756b2038a5eab9 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Bookb69d45dd-5e59-424d-907e-f6f049fb06a3 ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia5865d7f3e52b4d5b986837dd15e1eb8d a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Booked073183-7128-4e7f-b456-04f9e41d27ad ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia5cfc288259d44007968cefc3dbcf4ae0 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book1d7715c3-23ce-4a62-abbc-2aa139d5eb95 ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia775ce02273e1418a9548916d84203a06 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Book4199850b-4c09-4895-a3b3-5993a2301a09 ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia7875db580c0841e6b4f3fdb15d0d9ffa a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book12393b79-eb2f-4dfb-8a3a-d002d8b48db5 ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia7d32a4d32bd245799984c0d3a3a8024f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Book6a03449c-ff99-4152-8407-9b1df2714aeb ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia8b017aa2715540b3bec98d0745a56d41 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Book23392ddb-fce9-4151-8e1b-dd61247b8f20 ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Boloniaab83dac924274e069a2459263dd35c45 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book335d0c93-4203-4fcb-8b32-f8d1355e8f1a ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Boloniaaf1d175902ab4cf5a2f96eb46056f5a6 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Book98d33abb-7061-4f66-a7aa-626f752e78ec ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Boloniac009b2b5d32343bf911d147c15670741 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Bookbcd876c1-d8cc-4651-900c-8e5a115692da ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Boloniac3b5256fef0846799017d8cf9eb5dedf a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Book503a9284-0494-401d-ac43-637d9ad40a17 ;
+    pbs:award pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia .
+
+pbs:La_Grande_Ourse1245d36f3a0c4465835085f5de1278a2 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book3560aa81-352e-4d1b-a9e0-c2962f54206c ;
+    pbs:award pbs:La_Grande_Ourse .
+
+pbs:La_Grande_Ourse49c40047ae164df3adc35cab5a5c2354 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book54014d37-e541-48dc-9d41-4c6c61aacb40 ;
+    pbs:award pbs:La_Grande_Ourse .
+
+pbs:La_Grande_Ourse949a15e3d6d146bd8296f1b47d33fa44 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Booke9eed268-ab98-4ab8-8aea-a14da99fa704 ;
+    pbs:award pbs:La_Grande_Ourse .
+
+pbs:La_Grande_Ourseed33e0591adc40a38b6ddcb49f0bc358 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book38129a84-b88c-4d8f-a6a2-cf8af3ce30a5 ;
+    pbs:award pbs:La_Grande_Ourse .
+
+pbs:Prix_Astrid_Lindgren00fe91cc6a7c47d495e2f49c469034c5 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Booke8fbff50-2324-42b0-9a2c-6dff287b4928 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgren03ca65eba91c48ff834787f3babaaa66 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Book0435719b-b159-413f-a631-8c844bb05641 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgren1cb48efff7d84835a769dbde991398a2 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Book4766a794-8164-4017-bcd5-97243782339b ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgren29837ff144ff4acdb4127fb78695185b a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Book7638a3f3-b28c-4600-887f-99efe1f59e98 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgren29bf351e9583487d8165f944804d38a3 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Book4050ac84-a6fc-4b83-9df5-232214d7f196 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgren2d41d0184c994723947441962bed0e5e a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Book4682f788-d685-4a3f-90dc-ac25c07dc2e1 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgren3102bacbcbbd4d338c0530ec8e54c857 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book5b1f8c08-4681-499d-8fdc-1c90956f2aaa ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgren39624b908f1f46a68b22c46a931a82a9 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book3e714d49-e2d6-4653-8cc6-d980fb3f7c8f ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgren4f64c8c0be344ccfba7b2fb72a7cf94b a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Book91c076a4-3b41-4deb-932b-b964a542b6a4 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgren51cb2205ff37482aa131e223afcd2da9 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book3fd687cd-430c-474e-afd3-0c117cd26d1e ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgren5b5ad616d45c4000880b0a419375b810 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2005"^^xsd:gYear ;
+    mcc:R37 schema:Book0ddd5c8a-156c-400f-8e9d-cceae1a56263 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgren75c1bff985934f54930535ca492a61f6 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Booke28bb9d7-685c-4231-b1d9-5c587deabb9f ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgren8deeae19edd64df890abebaf13fbf843 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Bookb875be29-746e-4bd7-bde7-374d02775a4c ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgrencd2438030d2144c08da6f866194c3478 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book1156c891-144c-461e-bec8-ae6c507860d9 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgrend59b772b32294533adfc9c5c8ac5bf30 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Bookc2d4b911-a831-43d7-af5b-27221c96eeb2 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgrend76540654d874c7f8e3c529466b25132 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2003"^^xsd:gYear ;
+    mcc:R37 schema:Book336b3e20-b1ff-4c36-b05c-1dc890232480 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgrende19c1fa1f6d4a3da8e93a357bf678f1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2004"^^xsd:gYear ;
+    mcc:R37 schema:Bookab9146bb-65f5-407c-92f1-2a45d998e254 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgrene43e82bd522f4fb1a76d172c5144f0f4 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Bookf6133a05-4b5b-4bd6-b513-acb7df5e01eb ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgrenf817f7a1af4f45fd9a038a2b859f89d6 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Book4c95ed66-17fa-4947-8b0b-aa81033ed502 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgrenf84ac124e28b4a1096b1ff81af17e2a7 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Bookb20ae109-c398-4ea1-91e2-f88ad84d3a82 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Astrid_Lindgrenfdcf6ddccd5947a5a5e9dd733eb45601 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Book6b26cc38-1c2f-45bf-919d-d7cf76eaa2a6 ;
+    pbs:award pbs:Prix_Astrid_Lindgren .
+
+pbs:Prix_Hans_Christian_Andersen121d03eaedc94cfca305139e3609184a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Booka735584f-92da-4904-a03a-069f6a73d7a3 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen1a29f63b1341425eb237b77fe372ffb1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1988"^^xsd:gYear ;
+    mcc:R37 schema:Book84322196-8b8e-4b42-ac94-996ac37dfe6c ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen1f162283b50443e0a7820fc87913dacc a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1978"^^xsd:gYear ;
+    mcc:R37 schema:Book3f99192a-6aab-431f-9132-b743ce9e4163 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen208f84458cca45ec9813a5a8434b7520 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1996"^^xsd:gYear ;
+    mcc:R37 schema:Bookc7a89489-9b08-446c-8df7-eaf385be8bc7 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen2b0dbe45844540888d07ba9c4dab587e a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Book42aca335-7ced-4574-9046-3723ff16706b ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen31b6bf5a17c34adb8126b059729c989c a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1966"^^xsd:gYear ;
+    mcc:R37 schema:Book77e5f248-05c9-471f-ae3e-e07fbdba424e ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen33cb2d1c2aa04cd39e7f01b0fc0319c5 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1968"^^xsd:gYear ;
+    mcc:R37 schema:Bookeffa5d88-2c00-4c09-89ff-9da4dec3de85 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen3ec8d179fb484ad5a039bb28de1c6619 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2002"^^xsd:gYear ;
+    mcc:R37 schema:Bookf76a4c6a-e140-4800-be14-186cda70e80d ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen3f0b3d38760245e59bfef60897ead38b a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1968"^^xsd:gYear ;
+    mcc:R37 schema:Book3de6870e-1d7b-4666-9dae-98154fa4f2ee ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen42657d9029724410b269f072d31de5dc a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Bookb2753e6c-3245-48c1-8b5b-a687a930bdda ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen47c3e4153ece483c94218d05e23bba82 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1958"^^xsd:gYear ;
+    mcc:R37 schema:Booke9b22308-412a-4cb2-bab1-af0e655a46ee ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen47e239bd35bf48f59f68c09d46b60d1f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1990"^^xsd:gYear ;
+    mcc:R37 schema:Book159dac07-5471-415e-beb4-af131c7f472b ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen4ecc3a7f23764745a47ee800f648e744 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1962"^^xsd:gYear ;
+    mcc:R37 schema:Book3fc36045-a08d-4afe-a4d2-08fb3130b8a8 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen54a43516d3424b35a196842e7d8b5208 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1956"^^xsd:gYear ;
+    mcc:R37 schema:Book0c601df8-1b8e-4b29-ba8b-e04e1884d704 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen5641b2f5c6e2489f96320788cb1351a0 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book1d3a4766-ddf2-4114-8f1f-5ddaf8194d55 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen686d2d9ba41a4a78ac1064ebeb66f06b a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1990"^^xsd:gYear ;
+    mcc:R37 schema:Bookdfebd5df-90e3-451f-8479-2ca592885dcd ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen68c1c8078bd542e0b93d8711399ae059 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1998"^^xsd:gYear ;
+    mcc:R37 schema:Book0569c4b6-99ba-49ba-bdd3-c03a9da2969a ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen6a74eed1a2f041d793b00e90b2a1ae51 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Bookea8e667e-a551-431a-af20-8b7c7c3503ce ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen6ce710ebef3a44b0a0e5fc83b65abd99 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1974"^^xsd:gYear ;
+    mcc:R37 schema:Bookc5975eba-c148-4b97-b3a9-f403944ecf60 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen6ddbd4aa975f41a2b40132141958f597 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1978"^^xsd:gYear ;
+    mcc:R37 schema:Bookedb78ef4-5e46-4483-a3f8-52ef8f8217b5 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen79afcbb3470c429282009346275d0349 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Book68ada94a-8b36-4be2-ab70-e0cc7ffcf99d ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen7ab6bc86f92a49f19c153cae4f944eae a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Book57df6986-493b-4eba-a269-494e44d9cc34 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen7d547fa8144a42999c7ea6ee3dfbcd77 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Bookf6e48eb1-deb5-4073-9649-1d65247bb854 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen805e7ef7e097439d90c3a577a77db5a8 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Book5b1af70f-2cb1-4b6b-a8a6-f784b19dcd52 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen8297af110dd84dc99647697b2164c947 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2000"^^xsd:gYear ;
+    mcc:R37 schema:Bookc07de24c-658f-4ea8-b8f3-87ccc0150dd6 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen832dca3cd1744e608907e2e2a5bcb956 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1994"^^xsd:gYear ;
+    mcc:R37 schema:Book04f1e506-b3b2-42fd-84fb-e80fc7dfdeca ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen85e92d06666447fe99749dfcac07fc1d a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Bookb6e22a5e-b999-4d7f-8c73-8dd49266e285 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen923f4d15457440f8b244c12397dbad2c a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Booke14b5719-0498-4437-8460-817731d4a7a0 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen92e2873493274dd5924eac20f31b07bd a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1970"^^xsd:gYear ;
+    mcc:R37 schema:Booka863acae-b064-4b4e-a121-543b296a4a60 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen95be71381e30416a86e1f95475a1eebb a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1980"^^xsd:gYear ;
+    mcc:R37 schema:Book74042fae-ea15-47c1-9f30-8e8f5db42c3c ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen97b072d229474ce4af8c34efd247119e a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1970"^^xsd:gYear ;
+    mcc:R37 schema:Book43c3026a-2b7a-4c66-880b-9dd7ebe5a066 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen97becf8c8f374ec28ae8a05fc7189846 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Bookd63b97f2-1020-4097-b8df-39e618722837 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersen9a0704206ddd4ff8a6319019cecaee0d a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2004"^^xsd:gYear ;
+    mcc:R37 schema:Book721f8f04-3f75-47a8-9e81-23c67f8140f0 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersena086868917704442b2069e30d23d63a9 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2000"^^xsd:gYear ;
+    mcc:R37 schema:Book414e4957-527c-4322-b42c-ab2448c159f5 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersena6715ad1ed464b25a203b027d52c9681 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Bookc4c9598f-5bec-48b7-b649-a0d055f89dcf ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersena772f61d644e452aa5ebb689b5471f7c a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1984"^^xsd:gYear ;
+    mcc:R37 schema:Bookbf89923d-55cc-4f09-b6fc-31164817804c ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersena9378381c03546e1b51da79bdf888fc5 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2002"^^xsd:gYear ;
+    mcc:R37 schema:Book02bc53a7-3724-4160-ab4a-f4fbe924230b ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenad9eb965718d44d486ed980414847ae3 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1968"^^xsd:gYear ;
+    mcc:R37 schema:Book7935a9f4-99d1-43ea-a71b-982ea4d7b67f ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenb1d75790e47b4d04ba66d7dfbfa8895e a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1972"^^xsd:gYear ;
+    mcc:R37 schema:Book47e863a9-f673-42a7-a219-e9d1fcd88dc2 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenb3ccb87a2a434c6e9a5f74f8ab6ade1f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1996"^^xsd:gYear ;
+    mcc:R37 schema:Booka598c1a1-8c4a-4bb3-8ca6-fcaa092a5087 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenb43ccf65fd0a4f6ca5ece7b2bf6eeffe a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1992"^^xsd:gYear ;
+    mcc:R37 schema:Booka781b7a9-505c-46d3-8f3c-cc1549ed3fba ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenb6765bc8282f4211919626d79f9202eb a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1976"^^xsd:gYear ;
+    mcc:R37 schema:Book8f5c2dd1-13e1-408e-80bf-7c290aa5956a ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenb6ac43dcb7c0416f9832a43877182f6a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1992"^^xsd:gYear ;
+    mcc:R37 schema:Book9cae41bf-75bf-4a9b-ba4e-373feb522194 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenbb55ea9e16f3435e85bb5bf589f67d59 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Booke9b48aee-2daf-4686-b490-c8f6485f5f8f ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenbc08a95a44fc474285c3329538b22291 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1964"^^xsd:gYear ;
+    mcc:R37 schema:Book3ad3c530-1c0e-4fa6-ae74-5570ae84dce2 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenc01488c9d75d4cbb831e5859c8b3b0d7 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1974"^^xsd:gYear ;
+    mcc:R37 schema:Bookad892a86-027a-42b1-b5d4-0b9621813e88 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenc0e4006400c74a7eaa7053a4ff20e4e5 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1994"^^xsd:gYear ;
+    mcc:R37 schema:Book6b92825f-6b8d-439c-a3bc-54eec269de78 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenc1d700fe5f3c40d5b83a7dbf8ee2ba0b a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1982"^^xsd:gYear ;
+    mcc:R37 schema:Booka40031ca-43aa-4374-becf-e4e763200d32 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenc844ba802b014254bf14435c890cdcd7 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1986"^^xsd:gYear ;
+    mcc:R37 schema:Book5f483584-cafd-4705-a801-2d4ccc2c6a6b ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersencafedc10eacb4147bb34d5982ecfd0d3 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book7d3456c4-220b-430b-9b86-ddc3ff3a1149 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersencb4afe771deb4619a0ffd7aa6d811494 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1998"^^xsd:gYear ;
+    mcc:R37 schema:Book35064846-ab3c-4482-b825-58a9b079a88b ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersend1a37e857c9542a8be29221af7d8cb27 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2004"^^xsd:gYear ;
+    mcc:R37 schema:Book8a243c2d-921f-40e8-b1a7-81dbff729ab3 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersend512cb98733f4776b30f6e16209fc0bc a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1982"^^xsd:gYear ;
+    mcc:R37 schema:Bookb3f4b0a3-dcb8-4053-b4b8-9045fca7119f ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersend59e9073c9754458bcc18aaf096c617a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1980"^^xsd:gYear ;
+    mcc:R37 schema:Book29a061f6-f2b6-44fc-b461-2d5188e08a9c ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersend66aaec72f2544489dfc4d8c56f9eb9c a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book49049771-df98-472d-8674-4269f41e7662 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersend7d73f45828b441298c6a5554e06e347 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1960"^^xsd:gYear ;
+    mcc:R37 schema:Booka35f5d44-4f55-436e-a222-240c54ffc1c6 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersene127fc602a184555af0ce98b9909233a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1966"^^xsd:gYear ;
+    mcc:R37 schema:Booka6fe0b1e-afa0-48a6-8683-7ac2fb3eecc2 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersene1578f1cbfb04fb397a8fb4db81cc331 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1986"^^xsd:gYear ;
+    mcc:R37 schema:Bookec2a53e4-d864-4c91-9199-84164ec94542 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersene2fe15a11391420ba0b5d369752284fa a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book0ebc3b8c-06dc-40b9-bb9b-d20b03f16723 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenea03bfe4918f48ff86f3a571a04d1ec7 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1984"^^xsd:gYear ;
+    mcc:R37 schema:Book547a251b-fec7-4e02-9f48-3d049a9b84ae ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenf22cf88007e744f8a4cb81757f9c8e1d a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1976"^^xsd:gYear ;
+    mcc:R37 schema:Book88a63bcc-48eb-4393-8e1f-9d1896cad078 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenf22cfa4583cc4664979ff774b225b8eb a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Booke2cbf469-e0ee-4a9b-8b2c-0a46796a67e9 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenf5c5870e99cd442599e51dcece0903aa a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1972"^^xsd:gYear ;
+    mcc:R37 schema:Book6d4cd0c8-5dbf-4aca-b641-cffebed5811c ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Prix_Hans_Christian_Andersenf8e5619df53f4ac49a3d25d7df70dcb9 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1988"^^xsd:gYear ;
+    mcc:R37 schema:Book66d25e4b-bb9f-4402-a19f-3e652fb19607 ;
+    pbs:award pbs:Prix_Hans_Christian_Andersen .
+
+pbs:Livrentete_Album_3_4110e597a-0d18-468f-a5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Book307f6721-aaed-4e35-ad7e-950e8910f8fd ;
+    pbs:award pbs:Livrentete_Album_3_4 .
+
+pbs:Livrentete_Album_3_4110e597f-0d18-468f-a5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Bookcb437a8c-5547-4961-8dd6-1403ab710ce2 ;
+    pbs:award pbs:Livrentete_Album_3_4 .
+
+pbs:Livrentete_Album_3_4110e597f-0d18-h68f-j5cc-656a1i745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Booke4efae2c-5275-4825-8f64-a3fc213e2226 ;
+    pbs:award pbs:Livrentete_Album_3_4 .
+
+pbs:Livrentete_Album_3_4110e597f-0d18-h68f-j5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book8a229c97-74fa-4e5b-b9e4-b9247294b505 ;
+    pbs:award pbs:Livrentete_Album_3_4 .
+
+pbs:Livrentete_Album_3_4110e598f-0d18-h68f-j5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Bookbff6f912-e4c0-4e4d-89a5-15dee90298b4 ;
+    pbs:award pbs:Livrentete_Album_3_4 .
+
+pbs:Livrentete_Album_3_4110h598f-1d18-h68f-j5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Bookb89a003-bd09-42c0-9350-91c5a1e95a6c274 ;
+    pbs:award pbs:Livrentete_Album_3_4 .
+
+pbs:Livrentete_Album_3_4120h598f-1d18-h68f-c5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Bookaa63f5c1-0c6b-48fc-8b13-c06c57de731a ;
+    pbs:award pbs:Livrentete_Album_3_4 .
+
+pbs:Livrentete_Album_3_4120h598f-1d18-h68f-j5cc-z56a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Bookaa63f5c1-0c6b-48fc-8b13-c06c57de731a ;
+    pbs:award pbs:Livrentete_Album_3_4 .
+
+pbs:Livrentete_Album_5_6120h598f-1d18-hx8f-j5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Book99789d97-2a2c-4013-ade3-7879257e2d38 ;
+    pbs:award pbs:Livrentete_Album_5_6 .
+
+pbs:Livrentete_Album_5_6120h598f-1d18-hl8f-j5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Bookd012ef28-c283-410a-afa3-89ac1d5006b7 ;
+    pbs:award pbs:Livrentete_Album_5_6 .
+
+pbs:Livrentete_Album_5_6120h598f-1d18-h68f-j5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book2bc8306b-5f58-46bd-aedc-7a0d004f5ad5 ;
+    pbs:award pbs:Livrentete_Album_5_6 .
+
+pbs:Livrentete_Album_5_6120h598f-2d18-h68f-j5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Booked7a4921-0d39-4370-a445-9ca6b61df9d79 ;
+    pbs:award pbs:Livrentete_Album_5_6 .
+
+pbs:Livrentete_Album_5_6120h598f-1d28-h68f-j5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Booka31b89f2-f344-49ce-81a6-d04e6557b70a ;
+    pbs:award pbs:Livrentete_Album_5_6 .
+
+pbs:Livrentete_Album_5_6120h598f-1728-h68f-j5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Book0fa07282-731c-467c-b4b3-24bb3e9825aa ;
+    pbs:award pbs:Livrentete_Album_5_6 .
+
+pbs:Livrentete_7_8120h598f-1728-h68f-j5ccj656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Book670fb36f-3277-4658-9805-a48229ce096c ;
+    pbs:award pbs:Livrentete_7_8 .
+
+pbs:Livrentete_7_8120h598f-1728-h68f-j5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book8db058f0-5bd9-4416-82d8-80d5b407bcfc ;
+    pbs:award pbs:Livrentete_7_8 .
+
+pbs:Livrentete_9_10120h598f-1728-h68f-j5cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b998 ;
+    pbs:award pbs:Livrentete_9_10 .
+
+pbs:Livrentete_9_10120h598f-1729-h68i-j2cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Booke65696d9-dcbc-404d-b970-d52ffb97ec1a ;
+    pbs:award pbs:Livrentete_9_10 .
+
+pbs:Livrentete_11_12120h598f-1729-h68i-j2cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Book47abeeee-b30e-4a70-b11a-98982102e3f0 ;
+    pbs:award pbs:Livrentete_11_12 .
+
+pbs:Livrentete_13_14120h598f-1729-h68i-j2cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Bookcf0694a5-83ab-44fd-b906-4171cc27dc35 ;
+    pbs:award pbs:Livrentete_13_14 .
+
+pbs:Livrentete_15_17120h598f-1729-568i-j2cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Book30e7daeb-490b-4bcf-91c7-8149c3806f60 ;
+    pbs:award pbs:Livrentete_15_17 .
+
+pbs:Livrentete_15_17120h598f-1720-h68i-j2cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9943 ;
+    pbs:award pbs:Livrentete_15_17 .
+
+pbs:Livrentete_BD_9_12120h598f-1721-h68i-j2cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Bookf4c1e581-0bec-4c37-9bfe-43858d2d019f ;
+    pbs:award pbs:Livrentete_BD_9_12 .
+
+pbs:Livrentete_BD_13_17120h598f-1721-g68i-j2cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2023"^^xsd:gYear ;
+    mcc:R37 schema:Book1bdd37b4-49d4-449b-a20a-a4268b2170f3 ;
+    pbs:award pbs:Livrentete_BD_13_17 .
+
+pbs:Livrentete_BD_13_17120h598b-1721-g68i-j2cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Bookee6be9d7-6cba-448b-8ca3-5d1143dc2347 ;
+    pbs:award pbs:Livrentete_BD_13_17 .
+
+pbs:Livrentete_12_14120h598b-1722-g68i-j2cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book2956a372-aa20-4181-8e05-2b1935621a45 ;
+    pbs:award pbs:Livrentete_12_14 .
+
+pbs:Livrentete_BD_7_9120h598b-1722-g68r-j2cc-656a12745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book0af437f5-0acd-4a5e-abfd-6237b731a481 ;
+    pbs:award pbs:Livrentete_BD_7_9 .
+
+pbs:Livrentete_BD_10_12120h598b-1722-g68r-j2cc-65661c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book34158f69-cdd0-4c2a-ab67-a0ad53c2f012 ;
+    pbs:award pbs:Livrentete_BD_10_12 .
+
+pbs:Livrentete_BD_Enfant120h599b-132b-g68r-j2cc-65ea1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book8d4907f4-2a6a-4fd9-a2da-634314dbcdd0 ;
+    pbs:award pbs:Livrentete_BD_Enfant .
+
+pbs:Livrentete_BD_Enfant120h599b-132b-g68r-j2cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Bookbcda8085-0952-4a07-b5d6-edc644e0ba73 ;
+    pbs:award pbs:Livrentete_BD_Enfant .
+
+pbs:Livrentete_BD_Enfant120h599b-1322-g6br-j2cc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book4649c04a-3596-47f8-82cc-099e1428a2e8 ;
+    pbs:award pbs:Livrentete_BD_Enfant .
+
+pbs:Livrentete_BD_Enfant120h599b-1322-g68r-j2cf-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Bookc32468eb-ec3c-438a-9fca-62d70adc12ec ;
+    pbs:award pbs:Livrentete_BD_Enfant .
+
+pbs:Livrentete_BD_Enfant120h599b-2322-g68r-j2kc-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book7c628a82-3ec5-45dc-aad8-ecb2f60e717b ;
+    pbs:award pbs:Livrentete_BD_Enfant .
+
+pbs:Livrentete_BD_Enfant120h599b-2322-g68r-j2cc-656s1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book00abeea2-b60a-49e4-8c28-fa7d8a260b0c ;
+    pbs:award pbs:Livrentete_BD_Enfant .
+
+pbs:Livrentete_BD_Enfant120h590b-2322-g68r-j2cc-65661c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Bookd8db1b2e-87a0-45fe-a23a-6594336945ca ;
+    pbs:award pbs:Livrentete_BD_Enfant .
+
+pbs:Livrentete_BD_Enfant120h599b-2322-g68r-j2cc-656a1c945068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Bookc5abfe96-e5d0-4ea1-a711-247f08fd513b ;
+    pbs:award pbs:Livrentete_BD_Enfant .
+
+pbs:Livrentete_BD_Enfant120h599w-2322-g68r-j2cc-65ya1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Bookddd35248-863f-430a-89c7-63952ef37046 ;
+    pbs:award pbs:Livrentete_BD_Enfant .
+
+pbs:Livrentete_BD_Enfant120h599w-2323-g68r-j2cc-656a1ck45068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Book627b74cd-72e5-40ff-a6d7-9c0ccdd54d54 ;
+    pbs:award pbs:Livrentete_BD_Enfant .
+
+pbs:Livrentete_BD_Enfant120h599w-2323-g68r-j2cb-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Bookdd4795d4-43cb-471d-8c9b-3c563b5a2fb4 ;
+    pbs:award pbs:Livrentete_BD_Enfant .
+
+pbs:Livrentete_BD_Junior120h599w-2324-g68r-u2cb-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Bookb27b4f10-d8e3-49fc-bfc0-8564438ce6b3 ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior120h599w-2324-g68r-j2cb-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book334a16c5-083d-421c-9119-804efeff65df ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior120h599w-2424-g68r-j2cb-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Bookae3df5a8-f448-4ff2-8883-be3c1b0e2db4 ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220h599w-2324-g68r-j2cb-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Book6ca668c1-cb3d-45dd-bd08-2acaa97e1046 ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220h599w-2324-g68l-j2cb-656a1c745068 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Bookd4983841-442e-45f2-8bda-f082eda15b4c ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220h599w-2324-g68r-y2cb-656a1c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Book2d05e25c-2a59-4446-82db-12a4b88ff03e ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220h599w-2324-g68r-j2cb-656a1c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Bookf19b7c6c-85f1-4833-b5ec-079c0c3aabe2 ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220h599w-2624-g68r-j2cb-656a1c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Bookb3466e94-22fa-45b7-b8f1-441e9a1f7d21 ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220f599w-2324-g68r-j2cb-656a1c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Booke50f83c8-3932-452b-a198-93ccb4d051f1 ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220f599f-2324-g68r-j2cb-656a1c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Book39262057-f30b-4854-b113-c5f41fbe3ecc ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220f599j-232u-g68r-j2cb-656a1c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Bookf1518c11-4be7-43d4-a899-cdf01406d54e ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220f599j-2324-g88r-j2cb-656a1c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Book870230fe-4158-4285-88a3-87688cae7f1a ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220f599j-2324-g8ir-j2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Booka2319re3-b884-491z-bfa3-x87f2e4d1679 ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220f599g-2324-g88r-j2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Book325ef6ef-d891-40ae-a4f8-0c05081060ab ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220f599j-2324-g88r-j2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Book2ccad50c-b9d7-486c-8706-de9388c248b1 ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220f599j-2324-g98r-j2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2005"^^xsd:gYear ;
+    mcc:R37 schema:Book1a7f847b-dfc3-4e7b-8fcf-40247ccf84bc ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220f599j-2324-g98y-j2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2004"^^xsd:gYear ;
+    mcc:R37 schema:Book6f03afbd-5af8-4fd7-9292-fa2b16b17d7e ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior220f599u-2324-g98y-j2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2003"^^xsd:gYear ;
+    mcc:R37 schema:Book2c2f99a6-28f6-4a85-8b1c-1e173652083b ;
+    pbs:award pbs:Livrentete_BD_Junior .
+    
+pbs:Livrentete_BD_Junior120f599u-2324-g98y-j2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2002"^^xsd:gYear ;
+    mcc:R37 schema:Book703c34a1-cb15-49ca-9500-b49eddad633a ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_BD_Junior120f599n-2324-g98y-j2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2001"^^xsd:gYear ;
+    mcc:R37 schema:Bookf3afcf28-43b8-49c3-8711-f3597d4de71a ;
+    pbs:award pbs:Livrentete_BD_Junior .
+
+pbs:Livrentete_Premieres_Lectures120f599n-2324-g98y-j2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book4a7de7a2-75b0-4da9-a61a-f9bd8449a29e ;
+    pbs:award pbs:Livrentete_Premieres_Lectures .
+
+pbs:Livrentete_Premieres_Lectures120f599n-2324-g98y-g2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book779805f6-d8e4-4928-9a6c-49c6b64c4bb7 ;
+    pbs:award pbs:Livrentete_Premieres_Lectures .
+
+pbs:Livrentete_Premieres_Lectures120f509n-2324-g98y-j2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book0864ce20-572d-44d8-8b99-2e29d885ed05 ;
+    pbs:award pbs:Livrentete_Premieres_Lectures .
+
+pbs:Livrentete_Premieres_Lectures220f809n-2324-g98y-j2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book0864ce20-573d-47d8-8b99-2i39d885ed00 ;
+    pbs:award pbs:Livrentete_Premieres_Lectures .
+
+pbs:Livrentete_Premieres_Lectures220f800n-2324-g98y-j2cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Bookba185647-b039-4eda-9f81-baf8b8ea2cec ;
+    pbs:award pbs:Livrentete_Premieres_Lectures .
+
+pbs:Livrentete_Premieres_Lectures220f800n-2324-g08y-j4cb-656a2c745078 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0874 ;
+    pbs:award pbs:Livrentete_Premieres_Lectures .
+
+pbs:Livrentete_Premieres_Lectures220f800n-2324-g08y-j4cb-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Book2a361854-68b7-49bc-9c73-fb3031de56a8 ;
+    pbs:award pbs:Livrentete_Premieres_Lectures .
+
+pbs:Livrentete_Premieres_Lectures229f800n-2324-g98y-j4cb-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Bookf2469473-21a9-4da1-b1a2-6bc297800e65 ;
+    pbs:award pbs:Livrentete_Premieres_Lectures .
+
+pbs:Livrentete_Premieres_Lectures229f800n-2324-g98y-j5cb-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Book870aa449-30c2-4dd8-bf42-d93ad51e55a0 ;
+    pbs:award pbs:Livrentete_Premieres_Lectures .
+
+pbs:Livrentete_Premieres_Lectures239f810n-2384-g98y-j5cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Book6e32b04f-cabb-4b8a-83db-4146b8c11b24 ;
+    pbs:award pbs:Livrentete_Premieres_Lectures .
+
+pbs:Livrentete_Premieres_BD239f910n-2384-g98y-j5cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book0af437f5-0acd-4a5e-abfd-6237b731a481 ;
+    pbs:award pbs:Livrentete_Premieres_BD .
+
+pbs:Livrentete_Premieres_BD239f911n-2384-g98y-j5cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book58a223e2-e593-4898-b912-25807acabb3f ;
+    pbs:award pbs:Livrentete_Premieres_BD .
+
+pbs:Livrentete_Premieres_BD239f918n-2384-g98y-j5cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book25baabd3-4a94-4c99-8647-9fb125c96e5b ;
+    pbs:award pbs:Livrentete_Premieres_BD .
+
+pbs:Livrentete_Premieres_BD239f218n-2384-g98y-jucx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Bookb5e1c5c0-f6d0-4cd8-af68-50a8cb7c81cd ;
+    pbs:award pbs:Livrentete_Premieres_BD .
+
+pbs:Livrentete_Roman_Enfant239f218j-2384-g98y-j5cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Booke5cdc232-c39c-4b08-8204-570fe63d8405 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f218n-2384-g98y-j5cx-h56a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Bookb5ce48fe-c31d-414a-9799-11b83905d9d7 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f2189-2384-g98y-j5cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book6de58be1-fe5b-4907-96e7-6ffc738e2eaf ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f218n-2384-g98y-j5cx-65ba2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Booka2319fe3-b884-491d-bfa3-d87f2e4d1678 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f218n-2384-g98y-j5cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Bookb0ce7f92-cc24-4010-8279-9a903d29ad2a ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239ff18n-2384-g98y-j5cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book32a721a7-4628-4e05-9bb5-ecd371e96565 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f2181-2384-g98y-j5cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Book851ad138-509e-4136-8272-ad09fa2cb37e ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f2182-2384-g98y-j5cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Book74839422-fd6e-4813-8db5-b1b865eb93d5 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f2181-2384-g9uy-j5cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Book575315be-204d-4f21-b989-b872c4b9783f ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f21bv-2384-g9uy-j5cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Book8a59342b-df7a-4f22-8e67-b4e22ee25844 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f21bv-2384-g9uy-j6cx-656a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Book3b4c2f46-49c1-4823-98be-e03eb98059eb ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f21bv-2384-g9uy-j6cx-856a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Book1d960992-74bc-410d-aa81-ade71c267c01 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f21bv-2384-h9uy-j6cx-856a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0820 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f22bv-2384-h9uy-j6cx-856a2c745178 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Book9c956bfe-17c3-40d4-b247-7b32bbb090cd ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f22bv-2384-h9uu-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Booka276a4e3-bd48-42a5-aa43-9a7e2a29f5c5 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f22bv-2384-h9uy-j6cc-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Book48b757b9-9b11-4d7b-9d52-765e7a07cb9e ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f22bv-t384-h9uy-j6cx-856o2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2005"^^xsd:gYear ;
+    mcc:R37 schema:Book0fcf12f3-38a3-47d3-a271-5996aa593e16 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f22bv-t385-h9uy-j6cx-f56a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2004"^^xsd:gYear ;
+    mcc:R37 schema:Book8d17c665-354c-4e8b-8f97-68c911327a06 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant23xf22bv-t385-h9uy-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2003"^^xsd:gYear ;
+    mcc:R37 schema:Bookfde022a1-f966-4465-82b7-cc9e9e6170ab ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f22b6-t385-h99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2002"^^xsd:gYear ;
+    mcc:R37 schema:Book6d5dc783-5fb8-4de6-a978-a50993f136e9 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Enfant239f22b6-v385-h99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2001"^^xsd:gYear ;
+    mcc:R37 schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0968 ;
+    pbs:award pbs:Livrentete_Roman_Enfant .
+
+pbs:Livrentete_Roman_Juniorj239f23b6-v385-h99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book4c6bc9a8-32c3-4678-8149-504b420782cf ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Junior1239f23b6-v385-h91y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2004"^^xsd:gYear ;
+    mcc:R37 schema:Book487317b7-2e06-4bd3-8e96-26a629abcd0e ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f24b6-v385-h99y-w6cx-856f2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Book559931c9-53b4-4c2f-9934-59af0a481079 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b6-v385-h99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Booked7a4921-0d39-4370-a445-9ca6b61df9d123 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v385-h99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book5a05583a-e669-44dd-8bca-edb522f896bf ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22h6-v485-h99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Book19df0801-ee87-4ae8-a5d6-fcfeba3c5c99 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b6-v485-h99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Booked7a4921-0d39-4370-a445-9ca6b61df9d126 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b6-v485-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book7fef0870-ed8c-4030-a875-00379b1cdbb2 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v485-y99y-j6hx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Book3eb38b45-6082-41ac-9466-0f3a7b42b283 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v485-y96y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Bookd9c7eacd-fa0e-408e-8077-aa06ece1c071 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v485-y99y-jkcx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a3e2 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v485-y99y-j6cx-856a2l745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Book20794681-c12d-4a3f-8968-3e4ba8ba0906 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f2zb7-v485-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Book6d500160-ba56-4a3b-9086-9d4921fc77ec ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-r485-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Book8a42fc76-42d7-4ae2-978c-12ef5920bc33 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v485-y99y-j6cx-857a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Bookf216a229-2a84-42a8-9c11-2dba1ad493f6 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v485-y99y-j6cx-856amc745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Bookba4fd293-68e3-47c1-96d7-a69edec20e54 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f24b7-v485-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Book919d9e04-1f68-4a71-861a-050caa3ab095 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v485-y99y-j6cx-856aac745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Book9280e482-9c5e-46c6-b6ff-7e8cc9131358 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v485-y99y-j6cx-856s2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2005"^^xsd:gYear ;
+    mcc:R37 schema:Bookf7eac893-dabd-4cc7-8041-ca6840a6a274 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v585-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2004"^^xsd:gYear ;
+    mcc:R37 schema:Book5a781dd3-2720-434a-9d0d-d6359ddf9eb5 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v485-y99y-j6cx-856a2cg45198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2003"^^xsd:gYear ;
+    mcc:R37 schema:Booka8eb6765-4abc-42ad-84ec-358f110cd27a ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v485-y99y-j6cx-856x2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2002"^^xsd:gYear ;
+    mcc:R37 schema:Bookedc38c64-e7c9-43da-b1b5-0ebee8463863 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Juniorj239f22b7-v485-y99y-j6cx-8b6a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2001"^^xsd:gYear ;
+    mcc:R37 schema:Book64aa6d89-2d67-41b8-8e0b-bc6050a06346 ;
+    pbs:award pbs:Livrentete_Roman_Junior .
+
+pbs:Livrentete_Roman_Adoj239f22b7-v485-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2021"^^xsd:gYear ;
+    mcc:R37 schema:Book2440f638-210a-459b-b1bf-408bba551559 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj239f22r7-v485-y99y-i6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Book551c8c34-7afa-4c99-aa0e-0cdb75e6476d ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj239f22r7-v485-y99y-i6cx-856i2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Book5eb05a93-b29d-44d5-8d21-f2bbb62febd6 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22b7-g485-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book17f72e91-3728-462e-8b69-b2538542fe2a ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22b7-v485-y93y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Bookc4c4b37d-7a3a-482c-9b7a-dc7a6f49b9951 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22b7-v455-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Booka0f54ea1-acb0-4f10-b448-346f5c981a6d ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22b7-v485-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book294e7ba9-7c85-4883-8249-653624fdb602 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22bb-v4j5-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0w5f35ec ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22gb-v485-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Book34e6bd7d-7f54-43d3-84b6-c7ac2dbe4643 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22bb-v485-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Bookdfc09284-ef81-4d9e-aa8a-3a3dce9fe7b4 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22bb-v486-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Bookbe6e14da-648f-48e2-bea6-181531f61296 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22bb-v486-997y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Bookf6eb027e-3d81-4df0-92da-7e32b5b38459 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f23bb-v486-y99y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Book284ca9d0-691b-4bc2-87f5-fd6b2461e2a6 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22bb-v486-y97y-j6cx-856ayc745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Book51e3e202-a6ec-499f-b29b-57eb537c837b ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22bb-v486-y97y-j6cx-856a28745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Book6d19a6d0-6bc9-48c1-b692-e81fd35a7ac8 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22lb-v486-y97y-j6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Bookb6ee6576-5df3-4127-aa5a-6de81a1730f5 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj232f22bb-v486-y97y-v6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Book737ec1dd-8a61-455a-8701-1e0d142b8ae0 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Roman_Adoj233f22bb-v486-y97y-v6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Book17d75861-735f-4c68-9f8e-487f2a0fb5b4 ;
+    pbs:award pbs:Livrentete_Roman_Ado .
+
+pbs:Livrentete_Livre_Imagej233f22bb-v486-y97y-v6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book78fcf212-457d-4a78-971d-ddb857e61ea7 ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f22bb-x486-y97y-v6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Booked7a4921-0d39-4370-a445-9ca6b61df9d1575 ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f29bb-v487-y97y-v6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Book63bfb41d-65c4-447e-8606-620f672c0a78 ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f29bb-v486-y97y-v6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f495 ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f39by-v486-y97y-v6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Bookef8ead15-a740-4bad-9fc1-3c9f6fcd71e8 ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f29by-v486-y97y-v6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0d5f49f ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f29ty-v486-y97y-v6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Book2ab25bb0-2f1b-49ee-9b2e-f633013eca36 ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f20by-v486-y97y-v6cx-156a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Booka5fd4186-6927-4dfe-86ef-1e7a62d9c364 ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f20by-v486-y97y-v6cx-u56a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Bookd3c53173-b957-4585-b4ee-957c3797b9bc ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f20by-v486-y97y-v6cx-z56a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Book96e4f2ef-d614-4194-a4c9-c4318078c716 ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f20by-v486-y97y-v6cx-x56a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Bookbc842f62-5db2-4f04-9ce4-9813d0e170d0 ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f20by-v486-y97y-v6cx-856amc745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2005"^^xsd:gYear ;
+    mcc:R37 schema:Booked7a4921-0d39-4370-a445-9ca6b61df9d36 ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f20by-v486-y97y-v6cx-w56a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2004"^^xsd:gYear ;
+    mcc:R37 schema:Book14ee6908-0908-4ac1-8b91-720fd740737f ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f20by-v486-y97y-v6cx-856a2h745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2003"^^xsd:gYear ;
+    mcc:R37 schema:Bookce43d44a-87ca-49c8-98ed-a1ad1905e746 ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f20by-v486-y97y-v6cx-856e2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2002"^^xsd:gYear ;
+    mcc:R37 schema:Book53bb7b03-57d7-4431-8a0d-e4938b152fb4 ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Livrentete_Livre_Imagej233f20by-v486-y97y-v6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2001"^^xsd:gYear ;
+    mcc:R37 schema:Book006d3b7e-7bf1-46b3-bb68-b89edc56c93d ;
+    pbs:award pbs:Livrentete_Livre_Image .
+
+pbs:Prix_Desjardins00da633f74554ce4829536a218ebc2a6 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Book9a688f73-cabb-4bc2-9ef2-23ee048c690f ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins0608215b8bd94bd8b331b1a42aa65605 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Book46b49d42-836b-4bbf-ba5d-2274822b68f8 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins064dc45320614c759e16d96b13cf81fc a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1992"^^xsd:gYear ;
+    mcc:R37 schema:Book4f99d5e1-afcd-468b-86cb-4375e3d13cfc ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins087f75839d974d9bbb24164f13e58074 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2000"^^xsd:gYear ;
+    mcc:R37 schema:Book722ed158-4d5e-4ce7-b075-b8c8ee1c4aab ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins08e52729b1904ecea5a432f660f9d5b5 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2000"^^xsd:gYear ;
+    mcc:R37 schema:Bookb1b97cfc-02c0-425e-ae05-a27fa664acc3 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins093a91433b254d869dd4f3944fcb1b10 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Bookb5f879f7-96e1-413e-b2c4-62566d5794bc ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins11375a598ec14b838e283ec399c6699f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1989"^^xsd:gYear ;
+    mcc:R37 schema:Book74df237e-b5b5-46e0-9dd8-d6c928cadaf0 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins15359d9996e2484daf77f98bda0beb32 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Bookacf0428f-1ebc-4f14-b2b8-1424c5dec9d0 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins17b912e8f5a74d7f8e6f76078efc5fad a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Booka31b055c-e548-4a28-b29c-124fb387918a ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins17ee6a24decc4aa7b15586a7a819d968 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1991"^^xsd:gYear ;
+    mcc:R37 schema:Booka7e6c609-2f28-40ce-bb82-f156244e710e ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins19adf2eb907e4bdf9eb56bf845609b98 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1984"^^xsd:gYear ;
+    mcc:R37 schema:Bookfdea249f-96d3-45b1-b448-d0abab8a773c ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins19df5734f5cc4b6a9116f31c0ec9a130 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1995"^^xsd:gYear ;
+    mcc:R37 schema:Booka06375a1-d473-43fd-9b35-15a19b192424 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins1a03c7c9df454ac5a9d26d2c39743a93 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book82820f31-ba4a-4433-b3c2-bd83e2533a41 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins1aac5fcdb6ec4508afff9a6019115415 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1998"^^xsd:gYear ;
+    mcc:R37 schema:Bookfa193b9c-ed81-40ca-9a46-60e2eaea20a4 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins1f921e69be014f13aabcf3e0933af4ae a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2001"^^xsd:gYear ;
+    mcc:R37 schema:Bookaedee508-ea4a-4d38-bdf4-9d2a8e541bc2 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins1fe65d34902a4e078035a17b71a9892d a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Bookd68d98d3-bd34-4df8-b24a-22573fbfe145 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins20747a693ae540c986d794c2f23b5f41 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1997"^^xsd:gYear ;
+    mcc:R37 schema:Bookb3a2612b-336e-4648-b76b-204105e002e6 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins209e93cd2cc0496bb15ac715b43b6603 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1994"^^xsd:gYear ;
+    mcc:R37 schema:Bookc057e8c1-fe61-409f-9a39-5d3dba51c243 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins21a5465fa6204300bf91bba8554b40e4 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Bookc9e717a1-7085-473d-b023-cb2c1ddf8550 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins220ffb00aaab4a46875d1d2761923745 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Book2ef9b58f-8097-48ed-8bdc-bb1d92ccb8c4 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins22a6682dc3874e02905c5fe3b1e84466 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1999"^^xsd:gYear ;
+    mcc:R37 schema:Bookce3edfcf-cd52-4a57-95cc-f63fd2568f66 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins26b966e8f41e4a9e89c9ce899744124a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2003"^^xsd:gYear ;
+    mcc:R37 schema:Bookd9f50f45-2634-477b-8862-615c06f94f40 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins2751a28849ba41e7a7251b57b66df7ad a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Bookec61b644-4258-4bc9-bdab-091c899ffdc6 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins2f35c9ec25474be9a5f2fa1b8c28f911 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1992"^^xsd:gYear ;
+    mcc:R37 schema:Book527c7fac-c19c-47f1-9096-75a9748f9a23 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins2f4506d27f734a7baafc1512a0d09700 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book073ac32f-e524-460f-9a56-08176bc82407 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins34313b1fd4b9433ab8262e5830e730e3 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book185db67a-1f8c-45d4-a351-bcbfb3dfcbe8 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins36be36a06e2f4ed58dfe49aa6abacbae a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1991"^^xsd:gYear ;
+    mcc:R37 schema:Book1d8a3da2-68f7-49b6-83bf-1897848dc7f5 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins36f729a48f074863b97bd831ea859433 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Bookf18da008-dd56-48c9-8013-b55eb9272a65 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins3d4d734ff9ab48c183ab479950eee805 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1998"^^xsd:gYear ;
+    mcc:R37 schema:Bookd6e37f5d-a382-413a-9652-9ce0557c11fd ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins40805aa3b61643398aa74c56209c1764 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1989"^^xsd:gYear ;
+    mcc:R37 schema:Book710dd7e8-d775-4c02-bd0b-bd4621866ab7 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins422757dfa86e432f8eb0f52d29152080 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1990"^^xsd:gYear ;
+    mcc:R37 schema:Book3dfcaf02-02a6-4a7c-aba3-ccfbccc153ff ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins42f429df8b844faea7db3db2eaf5add7 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Booke4debad9-9f94-4b4b-aef5-c30cc89d7d81 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins4a2518a917234952a2bdd869f1651aab a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Book3a5e8f4f-a2d0-4c60-b054-678f2ec7917f ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins4aa63135c07f4615820b5773ae76a0ed a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Book22dded32-d7d1-427e-a4a7-ec3547acc7fb ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins4bb5059deabd40e7842c2e9c6e3f2b4f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1986"^^xsd:gYear ;
+    mcc:R37 schema:Book428c7fde-8e39-496c-9ba0-8c2293e48129 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins4d824ca4ea9e470c97fe0113a70f72b5 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Book39d4410a-a606-46c5-8a18-123172c228a8 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins4e2b34000c8442f0b778759b83ba80a2 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2012"^^xsd:gYear ;
+    mcc:R37 schema:Book46eed6c2-f500-46e5-8a0c-0de33dffe7a7 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins522147b5d61143b8825fa741b0de53f8 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2011"^^xsd:gYear ;
+    mcc:R37 schema:Booka5db3c80-a0a0-4b62-996f-7c43133b0407 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins54ebd00e5a3540eaaa9680b3aedb31de a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2002"^^xsd:gYear ;
+    mcc:R37 schema:Book520944df-f1d8-445e-b375-2f134c73b8f2 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins5bc6e0ed07bf4d36b6817f3ed5135787 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2000"^^xsd:gYear ;
+    mcc:R37 schema:Book9c63a6de-ef66-4dc6-ab31-154bc7f11acd ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins5d70520d2bdf4bdba07e9925f442f95b a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1995"^^xsd:gYear ;
+    mcc:R37 schema:Bookec4b62ef-82fd-4f13-bf61-47960fb03a8f ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins5df9c7647d2e44a8b4560a8f010248de a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1989"^^xsd:gYear ;
+    mcc:R37 schema:Book0a28e168-b58a-4f1c-a13e-5a459a82d849 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins5e688e074f304627a274968b8382a8af a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1997"^^xsd:gYear ;
+    mcc:R37 schema:Bookb5cd074f-1b68-4d45-bd9b-cd529dc304c7 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins5f34ded1a6ef4eada6cb4af2c5ea77ea a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Booke20699e9-ebda-4033-a9d9-c6bdab640b40 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins5f80715b6b59455cbb0af415827c0746 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1987"^^xsd:gYear ;
+    mcc:R37 schema:Book9b302243-b6e7-4ccf-ba8d-843d3005c303 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins622a13fe240d40e8b9a682e5e47c8537 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2003"^^xsd:gYear ;
+    mcc:R37 schema:Book10473306-d822-4eae-8875-1ef7b3c5e480 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins62fb02c8fa504d9f8484ed44b3174ab0 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Book7737bc11-5186-4ee0-b1ad-601371ea6403 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins64d27f502e3a4b8fae916fdf73bd7c9a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Book9ed3ae0d-07c2-4c43-8792-55ef6fb2ea73 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins65456b9ab9904029a72064ff89511d60 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1996"^^xsd:gYear ;
+    mcc:R37 schema:Book633dd30c-fb92-4715-8094-f8c703189bba ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins66975387486148cb8ad248c8b237aff6 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Book3fceb6e5-f791-4817-952e-f19bc60c0b9f ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins685d3297ae78444bbb865e09113b66b1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2003"^^xsd:gYear ;
+    mcc:R37 schema:Book284ab613-92ab-432d-a3c1-44966163bc6a ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins6ed25d2fca764af2b105d42a7a740758 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1995"^^xsd:gYear ;
+    mcc:R37 schema:Book7ea328c2-0ccb-4f06-af59-e015d9283948 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins71d4676bc3094d8a8254c0d53c147f63 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Book4d8deb21-a415-4d44-aaea-235fb177141a ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins71fd191df1f2450ebbfa04f6a01de268 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2007"^^xsd:gYear ;
+    mcc:R37 schema:Bookf3c1f975-c7ee-4bd2-bcb6-7723e9ca27be ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins72fd45a835724280aa78e037a18a1f94 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1997"^^xsd:gYear ;
+    mcc:R37 schema:Book8982455f-e3db-42a7-b22f-fcc099b964ed ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins7a3a14c18c8c4c118873f5d7e4abb79e a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2005"^^xsd:gYear ;
+    mcc:R37 schema:Bookfa8fbef0-0bba-4cbc-b632-2fd1a54fc028 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins7a8c053eb24a43378a515944d5dd9a16 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1991"^^xsd:gYear ;
+    mcc:R37 schema:Bookf38e14dc-7e64-405a-bd05-6ec54c33dee0 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins7cddac6bbd5048e88af64602103a2b4b a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1993"^^xsd:gYear ;
+    mcc:R37 schema:Book8be4d01a-8597-4a4b-9446-bf6deef6a3ff ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins7f4e79c6240e45dfa4ab48a1a65cc61a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1994"^^xsd:gYear ;
+    mcc:R37 schema:Book0079fc2e-f0ea-4dea-b146-d025ba1a5b0f ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins8030be1a4dc6444197faf60eb796c5e9 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Book361ec28b-e212-4421-83bc-6c7631ac5820 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins8680a7453c8747cd9eb5a1a84a9e9a75 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Booka16c55df-cc4b-476f-89b2-53218ec22893 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins8884e744b7a3437f8f0b5685ff639b83 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1998"^^xsd:gYear ;
+    mcc:R37 schema:Bookf8a64583-075e-4832-bf1b-c161763aa9d3 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins89a90fcc0ebd418f968d130fb0357d0f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2001"^^xsd:gYear ;
+    mcc:R37 schema:Book46e71260-e67e-4ba3-a0db-3fe797e1c5ad ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins89f04c3251d5472c918986643b575b3f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Book3a8b4226-3e7a-4cd8-895e-1dc799fad6b5 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins8a0cc091e33e4c9b92be0a05f1558199 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2005"^^xsd:gYear ;
+    mcc:R37 schema:Book7c1ca033-4d88-47aa-ac70-03d9c9845df0 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins8b3e485f1f1d4202af8d2f66ca65c7b2 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1993"^^xsd:gYear ;
+    mcc:R37 schema:Bookc32d8520-1537-4acd-980a-5ee7ca4eaa15 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins8ff663feee874195ad2af85b75ea7e16 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1993"^^xsd:gYear ;
+    mcc:R37 schema:Book12af92d2-138a-4c61-849d-ba9f4dd84ba7 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins913fa1d1b99b4a4b99c8b24ab1ae6382 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2004"^^xsd:gYear ;
+    mcc:R37 schema:Book4682a644-f1a8-4477-b192-a3ad2c4e528d ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins9283d4b4396a4a33a60f528965b1c343 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1996"^^xsd:gYear ;
+    mcc:R37 schema:Booka140919b-41c1-4a96-b9ab-5b40671e7926 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardins9d760fa8422a43c2bcc054904016ae94 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Bookb482c9ce-9032-4461-b638-5b9fe79442d5 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsa14fb6ece5b840a88c9e3a2f88aacd31 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Bookef0e4f94-3e8d-4afd-9fb4-afc072c71e93 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsa2f9fb2fdd8a4adb9be6bcbc4ffbbe6f a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2006"^^xsd:gYear ;
+    mcc:R37 schema:Book3661552f-e694-4e09-89a4-95fa3ff14888 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsa78fa3d8942e43eca79ded62ee358fb2 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Book46322b63-1a85-403e-a079-873a7ddf956d ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsa98ba518dd5e47c1ac924c6f66006d12 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1999"^^xsd:gYear ;
+    mcc:R37 schema:Book9b64147b-9ed6-4348-bf9c-d8528e9c2063 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsaac42d5ef350491b9579640027b21cfa a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1994"^^xsd:gYear ;
+    mcc:R37 schema:Booka4dafb4f-f72d-4af7-b94c-94be7340fae2 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsad75354ad7564e9c805562edce62b28e a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1994"^^xsd:gYear ;
+    mcc:R37 schema:Book834589e9-2983-4f09-91c1-69dffd90feb5 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsb2f27c4ba0614369a17cfac03bca1a29 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2009"^^xsd:gYear ;
+    mcc:R37 schema:Bookcca6c3b1-230a-43ae-b55d-f200b0e73be0 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsb53b9b4f6e7d4c7f8cb4955fa4823503 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1988"^^xsd:gYear ;
+    mcc:R37 schema:Book162cbf06-f82f-4c59-aaa6-ac2c10da06ca ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsb763820b648a471a99d435f24c8f9a6c a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Book307c5e35-9b68-4187-a485-857a9142be6b ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsbb77fbd0a0c24495a087067b9cf27d8b a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1985"^^xsd:gYear ;
+    mcc:R37 schema:Book7e6d68d4-c223-47f9-9b46-98d0c96649b3 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsbdb0c1a32efb432d93c516ba235aab55 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1992"^^xsd:gYear ;
+    mcc:R37 schema:Book1323a000-b9a9-4403-b59a-4cfd53c0e72d ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsbe4ba0add30d48b18fc3d634bf121a01 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1995"^^xsd:gYear ;
+    mcc:R37 schema:Book2c2e0a43-95ef-4f8c-b5b4-02d093d13710 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsc003cf6f51334328a6032155816273f4 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2013"^^xsd:gYear ;
+    mcc:R37 schema:Booke812f74c-25aa-46d6-843c-59626f3b696e ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsccefee07e846465ea4fbf95dbaa29d56 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2015"^^xsd:gYear ;
+    mcc:R37 schema:Bookfe016209-e66b-4f2c-b682-f5fb8a3ecb60 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsd38e617c51624df19c8c28e22464d012 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1990"^^xsd:gYear ;
+    mcc:R37 schema:Book4c394307-a300-4453-88c8-23d43dc78769 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsd5ba16fa22ab4d8f9b3c0837f7152452 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2005"^^xsd:gYear ;
+    mcc:R37 schema:Book7f0ade3c-26bf-4fad-866c-289ab04c9422 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsd6207defa9674ec49ae12a046a9267b9 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2002"^^xsd:gYear ;
+    mcc:R37 schema:Book75df69b1-838a-491e-8cde-ed3746bf8e60 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsd7437bdb51644f84a41ff19f40153656 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2004"^^xsd:gYear ;
+    mcc:R37 schema:Book79e9a997-99a7-4952-8d23-0bf199238c02 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsda1bef433a18462cb06662b2ec90f6d0 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2002"^^xsd:gYear ;
+    mcc:R37 schema:Book37754cd4-3f0d-4ca4-9d77-088f12ea87ac ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinse12c6ab916fe416281e7e0d077726c9a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2010"^^xsd:gYear ;
+    mcc:R37 schema:Bookd413d02a-da3e-4589-ae54-2ae117c38857 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinse4b534c0fc0f48358e1a231b8830f71d a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1996"^^xsd:gYear ;
+    mcc:R37 schema:Book6c5a4d74-ec42-47f2-84a8-4d9a23bad936 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinse991b0d143f841da9b92c4931706eb08 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1999"^^xsd:gYear ;
+    mcc:R37 schema:Bookdc09d4ac-4a40-49d5-a628-cd24c6bca286 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinseee724c1d10d4ae48c83856aaaea55a9 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Booke242c366-4458-4fab-9607-82a38a216294 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsf2c060765b3147418b3f931e16c75f29 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2001"^^xsd:gYear ;
+    mcc:R37 schema:Book88e9a9b1-637d-410d-9463-1fbdda9ef149 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsfaebbe34aa004a44aa79e50ed3174e5a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2004"^^xsd:gYear ;
+    mcc:R37 schema:Book027c769f-48c3-4056-8d2a-4c315e2db038 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsfc5195ade89c41038a18bb10faf18b4d a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2014"^^xsd:gYear ;
+    mcc:R37 schema:Bookc5f22f9d-641b-4d4b-8c02-4c7d132c4a07 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Desjardinsfd6aa4cdc5e74e54818ed135c9b5ed56 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1990"^^xsd:gYear ;
+    mcc:R37 schema:Book9062559d-61f9-441f-a537-704fa3234d46 ;
+    pbs:award pbs:Prix_Desjardins .
+
+pbs:Prix_Monique_Corriveauj233f20by-v487-y97y-g6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1993"^^xsd:gYear ;
+    mcc:R37 schema:Book4f7a444c-39fa-4ff1-8820-2240d85ea3ca ;
+    pbs:award pbs:Prix_Monique_Corriveau .
+
+pbs:Prix_Monique_Corriveauj233f20by-v487-y92y-v6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1992"^^xsd:gYear ;
+    mcc:R37 schema:Book32e64132-0dd0-4d79-ac0f-3bb41b27cb2d ;
+    pbs:award pbs:Prix_Monique_Corriveau .
+
+pbs:Prix_Monique_Corriveauj233f20by-v487-y97y-v6cx-856a2c745198 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "1991"^^xsd:gYear ;
+    mcc:R37 schema:Bookd419e8c3-7388-49c3-9df7-b5f1cf63ea47 ;
+    pbs:award pbs:Prix_Monique_Corriveau .
+
 pbs:Baobab_De_L_album110e597a-0d18-468f-a57c-656a1c745068 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2011"^^xsd:gYear ;
     mcc:R37 schema:Book5d46f4e3-1062-48d9-9e6e-6eae2db5a439 ;
@@ -7106,7 +9126,7 @@ pbs:Prix_Des_Incorruptibles02ee0d7b-a0b9-49d5-afba-87657495319f a mcc:MCC-E12 ;
 
 pbs:Prix_Des_Incorruptibles031a3630-0888-4e35-84d9-37ecc03289fc a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2016"^^xsd:gYear ;
-    mcc:R37 schema:Booked7a4921-0d39-4370-d445-9ca6b61df9d6 ;
+    mcc:R37 schema:Bookc5b086f3-3e75-4e98-aa8e-7cdd0w5f35ec ;
     pbs:award pbs:Prix_Des_Incorruptibles .
 
 pbs:Prix_Des_Incorruptibles045f0b99-5f38-4a29-972e-de6a78a51e00 a mcc:MCC-E12 ;
@@ -11947,6 +13967,71 @@ pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel04aa705a-e178-4f44-a0d1-38801391e
     mcc:R37 schema:Book73ebbb94-d5ee-41ab-98d6-f0ad196c261f ;
     pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17 .
 
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel04aa705a-e178-4f44-a0d1-h8801391ef7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Bookc74928a0-714d-4e39-aa52-d4637b4bea22 ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17 .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel04aa705a-q179-4f44-a0d1-38801391ef7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book80a2861d-acae-44ba-aea6-ad2ae267d7e1 ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17 .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel04aa705y-e178-4f44-a0d2-38801391ef7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2008"^^xsd:gYear ;
+    mcc:R37 schema:Book7a0c6629-1f5b-41cc-8c02-7833a2e0772a ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel04aa705a-e178-4f45-a0d1-39801391ef7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book6afa2061-b7c1-4daf-8195-af028ce61fa1 ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17 .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel04aa705a-r178-4f45-a0d1-39801391ef7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2019"^^xsd:gYear ;
+    mcc:R37 schema:Book6ed1b09d-f299-4c1c-84b3-56e0555b2962 ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Poesie .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel04aa705a-r178-4f45-a0d1-39801391ec7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Bookcfa98e01-25a6-4625-af48-c60a61a2e8ba ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Poesie .
+
+pbs:Prix_Livrentête04aa705a-r178-4f45-o0d1-39801391ec7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2016"^^xsd:gYear ;
+    mcc:R37 schema:Bookddf9aed5-14cf-4a7c-a2c1-791e662f943c ;
+    pbs:award pbs:Prix_Livrentête_Bandes_Dessinées_Juniors_12_Ans_Et_Plus .
+    
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel14aa705a-e17j-4f44-a0d1-38801391ef7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2018"^^xsd:gYear ;
+    mcc:R37 schema:Book10620755-6ebc-4744-8da7-474dab188ae6 ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17 .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel34aa705a-e17j-4f44-a0d1-38801391ef7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book18679cd9-c7cc-48e1-9c6f-129fcc078169 ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17 .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel34ya705a-e17j-4f44-a0d1-38801391ef7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Book21f8e4cd-f287-4a46-839e-10318a70cc75 ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Roman_9_12 .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel34ya706a-e17j-4f44-a0d1-38801391ef7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book320ffa6c-ba96-4dde-903b-8207c18ac48c ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Album_5_12 .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel34ua706a-e17j-4f44-a0d1-38801391ef7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2022"^^xsd:gYear ;
+    mcc:R37 schema:Book3c5357e1-835e-4ebb-8ae4-7da53185d3a6 ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel36ua706a-e17j-4f44-a1d1-38801391ef7a a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2017"^^xsd:gYear ;
+    mcc:R37 schema:Book40b64909-9d22-496d-ad11-52dcbeaca9ff ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Poesie .
+
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel073239a1-8f9e-4bb3-97af-68d533188142 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1992"^^xsd:gYear ;
     mcc:R37 schema:Book32e64132-0dd0-4d79-ac0f-3bb41b27cb2d ;
@@ -11955,6 +14040,11 @@ pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel073239a1-8f9e-4bb3-97af-68d533188
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel314bf078-fbb6-4c11-a95c-5356493496a1 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "2018"^^xsd:gYear ;
     mcc:R37 schema:Book1e94aab0-0497-48d7-a8aa-0e1a102f4e0b ;
+    pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8 .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel314bf078-fbb6-4c11-a95c-53564i3496a1 a mcc:MCC-E12 ;
+    mcc:MCC-R35-4 "2020"^^xsd:gYear ;
+    mcc:R37 schema:Booke228702e-81d2-4e56-b791-7551f7e0d643 ;
     pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8 .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel35c5473a-94da-4cf9-95f3-c52dfa016c46 a mcc:MCC-E12 ;
@@ -12039,7 +14129,7 @@ pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anelac1dfea0-6a57-4247-99d9-bd8e0fc7e
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anelb4f69ea8-6795-4252-84ae-9714f6151344 a mcc:MCC-E12 ;
     mcc:MCC-R35-4 "1994"^^xsd:gYear ;
-    mcc:R37 schema:Bookc800e878-178f-423c-ac53-ddd9ef054208 ;
+    mcc:R37 schema:Book0079fc2e-f0ea-4dea-b146-d025ba1a5b0f ;
     pbs:award pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel .
 
 pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anelc693d152-8777-42bc-878a-1c9989f15155 a mcc:MCC-E12 ;
@@ -22099,6 +24189,210 @@ pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Poesie a pbs:Award ;
 pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Roman a pbs:Award ;
     pbs:genreLittéraire pbs:ROMAN ;
     schema:name "Prix Littéraires du Gouverneur Général du Canada - Roman" .
+
+pbs:Livrentete a pbs:Award ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:description "L'Union Nationale Culture et Bibliothèques Pour Tous organise chaque année le Prix Livrentête, avec le soutien du Ministère des Sports, de la Jeunesse, de l'Education populaire et de la Vie associative. Le Prix Livrentête a pour objectif de faire lire aux jeunes des livres de qualité et découvrir le travail des auteurs, illustrateurs et éditeurs. Il permet de développer leur sens critique et d’exprimer leur avis sur la littérature jeunesse actuelle. D’ampleur nationale, il peut être organisé dans tous les lieux accueillant des jeunes : bibliothèques CBPT, bibliothèques et médiathèques municipales, établissements scolaires, centres de loisirs, etc. Il se décline en 7 catégories : Livres d'images ( de 4 à 7 ans). Les enfants lisent les livres, accompagnés ou non d'un adulte, mais sont seuls à voter. Premières lectures (de 7 à 9 ans), Romans Enfants (de 9 à 11 ans), Romans Juniors (de 12 à 14 ans), Romans Ados (14 ans et plus), Bandes Dessinées Enfants (de 9 à 11 ans), Bandes Dessinées Juniors (à partir de 12 ans). Pour chacune, une liste de 5 titres est établie par une commission de bibliothécaires spécialisés. Chaque participant vote pour son titre préféré dans la ou les catégories choisies. En 2013, près de 18'000 jeunes de toute la France (métropolitaine et outre-mer) ainsi que des établissements scolaires français à l'étranger (Grande-Bretagne) y ont participé." ;
+    schema:name "Prix Livrentête" .
+
+pbs:Livrentete_Album_3_4 a pbs:Award ;
+    pbs:groupeAge "3",
+        "4" ;
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE ;
+    schema:name "Prix Livrentête - Album" .
+
+pbs:Livrentete_Album_5_6 a pbs:Award ;
+    pbs:groupeAge "5",
+        "6" ;
+    pbs:genreLittéraire pbs:ALBUM_FRANCOPHONE ;
+    schema:name "Prix Livrentête - Album" .
+
+pbs:Livrentete_Album_7_8 a pbs:Award ;
+    pbs:groupeAge "7",
+        "8" ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Livrentête - Jeunesse" .
+
+pbs:Livrentete_Album_9_10 a pbs:Award ;
+    pbs:groupeAge "9",
+        "10" ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Livrentête - Jeunesse" .
+
+pbs:Livrentete_Album_11_12 a pbs:Award ;
+    pbs:groupeAge "11",
+        "12" ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Livrentête - Jeunesse" .
+
+pbs:Livrentete_Album_13_14 a pbs:Award ;
+    pbs:groupeAge "13",
+        "14" ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Livrentête - Jeunesse" .
+
+pbs:Livrentete_Album_15_17 a pbs:Award ;
+    pbs:groupeAge "15",
+        "16",
+        "17" ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Livrentête - Jeunesse" .
+
+pbs:Livrentete_BD_9_12 a pbs:Award ;
+    pbs:groupeAge "9",
+        "10",
+        "11",
+        "12" ;
+    pbs:genreLittéraire pbs:BD ;
+    schema:name "Prix Livrentête - BD" .
+
+pbs:Livrentete_BD_13_17 a pbs:Award ;
+    pbs:groupeAge "13",
+        "14",
+        "15",
+        "16",
+        "17" ;
+    pbs:genreLittéraire pbs:BD ;
+    schema:name "Prix Livrentête - BD" .
+
+pbs:Livrentete_12_14 a pbs:Award ;
+    pbs:groupeAge "12",
+        "13",
+        "14" ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Livrentête - Jeunesse" .
+
+pbs:Livrentete_BD_7_9 a pbs:Award ;
+    pbs:groupeAge "7",
+        "8",
+        "9" ;
+    pbs:genreLittéraire pbs:BD ;
+    schema:name "Prix Livrentête - BD" .
+
+pbs:Livrentete_BD_10_12 a pbs:Award ;
+    pbs:groupeAge "10",
+        "11",
+        "12" ;
+    pbs:genreLittéraire pbs:BD ;
+    schema:name "Prix Livrentête - BD" .
+
+pbs:Livrentete_BD_Enfant a pbs:Award ;
+    pbs:groupeAge "9",
+        "10",
+        "11" ;
+    pbs:genreLittéraire pbs:BD ;
+    schema:name "Prix Livrentête - BD" .
+
+pbs:Livrentete_BD_Junior a pbs:Award ;
+    pbs:groupeAge "12",
+        "13",
+        "14" ;
+    pbs:genreLittéraire pbs:BD ;
+    schema:name "Prix Livrentête - BD" .
+
+pbs:Livrentete_Premieres_Lectures a pbs:Award ;
+    pbs:groupeAge "7",
+        "8",
+        "9" ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Livrentête - Jeunesse" .
+
+pbs:Livrentete_Premieres_BD a pbs:Award ;
+    pbs:groupeAge "7",
+        "8",
+        "9" ;
+    pbs:genreLittéraire pbs:BD ;
+    schema:name "Prix Livrentête - BD" .
+
+pbs:Livrentete_Roman_Enfant a pbs:Award ;
+    pbs:groupeAge "9",
+        "10",
+        "11" ;
+    pbs:genreLittéraire pbs:ROMAN ;
+    schema:name "Prix Livrentête - Roman" .
+
+pbs:Livrentete_Roman_Junior a pbs:Award ;
+    pbs:groupeAge "12",
+        "13",
+        "14" ;
+    pbs:genreLittéraire pbs:ROMAN ;
+    schema:name "Prix Livrentête - Roman" .
+
+pbs:Livrentete_Roman_Ado a pbs:Award ;
+    pbs:groupeAge "14",
+        "15",
+        "16",
+        "17" ;
+    pbs:genreLittéraire pbs:ROMAN ;
+    schema:name "Prix Livrentête - Roman" .
+
+pbs:Livrentete_Livre_Image a pbs:Award ;
+    pbs:groupeAge "4",
+        "5",
+        "6",
+        "7" ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:name "Prix Livrentête - Jeunesse" .
+
+pbs:Prix_Desjardins a pbs:Award ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:description "Prix créé en hommage à l’écrivaine québécoise pour la jeunesse Monique Corriveau. À compter de 1993, le prix a été intégré aux Prix littéraires Desjardins, sous la catégorie «Littérature jeunesse» et était remis au Salon international du livre de Québec récompensant le premier ou le deuxième livre d’un auteur. Le lauréat se mérite une bourse de 2 000 $ offerte par la Fondation Desjardins en collaboration avec la Caisse centrale Desjardins." ;
+    schema:name "Prix Desjardins" .
+
+pbs:Prix_Monique_Corriveau a pbs:Award ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:description "Prix créé en hommage à l’écrivaine québécoise pour la jeunesse Monique Corriveau. À compter de 1993, le prix a été intégré aux Prix littéraires Desjardins, sous la catégorie «Littérature jeunesse» et était remis au Salon international du livre de Québec récompensant le premier ou le deuxième livre d’un auteur. Le lauréat se mérite une bourse de 2 000 $ offerte par la Fondation Desjardins en collaboration avec la Caisse centrale Desjardins." ;
+    schema:name "Prix Monique-Corriveau" . 
+
+pbs:Prix_Astrid_Lindgren a pbs:Award ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:description "Pour honorer la mémoire d'Astrid Lindgren, créatrice de Fifi Brindacier et promouvoir la littérature pour l'enfance et la jeunesse dans le monde, le gouvernement suédois a institué un prix international en son nom : le Prix commémoratif Astrid Lindgren (« Astrid Lindgren memorial award » ALMA). Ce prix récompense les auteurs d’enfance et de jeunesse. Il s’agit du prix le plus important réservé à la littérature pour enfant et pour la jeunesse du monde. Il s'agit également du second prix littéraire mondial en termes de récompense financière, après le prix Nobel de littérature." ;
+    schema:name "Prix Astrid Lindgren" . 
+
+pbs:Prix_Hans_Christian_Andersen a pbs:Award ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:description "La Médaille Hans Christian Andersen est décernée par l’IBBY (l'International Board on Books for Young People) depuis 1956 tout les deux ans. Elle est le prix international le plus prestigieux accordé à un auteur et un illustrateur pour enfants pour l’intégralité de leurs œuvres." ;
+    schema:name "Prix Hans Christian Andersen" .
+
+pbs:La_Grande_Ourse a pbs:Award ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:description "La Grande Ourse est une distinction décernée par l’équipe professionnelle du Salon du livre et de la presse jeunesse de Montreuil et le bureau de l’association qui le produit. Cette récompense vient «enluminer» l’œuvre d’une autrice, un auteur, une illustratrice, un illustrateur francophone dont l’écriture, le geste, la créativité, d’une ampleur ou d’une audace singulière marque durablement la littérature jeunesse. En écho aux Pépites du Salon qui font scintiller 5 nouveautés éditoriales repérées par les comités de lecture du Salon dans la constellation de la littérature jeunesse, La Grande Ourse appelle à lever les yeux au firmament pour souligner ce qu’une kyrielle d’étoiles déjà installées forment ensemble comme chemin d’inspiration. Annoncée chaque 20 novembre, jour anniversaire de la Convention Internationale des Droits de l’enfant, cette récompense vise à amplifier la notoriété internationale du créateur distingué. Avec son éditeur, pendant un an, le Salon du livre et de la presse jeunesse en Seine-Saint-Denis accompagnera la créatrice ou le créateur sur la scène internationale, avec de multiples temps et initiatives dont la Foire Internationale du livre de Bologne. L’institut français, partenaire de l’opération, contribuera à cet accompagnement inédit." ;
+    schema:name "La Grande Ourse" .
+
+pbs:Premio_Internacional_De_Illustracion_Feria_De_Bolonia a pbs:Award ;
+    pbs:genreLittéraire pbs:ILLUSTRATION ;
+    schema:description "En 2009, Le Salon International du Livre pour Enfants de Bologne, reconnu pour son intérêt particulier pour l'illustration du livre pour enfants, et la Fundación SM, dont l'objectif est de promouvoir les livres et la littérature enfantine, ont créé ce nouveau prix afin de donner un élan et reconnaitre le travail des illustrateurs de moins de 35 ans. Ce prix remplace le Premio Internacional de Ilustración organisé par la Fundación SM, l'un des prix les plus prestigieux et le mieux doté de la littérature jeunesse espagnole." ;
+    schema:name "Premio Internacional de Ilustración Feria de Bolonia - Fundación SM" .
+
+pbs:Grand_Prix_Triennal_De_Litterature_De_Jeunesse_Wallonie_Bruxelles a pbs:Award ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:description "Le Grand Prix Triennal de Littérature de Jeunesse de la Fédération Wallonie-Bruxelles est décerné depuis 2006. Ce Prix récompense un auteur/illustrateur issu de la Fédération Wallonie-Bruxelles, dont l'ensemble des publications constitue déjà une oeuvre. Il est une marque de reconnaissance et d'encouragement. Le Grand Prix est décerné par le/la Ministre de la Culture sur proposition d'un jury indépendant. Il ne fait l'objet d'aucun acte de candidature. Sa dotation est de 15000 euros." ;
+    schema:name "Grand Prix Triennal de Littérature de Jeunesse de la Fédération Wallonie-Bruxelles" .
+
+pbs:Children_Laureate a pbs:Award ;
+    pbs:genreLittéraire pbs:ILLUSTRATION ;
+    schema:description "Le Children's Laureate distingue tous les deux ans un écrivain ou un illustrateur de littérature jeunesse au Royaume-Uni. Un jury examine les recommandations émanant d'associations de bibliothécaires, critiques, auteurs et bibliothécaires, ainsi que d'IBBY. Il prend également en considération les auteurs et illustrateurs nominés par les enfants. Ce prix est doté de 10000 £." ;
+    schema:name "Children's Laureate" .
+
+pbs:Prix_Raymond_Plante a pbs:Award ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:description "Sans être un prix littéraire à proprement parler, le prix Raymond-Plante relève sans équivoque des champs d'intérêt de Lurelu, d'où sa présence dans cette liste. Célébrant la mémoire du prolifique écrivain, scénariste et directeur littéraire, le prix est doté d'une bourse de 2000 $; il souligne l'apport unique et l'engagement remarquable d'un individu ou d'un organisme œuvrant dans les domaines de la littérature jeunesse, l'éducation, l'industrie du livre, la promotion de la lecture auprès des jeunes ou des familles. Il est organisé par la Fête du livre et de la lecture de Longueuil." ;
+    schema:name "Prix Raymond-Plante" .
+
+pbs:Prix_Acelf_Cecile_Rouleau a pbs:Award ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:description "Concours organisé en 1958 par l’Association canadienne des éducateurs de langue française (ACELF) pour encourager la création littéraire d’expression française. Le prix cessa d’être attribué de 1964 à 1979. À partir de 1985, le prix Raymond-Beauchemin récompense un texte inédit destiné aux lecteurs de huit à douze ans et le prix Cécile-Rouleau récompense un manuscrit destiné aux lecteurs de douze à seize ans." ;
+    schema:name "Prix ACELF — Cécile-Rouleau" .
+
+pbs:Prix_Acelf_Raymond_Beauchemin a pbs:Award ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:description "Concours organisé en 1958 par l’Association canadienne des éducateurs de langue française (ACELF) pour encourager la création littéraire d’expression française. Le prix cessa d’être attribué de 1964 à 1979. À partir de 1985, le prix Raymond-Beauchemin récompense un texte inédit destiné aux lecteurs de huit à douze ans et le prix Cécile-Rouleau récompense un manuscrit destiné aux lecteurs de douze à seize ans." ;
+    schema:name "Prix ACELF — Raymond-Beauchemin" .
+
+pbs:Prix_Acelf a pbs:Award ;
+    pbs:genreLittéraire pbs:LIVRE_JEUNESSE ;
+    schema:description "Concours organisé en 1958 par l’Association canadienne des éducateurs de langue française (ACELF) pour encourager la création littéraire d’expression française. Le prix cessa d’être attribué de 1964 à 1979. À partir de 1985, le prix Raymond-Beauchemin récompense un texte inédit destiné aux lecteurs de huit à douze ans et le prix Cécile-Rouleau récompense un manuscrit destiné aux lecteurs de douze à seize ans." ;
+    schema:name "Prix ACELF" .
 
 pbs:Award rdfs:subClassOf pbs:Organization .
 
