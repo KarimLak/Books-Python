@@ -1,5 +1,4 @@
 @prefix ns1: <http://schema.org/> .
-@prefix ns1: <http://example.org/pbs/#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 ns1:Book002331cc-5d27-49a7-9d26-3985495d3e3b a ns1:Book ;

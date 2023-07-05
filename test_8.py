@@ -10,28 +10,38 @@ from selenium.common.exceptions import NoSuchElementException
 
 # Define your namespaces
 ns1 = Namespace("http://schema.org/")
-pbs = Namespace("http://example.org/pbs/#")
+pbs = Namespace("http://example.org/pbs/")
 
 # Load your existing RDF data
 g = Graph()
-g.parse("books.ttl", format="turtle")
+g.parse("output.ttl", format="turtle")
 
 # Create a new Edge session
 driver = webdriver.Edge()
-driver.implicitly_wait(10)
+driver.implicitly_wait(5)
 
-review_counter = 0
-rating_counter = 0  # Initialize the rating_counter variable
-review_counter = 1  # Counter for unique URI
+review_counter = 500
+rating_counter = 500  # Initialize the rating_counter variable
+review_counter = 500  # Counter for unique URI
 
 log_file = open('log.txt', 'a')
+
+start_book_uri = URIRef("http://schema.org/Book0234c7c9-0e9b-44d3-881d-351f0fd6a255")
+start_processing = False
 
 # Iterate over each book
 for book in g.subjects(RDF.type, ns1.Book):
     try:
+        if book == start_book_uri:
+            start_processing = True
+
+        if not start_processing:
+            continue
+
         # Get the book name
         book_name = g.value(book, ns1.name)
         author_name = g.value(book, ns1.author)
+        
 
         query = str(book_name) + " " + str(author_name) + " site:babelio.com"
 
@@ -131,7 +141,7 @@ for book in g.subjects(RDF.type, ns1.Book):
             g.add((book, ns1.keyword, Literal(tag)))
         
         try:
-            average_rating = float(soup.select_one('.grosse_note').text.strip())
+            average_rating = float(soup.select_one('.grosse_note').text.strip().replace(',', '.'))
             g.add((book, pbs.averageBabelioReview, Literal(average_rating, datatype=XSD.decimal)))
         except AttributeError:
             print(f"Failed to extract the average rating for the book: {book}")
@@ -183,3 +193,5 @@ for book in g.subjects(RDF.type, ns1.Book):
 
 # End the Selenium browser session
 driver.quit()
+
+     

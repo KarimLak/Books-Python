@@ -1,4 +1,3 @@
 Failed to find the search result link for the book: http://schema.org/Book002331cc-5d27-49a7-9d26-3985495d3e3l
-Failed to find the search result link for the book: http://schema.org/Book002331cc-5d27-49a7-9d26-3985495d3e3l
 Failed to find the search result link for the book: http://schema.org/Book00485e38-e9b0-4ff5-b1b0-ca4e8bfa3753
 Failed to extract all review attributes for book: http://schema.org/Book004927da-a894-4z12-a93a-8b1d136aef7d
