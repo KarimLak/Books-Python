@@ -10,7 +10,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 # Define your namespaces
 ns1 = Namespace("http://schema.org/")
-pbs = Namespace("http://example.org/pbs/")
+pbs = Namespace("http://example.org/pbs/#")
 
 # Load your existing RDF data
 g = Graph()
@@ -18,7 +18,7 @@ g.parse("books.ttl", format="turtle")
 
 # Create a new Edge session
 driver = webdriver.Edge()
-driver.implicitly_wait(30)
+driver.implicitly_wait(10)
 
 review_counter = 0
 rating_counter = 0  # Initialize the rating_counter variable
@@ -44,6 +44,13 @@ for book in g.subjects(RDF.type, ns1.Book):
 
         # Wait for the page to load
         time.sleep(5)
+
+        is_captcha_page = len(driver.find_elements(By.ID, "captcha-form")) > 0
+
+        # If CAPTCHA is found, wait for it to be manually solved
+        if is_captcha_page:
+            print("CAPTCHA encountered. Please solve it manually and then press ENTER in the console.")
+            input()
 
         # Click on the first link
         try:
