@@ -7,6 +7,28 @@ from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 import time
 from selenium.common.exceptions import NoSuchElementException
+import requests
+from googleapiclient.discovery import build
+
+
+cx = "14146c5573d2149dd"
+
+# Your Google API key
+api_key = "AIzaSyAypwJ-mHJEogVVQbEX59qfuTJ_r4QyG34"
+
+# Build a service object for interacting with the API
+service = build("customsearch", "v1", developerKey=api_key)
+
+def search(query, api_key, cse_id, **kwargs):
+    service_url = 'https://www.googleapis.com/customsearch/v1'
+    params = {
+        'q': query,
+        'key': api_key,
+        'cx': cse_id
+    }
+    params.update(kwargs)
+    response = requests.get(service_url, params=params)
+    return response.json()
 
 # Define your namespaces
 ns1 = Namespace("http://schema.org/")
@@ -14,64 +36,44 @@ pbs = Namespace("http://example.org/pbs/")
 
 # Load your existing RDF data
 g = Graph()
-g.parse("output.ttl", format="turtle")
+g.parse("books.ttl", format="turtle")
 
 # Create a new Edge session
 driver = webdriver.Edge()
-driver.implicitly_wait(5)
 
-review_counter = 500
-rating_counter = 500  # Initialize the rating_counter variable
-review_counter = 500  # Counter for unique URI
+review_counter = 0
+rating_counter = 0  # Initialize the rating_counter variable
+review_counter = 0  # Counter for unique URI
+citation_counter = 0
 
 log_file = open('log.txt', 'a')
 
-start_book_uri = URIRef("http://schema.org/Book0234c7c9-0e9b-44d3-881d-351f0fd6a255")
-start_processing = False
 
 # Iterate over each book
 for book in g.subjects(RDF.type, ns1.Book):
     try:
-        if book == start_book_uri:
-            start_processing = True
-
-        if not start_processing:
-            continue
-
         # Get the book name
         book_name = g.value(book, ns1.name)
         author_name = g.value(book, ns1.author)
-        
 
+        if not book_name or str(book_name).strip() == '':
+            continue
+        
         query = str(book_name) + " " + str(author_name) + " site:babelio.com"
 
         # Navigate to Google
-        driver.get('https://www.google.com')
-
-        # Find the search box and submit query
-        search_box = driver.find_element(By.NAME, 'q')
-        search_box.send_keys(query + Keys.RETURN)
-
-        # Wait for the page to load
-        time.sleep(5)
-
-        is_captcha_page = len(driver.find_elements(By.ID, "captcha-form")) > 0
-
-        # If CAPTCHA is found, wait for it to be manually solved
-        if is_captcha_page:
-            print("CAPTCHA encountered. Please solve it manually and then press ENTER in the console.")
-            input()
-
+        res = service.cse().list(q=query, cx=cx).execute()
         # Click on the first link
-        try:
-            first_link = driver.find_element(By.CSS_SELECTOR, 'div.yuRUbf > a')
-            first_link.click()
-        except NoSuchElementException:
+        if 'items' in res:
+            first_link = res['items'][0]['link']
+            if 'https://www.babelio.com/babmap' in first_link:
+                continue
+        else:
             log_file.write(f"Failed to find the search result link for the book: {book}\n")
             continue
 
         # Wait for the new page to load
-        time.sleep(5)
+        driver.get(first_link)
 
         # Parse the page source with BeautifulSoup
         soup = BeautifulSoup(driver.page_source, 'html.parser')
@@ -85,6 +87,7 @@ for book in g.subjects(RDF.type, ns1.Book):
                 review_rating = review.select_one('meta[itemprop="ratingValue"]').get('content')
                 date = review.select_one('meta[itemprop="datePublished"]').get('content')
                 content = review.select_one('.cri_corps_critique').text.strip()
+                thumbs_up = review.find('span', {'id': lambda value: value and value.startswith("myspanNB")}).text
             except AttributeError:
                 log_file.write(f"Failed to extract all review attributes for book: {book}\n")
                 continue
@@ -101,6 +104,7 @@ for book in g.subjects(RDF.type, ns1.Book):
             g.add((review_uri, ns1.reviewRating, Literal(review_rating, datatype=XSD.decimal)))
             g.add((review_uri, ns1.datePublished, Literal(date, datatype=XSD.date)))
             g.add((review_uri, ns1.reviewBody, Literal(content)))
+            g.add((review_uri, ns1.thumbsUp, Literal(thumbs_up)))
 
             review_counter += 1
 
@@ -145,6 +149,44 @@ for book in g.subjects(RDF.type, ns1.Book):
             g.add((book, pbs.averageBabelioReview, Literal(average_rating, datatype=XSD.decimal)))
         except AttributeError:
             print(f"Failed to extract the average rating for the book: {book}")
+        
+
+        citations = soup.select('.post.post_con')
+
+        for citation in citations:
+            # Check if 'Page de la citation' link is present in the citation
+            citation_link_elems = citation.select('.dropdown_open a')
+
+            if any('Page de la citation' in link_elem.text for link_elem in citation_link_elems):
+                # Citation sub-elements
+                author_elem = citation.select_one('.entete_login a')
+                date_elem = citation.select_one('.entete_date span')
+                date = date_elem.text.strip() if date_elem else None
+                content_elem = citation.select_one('.cri_corps_critique')
+
+                author = author_elem.text.strip() if author_elem else None
+                date = date_elem.text.strip() if date_elem else None
+                content = content_elem.text.strip() if content_elem else None
+
+                # If any of the sub-elements were missing, log the issue and skip to the next citation
+                if author is None or date is None or content is None:
+                    log_file.write(f"Failed to extract all citation attributes for book: {book}\n")
+                    continue
+
+                # Generate a new URI for the citation
+                citation_uri = URIRef(f'http://example.org/pbs/citation{citation_counter}')
+
+                # Link the citation to the book
+                g.add((book, pbs.citation, citation_uri))
+
+                # Add the new triples to the graph
+                g.add((citation_uri, RDF.type, pbs.Citation))
+                g.add((citation_uri, ns1.author, Literal(author)))
+                g.add((citation_uri, ns1.datePublished, Literal(date)))
+                g.add((citation_uri, ns1.text, Literal(content)))
+
+                citation_counter += 1
+
 
         # Extract the press reviews
        # Extract the press reviews
@@ -186,7 +228,7 @@ for book in g.subjects(RDF.type, ns1.Book):
                 pass
 
         # Save the updated RDF data incrementally
-        g.serialize(destination='output.ttl', format='turtle')
+        g.serialize(destination='output_books.ttl', format='turtle')
 
     except Exception as e:
         print(f"An error occurred while processing the book {book_name} (URI: {book}): {str(e)}")
