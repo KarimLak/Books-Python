@@ -1,0 +1,399 @@
+
+ns1:Book43482530 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb434825301" ;
+    ns1:isbn "ISBN 9782848654362" ;
+    ns1:author "Land, Lucie. Auteur du texte" ;
+    ns1:publisher "Ed. Sarbacane (Paris)" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:title "Gadji ! / Lucie Land" ;
+    ns1:description "Collection : Exprim' | Code à barres commercial : EAN 9782848654362 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "1 vol. (264 p.) ; 22 x 14 cm" ;
+    ns1:publicDestinataire "Adolescents - À partir de 13 ans" ;
+    ns1:resume "Lorsqu'elle est envoyée en pension chez les gadjés, Katarina se rebiffe. A 12 ans,
+      cette petite Rom de Roumanie a vécu mille vies : elle a dansé, chanté, élevé ses frères
+      et appris presque seule à lire. Le monde l'attire, elle voudrait tout voir, tout découvrir.
+      Alors devenir une gadji, très peu pour elle. [source Electre]" ;
+    ns1:genre "Romans" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Katarina se construit sur deux identités, deux
+      curiosités, deux vitalités : sa culture rom et la culture française qu'elle intègre
+      après la tragédie vécue par sa famille en Roumanie lors de la chute de Ceausescu.
+      Ce récit touchant invite à une entrée formidable dans la culture tsigane et les problématiques
+      liées à l'immigration. - Le 20131001
+      
+      , par  (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43472260 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43472260x" ;
+    ns1:isbn "ISBN 9782070619474" ;
+    ns1:author "Morpurgo, Michael (1943-....). Auteur du texte" ;
+    ns1:publisher "Gallimard-Jeunesse (Paris)" ;
+    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:title "Cheval de guerre (Nouv. éd.) Michael Morpurgo" ;
+    ns1:description "Collection : Folio junior ; 347 | Code à barres commercial : EAN 9782070619474 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "18 x 13 cm" ;
+    ns1:publicDestinataire "Bons lecteurs - À partir de 9 ans" ;
+    ns1:resume "En 1914, dans la ferme de son père, en Angleterre, Albert grandit en compagnie de
+      son cheval bien-aimé, Joey. Pendant ce temps, les armées se préparent à partir en
+      guerre. Dès lors, le destin de Joey est tracé : vendu aux soldats anglais, il partagera
+      leur existence et leur lutte pour la survie. [source Electre]" ;
+    ns1:genre "Romans" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Ce remarquable roman, paru en 1986, offre un
+      point de vue renouvelé sur la sanglante épopée de la Première Guerre mondiale. L'amour
+      de la vie, le sens de la solidarité, la tendresse du regard porté sur les victimes,
+      hommes et bêtes, éclairent ce récit bouleversant. - Le 20131001
+      
+      , par  (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43478780 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43478780c" ;
+    ns1:isbn "ISBN 9782070637065" ;
+    ns1:author "Panafieu, Jean-Baptiste de (1955-....). Auteur du texte" ;
+    ns1:publisher "Gallimard-Jeunesse (Paris)" ;
+    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:title "Sur les traces de Charles Darwin / Jean-Baptiste de Panafieu ; illustrations Vincent Desplanche" ;
+    ns1:description "Collection : Sur les traces de... | Code à barres commercial : EAN 9782070637065 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "1 vol. (128 p.) : ill. en coul. ; 18 x 14 cm" ;
+    ns1:publicDestinataire "Bons lecteurs - À partir de 10 ans" ;
+    ns1:resume "Un docteur en océanologie présente l'aventure de Darwin, jeune naturaliste embarqué
+      à l'âge de 22 ans sur le Beagle pour un tour du monde qui durera cinq ans et lui permettra
+      de poser les bases de la théorie de l'évolution. [source Electre]" ;
+    ns1:genre "Documentaires : sciences et techniques" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Sur les pas de Darwin, jeune naturaliste embarqué
+      pour un tour du monde : une évocation de son travail comme naturaliste et géologue
+      qui aboutit à la théorie de l'évolution, théorie révolutionnaire en contradiction
+      avec les valeurs de l'Église dans l'Angleterre victorienne. Il s'insurgera aussi contre
+      le racisme et l'esclavagisme. Une lecture riche et agréable. - Le 20131001
+      
+      , par  (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book46916580 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb46916580c" ;
+    ns1:isbn "ISBN 9782878335002" ;
+    ns1:author "Aylesworth, Jim (1943-....). Auteur du texte" ;
+    ns1:publisher "Circonflexe (Paris)" ;
+    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:title "La moufle / raconté par Jim Aylesworth ; illustré par Barbara McClintock" ;
+    ns1:description "Collection : Albums Circonflexe" ;
+    ns1:language "fre | français | " ;
+    ns1:format "1 vol. (non paginé [30] p.) : ill. en coul. ; 29 cm" ;
+    ns1:publicDestinataire "Apprentissage - À partir de 3 ans" ;
+    ns1:resume "Une moufle perdue sert d'abri à des animaux de la forêt qui viennent s'y réfugier
+      en cette période d'hiver. [source Electre]" ;
+    ns1:genre "Contes, légendes et folklore" ;
+    ns1:avisCritique "" ;
+    ns1:noticeCritique "Un petit garçon perd sa moufle : son histoire
+      et ses dialogues avec sa grand-mère sont aussi intéressants que les heurs et malheurs
+      de la moufle. Fin particulièrement intéressante, dans la confrontation tranquille
+      des deux mondes, réel et irréel. Texte simple, mais assez consistant. Le rythme de
+      la mise en pages, très variée et joyeuse, nous entraîne dans cette histoire improbable,
+      intrigue et fait rire. - Le 20131001
+      
+      (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43475561 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43475561t" ;
+    ns1:isbn "ISBN 9782878335064" ;
+    ns1:author "Galdone, Paul (1907-1986). Auteur du texte" ;
+    ns1:publisher "Circonflexe (Paris)" ;
+    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:title "Les trois ours (Nouv. éd.) Paul Galdone ; traduit et adapté de l'américain par Emilie Fargeas ; préface de Evelyne Cévin" ;
+    ns1:description "Collection : Aux couleurs du temps | Code à barres commercial : EAN 9782878335064 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "38 p. : ill. en coul. ; 24 x 23 cm" ;
+    ns1:publicDestinataire "Apprentissage - À partir de 3 ans" ;
+    ns1:resume "Une relecture décalée du conte Boucle d'or et les trois ours où la petite fille joue
+      le rôle de l'intruse à l'invraisemblable culot. [source Electre]" ;
+    ns1:genre "Contes, légendes et folklore" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "On ne se lasse pas de ces ours, terriblement
+      grizzly, une raie au milieu de la tête comme des étudiants d'Oxford, et de la chipie
+      aux boucles d'or au sourire édenté... Paul Galdone, comme toujours, sait admirablement
+      tirer parti des ambiguïtés de ces « petits » contes traditionnels. Illustrations pleines
+      de force et de malice dans lesquelles Boucles d'Or est particulièrement perverse !
+      - Le 20131001
+      
+      , par  (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43480321 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb434803211" ;
+    ns1:isbn "ISBN 9782081242104" ;
+    ns1:author "Babbitt, Natalie (1932-2016). Auteur du texte" ;
+    ns1:publisher "Flammarion (Paris)" ;
+    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:title "La source enchantée / Natalie Babbitt ; traduit de l'américain par Rose-Marie Vassallo" ;
+    ns1:description "Collection : Flammarion Jeunesse | Code à barres commercial : EAN 9782081242104 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "1 vol. ; 18 x 13 cm" ;
+    ns1:publicDestinataire "Bons lecteurs - À partir de 9 ans" ;
+    ns1:resume "Une histoire fantastique dans laquelle Winnie Foster, fille unique d'un hobereau,
+      décide de faire une fugue dans un bois où se passent des choses étranges... [source
+      Electre]" ;
+    ns1:genre "Romans" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Pour tromper son ennui, Winnie, onze ans, s'aventure
+      dans le bois de la propriété familiale. Elle y rencontre un jeune homme. Effrayé par
+      la présence de la petite fille, il l'emmène dans son étrange famille douée d'immortalité...
+      sous le regard d'un témoin mal intentionné : du suspense, de la fraîcheur et une bonne
+      analyse psychologique. - Le 20131001
+      
+      , par  (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43484031 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43484031g" ;
+    ns1:isbn "ISBN 9782811610142" ;
+    ns1:author "Mochizuki, Minetarō (1964-....). Auteur du texte" ;
+    ns1:publisher "Pika (Boulogne-Billancourt (Hauts-de-Seine))" ;
+    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:title "Dragon head. 10 (Nouvelle édition) Minetaro Mochizuki" ;
+    ns1:description "Code à barres commercial : EAN 9782811610142" ;
+    ns1:language "fre | français | " ;
+    ns1:format "1 vol. (192 p.) : illustrations en noir et blanc ; 21 x 15 cm" ;
+    ns1:publicDestinataire "Adolescents - À partir de 13 ans" ;
+    ns1:resume "A la suite d'un énorme tremblement de terre, alors qu'ils rentrent d'un voyage scolaire
+      en train, Téru, Nobuo et Ako, des collégiens, se retrouvent coincés dans un tunnel.
+      Après des jours et des jours de recherche, ils trouvent enfin une sortie. Mais le
+      monde extérieur a été ravagé par une catastrophe. [source Electre]" ;
+    ns1:genre "Bandes dessinées" ;
+    ns1:avisCritique "" ;
+    ns1:noticeCritique "(publié dans La Revue des livres pour enfants.
+      Sélection annuelle)" .
+
+ns1:Book43484051 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb434840513" ;
+    ns1:isbn "ISBN 9782930618302" ;
+    ns1:author "Midam (1963-....). Auteur du texte" ;
+    ns1:publisher "Mad fabrik (Lasne (Belgique))" ;
+    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:title "Bomba fatale / Midam ; illustrations Adam ; scénario Patelin" ;
+    ns1:description "Code à barres commercial : EAN 9782930618302" ;
+    ns1:language "fre | français | " ;
+    ns1:format "1 vol. (48 p.) : ill. en coul. ; 30 x 22 cm" ;
+    ns1:publicDestinataire "" ;
+    ns1:resume "Une nouvelle aventure du Petit Barbare, l'avatar de Kid Paddle lorsque celui-ci joue
+      aux jeux vidéos. [source Electre]" ;
+    ns1:genre "Bandes dessinées" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Dans cette série, le héros-chevalier des jeux
+      vidéo cherche à libérer une gente damoiselle mais est systématiquement écrabouillé,
+      dévoré, massacré, englouti, râpé, gelé, etc., quand il ne tue pas lui-même la princesse
+      ! La série Kid Paddle et ses jeunes fans de jeux vidéo a donné naissance à cette réjouissante
+      série muette où le"running gag" est l'échec. Pour oublier un peu les écrans et se
+      moquer de nos prouesses manettes en main. Jubilatoire ! Essaie encore... (publié dans
+      La Revue des livres pour enfants)" .
+
+ns1:Book43482531 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43482531c" ;
+    ns1:isbn "ISBN 9782211084925" ;
+    ns1:author "Banks, Lynne Reid (1929-....). Auteur du texte" ;
+    ns1:publisher "Ecole des loisirs (Paris)" ;
+    ns1:datePublished "2006"^^xsd:gYear ;
+    ns1:title "L'Indien du placard (Nouv. éd.) Lynne Reid Banks ; traduit de l'anglais par Laurence Challamel" ;
+    ns1:description "Collection : Neuf | Code à barres commercial : EAN 9782211084925 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "1 vol. (251 p.) ; 19 x 13 cm" ;
+    ns1:publicDestinataire "" ;
+    ns1:resume "Omra a reçu pour son anniversaire un Indien en plastique qui se met à parler dès qu'on
+      le range dans un certain placard. Pour lecteurs confirmés. [source Electre]" ;
+    ns1:genre "Romans" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Comme tous les enfants, Omri joue aux Indiens
+      et aux cow-boys. Le lecteur partage l'émotion et les affres d'Omri lorsqu'une figurine
+      de plastique devient - par la magie d'un placard et d'une clef - un Indien réel au
+      caractère peu conciliant. L'auteur réussit parfaitement à traduire l'excitation et
+      les préoccupations de l'enfant. Passionnant. - Le 20131001
+      
+      , par  (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43472472 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43472472g" ;
+    ns1:isbn "ISBN 9782070619504" ;
+    ns1:author "Wul, Stefan (1922-2003). Auteur du texte" ;
+    ns1:publisher "Gallimard-Jeunesse (Paris)" ;
+    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:title "Niourk (Nouv. éd.) Stefan Wul ; illustrations de Victor de la Fuente" ;
+    ns1:description "Collection : Folio junior ; 439 | Code à barres commercial : EAN 9782070619504 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "illustrations en noir et blanc ; 18 x 13 cm" ;
+    ns1:publicDestinataire "Bons lecteurs - À partir de 9 ans" ;
+    ns1:resume "Une Terre future ravagée par un cataclysme et revenue à l'état primitif. Un monde
+      cruel où ne règne que la loi du plus fort. Des notes en fin de livre aident à comprendre
+      cette oeuvre de science-fiction. [source Electre]" ;
+    ns1:genre "Romans" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Dans un futur lointain, d'après cataclysme,
+      un enfant noir assimile tout le savoir humain en un temps record, et le dépasse. Devenu
+      tout-puissant, mais gardant toujours la candeur d'un enfant, il choisit de vivre à
+      nouveau la vie de sa tribu de chasseurs. Écrit en 1957, un roman d'aventure qui croise
+      des thèmes variés : régression de la civilisation, problème de la science bien ou
+      mal utilisée, normalité... - Le 20131001
+      
+      , par  (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43487162 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43487162r" ;
+    ns1:isbn "ISBN 9782226174574" ;
+    ns1:author "Stroud, Jonathan (1970-....). Auteur du texte" ;
+    ns1:publisher "Albin Michel-Jeunesse (Paris)" ;
+    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:title "Bartiméus / Jonathan Stroud" ;
+    ns1:description "Collection : Wiz | Code à barres commercial : EAN 9782226174574 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "3 vol. ; 22 x 15 cm" ;
+    ns1:publicDestinataire "Adolescents - À partir de 13 ans" ;
+    ns1:resume "" ;
+    ns1:genre "Bandes dessinées" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "20110322
+      
+      , par Olivier Piffault (publié dans La Revue des livres pour enfants)" .
+
+ns1:Book43470092 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43470092h" ;
+    ns1:isbn "ISBN 9782013225977" ;
+    ns1:author "Reuter, Bjarne (1950-....). Auteur du texte" ;
+    ns1:publisher "Hachette Jeunesse (Paris)" ;
+    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:title "Oscar, à la vie, à la mort (Nouv. présentation) Bjarne Reuter ; traduit du danois par Jean Renaud" ;
+    ns1:description "Collection : Conte ; 737 | Code à barres commercial : EAN 9782013225977 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "125 p. : illustrations en noir et blanc ; 18 x 11 cm" ;
+    ns1:publicDestinataire "Bons lecteurs - À partir de 9 ans" ;
+    ns1:resume "Auprès de parents toujours trop occupés, Max s'ennuie. Sa seule distraction est sa
+      longue-vue et la contemplation des étoiles. Un soir, le petit garçon trouve au pied
+      de son lit un lion fatigué de la monotonie de la savane africaine. Entre rêve et réalité,
+      c'est le début d'une histoire d'amitié extraordinaire... [source Electre]" ;
+    ns1:genre "Romans" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Personne ne veut le croire, mais Max, sept ans,
+      vivant au Danemark, est poursuivi par un lion gourmand, joueur et très capricieux...
+      mais qui ne se montre qu'aux enfants. Un petit livre quasi philosophique, délicieux,
+      avec une écriture imagée, pour les enfants rêveurs, aimant les étoiles et les pastilles
+      de réglisse. - Le 20131001
+      
+      , par  (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43476572 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43476572q" ;
+    ns1:isbn "ISBN 9782211201346" ;
+    ns1:author "Murail, Marie-Aude (1954-....). Auteur du texte" ;
+    ns1:publisher "Ecole des loisirs (Paris)" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:title "Le Hollandais sans peine (Nouv. éd.) Marie-Aude Murail ; illustrations de Michel Gay" ;
+    ns1:description "Collection : Mouche | Code à barres commercial : EAN 9782211201346 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "56 p. : ill. en coul. ; 19 x 14 cm" ;
+    ns1:publicDestinataire "Lecteurs débutants - À partir de 6 ans" ;
+    ns1:resume "Jean-Jacques effectue un séjour linguistique en Allemagne et en profite pour jouer
+      un tour à son père, se faire dispenser de devoirs de vacances et se fait un ami pour
+      la vie. [source Electre]" ;
+    ns1:genre "Romans" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Un petit roman réjouissant dans lequel l'auteure
+      se moque allègrement des principes d'éducation et de pédagogie des parents. Jeux autour
+      de la communication et du langage, fous rires assurés... un véritable plaisir de lecture.
+      - Le 20131001
+      
+      , par  (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43482532 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43482532q" ;
+    ns1:isbn "ISBN 9782211208222" ;
+    ns1:author "Treviño, Elizabeth Borton de (1904-2001). Auteur du texte" ;
+    ns1:publisher "Ecole des loisirs (Paris)" ;
+    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:title "Je suis Juan de Pareja : né esclave à Séville, élève en secret de Velazquez, peintre malgré tout (Nouvelle édition) Elizabeth Borton de Trevino ; traduit de l'américain par Tessa Brisac" ;
+    ns1:description "Collection : Médium poche | Code à barres commercial : EAN 9782211208222 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "1 vol. (330 p.) ; 19 x 13 cm" ;
+    ns1:publicDestinataire "Bons lecteurs - À partir de 12 ans" ;
+    ns1:resume "Biographie romancée d'un esclave noir, collaborateur du peintre de la cour d'Espagne,
+      Velazquez. Grand prix des lecteurs Je Bouquine, 1989, Grand prix des Treize, 1990.
+      [source Electre]" ;
+    ns1:genre "Romans" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Dans l'Espagne du XVIIe siècle, un jeune esclave
+      noir, assistant de Velasquez, raconte sa vie avec le peintre et livre bien des traits
+      de sa personnalité. Une splendide reconstitution de l'Espagne du XVIIe siècle, parue
+      en 1965 aux États-Unis. - Le 20131001
+      
+      , par  (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43462202 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43462202j" ;
+    ns1:isbn "ISBN 0435891375" ;
+    ns1:author "Krone, Bridget. Auteur du texte" ;
+    ns1:publisher "Heinemann educational books Ltd (London)" ;
+    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:title "Le sac de Dielo / Bridget Krone ; illustrations de Paddy Bouma ; traduit de l'anglais par Eva Rogo-Lévénez" ;
+    ns1:description "Collection : Auteurs africains junior VIH-sida | Code à barres commercial : EAN 9780435891374 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "16 p. : ill. en coul. ; 22 x 16 cm" ;
+    ns1:publicDestinataire "" ;
+    ns1:resume "Quand la mère de Dielo est morte, son grand-père lui a donné un petit sac où mettre
+      quelques objets qui lui étaient chers pour ne pas l'oublier. Mais récemment, Dielo
+      se sent angoissée : elle ne se souvient plus clairement d'elle. Cette histoire, destinée
+      aux jeunes lecteurs d'Afrique, aborde les dimensions psychosociales de la pandémie
+      du sida et la perte d'un être cher. [source Electre]" ;
+    ns1:genre "Albums" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "La profonde angoisse de Dielo est que le souvenir
+      de sa mère morte vienne lui-même à s'estomper. Beaucoup de sensibilité et de profondeur
+      dans cet album qui sait, par un dialogue tendre entre le grand-père et sa petite fille
+      porté par une illustration au diapason, trouver un ton juste et réconfortant. - Le
+      20050626
+      
+      , par Marie Laurentin (publié dans Takam Tikou)" .
+
+ns1:Book43467812 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43467812q" ;
+    ns1:isbn "ISBN 9782013224390" ;
+    ns1:author "Richter, Hans Peter (1925-1993). Auteur du texte" ;
+    ns1:publisher "Hachette Jeunesse (Paris)" ;
+    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:title "Mon ami Frédéric (Nouv. présentation) Hans Peter Richter ; traduit de l'allemand par Anne Georges" ;
+    ns1:description "Collection : Le livre de poche jeunesse ; 8 | Code à barres commercial : EAN 9782013224390 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "221 p. ; 18 x 13 cm" ;
+    ns1:publicDestinataire "Bons lecteurs - À partir de 9 ans" ;
+    ns1:resume "En Allemagne, les années difficiles de la Seconde Guerre mondiale, à travers l'amitié
+      entre narrateur et son copain Frédéric, un jeune Juif. [source Electre]" ;
+    ns1:genre "Romans" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Deux petits Allemands du même âge grandissent
+      ensemble, mais l'un est juif et, dans l'Allemagne des années 1930, il n'y aura bientôt
+      plus de place pour lui. Le simple récit d'une amitié d'enfance déchirée par la folie
+      nazie et le drame d'un enfant et d'une famille juive parmi tant d'autres. Première
+      parution en 1961 en Allemagne. - Le 20131001
+      
+      , par  (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43474873 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43474873d" ;
+    ns1:isbn "ISBN 9782070629022" ;
+    ns1:author "Mingarelli, Hubert (1956-2020). Auteur du texte" ;
+    ns1:publisher "Gallimard-Jeunesse (Paris)" ;
+    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:title "La lumière volée (Nouv. présentation) Hubert Mingarelli" ;
+    ns1:description "Collection : Folio junior ; 1234 | Code à barres commercial : EAN 9782070629022 | " ;
+    ns1:language "fre | français | " ;
+    ns1:format "134 p. ; 18 x 13 cm" ;
+    ns1:publicDestinataire "Bons lecteurs - À partir de 9 ans" ;
+    ns1:resume "1942. Elie, 11 ans, vit dans le cimetière du ghetto de Varsovie, installé contre la
+      tombe de Joseph Cytrin à qui il confie ses inquiétudes, ses découvertes. Une nuit
+      il rencontre Gad, avec qui il se lie d'amitié. Les deux garçons s'inventent un monde
+      dans lequel la menace est repoussée sur les frontières. [source Electre]" ;
+    ns1:genre "Romans" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Tout près du ghetto de Varsovie, un cimetière
+      : c'est là que le jeune Élie se cache et tente de survivre, peuplant sa solitude de
+      rêves et de poèmes. L'arrivée de Gad, un autre adolescent juif pourchassé, illumine
+      un moment cette solitude. C'est l'ébauche d'une amitié, brutalement interrompue. Une
+      écriture intense, brève et sensible, un roman bouleversant. - Le 20131001
+      
+      , par  (publié dans Escales en littérature de jeunesse)" .
