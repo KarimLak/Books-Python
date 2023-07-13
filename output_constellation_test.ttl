@@ -1,0 +1,42 @@
+@prefix ns1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix pbs: <http://www.example.org/pbs/#> .
+
+ns1:Book001d366c-b08a-4f7a-b4bb-5af65876e930 a ns1:Book ;
+    ns1:author "Patrick Banon" ;
+    pbs:constellationLink "https://constellations.education.gouv.qc.ca/index.php?p=il&lo=38505" ;
+    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:illustrator "Sabine Allard" ;
+    ns1:publisher ns1:Actes_Sud_Junior ;
+    ns1:reviewBody "Ce livre original et pertinent aborde le thème complexe des tabous et des interdits. Divisé en six parties, il présente d’abord une définition du terme et démontre le rôle des totems dans le développement des tabous. Le texte expose ensuite différents types de tabous, en expliquant leur origine et les pratiques sociales qui en découlent. L'ouvrage présente aussi les tabous fondateurs et universels de nos sociétés, comme l’inceste ou le meurtre; les tabous non-unanimes, mais persistants, comme la nudité et l’usage de certains mots; les tabous révolus, comme la vieillesse et la maladie; et finalement, les nouveaux tabous, comme le mariage forcé et le clonage. L’ouvrage offre une approche ouverte et inventive du sujet. Chaque concept ou tabou est abordé dans une perspective historique et sociologique. Le texte établit habilement les parallèles entre les diverses pratiques culturelles et les pratiques ancestrales et actuelles entourant les tabous. L’écriture dynamique use d’une langue simple et d’un vocabulaire précis. Le texte fait alterner les références culturelles et l’explication des concepts. La présentation aérée de facture moderne comprend des encadrés couleur et des illustrations stylisées et symboliques riches et stimulantes. Le livre se termine sur un lexique aux définitions claires et utiles." ;
+    ns1:name "Tabous et interdits" ;
+    pbs:isCoupDeCoeur false ;
+    pbs:keyword "Documentaire",
+        "croyances",
+        "différences socioculturelles",
+        "droits et libertés",
+        "lois et règlements",
+        "portée philosophique",
+        "portée sociologique",
+        "transmission de valeurs" .
+
+ns1:Book00332c1a-7085-4e00-afe9-612213259995 a ns1:Book ;
+    pbs:constellationLink "https://constellations.education.gouv.qc.ca/index.php?p=il&lo=52984" ;
+    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:publisher ns1:Annick ;
+    ns1:reviewBody "Chantal Rondeau discusses ancestral foods: “It’s my connection to the land. I have an apartment-size freezer full of moose meat and caribou meat.” Rap duo Mob Bounce explain their transition from influences of gangster rap to traditional drum: “We woke up … old patterns no longer served us … it wasn’t what was going on in the world but what was going on within.”\r
+Thirty voices are featured in this collection, including academics, students, activists and artists, in chapters such as “Shattering Stereotypes” and “Native Renaissance.” Contributors identify their heritage, demonstrating that a wide range of cultures exist under the generic ‘Native.’ “City Quotes”—on living in specific cities—points out that New York City is on land used by the Lenape; Halifax is on Mi’kmaq traditional territory.\r
+Artwork, photography and candid portraits of contributors draw readers to the text. A graphic-style illustration depicts Roanna Shebala, contributor of the spoken word piece, “Love You Some Indians.” Across the image, red paint slashes affect—but don’t eclipse—the figure. In another spread, Nicholas Galanin’s artwork is featured: a seated wolf morphs into a wolf-skin spread on the floor: “They see my work … as belonging in a natural history museum with dinosaur bones.”\r
+Cool and current, uplifting and inspiring, this book includes messages from the editors, as well as writers Joseph Boyden and Wab Kinew." ;
+    ns1:name "Urban Tribes: Native Americans in the City" ;
+    pbs:isCoupDeCoeur false ;
+    pbs:keyword "Indigenous peoples",
+        "Non-fiction",
+        "activism",
+        "art",
+        "city life",
+        "cultures",
+        "discrimination",
+        "identity",
+        "illustrations (photographs)",
+        "youth" .

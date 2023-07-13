@@ -1895,7 +1895,9 @@ ns1:Versant_Sud_Jeunesse a ns1:Publisher ;
     ns1:name "Versant Sud Jeunesse"^^xsd:string ;
     ns1:parentOrganization ns1:Versant_Sud .
 
-ns1:Anzou ns1:subOrganization ns1:Auzou_Canada,
+ns1:Anzou a ns1:Publisher ;
+    ns1:name "Anzou"^^xsd:string ;
+    ns1:subOrganization ns1:Auzou_Canada,
         ns1:Auzou_Suisse .
 
 ns1:Bayard a ns1:Publisher ;
@@ -2446,7 +2448,7 @@ ns1:Vilo a ns1:Publisher ;
 ns1:Blue_Apple_Books a ns1:Publisher ;
     ns1:name "Blue Apple Books"^^xsd:string .
 
-ns1:Child's_Play a ns1:Publisher ;
+ns1:Childs_Play a ns1:Publisher ;
     ns1:name "Child's Play"^^xsd:string .
 
 ns1:Rue_des_enfants a ns1:Publisher ;
@@ -2476,7 +2478,7 @@ ns1:Éditions_123_Soleil a ns1:Publisher ;
 ns1:Dark_Horse_Comics a ns1:Publisher ;
     ns1:name "Dark Horse Comics"^^xsd:string .
 
-ns1:Tom'poche a ns1:Publisher ;
+ns1:Tompoche a ns1:Publisher ;
     ns1:name "Tom'poche"^^xsd:string .
 
 ns1:Dundurn a ns1:Publisher ;
@@ -2521,13 +2523,13 @@ ns1:Marsu_productions a ns1:Publisher ;
 ns1:Septembre a ns1:Publisher ;
     ns1:name "Septembre"^^xsd:string .
 
-ns1:Allen_&_Unwin a ns1:Publisher ;
+ns1:Allen__Unwin a ns1:Publisher ;
     ns1:name "Allen & Unwin"^^xsd:string .
 
 ns1:Éditions_de_Mortagne a ns1:Publisher ;
     ns1:name "Éditions de Mortagne"^^xsd:string .
 
-ns1:Oh!_Éditions a ns1:Publisher ;
+ns1:Oh_Éditions a ns1:Publisher ;
     ns1:name "Oh! Éditions"^^xsd:string .
 
 ns1:Hoëbeke a ns1:Publisher ;
@@ -2569,7 +2571,7 @@ ns1:Wisdom_Tales a ns1:Publisher ;
 ns1:Sports_Illustrated a ns1:Publisher ;
     ns1:name "Sports Illustrated"^^xsd:string .
 
-ns1:L'initiale a ns1:Publisher ;
+ns1:Linitiale a ns1:Publisher ;
     ns1:name "L'initiale"^^xsd:string .
 
 ns1:Officina_Libraria a ns1:Publisher ;
@@ -2629,10 +2631,10 @@ ns1:Charlesbridge a ns1:Publisher ;
 ns1:Marabout a ns1:Publisher ;
     ns1:name "Marabout"^^xsd:string .
 
-ns1:Portage_&_Main a ns1:Publisher ;
+ns1:Portage__Main a ns1:Publisher ;
     ns1:name "Portage & Main"^^xsd:string .
 
-ns1:Albert_Whitman_&_Co a ns1:Publisher ;
+ns1:Albert_Whitman__Co a ns1:Publisher ;
     ns1:name "Albert Whitman & Co"^^xsd:string .
 
 ns1:Pomegranate a ns1:Publisher ;
@@ -2650,7 +2652,7 @@ ns1:Turtleback_Books a ns1:Publisher ;
 ns1:Princeton_Architectural_Press a ns1:Publisher ;
     ns1:name "Princeton Architectural Press"^^xsd:string .
 
-ns1:Boom!_Studios a ns1:Publisher ;
+ns1:Boom_Studios a ns1:Publisher ;
     ns1:name "Boom! Studios"^^xsd:string .
 
 ns1:Crabtree a ns1:Publisher ;
@@ -2692,7 +2694,7 @@ ns1:Willow_Creek_Press a ns1:Publisher ;
 ns1:Hagios_Press a ns1:Publisher ;
     ns1:name "Hagios Press"^^xsd:string .
 
-ns1:Portage_&_Main_Press a ns1:Publisher ;
+ns1:Portage__Main_Press a ns1:Publisher ;
     ns1:name "Portage & Main Press"^^xsd:string .
 
 ns1:Hors_collection a ns1:Publisher ;
@@ -2707,7 +2709,7 @@ ns1:Philippe_Picquier a ns1:Publisher ;
 ns1:Éditions_Petit_lapin a ns1:Publisher ;
     ns1:name "Éditions Petit lapin"^^xsd:string .
 
-ns1:Le_buveur_d'encre a ns1:Publisher ;
+ns1:Le_buveur_dencre a ns1:Publisher ;
     ns1:name "Le buveur d'encre"^^xsd:string .
 
 ns1:Lobster_Press a ns1:Publisher ;
@@ -2791,10 +2793,10 @@ ns1:Yen_Press a ns1:Publisher ;
 ns1:Modulo a ns1:Publisher ;
     ns1:name "Modulo"^^xsd:string .
 
-ns1:Éditions_du_Renouveau_pédagogique,_E.R.P.I a ns1:Publisher ;
+ns1:Éditions_du_Renouveau_pédagogique_E_R_P_I a ns1:Publisher ;
     ns1:name "Éditions du Renouveau pédagogique, E.R.P.I"^^xsd:string .
 
-ns1:Barron's a ns1:Publisher ;
+ns1:Barrons a ns1:Publisher ;
     ns1:name "Barron's"^^xsd:string .
 
 ns1:AtheneumCaitlin_Dlouhy_Books a ns1:Publisher ;
@@ -2821,10 +2823,10 @@ ns1:Asted a ns1:Publisher ;
 ns1:Piccolia a ns1:Publisher ;
     ns1:name "Piccolia"^^xsd:string .
 
-ns1:palette... a ns1:Publisher ;
+ns1:palette a ns1:Publisher ;
     ns1:name "palette..."^^xsd:string .
 
-ns1:L'Association a ns1:Publisher ;
+ns1:LAssociation a ns1:Publisher ;
     ns1:name "L'Association"^^xsd:string .
 
 ns1:Alias a ns1:Publisher ;
@@ -2854,7 +2856,7 @@ ns1:First_Second a ns1:Publisher ;
 ns1:Cornac a ns1:Publisher ;
     ns1:name "Cornac"^^xsd:string .
 
-ns1:Desputeaux_+_Aubin a ns1:Publisher ;
+ns1:Desputeaux__Aubin a ns1:Publisher ;
     ns1:name "Desputeaux + Aubin"^^xsd:string .
 
 ns1:Locarno_Press a ns1:Publisher ;
@@ -2905,7 +2907,7 @@ ns1:Gingerbread_House a ns1:Publisher ;
 ns1:Nane_éditions a ns1:Publisher ;
     ns1:name "Nane éditions"^^xsd:string .
 
-ns1:Rouge_&_Or a ns1:Publisher ;
+ns1:Rouge__Or a ns1:Publisher ;
     ns1:name "Rouge & Or"^^xsd:string .
 
 ns1:Michigan_State_University_Press a ns1:Publisher ;
@@ -2920,7 +2922,7 @@ ns1:Tête_haute a ns1:Publisher ;
 ns1:Amulet a ns1:Publisher ;
     ns1:name "Amulet"^^xsd:string .
 
-ns1:Workman__Thomas_Allen_&_Son a ns1:Publisher ;
+ns1:Workman__Thomas_Allen__Son a ns1:Publisher ;
     ns1:name "Workman  Thomas Allen & Son"^^xsd:string .
 
 ns1:Anness a ns1:Publisher ;
@@ -2929,7 +2931,7 @@ ns1:Anness a ns1:Publisher ;
 ns1:La_Poule_qui_pond a ns1:Publisher ;
     ns1:name "La Poule qui pond"^^xsd:string .
 
-ns1:Lee_&_Low_Books a ns1:Publisher ;
+ns1:Lee__Low_Books a ns1:Publisher ;
     ns1:name "Lee & Low Books"^^xsd:string .
 
 ns1:Familius a ns1:Publisher ;
@@ -2947,16 +2949,16 @@ ns1:Québec_Science a ns1:Publisher ;
 ns1:Phoenix_Yard_Books a ns1:Publisher ;
     ns1:name "Phoenix Yard Books"^^xsd:string .
 
-ns1:Disney/Hyperion_Books a ns1:Publisher ;
+ns1:Disney_Hyperion_Books a ns1:Publisher ;
     ns1:name "Disney/Hyperion Books"^^xsd:string .
 
 ns1:Gecko a ns1:Publisher ;
     ns1:name "Gecko"^^xsd:string .
 
-ns1:Rue_de_l'échiquier a ns1:Publisher ;
+ns1:Rue_de_léchiquier a ns1:Publisher ;
     ns1:name "Rue de l'échiquier"^^xsd:string .
 
-ns1:Drawn_&_Quarterly a ns1:Publisher ;
+ns1:Drawn__Quarterly a ns1:Publisher ;
     ns1:name "Drawn & Quarterly"^^xsd:string .
 
 ns1:North_Atlantic_Books a ns1:Publisher ;
@@ -3172,10 +3174,10 @@ ns1:Workman a ns1:Publisher ;
 ns1:Grenouille a ns1:Publisher ;
     ns1:name "Grenouille"^^xsd:string .
 
-ns1:Running_the_Goat_Books_&_Broadsides a ns1:Publisher ;
+ns1:Running_the_Goat_Books__Broadsides a ns1:Publisher ;
     ns1:name "Running the Goat Books & Broadsides"^^xsd:string .
 
-ns1:Thames_&_Hudson a ns1:Publisher ;
+ns1:Thames__Hudson a ns1:Publisher ;
     ns1:name "Thames & Hudson"^^xsd:string .
 
 ns1:Éditions_Quatre_Fleuves a ns1:Publisher ;
@@ -3256,7 +3258,7 @@ ns1:Abrams a ns1:Publisher ;
 ns1:Andrews_McMeel_Publishing a ns1:Publisher ;
     ns1:name "Andrews McMeel Publishing"^^xsd:string .
 
-ns1:Henry_Holt_and_Co. a ns1:Publisher ;
+ns1:Henry_Holt_and_Co a ns1:Publisher ;
     ns1:name "Henry Holt and Co."^^xsd:string .
 
 ns1:Pedlar_Press a ns1:Publisher ;
@@ -3277,7 +3279,7 @@ ns1:J.P._Getty_Museum a ns1:Publisher ;
 ns1:Éditions_Format a ns1:Publisher ;
     ns1:name "Éditions Format"^^xsd:string .
 
-ns1:McSweeney's a ns1:Publisher ;
+ns1:McSweeneys a ns1:Publisher ;
     ns1:name "McSweeney's"^^xsd:string .
 
 ns1:Phébus a ns1:Publisher ;
@@ -3304,7 +3306,7 @@ ns1:Éditions_Eyrolles a ns1:Publisher ;
 ns1:Les_Heures_bleues a ns1:Publisher ;
     ns1:name "Les Heures bleues"^^xsd:string .
 
-ns1:Sterling_Children's_Books a ns1:Publisher ;
+ns1:Sterling_Childrens_Books a ns1:Publisher ;
     ns1:name "Sterling Children's Books"^^xsd:string .
 
 ns1:Little_Bee_Books a ns1:Publisher ;
@@ -3325,7 +3327,7 @@ ns1:Tumblehome_Learning a ns1:Publisher ;
 ns1:Gibbs_Smith a ns1:Publisher ;
     ns1:name "Gibbs Smith"^^xsd:string .
 
-ns1:1,_2,_3_Soleil! a ns1:Publisher ;
+ns1:1_2_3_Soleil a ns1:Publisher ;
     ns1:name "1, 2, 3 Soleil!"^^xsd:string .
 
 ns1:Flowerpot_Press a ns1:Publisher ;
@@ -3346,10 +3348,10 @@ ns1:Quiquandquoi a ns1:Publisher ;
 ns1:Harlequin a ns1:Publisher ;
     ns1:name "Harlequin"^^xsd:string .
 
-ns1:Rue_de_l'Échiquier a ns1:Publisher ;
+ns1:Rue_de_lÉchiquier a ns1:Publisher ;
     ns1:name "Rue de l'Échiquier"^^xsd:string .
 
-ns1:Deux_coqs_d'or a ns1:Publisher ;
+ns1:Deux_coqs_dor a ns1:Publisher ;
     ns1:name "Deux coqs d'or"^^xsd:string .
 
 ns1:Éditions_de_la_nouvelle_plume a ns1:Publisher ;
@@ -3358,6 +3360,6 @@ ns1:Éditions_de_la_nouvelle_plume a ns1:Publisher ;
 ns1:Two_Little_Birds a ns1:Publisher ;
     ns1:name "Two Little Birds"^^xsd:string .
 
-ns1:Sterling_Children’s_Books a ns1:Publisher ;
+ns1:Sterling_Childrens_Books a ns1:Publisher ;
     ns1:name "Sterling Children’s Books"^^xsd:string .
 

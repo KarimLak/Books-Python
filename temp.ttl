@@ -1,0 +1,10 @@
+@prefix ns1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix pbs: <http://www.example.org/pbs/#> .
+
+ns1:Book001d366c-b08a-4f7a-b4bb-5af65876e930 a ns1:Book ;
+    ns1:author "Patrick Banon" ;
+    pbs:constellationLink "https://constellations.education.gouv.qc.ca/index.php?p=il&lo=38505" ;
+    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:illustrator "Sabine Allard" ;
+    ns1:publisher ns1:Actes_Sud_Junior ;
