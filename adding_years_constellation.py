@@ -24,17 +24,14 @@ for book in g.subjects(RDF.type, ns1.Book):
     # extract the age ranges from the page
     ageRanges = []
     for td in soup.find_all('td'):
-        divs = td.find_all('div')  
+        divs = td.find_all('div', recursive=True, style=lambda value: value and ('background-color:white' not in value and 'background-color:#FFFFFF' not in value))
         for div in divs:
-            inner_divs = div.find_all('div', style=lambda value: value and 'background-color:#FFE699' in value)
-            if inner_divs:
-                ageRanges.append(div.get_text(strip=True))
+            span = div.find('span')
+            if span:
+                ageRanges.append(span.get_text(strip=True))
 
     # append the age ranges as attributes to the book
     for ageRange in ageRanges:
         g.add((book, ns1.ageRange, Literal(ageRange)))
-    
-    g.serialize(destination='output_constellation_updated.ttl', format='turtle')
 
-
-# save the graph
+g.serialize(destination='output_constellation_updated.ttl', format='turtle')
