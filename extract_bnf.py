@@ -68,4 +68,4 @@ def csv_to_turtle(csv_file, output_file):
 
                 out.write(turtle_template.format(id=id, bnfLink=bnfLink, isbn=isbn, author=author, publisher=publisher, datePublished=datePublished, title=title, description=description, language=language, format=format, publicDestinataire=publicDestinataire, resume=resume, genre=genre, avisCritique=avisCritique, noticeCritique=noticeCritique))
 
-csv_to_turtle('./export_public.csv', './output.ttl')
+csv_to_turtle('./export_public_2.csv', './output.ttl')
