@@ -50,7 +50,7 @@ def get_book_data(bnfLink):
 def csv_to_turtle(csv_file, output_file):
     with open(csv_file, 'r', encoding="utf-8") as f:
         reader = csv.reader(f, delimiter=';')
-        with open(output_file, 'w', encoding='utf-8') as out:
+        with open(output_file, 'a', encoding='utf-8') as out:
             next(reader, None)  # skip the headers
             for row in reader:
                 id = row[1]
@@ -68,4 +68,4 @@ def csv_to_turtle(csv_file, output_file):
 
                 out.write(turtle_template.format(id=id, bnfLink=bnfLink, isbn=isbn, author=author, publisher=publisher, datePublished=datePublished, title=title, description=description, language=language, format=format, publicDestinataire=publicDestinataire, resume=resume, genre=genre, avisCritique=avisCritique, noticeCritique=noticeCritique))
 
-csv_to_turtle('./export_public.csv', './output.ttl')
+csv_to_turtle('./export_public_2.csv', './output_7.ttl')

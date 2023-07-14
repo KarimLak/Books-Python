@@ -36,7 +36,5 @@ for book in g.subjects(RDF.type, ns1.Book):
     # append the age ranges as attributes to the book
     for ageRange in ageRanges:
         g.add((book, ns1.ageRange, Literal(ageRange)))
-        processed_graph.add((book, ns1.ageRange, Literal(ageRange)))
 
-    # serialize the processed graph
-    processed_graph.serialize(destination='output_constellation_updated.ttl', format='turtle')
+g.serialize(destination='output_constellation_updated.ttl', format='turtle')
