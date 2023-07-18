@@ -10,7 +10,7 @@ ns1 = rdflib.namespace.Namespace("http://schema.org/")
 
 # load the graph
 g = Graph()
-g.parse("output_constellation.ttl", format="turtle")
+g.parse("output_constellations.ttl", format="turtle")
 
 # create a graph for processed books
 processed_graph = Graph()
@@ -26,12 +26,12 @@ for book in g.subjects(RDF.type, ns1.Book):
 
     # extract the age ranges from the page
     ageRanges = []
-    for td in soup.find_all('td'):
+    for index, td in enumerate(soup.find_all('td')):
         divs = td.find_all('div', recursive=True, style=lambda value: value and ('background-color:white' not in value and 'background-color:#FFFFFF' not in value))
         for div in divs:
             span = div.find('span')
             if span:
-                ageRanges.append(span.get_text(strip=True))
+                ageRanges.append(f"{span.get_text(strip=True)} {index}")
 
     # append the age ranges as attributes to the book
     for ageRange in ageRanges:
