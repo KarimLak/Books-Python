@@ -1,0 +1,43 @@
+@prefix ns1: <http://schema.org/> .
+@prefix ns2: <http://www.example.org/pbs/#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:Book094ec361-508f-4875-b334-6b00ebdde337 a ns1:Book ;
+    ns1:ageRange "1re 6",
+        "4ans 28",
+        "4ans 4",
+        "5ans 29",
+        "5ans 5" ;
+    ns1:author "Cécile Gariépy" ;
+    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:name "Objet perdu" ;
+    ns1:publisher ns1:La_Pastèque ;
+    ns1:reviewBody "Deux enfants se réveillent au matin. Le garçon cherche sa pantoufle, mais un oiseau l'a emporté. La Deux enfants se réveillent au matin. Le garçon cherche sa pantoufle, mais un oiseau l’a emportée. La fillette cherche le savon, mais une souris s’en est emparée. Il en va de même pour le lait, que le chat a subtilisé, la chaussette, que l’oiseau a prise, et la brosse à dents, que le chien a dérobée. Même chose pour le crayon, la rôtie, la planche à roulettes, les biscuits et la casquette. Une fois les enfants partis à l’école, les animaux s’amusent avec tous les objets subtilisés. Mais voilà que les enfants, qui épiaient par la fenêtre, rentrent à la maison pour s’amuser avec les animaux et retrouver les objets disparus. Ce point de chute fait suite à une structure récurrente invitant le jeune lecteur à trouver, dans l’illustration de chaque double page, l’objet manquant et l’animal responsable de sa disparition. Aucun texte n’accompagne ces illustrations aux aplats de couleurs franches en nombre réduit et aux traits arrondis. La simplification des traits et les formes stylisées créent des images attrayantes et bien lisibles." ;
+    ns2:constellationLink "https://constellations.education.gouv.qc.ca/index.php?p=il&lo=54683" ;
+    ns2:isCoupDeCoeur false ;
+    ns2:keyword "Album",
+        "albums sans texte",
+        "objets familiers",
+        "observation visuelle",
+        "récits (chute)",
+        "récits (structure récurrente)",
+        "vie quotidienne" .
+
+ns1:Book0f3ad059-75ec-4528-a11e-8fd5eb84dd46 a ns1:Book ;
+    ns1:ageRange "1re 6",
+        "2e 7",
+        "4ans 4",
+        "5ans 5" ;
+    ns1:author "Christopher Wormell" ;
+    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:illustrator "Christopher Wormell" ;
+    ns1:publisher ns1:Circonflexe ;
+    ns1:reviewBody "Cet album enseigne les chiffres de 1 à 20, à raison d’un chiffre par double page. Chaque chiffre est accompagné d’une gravure représentant un animal, dont une particularité correspond au chiffre indiqué. La page de gauche montre le chiffre, inscrit en grand format et facile à identifier, et annonce la caractéristique à repérer. L’illustration occupe la page de droite et il est aisé d’y compter les taches, pattes ou griffes sur lesquelles l'attention doit se porter. Les dernières pages, regroupant de courts paragraphes informatifs, reviennent sur les animaux rencontrés au cours de la lecture du livre. Les textes transmettent des informations surprenantes dans un vocabulaire précis. Des balanes aux lémuriens, les animaux qui peuplent l’album sont parfois méconnus. Ils proviennent de diverses parties du globe et appartiennent à différentes classes animales. Les illustrations sont peintes de couleurs contrastées, texturées par des traînées ombragées. Les images, bordées de larges traits noirs, rappellent des gravures anciennes et peuvent être présentées de loin. La composition des illustrations, également sensible et originale, présente aussi bien un gros plan sur deux têtes de poissons-chats que le dos d’une panthère dont la tête se perd dans l’ombre." ;
+    ns1:title "Crocs, griffes et cornes" ;
+    ns2:constellationLink "https://constellations.education.gouv.qc.ca/index.php?p=il&lo=36591" ;
+    ns2:isCoupDeCoeur false ;
+    ns2:keyword "Chiffrier",
+        "animaux",
+        "chiffres et nombres",
+        "intérêt des illustrations" .
+
