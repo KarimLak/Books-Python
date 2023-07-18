@@ -7,4 +7,4 @@ def fix_ttl_file(input_file, output_file):
             f_out.write(line + '\n')
 
 # usage
-fix_ttl_file('output_bnf_1_updated.ttl', 'output_bnf_1_updated_1.ttl')
+fix_ttl_file('output_bnf_2.ttl', 'output_bnf_1_updated_1.ttl')

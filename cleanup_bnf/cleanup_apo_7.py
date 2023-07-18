@@ -1,5 +1,5 @@
 # open the source file
-with open("output_bnf_1.ttl", "r", encoding="utf-8") as source:
+with open("output_bnf_2.ttl", "r", encoding="utf-8") as source:
     # open the destination file
     with open("output_bnf_1_updated.ttl", "w", encoding="utf-8") as destination:
         # iterate over each line in the source file
