@@ -36,10 +36,13 @@ for book in g.subjects(RDF.type, ns1.Book):
             divs = td.find_all('div', recursive=True, style=lambda value: value and 'background-color:' in value)
             for div in divs:
                 color = div['style'].split('background-color:')[1].split(';')[0].strip()
-                if color.lower() not in ['white', '#ffffff']:
-                    span = div.find('span')
-                    if span:
-                        ageRanges.append(f"{span.get_text(strip=True)} {index}")
+                divs = td.find_all('div')
+                for div in divs:
+                    colorChild = div['style'].split('background-color:')[1].split(';')[0].strip()
+                    if color.lower() not in ['white', '#ffffff'] or colorChild.lower() not in ['white', '#ffffff']:
+                        span = div.find('span')
+                        if span:
+                            ageRanges.append(f"{span.get_text(strip=True)} {index}")
 
         # append the age ranges as attributes to the book
         for ageRange in ageRanges:
