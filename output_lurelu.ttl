@@ -1,0 +1,94 @@
+@prefix ns1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ ns1:Book34552098 a ns1:Book ;
+    ns1:auteur "Rogé" ;
+    ns1:illustrateur "Rogé" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2018-v41-n2-lurelu03960/88789ac/" ;
+    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Bagnole ;
+    ns1:resume "D’une simplicité désarmante, ces poèmes nous touchent droit au cœur. Les portraits de ces jeunes, dessinés par Rogé, nous montrent encore une fois toute leur humanité et leur sensibilité. (D. C.)" ;
+    ns1:name "Bagages, mon histoire. Poèmes de jeunes immigrants" .
+
+ ns1:Book34552091 a ns1:Book ;
+    ns1:auteur "Marianne Dubuc" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2018-v41-n2-lurelu03960/88789ac/" ;
+    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Comme_Des_Géants ;
+    ns1:resume "Encore une fois, Marianne Dubuc a réussi à nous charmer avec Le chemin de la montagne. Doux, tendre et profond en même temps. Une lecture dont on ne se lasse pas. (D. C.)" ;
+    ns1:name "Le chemin de la montagne" .
+
+ ns1:Book34552091 a ns1:Book ;
+    ns1:auteur "Marianne Dubuc" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2018-v41-n2-lurelu03960/88789ac/" ;
+    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Comme_Des_Géants ;
+    ns1:resume "Encore une fois, Marianne Dubuc a réussi à nous charmer avec Le chemin de la montagne. Doux, tendre et profond en même temps. Une lecture dont on ne se lasse pas. (D. C.)" ;
+    ns1:name "Le chemin de la montagne" .
+
+ ns1:Book30556091 a ns1:Book ;
+    ns1:auteur "Simon Boulerice" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2018-v41-n2-lurelu03960/88789ac/" ;
+    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Bagnole ;
+    ns1:resume "Il s’agit d’un extravagant voyage dans les œuvres d’art des grands musées du monde, illustré par Lucie Crovatto. (F. S.)",
+        "J’ai été si ému : Boulerice et Crovatto m’ont remémoré cette leçon de Saint-Exupéry : on ne voit bien qu’avec le cœur. Croyez bien que je ferai lire cette histoire à beaucoup de gens. (S. C.)" ;
+    ns1:name "La gardienne du musée" .
+
+ ns1:Book30556091 a ns1:Book ;
+    ns1:auteur "Simon Boulerice" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2018-v41-n2-lurelu03960/88789ac/" ;
+    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Bagnole ;
+    ns1:resume "Il s’agit d’un extravagant voyage dans les œuvres d’art des grands musées du monde, illustré par Lucie Crovatto. (F. S.)",
+        "J’ai été si ému : Boulerice et Crovatto m’ont remémoré cette leçon de Saint-Exupéry : on ne voit bien qu’avec le cœur. Croyez bien que je ferai lire cette histoire à beaucoup de gens. (S. C.)" ;
+    ns1:name "La gardienne du musée" .
+
+ ns1:Book33556091 a ns1:Book ;
+    ns1:auteur "Yves Nadon" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2018-v41-n2-lurelu03960/88789ac/" ;
+    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:DEux ;
+    ns1:resume "Le texte touchant qui fait appel à tous nos sens est magnifié par les fines illustrations réalistes de Jean Claverie. L’exemple d’une parfaite collaboration entre le texte et les illustrations. (C. R.)" ;
+    ns1:name "Mon frère et moi" .
+
+ ns1:Book30559091 a ns1:Book ;
+    ns1:auteur "Angèle Delaunois" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2018-v41-n2-lurelu03960/88789ac/" ;
+    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Isatis ;
+    ns1:resume "Les fillettes ne sont pas des ornements. Elles sont belles dans leur vitalité, leur générosité, leurs rêves, leurs jeux et leur expressivité. C’est ce que clame joyeusement tout le livre! (I. C.)" ;
+    ns1:name "Je suis belle!" .
+
+ ns1:Book35556041 a ns1:Book ;
+    ns1:auteur "Carole Tremblay" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2018-v41-n2-lurelu03960/88789ac/" ;
+    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Courte_Échelle ;
+    ns1:resume "Cette année, la qualité était au rendez-vous, et faire un choix a été déchirant. Partagée entre l’humour, l’émotion ou le propos engagé, j’ai opté pour La soupe aux lentilles. (R. L.)" ;
+    ns1:name "La soupe aux lentilles!" .
+
+ ns1:Book30556741 a ns1:Book ;
+    ns1:auteur "Pascale Bonenfant" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2018-v41-n2-lurelu03960/88789ac/" ;
+    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:resume "Une lecture douce comme un matin de printemps. Écrite tout en finesse et en poésie, illustrée par Valérie Boivin, cette histoire d’amour m’a fait palpiter le cœur. (M. F.)" ;
+    ns1:name "Lou" .
