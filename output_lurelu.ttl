@@ -92,3 +92,1822 @@
     ns1:language "Français" ;
     ns1:resume "Une lecture douce comme un matin de printemps. Écrite tout en finesse et en poésie, illustrée par Valérie Boivin, cette histoire d’amour m’a fait palpiter le cœur. (M. F.)" ;
     ns1:name "Lou" .
+   
+   ns1:Book34552100 a ns1:Book ;
+    ns1:illustrateur "Isabelle Arsenault" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2019-v42-n2-lurelu04845/" ;
+    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Pastèque ;
+    ns1:resume "En véritable hommage à l’abeille, l’album paru à La Pastèque permet aux jeunes et moins jeunes de s’initier au travail acharné de ces insectes au fil des quatre saisons. (R. dR. R.)" ;
+    ns1:name "L’abeille à miel" .
+
+ns1:Book34552101 a ns1:Book ;
+    ns1:auteur "Stéphanie Lapointe" ;
+    ns1:illustrateur "Delphie Côté-Lacroix" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2019-v42-n2-lurelu04845/" ;
+    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Quai ;
+    ns1:resume "La place laissée aux silences dans le texte, tout comme les illustrations de Delphie Côté-Lacroix, rendent avec une rare délicatesse l’émotion vécue par les personnages. (M. F.)" ;
+    ns1:name "Jack et le temps perdu" .
+
+ns1:Book34552102 a ns1:Book ;
+    ns1:auteur "Orbie" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2019-v42-n2-lurelu04845/" ;
+    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Les_400_Coups ;
+    ns1:resume "Comme dans une pièce de théâtre, le jeune héros se raconte à nous sans détour dans un propos quasi philosophique : tomber ou ne pas tomber. (F. S.). L’album est très visuel. On peut suivre l’histoire sans la lire, car on reconnaît tout de suite l’essence de chaque scène. Tout est esquissé en quelques traits fins. (R. L.)" ;
+    ns1:name "La corde à linge" .
+
+ns1:Book34552103 a ns1:Book ;
+    ns1:auteur "André Marois" ;
+    ns1:illustrateur "Julien Castanié" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2019-v42-n2-lurelu04845/" ;
+    ns1:datePublished "2018"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Isatis ;
+    ns1:resume "La puissance de ce roman graphique publié dans la collection «Griff», chez Isatis, est de conscientiser le lecteur. Les illustrations sobres et percutantes de Julien Castanié appuient la force du texte. (C. R.)" ;
+    ns1:name "Moi, c’est Tantale" .
+
+ns1:Collection34552104 a ns1:Collection ;
+    ns1:name "Griff" ;
+    ns1:publisher ns1:Isatis ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2019-v42-n2-lurelu04845/" ;
+    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:resume "En 2017, L’isatis a créé la collection «Griff». On y trouve à ce jour quatre albums chocs qui s’interrogent sur notre société et font réfléchir les adolescents sur le monde d’aujourd’hui. (D. C.)" .
+
+ns1:Book34552105 a ns1:Book ;
+    ns1:auteur "François Gravel" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2019-v42-n2-lurelu04845/" ;
+    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Les_400_Coups ;
+    ns1:resume "Le prolifique lauréat du prix Raymond-Plante a choisi de s’attaquer à différents pièges et singularités de la langue française pour en tirer matière à s’amuser et à rire. (I. C.)" ;
+    ns1:name "Branchez-vous! et autres poèmes biscornus" .
+
+ns1:Book34552099 a ns1:Book ;
+    ns1:auteur "Nadine Robert" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Comme_Des_Géants ;
+    ns1:resume "Nadine Robert signe un texte d’une grande beauté, porté par une sensibilité et une délicatesse peu communes. (M. F.)" ;
+    ns1:name "L’éléphant de l’ombre" .
+
+ns1:Book34552100 a ns1:Book ;
+    ns1:auteur "Jacques Goldstyn" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Pastèque ;
+    ns1:resume "Alors qu’à certains endroits, les illustrations présentent de subtils clins d’œil, à d’autres, elles s’avèrent d’une éloquence qui se passe de mots. (M. T.)" ;
+    ns1:name "Les étoiles" .
+
+ns1:Book34552101 a ns1:Book ;
+    ns1:auteur "Véronique Drouin" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Québec_Amérique ;
+    ns1:resume "L’écriture rythmée allie les scènes d’action efficaces, les descriptions évocatrices et une galerie de personnages riches. (S. Mi.)" ;
+    ns1:name "Rivière-au-cerf-blanc" .
+
+ns1:Book34552102 a ns1:Book ;
+    ns1:auteur "Andrée Poulin" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Courte_Échelle ;
+    ns1:resume "Quel choix judicieux que celui de l’écriture en vers libres, qui scande les évènements, insuffle une puissance à chaque mot. (C. R.) Tout dans cette œuvre a été pensé avec soin pour nous faire réfléchir et mieux comprendre notre monde. (D. C.)" ;
+    ns1:name "Enterrer la lune" .
+
+ns1:Book34552103 a ns1:Book ;
+    ns1:auteur "Julie Morstad" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Comme_Des_Géants ;
+    ns1:resume "L’originalité du propos tient justement à cet impressionnant éventail de possibilités tout aussi libres qu’arbitraires. (F. S.)" ;
+    ns1:name "Un jour tout neuf" .
+
+ns1:Book34552104 a ns1:Book ;
+    ns1:auteur "Christiane Duchesne",
+      "Jérôme Minière" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Montagne_Secrète ;
+    ns1:resume "Quand on sait qu’on ne se lassera jamais de lire et relire un album, c’est qu’il réunit des qualités littéraires et un envoûtant pouvoir d’évocation. (R. L.)" ;
+    ns1:name "Un pique-nique au soleil" .
+
+ns1:Book34552105 a ns1:Book ;
+    ns1:auteur "Marie-Andrée Arsenault" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Morue_Verte ;
+    ns1:resume "Et toujours, partout, cette dentelle qui joue le rôle de l’écume ou des nuages. Un trésor sur la Grave. (D. S.)" ;
+    ns1:name "Des couleurs sur la Grave" .
+
+ns1:Book34552106 a ns1:Book ;
+    ns1:auteur "Gilles Tibo",
+      "Geneviève Després" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2020"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Bagnole ;
+    ns1:resume "Oh! comme il est agréable d’entreprendre tous ces Voyages! Dans cet album, c’est l’illustration de Geneviève Després qui surtout émerveille. (F. S.)" ;
+    ns1:name "Voyages autour de mon cœur" .
+
+ns1:Book34552107 a ns1:Book ;
+    ns1:auteur "Jacques Goldstyn" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2020"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Pastèque ;
+    ns1:resume "Avec Le tricot, Jacques Goldstyn offre sans doute son album le plus lumineux, sensible et personnel. (M. F.) La sensibilité de Goldstyn et la complémentarité entre le texte et les illustrations nous plongent au cœur de la transmission entre les générations. (S. Mi.)" ;
+    ns1:name "Le tricot" .
+
+ns1:Book34552108 a ns1:Book ;
+    ns1:auteur "Rémy Simard" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Bagnole ;
+    ns1:resume "Les illustrations animées et pétillantes de Rémy Simard, ses personnages expressifs ont besoin de peu de mots pour se rendre aussi drôles qu’attachants. (I. C.)" ;
+    ns1:name "Mon Teddy à moi" .
+
+ns1:Book34552109 a ns1:Book ;
+    ns1:auteur "Éric Dupont",
+      "Mathilde Cinq-Mars" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2020"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Marchand_De_Feuilles ;
+    ns1:resume "Mathilde Cinq-Mars magnifie ce traité par ses illustrations minutieuses, d’un grand réalisme. Un superbe album pour petits et grands. (C. R.)" ;
+    ns1:name "Nos oiseaux" .
+
+ns1:Book34552110 a ns1:Book ;
+    ns1:auteur "Eric",
+      "Devin",
+      "Terry Fan" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2020"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Scholastic ;
+    ns1:resume "Oh, Barnabé! Comme j’aurais voulu te libérer, toi et tes petits amis, pour réaliser ton rêve et t’amener contempler les étoiles. (S. C.)" ;
+    ns1:name "Le projet Barnabé" .
+
+ns1:Book34552111 a ns1:Book ;
+    ns1:auteur "Marie-Andrée Arsenault",
+      "Catherine Petit" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Bagnole ;
+    ns1:resume "L’expression «coup de cœur» prend tout son sens avec Un chemin dans la mer de Marie-Andrée Arsenault, parce que c’est à notre sensibilité qu’il s’adresse. (R. L.)" ;
+    ns1:name "Un chemin dans la mer" .
+
+ns1:Book34552112 a ns1:Book ;
+    ns1:auteur "François Blais" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2019"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Courte_Échelle ;
+    ns1:resume "Aucune des figures imposées ne se trouve dans Lac Adélard; ça n’en donne pas moins un excellent et captivant roman, et cela en soi est rafraîchissant. (D. S.)" ;
+    ns1:name "Lac Adélard" .
+
+ns1:Book34552113 a ns1:Book ;
+    ns1:auteur "Daniel Laverdure",
+      "Jean Morin" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Soulières ;
+    ns1:resume "C’est agréable de lire un conte traditionnel dans des mots nouveaux et d’y retrouver la magie et la folie de l’impossible. (F. S.)" ;
+    ns1:name "La bête et la belle" .
+
+ns1:Book34552114 a ns1:Book ;
+    ns1:auteur "Raymond Lévesque",
+      "Pierre Pratt" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Les_400_Coups ;
+    ns1:resume "Hymne à l’espérance, à l’espoir d’une humanité plus chaleureuse et d’un monde sans misère, la chanson de Raymond Lévesque se dévoile avec une infinie beauté dans cet album. (M. F.)" ;
+    ns1:name "Quand les hommes vivront d’amour" .
+
+ns1:Book34552115 a ns1:Book ;
+    ns1:auteur "Jean-Paul Eid" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Pastèque ;
+    ns1:resume "Il y a des livres qui nous touchent profondément et dont la lecture ne nous laisse pas indemne. On a l’impression de tenir entre nos mains un petit chef-d’œuvre... (C. R.)" ;
+    ns1:name "Le petit astronaute" .
+
+ns1:Book34552116 a ns1:Book ;
+    ns1:auteur "Nathalie Lagacé" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Isatis ;
+    ns1:resume "Une œuvre forte, à lire et à offrir, dont on se souvient longtemps après avoir tourné la dernière page. (S. Mi.)" ;
+    ns1:name "Le poids des seins" .
+
+ns1:Book34552117 a ns1:Book ;
+    ns1:auteur "Pierrette Dubé",
+      "Aurélien Galvan" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Courte_Échelle ;
+    ns1:resume "Plein de tendresse, de complicité et d’espièglerie, l’album est une joie à découvrir et à relire, encore et encore, comme un billet doux qu’on garde dans sa boite à trésors. (S. C.)" ;
+    ns1:name "La boîte aux lettres" .
+
+ns1:Book34552118 a ns1:Book ;
+    ns1:auteur "Terry",
+      "Eric Fan" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Scholastic ;
+    ns1:resume "C’est beaucoup en tant qu’adulte que j’ai pris plaisir à cette représentation de l’univers de l’enfance et de cette mini société. (R. L.)" ;
+    ns1:name "La merveille" .
+
+ns1:Book34552119 a ns1:Book ;
+    ns1:auteur "Marion Arbona" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Les_400_Coups ;
+    ns1:resume "Un album de très grand format, tout en noir et blanc, que les petits comme les grands prendront plaisir à explorer longtemps, est une superbe ode à l’imaginaire. (I. C.)" ;
+    ns1:name "À travers les fenêtres" .
+
+ns1:Book34552120 a ns1:Book ;
+    ns1:auteur "Wallace Edwards" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2020-v43-n2-lurelu05476/" ;
+    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Scholastic ;
+    ns1:resume "En littérature jeunesse, il y aurait donc encore de la place pour le plaisir, le simple plaisir des yeux, sans thèse et sans manifeste. (D. S.)" ;
+    ns1:name "Sur ma route" .
+   
+ns1:Book34552121 a ns1:Book ;
+    ns1:auteur "Rogé" ;
+    ns1:illustrateur "Rogé" ;
+    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Bagnole ;
+    ns1:resume "J'ai eu un immense coup de cœur pour ce superbe album, recueil de poèmes créés par des enfants de Mingan lors d'ateliers d'écriture dirigés par les poètes Laure Morali et Rita Mestokosho.  Ils sont accompagnés de portraits d'enfants du village, réalisés avec une grande sensibilité par Rogé.  (CR)" ;
+    ns1:name "Mingan mon village" .
+
+ns1:Book34552122 a ns1:Book ;
+    ns1:auteur "Rhéa Dufresne" ;
+    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:L_Isatis ;
+    ns1:resume "C'est le travail dessiné de Jacinthe Chevalier pour ce petit album qui m'inspire ce coup de cœur. La force suggestive de l'illustration, qui troque son trop plein de réalisme contre la pure fantaisie, me réjouit. (FS)" ;
+    ns1:name "Aujourd'hui, le ciel" .
+
+ns1:Book34552123 a ns1:Book ;
+    ns1:auteur "Pierre Labrie" ;
+    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Soulières_éditeur ;
+    ns1:resume "Ce sont les mots, la manière, la poésie de Pierre Labrie dans Nous sommes ce continent, un livre sur l'adolescence comme il y en a peu, qui ont supplanté toutes mes autres lectures de 2012. (MF)" ;
+    ns1:name "Nous sommes ce continent" .
+
+ns1:Book34552124 a ns1:Book ;
+    ns1:auteur "Gilles Tibo" ;
+    ns1:illustrateur "Geneviève Després" ;
+    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Imagine ;
+    ns1:resume "Avant même de remporter le Prix Québec/Wallonie-Bruxelles 2013, cet album était l'un de mes coups de cœur. [...] Outre la couverture et la succulente histoire, la plume de Gilles Tibo, reconnu pour marier habilement l'action, l'humour et la tendresse, est tout aussi séduisante. (NF)" ;
+    ns1:name "Le petit chevalier qui n'aimait pas la pluie" .
+
+ns1:Book34552125 a ns1:Book ;
+    ns1:auteur "Susin Nielsen" ;
+    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Courte_Échelle ;
+    ns1:resume "Ah, l'humour intelligent! Si délicieux à lire et malheureusement trop rare en littérature jeunesse. (AP)" ;
+    ns1:name "Les maux d'Ambroise Bukowski" .
+
+ns1:Book34552126 a ns1:Book ;
+    ns1:auteur "Marianne Dubuc" ;
+    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Pastèque ;
+    ns1:resume "Coup de cœur, coup de foudre, coup d’émoi, je les ai tous eus cette année chaque fois que je découvrais un nouveau titre de la talentueuse Marianne Dubuc. (MF). Une histoire riche en intériorité, avec ses petits mots parsemés çà et là et une imagerie d’une grande intensité. Une œuvre de haut calibre! (FS)" ;
+    ns1:name "Le lion et l’oiseau" .
+
+ns1:Book34552127 a ns1:Book ;
+    ns1:auteur "Marianne Dubuc" ;
+    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Pastèque ;
+    ns1:resume "C’est un album riche, profond, intelligent et audacieux, qui nous parle de la vie et de l’amitié avec sensibilité. À lire et relire avec toujours autant de plaisir! (DC). Marianne utilise judicieusement la blancheur de la page, comme des silences qui mettent en valeur un élément, une émotion. Magnifique album d’une tendresse infinie. (CR)" ;
+    ns1:name "Le lion et l’oiseau" .
+
+ns1:Book34552128 a ns1:Book ;
+    ns1:auteur "Nadine Robert" ;
+    ns1:illustrateur "Brigitte Henry" ;
+    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Pastèque ;
+    ns1:resume "Simple en apparence, ce récit fait sourire et réfléchir sans dicter de morale, mais en enseignant la nuance… Nadine Robert possède l’art d’exprimer subtilement les travers humains, (MR)" ;
+    ns1:name "Le poisson frais" .
+
+ns1:Book34552129 a ns1:Book ;
+    ns1:auteur "Émilie Leduc" ;
+    ns1:datePublished "2013"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Courte_Échelle ;
+    ns1:resume "Le dessin vaporeux, les compositions tout en mouvement, les images finales qui montrent toutes une ronde ou une fête… tout cela réjouit l’œil et l’esprit. (DS)" ;
+    ns1:name "Un oiseau entend, Un panda tricote, Une chèvre mange, Un ours invite" .
+
+ns1:Book34552130 a ns1:Book ;
+    ns1:auteur "Susin Nielsen" ;
+    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Courte_Échelle ;
+    ns1:resume "Le roman a été couronné du Prix du Gouverneur général du Canada dans sa version originale. Les protagonistes sont d’une grande authenticité dans leurs rapports entre eux. (M. T.)" ;
+    ns1:name "Ma vie (racontée malgré moi) par Henry Larsen" .
+
+ns1:Book34552131 a ns1:Book ;
+    ns1:auteur "Samuel Parent" ;
+    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Éditions_Michel_Quintin ;
+    ns1:resume "J’appréciais déjà Sampar pour les œuvres qu’il avait réalisées en duo avec Alain M. Bergeron. La série BD «Guiby», sa première production en solo, fut un énorme coup de cœur pour moi. (M. T.)" ;
+    ns1:name "Le piège" .
+
+ns1:Book34552132 a ns1:Book ;
+    ns1:auteur "Jacques Goldstyn" ;
+    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Éditions_de_La_Pastèque ;
+    ns1:resume "Jacques Goldstyn nous a concocté un magnifique album dans lequel il nous propose de jeter un regard sur la vie dans un village […]. Dans cet album, les mots et les illustrations se marient pour créer un effet d’innocence enfantine. (D. C.). Il faut savoir gré à l’auteur-dessinateur, ainsi qu’à son éditeur, d’avoir fait fi de la prudence, du réalisme et de la rectitude, pour nous faire cadeau d’un album serein, au propos léger. (D. S.)" ;
+    ns1:name "L’arbragan" .
+
+ns1:Book34552133 a ns1:Book ;
+    ns1:auteur "Marianne Dubuc" ;
+    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Comme_des_géants ;
+    ns1:resume "Marianne Dubuc capte l’instant, le savoure, comme le font les enfants. Sa plume délicate, son crayonné minutieux font honneur à la simplicité dans laquelle se trouvent des instants précieux. (M. F.)" ;
+    ns1:name "L’autobus" .
+
+ns1:Book34552134 a ns1:Book ;
+    ns1:auteur "André Marois" ;
+    ns1:illustrateur "Patrick Doyon" ;
+    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Éditions_de_La_Pastèque ;
+    ns1:resume "Autre émoi, un roman graphique qui se situe à la jonction de la bande dessinée et du livre illustré, dans lequel tout contribue à stimuler notre plaisir de lire. Un mélange heureux de quotidienneté, d’amitié, d’humour et d’intrigue. (M. F.)" ;
+    ns1:name "Le voleur de sandwichs" .
+
+ns1:Book34552135 a ns1:Book ;
+    ns1:auteur "Christiane Duchesne" ;
+    ns1:illustrateur "Pierre Pratt" ;
+    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Éditions_de_La_Bagnole ;
+    ns1:resume "Il y a quelque chose de personnel et d’intime à lire un texte écrit au «je». Surtout quand le propos est doux. J’aime surtout la façon délicate qu’a toute cette histoire illustrée de faire son chemin jusqu’à nous. (F. S.)" ;
+    ns1:name "Moi, mon chat" .
+
+ns1:Book34552136 a ns1:Book ;
+    ns1:auteur "Renée Robitaille" ;
+    ns1:illustrateur "Philippe Béha" ;
+    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Éditions_de_La_Bagnole ;
+    ns1:resume "Dans l’écriture de Renée Robitaille, on perçoit tout son talent et son expérience de conteuse. Douze oiseaux, avec ces transformations de mots basées sur leur sonorité, avec son rythme insufflé par ses rimes, prend toute sa saveur lorsqu’il est lu à voix haute. (C. R.)" ;
+    ns1:name "Douze oiseaux" .
+
+ns1:Book34552137 a ns1:Book ;
+    ns1:auteur "JonArno Lawson" ;
+    ns1:illustrateur "Sydney Smith" ;
+    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Bayard_Canada_Livres ;
+    ns1:resume "Une œuvre sans texte qui raconte silencieusement, dans une suite d’images d’une grande éloquence, le parcours à travers la ville d’une petite fille et d’un adulte. Un bel album sur la force de la nature et de la bonté. (M. R.)" ;
+    ns1:name "Les fleurs poussent aussi sur les trottoirs" .
+
+ns1:Book34552138 a ns1:Book ;
+    ns1:auteur "Renée Robitaille" ;
+    ns1:illustrateur "Éloïse Brodeur" ;
+    ns1:datePublished "2014"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Éditions_Planète_rebelle ;
+    ns1:resume "Pour une rigolade retentissante en famille d’abord, une histoire pétillante et impertinente de la conteuse Renée Robitaille. Une histoire bien racontée de tendresse, d’intimité joyeuse et de liberté en famille. (I. C.)" ;
+    ns1:name "La journée des pets et des rots" .
+
+ns1:Book34552139 a ns1:Book ;
+    ns1:auteur "Pierre Lapointe" ;
+    ns1:illustrateur "Catherine Lepage" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Comme_des_géants ;
+    ns1:resume "Peu d’albums créent de l’émoi, bousculent les repères, provoquent des discussions autant que Pépito. On a adoré, souvent, on a moins aimé peut-être, mais on en a parlé. (M.F.)" ;
+    ns1:name "Le tragique destin de Pépito" .
+
+ns1:Book34552140 a ns1:Book ;
+    ns1:auteur "Christine Baldacchino" ;
+    ns1:illustrateur "Isabelle Malenfant" ;
+    ns1:datePublished "2015"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Bayard_Canada_livres ;
+    ns1:resume "Malenfant dépeint à merveille les émotions des personnages; que de tendresse dans le regard que s’échangent Boris et sa mère! Une superbe histoire, tout en subtilité, qui parle d’exclusion et surtout d’acceptation. (C. R.)" ;
+    ns1:name "Boris Brindamour et la robe orange" .
+
+ns1:Book34552141 a ns1:Book ;
+    ns1:auteur "Jacques Goldstyn" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Bayard_Canada_livres ;
+    ns1:resume "J’aime que, dans une histoire, tout ne soit pas formulé et qu’on puisse lire entre les lignes, entre les images et apprécier toute la subtilité de sens. (F. S.) Des illustrations aux traits vifs, avec des touches d’aquarelle, portent un regard à la fois poétique et réaliste sur une sombre réalité. (D. C.)" ;
+    ns1:name "Le prisonnier sans frontières" .
+
+ns1:Book34552142 a ns1:Book ;
+    ns1:auteur "Andrée Poulin" ;
+    ns1:illustrateur "Marie Lafrance" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_bagnole ;
+    ns1:resume "Deux garçons… est une réflexion sur les préjugés que transmettent les parents. Andrée Poulin y fait montre d’une économie de mots délibérée, laissant les illustrations jouer un grand rôle. Le tout s’achève sur une note émouvante. (S. C.)" ;
+    ns1:name "Deux garçons et secret" .
+
+ns1:Book34552143 a ns1:Book ;
+    ns1:auteur "Philippe Soldevila" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Théâtre_des_Confettis ;
+    ns1:resume "J’ai été particulièrement touché et transporté par ce spectacle. De l’ensemble de la production se dégageait une belle cohérence, au service de la réflexion, qui passait à travers l’émotion transmise par le jeu bien investi des trois interprètes. (R. B.)" ;
+    ns1:name "Conte de la neige" .
+
+ns1:Book34552144 a ns1:Book ;
+    ns1:auteur "André Marois" ;
+    ns1:illustrateur "Pierre Pratt" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Druide ;
+    ns1:resume "Quelle idée originale ! Marois et Pratt ont créé un album dans lequel humour et fantastique s’allient pour faire rire les petits et les grands. (D. C.) La magie opère! Pour illustrer ce texte qui nous replonge directement dans les odeurs de l’école, l’éditeur a choisi le talentueux Pierre Pratt. Ses lignes dynamiques se marient à merveille à cette histoire un peu folle où la rêverie est à l’honneur. (N. F.)" ;
+    ns1:name "Aux toilettes" .
+
+ns1:Book34552145 a ns1:Book ;
+    ns1:auteur "Pierrette Dubé" ;
+    ns1:illustrateur "Marie-Eve Tremblay" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Les_400_coups ;
+    ns1:resume "Comme coup de cœur, j’opte pour l’humour intelligent, à saveur sociale, de Pierrette Dubé. Les illustrations de Marie-Ève Tremblay sont joyeuses et reflètent la candeur des poulettes. (R. L.)" ;
+    ns1:name "Tarzanette et le roi du petit déjeuner" .
+
+ns1:Book34552146 a ns1:Book ;
+    ns1:auteur "Fanny Britt" ;
+    ns1:illustrateur "Isabelle Arsenault" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Pastèque ;
+    ns1:resume "La douceur et la beauté qui se dégagent de cette histoire en font un chef-d’œuvre – oui oui, un chef-d’œuvre – littéraire et graphique, une bouffée d’espérance envers l’humanité. (M.F.) Britt et Arsenault racontent une étape de la vie de Louis avec poésie, douceur et justesse, tant dans les mots que dans les illustrations. Un récit lumineux qui éclaire une sombre réalité. (D. C.)" ;
+    ns1:name "Louis parmi les spectres" .
+
+ns1:Book34552147 a ns1:Book ;
+    ns1:auteur "Louis Émond" ;
+    ns1:illustrateur "Steve Adams" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Bagnole ;
+    ns1:resume "Le grand format de l’album sied à merveille à cette œuvre, une des trop rares illustrées par Steve Adams. Il nous offre des illustrations qui traduisent magistralement l’émotion et la poésie du texte. (C. R.) Coups de cœur impressionnistes, cette année : la mémoire sollicitée, celle des souvenirs d’enfance, celle des souvenirs imaginaires. (D. S.)" ;
+    ns1:name "La belle histoire d’une vieille chose" .
+
+ns1:Book34552148 a ns1:Book ;
+    ns1:auteur "Isabelle Arsenault" ;
+    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Pastèque ;
+    ns1:resume "Un magnifique éloge à l’imaginaire qui s’intensifie à chaque rencontre, jusqu’à l’envolée finale. (C. R.) Le texte, dont la structure répétitive en crescendo est très efficace, reflète admirablement la spontanéité des enfants. (R. L.)" ;
+    ns1:name "L’oiseau de Colette" .
+
+ns1:Book34552149 a ns1:Book ;
+    ns1:auteur "Michel Thériault" ;
+    ns1:illustrateur "Magali Ben" ;
+    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Bouton_d’Or_Acadie ;
+    ns1:resume "Tout simple et cependant si efficace! L’album est doux comme les courbes données à la calligraphie de certaines phrases, comme les nuances de l’aquarelle en doubles pages de l’artiste. (F. S.)" ;
+    ns1:name "Ils sont…" .
+
+ns1:Book34552150 a ns1:Book ;
+    ns1:auteur "Philippe Béha" ;
+    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:L’Isatis ;
+    ns1:resume "Les images de Béha parlent aux enfants. Ce sont des images qui les fascinent, les intriguent et qui sollicitent leur imaginaire. (I. C.) Et cette poésie de toutes les pages, autant celle des images que celle des textes. Chapeau, Béha ! (D. S.)" ;
+    ns1:name "Bleu" .
+
+ns1:Book34552151 a ns1:Book ;
+    ns1:auteur "Nadine Poirier" ;
+    ns1:illustrateur "Amélie Dubois" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Les_400_coups ;
+    ns1:resume "Un livre exceptionnel qui aidera les jeunes lecteurs à éveiller leur empathie, à comprendre le chagrin face à la perte d’un proche et, peut-être, à franchir les étapes vers le retour de leur sourire. (S. C.)" ;
+    ns1:name "La peine de Sophie-Fourire" .
+
+ns1:Book34552152 a ns1:Book ;
+    ns1:auteur "Jean-François Sénéchal" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Leméac ;
+    ns1:resume "Jean-François Sénéchal a écrit cette œuvre avec finesse et sensibilité. Il a trouvé l’équilibre fragile entre une écriture d’une qualité littéraire indéniable et une voix narrative très juste. (D. C .)" ;
+    ns1:name "Le boulevard" .
+
+ns1:Book34552153 a ns1:Book ;
+    ns1:auteur "Nadine Poirier" ;
+    ns1:illustrateur "Claude Dubois" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:D’Eux ;
+    ns1:resume "Le texte est d’une grande finesse. Les illustrations à l’aquarelle sont magnifiques et rappellent celles de L’homme qui plantait des arbres. (R. L.)" ;
+    ns1:name "Le jardinier qui cultivait des livres" .
+
+ns1:Book34552154 a ns1:Book ;
+    ns1:auteur "Pascal Blanchet" ;
+    ns1:datePublished "2016"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:La_Pastèque ;
+    ns1:resume "Ces pages de pur plaisir dans le style streamline ou art déco, en beige et brun. (D. S.)" ;
+    ns1:name "En voiture !" .
+
+ns1:Book34552155 a ns1:Book ;
+    ns1:auteur "Eric Fan, Terry Fan" ;
+    ns1:datePublished "2017"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher ns1:Scholastic ;
+    ns1:resume "«Les frères Fan» : ça ne s’invente pas, un nom pareil. Terry Fan, comme dans fantaisie, Éric Fan, comme dans fantastique. Sortis de rêves qu’on souhaiterait avoir, ces arbres et ces buissons taillés au clair de lune… (D. S.)" ;
+    ns1:name "Le jardinier de la nuit" .
+
+# Book 1
+ns1:Book234567 a ns1:Book ;
+    ns1:auteur "Javier Swedzky" ;
+    ns1:piecePresentee "Maison Théâtre" ;
+    ns1:piecePresenteePar "Théâtre de l'œil" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "N/A"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "N/A" ;
+    ns1:resume "Voilà une production enjouée et spectaculaire qui en mettait plein les yeux, les oreilles et la tête des jeunes spectateurs. (RB)\n«...l'un des spectacles les plus drôles qu'il m'ait été donné de voir à la Maison Théâtre.» (DS)" ;
+    ns1:name "Ah, la vache!" .
+
+# Book 2
+ns1:Book345678 a ns1:Book ;
+    ns1:auteur "Mélanie Watt" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Scholastic" ;
+    ns1:resume "L'auteure nous prouve une fois de plus, dans cette histoire à deux et même à trois voix, son talent et son humour irrésistible. (CR)" ;
+    ns1:name "Chester" .
+
+# Book 3
+ns1:Book456789 a ns1:Book ;
+    ns1:auteur "Jacques Lazure" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Soulières Éditeur" ;
+    ns1:resume "Le succès critique qu'a remporté cette histoire, pour laquelle l'auteur a reçu le Grand Prix du livre de la Montérégie plus tôt cette année, est amplement mérité. (SM)" ;
+    ns1:name "La Mandragore" .
+
+# Book 4
+ns1:Book567890 a ns1:Book ;
+    ns1:auteur "Carole Tremblay" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "Cet album répond avec une grande sensibilité à la quête d'identité de tous ces enfants adoptés, qu'ils soient d'ici ou d'ailleurs. (DC)" ;
+    ns1:name "Ton histoire d'amour" .
+
+# Book 5
+ns1:Book678901 a ns1:Book ;
+    ns1:auteur "Charlotte Gingras" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "La courte échelle" ;
+    ns1:resume "Grâce au talent incomparable d'une auteure maintes fois primée, les scènes d'une dureté bouleversante alternent avec des moments d'une tendresse incommensurable. (AP)" ;
+    ns1:name "Ophélie" .
+
+# Book 6
+ns1:Book789012 a ns1:Book ;
+    ns1:auteur "François Barcelo" ;
+    ns1:auteur "François Gravel" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Québec Amérique" ;
+    ns1:resume "À un trimestre près cette année, deux écrivains chevronnés publiaient un roman sur le même thème : l'écriture. [...] Voilà une heureuse coïncidence thématique qu'on souhaite contagieuse. (GL)" ;
+    ns1:name "Premier roman pour Momo de Sinro et Sales Crapaud" .
+
+# Book 1
+ns1:Book123456 a ns1:Book ;
+    ns1:auteur "Camille Bouchard" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Boréal" ;
+    ns1:resume "Au-delà de l'intérêt que le lecteur portera aux détails historiques de ces premières aventures de l'homme blanc en sol américain, je garde surtout le souvenir d'avoir refait le parcours fascinant de la découverte de l'Autre. (SR)" ;
+    ns1:name "Trente-neuf" .
+
+# Book 2
+ns1:Book234567 a ns1:Book ;
+    ns1:auteur "Angèle Delaunois" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "L'Isatis" ;
+    ns1:resume "L'auteure signe un texte émouvant de sobriété, de clarté et de vérité... Les illustrations de Christine Delezenne offrent une rare diversité de styles, de techniques et de ton. (GL)\nIl y a de ces lectures qui créent une boule d'émotion dans la gorge. Il y a de ces livres qui laissent une empreinte lumineuse, indélébile. La clé est un de ceux-là. (AP)" ;
+    ns1:name "La clé" .
+
+# Book 3
+ns1:Book345678 a ns1:Book ;
+    ns1:auteur "Fil et Julie" ;
+    ns1:illustrations "Julie" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Hurtubise" ;
+    ns1:resume "Un petit album délicieusement bon. À la lecture de cet album, les cours de récréation s'emplissent de petites voix chantant cette comptine avec délectation. (DC)" ;
+    ns1:name "Crème glacée, limonade sucrée" .
+
+# Book 4
+ns1:Book456789 a ns1:Book ;
+    ns1:illustrations "Stéphane Jorisch" ;
+    ns1:adaptation "Lucie Papineau" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "En 2008, Jorisch gagnait le Prix du Gouverneur général, volet jeunesse (illustrations), du côté anglais, pour The Owl and the Pussycat. C'est pour la superbe édition française que j'ai eu un coup de cœur. (DS)\nSans hésitation, j'ai été conquise par l'album Sire Hibou et dame Chat ... Le texte doucement surréaliste d'Edward Lear a su trouver, dans le travail de l'illustrateur, lignes et couleurs d'une grande justesse. (FS)" ;
+    ns1:name "Sire Hibou et dame Chat" .
+
+# Book 5
+ns1:Book567890 a ns1:Book ;
+    ns1:auteur "Serge Marois" ;
+    ns1:creation "L'Arrière Scène" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "L'Arrière Scène" ;
+    ns1:resume "Pour le vent de légèreté, de nostalgie du bonheur de l'enfance, d'humour et, osons le mot, de tendresse toute filiale qui parcourt les trois petits quarts d'heure de la représentation. (RB)" ;
+    ns1:name "La Robe de ma mère" .
+
+# Book 6
+ns1:Book678901 a ns1:Book ;
+    ns1:auteur "Claudie Stanké" ;
+    ns1:illustrations "Barroux" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "Le texte évocateur et imagé de Claudie Stanké dévoile le drame avec douceur en communiquant bien l'émotion à travers ses répétitions. Il ne dit pas tout et permet à l'enfant de s'approprier l'histoire. (AL)" ;
+    ns1:name "Parle, Petit Loup" .
+
+# Book 7
+ns1:Book789012 a ns1:Book ;
+    ns1:auteur "Anne Villeneuve" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "Cet album empreint d'émotions et riche en histoire (avec le grand H et le petit h), devrait se retrouver dans toutes les bibliothèques scolaires de la province. (AP)" ;
+    ns1:name "Chère Traudi" .
+
+# Book 8
+ns1:Book890123 a ns1:Book ;
+    ns1:auteur "François Thisdale" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Hurtubise" ;
+    ns1:resume "Ce visage, en gros plan, à la fois déterminé et direct, est si près de nous qu'on a envie de le caresser! Il a une petite étoile dans l'œil. (FS)\nL'auteur nous offre un moment de douceur et de réflexion sur le début de la vie, sur le souvenir de ces moments passés à se laisser bercer dans le ventre de sa mère. (DC)" ;
+    ns1:name "Nini" .
+
+# Book 9
+ns1:Book901234 a ns1:Book ;
+    ns1:auteur "Marie-Louise Gay" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "Comme pour les albums précédents, la poésie est au rendez-vous, tant dans les illustrations que dans le texte. (CR)" ;
+    ns1:name "Quand Stella était toute petite" .
+
+# Book 10
+ns1:Book012345 a ns1:Book ;
+    ns1:auteur "Geneviève Côté" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Scholastic" ;
+    ns1:resume "L'efficacité de cet album réside dans sa grande simplicité, il va tout droit à l'essentiel. (CR)" ;
+    ns1:name "Comme toi!" .
+
+# Book 11
+ns1:Book123450 a ns1:Book ;
+    ns1:auteur "Luc Tartar" ;
+    ns1:creation "Théâtre Bluff" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Théâtre Bluff" ;
+    ns1:resume "Coup de cœur pour cette œuvre du Théâtre Bluff au titre insolite mais porteur: S'embrasent, comme s'embrassent, comme prennent feu de façon spontanée. (RB)" ;
+    ns1:name "S'embrasent" .
+
+# Book 12
+ns1:Book234561 a ns1:Book ;
+    ns1:auteur "Jocelin Boisvert" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Soulières Éditeur" ;
+    ns1:resume "Voilà le genre de recueil dont la lecture fait sourire du début à la fin. On sent que l'auteur s'est fait plaisir en développant au maximum ses concepts les plus fous. (SM)" ;
+    ns1:name "Des nouvelles tombées du ciel" .
+
+# Book 13
+ns1:Book345672 a ns1:Book ;
+    ns1:auteur "Suzanne Lebeau" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Le Carrousel" ;
+    ns1:resume "Avec une sobriété, un dépouillement, une sensibilité qui excluent tout pathos ou distance journalistique, le texte témoigne de la réalité des enfants soldats, à la fois victimes et bourreaux. (GL)" ;
+    ns1:name "Le bruit des os qui craquent" .
+
+# Book 14
+ns1:Book456783 a ns1:Book ;
+    ns1:auteur "Jean-Pierre Davits" ;
+    ns1:illustrations "Manon Gauthier" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "Le personnage anticonformiste, audacieux sans être rebelle, fait sourire autant que les jeux de mots et les répétitions dans le texte, qui privilégie l'humour particulier de la caricature. (AL)" ;
+    ns1:name "Triste sort ou l'hurluberlu de Morneville" .
+
+# Book 1
+ns1:Book123456 a ns1:Book ;
+    ns1:auteur "Collectif" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Soulières Éditeur" ;
+    ns1:resume "Un superbe ouvrage hors série, né des talents d’artiste, de graphiste et d’éditeur, respectivement de Caroline Merola, Annie Pencrech et Robert Soulières. (DS)" ;
+    ns1:name "Oh! La vache!" .
+
+# Book 2
+ns1:Book234567 a ns1:Book ;
+    ns1:auteur "Mario Brassard" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Soulières Éditeur" ;
+    ns1:resume "C’est bref, livré en courts tableaux lyriques, où de brillantes trouvailles littéraires côtoient les belles images grisées de Suana Verelst. (DS)" ;
+    ns1:name "La saison des pluies" .
+
+# Book 3
+ns1:Book345678 a ns1:Book ;
+    ns1:auteur "Joël Da Silva" ;
+    ns1:creation "Théâtre Magasin" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Théâtre Magasin" ;
+    ns1:resume "Pour l’audace d’aller au bout de ses fantasmes, pour la maîtrise incomparable qu’atteint ce créateur en pleine maturité, pour la folie, la fantaisie, et pour la joie manifeste des petits spectateurs ébahis... (RB)" ;
+    ns1:name "Le temps des muffins" .
+
+# Book 4
+ns1:Book456789 a ns1:Book ;
+    ns1:auteur "Angèle Delaunois" ;
+    ns1:illustrations "Christine Delezenne" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "L’isatis" ;
+    ns1:resume "Ici, texte et illustrations se marient à merveille pour engendrer un récit à la fois poignant et puissant sur un aspect de la guerre encore peu exploré. (DC)" ;
+    ns1:name "Une petite bouteille jaune" .
+
+# Book 5
+ns1:Book567890 a ns1:Book ;
+    ns1:auteur "Linda Amyot" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Leméac Éditeur" ;
+    ns1:resume "L’auteure a su trouver les mots justes pour rendre compte de cette quête de soi parfois si difficile à l’adolescence. (DC)" ;
+    ns1:name "La fille d’en face" .
+
+# Book 6
+ns1:Book678901 a ns1:Book ;
+    ns1:auteur "Marianne Dubuc" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "La courte échelle" ;
+    ns1:resume "Voilà un livre qui fait confiance aux tout-petits et à cette capacité qui leur est propre de voir le beau et le merveilleux dans chaque chose. (RD)" ;
+    ns1:name "Devant ma maison" .
+
+# Book 7
+ns1:Book789012 a ns1:Book ;
+    ns1:auteur "Charlotte Gingras" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "La courte échelle" ;
+    ns1:resume "L’écriture de Charlotte Gingras nous rappelle avec art que des femmes et des enfants voisins vivent au cœur de leur foyer des guerres toutes proches. (GL)" ;
+    ns1:name "Guerres" .
+
+# Book 8
+ns1:Book890123 a ns1:Book ;
+    ns1:auteur "Lili Chartrand" ;
+    ns1:illustrations "Marion Arbona" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "C’est d’abord pour les délicates illustrations de Marion Arbona que j’ai eu un coup de cœur. Ses illustrations ont quelque chose d’aérien, elles insufflent au récit toute son atmosphère. (CR)" ;
+    ns1:name "La craie rose" .
+
+# Book 9
+ns1:Book901234 a ns1:Book ;
+    ns1:auteur "Christiane Duchesne" ;
+    ns1:illustrations "François Thisdale" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Hurtubise" ;
+    ns1:resume "Christiane Duchesne parvient à transporter ses lecteurs dans des mondes à la fois ancrés dans un réel connu, mais portés par une poésie, une douceur particulière. (MF)" ;
+    ns1:name "Mémère et ses cinq monstres" .
+
+# Book 10
+ns1:Book012345 a ns1:Book ;
+    ns1:auteur "Lucie Papineau" ;
+    ns1:illustrations "Philippe Béha" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "C’est en dispersant, au fil des pages, de nombreux moments colorés que se trame cette histoire de patience, de persévérance et surtout de fidélité. (FS)" ;
+    ns1:name "Méchant Coco" .
+
+# Book 11
+ns1:Book123450 a ns1:Book ;
+    ns1:auteur "Geneviève Côté" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Scholastic" ;
+    ns1:resume "Une manière d’aborder, sans lourdeur aucune, l’essentiel des relations avec l’autre dans le respect de ce que chacun est, fondamentalement. (IC)" ;
+    ns1:name "Sans toi!" .
+
+# Book 12
+ns1:Book234561 a ns1:Book ;
+    ns1:auteur "Caroline Merola" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "Dans ces neuf petits contes tout en rimes, l’auteure-illustratrice s’amuse avec les mots et leur sonorité (...) C’est tout d’abord pour ses magnifiques illustrations, aux couleurs chaudes et envoûtantes, que j’ai eu un coup de cœur. (CR)" ;
+    ns1:name "Histoires sucrées" .
+
+# Book 13
+ns1:Book345672 a ns1:Book ;
+    ns1:auteur "Caroline Merola" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "La courte échelle" ;
+    ns1:resume "À travers formes et couleurs, elle force le regard à plus d’attention (...) Que ce soit dans un sens ou dans l’autre, l’album est source d’émerveillement et de découvertes. (FS)" ;
+    ns1:name "Abracadabra" .
+
+# Book 14
+ns1:Book456783 a ns1:Book ;
+    ns1:auteur "Mario Brassard" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Soulières éditeur" ;
+    ns1:resume "Voici un texte très émouvant, écrit avec une grande sensibilité, très proche de la réalité. La douceur des mots, la poésie de la langue et des illustrations parfois très fortes en font un ouvrage remarquable, un incontournable. (DC)" ;
+    ns1:name "La saison des pluies" .
+
+# Book 15
+ns1:Book567890 a ns1:Book ;
+    ns1:auteur "Louis Émond" ;
+    ns1:illustrations "Philippe Béha" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Hurtubise" ;
+    ns1:resume "Un livre débordant de sensibilité, créé par une plume lucide, touchante et brillante. On y entre et on se laisse transporter au gré des pensées, des rêves de ce personnage attachant à qui l’on a envie de sourire et de dire oui. (MF)" ;
+    ns1:name "Le monde de Théo" .
+
+# Book 16
+ns1:Book678901 a ns1:Book ;
+    ns1:auteur "Maude Bonenfant" ;
+    ns1:illustrations "Marion Arbona" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Les heures bleues" ;
+    ns1:resume "Où Marion Arbona a-t-elle trouvé le temps de créer ces vingt-six planches, très différentes les unes des autres dans le style et dans les techniques employées? C’est une fête pour le regard et pour l’imagination. (DS)" ;
+    ns1:name "Abécédaire des monstres" .
+
+# Book 17
+ns1:Book789012 a ns1:Book ;
+    ns1:auteur "Angèle Delaunois" ;
+    ns1:illustrations "Pierre Houde" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#45_2_2022" ;
+    ns1:datePublished "2012"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "L’Isatis" ;
+    ns1:resume "Cette histoire est destinée aux enfants. Mais la valeur spirituelle des thèmes abordés, et les images qui évoquent bien les sentiments liés à la nature, à la perte et à la renaissance, touchent les âmes bien au-delà de cet âge. (MR)" ;
+    ns1:name "Le chant de mon arbre" .
+
+# Book 1
+ns1:Book123456 a ns1:Book ;
+    ns1:auteur "Martine Latulippe" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "Martine Latulippe a écrit un texte dynamique à l'humour efficace. Les enfants l'adorent et rient de ses descriptions, de ses mises en situation rigolotes, des réflexions du jeune héros sur son père, sur son entourage et sur lui-même. (DC)" ;
+    ns1:name "Lorian Loubier, superhéros" .
+
+# Book 2
+ns1:Book234567 a ns1:Book ;
+    ns1:auteur "Suzanne Lebeau" ;
+    ns1:piecePresenteePar "Le Carrousel" ;
+    ns1:piecePresenteeAMaisonTheatre "true" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Le Carrousel" ;
+    ns1:resume "Voici une belle histoire inspirée de la vie réelle de Pierre Avezard, un homme laid qui a fait de sa vie une œuvre d'art. Touchant. La production d'une rigueur exemplaire misait essentiellement sur le texte, mais comportait aussi une scénographie ingénieuse et poétique. (RB)" ;
+    ns1:name "Petit Pierre" .
+
+# Book 3
+ns1:Book345678 a ns1:Book ;
+    ns1:auteur "Marie-Danielle Croteau" ;
+    ns1:illustrations "Rogé" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "Un gnome à la mer c'est un hommage au pouvoir de l'imaginaire, l'histoire prenante d'une amitié extraordinaire et aussi, à l'arrière-plan, le portrait d'un papa discret mais véritablement sensible, complice et attentif à son fiston. (IC)" ;
+    ns1:name "Un gnome à la mer" .
+
+# Book 4
+ns1:Book456789 a ns1:Book ;
+    ns1:auteur "Marie-Francine Hébert" ;
+    ns1:illustrations "Steve Adams" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "J'ai tout d'abord été séduite par les illustrations tout en rondeur qui expriment si finement la tendresse unissant Luca et sa mère. Puis je suis tombée sous le charme des mots de Marie-Francine Hébert. Ces mots empreints de poésie qui, dès la première page, créent une complicité entre le narrateur et le lecteur. (CR)" ;
+    ns1:name "Mon rayon de soleil" .
+
+# Book 5
+ns1:Book567890 a ns1:Book ;
+    ns1:auteur "Élise Turcotte" ;
+    ns1:illustrations "Daniel Sylvestre" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "La courte échelle" ;
+    ns1:resume "Ce qui me frappe au premier abord, c'est le tracé élégant du pinceau qui encercle les formes. Un tracé qui me fait imaginer l'outil et le geste: un probable pinceau à poils souples et un doigté aussi précis que délicat font vivre ce minuscule personnage. (FS)" ;
+    ns1:name "Puce. C'est bizarre et Puce. C'est sale" .
+
+# Book 6
+ns1:Book678901 a ns1:Book ;
+    ns1:auteur "Guillaume Bourgault" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Vents d'Ouest" ;
+    ns1:resume "Les gais ou les bisexuels comptent pour plus de 60 % des jeunes hommes ayant tenté de se suicider. Imaginons que Philippe avec un grand H tombe sous les yeux d'un adolescent vacillant au bord du gouffre qui lui semble peut-être la seule sortie envisageable, et que le livre éveille en lui une lueur d'espoir. Si de cette manière le roman sauvait des vies, ne serait-ce qu'une vie, il aurait valu toute la persévérance et le courage qu'y a mis Guillaume Bourgault. (DS)" ;
+    ns1:name "Philippe avec un grand H" .
+
+# Book 7
+ns1:Book789012 a ns1:Book ;
+    ns1:auteur "Marie-Francine Hébert" ;
+    ns1:illustrations "Janice Nadeau" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "Peut-on parler doucement de la guerre? En lisant Nul poisson où aller, on ne peut que répondre: oui. C'est le paradoxe bouleversant de ce récit, de ses images et de ce titre étrange que d'établir avec douceur une atmosphère où pèsent la violence, la menace et l'anxiété d'une guerre sans nom, l'incompréhension d'une fillette dont l'univers tient à un poisson dans un bocal qu'il faut sauver du délire d'ennemis hier familiers. (GL)" ;
+    ns1:name "Nul poisson où aller" .
+
+# Book 8
+ns1:Book890123 a ns1:Book ;
+    ns1:auteur "Francis Monty" ;
+    ns1:piecePresenteePar "Le Théâtre Le Clou" ;
+    ns1:piecePresenteeAMaisonTheatre "true" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Le Théâtre Le Clou" ;
+    ns1:resume "Rarement ai-je vu une telle osmose entre la scène et la salle que lors de la représentation de cette pièce énergique énergisante. Des personnages bien campés, une histoire pleine de bruit, de cris, de diversions, éclatée à l'image de la vie des jeunes d'aujourd'hui. (RB)" ;
+    ns1:name "Romances & Karaoké" .
+
+# Book 9
+ns1:Book901234 a ns1:Book ;
+    ns1:auteur "Gilles Tibo" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Soulières éditeur" ;
+    ns1:resume "Dire que Tibo a le sens du récit est un euphémisme. Le découpage de son intrigue est un modèle en soi, offrant une gradation experte du suspense, où chaque chapitre a son hameçon et son punch. Pas un seul mot de trop, pas un seul temps mort. Et cette fabuleuse finale! (AP)" ;
+    ns1:name "La bataille des mots" .
+
+# Book 10
+ns1:Book012345 a ns1:Book ;
+    ns1:auteur "Caroline Merola" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "Caroline Merola nous sert de façon bien appétissante cet enlevant conte de filles. Les six reines qu'elle a dessiné sont belles, sensuelles et différentes. Entre les lignes, comme dans ses images pleines de mouvement, elle a su dépeindre leur formidable connivence et la dynamique résolution dont elles feront montre pour se faire une nouvelle vie. (IC)" ;
+    ns1:name "Le voyage des reines" .
+
+# Book 11
+ns1:Book1234567 a ns1:Book ;
+    ns1:auteur "Sylvie Roberge Blanchet" ;
+    ns1:illustrations "Pascal Constantin" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2003"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "Dans Turlututu rien ne va plus! l'impossible traverse les barrières du raisonnable et conduit l'aventure de la lecture jusqu'au bout, jusqu'à la dernière page, là où la conclusion du récit se transforme en quelque chose de beau et de calme. (FS)" ;
+    ns1:name "Turlututu rien ne va plus!" .
+
+# Book 12
+ns1:Book2345678 a ns1:Book ;
+    ns1:auteur "Marie-Louise Gay" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "J'aime la complicité de Stella et de son petit frère Sacha, la candeur et la logique enfantine de leurs dialogues, le regard poétique qu'ils posent sur le monde : le soleil qui met son pyjama rouge et qui se fait emmitoufler par la lune d'une grande couverture étoilée. (CR)" ;
+    ns1:name "Stella, princesse de la nuit" .
+
+# Book 13
+ns1:Book3456789 a ns1:Book ;
+    ns1:auteur "Joël da Silva" ;
+    ns1:piecePresenteePar "Le Théâtre de l'Avant-Pays" ;
+    ns1:piecePresenteeAMaisonTheatre "true" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur06.html#27_2_2004" ;
+    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:language "Français" ;
+    ns1:publisher "M. Frenette et M. Ranger" ;
+    ns1:resume "L'une des pièces les plus intelligentes qui m'ait été donné de voir à la Maison Théâtre. Intelligente en ce qu'elle fait appel à l'intelligence du jeune spectateur, et que sa clarté, sa limpidité sont une joie pour l'esprit. (...) Le texte de da Silva se déployait, lumineux, offrant entre autres des propos tout à fait judicieux sur l'acte d'écriture. (DS)" ;
+    ns1:name "À nous deux" .
+
+# Book 1
+ns1:Book456789 a ns1:Book ;
+    ns1:auteur "Geneviève Billette" ;
+    ns1:title "Le pays des genoux" ;
+    ns1:piecePresenteePar "Le Carrousel" ;
+    ns1:miseEnScene "Gervais Gaudreault" ;
+    ns1:lureluLink <https://www.lurelu.net/coupsdecoeur06.html#29_2_2006> ;
+    ns1:review "«...pour la justesse de l'interprétation de comédiens pas beaucoup plus âgés que leurs personnages; pour la tension dramatique et l'émotion qui affleure tout au long de la représentation, mon coup de cœur va au Pays des genoux.» (RB)" .
+
+# Book 2
+ns1:Book567890 a ns1:Book ;
+    ns1:illustrations "Stéphane Poulin" ;
+    ns1:title "Un chant de Noël" ;
+    ns1:author "Charles Dickens" ;
+    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "«Car il y a, dans l'atmosphère feutrée des paysages de Stéphane Poulin, une douceur infinie, silencieuse. Une douceur qui invite à la réflexion.» (FS)" .
+
+# Book 3
+ns1:Book678901 a ns1:Book ;
+    ns1:auteur "Gilles Tibo (d'après les frères Grimm)" ;
+    ns1:illustrations "Fanny" ;
+    ns1:title "Les lutins et le cordonnier" ;
+    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:publisher "Imagine" ;
+    ns1:resume "«Dès qu'on ouvre le livre, le charme opère. Tibo a su choisir le ton et les mots, respectant l'époque où se situe l'histoire.» (CR)" .
+
+# Book 4
+ns1:Book789012 a ns1:Book ;
+    ns1:auteur "Pierre Pratt" ;
+    ns1:title "Le jour où Zoé zozota" ;
+    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "«L'album Le jour où Zoé zozota est caractéristique de l'humour et de l'imaginaire de Pierre Pratt. Humour absurde, souvent subtil, quelquefois énigmatique, adressé aux adultes autant qu'aux enfants...» (DS)" .
+
+# Book 5
+ns1:Book890123 a ns1:Book ;
+    ns1:auteur "Larry Tremblay" ;
+    ns1:title "Panda panda" ;
+    ns1:piecePresenteePar "Le Théâtre en l'Air" ;
+    ns1:miseEnScene "Robert Drouin" ;
+    ns1:lureluLink <https://www.lurelu.net/coupsdecoeur06.html#29_2_2006> ;
+    ns1:review "«Ce bijou d'humour absurde séduit par ses jeux comiques hilarants rappelant les grands jours du cinéma muet et par son utilisation créative du multimédia.» (SM)" .
+
+# Book 6
+ns1:Book901234 a ns1:Book ;
+    ns1:auteur "Dominique Demers" ;
+    ns1:illustrations "Nicolas Debon" ;
+    ns1:title "Tous les soirs du monde" ;
+    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:publisher "Imagine & Gallimard" ;
+    ns1:resume "«Il y a si longtemps que je cherchais ce livre... Trop peu d'albums explorent le lien d'affection entre père et fils... Et rarement avec ce degré de magie!» (IC)" .
+
+# Book 7
+ns1:Book0123456 a ns1:Book ;
+    ns1:auteur "Christiane Duchesne" ;
+    ns1:illustrations "François Thisdale" ;
+    ns1:title "La nuit des mystères" ;
+    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "«François Thisdale crée un univers merveilleux en utilisant de multiples textures... L'ensemble dégage un mystère, une atmosphère poétique tout à fait en accord avec l'extraordinaire du récit.» (GL)" .
+
+# Book 8
+ns1:Book1234567 a ns1:Book ;
+    ns1:auteur "Marc Mongeau" ;
+    ns1:illustrations "Marc Mongeau" ;
+    ns1:title "La maison de guingois" ;
+    ns1:datePublished "2006"^^xsd:gYear ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "«...la délicatesse tranquille et la fantaisie désarmante des aquarelles de Marc Mongeau s'accordent délicieusement pour lui permettre de nous donner à goûter un beau morceau de bonheur.» (IC)" .
+
+# Book 9
+ns1:Book2345678 a ns1:Book ;
+    ns1:auteur "Hélène Dorion" ;
+    ns1:illustrations "Janice Nadeau" ;
+    ns1:title "La vie bercée" ;
+    ns1:datePublished "2006"^^xsd:gYear ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "«Un album remarquable, dont le sens ne s'épuise pas rapidement, alors on y revient et on admire encore.» (GL)" .
+
+# Book 10
+ns1:Book3456789 a ns1:Book ;
+    ns1:auteur "Élyse Poudrier" ;
+    ns1:title "Un automne entre parenthèses" ;
+    ns1:datePublished "2006"^^xsd:gYear ;
+    ns1:publisher "Québec Amérique" ;
+    ns1:resume "«Cette suite des Vacances à temps partiel, mettant en vedette les personnages d'Anouk et de Gilligan, est écrite dans une langue vive et naturelle.» (SM)" .
+
+# Book 11
+ns1:Book4567890 a ns1:Book ;
+    ns1:auteur "Francis Monty" ;
+    ns1:title "Léon le nul" ;
+    ns1:piecePresenteePar "Le Théâtre des Bouches Décousues" ;
+    ns1:miseEnScene "Gill Champagne" ;
+    ns1:lureluLink <https://www.lurelu.net/coupsdecoeur06.html#29_2_2006> ;
+    ns1:review "«Faisant appel à l'intelligence des spectateurs par son univers quasi surréaliste, ce spectacle, qui parle d'intolérance, est touchant et atteint son objectif de faire réfléchir en divertissant.» (RB)" .
+
+# Book 12
+ns1:Book5678901 a ns1:Book ;
+    ns1:auteur "Fabrice Boulanger" ;
+    ns1:title "Archimède Tirelou inventeur" ;
+    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:publisher "Michel Quintin" ;
+    ns1:resume "«Mon coup de cœur va à la recherche, à la découverte et à la fantaisie d'Archimède Tirelou inventeur...» (FS)" .
+
+# Book 13
+ns1:Book6789012 a ns1:Book ;
+    ns1:auteur "Tatsuharu Kodama" ;
+    ns1:illustrations "Judith Boivin-Robert" ;
+    ns1:title "Le tricycle de Shinichi" ;
+    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "«C'est un livre coup-de-poing parce qu'il nous oblige à réaliser la cruauté de la guerre et, en même temps, c'est un cri du cœur pour sauvegarder la paix "pour que les enfants puissent continuer à faire du tricycle"» (DC)" .
+
+# Book 14
+ns1:Book7890123 a ns1:Book ;
+    ns1:auteur "Dominique Demers" ;
+    ns1:illustrations "Catherine Lepage" ;
+    ns1:title "Pétunia, princesse des pets" ;
+    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "«On rit ferme en lisant les nombreuses descriptions de pets dont l'auteure parsème son récit. On pense aussi aux horaires étourdissants de nos enfants et au temps qui leur manque parfois pour tout simplement jouer librement.» (DC)" .
+
+# Book 15
+ns1:Book8901234 a ns1:Book ;
+    ns1:auteur "François Gravel" ;
+    ns1:illustrations "Pierre Pratt" ;
+    ns1:title "David et le salon funéraire" ;
+    ns1:datePublished "2005"^^xsd:gYear ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "«Merci à François Gravel et Pierre Pratt pour ce petit David si vivant et si touchant de candeur et de lucidité.» (CR)" .
+
+# Book 16
+ns1:Book9012345 a ns1:Book ;
+    ns1:auteur "Yves Nadon" ;
+    ns1:illustrations "Manon Gauthier" ;
+    ns1:title "Ma maman du photomaton" ;
+    ns1:datePublished "2006"^^xsd:gYear ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "«Yves Nadon a su décrire, sans verser dans le psychologisme, le deuil éprouvant, mais bien vécu de cette petite fille qui se souvient de sa mère.» (IC)" .
+
+# Book 17
+ns1:Book0123456 a ns1:Book ;
+    ns1:auteur "Mélanie Watt" ;
+    ns1:title "Frisson l'écureuil" ;
+    ns1:datePublished "2006"^^xsd:gYear ;
+    ns1:publisher "Scholastic" ;
+    ns1:resume "«Il m'a tout de suite charmée par son humour tout à fait hilarant. Frisson l'écureuil  a fait son entrée dans ma vie, dans un brouhaha de rigolades.» (DC)" .
+
+# Book 18
+ns1:Book1234567 a ns1:Book ;
+    ns1:auteur "Élaine Turgeon" ;
+    ns1:title "Ma vie ne sait pas nager" ;
+    ns1:datePublished "2006"^^xsd:gYear ;
+    ns1:publisher "Québec Amérique" ;
+    ns1:resume "«... pour faire entendre la voix d'une survivante ou pour explorer des manières de dépasser l'affliction. C'est ce que fait l'écrivaine avec délicatesse, avec justesse...» (DS)" .
+
+# Book 19
+ns1:Book2345678 a ns1:Book ;
+    ns1:auteur "Suzanne Lebeau" ;
+    ns1:title "L'Ogrelet" ;
+    ns1:piecePresenteePar "Compagnie l'Artifice" ;
+    ns1:miseEnScene "lors des Coups de Théâtre 2006" ;
+    ns1:lureluLink <https://www.lurelu.net/coupsdecoeur06.html#29_2_2006> ;
+    ns1:review "«Quand le théâtre pour les enfants atteint une telle maîtrise, les catégories tombent.  Le jour où un théâtre institutionnel non spécialisé en jeunes publics accueillera dans sa saison une telle production, on pourra croire que le clivage entre les milieux du théâtre se sera enfin atténué.» (RB)" .
+
+# Book 20
+ns1:Book3456789 a ns1:Book ;
+    ns1:auteur "Badiâa Sekfali" ;
+    ns1:illustrations "Jean-Marie Benoît" ;
+    ns1:title "Farouj le coq" ;
+    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "«Une histoire riche de toutes ses pages avec quelques complications bien amenées et des illustrations parfaitement adaptées au sujet de la transformation.» (FS)" .
+
+# Book 21
+ns1:Book4567890 a ns1:Book ;
+    ns1:auteur "Danielle Simard" ;
+    ns1:illustrations "Geneviève Côté" ;
+    ns1:title "La petite rapporteuse de mots" ;
+    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "«...mais surtout la profondeur du lien unissant Élise et sa mamie, ce lien unique entre un enfant et un grand-parent, dont la puissance sait rallumer cette petite lumière au fond des yeux.» (CR)" .
+
+# Book 22
+ns1:Book5678901 a ns1:Book ;
+    ns1:auteur "Hélène Vachon" ;
+    ns1:title "L'arbre tombé" ;
+    ns1:datePublished "2007"^^xsd:gYear ;
+    ns1:publisher "Québec Amérique" ;
+    ns1:resume "«Il y a ici une préoccupation et une qualité littéraires évidentes. La sensibilité psychologique et l'émotion dominent.» (GL)" .
+
+# Book 1
+ns1:Book0123456 a ns1:Book ;
+    ns1:auteur "Hélène Vachon" ;
+    ns1:title "Le cinéma de Somerset" ;
+    ns1:datePublished "1997"^^xsd:gYear ;
+    ns1:publisher "Éditions Dominique et compagnie" ;
+    ns1:collection "Carrousel" ;
+    ns1:resume "«...humour, jeux de mots, quiproquo, clins d'œil, tout y est.» (DC)
+«Comment cette auteure arrive-t-elle à manipuler une idée toute simple et la transformer en situation logique mais abracadabrante?» (ST)" .
+
+# Book 2
+ns1:Book1234567 a ns1:Book ;
+    ns1:auteur "Stanley Péan" ;
+    ns1:illustrations "Stéphane Poulin" ;
+    ns1:title "Un petit garçon qui avait peur de tout et de rien" ;
+    ns1:datePublished "1998"^^xsd:gYear ;
+    ns1:publisher "Éditions La courte échelle" ;
+    ns1:collection "Il était une fois" ;
+    ns1:resume "«J'y ai découvert un texte fin, plein de sensibilité et de justesse.» (IC)" .
+
+# Book 3
+ns1:Book2345678 a ns1:Book ;
+    ns1:auteur "Danielle Simard" ;
+    ns1:title "La tête dans les nuages" ;
+    ns1:datePublished "1997"^^xsd:gYear ;
+    ns1:publisher "Éditions Dominique et compagnie" ;
+    ns1:collection "Échos" ;
+    ns1:resume "«Ce à quoi Danielle Simard nous convie, c'est à la fantaisie du rêve éveillé, à la folie douce de l'imagination, ce qui la place bien haut dans mon palmarès à moi.» (DS)" .
+
+# Book 4
+ns1:Book3456789 a ns1:Book ;
+    ns1:auteur "Suzanne Lebeau" ;
+    ns1:title "L'Ogrelet" ;
+    ns1:pieceCreeePar "Le Carrousel" ;
+    ns1:dateCreated "1997"^^xsd:gYear ;
+    ns1:resume "«L'Ogrelet m'a littéralement envoûtée: la fusion des mots et des images est à ce point sensible et percutante que le spectacle laisse des traces longtemps après la représentation.» (AG)" .
+
+# Book 5
+ns1:Book4567890 a ns1:Book ;
+    ns1:collection "Les 400 tout petits coups" ;
+    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:resume "«Les situations drôles, pourtant si réalistes, illustrent avec éloquence les grands problèmes des tout-petits.» (SD)" .
+
+# Book 6
+ns1:Book5678901 a ns1:Book ;
+    ns1:auteur "Stéphane Jorisch et Olivier Lasser" ;
+    ns1:illustrations "Stéphane Jorisch" ;
+    ns1:title "Charlotte et l'île du Destin" ;
+    ns1:datePublished "1998"^^xsd:gYear ;
+    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:collection "Les grands albums" ;
+    ns1:resume "«Les aquarelles magiques de Jorisch envoûtent le lecteur, qui reste captif jusqu'à la dernière page.» (IC)" .
+
+# Book 7
+ns1:Book6789012 a ns1:Book ;
+    ns1:auteur "Marie-Louise Gay" ;
+    ns1:title "Stella étoile de la mer" ;
+    ns1:datePublished "1999"^^xsd:gYear ;
+    ns1:publisher "Éditions Dominique et compagnie" ;
+    ns1:resume "«L'album que j'ai choisi est un récit de tendresse et de respect. C'est un élan et un plaisir que je veux partager avec vous.» (FS)" .
+
+# Book 8
+ns1:Book7890123 a ns1:Book ;
+    ns1:title "La poupée dans la poche" ;
+    ns1:piecePresenteePar "Teatro delle Briciole" ;
+    ns1:datePresented "1999"^^xsd:gYear ;
+    ns1:resume "«Le Québec est choyé de recevoir tant de compagnies étrangères... De belles occasions de voir ce qui se fait ailleurs.» (SB)" .
+
+# Book 9
+ns1:Book8901234 a ns1:Book ;
+    ns1:auteur "Yayo" ;
+    ns1:title "Le chasseur d'arc-en-ciel" ;
+    ns1:datePublished "1998"^^xsd:gYear ;
+    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:collection "Monstres, sorcières et autres fééries" ;
+    ns1:resume "«Les illustrations de Yayo sont dépouillées, efficaces et aussi teintées d'humour et de tendresse.» (DC)" .
+
+# Book 10
+ns1:Book9012345 a ns1:Book ;
+    ns1:auteur "Danielle Marcotte" ;
+    ns1:illustrations "Stéphane Poulin" ;
+    ns1:title "Poil de serpent, dent d'araignée" ;
+    ns1:datePublished "1996"^^xsd:gYear ;
+    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:collection "Billochet" ;
+    ns1:resume "«Poil de serpent, dent d'araignée est certainement l'album qui m'a le plus impressionnée ces cinq dernières années. C'est peut-être cette immense générosité des auteurs qui, finalement, fait les coups de cœur les plus résistants.» (GD)" .
+
+# Book 11
+ns1:Book0123456 a ns1:Book ;
+    ns1:auteur "André Marquis" ;
+    ns1:title "Un navire dans une bouteille" ;
+    ns1:datePublished "1998"^^xsd:gYear ;
+    ns1:publisher "Éditions Triptyque" ;
+    ns1:resume "«Un navire dans une bouteille possède en effet la verve, la candeur et le prétexte onirique d'Alice.» (SD)" .
+
+# Book 12
+ns1:Book1234567 a ns1:Book ;
+    ns1:auteur "Gilles Tibo" ;
+    ns1:title "Rouge timide" ;
+    ns1:datePublished "1998"^^xsd:gYear ;
+    ns1:publisher "Soulières Éditeur" ;
+    ns1:collection "Ma petite vache a mal aux pattes" ;
+    ns1:resume "«...des sujets étonnants, un traitement délicat et sensible, une présentation graphique différente.» (ST)" .
+
+# Book 13
+ns1:Book2345678 a ns1:Book ;
+    ns1:auteur "Gilles Tibo" ;
+    ns1:title "Les yeux noirs" ;
+    ns1:datePublished "1999"^^xsd:gYear ;
+    ns1:publisher "Soulières Éditeur" ;
+    ns1:collection "Ma petite vache a mal aux pattes" ;
+    ns1:resume "«...des sujets étonnants, un traitement délicat et sensible, une présentation graphique différente.» (ST)" .
+
+# Saison 1999 de la Maison Théâtre
+ns1:Saison1234567 a ns1:Saison ;
+    ns1:title "Saison 1999 de la Maison Théâtre, de Montréal" ;
+    ns1:resume "«Il m'en reste des images fortes, parfois magiques, parfois tristes. Chapeau, et merci à la Maison Théâtre de nous procurer des émois année après année.» (DS)" .
+
+# Book 1
+ns1:Book0123456 a ns1:Book ;
+    ns1:auteur "Anne Villeneuve" ;
+    ns1:title "L'écharpe rouge" ;
+    ns1:datePublished "1999"^^xsd:gYear ;
+    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:resume "«La suite, toute en images, nous emporte dans les péripéties de cette journée qui sera tout sauf grise.» (DC)
+«Un album unique en son genre, audacieux et innovateur.» (FS)" .
+
+# Book 2
+ns1:Book1234567 a ns1:Book ;
+    ns1:auteur "Dominique Jolin" ;
+    ns1:title "série «Toupie»" ;
+    ns1:publisher "Éditions Dominique et compagnie" ;
+    ns1:resume "«...ces belles aquarelles aux teintes douces et aux lignes un peu tremblantes qui transmettent constamment le mouvement et l'émotion.» (NT)" .
+
+# Book 3
+ns1:Book2345678 a ns1:Book ;
+    ns1:auteur "Jean-Rock Gaudreault" ;
+    ns1:title "Mathieu trop court, François trop long" ;
+    ns1:pieceCreeePar "compagnie Mathieu François et les autres" ;
+    ns1:dateCreated "1998"^^xsd:gYear ;
+    ns1:resume "«...une poignante évocation de l'automne, saison qui est elle-même la métaphore la plus juste du temps qui file.» (DS)" .
+
+# Book 4
+ns1:Book3456789 a ns1:Book ;
+    ns1:auteur "Gilles Tibo" ;
+    ns1:title "Le petit maudit" ;
+    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:publisher "Soulières éditeur" ;
+    ns1:collection "Ma petite vache a mal aux pattes" ;
+    ns1:resume "«Peut-être tombera-t-il entre les bonnes mains et apportera un peu de réconfort à un enfant seul, en mal d'amour, qui s'y reconnaîtra...» (IC)" .
+
+# Book 5
+ns1:Book4567890 a ns1:Book ;
+    ns1:auteur "Barrie Baker" ;
+    ns1:illustrations "Stéphane Jorisch" ;
+    ns1:title "Le village aux infinis sourires" ;
+    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:collection "Les grands albums" ;
+    ns1:resume "«Par-dessus tout, ce qui fascine, c'est la délicatesse et la légèreté des illustrations.» (GL)" .
+
+# Book 6
+ns1:Book5678901 a ns1:Book ;
+    ns1:auteur "François Gravel" ;
+    ns1:illustrations "Anatoli Burcev" ;
+    ns1:title "L'été de la moustache" ;
+    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:collection "Les grands albums" ;
+    ns1:resume "«Raffinement, élégance, un brin de nostalgie tant dans le récit que dans l'illustration.» (GL)" .
+
+# Book 7
+ns1:Book6789012 a ns1:Book ;
+    ns1:auteur "Michèle Marineau" ;
+    ns1:title "Rouge poison" ;
+    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:publisher "Éditions Québec Amérique" ;
+    ns1:collection "Titan" ;
+    ns1:resume "«Le roman allie réalisme, suspense, humour, émotions dans un dosage équilibré, sur un ton juste, vrai, sans mélodrame.» (OM)" .
+
+# Book 8
+ns1:Book7890123 a ns1:Book ;
+    ns1:auteur "Dominique Demers" ;
+    ns1:illustrations "Stéphane Poulin" ;
+    ns1:title "Vieux Thomas et la petite fée" ;
+    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:publisher "Éditions Dominique et compagnie" ;
+    ns1:resume "«Cet album n'a pas d'âge cible. Je l'ai raconté à de très jeunes enfants de trois et quatre ans, et à des adultes: l'émotion est implacablement la même...» (IC)" .
+
+# Book 9
+ns1:Book8901234 a ns1:Book ;
+    ns1:title "Le petit canoë une œuvre de Paul-Émile Borduas racontée aux enfants par Marie Bletton" ;
+    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:resume "«J'aime que l'écriture de l'histoire soit libre, que l'œuvre de Borduas joue à cache-cache avec le lecteur, qu'elle ne soit pas dénaturée ou infantilisée.» (FS)" .
+
+# Book 1
+ns1:Book0123456 a ns1:Book ;
+    ns1:auteur "Laurent McAllister" ;
+    ns1:title "Le messager des orages" ;
+    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:publisher "Médiaspaul" ;
+    ns1:collection "Jeunesse-Pop" ;
+    ns1:resume "«On en ressort troublé par des visions de villes mystérieuses, à la fois attirantes et repoussantes.» (SM)" .
+
+# Book 2
+ns1:Book1234567 a ns1:Book ;
+    ns1:auteur "Daniel Mativat" ;
+    ns1:title "Quand la bête s'éveille" ;
+    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:publisher "Éditions Pierre Tisseyre" ;
+    ns1:collection "Chacal" ;
+    ns1:resume "«Ce récit historico-fantastico-horrifique fait frissonner d'effroi sous la couette.» (SM)" .
+
+# Book 3
+ns1:Book2345678 a ns1:Book ;
+    ns1:auteur "Sylvie Brien" ;
+    ns1:title "Le spectre" ;
+    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:publisher "Éditions Porte-Bonheur" ;
+    ns1:collection "Talisman" ;
+    ns1:resume "«Un sujet actuel dans un contexte d'autoritarisme et de rigueur où la façade cède finalement la place à l'amour et à la compréhension.» (OM)" .
+
+# Book 4
+ns1:Book3456789 a ns1:Book ;
+    ns1:auteur "Jasmine Dubé" ;
+    ns1:title "Le pingouin" ;
+    ns1:publisher "Lanctôt éditeur" ;
+    ns1:collection "Théâtre" ;
+    ns1:resume "«La relation parent-enfant, ou adulte-enfant, et la dialectique travail-loisir, ou sérieux-fantaisie, se trouvent à nouveau au centre des préoccupations de l'écrivaine.» (DS)" .
+
+# Book 5
+ns1:Book4567890 a ns1:Book ;
+    ns1:auteur "Gilles Tibo" ;
+    ns1:title "Le grand voyage de Monsieur" ;
+    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:resume "«Par une écriture dépouillée de tout artifice inutile, en employant les mots justes et sobres, Gilles Tibo a su s'adresser directement à notre cœur.» (DC)" .
+
+# Book 6
+ns1:Book5678901 a ns1:Book ;
+    ns1:auteur "Gilles Tibo" ;
+    ns1:title "La petite fille qui ne souriait plus" ;
+    ns1:datePublished "2002"^^xsd:gYear ;
+    ns1:publisher "Soulières éditeur" ;
+    ns1:collection "Ma petite vache a mal aux pattes" ;
+    ns1:resume "«Par une écriture dépouillée de tout artifice inutile, en employant les mots justes et sobres, Gilles Tibo a su s'adresser directement à notre cœur.» (DC)" .
+
+# Book 7
+ns1:Book6789012 a ns1:Book ;
+    ns1:auteur "Claire Obscure" ;
+    ns1:title "Drôle de zoo" ;
+    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:publisher "Les 400 coups" ;
+    ns1:resume "«La démarche d'aller de surprise en surprise, dans les mots, les couleurs, dans le jeu de sens et le passage des pages.» (FS)" .
+
+# Book 8
+ns1:Book7890123 a ns1:Book ;
+    ns1:auteur "Hélène Vachon" ;
+    ns1:title "L'oiseau de passage" ;
+    ns1:datePublished "2000"^^xsd:gYear ;
+    ns1:publisher "Dominique et compagnie" ;
+    ns1:collection "Roman bleu" ;
+    ns1:resume "«De l'écriture jaillit l'émotion, celle qui s'attarde au fragile, au cri muet.» (GL)" .
+
+# Book 9
+ns1:Book8901234 a ns1:Book ;
+    ns1:auteur "Paulette Bourgeois" ;
+    ns1:traduction "Cécile Gagnon" ;
+    ns1:title "Une courtepointe pour grand-maman" ;
+    ns1:datePublished "2001"^^xsd:gYear ;
+    ns1:publisher "Scholastic" ;
+    ns1:resume "«Une histoire empreinte de souvenirs et d'espérance. Une tendre histoire qui tient le cœur bien au chaud.» (CR)" .
+
+# Book 10
+ns1:Book9012345 a ns1:Book ;
+    ns1:auteur "Olivier Choinière" ;
+    ns1:title "Léa-Pu de Sonlaté" ;
+    ns1:resume "«Ce spectacle plein de fraîcheur, tant dans l'humour non politiquement correct que dans le jeu des jeunes interprètes, méritait d'être vu davantage.» (RB)" .
+
+# Book 1
+ns1:Book0123456 a ns1:Book ;
+    ns1:auteur "Linda Brousseau" ;
+    ns1:title "Marélie de la mer" ;
+    ns1:datePublished "1993"^^xsd:gYear ;
+    ns1:publisher "Éditions Pierre Tisseyre" ;
+    ns1:collection "Papillon" ;
+    ns1:resume "«Il y a fort à parier que ce roman, le premier de Linda Brousseau, ira chatouiller les cœurs de plusieurs petits, mais aussi de moyens et de grands lecteurs.» (YL)" .
+
+# Book 2
+ns1:Book1234567 a ns1:Book ;
+    ns1:auteur "Jasmine Dubé" ;
+    ns1:title "Petit monstre" ;
+    ns1:publisher "Théâtre Bouches Décousues" ;
+    ns1:resume "«Petit monstre m'a totalement séduite par son écriture fine, drôle, touchante, calquée sur une réalité qui dérive dans l'imaginaire.» (AG)" .
+
+# Book 3
+ns1:Book2345678 a ns1:Book ;
+    ns1:auteur "Lucie Papineau" ;
+    ns1:title "Des bleuets dans mes lunettes" ;
+    ns1:datePublished "1992"^^xsd:gYear ;
+    ns1:publisher "Éditions du Boréal" ;
+    ns1:collection "Boréal Junior" ;
+    ns1:resume "«Ça grouille tellement entre les lignes, ça palpite de tant d'émotions et de sensations, qu'une île tranquille, pleine de bleuets, m'est poussée dans la tête...» (IC)" .
+
+# Book 4
+ns1:Book3456789 a ns1:Book ;
+    ns1:auteur "Danièle Simpson" ;
+    ns1:illustrations "Michel Bisson" ;
+    ns1:title "Thomas et la nuit" ;
+    ns1:datePublished "1992"^^xsd:gYear ;
+    ns1:publisher "Éditions Doutre et Vandal" ;
+    ns1:resume "«La douceur des sentiments, le dépassement de soi, la qualité de l'écriture et des illustrations, le style poétique, le sujet et son traitement sortant de l'ordinaire font de cet album, une véritable réussite.» (ÉM)" .
+
+# Book 5
+ns1:Book4567890 a ns1:Book ;
+    ns1:auteur "Marie-Louise Gay" ;
+    ns1:title "Mademoiselle Lune" ;
+    ns1:datePublished "1992"^^xsd:gYear ;
+    ns1:publisher "Éditions Héritage" ;
+    ns1:resume "«Marie-Louise Gay berce l'imaginaire dans une douce folie aux contours affriolants, aux détails exubérants, au texte captivant.» (ST)" .
+
+# Book 6
+ns1:Book5678901 a ns1:Book ;
+    ns1:auteur "Raymond Plante" ;
+    ns1:title "Le roi de rien" ;
+    ns1:datePublished "1988"^^xsd:gYear ;
+    ns1:publisher "La courte échelle" ;
+    ns1:collection "Roman Jeunesse" ;
+    ns1:resume "«Raymond plante nous rappelle une vérité vieille comme le monde: chacun renferme un trésor qu'il faut laisser vivre...» (ST)" .
+
+# Book 7
+ns1:Book6789012 a ns1:Book ;
+    ns1:auteur "Esther Rochon" ;
+    ns1:title "L'ombre et le cheval" ;
+    ns1:datePublished "1992"^^xsd:gYear ;
+    ns1:publisher "Éditions Paulines" ;
+    ns1:collection "Jeunesse-Pop" ;
+    ns1:resume "«Il y a des livres comme ça qui m'ont visitée et que je n'ai jamais pu oublier. J'ai toujours eu envie de les relire, de les savourer encore un peu...» (CL)" .
+
+# Book 8
+ns1:Book7890123 a ns1:Book ;
+    ns1:auteur "Pierre Filion" ;
+    ns1:illustrations "Gilles Tibo" ;
+    ns1:title "Pikolo: le secret des garde-robes" ;
+    ns1:datePublished "1992"^^xsd:gYear ;
+    ns1:publisher "Annick Press" ;
+    ns1:resume "«...j'ai retrouvé la magie des couleurs, du mouvement, de la lumière, l'ingéniosité des formes du papier, la fantaisie des personnages.» (DS)" .
+
+# Book 9
+ns1:Book8901234 a ns1:Book ;
+    ns1:auteur "Jasmine Dubé" ;
+    ns1:title "La tête de Line Hotte" ;
+    ns1:datePublished "1989"^^xsd:gYear ;
+    ns1:publisher "Éditions Québec Amérique Jeunesse" ;
+    ns1:resume "«Le quotidien s'envole vers le surnaturel, comme s'il s'oubliait, avec la légèreté d'une plume soulevée par un courant d'air.» (DS)" .
+
+# Book 10
+ns1:Book9012345 a ns1:Book ;
+    ns1:auteur "Sharon Jennings" ;
+    ns1:illustrations "Mireille Levert" ;
+    ns1:title "Dormez bien, Mme Ming" ;
+    ns1:datePublished "1993"^^xsd:gYear ;
+    ns1:publisher "Annick Press" ;
+    ns1:resume "«Les aquarelles d'une délicate perfection font de cette bonne recette littéraire un chef-d'œuvre qui me charme, me ravit.» (YL)" .
+
+# Book 1
+ns1:Book0123456 a ns1:Book ;
+    ns1:auteur "Wajdi Mouawad" ;
+    ns1:title "Alphonse" ;
+    ns1:dateCreated "1994"^^xsd:gYear ;
+    ns1:publisher "L'Arrière-Scène" ;
+    ns1:resume "«...dans un instant magique, mon plaisir d'adulte a rejoint le plaisir de Jérôme, mon fils de huit ans.» (AG)" .
+
+# Book 2
+ns1:Book1234567 a ns1:Book ;
+    ns1:auteur "Collectif dirigé par Carmen Marois" ;
+    ns1:title "Le bal des ombres" ;
+    ns1:datePublished "1994"^^xsd:gYear ;
+    ns1:publisher "Éditions Québec Amérique" ;
+    ns1:collection "Clip" ;
+    ns1:resume "«Un petit recueil où la fantaisie, le merveilleux et le fantastique font bon ménage, s'envolant loin au-dessus du sordide et du convenu.» (DS)" .
+
+# Book 3
+ns1:Book2345678 a ns1:Book ;
+    ns1:auteur "Christiane Duchesne" ;
+    ns1:title "Berthold & Lucrèce" ;
+    ns1:datePublished "1994"^^xsd:gYear ;
+    ns1:publisher "Éditions Québec Amérique" ;
+    ns1:collection "Bilbo" ;
+    ns1:resume "«J'ai ouvert le livre, et la magie a débordé dans toute la chambre.» (IC)" .
+
+# Book 4
+ns1:Book3456789 a ns1:Book ;
+    ns1:auteur "Jean Lemieux" ;
+    ns1:title "Le trésor de Brion" ;
+    ns1:datePublished "1995"^^xsd:gYear ;
+    ns1:publisher "Éditions Québec Amérique" ;
+    ns1:collection "Titan" ;
+    ns1:resume "«Quand, pour la première fois, j'ai pris Le trésor de Brion entre mes mains, j'ai su que ce roman m'emmènerait loin.» (ST)" .
+
+# Book 5
+ns1:Book4567890 a ns1:Book ;
+    ns1:auteur "Rémy Simard" ;
+    ns1:illustrations "Pierre Pratt" ;
+    ns1:title "Mon chien est un éléphant" ;
+    ns1:datePublished "1994"^^xsd:gYear ;
+    ns1:publisher "Annick Press" ;
+    ns1:resume "«... j'ai un faible pour les livres originaux, de préférence ceux qui dérangent, parce que j'apprécie les créateurs qui osent aller loin dans l'imaginaire.» (ST)" .
+
+# Book 6
+ns1:Book5678901 a ns1:Book ;
+    ns1:auteur "Collectif" ;
+    ns1:title "Lurelu" ;
+    ns1:dateFounded "1978"^^xsd:gYear ;
+    ns1:publisher "Lurelu" ;
+    ns1:resume "«Cette année, c'est pour Lurelu que mon cœur s'est emballé. Parmi les 205 revues de tous les coins du monde, Lurelu sortait des rangs, s'illustrant par sa couverture, sa mise en page et l'intérêt de son contenu.» (YL, à sa dernière collaboration)" .
+
+# Book 7
+ns1:Book6789012 a ns1:Book ;
+    ns1:title "Collection de mini-romans «Carrousel»" ;
+    ns1:publisher "Éditions Héritage" ;
+    ns1:resume "«On a visiblement choisi de privilégier un contenu à haute teneur fantaisiste, avec bribes de tendresse et grains d'humour.» (IC)" .
+
+# Book 8
+ns1:Book7890123 a ns1:Book ;
+    ns1:title "Collection d'albums «Grimace»" ;
+    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:resume "«C'est ce qui fait grimacer qui constitue la réussite du plat et le ravissement des jeunes connaisseurs !» (IC)" .
+
+# Book 9
+ns1:Book8901234 a ns1:Book ;
+    ns1:title "Collection de biographies «Les grandes figures»" ;
+    ns1:publisher "XYZ Éditeur" ;
+    ns1:resume "«Voilà des ouvrages sérieux, captivants, bien écrits, et ce par des gens compétents.» (SD)" .
+
+# Book 10
+ns1:Book9012345 a ns1:Book ;
+    ns1:title "Les Coups de théâtre" ;
+    ns1:publisher "Rendez-vous international de théâtre jeune public" ;
+    ns1:resume "«Les Coups de Théatre sont une occasion exceptionnelle de partager de rares moments d'émotions et d'intelligence avec ses enfants.» (AG)" .
+
+# Book 11
+ns1:Book9123456 a ns1:Book ;
+    ns1:auteur "Marie-Josée Cardinal" ;
+    ns1:illustrations "Doris Barrette" ;
+    ns1:title "Montréal d'est en ouest" ;
+    ns1:datePublished "1996"^^xsd:gYear ;
+    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:resume "«Prendre le temps de découvrir la petite histoire de certains quartiers avec les jeunes, voilà ce que nous offre Montréal d'est en ouest.» (DC)" .
+
+# Book 12
+ns1:Book1234567 a ns1:Book ;
+    ns1:auteur "Gilles Tibo" ;
+    ns1:title "Simon et la musique" ;
+    ns1:datePublished "1995"^^xsd:gYear ;
+    ns1:publisher "Livres Toundra" ;
+    ns1:resume "«...il y a cette présence de la lumière ou de la brume dans une ambiance souvent crépusculaire...» (DS)" .
+
+# Book 13
+ns1:Book2345678 a ns1:Book ;
+    ns1:auteur "Dominique Demers et collaboratrices" ;
+    ns1:title "La Bibliothèque des enfants" ;
+    ns1:publisher "Éditions Québec Amérique" ;
+    ns1:collection "Exploration" ;
+    ns1:resume "«...il y a à travers les mots et le ton de ces livres une qualité indiscutable, indubitable, et c'est l'amour des enfants.» (ST)" .
+
+# Book 1
+ns1:Book0123456 a ns1:Book ;
+    ns1:auteur "Jasmine Dubé" ;
+    ns1:title "Le Bain" ;
+    ns1:dateCreated "1997"^^xsd:gYear ;
+    ns1:publisher "Théâtre Bouches Décousues" ;
+    ns1:representationVenue "Maison Théâtre" ;
+    ns1:resume "«Un théâtre poétique qui emprunte les dérives de l'imaginaire pour attendre une meilleure compréhension du monde et de l'autre.» (AG)" .
+
+# Book 2
+ns1:Book1234567 a ns1:Book ;
+    ns1:auteur "Danielle Marcotte" ;
+    ns1:illustrations "Stéphane Poulin" ;
+    ns1:title "Poil de serpent, dent d'araignée" ;
+    ns1:datePublished "1996"^^xsd:gYear ;
+    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:collection "Billochet" ;
+    ns1:resume "«La force incroyable de cet album réside d'abord dans le talent de maître de Stéphane Poulin...» (IC)
+«Il y a là de quoi former un jeune esprit à la magie de l'image et du conte, celle du mot et du récit...» (DS)" .
+
+# Book 3
+ns1:Book2345678 a ns1:Book ;
+    ns1:title "Collection de mini-romans «Ma petite vache a mal aux pattes»" ;
+    ns1:publisher "Soulières Éditeur" ;
+    ns1:resume "«...à prendre comme une brise rafraîchissante dans un milieu littéraire où le réalisme terre à terre exhale trop souvent des relents fétides.» (SD)" .
+
+# Book 4
+ns1:Book3456789 a ns1:Book ;
+    ns1:auteur "Louis Émond" ;
+    ns1:title "C'est parce que..." ;
+    ns1:datePublished "1997"^^xsd:gYear ;
+    ns1:publisher "Soulières Éditeur" ;
+    ns1:collection "Ma petite vache a mal aux pattes" ;
+    ns1:resume "«...je ne savais pas vraiment où l'auteur voulait en venir avec cette histoire abracadabrante de petite fille ayant perdu sa corde à danser...» (DC)" .
+
+# Book 5
+ns1:Book4567890 a ns1:Book ;
+    ns1:auteur "Dominique Demers" ;
+    ns1:title "Maïna" ;
+    ns1:datePublished "1997"^^xsd:gYear ;
+    ns1:publisher "Éditions Québec Amérique" ;
+    ns1:collection "Titan" ;
+    ns1:resume "«...celle qui témoigne qu'aller au-delà de soi-même et ne jamais abdiquer ses rêves est la seule condition de survie.» (ST)" .

@@ -3363,3 +3363,7 @@ ns1:Two_Little_Birds a ns1:Publisher ;
 ns1:Sterling_Childrens_Books a ns1:Publisher ;
     ns1:name "Sterling Children’s Books"^^xsd:string .
 
+ns1:Quai a ns1:Publisher ;
+    ns1:name "Quai"^^xsd:string .
+
+
