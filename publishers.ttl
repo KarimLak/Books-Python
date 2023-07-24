@@ -3366,4 +3366,20 @@ ns1:Sterling_Childrens_Books a ns1:Publisher ;
 ns1:Quai a ns1:Publisher ;
     ns1:name "Quai"^^xsd:string .
 
+ns1:Theatre_De_Marionnettes a ns1:Publisher ;
+    ns1:name "Théâtre De Marionnettes"^^xsd:string .
 
+ns1:Theatre_Bluff a ns1:Publisher ;
+    ns1:name "Théâtre Bluff"^^xsd:string .
+
+ns1:Theatre_Magasin a ns1:Publisher ;
+    ns1:name "Théâtre Magasin"^^xsd:string .
+
+ns1:Theatre_Avant_Pays a ns1:Publisher ;
+    ns1:name "Théâtre de l'Avant-Pays"^^xsd:string .
+
+ns1:Theatre_En_LAir a ns1:Publisher ;
+    ns1:name "Théâtre en l'Air"^^xsd:string .
+
+ns1:Compagnie_Artifice a ns1:Publisher ;
+    ns1:name "Compagnie l'Artifice"^^xsd:string .
