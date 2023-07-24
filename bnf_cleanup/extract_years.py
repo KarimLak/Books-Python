@@ -39,7 +39,7 @@ session.mount('https://', adapter)
 qres_list = list(qres)
 
 # Find the index of the book you want to start from
-start_book_url = "http://catalogue.bnf.fr/ark:/12148/cb37315068w"
+start_book_url = "http://catalogue.bnf.fr/ark:/12148/cb452096083"
 start_index = next(i for i, v in enumerate(qres_list) if str(v[1]) == start_book_url)
 
 # Create a list of futures starting from the start index
@@ -68,4 +68,4 @@ for batch in batches:
                         treated_graph.add((book, rdflib.Namespace('http://schema.org/')['publicDestinatairePrio'], rdflib.Literal(publicDestinatairePrio)))
 
     # Save the updated graph after processing each batch
-    treated_graph.serialize(destination='output_bnf_2_updated_2.ttl', format='turtle')
+    treated_graph.serialize(destination='output_bnf_2_updated_5.ttl', format='turtle')

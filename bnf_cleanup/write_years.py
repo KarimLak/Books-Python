@@ -1,7 +1,7 @@
 from rdflib import Graph, Namespace, Literal, URIRef
 
 g = Graph()
-g.parse("output_bnf_1.ttl", format="turtle")
+g.parse("output_bnf_2_updated.ttl", format="turtle")
 
 # Define the namespace
 ns1 = Namespace("http://schema.org/")

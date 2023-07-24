@@ -8,7 +8,7 @@ g = Graph()
 
 try:
     # parse a file into the graph
-    g.parse("./output_bnf_1.ttl", format="turtle")  # replace with your actual input file name
+    g.parse("./output_bnf_2_updated.ttl", format="turtle")  # replace with your actual input file name
 except Exception as e:
     print(f"An error occurred while parsing the file: {e}")
 
@@ -19,6 +19,6 @@ for triple in to_remove:
 
 try:
     # save the modified graph to a new file
-    g.serialize(destination='output_bnf_1.ttl.ttl', format='turtle')  # replace with your desired output file name
+    g.serialize(destination='output.ttl', format='turtle')  # replace with your desired output file name
 except Exception as e:
     print(f"An error occurred while writing the output file: {e}")
