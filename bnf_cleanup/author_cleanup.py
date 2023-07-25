@@ -11,11 +11,10 @@ bnfLink_pred = URIRef(f'{ns1}bnfLink')
 
 # Load the .ttl file into an RDF graph
 g = Graph()
-g.parse("output_bnf_1.ttl", format="turtle")
+g.parse("output_bnf_2.ttl", format="turtle")
 
 # Load the already updated books
 g_already_updated = Graph()
-g_already_updated.parse("output_bnf_1_updated.ttl", format="turtle")
 
 # Create a new RDF graph for the updated books
 g_updated = Graph()
@@ -24,11 +23,11 @@ g_updated = Graph()
 updated_subjects = set(g_already_updated.subjects())
 
 # The number of operations after which to save the data
-save_every = 10
+save_every = 1000
 operation_count = 0
 
 # Prepare a list of books and their associated URLs, excluding already updated books
-books_urls = [(subj, str(obj)) for subj, pred, obj in g if pred == bnfLink_pred and subj not in updated_subjects]
+books_urls = [(subj, str(obj)) for subj, pred, obj in g if pred == bnfLink_pred]
 
 # Define a function to fetch the URL and return the response along with the associated book
 def fetch(book, url):
