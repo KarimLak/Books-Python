@@ -28,11 +28,13 @@ class IntraDBStats: # stats for 1 db
         self.books_without_authors = [] # name stored
         self.books_without_age = []
         self.books_without_name = []
+        self.books_without_publication_date = []
+        self.books_without_publisher = []
         self.book_name_doublons = defaultdict(lambda: 0)
         self.book_name_author_doublons = defaultdict(lambda: 0)
         self.book_name_author_ages = defaultdict(lambda: [])
 
-    def count(self, book_name, book_author, age_range, url): # pass url to find books easily
+    def count(self, book_name, book_author, age_range, url, publication_date, publisher): # pass url to find books easily
         self.total_book_no += 1
         if book_name:
             self.book_name_doublons[book_name] += 1
@@ -42,6 +44,11 @@ class IntraDBStats: # stats for 1 db
             self.books_without_authors.append(url)
         if not age_range:
             self.books_without_age.append(url)
+        if not publication_date:
+            self.books_without_publication_date.append(url)
+        if not publisher:
+            self.books_without_publisher.append(url)
+
         if book_name and book_author:
             name_author = book_name + "_" + book_author # key for alignment
             self.book_name_author_doublons[name_author] += 1
@@ -64,9 +71,15 @@ class IntraDBStats: # stats for 1 db
             # write rows & transpose OR write columns -> pandas better ?
             writer.writerow([f"without name: {len(self.books_without_name)}",
                              f"without author:{len(self.books_without_authors)}",
-                             f"without age {len(self.books_without_age)}"])
+                             f"without age {len(self.books_without_age)}",
+                             f"without publication date {len(self.books_without_publication_date)}",
+                             f"without publisher {len(self.books_without_publisher)}"])
 
-            rows = zip_longest(self.books_without_name, self.books_without_authors, self.books_without_age)
+            rows = zip_longest(self.books_without_name,
+                               self.books_without_authors,
+                               self.books_without_age,
+                               self.books_without_publication_date,
+                               self.books_without_publisher)
             for row in rows:
                 writer.writerow(row)
 
@@ -122,7 +135,9 @@ for book in g.subjects(RDF.type, ns1.Book):
     age_range = list(g.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
     url = str(g.value(book, pbs.constellationLink))
-    stats_constellation.count(book_name, book_author, age_range_int, url)
+    publication_date = str(g.value(book, ns1.datePublished))
+    publisher = str(g.value(book, ns1.publisher))
+    stats_constellation.count(book_name, book_author, age_range_int, url, publication_date, publisher)
 
 stats_constellation.print_stats()
 stats_constellation.output_csv()
@@ -140,8 +155,9 @@ if 1:
         book_author = str(g.value(book, ns1.author))
         age_range = str(g.value(book, ns1.ageRange))
         url = str(g.value(book, ns1.bnfLink))
-
-        stats_bnf.count(book_name, book_author, age_range, url)
+        publication_date = str(g.value(book, ns1.datePublished))
+        publisher = str(g.value(book, ns1.publisher))
+        stats_bnf.count(book_name, book_author, age_range, url, publication_date, publisher)
 
     stats_bnf.print_stats()
     stats_bnf.output_csv()
