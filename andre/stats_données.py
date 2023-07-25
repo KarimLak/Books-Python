@@ -30,14 +30,15 @@ class IntraDBStats: # stats for 1 db
         self.books_without_name = []
         self.books_without_publication_date = []
         self.books_without_publisher = []
-        self.book_name_doublons = defaultdict(lambda: 0)
-        self.book_name_author_doublons = defaultdict(lambda: 0)
+        self.book_name_doublons = defaultdict(lambda: [])
+        self.book_name_author_doublons = defaultdict(lambda: [])
+        self.book_name_author_publiser_doublons = defaultdict(lambda: [])
         self.book_name_author_ages = defaultdict(lambda: [])
 
     def count(self, book_name, book_author, age_range, url, publication_date, publisher): # pass url to find books easily
         self.total_book_no += 1
         if book_name:
-            self.book_name_doublons[book_name] += 1
+            self.book_name_doublons[book_name].append(url)
         else:
             self.books_without_name.append(url)
         if not book_author:
@@ -51,14 +52,17 @@ class IntraDBStats: # stats for 1 db
 
         if book_name and book_author:
             name_author = book_name + "_" + book_author # key for alignment
-            self.book_name_author_doublons[name_author] += 1
+            self.book_name_author_doublons[name_author].append(url)
             self.book_name_author_ages[name_author].append(age_range)
+
+
 
     def count_doublons(self, dict_to_count):
         doublons_count = 0
         for key in dict_to_count:
-            if dict_to_count[key] > 1:
-                print(f" {key} is present {dict_to_count[key]} times")
+            number_of_doublon_per_key = len(dict_to_count[key])
+            if number_of_doublon_per_key > 1:
+                print(f" {key} is present {number_of_doublon_per_key} times")
                 doublons_count += 1
         print(f"number of not unique names : {doublons_count}")
         print(f"proportion of not unique names : {doublons_count/ self.total_book_no}")
@@ -68,7 +72,6 @@ class IntraDBStats: # stats for 1 db
     def output_csv(self):
         with open(f"{self.source}_intra_stats.csv", "w", encoding='utf-8', newline="") as csvfile:
             writer = csv.writer(csvfile, delimiter='{')
-            # write rows & transpose OR write columns -> pandas better ?
             writer.writerow([f"without name: {len(self.books_without_name)}",
                              f"without author:{len(self.books_without_authors)}",
                              f"without age {len(self.books_without_age)}",
@@ -82,6 +85,15 @@ class IntraDBStats: # stats for 1 db
                                self.books_without_publisher)
             for row in rows:
                 writer.writerow(row)
+
+        with open(f"{self.source}_doublons_name_intra_stats.csv", "w", encoding='utf-8', newline="") as csvfile:
+            writer = csv.writer(csvfile, delimiter='{')
+            writer.writerow(["name"])
+            for name in self.book_name_doublons.keys():
+                value = self.book_name_doublons[name]
+                if len(value) > 1:
+                    writer.writerow([name] + value)
+
 
     def print_stats(self):
         print("---------------------------------")
@@ -98,7 +110,7 @@ class IntraDBStats: # stats for 1 db
         # counting name_author doublons
         name_author_doublon_count = self.count_doublons(self.book_name_author_doublons)
 
-        '''
+
         # similarity between ages of doublons
         book_name_author_ages_doublons = {}
         average_similarity = 0
@@ -109,7 +121,6 @@ class IntraDBStats: # stats for 1 db
                 print(f"key: {key} | lists: {book_name_author_ages_doublons[key]} |  similarity between 2 lists: {similarity}")
                 average_similarity += similarity
         print("average similarity between ages of same name_author", average_similarity/name_author_doublon_count)
-        '''
 
 
 def similarity_between_lists(list1, list2):
