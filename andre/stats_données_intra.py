@@ -4,6 +4,7 @@ import rdflib.namespace
 from collections import defaultdict
 import csv
 from itertools import zip_longest
+from utils import *
 
 # stats
 # ---------------------------
@@ -16,7 +17,7 @@ ns1 = rdflib.namespace.Namespace("http://schema.org/")
 
 # load the graph of constellation
 g = Graph()
-g.parse("../output_constellations.ttl", format="turtle")
+g.parse("../output_constellations_updated.ttl", format="turtle")
 
 list_of_BookAges = {}
 
@@ -30,16 +31,18 @@ class IntraDBStats: # stats for 1 db
         self.books_without_name = []
         self.books_without_publication_date = []
         self.books_without_publisher = []
+        self.books_without_isbn = []
+        self.isbn_doublons = defaultdict(lambda: [])
         self.book_name_doublons = defaultdict(lambda: [])
         self.book_name_author_doublons = defaultdict(lambda: [])
-        self.book_name_author_publiser_doublons = defaultdict(lambda: [])
+        self.book_name_author_publisher_doublons = defaultdict(lambda: [])
+        self.book_name_author_publisher_date_doublons = defaultdict(lambda: [])
         self.book_name_author_ages = defaultdict(lambda: [])
 
-    def count(self, book_name, book_author, age_range, url, publication_date, publisher): # pass url to find books easily
+    def count(self, book_name, book_author, age_range, url, publication_date, publisher, isbn): # pass url to find books easily
         self.total_book_no += 1
-        if book_name:
-            self.book_name_doublons[book_name].append(url)
-        else:
+
+        if not book_name:
             self.books_without_name.append(url)
         if not book_author:
             self.books_without_authors.append(url)
@@ -49,13 +52,35 @@ class IntraDBStats: # stats for 1 db
             self.books_without_publication_date.append(url)
         if not publisher:
             self.books_without_publisher.append(url)
+        if not isbn or isbn == "none":
+            self.books_without_isbn.append(url)
 
+        self.count_doublon_with_missing_values(book_name, book_author, age_range, publisher, publication_date, isbn)
+
+    def count_doublon_with_missing_values(self, book_name, book_author, age_range, publisher, publication_date, isbn):
+        name_key = create_key(book_name)
+        self.book_name_doublons[name_key].append(url)
+
+        name_author_key = create_key(book_name,book_author)
+        self.book_name_author_doublons[name_author_key].append(url)
+
+        name_author_publisher_key = create_key(book_name,book_author, publisher)
+        self.book_name_author_publisher_doublons[name_author_publisher_key].append(url)
+
+        name_author_publisher_date_key = create_key(book_name, book_author, publisher, publication_date)
+        self.book_name_author_publisher_date_doublons[name_author_publisher_date_key].append(url)
+
+        self.isbn_doublons[isbn].append(url)
+
+        self.book_name_author_ages[name_author_key].append(age_range)
+
+    def count_doublon_without_missing_values(self, book_name, book_author, age_range):
+        if book_name:
+            self.book_name_doublons[book_name].append(url)
         if book_name and book_author:
             name_author = book_name + "_" + book_author # key for alignment
             self.book_name_author_doublons[name_author].append(url)
             self.book_name_author_ages[name_author].append(age_range)
-
-
 
     def count_doublons(self, dict_to_count):
         doublons_count = 0
@@ -75,35 +100,33 @@ class IntraDBStats: # stats for 1 db
             writer.writerow([f"{key_name}"])
             for key in doublon_dict.keys():
                 value = doublon_dict[key]
-                if len(value) > 1:
+                if len(value) > 1: # more than 1 book for 1 key means there's a doublon
                     writer.writerow([key] + value)
     def output_csv(self):
-        with open(f"{self.source}_intra_stats.csv", "w", encoding='utf-8', newline="") as csvfile:
-            writer = csv.writer(csvfile, delimiter='{')
-            writer.writerow([f"without name: {len(self.books_without_name)}",
-                             f"without author:{len(self.books_without_authors)}",
-                             f"without age {len(self.books_without_age)}",
-                             f"without publication date {len(self.books_without_publication_date)}",
-                             f"without publisher {len(self.books_without_publisher)}"])
+        if 1: # toggle if we want to recompute stats for intra db
+            with open(f"{self.source}_intra_stats.csv", "w", encoding='utf-8', newline="") as csvfile:
+                writer = csv.writer(csvfile, delimiter='{')
+                writer.writerow([f"without isbn: {len(self.books_without_isbn)}",
+                                 f"without name: {len(self.books_without_name)}",
+                                 f"without author:{len(self.books_without_authors)}",
+                                 f"without age {len(self.books_without_age)}",
+                                 f"without publication date {len(self.books_without_publication_date)}",
+                                 f"without publisher {len(self.books_without_publisher)}"])
 
-            rows = zip_longest(self.books_without_name,
-                               self.books_without_authors,
-                               self.books_without_age,
-                               self.books_without_publication_date,
-                               self.books_without_publisher)
-            for row in rows:
-                writer.writerow(row)
+                rows = zip_longest(self.books_without_isbn,
+                                   self.books_without_name,
+                                   self.books_without_authors,
+                                   self.books_without_age,
+                                   self.books_without_publication_date,
+                                   self.books_without_publisher)
+                for row in rows:
+                    writer.writerow(row)
 
-            self.doublon_output_csv("name", self.book_name_doublons)
-            self.doublon_output_csv("name_author", self.book_name_author_doublons)
-
-        # with open(f"{self.source}_doublons_name_intra_stats.csv", "w", encoding='utf-8', newline="") as csvfile:
-        #     writer = csv.writer(csvfile, delimiter='{')
-        #     writer.writerow(["name"])
-        #     for name in self.book_name_doublons.keys():
-        #         value = self.book_name_doublons[name]
-        #         if len(value) > 1:
-        #             writer.writerow([name] + value)
+        self.doublon_output_csv("name", self.book_name_doublons)
+        self.doublon_output_csv("name_author", self.book_name_author_doublons)
+        self.doublon_output_csv("name_author_publisher", self.book_name_author_publisher_doublons)
+        self.doublon_output_csv("name_author_publisher_date", self.book_name_author_publisher_date_doublons)
+        self.doublon_output_csv("isbn", self.isbn_doublons)
 
 
     def print_stats(self):
@@ -157,9 +180,11 @@ for book in g.subjects(RDF.type, ns1.Book):
     age_range = list(g.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
     url = str(g.value(book, pbs.constellationLink))
-    publication_date = str(g.value(book, ns1.datePublished))
+    publication_date = str(g.value(book, pbs.dateEdition))
     publisher = str(g.value(book, ns1.publisher))
-    stats_constellation.count(book_name, book_author, age_range_int, url, publication_date, publisher)
+    isbn = str(g.value(book, ns1.isbn))
+
+    stats_constellation.count(book_name, book_author, age_range_int, url, publication_date, publisher, isbn)
 
 stats_constellation.print_stats()
 stats_constellation.output_csv()
@@ -179,7 +204,8 @@ if 1:
         url = str(g.value(book, ns1.bnfLink))
         publication_date = str(g.value(book, ns1.datePublished))
         publisher = str(g.value(book, ns1.publisher))
-        stats_bnf.count(book_name, book_author, age_range, url, publication_date, publisher)
+        isbn = str(g.value(book, ns1.isbn))
+        stats_bnf.count(book_name, book_author, age_range, url, publication_date, publisher, isbn)
 
     stats_bnf.print_stats()
     stats_bnf.output_csv()
