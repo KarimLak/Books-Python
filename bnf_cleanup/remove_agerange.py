@@ -8,7 +8,7 @@ g = Graph()
 
 try:
     # parse a file into the graph
-    g.parse("./output_bnf_2_updated.ttl", format="turtle")  # replace with your actual input file name
+    g.parse("./output_bnf_2.ttl", format="turtle")  # replace with your actual input file name
 except Exception as e:
     print(f"An error occurred while parsing the file: {e}")
 

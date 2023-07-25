@@ -1,7 +1,7 @@
 from rdflib import Graph, Namespace, Literal, URIRef
 
 g = Graph()
-g.parse("output_bnf_2_updated.ttl", format="turtle")
+g.parse("output_bnf_2.ttl", format="turtle")
 
 # Define the namespace
 ns1 = Namespace("http://schema.org/")
@@ -19,6 +19,7 @@ age_ranges = {
     "À partir de 10 ans": ['10', '11', '12'],
     "Apprentissage - À partir de 3 ans": ['3', '4', '5'],
     "À partir de 3 ans": ['3', '4', '5'],
+    "De 0 à 3 ans": ['3', '4', '5'],
     "Lecteurs débutants - À partir de 6 ans": ['6', '7', '8'],
     "À partir de 6 ans": ['6', '7', '8'],
     "Bons lecteurs - À partir de 12 ans": ['12'],
