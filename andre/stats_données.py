@@ -69,6 +69,14 @@ class IntraDBStats: # stats for 1 db
         print()
         return doublons_count
 
+    def doublon_output_csv(self, key_name, doublon_dict):
+        with open(f"{self.source}_doublons_{key_name}_intra_stats.csv", "w", encoding='utf-8', newline="") as csvfile:
+            writer = csv.writer(csvfile, delimiter='{')
+            writer.writerow([f"{key_name}"])
+            for key in doublon_dict.keys():
+                value = doublon_dict[key]
+                if len(value) > 1:
+                    writer.writerow([key] + value)
     def output_csv(self):
         with open(f"{self.source}_intra_stats.csv", "w", encoding='utf-8', newline="") as csvfile:
             writer = csv.writer(csvfile, delimiter='{')
@@ -86,13 +94,16 @@ class IntraDBStats: # stats for 1 db
             for row in rows:
                 writer.writerow(row)
 
-        with open(f"{self.source}_doublons_name_intra_stats.csv", "w", encoding='utf-8', newline="") as csvfile:
-            writer = csv.writer(csvfile, delimiter='{')
-            writer.writerow(["name"])
-            for name in self.book_name_doublons.keys():
-                value = self.book_name_doublons[name]
-                if len(value) > 1:
-                    writer.writerow([name] + value)
+            self.doublon_output_csv("name", self.book_name_doublons)
+            self.doublon_output_csv("name_author", self.book_name_author_doublons)
+
+        # with open(f"{self.source}_doublons_name_intra_stats.csv", "w", encoding='utf-8', newline="") as csvfile:
+        #     writer = csv.writer(csvfile, delimiter='{')
+        #     writer.writerow(["name"])
+        #     for name in self.book_name_doublons.keys():
+        #         value = self.book_name_doublons[name]
+        #         if len(value) > 1:
+        #             writer.writerow([name] + value)
 
 
     def print_stats(self):
