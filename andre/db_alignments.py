@@ -31,9 +31,13 @@ class InterDBStats:
         self.constellation_book_number = 0
         self.bnf_book_number = 0
         self.number_of_alignments = 0
+        self.collision_number = 0
 
     def increment_alignement_number(self):
         self.number_of_alignments += 1
+
+    def increment_collision_number(self):
+        self.collision_number += 1
 
     def increment_bnf_book_number(self):
         self.bnf_book_number += 1
@@ -41,9 +45,38 @@ class InterDBStats:
     def increment_constellation_book_number(self):
         self.constellation_book_number += 1
 
-    # def compute_alignement_accuracy(self):
-    #     for book in list_of_BookAges:
-    #
+    def compute_alignment_accuracy(self, book_alignments):
+        isbn_equality = 0
+        isbn_inequality = 0
+        missing_isbn_bnf = 0
+        missing_isbn_constellation = 0
+        for book in book_alignments:
+            isbn_constellation = book_alignments[book].isbn_constellation
+            isbn_bnf = book_alignments[book].isbn_bnf
+
+            url_constellation = book_alignments[book].url_constellation
+            url_bnf = book_alignments[book].url_bnf
+
+            if url_bnf and url_constellation: # proof of alignment because never missing
+
+                if isbn_constellation and isbn_bnf:
+                    if isbn_bnf == isbn_constellation:
+                        isbn_equality += 1
+                    else:
+                        isbn_inequality += 1
+                if not isbn_constellation:
+                    missing_isbn_constellation += 1
+                if isbn_constellation and not isbn_bnf:
+                    missing_isbn_bnf += 1
+
+        print("number of correct isbn matches", isbn_equality)
+        print("number of incorrect isbn matches", isbn_inequality)
+        print("missing isbn constellation", missing_isbn_constellation)
+        print("missing isbn bnf", missing_isbn_bnf)
+        print("proportion of correct isbn matches over total number of alignment",
+              isbn_equality/self.number_of_alignments)
+        print("proportion of incorrect isbn matches over total number of alignment",
+              isbn_inequality / self.number_of_alignments)
 
     def print_stats(self):
         self.total_book_number = self.constellation_book_number + self.bnf_book_number
@@ -51,6 +84,7 @@ class InterDBStats:
         print("total number of books", self.total_book_number)
         print("total number of books bnf", self.bnf_book_number)
         print("total number of books constellation", self.constellation_book_number)
+        print("total number of collisions", self.collision_number)
 
 
 name_author_book_alignments = {}
@@ -84,10 +118,14 @@ g.parse("../output_bnf_updated.ttl", format="turtle")
 def alignment_by_name_author(book_name, book_author, book_ages):  # O(1)
     key = create_key(book_name, book_author)
     if key in name_author_book_alignments:
-        name_author_book_alignments[key].align(isbn_bnf=book_ages.isbn_bnf,
-                                               age_range_bnf=book_ages.age_range_bnf,
-                                               url_bnf=book_ages.url_bnf)
-        stats.increment_alignement_number()
+        if not name_author_book_alignments[key].url_bnf: # not a collision
+            name_author_book_alignments[key].align(isbn_bnf=book_ages.isbn_bnf,
+                                                   age_range_bnf=book_ages.age_range_bnf,
+                                                   url_bnf=book_ages.url_bnf)
+            stats.increment_alignement_number()
+        else:
+            stats.increment_collision_number()
+
 
     else:
         name_author_book_alignments[key] = book_ages
@@ -103,7 +141,7 @@ for book in g.subjects(RDF.type, ns1.Book):  # O(M)
     stats.increment_bnf_book_number()
     alignment_by_name_author(book_name, book_author, book_alignement)
 
-with open("data/name_author_alignment.csv", "w", encoding='utf-8', newline="") as csvfile:
+with open("data/alignment_name_author.csv", "w", encoding='utf-8', newline="") as csvfile:
     writer = csv.writer(csvfile, delimiter='{')
     writer.writerow(["key",
                      "isbn_constellation",
@@ -123,3 +161,4 @@ with open("data/name_author_alignment.csv", "w", encoding='utf-8', newline="") a
                          book_alignement.url_bnf])
 
 stats.print_stats()
+stats.compute_alignment_accuracy(name_author_book_alignments)
