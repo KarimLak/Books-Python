@@ -1,0 +1,125 @@
+from rdflib import Graph
+from rdflib.namespace import RDF
+import rdflib.namespace
+import csv
+from utils import create_key, extract_data_bnf, extract_data_constellation
+
+# define the namespace
+pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
+ns1 = rdflib.namespace.Namespace("http://schema.org/")
+
+
+class BookAlignment:
+    def __init__(self, isbn_constellation=None, isbn_bnf=None, age_range_constellation=None,
+                 age_range_bnf=None, url_constellation=None, url_bnf=None):
+        self.isbn_constellation = isbn_constellation
+        self.isbn_bnf = isbn_bnf
+        self.age_range_constellation = age_range_constellation  # list not used to conserve source in db
+        self.age_range_bnf = age_range_bnf
+        self.url_bnf = url_bnf
+        self.url_constellation = url_constellation
+
+    def align(self, isbn_bnf, age_range_bnf, url_bnf):
+        self.isbn_bnf = isbn_bnf
+        self.age_range_bnf = age_range_bnf
+        self.url_bnf = url_bnf
+
+
+class InterDBStats:
+    def __init__(self) -> None:
+        self.total_book_number = 0
+        self.constellation_book_number = 0
+        self.bnf_book_number = 0
+        self.number_of_alignments = 0
+
+    def increment_alignement_number(self):
+        self.number_of_alignments += 1
+
+    def increment_bnf_book_number(self):
+        self.bnf_book_number += 1
+
+    def increment_constellation_book_number(self):
+        self.constellation_book_number += 1
+
+    # def compute_alignement_accuracy(self):
+    #     for book in list_of_BookAges:
+    #
+
+    def print_stats(self):
+        self.total_book_number = self.constellation_book_number + self.bnf_book_number
+        print("number of alignments", self.number_of_alignments)
+        print("total number of books", self.total_book_number)
+        print("total number of books bnf", self.bnf_book_number)
+        print("total number of books constellation", self.constellation_book_number)
+
+
+name_author_book_alignments = {}
+stats = InterDBStats()
+
+# constellations
+# ----------------------------------------------------
+
+
+# load the graph of constellation
+g = Graph()
+g.parse("../output_constellations.ttl", format="turtle")
+
+# constellation loop
+for book in g.subjects(RDF.type, ns1.Book):
+    book_name, book_author, age_range_int, url, publication_date, publisher, isbn = extract_data_constellation(g, book)
+    stats.increment_constellation_book_number()
+    key = create_key(book_name, book_author)
+    name_author_book_alignments[key] = BookAlignment(url_constellation=url,
+                                                     isbn_constellation=isbn,
+                                                     age_range_constellation=age_range_int)
+
+# BNF
+# ----------------------------------------------------
+
+# reset graph
+g = Graph()
+g.parse("../output_bnf_updated.ttl", format="turtle")
+
+
+def alignment_by_name_author(book_name, book_author, book_ages):  # O(1)
+    key = create_key(book_name, book_author)
+    if key in name_author_book_alignments:
+        name_author_book_alignments[key].align(isbn_bnf=book_ages.isbn_bnf,
+                                               age_range_bnf=book_ages.age_range_bnf,
+                                               url_bnf=book_ages.url_bnf)
+        stats.increment_alignement_number()
+
+    else:
+        name_author_book_alignments[key] = book_ages
+
+
+# BNF loop
+for book in g.subjects(RDF.type, ns1.Book):  # O(M)
+    book_name, book_author, age_range_int, url, publication_date, publisher, isbn = extract_data_bnf(g, book)
+    book_alignement = BookAlignment(url_bnf=url,
+                                    isbn_bnf=isbn,
+                                    age_range_bnf=age_range_int)
+
+    stats.increment_bnf_book_number()
+    alignment_by_name_author(book_name, book_author, book_alignement)
+
+with open("data/name_author_alignment.csv", "w", encoding='utf-8', newline="") as csvfile:
+    writer = csv.writer(csvfile, delimiter='{')
+    writer.writerow(["key",
+                     "isbn_constellation",
+                     "isbn_bnf",
+                     "age_range_constellation",
+                     "age_range_bnf",
+                     "url_constellation",
+                     "url_bnf"])
+    for key in name_author_book_alignments.keys():
+        book_alignement = name_author_book_alignments[key]
+        writer.writerow([key,
+                         book_alignement.isbn_constellation,
+                         book_alignement.isbn_bnf,
+                         book_alignement.age_range_constellation,
+                         book_alignement.age_range_bnf,
+                         book_alignement.url_constellation,
+                         book_alignement.url_bnf])
+
+stats.print_stats()
