@@ -17,7 +17,7 @@ ns1 = rdflib.namespace.Namespace("http://schema.org/")
 
 # load the graph of constellation
 g = Graph()
-g.parse("../output_constellations_updated.ttl", format="turtle")
+g.parse("../output_constellations.ttl", format="turtle")
 
 list_of_BookAges = {}
 
@@ -166,7 +166,10 @@ def similarity_between_lists(list1, list2):
     total_elements = set(list1).union(set(list2))
     num_total_elements = len(total_elements)
 
-    percentage_similarity = (num_common_elements / num_total_elements) * 100
+    if total_elements:
+        percentage_similarity = (num_common_elements / (num_total_elements)) * 100
+    else:
+        percentage_similarity = 0
 
     return percentage_similarity
 
@@ -175,15 +178,7 @@ stats_constellation = IntraDBStats("Constellation")
 
 # refactor to have a reader class
 for book in g.subjects(RDF.type, ns1.Book):
-    book_name = str(g.value(book, ns1.name)) if str(g.value(book, ns1.name)) else str(g.value(book, ns1.title)) # name vs title in database
-    book_author = str(g.value(book, ns1.author))
-    age_range = list(g.objects(book, pbs.ageRange))
-    age_range_int = [int(age) for age in age_range]
-    url = str(g.value(book, pbs.constellationLink))
-    publication_date = str(g.value(book, pbs.dateEdition))
-    publisher = str(g.value(book, ns1.publisher))
-    isbn = str(g.value(book, ns1.isbn))
-
+    book_name, book_author, age_range_int, url, publication_date, publisher, isbn = extract_data_constellation(g, book)
     stats_constellation.count(book_name, book_author, age_range_int, url, publication_date, publisher, isbn)
 
 stats_constellation.print_stats()
@@ -198,14 +193,8 @@ if 1:
     stats_bnf = IntraDBStats("BNF")
 
     for book in g.subjects(RDF.type, ns1.Book): #O(M)
-        book_name = str(g.value(book, ns1.name))
-        book_author = str(g.value(book, ns1.author))
-        age_range = str(g.value(book, ns1.ageRange))
-        url = str(g.value(book, ns1.bnfLink))
-        publication_date = str(g.value(book, ns1.datePublished))
-        publisher = str(g.value(book, ns1.publisher))
-        isbn = str(g.value(book, ns1.isbn))
-        stats_bnf.count(book_name, book_author, age_range, url, publication_date, publisher, isbn)
+        book_name, book_author, age_range_int, url, publication_date, publisher, isbn = extract_data_bnf(g, book)
+        stats_bnf.count(book_name, book_author, age_range_int, url, publication_date, publisher, isbn)
 
     stats_bnf.print_stats()
     stats_bnf.output_csv()
