@@ -1559,7 +1559,7 @@ ns1:Verlagsgruppe_Random_House a ns1:Publisher ;
     ns1:name "Verlagsgruppe Random House"^^xsd:string .
 
 ns1:Prestel_Verlag a ns1:Publisher ;
-    ns1:name "Prestel Verlag"^^xsd:string .
+    ns1:name "Prestel Verlag"^^xsd:string ;
     ns1:parentOrganization ns1:Verlagsgruppe_Random_House .
 
 ns1:Vermillon a ns1:Publisher ;
@@ -1853,7 +1853,7 @@ ns1:Scholastic a ns1:Publisher ;
     ns1:subOrganization ns1:Scholastic_Canada .
 
 ns1:Holtzbrink a ns1:Publisher ;
-    ns1:name "Holtzbrink"^^xsd:string ;
+    ns1:name "Holtzbrink"^^xsd:string .
 
 ns1:Scholastic_Canada a ns1:Publisher ;
     ns1:name "Scholastic Canada"^^xsd:string ;
@@ -2431,10 +2431,10 @@ ns1:Crown_Books_For_Young_Readers a ns1:Publisher ;
     ns1:parentOrganization ns1:Penguin_Random_House .
 
 ns1:Running_Press_Kids a ns1:Publisher ;
-    ns1:name "Running Press Kids"^^xsd:string ;
+    ns1:name "Running Press Kids"^^xsd:string .
 
 ns1:Ecole_Active a ns1:Publisher ;
-    ns1:name "L'École active"^^xsd:string ;
+    ns1:name "L'École active"^^xsd:string .
 
 ns1:Napoleon a ns1:Publisher ;
     ns1:name "Napoleon"^^xsd:string .

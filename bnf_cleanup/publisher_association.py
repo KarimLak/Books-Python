@@ -7,7 +7,7 @@ from rdflib import XSD, Graph, Literal, BNode, Namespace, RDF, URIRef
 ns1 = Namespace('http://schema.org/')
 
 def remove_specific_words(string):
-    words_to_remove = ['books', 'press', 'editions', 'editeur', 'éditeur', 'éditions', 'publishing', 'poche', 'jeunesse', 'publishers', 'publisher']
+    words_to_remove = ['books', 'press', 'editions', 'editeur', 'éditeur', 'éditions', 'publishing', 'poche', 'jeunesse', 'publishers', 'publisher', ']', '[', 'éd.', 'roman', 'romans', 'les éditions de la', 'les éditions', 'de la', 'de', 'la', 'le', 'pocket', '!', '|']
     for word in words_to_remove:
         string = string.lower().replace(word, '')
     return string
@@ -34,7 +34,7 @@ def similar(a, b):
     return SequenceMatcher(None, a.lower(), b.lower()).ratio()
 
 existing_graph = Graph()
-existing_graph.parse("./output_bnf_1.ttl", format='turtle')
+existing_graph.parse("./output_bnf_2.ttl", format='turtle')
 
 def match_and_replace_publishers(existing_graph, publishers_dict):
     for book in existing_graph.subjects(RDF.type, ns1.Book):
@@ -80,5 +80,5 @@ def match_and_replace_publishers(existing_graph, publishers_dict):
 existing_graph = match_and_replace_publishers(existing_graph, publishers_dict)
 
 # Save the updated graph
-existing_graph.serialize("output_bnf_1_updated.ttl", format='turtle')
+existing_graph.serialize("output_bnf_2_updated.ttl", format='turtle')
 print("Finished updating publishers")
