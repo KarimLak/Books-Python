@@ -2,7 +2,7 @@ from rdflib import Graph
 from rdflib.namespace import RDF
 import rdflib.namespace
 import csv
-from utils import create_key, extract_data_bnf, extract_data_constellation
+import utils
 import copy
 
 # define the namespace
@@ -65,6 +65,7 @@ class InterDBStats:
 
     def compute_alignment_accuracy(self):
 
+        print("-----")
         isbn_equality = 0
         isbn_inequality = 0
         missing_isbn_bnf = 0
@@ -93,9 +94,9 @@ class InterDBStats:
         print("missing isbn constellation", missing_isbn_constellation)
         print("missing isbn bnf", missing_isbn_bnf)
         print("proportion of correct isbn matches over total number of alignment",
-              isbn_equality / self.number_of_alignments)
+              isbn_equality / (self.number_of_alignments + utils.EPSILON))
         print("proportion of incorrect isbn matches over total number of alignment",
-              isbn_inequality / self.number_of_alignments)
+              isbn_inequality / (self.number_of_alignments + utils.EPSILON))
 
     def print_stats(self):
         self.total_book_number = self.constellation_book_number + self.bnf_book_number
@@ -132,6 +133,7 @@ class InterDBStats:
 stats_name_author = InterDBStats("name_author")
 stats_name_author_publisher = InterDBStats("name_author_publisher")
 stats_isbn = InterDBStats("isbn")
+stats_name_author_publisher_date = InterDBStats("name_author_publisher_date")
 
 # constellations
 # ----------------------------------------------------
@@ -143,23 +145,29 @@ g.parse("../output_constellations.ttl", format="turtle")
 
 # constellation loop
 for book in g.subjects(RDF.type, ns1.Book):
-    book_name, book_author, age_range_int, url, publication_date, publisher, isbn = extract_data_constellation(g, book)
+    book_name, book_author, age_range_int, url, publication_date, publisher, isbn = \
+        utils.extract_data_constellation(g, book)
 
     book_alignment_constellation = BookAlignment(url_constellation=url,
                                                  isbn_constellation=isbn,
                                                  age_range_constellation=age_range_int)
 
-    name_author_key = create_key(book_name, book_author)
+    name_author_key = utils.create_key(book_name, book_author)
     isbn_key = isbn
-    name_author_publisher_key = create_key(book_name, book_author, publisher)
+    name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
+    name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
 
     stats_name_author.all_book_alignments[name_author_key] = copy.deepcopy(book_alignment_constellation)
     stats_isbn.all_book_alignments[isbn_key] = copy.deepcopy(book_alignment_constellation)
-    stats_name_author_publisher.all_book_alignments[name_author_publisher_key] = copy.deepcopy(book_alignment_constellation)
+    stats_name_author_publisher.all_book_alignments[name_author_publisher_key] = \
+        copy.deepcopy(book_alignment_constellation)
+    stats_name_author_publisher_date.all_book_alignments[name_author_publisher_date_key] = \
+        copy.deepcopy(book_alignment_constellation)
 
     stats_name_author.increment_constellation_book_number()
     stats_isbn.increment_constellation_book_number()
     stats_name_author_publisher.increment_constellation_book_number()
+    stats_name_author_publisher_date.increment_constellation_book_number()
 
 # BNF
 # ----------------------------------------------------
@@ -170,27 +178,32 @@ g.parse("../output_bnf_updated.ttl", format="turtle")
 
 # BNF loop
 for book in g.subjects(RDF.type, ns1.Book):  # O(M)
-    book_name, book_author, age_range_int, url, publication_date, publisher, isbn = extract_data_bnf(g, book)
+    book_name, book_author, age_range_int, url, publication_date, publisher, isbn = utils.extract_data_bnf(g, book)
     book_alignment_bnf = BookAlignment(url_bnf=url,
                                        isbn_bnf=isbn,
                                        age_range_bnf=age_range_int)
 
-    name_author_key = create_key(book_name, book_author)
+    name_author_key = utils.create_key(book_name, book_author)
     isbn_key = isbn
-    name_author_publisher_key = create_key(book_name, book_author, publisher)
+    name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
+    name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
 
     stats_name_author.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_key)
     stats_isbn.align_by_key(copy.deepcopy(book_alignment_bnf), isbn_key)
     stats_name_author_publisher.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
+    stats_name_author_publisher_date.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
 
     stats_name_author.increment_bnf_book_number()
     stats_isbn.increment_bnf_book_number()
     stats_name_author_publisher.increment_bnf_book_number()
+    stats_name_author_publisher_date.increment_bnf_book_number()
 
 stats_name_author.output_csv()
 stats_isbn.output_csv()
 stats_name_author_publisher.output_csv()
+stats_name_author_publisher_date.output_csv()
 
 stats_name_author.print_stats()
 stats_isbn.print_stats()
 stats_name_author_publisher.print_stats()
+stats_name_author_publisher_date.print_stats()
