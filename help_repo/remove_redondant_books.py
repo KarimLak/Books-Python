@@ -19,7 +19,7 @@ def remove_duplicate_books(filepath):
 
     for book in books:
         # Get all properties of the book
-        properties = [str(g.value(subject=book, predicate=p)) for p in [ns1["name"], ns1["author"], ns1["publisher"], ns1["genre"], ns1["datePublished"], ns1["award"], ns1["url"]]]
+        properties = [str(g.value(subject=book, predicate=p)) for p in [ns1["name"], ns1["author"], ns1["publisher"],ns1["bnfLink"], ns1["avisCritique"], ns1["ageRange"]]]
         # Use properties as key to identify duplicate books
         key = tuple(properties)
         unique_books[key].append(book)
@@ -29,7 +29,7 @@ def remove_duplicate_books(filepath):
         if len(books) > 1:
             # If there are duplicate books, keep the first one and remove the rest
             for book in books[1:]:
-                for p in [ns1["name"], ns1["author"], ns1["publisher"], ns1["genre"], ns1["datePublished"], ns1["award"], ns1["url"]]:
+                for p in [ns1["name"], ns1["author"], ns1["publisher"],ns1["bnfLink"], ns1["avisCritique"], ns1["ageRange"]]:
                     g.remove((book, p, None))
 
     # Serialize the updated graph
@@ -40,4 +40,4 @@ def remove_duplicate_books(filepath):
         f.write(output_data)
 
 # Call the function with your ttl file name
-remove_duplicate_books("./output_bookcentre.ttl")
+remove_duplicate_books("./output_bnf_updated.ttl")
