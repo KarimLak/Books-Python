@@ -3,6 +3,7 @@ from rdflib.namespace import RDF
 import rdflib.namespace
 import csv
 from utils import create_key, extract_data_bnf, extract_data_constellation
+import copy
 
 # define the namespace
 pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
@@ -63,8 +64,6 @@ class InterDBStats:
             self.all_book_alignments[book_key] = book_alignment  # bnf data gets into the dict without alignment
 
     def compute_alignment_accuracy(self):
-        print("------------------------------------")
-        print("key type", self.key_type)
 
         isbn_equality = 0
         isbn_inequality = 0
@@ -132,6 +131,7 @@ class InterDBStats:
 
 stats_name_author = InterDBStats("name_author")
 stats_name_author_publisher = InterDBStats("name_author_publisher")
+stats_isbn = InterDBStats("isbn")
 
 # constellations
 # ----------------------------------------------------
@@ -150,12 +150,15 @@ for book in g.subjects(RDF.type, ns1.Book):
                                                  age_range_constellation=age_range_int)
 
     name_author_key = create_key(book_name, book_author)
+    isbn_key = isbn
     name_author_publisher_key = create_key(book_name, book_author, publisher)
 
-    stats_name_author.all_book_alignments[name_author_key] = book_alignment_constellation
-    stats_name_author_publisher.all_book_alignments[name_author_publisher_key] = book_alignment_constellation
+    stats_name_author.all_book_alignments[name_author_key] = copy.deepcopy(book_alignment_constellation)
+    stats_isbn.all_book_alignments[isbn_key] = copy.deepcopy(book_alignment_constellation)
+    stats_name_author_publisher.all_book_alignments[name_author_publisher_key] = copy.deepcopy(book_alignment_constellation)
 
     stats_name_author.increment_constellation_book_number()
+    stats_isbn.increment_constellation_book_number()
     stats_name_author_publisher.increment_constellation_book_number()
 
 # BNF
@@ -173,16 +176,21 @@ for book in g.subjects(RDF.type, ns1.Book):  # O(M)
                                        age_range_bnf=age_range_int)
 
     name_author_key = create_key(book_name, book_author)
+    isbn_key = isbn
     name_author_publisher_key = create_key(book_name, book_author, publisher)
 
-    stats_name_author.align_by_key(book_alignment_bnf, name_author_key)
-    stats_name_author_publisher.align_by_key(book_alignment_bnf, name_author_publisher_key)
+    stats_name_author.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_key)
+    stats_isbn.align_by_key(copy.deepcopy(book_alignment_bnf), isbn_key)
+    stats_name_author_publisher.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
 
     stats_name_author.increment_bnf_book_number()
+    stats_isbn.increment_bnf_book_number()
     stats_name_author_publisher.increment_bnf_book_number()
 
 stats_name_author.output_csv()
+stats_isbn.output_csv()
 stats_name_author_publisher.output_csv()
 
 stats_name_author.print_stats()
+stats_isbn.print_stats()
 stats_name_author_publisher.print_stats()
