@@ -1,17 +1,10 @@
 import rdflib
 
-def create_key(book_name, book_author=None, publisher=None, publication_date=None):
-    if book_name and not book_author and not publisher and not publication_date:
-        return book_name
 
-    if book_name and book_author and not publisher and not publication_date:
-        return book_name + "_" + book_author
+EPSILON = 0.00001
 
-    if book_name and book_author and publisher and not publication_date:
-        return book_name + "_" + book_author + "_" + publisher
-
-    if book_name and book_author and publisher and publication_date:
-        return book_name + "_" + book_author + "_" + publisher + "_" + publication_date
+def create_key(book_name, book_author="", publisher="", publication_date=""):
+    return book_name + "_" + book_author + "_" + publisher + "_" + publication_date
 
 
 pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
@@ -25,7 +18,7 @@ def extract_data_constellation(graph, book):
     age_range = list(graph.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
     url = str(graph.value(book, pbs.constellationLink))
-    publication_date = str(graph.value(book, pbs.dateEdition))
+    publication_date = str(graph.value(book, ns1.datePublished))
     publisher = str(graph.value(book, ns1.publisher))
     isbn = str(graph.value(book, ns1.isbn))
     return book_name, book_author, age_range_int, url, publication_date, publisher, isbn

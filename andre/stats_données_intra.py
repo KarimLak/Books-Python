@@ -14,11 +14,6 @@ from utils import *
 pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
 ns1 = rdflib.namespace.Namespace("http://schema.org/")
 
-
-# load the graph of constellation
-g = Graph()
-g.parse("../output_constellations.ttl", format="turtle")
-
 list_of_BookAges = {}
 
 
@@ -146,15 +141,15 @@ class IntraDBStats: # stats for 1 db
 
 
         # similarity between ages of doublons
-        book_name_author_ages_doublons = {}
-        average_similarity = 0
-        for key in self.book_name_author_ages:
-            if len(self.book_name_author_ages[key]) > 1:
-                book_name_author_ages_doublons[key] = self.book_name_author_ages[key]
-                similarity = similarity_between_lists(book_name_author_ages_doublons[key][0], book_name_author_ages_doublons[key][1])
-                print(f"key: {key} | lists: {book_name_author_ages_doublons[key]} |  similarity between 2 lists: {similarity}")
-                average_similarity += similarity
-        print("average similarity between ages of same name_author", average_similarity/name_author_doublon_count)
+        # book_name_author_ages_doublons = {}
+        # average_similarity = 0
+        # for key in self.book_name_author_ages:
+        #     if len(self.book_name_author_ages[key]) > 1:
+        #         book_name_author_ages_doublons[key] = self.book_name_author_ages[key]
+        #         similarity = similarity_between_lists(book_name_author_ages_doublons[key][0], book_name_author_ages_doublons[key][1])
+        #         print(f"key: {key} | lists: {book_name_author_ages_doublons[key]} |  similarity between 2 lists: {similarity}")
+        #         average_similarity += similarity
+        # print("average similarity between ages of same name_author", average_similarity/name_author_doublon_count)
 
 
 def similarity_between_lists(list1, list2):
@@ -173,6 +168,12 @@ def similarity_between_lists(list1, list2):
 
     return percentage_similarity
 
+#------------------------------------
+# CONSTELLATION
+
+# load the graph of constellation
+g = Graph()
+g.parse("../output_constellations.ttl", format="turtle")
 
 stats_constellation = IntraDBStats("Constellation")
 
@@ -184,17 +185,19 @@ for book in g.subjects(RDF.type, ns1.Book):
 stats_constellation.print_stats()
 stats_constellation.output_csv()
 
-if 1:
-    # reset graph
-    g = Graph()
-    g.parse("../output_bnf_1.ttl", format="turtle")
-    g.parse("../output_bnf_2.ttl", format="turtle")
 
-    stats_bnf = IntraDBStats("BNF")
+#------------------------------------
+# BNF
 
-    for book in g.subjects(RDF.type, ns1.Book): #O(M)
-        book_name, book_author, age_range_int, url, publication_date, publisher, isbn = extract_data_bnf(g, book)
-        stats_bnf.count(book_name, book_author, age_range_int, url, publication_date, publisher, isbn)
+# reset graph
+g = Graph()
+g.parse("../output_bnf_updated.ttl", format="turtle")
 
-    stats_bnf.print_stats()
-    stats_bnf.output_csv()
+stats_bnf = IntraDBStats("BNF")
+
+for book in g.subjects(RDF.type, ns1.Book): #O(M)
+    book_name, book_author, age_range_int, url, publication_date, publisher, isbn = extract_data_bnf(g, book)
+    stats_bnf.count(book_name, book_author, age_range_int, url, publication_date, publisher, isbn)
+
+stats_bnf.print_stats()
+stats_bnf.output_csv()
