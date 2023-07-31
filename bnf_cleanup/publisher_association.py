@@ -7,7 +7,7 @@ from rdflib import XSD, Graph, Literal, BNode, Namespace, RDF, URIRef
 ns1 = Namespace('http://schema.org/')
 
 def remove_specific_words(string):
-    words_to_remove = ['books', 'press', 'editions', 'editeur', 'éditeur', 'éditions', 'publishing', 'poche', 'jeunesse', 'publishers', 'publisher', ']', '[', 'éd.', 'roman', 'romans', 'les éditions de la', 'les éditions', 'de la', 'de', 'la', 'le', 'pocket', '!', '|']
+    words_to_remove = ['books', 'press', 'editions', 'editeur', 'éditeur', 'éditions', 'publishing', 'poche', 'jeunesse', 'publishers', 'publisher', ']', '[', 'éd.', 'ed.', 'ed', 'éd', 'roman', 'romans', 'les éditions de la', 'les éditions', 'de la', 'de', 'la', 'le', 'pocket', '!', '|', "l'"]
     for word in words_to_remove:
         string = string.lower().replace(word, '')
     return string
@@ -34,7 +34,7 @@ def similar(a, b):
     return SequenceMatcher(None, a.lower(), b.lower()).ratio()
 
 existing_graph = Graph()
-existing_graph.parse("./output_bnf_2.ttl", format='turtle')
+existing_graph.parse("./output_bnf_2_updated.ttl", format='turtle')
 
 def match_and_replace_publishers(existing_graph, publishers_dict):
     for book in existing_graph.subjects(RDF.type, ns1.Book):
@@ -71,10 +71,8 @@ def match_and_replace_publishers(existing_graph, publishers_dict):
                     if best_ratio > 0.85:
                         existing_graph.set((book, ns1.publisher, URIRef(best_match)))
                         break
-                else:
-                    # If we still did not find a good match, keep the original string
-                    existing_graph.set((book, ns1.publisher, Literal(publisher_name)))
     return existing_graph
+
 
 # Use the function
 existing_graph = match_and_replace_publishers(existing_graph, publishers_dict)
