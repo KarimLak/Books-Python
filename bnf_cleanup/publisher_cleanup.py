@@ -2,7 +2,7 @@ from rdflib import Graph, Namespace, Literal
 
 # Load the RDF data from the file
 g = Graph()
-g.parse("output_bnf_updated.ttl", format="turtle")
+g.parse("output_bnf_2_updated.ttl", format="turtle")
 
 # Define the namespaces
 ns1 = Namespace("http://schema.org/")
