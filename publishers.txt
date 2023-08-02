@@ -561,9 +561,7 @@ La maison des mécènes
 LaCaza Musique
 Label 619
 Lacaza musique
-Ladie Ands
 Ladies Ands
-Ladies ands
 Laffont
 Lafontaine
 Lafontaine jeunesse
@@ -571,10 +569,8 @@ Lafontaine éducation
 LamaO éditions
 Lancosme éd.
 Langlaude
-Lansman Editeur
 Lansman éditeur
-Lansman-Promotion théâtre ; Strépy-Bracquegnies
-      (Belgique)
+Lansman-Promotion théâtre
 Larousse jeunesse
 Larousse-VUEF
 LaserMédia
@@ -590,17 +586,14 @@ Leméac jeunesse
 Leopold
 Les Ardents Éditeurs
 Les Classiques ivoiriens
-Les Editions Les 400 coups
 Les Nouvelles éditions africaines du Sénégal
 Les Rapides
 Les Trois ourses
-Les trois Ourses
-Les Éd. ouvrières
-Les éditions Alberti
-Les éditions Ganndal
-Les éditions de la Bagnole
-Les éditions du Mandé
-Les éditions les Malins
+ouvrières
+Alberti
+Ganndal
+du Mandé
+les Malins
 Letras d'òc
 Lettr'ange
 Lexis numérique
@@ -608,30 +601,21 @@ Libertad
 Libertalia
 Librairie Gründ
 Librairie du Globe
-Librairie du globe
 Librairie papeterie nationale
 Limousin nature environnement
-Lior éd.
 Lior éditions
 Lirabelle
 Lire c'est partir
 Little Book
 Little Village
-Little village
-Little village - Harmonia mundi
 Littérature chinoise
 Livanis
 Livre de Paris
 Locus Solus
-Locus solus
 Loisirs de campagne
 Loisirs et pédagogie
 Lombard
 Loulou & Cie-l'École des loisirs
-Loulou & cie-l'École des loisirs
-Loulou et Cie
-Loulou et Cie-l'École des loisirs
-Loulou et compagnie
 Louvre Abu Dhabi
 Louvre éditions
 Lucca Éditions
@@ -645,16 +629,13 @@ M. Quintin
 MK2
 MYK Consulting
 Mad Fabrik
-Mad fabrik
 Made in Kana
-Made in-Kana
 Magnum photos
 Maison Anne Frank
 Maison Eliza
 Maison de poésie
 Maison Éliza
 Maisonneuve & Larose
-Maisonneuve et Larose
 Majdalawi masterpieces
 Majesco entertainment
 Maktabat 'Aala' al-din
@@ -678,7 +659,6 @@ MedouNeter
 Mic Mac éditions
 Michel Lagarde
 Micro application
-Mila éd.
 Mila éditions
 Milady
 Milan presse
@@ -716,14 +696,11 @@ NEAS
 NEI
 NEI - Nouvelles éditions Ivoiriennes
 NEI-CEDA
-NEI-CEDA éditions
-NEI/CEDA
 NK Editions
 Nahdat Misr
 Nahdet Misr
 Nathan bande dessinée
-National Library / Abu Dhabi Authority for Culture & Heritage "Cultural
-      Foundation"
+National Library / Abu Dhabi Authority for Culture & Heritage 'CulturalFoundation'
 Naturalia publications
 Naufal / Hachette Antoine
 Nawfal
@@ -742,31 +719,23 @@ Nord-Süd Verl.
 Norma éd.
 Nouvelle Arche de Noé
 Nouvelles Editions Ivoiriennes
-Nouvelles Editions Ivoriennes
-Nouvelles éd. Scala
-Nouvelles éd. ivoiriennes
 Nouvelles éditions Scala
 Nouvelles éditions africaines
 Nouvelles éditions africaines du Sénégal
-Nouvelles éditions ivoiriennes
 Nuits d'encre éditions
 Nūr al-Maʿārif
 O. Jacob
 ONG Act'eco
 Obriart
-Océan
 Océan Baba
 Océan éd.
-Océan éditions
 Odin
-Odin éd.
 Ofelbe
 Office national des forêts
 Oh ! éd.
 Okapi
 Omnibus
 One Stroke Co
-One Stroke Co Ltd
 One stroke
 Opal
 Ophrys jeunesse
@@ -783,10 +752,8 @@ PASTEQUE
 PEMF
 PLB FWI
 PLB éd.
-PLB éditions
 PLG
 Paari éditeur
-Palais [de la] découverte
 Palais de la découverte
 Panafrika
 Panini France
@@ -799,8 +766,6 @@ Paquet
 Parga Publication
 Parigramme
 Paris Musées
-Paris musées
-Paris-Musée
 Paris-Méditerranée
 Passage d'encres
 Passepartout
@@ -837,10 +802,6 @@ Promotion Théâtre
 Présence africaine
 Père Castor
 Père Castor Flammarion
-Père Castor-Flammarion
-Père Castor-Flammarion jeunesse
-Père castor-Flammarion
-Père-Castor-Flammarion
 Pôles d'images
 Pētergailis
 Qilinn
@@ -853,8 +814,6 @@ R. Laffont
 RMN
 RMN grand palais
 RMN jeunesse
-RMN-Grand Palais
-RMN-Grand palais
 Radio-France
 Raminagrobis
 Ramsay
@@ -880,11 +839,9 @@ Réunion des musées nationaux-Grand Palais
 Rêves bleus-Éd. d'Orbestier
 S. Bachès
 S. Kilgast
-SCEREN-CNDP de l'Académie de Créteil
 SCEREN-CRDP Académie de Créteil
 SCÉRÉN-CNDP
 SCÉRÉN-CRDP Guyane
-SOULIERES EDITEUR
 Salvator
 Samīr
 Sandawe.com
@@ -914,17 +871,16 @@ Somogy
 Sorbier
 Souffles
 Sous la lime
-Star Editions
 Star éditions
 Studio les Trois Becs
 Sub-Saharan Publishers
 Supereditions
 Surya éd.
 Sybous éd.
-Syrinx (Viroflay
+Syrinx
 Syros-Alternatives
 T. Magnier
-THQ [éd.
+THQ éd.
 Table ronde
 Taifu comics
 Tala
@@ -936,21 +892,16 @@ Tanmiyaẗ
 Tapabord
 Tapabord-Tertium éditions
 Tartamudo
-Tartamudo éd.
 Taschen
 Teham éditions
 Temps des cerises
 Terre Vivante
 Terre de brume
-Terre de brume éd.
-Tertium
 Tertium éd.
-Tertium éditions
 Textuel
 Thanks
 Thoba's éd.
 Tikouti
-Tikouti éd.
 Tintimol
 Tishina
 Tohubohu éditions
@@ -959,11 +910,9 @@ Tournon
 Tournon jeunesse
 Transboréal
 Treize étrange
-Tropique éd.
 Tropiques
 Très tôt théâtre
 Tsipika
-Tsipika éditions
 Tulipan verlag
 Turning point
 Tutti frutti
@@ -975,7 +924,6 @@ UNESCO
 URBAN COMICS
 Ubisoft
 Ubisoft entertainment
-Ubisoft entertainment [éd.
 Ultimomondo
 Un
 Unesco
@@ -985,7 +933,6 @@ Urban
 Urban China
 Urban comics
 Usborne
-Vallesse Éditions
 Vallesse éditions
 Vents d'ailleurs-Ici & ailleurs
 Verlag Jungbrunnen
@@ -1005,20 +952,15 @@ Vizavi éd.
 Voce verso
 Voyelles éditions
 Vraoum
-Vraoum !
 Véga
 Wa'wa éditions
 Wagram Livres
 Warum
 X. Barral
 Yanbow Al Kitab
-Yanbow al-Kitab
-Yanbow al-kitab
 Yanbuʿ al-kitāb
 Ynnis
-Ynnis éditions
 Yomad
-Yomad éditions
 Youpe youpe
 Ypsilon
 Yuki Press
@@ -1051,7 +993,6 @@ bd boom
 bhv Software
 black box éditions
 bld editions
-caraïbeditions
 caraïbéditions
 cddp de la guyane
 ceda
@@ -1062,7 +1003,6 @@ corraini
 corraini editore
 corraini editore mantova
 cérès
-cérès editions
 cérés éditions
 d'Orbestier
 dar al-hallage
@@ -1074,7 +1014,6 @@ dergham jeunesse
 des Bulles dans l'océan
 des Femmes
 des Ronds dans l'O jeunesse
-des Ronds dans l'o jeunesse
 diff. Gallimard
 e-toiles
 ecofac
@@ -1084,12 +1023,12 @@ ed. yomad
 edicef nouvelles editions africaines du sénégal
 edilis
 editha
-editions ago
-editions du béryl
-editions la croisée des chemins
-editions lalla moulati
-editions le pommier
-editions louis audibert
+ago
+du béryl
+la croisée des chemins
+lalla moulati
+le pommier
+louis audibert
 elias modern publishing house
 esslinger
 f. nathan
@@ -1097,7 +1036,6 @@ gallimard - bande dessinée
 gallimard jeunesse giboulées
 gallimard jeunesse musique
 hachette deschamps
-hachette-deschamps
 haho
 heinemann educational publishers
 icinori
