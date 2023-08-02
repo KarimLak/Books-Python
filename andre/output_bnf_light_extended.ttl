@@ -1,0 +1,88 @@
+@prefix ns1: <http://schema.org/> .
+@prefix pbs: <http://www.example.org/pbs/#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+ns1:Book47055005 a ns1:Book ;
+    ns1:ageRange "3",
+        "4",
+        "5" ;
+    ns1:author "JonArno Lawson" ;
+    ns1:avisCritique "" ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb47055005d" ;
+    ns1:datePublished "2022" ;
+    ns1:description "" ;
+    ns1:format "1 vol. (non paginé [41] p.) : tout en illustrations en couleur ; 29 cm" ;
+    ns1:genre "Albums" ;
+    ns1:isbn "9782924645789" ;
+    ns1:language "français" ;
+    ns1:name "Le jour des châteaux de sable" ;
+    ns1:noticeCritique "À peine sortis du car qui les a conduits à la plage, trois frères et sœur entreprennent de construire un château de sable. Mais c'est sans compter sur la marée montante, le vent et autres déconvenues... Un album sans texte qui dépeint avec fraîcheur et vitalité la belle complicité qui unit la fratrie face à l'adversité. Le lecteur est ému par la persévérance des enfants, jusqu'au benjamin qui ne ménage pas ses efforts et finit par s'endormir sur le chemin du retour. - Le 20221101 , par (publié dans La Revue des livres pour enfants. Sélection annuelle)" ;
+    ns1:publicDestinataire "" ;
+    ns1:publicDestinatairePrio "",
+        "À partir de 3 ans" ;
+    ns1:publisher "d'eux )" ;
+    ns1:resume "" .
+	
+	
+	ns1:Book39922017 a ns1:Book ;
+    ns1:ageRange "3",
+        "4",
+        "5" ;
+    ns1:author "Liesel Moak Skorpen" ;
+    ns1:avisCritique "" ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb39922017s" ;
+    ns1:datePublished "2005" ;
+    ns1:description "Collection : Albums Circonflexe | Code à barres commercial : EAN 9782878333589 | " ;
+    ns1:format "Non paginé [28] p. : ill. en coul., couv. ill. en coul. ; 26 cm" ;
+    ns1:genre "Albums" ;
+    ns1:isbn "2878333586" ;
+    ns1:language "français" ;
+    ns1:name "Un ours à ma fenêtre !" ;
+    ns1:noticeCritique "On s'étonne que ce petit bijou publié aux États-Unis en 1968 n'ait jamais été traduit jusqu'à ce jour. Un enfant se retrouve face à un intrus qui est entré dans sa chambre : une fois dans la place, il se révèle être un bébé ours perdu et attendrissant. Peut-on le garder ? Un beau récit, simple, tendre, dans une atmosphère qui invite aux rêves. - Le 20131001 , par (publié dans Escales en littérature de jeunesse)" ;
+    ns1:publicDestinataire "" ;
+    ns1:publicDestinatairePrio "",
+        "De 0 à 3 ans" ;
+    ns1:publisher ns1:Circonflexe ;
+    ns1:resume "Alors qu'il se couche, un petit garçon aperçoit par sa fenêtre un ourson qui le regarde. Comme il a l'air triste, le garçon l'invite à entrer. Mais il sait que ses parents n'accepteront pas de le garder à la maison, alors il décide d'arranger un peu son nouveau compagnon. [source Electre]Résumé :Alors qu'il se couche, un petit garçon aperçoit par sa fenêtre un ourson qui le regarde. Comme il a l'air triste, le garçon l'invite à entrer. Mais il sait que ses parents n'accepteront pas de le garder à la maison. [source Electre]" .
+	
+	
+ns1:Book45394093 a ns1:Book ;
+    ns1:ageRange "6",
+        "7",
+        "8" ;
+    ns1:author "Michaël Escoffier" ;
+    ns1:avisCritique "Intéressant" ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb45394093b" ;
+    ns1:datePublished "2017" ;
+    ns1:description "Code à barres commercial : EAN 9782877679527" ;
+    ns1:format "1 vol. (non paginé [25] p.) : ill. en coul. ; 29 cm" ;
+    ns1:genre "Albums" ;
+    ns1:isbn "9782877679527" ;
+    ns1:language "français" ;
+    ns1:name "La déclaration" ;
+    ns1:noticeCritique "Le texte de la première page sonne comme un manifeste : « Les animaux en ont assez. Des siècles qu'ils sont chassés, enfermés, maltraités... Ils vont montrer aux humains qu'ils ne sont pas les rois du monde ». Alors l'action s'organise : infiltration, mimétisme, sabotage... L'illustration prend au pied de la lettre, avec drôlerie, mais dans un inquiétant clair-obscur, toutes les propositions. La négociation s'impose et une « Déclaration universelle des droits de l'animal » est proclamée. La prise de conscience contemporaine rejoint ici, très sérieusement, la fable, donnant à cet album à l'humour ravageur une résonnance philosophique. - Le 20181201 , par Claudine Hervouet (publié dans La Revue des livres pour enfants)" ;
+    ns1:publicDestinataire "de 2 à 7 ans" ;
+    ns1:publicDestinatairePrio "À partir de 6 ans" ;
+    ns1:publisher ns1:Kaléidoscope ;
+    ns1:resume "Les animaux en ont assez. Des siècles qu'ils sont chassés, enfermés, maltraités… Cette fois, plus question de se laisser faire. Ils vont montrer aux humains qu'ils ne sont pas les rois du monde. [source éditeur]" .
+
+ns1:Book46674263 a ns1:Book ;
+    ns1:ageRange "3",
+        "4",
+        "5" ;
+    ns1:author "Aurélia Gaud" ;
+    ns1:avisCritique "" ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb466742636" ;
+    ns1:datePublished "2021" ;
+    ns1:description "Code à barres commercial : EAN 9782377315000" ;
+    ns1:format "1 vol. (non paginé [33] p.) : ill. en coul. ; 31 cm" ;
+    ns1:genre "Albums" ;
+    ns1:isbn "9782377315000" ;
+    ns1:language "français" ;
+    ns1:name "Ma famille méli mêlée" ;
+    ns1:noticeCritique "Deux familles de couleurs de peaux différentes ont des enfants, qui ont des enfants « Et me voilà ! » Ainsi débute cette histoire, à chaque naissance, c'est toujours une surprise, un bébé arrive avec quelque chose de chaque parent et des générations précédentes. Un album aux illustrations de couleurs vives avec des personnages « géométriques » habillés de textiles aux motifs joyeux - le dessin des personnages fait penser aux quilles en bois -, efficace pour aborder le thème de la famille et de la transmission, pour les plus jeunes. - Le 20211101 , par (publié dans La Revue des livres pour enfants. Sélection annuelle)" ;
+    ns1:publicDestinataire "à partir de 3 ans" ;
+    ns1:publicDestinatairePrio "À partir de 3 ans" ;
+    ns1:publisher ns1:Sarbacane ;
+    ns1:resume "Pour aborder de façon ludique la question des origines, dès la maternelle. Tout a commencé avec Papi et Mamie, un homme et une femme à la peau noire qui, un jour, se sont rencontrés, aimés, méli-mêlés… Ils ont fait un, deux et trois beaux enfants ! En même temps, Papou et Mamita, un homme à la peau blanche et une femme à la peau café au lait, eux aussi, se sont rencontrés, aimés, et méli-mêlés… Et à leur tour ont fait un, et deux beaux enfants ! Et ce n'est pas tout… L'enfant qui raconte l'histoire de sa famille attend la naissance d'une petite soeur. Mais comment sera-t-elle ? Tout est possible quand on se méli-mêle ! Une narration visuelle forte, grâce à un jeu habile et élégant de motifs textiles, qui se mêlent magnifiquement ! [source éditeur]" .
