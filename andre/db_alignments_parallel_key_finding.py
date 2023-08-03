@@ -6,14 +6,40 @@ import utils
 import copy
 from difflib import SequenceMatcher
 from joblib import Parallel, delayed
-from multiprocessing import Queue
-from ThreadSafeList import ThreadSafeList
+import logging
+
+formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
+
+def setup_logger(name, log_file, level=logging.INFO):
+    """To setup as many loggers as you want"""
+
+    handler = logging.FileHandler(log_file)
+    handler.setFormatter(formatter)
+
+    logger = logging.getLogger(name)
+    logger.setLevel(level)
+    logger.addHandler(handler)
+
+    return logger
+
+
+time_logger = setup_logger('execution_time_logger', 'parallel_execution_time_logfile.log')
+stats_logger = setup_logger('stats_logger', 'parallel_stats_logfile.log')
 
 # define the namespace
 pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
 ns1 = rdflib.namespace.Namespace("http://schema.org/")
 
-n_jobs = 6
+n_jobs = 8
+
+
+def is_key_close_enough_to_another_key(book_key, keys_to_check):
+    for book in keys_to_check:
+        s = SequenceMatcher(None, book_key, book)
+        ratio = s.ratio()
+        if ratio >= 0.9:
+            return (book, ratio)
+    return None
 
 class BookAlignment:
     def __init__(self, isbn_constellation=None, isbn_bnf=None, age_range_constellation=None,
@@ -53,20 +79,14 @@ class InterDBStats:
     def increment_constellation_book_number(self):
         self.constellation_book_number += 1
 
-    def is_key_close_enough_to_another_key(self, book_key, keys_to_check):
-        for book in keys_to_check:
-            s = SequenceMatcher(None, book_key, book)
-            ratio = s.ratio()
-            if ratio >= 0.9:
-                return (book, ratio)
-        return None
+
     def align_by_approximate_key(self, book_alignment, book_key):
         keys_to_check = list(self.all_book_alignments.keys())
         start_key_finding = time.time()
-        similar_keys_list = parallel(delayed(self.is_key_close_enough_to_another_key)(book_key, keys_to_check[i:i + n_jobs]) for i in range(0, len(keys_to_check), n_jobs))
+        similar_keys_list = parallel(delayed(is_key_close_enough_to_another_key)(book_key, keys_to_check[i:i + n_jobs]) for i in range(0, len(keys_to_check), n_jobs))
         similar_keys_list = list(filter(None, similar_keys_list))
         end_key_finding = time.time()
-        print("time elapsed key finding", end_key_finding - start_key_finding)
+        time_logger.info(f"time elapsed key finding {end_key_finding - start_key_finding}")
         if len(similar_keys_list) > 0:
             # print("ratio = ", similar_keys_list[0][1])
             similar_key = similar_keys_list[0][0]
@@ -114,12 +134,12 @@ class InterDBStats:
                 if target_isbn == self.all_book_alignments[book].isbn_constellation:
                     return True
         else:
-            print(f"wrong source in is_isbn_in_alignments, {source} doesn't exist")
+            stats_logger.error(f"wrong source in is_isbn_in_alignments, {source} doesn't exist")
         return False
 
     def compute_alignment_confusion_matrix(self):
 
-        print("-----")
+        stats_logger.info("-----")
         isbn_equality = 0 # TP
         isbn_inequality = 0 # FP
         missing_isbn_bnf_in_negatives = 0
@@ -172,33 +192,33 @@ class InterDBStats:
                     missing_isbn_constellation_in_negatives +=1
             else: #no url at all
                 lines_without_url += 1
-                print("empty line", book)
+                stats_logger("empty line", book)
 
-        print("total alignment P", total_alignment)
-        print("total non-alignment N", total_non_alignment)
-        print("lines without url", lines_without_url)
-        print("alignment & isbn matches TP", isbn_equality)
-        print("alignment & NOT isbn matches FP", isbn_inequality)
-        print("NON alignment & NON isbn present TN", non_alignment_isbn_absent)
-        print("NON alignment & isbn present FN", non_alignment_isbn_present)
-        print("missing isbn bnf for positives", missing_isbn_bnf_in_positives)
-        print("missing isbn constellation for positives", missing_isbn_constellation_in_positives)
-        print("missing isbn bnf for negatives", missing_isbn_bnf_in_negatives)
-        print("missing isbn constellation for negatives", missing_isbn_constellation_in_negatives)
-        print("proportion of correct isbn matches over total number of alignment",
-              isbn_equality / (self.alignments_number + utils.EPSILON))
-        print("proportion of incorrect isbn matches over total number of alignment",
-              isbn_inequality / (self.alignments_number + utils.EPSILON))
+        stats_logger.info(f"total alignment P {total_alignment}")
+        stats_logger.info(f"total non-alignment N {total_non_alignment}")
+        stats_logger.info(f"lines without url {lines_without_url}")
+        stats_logger.info(f"alignment & isbn matches TP {isbn_equality}")
+        stats_logger.info(f"alignment & NOT isbn matches FP {isbn_inequality}")
+        stats_logger.info(f"NON alignment & NON isbn present TN {non_alignment_isbn_absent}")
+        stats_logger.info(f"NON alignment & isbn present FN {non_alignment_isbn_present}")
+        stats_logger.info(f"missing isbn bnf for positives {missing_isbn_bnf_in_positives}")
+        stats_logger.info(f"missing isbn constellation for positives {missing_isbn_constellation_in_positives}")
+        stats_logger.info(f"missing isbn bnf for negatives {missing_isbn_bnf_in_negatives}")
+        stats_logger.info(f"missing isbn constellation for negatives {missing_isbn_constellation_in_negatives}")
+        stats_logger.info(f"proportion of correct isbn matches over total number of alignment "
+                          f"{isbn_equality / (self.alignments_number + utils.EPSILON)}")
+        stats_logger.info(f"proportion of incorrect isbn matches over total number of alignment "
+                          f"{isbn_inequality / (self.alignments_number + utils.EPSILON)}")
 
     def print_stats(self):
         self.total_book_number = self.constellation_book_number + self.bnf_book_number
-        print("------------------------------------")
-        print("key type", self.key_type)
-        print("number of alignments", self.alignments_number)
-        print("total number of books", self.total_book_number)
-        print("total number of books bnf", self.bnf_book_number)
-        print("total number of books constellation", self.constellation_book_number)
-        print("total number of collisions", self.collision_number)
+        stats_logger.info("------------------------------------")
+        stats_logger.info(f"key type {self.key_type}")
+        stats_logger.info(f"number of alignments {self.alignments_number}")
+        stats_logger.info(f"total number of books {self.total_book_number}")
+        stats_logger.info(f"total number of books bnf {self.bnf_book_number}")
+        stats_logger.info(f"total number of books constellation {self.constellation_book_number}")
+        stats_logger.info(f"total number of collisions {self.collision_number}")
         self.compute_alignment_confusion_matrix()
 
         aligned_books = {}
@@ -216,7 +236,7 @@ class InterDBStats:
         # print(f"average similarity between ages of same {self.key_type}", average_similarity / len(aligned_books))
 
     def output_csv(self):
-        with open(f"alignment_{self.key_type}.csv", "w", encoding='utf-8', newline="") as csvfile:
+        with open(f"parallel_alignment_{self.key_type}.csv", "w", encoding='utf-8', newline="") as csvfile:
             writer = csv.writer(csvfile, delimiter='{')
             writer.writerow(["key",
                              "isbn_constellation",
@@ -236,10 +256,10 @@ class InterDBStats:
                                  book_alignment_output.url_bnf])
 
 
-stats_name_author = InterDBStats("name_author")
+# stats_name_author = InterDBStats("name_author")
 stats_name_author_publisher = InterDBStats("name_author_publisher")
-stats_isbn = InterDBStats("isbn")
-stats_name_author_publisher_date = InterDBStats("name_author_publisher_date")
+# stats_isbn = InterDBStats("isbn")
+# stats_name_author_publisher_date = InterDBStats("name_author_publisher_date")
 
 # constellations
 # ----------------------------------------------------
@@ -247,8 +267,8 @@ stats_name_author_publisher_date = InterDBStats("name_author_publisher_date")
 
 # load the graph of constellation
 g = Graph()
-g.parse("../output_constellations_updated.ttl", format="turtle")
-# g.parse("output_constellations_light_extended.ttl", format="turtle")
+# g.parse("../output_constellations_updated.ttl", format="turtle")
+g.parse("output_constellations_light_extended.ttl", format="turtle")
 
 # constellation loop
 
@@ -260,21 +280,21 @@ for book in g.subjects(RDF.type, ns1.Book):
                                                  isbn_constellation=isbn,
                                                  age_range_constellation=age_range_int)
 
-    name_author_key = utils.create_key(book_name, book_author)
-    isbn_key = isbn
+    # name_author_key = utils.create_key(book_name, book_author)
+    # isbn_key = isbn
     name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
-    name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
+    # name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
 
-    stats_name_author.all_book_alignments[name_author_key] = copy.deepcopy(book_alignment_constellation)
+    # stats_name_author.all_book_alignments[name_author_key] = copy.deepcopy(book_alignment_constellation)
     # stats_isbn.all_book_alignments[isbn_key] = copy.deepcopy(book_alignment_constellation)
-    # stats_name_author_publisher.all_book_alignments[name_author_publisher_key] = \
-    #     copy.deepcopy(book_alignment_constellation)
+    stats_name_author_publisher.all_book_alignments[name_author_publisher_key] = \
+        copy.deepcopy(book_alignment_constellation)
     # stats_name_author_publisher_date.all_book_alignments[name_author_publisher_date_key] = \
     #     copy.deepcopy(book_alignment_constellation)
 
-    stats_name_author.increment_constellation_book_number()
+    # stats_name_author.increment_constellation_book_number()
     # stats_isbn.increment_constellation_book_number()
-    # stats_name_author_publisher.increment_constellation_book_number()
+    stats_name_author_publisher.increment_constellation_book_number()
     # stats_name_author_publisher_date.increment_constellation_book_number()
 
 # BNF
@@ -282,51 +302,52 @@ for book in g.subjects(RDF.type, ns1.Book):
 
 # reset graph
 g = Graph()
-g.parse("../local_output_bnf_no_duplicates.ttl", format="turtle")
-# g.parse("output_bnf_light_extended.ttl", format="turtle")
+# g.parse("../local_output_bnf_no_duplicates.ttl", format="turtle")
+g.parse("output_bnf_light_extended.ttl", format="turtle")
 
 # BNF loop
 import time
 
-with Parallel(n_jobs=n_jobs, require='sharedmem') as parallel:
+with Parallel(n_jobs=n_jobs) as parallel:
     for book in g.subjects(RDF.type, ns1.Book):  # O(M)
         book_name, book_author, age_range_int, url, publication_date, publisher, isbn = utils.extract_data_bnf(g, book)
         book_alignment_bnf = BookAlignment(url_bnf=url,
                                            isbn_bnf=isbn,
                                            age_range_bnf=age_range_int)
 
-        name_author_key = utils.create_key(book_name, book_author)
-        isbn_key = isbn
+        # name_author_key = utils.create_key(book_name, book_author)
+        # isbn_key = isbn
         name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
-        name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
+        # name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
 
         # stats_name_author.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_key)
         # stats_isbn.align_by_key(copy.deepcopy(book_alignment_bnf), isbn_key)
         # stats_name_author_publisher.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
         # stats_name_author_publisher_date.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
 
-        print("book no", stats_name_author.bnf_book_number)
-        start = time.time()
-        stats_name_author.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_key)
-        end = time.time()
-        print("time elapsed 1 book", end - start)
-        print("##################")
+        # stats_name_author.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_key)
         # stats_isbn.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), isbn_key)
-        # stats_name_author_publisher.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
+        start = time.time()
+        stats_name_author_publisher.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
+        end = time.time()
+        time_logger.info(f"book no {stats_name_author_publisher.bnf_book_number}")
+        time_logger.info(f"time elapsed 1 book {end - start}")
+        time_logger.info("##################")
+        time_logger.info("")
         # stats_name_author_publisher_date.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
 
-        stats_name_author.increment_bnf_book_number()
+        # stats_name_author.increment_bnf_book_number()
         # stats_isbn.increment_bnf_book_number()
-        # stats_name_author_publisher.increment_bnf_book_number()
+        stats_name_author_publisher.increment_bnf_book_number()
         # stats_name_author_publisher_date.increment_bnf_book_number()
 
 
-stats_name_author.output_csv()
+# stats_name_author.output_csv()
 # stats_isbn.output_csv()
 stats_name_author_publisher.output_csv()
-stats_name_author_publisher_date.output_csv()
+# stats_name_author_publisher_date.output_csv()
 
 # stats_isbn.print_stats()
-stats_name_author.print_stats()
+# stats_name_author.print_stats()
 stats_name_author_publisher.print_stats()
-stats_name_author_publisher_date.print_stats()
+# stats_name_author_publisher_date.print_stats()
