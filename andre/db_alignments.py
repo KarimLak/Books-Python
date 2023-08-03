@@ -1,5 +1,3 @@
-import string
-
 from rdflib import Graph
 from rdflib.namespace import RDF
 import rdflib.namespace
@@ -56,8 +54,8 @@ class InterDBStats:
         self.bnf_book_number: int = 0
         self.alignments_number: int = 0
         self.collision_number: int = 0
-        self.key_type: string = key_type
-        self.all_book_alignments: dict[string, BookAlignment] = {}
+        self.key_type = key_type
+        self.all_book_alignments = {}
 
     def increment_alignment_number(self):
         self.alignments_number += 1
