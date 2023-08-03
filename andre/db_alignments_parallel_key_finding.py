@@ -89,7 +89,7 @@ class InterDBStats:
         batch_size = int(len(keys_to_check)/ n_jobs) + 1
         similar_keys_list = parallel(delayed(is_key_close_enough_to_another_key)(book_key, keys_to_check[i:i + batch_size]) for i in range(0, len(keys_to_check), batch_size))
         end_key_finding = time.time()
-        if stats_name_author.bnf_book_number % 10 == 0:
+        if stats_name_author_publisher.bnf_book_number % 10 == 0:
             time_logger.info(f"time elapsed key finding {end_key_finding - start_key_finding}")
         max_ratio = 0
         best_key = ""
@@ -265,8 +265,8 @@ class InterDBStats:
                                  book_alignment_output.url_bnf])
 
 
-stats_name_author = InterDBStats("name_author")
-# stats_name_author_publisher = InterDBStats("name_author_publisher")
+# stats_name_author = InterDBStats("name_author")
+stats_name_author_publisher = InterDBStats("name_author_publisher")
 # stats_isbn = InterDBStats("isbn")
 # stats_name_author_publisher_date = InterDBStats("name_author_publisher_date")
 
@@ -289,21 +289,21 @@ for book in g.subjects(RDF.type, ns1.Book):
                                                  isbn_constellation=isbn,
                                                  age_range_constellation=age_range_int)
 
-    name_author_key = utils.create_key(book_name, book_author)
+    # name_author_key = utils.create_key(book_name, book_author)
     # isbn_key = isbn
-    # name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
+    name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
     # name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
 
-    stats_name_author.all_book_alignments[name_author_key] = copy.deepcopy(book_alignment_constellation)
+    # stats_name_author.all_book_alignments[name_author_key] = copy.deepcopy(book_alignment_constellation)
     # stats_isbn.all_book_alignments[isbn_key] = copy.deepcopy(book_alignment_constellation)
-    # stats_name_author_publisher.all_book_alignments[name_author_publisher_key] = \
-    #     copy.deepcopy(book_alignment_constellation)
+    stats_name_author_publisher.all_book_alignments[name_author_publisher_key] = \
+        copy.deepcopy(book_alignment_constellation)
     # stats_name_author_publisher_date.all_book_alignments[name_author_publisher_date_key] = \
     #     copy.deepcopy(book_alignment_constellation)
 
-    stats_name_author.increment_constellation_book_number()
+    # stats_name_author.increment_constellation_book_number()
     # stats_isbn.increment_constellation_book_number()
-    # stats_name_author_publisher.increment_constellation_book_number()
+    stats_name_author_publisher.increment_constellation_book_number()
     # stats_name_author_publisher_date.increment_constellation_book_number()
 
 # BNF
@@ -324,9 +324,9 @@ with Parallel(n_jobs=n_jobs) as parallel:
                                            isbn_bnf=isbn,
                                            age_range_bnf=age_range_int)
 
-        name_author_key = utils.create_key(book_name, book_author)
+        # name_author_key = utils.create_key(book_name, book_author)
         # isbn_key = isbn
-        # name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
+        name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
         # name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
 
         # stats_name_author.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_key)
@@ -335,30 +335,31 @@ with Parallel(n_jobs=n_jobs) as parallel:
         # stats_name_author_publisher_date.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
 
         # stats_isbn.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), isbn_key)
+        # stats_name_author.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_key)
+
         start = time.time()
-        stats_name_author.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_key)
+        stats_name_author_publisher.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
         end = time.time()
-        if stats_name_author.bnf_book_number % 10 == 0:
-            time_logger.info(f"book no {stats_name_author.bnf_book_number}")
+        if stats_name_author_publisher.bnf_book_number % 10 == 0:
+            time_logger.info(f"book no {stats_name_author_publisher.bnf_book_number}")
             time_logger.info(f"time elapsed 1 book {end - start}")
             time_logger.info("##################")
             time_logger.info("")
-        # stats_name_author_publisher.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
 
         # stats_name_author_publisher_date.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
 
-        stats_name_author.increment_bnf_book_number()
+        # stats_name_author.increment_bnf_book_number()
         # stats_isbn.increment_bnf_book_number()
-        # stats_name_author_publisher.increment_bnf_book_number()
+        stats_name_author_publisher.increment_bnf_book_number()
         # stats_name_author_publisher_date.increment_bnf_book_number()
 
 
-stats_name_author.output_csv()
+# stats_name_author.output_csv()
 # stats_isbn.output_csv()
-# stats_name_author_publisher.output_csv()
+stats_name_author_publisher.output_csv()
 # stats_name_author_publisher_date.output_csv()
 
 # stats_isbn.print_stats()
-stats_name_author.print_stats()
-# stats_name_author_publisher.print_stats()
+# stats_name_author.print_stats()
+stats_name_author_publisher.print_stats()
 # stats_name_author_publisher_date.print_stats()
