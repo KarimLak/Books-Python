@@ -4,12 +4,12 @@
 
 ns1:Book6d8788e1-7229-4976-85b6-6345a13449d1 a ns1:Book ;
     ns1:author "JonArno Lawson" ;
-    pbs:dateEdition "2022-11-30" ;
     ns1:datePublished "2022"^^xsd:gYear ;
     ns1:illustrator "Qin Leng" ;
     ns1:isCoupDeCoeur false ;
     ns1:isbn 9782924645789 ;
-    ns1:name "jour des châteaux de sable" ;
+    ns1:name "Le jour des châteaux de sable" ;
+    ns1:numberOfPages "52" ;
     ns1:publisher ns1:DEux ;
     ns1:review "Une famille se rend à la plage pour y passer la journée. Les trois enfants de la famille se donnent pour projet de construire un château de sable, mais la marée montante le détruit. Les enfants décident de construire un nouveau château, qui est détruit à son tour, cette fois par le chapeau d’une dame emporté par le vent. Les trois enfants recommencent à plusieurs reprises la construction de leur château, chaque fois détruit. À la fin de la journée, leur château s’érige près de leurs parents, en bordure de la plage. Et, contre toute attente, lorsque tous les vacanciers ont quitté la plage, le château s’y dresse encore fièrement. Cet album sans texte raconte la journée que trois enfants passent à construire un château de sable sur la plage. Les jeunes bâtisseurs font preuve de beaucoup de détermination pour assurer une certaine pérennité à leur construction, constamment anéantie par la mer ou autrement. La dernière image du livre montre cependant que leurs efforts ne sont pas restés vains, puisque leur château a finalement survécu à la marée. Le plaisir simple et gratuit du jeu traverse tout le récit de ce livre illustré de dessins rehaussés par l’aquarelle. L’esprit des vacances et les joies de la plage y sont bien représentés, tout comme la chaleur, la lumière et le vent d’un environnement côtier pendant la belle saison. Avec leur style vibrant, les images se succèdent de façon très narrative grâce à un découpage et à une mise en pages évoquant fortement la bande dessinée." ;
     pbs:ageRange "10",
@@ -22,6 +22,7 @@ ns1:Book6d8788e1-7229-4976-85b6-6345a13449d1 a ns1:Book ;
         "8",
         "9" ;
     pbs:constellationLink "https://constellations.education.gouv.qc.ca/index.php?p=il&lo=56727" ;
+    pbs:dateEdition "2022" ;
     pbs:keyword "Album",
         "albums sans texte",
         "détermination",
@@ -33,7 +34,6 @@ ns1:Book6d8788e1-7229-4976-85b6-6345a13449d1 a ns1:Book ;
 		
 ns1:Book584dd5f7-4564-4d8e-a707-63c66322cb97 a ns1:Book ;
     ns1:author "Liesel Moak Skorpen" ;
-    pbs:dateEdition "2009-06-30" ;
     ns1:datePublished "1968"^^xsd:gYear ;
     ns1:illustrator "Mercer Mayer" ;
     ns1:isbn 2878333586 ;
@@ -45,6 +45,7 @@ ns1:Book584dd5f7-4564-4d8e-a707-63c66322cb97 a ns1:Book ;
         "6",
         "7" ;
     pbs:constellationLink "https://constellations.education.gouv.qc.ca/index.php?p=il&lo=30997" ;
+    pbs:dateEdition "2005" ;
     pbs:isCoupDeCoeur false ;
     pbs:keyword "Album",
         "déguisements",
@@ -58,15 +59,14 @@ ns1:Book584dd5f7-4564-4d8e-a707-63c66322cb97 a ns1:Book ;
         "résolution de problèmes",
         "solitude" .
 
-
 ns1:Book58803077-7141-4e29-8a7e-9006f186aa58 a ns1:Book ;
     ns1:author "Michaël Escoffier" ;
-    pbs:dateEdition "2018-05-31" ;
     ns1:datePublished "2017"^^xsd:gYear ;
     ns1:illustrator "Stéphane Sénégas" ;
     ns1:isCoupDeCoeur false ;
     ns1:isbn 9782877679527 ;
-    ns1:name "déclaration" ;
+    ns1:name "La déclaration" ;
+    ns1:numberOfPages "25" ;
     ns1:publisher ns1:Kaléidoscope ;
     ns1:review "Les animaux en ont assez du traitement que les humains leur réservent depuis toujours. Bien déterminés à changer les choses, ils étudient le comportement des humains, apprennent à lire, trouvent des emplois et s'immiscent dans différents domaines de la société. Lorsque les animaux passent enfin à l'offensive, les humains se découvrent rapidement en danger. Ces derniers acceptent alors de négocier avec les animaux et de rédiger la Déclaration universelle des droits de l'animal. Grâce à cette entente, les animaux ne peuvent plus être maintenus en captivé ou considérés comme des objets. Cet album humoristique offre une façon ludique et instructive de découvrir la Déclaration universelle des droits de l'animal, proclamée à Paris le 15 octobre 1978. Installant un suspense efficace, le récit présente les animaux comme les instigateurs de cette Déclaration. Amusante et évocatrice, la finale inverse les rôles en montrant des ours libérant des humains d'une cage afin de respecter la Déclaration, car les humains sont également des animaux! Composé de phrases courtes conjuguées au présent, le texte s'accompagne d'illustrations complémentaires qui présentent ce que le texte ne fait que suggérer. Les dix articles de la Déclaration universelle des droits de l'animal sont intégrés à l’album." ;
     pbs:ageRange "10",
@@ -74,6 +74,7 @@ ns1:Book58803077-7141-4e29-8a7e-9006f186aa58 a ns1:Book ;
         "8",
         "9" ;
     pbs:constellationLink "https://constellations.education.gouv.qc.ca/index.php?p=il&lo=50916" ;
+    pbs:dateEdition "2017" ;
     pbs:keyword "Album",
         "animaux",
         "caricatures",
@@ -89,17 +90,18 @@ ns1:Book58803077-7141-4e29-8a7e-9006f186aa58 a ns1:Book ;
 
 ns1:Book58823ac7-9918-4f87-9768-8c4c2a61c5a0 a ns1:Book ;
     ns1:author "Aurélia Gaud" ;
-    pbs:dateEdition "2022-07-18" ;
     ns1:datePublished "2021"^^xsd:gYear ;
     ns1:illustrator "Aurélia Gaud" ;
     ns1:isbn 9782377315000 ;
     ns1:name "Ma famille méli-mêlée" ;
+    ns1:numberOfPages "33" ;
     ns1:publisher ns1:Sarbacane ;
     ns1:review "Un garçon présente ses quatre grands-parents qui, après s’être rencontrés, aimés et « méli-mêlés », ont donné naissance à plusieurs enfants, dont ses deux parents. À leur tour, les parents du garçon se sont « mêli-mélés » pour lui donner naissance, ainsi qu’à sa petite sœur. Dans cet album, un garçon retrace son histoire généalogique par l’entremise de quelques courtes phrases. Les illustrations consistent en des images de synthèse représentant les personnages à la façon de figurines en bois aux lignes stylisées : arrondies pour les femmes et droites pour les hommes. Disposés sur des fonds blancs, ces personnages de différentes origines sont habillés de vêtements aux motifs diversifiés, sur le plan tant des couleurs que des formes. Lorsque deux personnages se pressent l’un sur l’autre pour se « méli-mêler », leurs motifs s’amalgament et forment une combinaison qui se retrouve chez leur enfant. Ainsi, chez les frères et sœurs, mais aussi chez les personnes de toutes les générations, ces motifs se présentent toujours différemment. Bien sûr, il s’agit là d’une façon imagée d’aborder la transmission des traits héréditaires. Sur la dernière double page du livre, l’arbre généalogique du garçon est dévoilé, ce qui permet de retracer les motifs et leurs transformations, d’une génération à l’autre ou au sein d’une même génération." ;
     pbs:ageRange "6",
         "7",
         "8" ;
     pbs:constellationLink "https://constellations.education.gouv.qc.ca/index.php?p=il&lo=56226" ;
+    pbs:dateEdition "2021" ;
     pbs:isCoupDeCoeur false ;
     pbs:keyword "Album",
         "anatomie",

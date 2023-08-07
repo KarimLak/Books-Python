@@ -1,0 +1,106 @@
+@prefix ns1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:Book43482530 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb434825301" ;
+    ns1:isbn "ISBN 9782848654362" ;
+    ns1:author "Lucie Land" ;
+    ns1:publisher "Ed. Sarbacane" ;
+    ns1:datePublished "2010"^^xsd:gYear ;
+    ns1:title "Gadji !" ;
+    ns1:description "Collection : Exprim' | Code à barres commercial : EAN 9782848654362 | " ;
+    ns1:language "français" ;
+    ns1:format "1 vol. (264 p.) ; 22 x 14 cm" ;
+    ns1:publicDestinataire "Adolescents - À partir de 13 ans" ;
+    ns1:resume "Lorsqu'elle est envoyée en pension chez les gadjés, Katarina se rebiffe. A 12 ans, cette petite Rom de Roumanie a vécu mille vies : elle a dansé, chanté, élevé ses frères et appris presque seule à lire. Le monde l'attire, elle voudrait tout voir, tout découvrir. Alors devenir une gadji, très peu pour elle. [source Electre]" ; ns1:genre "Romans" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Katarina se construit sur deux identités, deux curiosités, deux vitalités : sa culture rom et la culture française qu'elle intègre après la tragédie vécue par sa famille en Roumanie lors de la chute de Ceausescu. Ce récit touchant invite à une entrée formidable dans la culture tsigane et les problématiques liées à l'immigration. - Le 20131001 , par (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43472260 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43472260x" ;
+    ns1:isbn "ISBN 9782070619474" ;
+    ns1:author "Michael Morpurgo" ;
+    ns1:publisher "Gallimard-Jeunesse" ;
+    ns1:datePublished "2008"^^xsd:gYear ;
+    ns1:title "Cheval de guerre" ;
+    ns1:description "Collection : Folio junior ; 347 | Code à barres commercial : EAN 9782070619474 | " ;
+    ns1:language "français" ;
+    ns1:format "18 x 13 cm" ;
+    ns1:publicDestinataire "Bons lecteurs - À partir de 9 ans" ;
+    ns1:resume "En 1914, dans la ferme de son père, en Angleterre, Albert grandit en compagnie de son cheval bien-aimé, Joey. Pendant ce temps, les armées se préparent à partir en guerre. Dès lors, le destin de Joey est tracé : vendu aux soldats anglais, il partagera leur existence et leur lutte pour la survie. [source Electre]" ; ns1:genre "Romans" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Ce remarquable roman, paru en 1986, offre un point de vue renouvelé sur la sanglante épopée de la Première Guerre mondiale. L'amour de la vie, le sens de la solidarité, la tendresse du regard porté sur les victimes, hommes et bêtes, éclairent ce récit bouleversant. - Le 20131001 , par (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book43478780 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43478780c" ;
+    ns1:isbn "ISBN 9782070637065" ;
+    ns1:author "Jean-Baptiste de Panafieu" ;
+    ns1:publisher "Gallimard-Jeunesse" ;
+    ns1:datePublished "2011"^^xsd:gYear ;
+    ns1:title "Sur les traces de Charles Darwin" ;
+    ns1:description "Collection : Sur les traces de... | Code à barres commercial : EAN 9782070637065 | " ;
+    ns1:language "français" ;
+    ns1:format "1 vol. (128 p.) : ill. en coul. ; 18 x 14 cm" ;
+    ns1:publicDestinataire "Bons lecteurs - À partir de 10 ans" ;
+    ns1:resume "Un docteur en océanologie présente l'aventure de Darwin, jeune naturaliste embarqué à l'âge de 22 ans sur le Beagle pour un tour du monde qui durera cinq ans et lui permettra de poser les bases de la théorie de l'évolution. [source Electre]" ; ns1:genre "Documentaires : sciences et techniques" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "Sur les pas de Darwin, jeune naturaliste embarqué pour un tour du monde : une évocation de son travail comme naturaliste et géologue qui aboutit à la théorie de l'évolution, théorie révolutionnaire en contradiction avec les valeurs de l'Église dans l'Angleterre victorienne. Il s'insurgera aussi contre le racisme et l'esclavagisme. Une lecture riche et agréable. - Le 20131001 , par (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book39238963 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb39238963w" ;
+    ns1:isbn "ISBN 2070500209" ;
+    ns1:author "Meredith Hooper" ;
+    ns1:publisher "Gallimard jeunesse" ;
+    ns1:datePublished "2004"^^xsd:gYear ;
+    ns1:title "10 histoires de châteaux" ;
+    ns1:description "Code à barres commercial : EAN 9782070500208" ;
+    ns1:language "français" ;
+    ns1:format "47 p. : ill. en coul., couv. ill. en coul. ; 30 cm" ;
+    ns1:publicDestinataire "Adolescents - À partir de 13 ans" ;
+    ns1:resume "Dix histoires de châteaux célèbres, qui racontent chacune un moment clé de chacun de ces lieux de légende : la forteresse de Château Gaillard au XIIe siècle, le château de Neuschwanstein au XIXe, le siège du château de Saint Ange à Rome en 1527, etc. [source Electre]" ; ns1:genre "Documentaires : sciences humaines" ;
+    ns1:avisCritique "Pourquoi pas ?" ;
+    ns1:noticeCritique "10 châteaux célèbres, la plupart situés en Europe et datant du Moyen Âge, nous sont présentés de la manière suivante : une grande illustration très détaillée accompagnée d'un court récit qui nous fait vivre un moment de la vie du château et nous fait comprendre ses particularités de construction grâce à un système de renvois à l'illustration. Des illustrations agréables à regarder et fourmillant de détails, des textes vivants et accessibles. - Le 20050720 , par Hélène Dubertret (publié dans La Revue des livres pour enfants)" .
+
+ns1:Book46916580 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb46916580c" ;
+    ns1:isbn "ISBN 9782878335002" ;
+    ns1:author "Jim Aylesworth" ;
+    ns1:publisher "Circonflexe" ;
+    ns1:datePublished "2021"^^xsd:gYear ;
+    ns1:title "La moufle" ;
+    ns1:description "Collection : Albums Circonflexe" ;
+    ns1:language "français" ;
+    ns1:format "1 vol. (non paginé [30] p.) : ill. en coul. ; 29 cm" ;
+    ns1:publicDestinataire "Apprentissage - À partir de 3 ans" ;
+    ns1:resume "Une moufle perdue sert d'abri à des animaux de la forêt qui viennent s'y réfugier en cette période d'hiver. [source Electre]" ; ns1:genre "Contes, légendes et folklore" ;
+    ns1:avisCritique "" ;
+    ns1:noticeCritique "Un petit garçon perd sa moufle : son histoire et ses dialogues avec sa grand-mère sont aussi intéressants que les heurs et malheurs de la moufle. Fin particulièrement intéressante, dans la confrontation tranquille des deux mondes, réel et irréel. Texte simple, mais assez consistant. Le rythme de la mise en pages, très variée et joyeuse, nous entraîne dans cette histoire improbable, intrigue et fait rire. - Le 20131001 (publié dans Escales en littérature de jeunesse)" .
+
+ns1:Book47055005 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb47055005d" ;
+    ns1:isbn "ISBN 9782924645789" ;
+    ns1:author "JonArno Lawson" ;
+    ns1:publisher "D'eux )" ;
+    ns1:datePublished "2022"^^xsd:gYear ;
+    ns1:title "Le jour des châteaux de sable" ;
+    ns1:description "" ;
+    ns1:language "français" ;
+    ns1:format "1 vol. (non paginé [41] p.) : tout en illustrations en couleur ; 29 cm" ;
+    ns1:publicDestinataire "test" ;
+    ns1:resume "" ; ns1:genre "Albums" ; ns1:avisCritique "" ;
+    ns1:noticeCritique "À peine sortis du car qui les a conduits à la plage, trois frères et sœur entreprennent de construire un château de sable. Mais c'est sans compter sur la marée montante, le vent et autres déconvenues... Un album sans texte qui dépeint avec fraîcheur et vitalité la belle complicité qui unit la fratrie face à l'adversité. Le lecteur est ému par la persévérance des enfants, jusqu'au benjamin qui ne ménage pas ses efforts et finit par s'endormir sur le chemin du retour. - Le 20221101 , par (publié dans La Revue des livres pour enfants. Sélection annuelle)" .
+
+ns1:Book43475561 a ns1:Book ;
+    ns1:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb43475561t" ;
+    ns1:isbn "ISBN 9782878335064" ;
+    ns1:author "Paul Galdone" ;
+    ns1:publisher "Circonflexe" ;
+    ns1:datePublished "2009"^^xsd:gYear ;
+    ns1:title "Les trois ours" ;
+    ns1:description "Collection : Aux couleurs du temps | Code à barres commercial : EAN 9782878335064 | " ;
+    ns1:language "français" ;
+    ns1:format "38 p. : ill. en coul. ; 24 x 23 cm" ;
+    ns1:publicDestinataire "Apprentissage - À partir de 3 ans" ;
+    ns1:resume "Une relecture décalée du conte Boucle d'or et les trois ours où la petite fille joue le rôle de l'intruse à l'invraisemblable culot. [source Electre]" ; ns1:genre "Contes, légendes et folklore" ;
+    ns1:avisCritique "Coup de coeur !" ;
+    ns1:noticeCritique "On ne se lasse pas de ces ours, terriblement grizzly, une raie au milieu de la tête comme des étudiants d'Oxford, et de la chipie aux boucles d'or au sourire édenté... Paul Galdone, comme toujours, sait admirablement tirer parti des ambiguïtés de ces « petits » contes traditionnels. Illustrations pleines de force et de malice dans lesquelles Boucles d'Or est particulièrement perverse ! - Le 20131001 , par (publié dans Escales en littérature de jeunesse)" .
