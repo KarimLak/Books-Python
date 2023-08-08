@@ -259,7 +259,7 @@ stats_name_author_publisher_date = InterDBStats("name_author_publisher_date")
 # load the graph of constellation
 g = Graph()
 # g.parse("../output_constellations.ttl", format="turtle")
-g.parse("output_constellations_light_extended.ttl", format="turtle")
+g.parse("output_constellations.ttl", format="turtle")
 
 # constellation loop
 for book in g.subjects(RDF.type, ns1.Book):
@@ -293,7 +293,7 @@ for book in g.subjects(RDF.type, ns1.Book):
 # reset graph
 g = Graph()
 # g.parse("../output_bnf_no_duplicates.ttl", format="turtle")
-g.parse("output_bnf_light_extended.ttl", format="turtle")
+g.parse("output_bnf.ttl", format="turtle")
 
 # BNF loop
 import time

@@ -30,16 +30,19 @@ stats_logger = setup_logger('stats_logger', 'parallel_stats_logfile.log')
 pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
 ns1 = rdflib.namespace.Namespace("http://schema.org/")
 
-n_jobs = 8
+n_jobs = 12
 
 
 def is_key_close_enough_to_another_key(book_key, keys_to_check):
+    max_ratio  = 0
+    best_key = ""
     for book in keys_to_check:
         s = SequenceMatcher(None, book_key, book)
         ratio = s.ratio()
-        if ratio >= 0.9:
-            return (book, ratio)
-    return None
+        if ratio >= 0.9 and ratio > max_ratio:
+            best_key = book
+            max_ratio = ratio
+    return best_key, max_ratio
 
 class BookAlignment:
     def __init__(self, isbn_constellation=None, isbn_bnf=None, age_range_constellation=None,
@@ -83,15 +86,21 @@ class InterDBStats:
     def align_by_approximate_key(self, book_alignment, book_key):
         keys_to_check = list(self.all_book_alignments.keys())
         start_key_finding = time.time()
-        similar_keys_list = parallel(delayed(is_key_close_enough_to_another_key)(book_key, keys_to_check[i:i + n_jobs]) for i in range(0, len(keys_to_check), n_jobs))
-        similar_keys_list = list(filter(None, similar_keys_list))
+        batch_size = int(len(keys_to_check)/ n_jobs) + 1
+        similar_keys_list = parallel(delayed(is_key_close_enough_to_another_key)(book_key, keys_to_check[i:i + batch_size]) for i in range(0, len(keys_to_check), batch_size))
         end_key_finding = time.time()
-        time_logger.info(f"time elapsed key finding {end_key_finding - start_key_finding}")
-        if len(similar_keys_list) > 0:
-            # print("ratio = ", similar_keys_list[0][1])
-            similar_key = similar_keys_list[0][0]
-            if not self.all_book_alignments[similar_key].url_bnf:  # not a collision: bnf data not present
-                self.all_book_alignments[similar_key].align(isbn_bnf=book_alignment.isbn_bnf,
+        if stats_name_author_publisher.bnf_book_number % 10 == 0:
+            time_logger.info(f"time elapsed key finding {end_key_finding - start_key_finding}")
+        max_ratio = 0
+        best_key = ""
+        for key, ratio in similar_keys_list:
+            if key:
+                if ratio > max_ratio:
+                    best_key = key
+                    max_ratio = ratio
+        if best_key:
+            if not self.all_book_alignments[best_key].url_bnf:  # not a collision: bnf data not present
+                self.all_book_alignments[best_key].align(isbn_bnf=book_alignment.isbn_bnf,
                                                          age_range_bnf=book_alignment.age_range_bnf,
                                                          url_bnf=book_alignment.url_bnf)
                 self.increment_alignment_number()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
@@ -267,8 +276,8 @@ stats_name_author_publisher = InterDBStats("name_author_publisher")
 
 # load the graph of constellation
 g = Graph()
-# g.parse("../output_constellations_updated.ttl", format="turtle")
-g.parse("output_constellations_light_extended.ttl", format="turtle")
+g.parse("./output_constellations.ttl", format="turtle")
+# g.parse("output_constellations_light_extended.ttl", format="turtle")
 
 # constellation loop
 
@@ -302,8 +311,8 @@ for book in g.subjects(RDF.type, ns1.Book):
 
 # reset graph
 g = Graph()
-# g.parse("../local_output_bnf_no_duplicates.ttl", format="turtle")
-g.parse("output_bnf_light_extended.ttl", format="turtle")
+g.parse("./output_bnf.ttl", format="turtle")
+# g.parse("output_bnf_light_extended.ttl", format="turtle")
 
 # BNF loop
 import time
@@ -325,15 +334,18 @@ with Parallel(n_jobs=n_jobs) as parallel:
         # stats_name_author_publisher.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
         # stats_name_author_publisher_date.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
 
-        # stats_name_author.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_key)
         # stats_isbn.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), isbn_key)
+        # stats_name_author.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_key)
+
         start = time.time()
         stats_name_author_publisher.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
         end = time.time()
-        time_logger.info(f"book no {stats_name_author_publisher.bnf_book_number}")
-        time_logger.info(f"time elapsed 1 book {end - start}")
-        time_logger.info("##################")
-        time_logger.info("")
+        if stats_name_author_publisher.bnf_book_number % 10 == 0:
+            time_logger.info(f"book no {stats_name_author_publisher.bnf_book_number}")
+            time_logger.info(f"time elapsed 1 book {end - start}")
+            time_logger.info("##################")
+            time_logger.info("")
+
         # stats_name_author_publisher_date.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
 
         # stats_name_author.increment_bnf_book_number()

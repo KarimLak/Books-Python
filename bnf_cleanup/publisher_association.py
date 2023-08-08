@@ -34,7 +34,7 @@ def similar(a, b):
     return SequenceMatcher(None, a.lower(), b.lower()).ratio()
 
 existing_graph = Graph()
-existing_graph.parse("./output_bnf_2_updated.ttl", format='turtle')
+existing_graph.parse("./output_bnf.ttl", format='turtle')
 
 def match_and_replace_publishers(existing_graph, publishers_dict):
     for book in existing_graph.subjects(RDF.type, ns1.Book):
