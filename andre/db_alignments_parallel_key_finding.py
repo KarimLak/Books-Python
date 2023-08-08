@@ -7,11 +7,12 @@ import copy
 from difflib import SequenceMatcher
 from joblib import Parallel, delayed
 import logging
+import time
 
 formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
 
 n_jobs = 12
-similarity_ratio = 0.9
+similarity_ratio = 0.95
 
 def setup_logger(name, log_file, level=logging.INFO):
     """To setup as many loggers as you want"""
@@ -335,7 +336,6 @@ g.parse("../local_output_bnf_no_duplicates.ttl", format="turtle")
 # g.parse("output_bnf_light_extended.ttl", format="turtle")
 
 # BNF loop
-import time
 
 with Parallel(n_jobs=n_jobs) as parallel:
     for book in g.subjects(RDF.type, ns1.Book):  # O(M)
