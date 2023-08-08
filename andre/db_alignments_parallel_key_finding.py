@@ -10,6 +10,9 @@ import logging
 
 formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
 
+n_jobs = 12
+similarity_ratio = 0.9
+
 def setup_logger(name, log_file, level=logging.INFO):
     """To setup as many loggers as you want"""
 
@@ -22,15 +25,16 @@ def setup_logger(name, log_file, level=logging.INFO):
 
     return logger
 
+key_name = "name_author_date"
 
-time_logger = setup_logger('execution_time_logger', 'parallel_execution_time_logfile.log')
-stats_logger = setup_logger('stats_logger', 'parallel_stats_logfile.log')
+time_logger = setup_logger('execution_time_logger',
+                           f'{key_name}_approx_{similarity_ratio}_parallel_execution_time_logfile.log')
+stats_logger = setup_logger('stats_logger', f'{key_name}_approx_{similarity_ratio}_parallel_stats_logfile.log')
 
 # define the namespace
 pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
 ns1 = rdflib.namespace.Namespace("http://schema.org/")
 
-n_jobs = 12
 
 
 def is_key_close_enough_to_another_key(book_key, keys_to_check):
@@ -39,7 +43,7 @@ def is_key_close_enough_to_another_key(book_key, keys_to_check):
     for book in keys_to_check:
         s = SequenceMatcher(None, book_key, book)
         ratio = s.ratio()
-        if ratio >= 0.9 and ratio > max_ratio:
+        if ratio >= similarity_ratio and ratio > max_ratio:
             best_key = book
             max_ratio = ratio
     return best_key, max_ratio
@@ -53,11 +57,13 @@ class BookAlignment:
         self.age_range_bnf = age_range_bnf
         self.url_bnf = url_bnf
         self.url_constellation = url_constellation
+        self.similarity_ratio = 0
 
-    def align(self, isbn_bnf, age_range_bnf, url_bnf):
+    def align(self, isbn_bnf, age_range_bnf, url_bnf, similarity_ratio):
         self.isbn_bnf = isbn_bnf
         self.age_range_bnf = age_range_bnf
         self.url_bnf = url_bnf
+        self.similarity_ratio = similarity_ratio
 
 
 class InterDBStats:
@@ -89,7 +95,7 @@ class InterDBStats:
         batch_size = int(len(keys_to_check)/ n_jobs) + 1
         similar_keys_list = parallel(delayed(is_key_close_enough_to_another_key)(book_key, keys_to_check[i:i + batch_size]) for i in range(0, len(keys_to_check), batch_size))
         end_key_finding = time.time()
-        if stats_name_author_publisher.bnf_book_number % 10 == 0:
+        if self.bnf_book_number % 10 == 0:
             time_logger.info(f"time elapsed key finding {end_key_finding - start_key_finding}")
         max_ratio = 0
         best_key = ""
@@ -102,7 +108,8 @@ class InterDBStats:
             if not self.all_book_alignments[best_key].url_bnf:  # not a collision: bnf data not present
                 self.all_book_alignments[best_key].align(isbn_bnf=book_alignment.isbn_bnf,
                                                          age_range_bnf=book_alignment.age_range_bnf,
-                                                         url_bnf=book_alignment.url_bnf)
+                                                         url_bnf=book_alignment.url_bnf,
+                                                         similarity_ratio = max_ratio)
                 self.increment_alignment_number()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
 
             else:
@@ -245,9 +252,10 @@ class InterDBStats:
         # print(f"average similarity between ages of same {self.key_type}", average_similarity / len(aligned_books))
 
     def output_csv(self):
-        with open(f"parallel_alignment_{self.key_type}.csv", "w", encoding='utf-8', newline="") as csvfile:
+        with open(f"parallel_alignment_{self.key_type}_ratio_{similarity_ratio}.csv", "w", encoding='utf-8', newline="") as csvfile:
             writer = csv.writer(csvfile, delimiter='{')
             writer.writerow(["key",
+                             "similarity ratio",
                              "isbn_constellation",
                              "isbn_bnf",
                              "age_range_constellation",
@@ -255,8 +263,9 @@ class InterDBStats:
                              "url_constellation",
                              "url_bnf"])
             for key in self.all_book_alignments.keys():
-                book_alignment_output = self.all_book_alignments[key]
+                book_alignment_output: BookAlignment = self.all_book_alignments[key]
                 writer.writerow([key,
+                                 book_alignment_output.similarity_ratio,
                                  book_alignment_output.isbn_constellation,
                                  book_alignment_output.isbn_bnf,
                                  book_alignment_output.age_range_constellation,
@@ -266,9 +275,10 @@ class InterDBStats:
 
 
 # stats_name_author = InterDBStats("name_author")
-stats_name_author_publisher = InterDBStats("name_author_publisher")
+# stats_name_author_publisher = InterDBStats("name_author_publisher")
 # stats_isbn = InterDBStats("isbn")
 # stats_name_author_publisher_date = InterDBStats("name_author_publisher_date")
+stats = InterDBStats(key_name)
 
 # constellations
 # ----------------------------------------------------
@@ -276,7 +286,7 @@ stats_name_author_publisher = InterDBStats("name_author_publisher")
 
 # load the graph of constellation
 g = Graph()
-g.parse("./output_constellations.ttl", format="turtle")
+g.parse("../output_constellations_updated.ttl", format="turtle")
 # g.parse("output_constellations_light_extended.ttl", format="turtle")
 
 # constellation loop
@@ -291,27 +301,37 @@ for book in g.subjects(RDF.type, ns1.Book):
 
     # name_author_key = utils.create_key(book_name, book_author)
     # isbn_key = isbn
-    name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
+    # name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
     # name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
+    name_author_date_key = utils.create_key(book_name=book_name,
+                                            book_author=book_author,
+                                            publication_date=publication_date)
 
     # stats_name_author.all_book_alignments[name_author_key] = copy.deepcopy(book_alignment_constellation)
     # stats_isbn.all_book_alignments[isbn_key] = copy.deepcopy(book_alignment_constellation)
-    stats_name_author_publisher.all_book_alignments[name_author_publisher_key] = \
-        copy.deepcopy(book_alignment_constellation)
+    # stats_name_author_publisher.all_book_alignments[name_author_publisher_key] = \
+    #     copy.deepcopy(book_alignment_constellation)
     # stats_name_author_publisher_date.all_book_alignments[name_author_publisher_date_key] = \
     #     copy.deepcopy(book_alignment_constellation)
+    stats.all_book_alignments[name_author_date_key] = \
+        copy.deepcopy(book_alignment_constellation)
 
     # stats_name_author.increment_constellation_book_number()
     # stats_isbn.increment_constellation_book_number()
-    stats_name_author_publisher.increment_constellation_book_number()
+    # stats_name_author_publisher.increment_constellation_book_number()
     # stats_name_author_publisher_date.increment_constellation_book_number()
+    stats.all_book_alignments[name_author_date_key] = \
+        copy.deepcopy(book_alignment_constellation)
 
+    stats.increment_constellation_book_number()
+
+print("constellation book number", stats.constellation_book_number)
 # BNF
 # ----------------------------------------------------
 
 # reset graph
 g = Graph()
-g.parse("./output_bnf.ttl", format="turtle")
+g.parse("../local_output_bnf_no_duplicates.ttl", format="turtle")
 # g.parse("output_bnf_light_extended.ttl", format="turtle")
 
 # BNF loop
@@ -326,8 +346,11 @@ with Parallel(n_jobs=n_jobs) as parallel:
 
         # name_author_key = utils.create_key(book_name, book_author)
         # isbn_key = isbn
-        name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
+        # name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
         # name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
+        name_author_date_key = utils.create_key(book_name=book_name,
+                                                book_author=book_author,
+                                                publication_date=publication_date)
 
         # stats_name_author.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_key)
         # stats_isbn.align_by_key(copy.deepcopy(book_alignment_bnf), isbn_key)
@@ -336,30 +359,31 @@ with Parallel(n_jobs=n_jobs) as parallel:
 
         # stats_isbn.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), isbn_key)
         # stats_name_author.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_key)
+        # stats_name_author_publisher.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
+
+
 
         start = time.time()
-        stats_name_author_publisher.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
+        stats.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_date_key)
         end = time.time()
-        if stats_name_author_publisher.bnf_book_number % 10 == 0:
-            time_logger.info(f"book no {stats_name_author_publisher.bnf_book_number}")
+        if stats.bnf_book_number % 10 == 0:
+            time_logger.info(f"book no {stats.bnf_book_number}")
             time_logger.info(f"time elapsed 1 book {end - start}")
             time_logger.info("##################")
             time_logger.info("")
 
-        # stats_name_author_publisher_date.align_by_approximate_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
-
         # stats_name_author.increment_bnf_book_number()
         # stats_isbn.increment_bnf_book_number()
-        stats_name_author_publisher.increment_bnf_book_number()
-        # stats_name_author_publisher_date.increment_bnf_book_number()
+        # stats_name_author_publisher.increment_bnf_book_number()
+        stats.increment_bnf_book_number()
 
 
 # stats_name_author.output_csv()
 # stats_isbn.output_csv()
-stats_name_author_publisher.output_csv()
-# stats_name_author_publisher_date.output_csv()
+# stats_name_author_publisher.output_csv()
+stats.output_csv()
 
 # stats_isbn.print_stats()
 # stats_name_author.print_stats()
-stats_name_author_publisher.print_stats()
-# stats_name_author_publisher_date.print_stats()
+# stats_name_author_publisher.print_stats()
+stats.print_stats()
