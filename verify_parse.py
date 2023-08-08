@@ -12,4 +12,4 @@ def check_turtle_syntax(filename):
         print(f"{filename} does not have valid Turtle syntax. Error: {e}")
 
 # Check the syntax of output_bnf_updated.ttl
-check_turtle_syntax("output_bnf.ttl")
+check_turtle_syntax("output_bnf_transformed.ttl")
