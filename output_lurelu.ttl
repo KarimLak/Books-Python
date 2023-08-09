@@ -1730,6 +1730,8 @@ ns1:Saison1234567 a ns1:Saison ;
 # Book 1
 ns1:Book0123456 a ns1:Book ;
     ns1:author "Anne Villeneuve" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2000-v23-n2-lurelu1102005/12157ac/" ;
     ns1:name "L'écharpe rouge" ;
     ns1:datePublished "1999"^^xsd:gYear ;
     ns1:publisher ns1:Les_400_Coups ;
@@ -1739,6 +1741,8 @@ ns1:Book0123456 a ns1:Book ;
 # Book 2
 ns1:Book1234567 a ns1:Book ;
     ns1:author "Dominique Jolin" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2000-v23-n2-lurelu1102005/12157ac/" ;
     ns1:name "série «Toupie»" ;
     ns1:publisher ns1:Dominique_Et_Compagnie ;
     ns1:review "«...ces belles aquarelles aux teintes douces et aux lignes un peu tremblantes qui transmettent constamment le mouvement et l'émotion.» (NT)" .
@@ -1746,6 +1750,8 @@ ns1:Book1234567 a ns1:Book ;
 # Book 3
 ns1:Book2345678 a ns1:Book ;
     ns1:author "Jean-Rock Gaudreault" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2000-v23-n2-lurelu1102005/12157ac/" ;
     ns1:name "Mathieu trop court, François trop long" ;
     ns1:dateCreated "1998"^^xsd:gYear ;
     ns1:review "«...une poignante évocation de l'automne, saison qui est elle-même la métaphore la plus juste du temps qui file.» (DS)" .
@@ -1753,6 +1759,8 @@ ns1:Book2345678 a ns1:Book ;
 # Book 4
 ns1:Book3456789 a ns1:Book ;
     ns1:author "Gilles Tibo" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2000-v23-n2-lurelu1102005/12157ac/" ;
     ns1:name "Le petit maudit" ;
     ns1:datePublished "2000"^^xsd:gYear ;
     ns1:publisher "Soulières éditeur" ;
@@ -1762,6 +1770,8 @@ ns1:Book3456789 a ns1:Book ;
 # Book 5
 ns1:Book4567890 a ns1:Book ;
     ns1:author "Barrie Baker" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2000-v23-n2-lurelu1102005/12157ac/" ;
     ns1:illustrator "Stéphane Jorisch" ;
     ns1:name "Le village aux infinis sourires" ;
     ns1:datePublished "2000"^^xsd:gYear ;
@@ -1772,6 +1782,8 @@ ns1:Book4567890 a ns1:Book ;
 # Book 6
 ns1:Book5678901 a ns1:Book ;
     ns1:author "François Gravel" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2000-v23-n2-lurelu1102005/12157ac/" ;
     ns1:illustrator "Anatoli Burcev" ;
     ns1:name "L'été de la moustache" ;
     ns1:datePublished "2000"^^xsd:gYear ;
@@ -1782,6 +1794,8 @@ ns1:Book5678901 a ns1:Book ;
 # Book 7
 ns1:Book6789012 a ns1:Book ;
     ns1:author "Michèle Marineau" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2001-v24-n2-lurelu1090634/11747ac/" ;
     ns1:name "Rouge poison" ;
     ns1:datePublished "2000"^^xsd:gYear ;
     ns1:publisher "Éditions Québec Amérique" ;
@@ -1791,6 +1805,8 @@ ns1:Book6789012 a ns1:Book ;
 # Book 8
 ns1:Book7890123 a ns1:Book ;
     ns1:author "Dominique Demers" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2001-v24-n2-lurelu1090634/11747ac/" ;
     ns1:illustrator "Stéphane Poulin" ;
     ns1:name "Vieux Thomas et la petite fée" ;
     ns1:datePublished "2000"^^xsd:gYear ;
@@ -1800,6 +1816,8 @@ ns1:Book7890123 a ns1:Book ;
 # Book 9
 ns1:Book8901234 a ns1:Book ;
     ns1:name "Le petit canoë une œuvre de Paul-Émile Borduas racontée aux enfants par Marie Bletton" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2001-v24-n2-lurelu1090634/11747ac/" ;
     ns1:datePublished "2001"^^xsd:gYear ;
     ns1:publisher "Éditions Les 400 coups" ;
     ns1:review "«J'aime que l'écriture de l'histoire soit libre, que l'œuvre de Borduas joue à cache-cache avec le lecteur, qu'elle ne soit pas dénaturée ou infantilisée.» (FS)" .
@@ -1807,6 +1825,8 @@ ns1:Book8901234 a ns1:Book ;
 # Book 1
 ns1:Book0123456 a ns1:Book ;
     ns1:author "Laurent McAllister" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Le messager des orages" ;
     ns1:datePublished "2001"^^xsd:gYear ;
     ns1:publisher "Médiaspaul" ;
@@ -1816,6 +1836,8 @@ ns1:Book0123456 a ns1:Book ;
 # Book 2
 ns1:Book1234567 a ns1:Book ;
     ns1:author "Daniel Mativat" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Quand la bête s'éveille" ;
     ns1:datePublished "2001"^^xsd:gYear ;
     ns1:publisher "Éditions Pierre Tisseyre" ;
@@ -1825,6 +1847,8 @@ ns1:Book1234567 a ns1:Book ;
 # Book 3
 ns1:Book2345678 a ns1:Book ;
     ns1:author "Sylvie Brien" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Le spectre" ;
     ns1:datePublished "2002"^^xsd:gYear ;
     ns1:publisher "Éditions Porte-Bonheur" ;
@@ -1834,6 +1858,8 @@ ns1:Book2345678 a ns1:Book ;
 # Book 4
 ns1:Book3456789 a ns1:Book ;
     ns1:author "Jasmine Dubé" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Le pingouin" ;
     ns1:publisher "Lanctôt éditeur" ;
     ns1:collection "Théâtre" ;
@@ -1842,6 +1868,8 @@ ns1:Book3456789 a ns1:Book ;
 # Book 5
 ns1:Book4567890 a ns1:Book ;
     ns1:author "Gilles Tibo" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Le grand voyage de Monsieur" ;
     ns1:datePublished "2002"^^xsd:gYear ;
     ns1:publisher "Dominique et compagnie" ;
@@ -1850,6 +1878,8 @@ ns1:Book4567890 a ns1:Book ;
 # Book 6
 ns1:Book5678901 a ns1:Book ;
     ns1:author "Gilles Tibo" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "La petite fille qui ne souriait plus" ;
     ns1:datePublished "2002"^^xsd:gYear ;
     ns1:publisher "Soulières éditeur" ;
@@ -1859,6 +1889,8 @@ ns1:Book5678901 a ns1:Book ;
 # Book 7
 ns1:Book6789012 a ns1:Book ;
     ns1:author "Claire Obscure" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Drôle de zoo" ;
     ns1:datePublished "2001"^^xsd:gYear ;
     ns1:publisher "Les 400 coups" ;
@@ -1867,6 +1899,8 @@ ns1:Book6789012 a ns1:Book ;
 # Book 8
 ns1:Book7890123 a ns1:Book ;
     ns1:author "Hélène Vachon" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "L'oiseau de passage" ;
     ns1:datePublished "2000"^^xsd:gYear ;
     ns1:publisher "Dominique et compagnie" ;
@@ -1876,6 +1910,8 @@ ns1:Book7890123 a ns1:Book ;
 # Book 9
 ns1:Book8901234 a ns1:Book ;
     ns1:author "Paulette Bourgeois" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:traduction "Cécile Gagnon" ;
     ns1:name "Une courtepointe pour grand-maman" ;
     ns1:datePublished "2001"^^xsd:gYear ;
@@ -1885,12 +1921,16 @@ ns1:Book8901234 a ns1:Book ;
 # Book 10
 ns1:Book9012345 a ns1:Book ;
     ns1:author "Olivier Choinière" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Léa-Pu de Sonlaté" ;
     ns1:review "«Ce spectacle plein de fraîcheur, tant dans l'humour non politiquement correct que dans le jeu des jeunes interprètes, méritait d'être vu davantage.» (RB)" .
 
 # Book 1
 ns1:Book0123456 a ns1:Book ;
     ns1:author "Linda Brousseau" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "Marélie de la mer" ;
     ns1:datePublished "1993"^^xsd:gYear ;
     ns1:publisher "Éditions Pierre Tisseyre" ;
@@ -1900,6 +1940,8 @@ ns1:Book0123456 a ns1:Book ;
 # Book 2
 ns1:Book1234567 a ns1:Book ;
     ns1:author "Jasmine Dubé" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "Petit monstre" ;
     ns1:publisher "Théâtre Bouches Décousues" ;
     ns1:review "«Petit monstre m'a totalement séduite par son écriture fine, drôle, touchante, calquée sur une réalité qui dérive dans l'imaginaire.» (AG)" .
@@ -1907,6 +1949,8 @@ ns1:Book1234567 a ns1:Book ;
 # Book 3
 ns1:Book2345678 a ns1:Book ;
     ns1:author "Lucie Papineau" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "Des bleuets dans mes lunettes" ;
     ns1:datePublished "1992"^^xsd:gYear ;
     ns1:publisher "Éditions du Boréal" ;
@@ -1916,6 +1960,8 @@ ns1:Book2345678 a ns1:Book ;
 # Book 4
 ns1:Book3456789 a ns1:Book ;
     ns1:author "Danièle Simpson" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:illustrator "Michel Bisson" ;
     ns1:name "Thomas et la nuit" ;
     ns1:datePublished "1992"^^xsd:gYear ;
@@ -1925,6 +1971,8 @@ ns1:Book3456789 a ns1:Book ;
 # Book 5
 ns1:Book4567890 a ns1:Book ;
     ns1:author "Marie-Louise Gay" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "Mademoiselle Lune" ;
     ns1:datePublished "1992"^^xsd:gYear ;
     ns1:publisher "Éditions Héritage" ;
@@ -1933,6 +1981,8 @@ ns1:Book4567890 a ns1:Book ;
 # Book 6
 ns1:Book5678901 a ns1:Book ;
     ns1:author "Raymond Plante" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "Le roi de rien" ;
     ns1:datePublished "1988"^^xsd:gYear ;
     ns1:publisher "La courte échelle" ;
@@ -1942,6 +1992,8 @@ ns1:Book5678901 a ns1:Book ;
 # Book 7
 ns1:Book6789012 a ns1:Book ;
     ns1:author "Esther Rochon" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "L'ombre et le cheval" ;
     ns1:datePublished "1992"^^xsd:gYear ;
     ns1:publisher "Éditions Paulines" ;
@@ -1951,6 +2003,8 @@ ns1:Book6789012 a ns1:Book ;
 # Book 8
 ns1:Book7890123 a ns1:Book ;
     ns1:author "Pierre Filion" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:illustrator "Gilles Tibo" ;
     ns1:name "Pikolo: le secret des garde-robes" ;
     ns1:datePublished "1992"^^xsd:gYear ;
@@ -1960,6 +2014,8 @@ ns1:Book7890123 a ns1:Book ;
 # Book 9
 ns1:Book8901234 a ns1:Book ;
     ns1:author "Jasmine Dubé" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "La tête de Line Hotte" ;
     ns1:datePublished "1989"^^xsd:gYear ;
     ns1:publisher "Éditions Québec Amérique Jeunesse" ;
@@ -1968,6 +2024,8 @@ ns1:Book8901234 a ns1:Book ;
 # Book 10
 ns1:Book9012345 a ns1:Book ;
     ns1:author "Sharon Jennings" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     ns1:illustrator "Mireille Levert" ;
     ns1:name "Dormez bien, Mme Ming" ;
     ns1:datePublished "1993"^^xsd:gYear ;
@@ -1977,6 +2035,8 @@ ns1:Book9012345 a ns1:Book ;
 # Book 1
 ns1:Book0123456 a ns1:Book ;
     ns1:author "Wajdi Mouawad" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     ns1:name "Alphonse" ;
     ns1:dateCreated "1994"^^xsd:gYear ;
     ns1:publisher "L'Arrière-Scène" ;
@@ -1985,6 +2045,8 @@ ns1:Book0123456 a ns1:Book ;
 # Book 2
 ns1:Book1234567 a ns1:Book ;
     ns1:author "Collectif dirigé par Carmen Marois" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     ns1:name "Le bal des ombres" ;
     ns1:datePublished "1994"^^xsd:gYear ;
     ns1:publisher "Éditions Québec Amérique" ;
@@ -1994,6 +2056,8 @@ ns1:Book1234567 a ns1:Book ;
 # Book 3
 ns1:Book2345678 a ns1:Book ;
     ns1:author "Christiane Duchesne" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     ns1:name "Berthold & Lucrèce" ;
     ns1:datePublished "1994"^^xsd:gYear ;
     ns1:publisher "Éditions Québec Amérique" ;
@@ -2003,6 +2067,8 @@ ns1:Book2345678 a ns1:Book ;
 # Book 4
 ns1:Book3456789 a ns1:Book ;
     ns1:author "Jean Lemieux" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     ns1:name "Le trésor de Brion" ;
     ns1:datePublished "1995"^^xsd:gYear ;
     ns1:publisher "Éditions Québec Amérique" ;
@@ -2012,6 +2078,8 @@ ns1:Book3456789 a ns1:Book ;
 # Book 5
 ns1:Book4567890 a ns1:Book ;
     ns1:author "Rémy Simard" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     ns1:illustrator "Pierre Pratt" ;
     ns1:name "Mon chien est un éléphant" ;
     ns1:datePublished "1994"^^xsd:gYear ;
@@ -2021,6 +2089,8 @@ ns1:Book4567890 a ns1:Book ;
 # Book 6
 ns1:Book5678901 a ns1:Book ;
     ns1:author "Collectif" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     ns1:name "Lurelu" ;
     ns1:dateFounded "1978"^^xsd:gYear ;
     ns1:publisher "Lurelu" ;
@@ -2029,30 +2099,40 @@ ns1:Book5678901 a ns1:Book ;
 # Book 7
 ns1:Book6789012 a ns1:Book ;
     ns1:name "Collection de mini-romans «Carrousel»" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
     ns1:publisher "Éditions Héritage" ;
     ns1:review "«On a visiblement choisi de privilégier un contenu à haute teneur fantaisiste, avec bribes de tendresse et grains d'humour.» (IC)" .
 
 # Book 8
 ns1:Book7890123 a ns1:Book ;
     ns1:name "Collection d'albums «Grimace»" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
     ns1:publisher "Éditions Les 400 coups" ;
     ns1:review "«C'est ce qui fait grimacer qui constitue la réussite du plat et le ravissement des jeunes connaisseurs !» (IC)" .
 
 # Book 9
 ns1:Book8901234 a ns1:Book ;
     ns1:name "Collection de biographies «Les grandes figures»" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
     ns1:publisher "XYZ Éditeur" ;
     ns1:review "«Voilà des ouvrages sérieux, captivants, bien écrits, et ce par des gens compétents.» (SD)" .
 
 # Book 10
 ns1:Book9012345 a ns1:Book ;
     ns1:name "Les Coups de théâtre" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
     ns1:publisher "Rendez-vous international de théâtre jeune public" ;
     ns1:review "«Les Coups de Théatre sont une occasion exceptionnelle de partager de rares moments d'émotions et d'intelligence avec ses enfants.» (AG)" .
 
 # Book 11
 ns1:Book9123456 a ns1:Book ;
     ns1:author "Marie-Josée Cardinal" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
     ns1:illustrator "Doris Barrette" ;
     ns1:name "Montréal d'est en ouest" ;
     ns1:datePublished "1996"^^xsd:gYear ;
@@ -2062,6 +2142,8 @@ ns1:Book9123456 a ns1:Book ;
 # Book 12
 ns1:Book1234567 a ns1:Book ;
     ns1:author "Gilles Tibo" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
     ns1:name "Simon et la musique" ;
     ns1:datePublished "1995"^^xsd:gYear ;
     ns1:publisher "Livres Toundra" ;
@@ -2070,6 +2152,8 @@ ns1:Book1234567 a ns1:Book ;
 # Book 13
 ns1:Book2345678 a ns1:Book ;
     ns1:author "Dominique Demers et collaboratrices" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
     ns1:name "La Bibliothèque des enfants" ;
     ns1:publisher "Éditions Québec Amérique" ;
     ns1:collection "Exploration" ;
@@ -2078,6 +2162,8 @@ ns1:Book2345678 a ns1:Book ;
 # Book 1
 ns1:Book0123456 a ns1:Book ;
     ns1:author "Jasmine Dubé" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1997-v20-n2-lurelu1107373/13281ac/" ;
     ns1:name "Le Bain" ;
     ns1:dateCreated "1997"^^xsd:gYear ;
     ns1:publisher "Théâtre Bouches Décousues" ;
@@ -2087,6 +2173,8 @@ ns1:Book0123456 a ns1:Book ;
 # Book 2
 ns1:Book1234567 a ns1:Book ;
     ns1:author "Danielle Marcotte" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1997-v20-n2-lurelu1107373/13281ac/" ;
     ns1:illustrator "Stéphane Poulin" ;
     ns1:name "Poil de serpent, dent d'araignée" ;
     ns1:datePublished "1996"^^xsd:gYear ;
@@ -2098,6 +2186,8 @@ ns1:Book1234567 a ns1:Book ;
 # Book 3
 ns1:Book2345678 a ns1:Book ;
     ns1:name "Collection de mini-romans «Ma petite vache a mal aux pattes»" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1997-v20-n2-lurelu1107373/13281ac/" ;
     ns1:publisher "Soulières Éditeur" ;
     ns1:review "«...à prendre comme une brise rafraîchissante dans un milieu littéraire où le réalisme terre à terre exhale trop souvent des relents fétides.» (SD)" .
 
@@ -2105,6 +2195,8 @@ ns1:Book2345678 a ns1:Book ;
 ns1:Book3456789 a ns1:Book ;
     ns1:author "Louis Émond" ;
     ns1:name "C'est parce que..." ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1997-v20-n2-lurelu1107373/13281ac/" ;
     ns1:datePublished "1997"^^xsd:gYear ;
     ns1:publisher "Soulières Éditeur" ;
     ns1:collection "Ma petite vache a mal aux pattes" ;
@@ -2114,6 +2206,8 @@ ns1:Book3456789 a ns1:Book ;
 ns1:Book4567890 a ns1:Book ;
     ns1:author "Dominique Demers" ;
     ns1:name "Maïna" ;
+    ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
+    ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1997-v20-n2-lurelu1107373/13281ac/" ;
     ns1:datePublished "1997"^^xsd:gYear ;
     ns1:publisher "Éditions Québec Amérique" ;
     ns1:collection "Titan" ;
