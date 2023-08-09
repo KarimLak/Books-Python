@@ -12,7 +12,7 @@ import time
 formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
 
 n_jobs = 12
-similarity_ratio = 0.95
+similarity_ratio = 0.99
 
 def setup_logger(name, log_file, level=logging.INFO):
     """To setup as many loggers as you want"""
@@ -287,26 +287,31 @@ stats = InterDBStats(key_name)
 
 # load the graph of constellation
 g = Graph()
-g.parse("../output_constellations_updated.ttl", format="turtle")
+# g.parse("../output_constellations.ttl", format="turtle")
+g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="turtle")
 # g.parse("output_constellations_light_extended.ttl", format="turtle")
 
 # constellation loop
 
 for book in g.subjects(RDF.type, ns1.Book):
-    book_name, book_author, age_range_int, url, publication_date, publisher, isbn = \
-        utils.extract_data_constellation(g, book)
+    book_data: utils.RdfBookData = \
+        utils.remove_special_chars(
+            utils.remove_accents(
+                utils.lower(
+                    utils.remove_spaces(
+                        utils.extract_data_constellation(g, book)))))
 
-    book_alignment_constellation = BookAlignment(url_constellation=url,
-                                                 isbn_constellation=isbn,
-                                                 age_range_constellation=age_range_int)
+    book_alignment_constellation = BookAlignment(url_constellation=book_data.url,
+                                                 isbn_constellation=book_data.isbn,
+                                                 age_range_constellation=book_data.age_range_int)
 
     # name_author_key = utils.create_key(book_name, book_author)
     # isbn_key = isbn
     # name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
     # name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
-    name_author_date_key = utils.create_key(book_name=book_name,
-                                            book_author=book_author,
-                                            publication_date=publication_date)
+    name_author_date_key = utils.create_key(book_name=book_data.book_name,
+                                            book_author=book_data.book_author,
+                                            publication_date=book_data.publication_date)
 
     # stats_name_author.all_book_alignments[name_author_key] = copy.deepcopy(book_alignment_constellation)
     # stats_isbn.all_book_alignments[isbn_key] = copy.deepcopy(book_alignment_constellation)
@@ -321,9 +326,6 @@ for book in g.subjects(RDF.type, ns1.Book):
     # stats_isbn.increment_constellation_book_number()
     # stats_name_author_publisher.increment_constellation_book_number()
     # stats_name_author_publisher_date.increment_constellation_book_number()
-    stats.all_book_alignments[name_author_date_key] = \
-        copy.deepcopy(book_alignment_constellation)
-
     stats.increment_constellation_book_number()
 
 print("constellation book number", stats.constellation_book_number)
@@ -332,25 +334,31 @@ print("constellation book number", stats.constellation_book_number)
 
 # reset graph
 g = Graph()
-g.parse("../local_output_bnf_no_duplicates.ttl", format="turtle")
+# g.parse("../output_bnf.ttl", format="turtle")
+g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
 # g.parse("output_bnf_light_extended.ttl", format="turtle")
 
 # BNF loop
 
 with Parallel(n_jobs=n_jobs) as parallel:
     for book in g.subjects(RDF.type, ns1.Book):  # O(M)
-        book_name, book_author, age_range_int, url, publication_date, publisher, isbn = utils.extract_data_bnf(g, book)
-        book_alignment_bnf = BookAlignment(url_bnf=url,
-                                           isbn_bnf=isbn,
-                                           age_range_bnf=age_range_int)
+        book_data: utils.RdfBookData = \
+            utils.remove_special_chars(
+                utils.remove_accents(
+                    utils.lower(
+                        utils.remove_spaces(
+                            utils.extract_data_bnf(g, book)))))
+        book_alignment_bnf = BookAlignment(url_bnf=book_data.url,
+                                           isbn_bnf=book_data.isbn,
+                                           age_range_bnf=book_data.age_range_int)
 
         # name_author_key = utils.create_key(book_name, book_author)
         # isbn_key = isbn
         # name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
         # name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
-        name_author_date_key = utils.create_key(book_name=book_name,
-                                                book_author=book_author,
-                                                publication_date=publication_date)
+        name_author_date_key = utils.create_key(book_name=book_data.book_name,
+                                                book_author=book_data.book_author,
+                                                publication_date=book_data.publication_date)
 
         # stats_name_author.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_key)
         # stats_isbn.align_by_key(copy.deepcopy(book_alignment_bnf), isbn_key)

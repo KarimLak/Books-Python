@@ -26,7 +26,7 @@ def setup_logger(name, log_file, level=logging.INFO):
 
     return logger
 
-folder_name = "noWhitespace&lower&noAccent&noSpecialChar_exact"
+folder_name = "9aug_noWhitespace&lower&noAccent&noSpecialChar_exact"
 
 stats_logger = setup_logger('stats_logger', f'{folder_name}/stats_logfile.log')
 
@@ -241,7 +241,8 @@ stats_name_author_date = InterDBStats("name_author_date")
 
 # load the graph of constellation
 g = Graph()
-g.parse("../output_constellations_updated.ttl", format="turtle")
+g.parse("../output_constellations.ttl", format="turtle")
+# g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="turtle")
 # g.parse("output_constellations_light_extended.ttl", format="turtle")
 
 # constellation loop
@@ -286,11 +287,11 @@ for book in g.subjects(RDF.type, ns1.Book):
 
 # reset graph
 g = Graph()
-g.parse("local_output_bnf_no_duplicates.ttl", format="turtle")
+g.parse("../output_bnf.ttl", format="turtle")
+# g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
 # g.parse("output_bnf_light_extended.ttl", format="turtle")
 
 # BNF loop
-import time
 
 for book in g.subjects(RDF.type, ns1.Book):  # O(M)
     book_data: utils.RdfBookData = \

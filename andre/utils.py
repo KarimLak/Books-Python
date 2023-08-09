@@ -36,9 +36,9 @@ def extract_data_constellation(graph, book):
 def extract_data_bnf(graph, book):
     book_name = str(graph.value(book, ns1.name))
     book_author = str(graph.value(book, ns1.author))
-    age_range = list(graph.objects(book, ns1.ageRange))
+    age_range = list(graph.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
-    url = str(graph.value(book, ns1.bnfLink))
+    url = str(graph.value(book, pbs.bnfLink)) if graph.value(book, pbs.bnfLink) else str(graph.value(book, ns1.bnfLink)) #4 august vs 8 august data
     publication_date = str(graph.value(book, ns1.datePublished))
     publisher = str(graph.value(book, ns1.publisher))
     isbn = str(graph.value(book, ns1.isbn))
@@ -64,7 +64,7 @@ def lower(book_data: RdfBookData):
     book_data.isbn = book_data.isbn.lower()
     return book_data
 def strip_special_chars(s):
-    return re.sub(r"[-()\"#/@;:<>{}`+=~|.!?,']", "", s)
+    return re.sub(r"[-()\"#/@;:<>{}`+=~|.!?,']", "", s) # also remove []
 
 def remove_special_chars(book_data: RdfBookData):
     book_data.book_name = strip_special_chars(book_data.book_name)

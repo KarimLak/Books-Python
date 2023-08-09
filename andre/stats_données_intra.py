@@ -49,9 +49,9 @@ class IntraDBStats: # stats for 1 db
         if not isbn or isbn == "none":
             self.books_without_isbn.append(url)
 
-        self.count_doublon_with_missing_values(book_name, book_author, age_range, publisher, publication_date, isbn)
+        self.count_doublon_with_missing_values(book_name, book_author, age_range, publisher, publication_date, isbn, url)
 
-    def count_doublon_with_missing_values(self, book_name, book_author, age_range, publisher, publication_date, isbn):
+    def count_doublon_with_missing_values(self, book_name, book_author, age_range, publisher, publication_date, isbn, url):
         name_key = create_key(book_name)
         self.book_name_doublons[name_key].append(url)
 
@@ -68,7 +68,7 @@ class IntraDBStats: # stats for 1 db
 
         self.book_name_author_ages[name_author_key].append(age_range)
 
-    def count_doublon_without_missing_values(self, book_name, book_author, age_range):
+    def count_doublon_without_missing_values(self, book_name, book_author, age_range, url): # old method -> generated [No Missing Values] in data folder
         if book_name:
             self.book_name_doublons[book_name].append(url)
         if book_name and book_author:
@@ -155,18 +155,19 @@ class IntraDBStats: # stats for 1 db
 # CONSTELLATION
 
 # load the graph of constellation
-g = Graph()
-g.parse("../output_constellations.ttl", format="turtle")
-
-stats_constellation = IntraDBStats("Constellation")
-
-# refactor to have a reader class
-for book in g.subjects(RDF.type, ns1.Book):
-    book_name, book_author, age_range_int, url, publication_date, publisher, isbn = extract_data_constellation(g, book)
-    stats_constellation.count(book_name, book_author, age_range_int, url, publication_date, publisher, isbn)
-
-stats_constellation.print_stats()
-stats_constellation.output_csv()
+# g = Graph()
+# # g.parse("../output_constellations.ttl", format="turtle")
+# g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="turtle")
+#
+# stats_constellation = IntraDBStats("Constellation")
+#
+# # refactor to have a reader class
+# for book in g.subjects(RDF.type, ns1.Book):
+#     book_data = extract_data_constellation(g, book)
+#     stats_constellation.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn)
+#
+# stats_constellation.print_stats()
+# stats_constellation.output_csv()
 
 
 #------------------------------------
@@ -174,13 +175,14 @@ stats_constellation.output_csv()
 
 # reset graph
 g = Graph()
-g.parse("../output_bnf_updated.ttl", format="turtle")
+# g.parse("../output_bnf.ttl", format="turtle")
+g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
 
 stats_bnf = IntraDBStats("BNF")
 
 for book in g.subjects(RDF.type, ns1.Book): #O(M)
-    book_name, book_author, age_range_int, url, publication_date, publisher, isbn = extract_data_bnf(g, book)
-    stats_bnf.count(book_name, book_author, age_range_int, url, publication_date, publisher, isbn)
+    book_data = extract_data_bnf(g, book)
+    stats_bnf.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn)
 
 stats_bnf.print_stats()
 stats_bnf.output_csv()
