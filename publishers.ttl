@@ -6982,3 +6982,14 @@ ns1:NordSdVerl a ns1:Publisher ;
 ns1:ViacomInternational a ns1:Publisher ;
     ns1:name "Viacom International"^^xsd:string .
 
+ns1:Titan a ns1:Publisher ;
+    ns1:name "Titan"^^xsd:string .
+
+ns1:Lanctot a ns1:Publisher ;
+    ns1:name "Lanctôt éditeur"^^xsd:string .
+
+ns1:Lurelu a ns1:Publisher ;
+    ns1:name "Lurelu"^^xsd:string .
+
+ns1:Rendez_Vous a ns1:Publisher ;
+    ns1:name "Rendez-vous international de théâtre jeune public"^^xsd:string .
