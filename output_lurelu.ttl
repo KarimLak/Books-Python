@@ -1762,7 +1762,7 @@ ns1:Book3456781 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2000-v23-n2-lurelu1102005/12157ac/" ;
     ns1:name "Le petit maudit" ;
     ns1:datePublished "2000"^^xsd:gYear ;
-    ns1:publisher "Soulières éditeur" ;
+    ns1:publisher ns1:Soulières ;
     ns1:collection "Ma petite vache a mal aux pattes" ;
     ns1:review "«Peut-être tombera-t-il entre les bonnes mains et apportera un peu de réconfort à un enfant seul, en mal d'amour, qui s'y reconnaîtra...» (IC)" .
 
@@ -1774,7 +1774,7 @@ ns1:Book4566890 a ns1:Book ;
     ns1:illustrator "Stéphane Jorisch" ;
     ns1:name "Le village aux infinis sourires" ;
     ns1:datePublished "2000"^^xsd:gYear ;
-    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:publisher ns1:Les_400_Coups ;
     ns1:collection "Les grands albums" ;
     ns1:review "«Par-dessus tout, ce qui fascine, c'est la délicatesse et la légèreté des illustrator.» (GL)" .
 
@@ -1786,7 +1786,7 @@ ns1:Book5678921 a ns1:Book ;
     ns1:illustrator "Anatoli Burcev" ;
     ns1:name "L'été de la moustache" ;
     ns1:datePublished "2000"^^xsd:gYear ;
-    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:publisher ns1:Les_400_Coups ;
     ns1:collection "Les grands albums" ;
     ns1:review "«Raffinement, élégance, un brin de nostalgie tant dans le récit que dans l'illustration.» (GL)" .
 
@@ -1798,7 +1798,7 @@ ns1:Book6789212 a ns1:Book ;
     ns1:name "Rouge poison" ;
     ns1:datePublished "2000"^^xsd:gYear ;
     ns1:publisher "Éditions Québec Amérique" ;
-    ns1:collection "Titan" ;
+    ns1:collection ns1:Titan ;
     ns1:review "«Le roman allie réalisme, suspense, humour, émotions dans un dosage équilibré, sur un ton juste, vrai, sans mélodrame.» (OM)" .
 
 # Book 8
@@ -1809,7 +1809,7 @@ ns1:Book7890123 a ns1:Book ;
     ns1:illustrator "Stéphane Poulin" ;
     ns1:name "Vieux Thomas et la petite fée" ;
     ns1:datePublished "2000"^^xsd:gYear ;
-    ns1:publisher "Éditions Dominique et compagnie" ;
+    ns1:publisher ns1:Dominique_Et_Compagnie ;
     ns1:review "«Cet album n'a pas d'âge cible. Je l'ai raconté à de très jeunes enfants de trois et quatre ans, et à des adultes: l'émotion est implacablement la même...» (IC)" .
 
 # Book 9
@@ -1818,7 +1818,7 @@ ns1:Book8901230 a ns1:Book ;
     ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2001-v24-n2-lurelu1090634/11747ac/" ;
     ns1:datePublished "2001"^^xsd:gYear ;
-    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:publisher ns1:Les_400_Coups ;
     ns1:review "«J'aime que l'écriture de l'histoire soit libre, que l'œuvre de Borduas joue à cache-cache avec le lecteur, qu'elle ne soit pas dénaturée ou infantilisée.» (FS)" .
 
 # Book 1
@@ -1828,7 +1828,7 @@ ns1:Book0123456 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Le messager des orages" ;
     ns1:datePublished "2001"^^xsd:gYear ;
-    ns1:publisher "Médiaspaul" ;
+    ns1:publisher ns1:Médiaspaul ;
     ns1:collection "Jeunesse-Pop" ;
     ns1:review "«On en ressort troublé par des visions de villes mystérieuses, à la fois attirantes et repoussantes.» (SM)" .
 
@@ -1839,7 +1839,7 @@ ns1:Book1234557 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Quand la bête s'éveille" ;
     ns1:datePublished "2001"^^xsd:gYear ;
-    ns1:publisher "Éditions Pierre Tisseyre" ;
+    ns1:publisher ns1:Pierre_Tisseyre ;
     ns1:collection "Chacal" ;
     ns1:review "«Ce récit historico-fantastico-horrifique fait frissonner d'effroi sous la couette.» (SM)" .
 
@@ -1850,7 +1850,7 @@ ns1:Book2344678 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Le spectre" ;
     ns1:datePublished "2002"^^xsd:gYear ;
-    ns1:publisher "Éditions Porte-Bonheur" ;
+    ns1:publisher ns1:Porte_Bonheur ;
     ns1:collection "Talisman" ;
     ns1:review "«Un sujet actuel dans un contexte d'autoritarisme et de rigueur où la façade cède finalement la place à l'amour et à la compréhension.» (OM)" .
 
@@ -1860,7 +1860,7 @@ ns1:Book345789 a ns1:Book ;
     ns1:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Le pingouin" ;
-    ns1:publisher "Lanctôt éditeur" ;
+    ns1:publisher ns1:Lanctot ;
     ns1:collection "Théâtre" ;
     ns1:review "«La relation parent-enfant, ou adulte-enfant, et la dialectique travail-loisir, ou sérieux-fantaisie, se trouvent à nouveau au centre des préoccupations de l'écrivaine.» (DS)" .
 
@@ -1871,7 +1871,7 @@ ns1:Book4567690 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Le grand voyage de Monsieur" ;
     ns1:datePublished "2002"^^xsd:gYear ;
-    ns1:publisher "Dominique et compagnie" ;
+    ns1:publisher ns1:Dominique_Et_Compagnie ;
     ns1:review "«Par une écriture dépouillée de tout artifice inutile, en employant les mots justes et sobres, Gilles Tibo a su s'adresser directement à notre cœur.» (DC)" .
 
 # Book 6
@@ -1881,7 +1881,7 @@ ns1:Book5778901 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "La petite fille qui ne souriait plus" ;
     ns1:datePublished "2002"^^xsd:gYear ;
-    ns1:publisher "Soulières éditeur" ;
+    ns1:publisher ns1:Soulières ;
     ns1:collection "Ma petite vache a mal aux pattes" ;
     ns1:review "«Par une écriture dépouillée de tout artifice inutile, en employant les mots justes et sobres, Gilles Tibo a su s'adresser directement à notre cœur.» (DC)" .
 
@@ -1892,7 +1892,7 @@ ns1:Book6789412 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "Drôle de zoo" ;
     ns1:datePublished "2001"^^xsd:gYear ;
-    ns1:publisher "Les 400 coups" ;
+    ns1:publisher ns1:Les_400_Coups ;
     ns1:review "«La démarche d'aller de surprise en surprise, dans les mots, les couleurs, dans le jeu de sens et le passage des pages.» (FS)" .
 
 # Book 8
@@ -1902,7 +1902,7 @@ ns1:Book7810123 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/2002-v25-n2-lurelu1092272/11875ac/" ;
     ns1:name "L'oiseau de passage" ;
     ns1:datePublished "2000"^^xsd:gYear ;
-    ns1:publisher "Dominique et compagnie" ;
+    ns1:publisher ns1:Dominique_Et_Compagnie ;
     ns1:collection "Roman bleu" ;
     ns1:review "«De l'écriture jaillit l'émotion, celle qui s'attarde au fragile, au cri muet.» (GL)" .
 
@@ -1914,7 +1914,7 @@ ns1:Book8901234 a ns1:Book ;
     ns1:traduction "Cécile Gagnon" ;
     ns1:name "Une courtepointe pour grand-maman" ;
     ns1:datePublished "2001"^^xsd:gYear ;
-    ns1:publisher "Scholastic" ;
+    ns1:publisher ns1:Scholastic ;
     ns1:review "«Une histoire empreinte de souvenirs et d'espérance. Une tendre histoire qui tient le cœur bien au chaud.» (CR)" .
 
 # Book 10
@@ -1932,7 +1932,7 @@ ns1:Book0123756 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "Marélie de la mer" ;
     ns1:datePublished "1993"^^xsd:gYear ;
-    ns1:publisher "Éditions Pierre Tisseyre" ;
+    ns1:publisher ns1:Pierre_Tisseyre ;
     ns1:collection "Papillon" ;
     ns1:review "«Il y a fort à parier que ce roman, le premier de Linda Brousseau, ira chatouiller les cœurs de plusieurs petits, mais aussi de moyens et de grands lecteurs.» (YL)" .
 
@@ -1942,7 +1942,7 @@ ns1:Book1234587 a ns1:Book ;
     ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "Petit monstre" ;
-    ns1:publisher "Théâtre Bouches Décousues" ;
+    ns1:publisher ns1:Théâtres_Bouches_Décousues ;
     ns1:review "«Petit monstre m'a totalement séduite par son écriture fine, drôle, touchante, calquée sur une réalité qui dérive dans l'imaginaire.» (AG)" .
 
 # Book 3
@@ -1952,7 +1952,7 @@ ns1:Book2345778 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "Des bleuets dans mes lunettes" ;
     ns1:datePublished "1992"^^xsd:gYear ;
-    ns1:publisher "Éditions du Boréal" ;
+    ns1:publisher ns1:Boréal ;
     ns1:collection "Boréal Junior" ;
     ns1:review "«Ça grouille tellement entre les lignes, ça palpite de tant d'émotions et de sensations, qu'une île tranquille, pleine de bleuets, m'est poussée dans la tête...» (IC)" .
 
@@ -1964,7 +1964,7 @@ ns1:Book3456799 a ns1:Book ;
     ns1:illustrator "Michel Bisson" ;
     ns1:name "Thomas et la nuit" ;
     ns1:datePublished "1992"^^xsd:gYear ;
-    ns1:publisher "Éditions Doutre et Vandal" ;
+    ns1:publisher ns1:Doutre_Et_Vandal ;
     ns1:review "«La douceur des sentiments, le dépassement de soi, la qualité de l'écriture et des illustrator, le style poétique, le sujet et son traitement sortant de l'ordinaire font de cet album, une véritable réussite.» (ÉM)" .
 
 # Book 5
@@ -1974,7 +1974,7 @@ ns1:Book4967890 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "Mademoiselle Lune" ;
     ns1:datePublished "1992"^^xsd:gYear ;
-    ns1:publisher "Éditions Héritage" ;
+    ns1:publisher ns1:Héritage ;
     ns1:review "«Marie-Louise Gay berce l'imaginaire dans une douce folie aux contours affriolants, aux détails exubérants, au texte captivant.» (ST)" .
 
 # Book 6
@@ -1984,7 +1984,7 @@ ns1:Book5678801 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "Le roi de rien" ;
     ns1:datePublished "1988"^^xsd:gYear ;
-    ns1:publisher "La courte échelle" ;
+    ns1:publisher ns1:La_Courte_Échelle ;
     ns1:collection "Roman Jeunesse" ;
     ns1:review "«Raymond plante nous rappelle une vérité vieille comme le monde: chacun renferme un trésor qu'il faut laisser vivre...» (ST)" .
 
@@ -1995,7 +1995,7 @@ ns1:Book6789912 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "L'ombre et le cheval" ;
     ns1:datePublished "1992"^^xsd:gYear ;
-    ns1:publisher "Éditions Paulines" ;
+    ns1:publisher ns1:Paulines ;
     ns1:collection "Jeunesse-Pop" ;
     ns1:review "«Il y a des livres comme ça qui m'ont visitée et que je n'ai jamais pu oublier. J'ai toujours eu envie de les relire, de les savourer encore un peu...» (CL)" .
 
@@ -2007,7 +2007,7 @@ ns1:Book7890120 a ns1:Book ;
     ns1:illustrator "Gilles Tibo" ;
     ns1:name "Pikolo: le secret des garde-robes" ;
     ns1:datePublished "1992"^^xsd:gYear ;
-    ns1:publisher "Annick Press" ;
+    ns1:publisher ns1:Annick ;
     ns1:review "«...j'ai retrouvé la magie des couleurs, du mouvement, de la lumière, l'ingéniosité des formes du papier, la fantaisie des personnages.» (DS)" .
 
 # Book 9
@@ -2017,7 +2017,7 @@ ns1:Book8911234 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1993-v16-n2-lurelu1108745/12301ac/" ;
     ns1:name "La tête de Line Hotte" ;
     ns1:datePublished "1989"^^xsd:gYear ;
-    ns1:publisher "Éditions Québec Amérique Jeunesse" ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:review "«Le quotidien s'envole vers le surnaturel, comme s'il s'oubliait, avec la légèreté d'une plume soulevée par un courant d'air.» (DS)" .
 
 # Book 10
@@ -2028,7 +2028,7 @@ ns1:Book9012315 a ns1:Book ;
     ns1:illustrator "Mireille Levert" ;
     ns1:name "Dormez bien, Mme Ming" ;
     ns1:datePublished "1993"^^xsd:gYear ;
-    ns1:publisher "Annick Press" ;
+    ns1:publisher ns1:Annick ;
     ns1:review "«Les aquarelles d'une délicate perfection font de cette bonne recette littéraire un chef-d'œuvre qui me charme, me ravit.» (YL)" .
 
 # Book 1
@@ -2038,7 +2038,7 @@ ns1:Book0123486 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     ns1:name "Alphonse" ;
     ns1:dateCreated "1994"^^xsd:gYear ;
-    ns1:publisher "L'Arrière-Scène" ;
+    ns1:publisher ns1:Théâtre_De_LArrière_Scène ;
     ns1:review "«...dans un instant magique, mon plaisir d'adulte a rejoint le plaisir de Jérôme, mon fils de huit ans.» (AG)" .
 
 # Book 2
@@ -2048,7 +2048,7 @@ ns1:Book1034567 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     ns1:name "Le bal des ombres" ;
     ns1:datePublished "1994"^^xsd:gYear ;
-    ns1:publisher "Éditions Québec Amérique" ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:collection "Clip" ;
     ns1:review "«Un petit recueil où la fantaisie, le merveilleux et le fantastique font bon ménage, s'envolant loin au-dessus du sordide et du convenu.» (DS)" .
 
@@ -2059,7 +2059,7 @@ ns1:Book2345678 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     ns1:name "Berthold & Lucrèce" ;
     ns1:datePublished "1994"^^xsd:gYear ;
-    ns1:publisher "Éditions Québec Amérique" ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:collection "Bilbo" ;
     ns1:review "«J'ai ouvert le livre, et la magie a débordé dans toute la chambre.» (IC)" .
 
@@ -2070,7 +2070,7 @@ ns1:Book3476789 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     ns1:name "Le trésor de Brion" ;
     ns1:datePublished "1995"^^xsd:gYear ;
-    ns1:publisher "Éditions Québec Amérique" ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:collection "Titan" ;
     ns1:review "«Quand, pour la première fois, j'ai pris Le trésor de Brion entre mes mains, j'ai su que ce roman m'emmènerait loin.» (ST)" .
 
@@ -2082,7 +2082,7 @@ ns1:Book4567190 a ns1:Book ;
     ns1:illustrator "Pierre Pratt" ;
     ns1:name "Mon chien est un éléphant" ;
     ns1:datePublished "1994"^^xsd:gYear ;
-    ns1:publisher "Annick Press" ;
+    ns1:publisher ns1:Annick ;
     ns1:review "«... j'ai un faible pour les livres originaux, de préférence ceux qui dérangent, parce que j'apprécie les créateurs qui osent aller loin dans l'imaginaire.» (ST)" .
 
 # Book 6
@@ -2092,7 +2092,7 @@ ns1:Book5678901 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     ns1:name "Lurelu" ;
     ns1:dateFounded "1978"^^xsd:gYear ;
-    ns1:publisher "Lurelu" ;
+    ns1:publisher ns1:Lurelu ;
     ns1:review "«Cette année, c'est pour Lurelu que mon cœur s'est emballé. Parmi les 205 revues de tous les coins du monde, Lurelu sortait des rangs, s'illustrant par sa couverture, sa mise en page et l'intérêt de son contenu.» (YL, à sa dernière collaboration)" .
 
 # Book 7
@@ -2100,7 +2100,7 @@ ns1:Book0789012 a ns1:Book ;
     ns1:name "Collection de mini-romans «Carrousel»" ;
     ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
-    ns1:publisher "Éditions Héritage" ;
+    ns1:publisher ns1:Héritage ;
     ns1:review "«On a visiblement choisi de privilégier un contenu à haute teneur fantaisiste, avec bribes de tendresse et grains d'humour.» (IC)" .
 
 # Book 8
@@ -2108,7 +2108,7 @@ ns1:Book7891123 a ns1:Book ;
     ns1:name "Collection d'albums «Grimace»" ;
     ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
-    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:publisher ns1:Les_400_Coups ;
     ns1:review "«C'est ce qui fait grimacer qui constitue la réussite du plat et le ravissement des jeunes connaisseurs !» (IC)" .
 
 # Book 9
@@ -2116,7 +2116,7 @@ ns1:Book8904234 a ns1:Book ;
     ns1:name "Collection de biographies «Les grandes figures»" ;
     ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
-    ns1:publisher "XYZ Éditeur" ;
+    ns1:publisher ns1:XYZ_Éditeur ;
     ns1:review "«Voilà des ouvrages sérieux, captivants, bien écrits, et ce par des gens compétents.» (SD)" .
 
 # Book 10
@@ -2124,7 +2124,7 @@ ns1:Book9012395 a ns1:Book ;
     ns1:name "Les Coups de théâtre" ;
     ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
-    ns1:publisher "Rendez-vous international de théâtre jeune public" ;
+    ns1:publisher ns1:Rendez_Vous ;
     ns1:review "«Les Coups de Théatre sont une occasion exceptionnelle de partager de rares moments d'émotions et d'intelligence avec ses enfants.» (AG)" .
 
 # Book 11
@@ -2135,7 +2135,7 @@ ns1:Book9123456 a ns1:Book ;
     ns1:illustrator "Doris Barrette" ;
     ns1:name "Montréal d'est en ouest" ;
     ns1:datePublished "1996"^^xsd:gYear ;
-    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:publisher ns1:Les_400_Coups ;
     ns1:review "«Prendre le temps de découvrir la petite histoire de certains quartiers avec les jeunes, voilà ce que nous offre Montréal d'est en ouest.» (DC)" .
 
 # Book 12
@@ -2145,7 +2145,7 @@ ns1:Book0234567 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
     ns1:name "Simon et la musique" ;
     ns1:datePublished "1995"^^xsd:gYear ;
-    ns1:publisher "Livres Toundra" ;
+    ns1:publisher ns1:Livres_Toundra ;
     ns1:review "«...il y a cette présence de la lumière ou de la brume dans une ambiance souvent crépusculaire...» (DS)" .
 
 # Book 13
@@ -2154,7 +2154,7 @@ ns1:Book2348678 a ns1:Book ;
     ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1996-v19-n2-lurelu1106084/13347ac/" ;
     ns1:name "La Bibliothèque des enfants" ;
-    ns1:publisher "Éditions Québec Amérique" ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:collection "Exploration" ;
     ns1:review "«...il y a à travers les mots et le ton de ces livres une qualité indiscutable, indubitable, et c'est l'amour des enfants.» (ST)" .
 
@@ -2165,7 +2165,7 @@ ns1:Book0123496 a ns1:Book ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1997-v20-n2-lurelu1107373/13281ac/" ;
     ns1:name "Le Bain" ;
     ns1:dateCreated "1997"^^xsd:gYear ;
-    ns1:publisher "Théâtre Bouches Décousues" ;
+    ns1:publisher ns1:Théâtres_Bouches_Décousues ;
     ns1:representationVenue "Maison Théâtre" ;
     ns1:review "«Un théâtre poétique qui emprunte les dérives de l'imaginaire pour attendre une meilleure compréhension du monde et de l'autre.» (AG)" .
 
@@ -2177,7 +2177,7 @@ ns1:Book1234567 a ns1:Book ;
     ns1:illustrator "Stéphane Poulin" ;
     ns1:name "Poil de serpent, dent d'araignée" ;
     ns1:datePublished "1996"^^xsd:gYear ;
-    ns1:publisher "Éditions Les 400 coups" ;
+    ns1:publisher ns1:Les_400_Coups ;
     ns1:collection "Billochet" ;
     ns1:review "«La force incroyable de cet album réside d'abord dans le talent de maître de Stéphane Poulin...» (IC) «Il y a là de quoi former un jeune esprit à la magie de l'image et du conte, celle du mot et du récit...» (DS)" .
 
@@ -2186,7 +2186,7 @@ ns1:Book2395678 a ns1:Book ;
     ns1:name "Collection de mini-romans «Ma petite vache a mal aux pattes»" ;
     ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1997-v20-n2-lurelu1107373/13281ac/" ;
-    ns1:publisher "Soulières Éditeur" ;
+    ns1:publisher "ns1:Soulières ;
     ns1:review "«...à prendre comme une brise rafraîchissante dans un milieu littéraire où le réalisme terre à terre exhale trop souvent des relents fétides.» (SD)" .
 
 # Book 4
@@ -2196,7 +2196,7 @@ ns1:Book1456789 a ns1:Book ;
     ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1997-v20-n2-lurelu1107373/13281ac/" ;
     ns1:datePublished "1997"^^xsd:gYear ;
-    ns1:publisher "Soulières Éditeur" ;
+    ns1:publisher ns1:Soulières ;
     ns1:collection "Ma petite vache a mal aux pattes" ;
     ns1:review "«...je ne savais pas vraiment où l'author voulait en venir avec cette histoire abracadabrante de petite fille ayant perdu sa corde à danser...» (DC)" .
 
@@ -2207,6 +2207,6 @@ ns1:Book4567800 a ns1:Book ;
     ns1:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
     ns1:eruditLink "https://www.erudit.org/fr/revues/lurelu/1997-v20-n2-lurelu1107373/13281ac/" ;
     ns1:datePublished "1997"^^xsd:gYear ;
-    ns1:publisher "Éditions Québec Amérique" ;
+    ns1:publisher ns1:Québec_Amérique ;
     ns1:collection "Titan" ;
     ns1:review "«...celle qui témoigne qu'aller au-delà de soi-même et ne jamais abdiquer ses rêves est la seule condition de survie.» (ST)" .
