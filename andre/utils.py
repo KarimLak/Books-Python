@@ -44,6 +44,15 @@ def extract_data_bnf(graph, book):
     isbn = str(graph.value(book, ns1.isbn))
     return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int, url=url, publication_date=publication_date, publisher=publisher, isbn=isbn)
 
+def extract_data_lurelu(graph, book):
+    book_name = str(graph.value(book, ns1.name))
+    book_author = str(graph.value(book, ns1.author))
+    url = str(graph.value(book, ns1.lureluLink))
+    publication_date = str(graph.value(book, ns1.datePublished))
+    publisher = str(graph.value(book, ns1.publisher))
+    isbn = str(graph.value(book, ns1.isbn)) if graph.value(book, ns1.isbn) else ""
+    return RdfBookData(book_name=book_name, book_author=book_author, url=url,
+                       publication_date=publication_date, publisher=publisher, isbn=isbn, age_range_int=None)
 def remove_spaces(book_data: RdfBookData):
     book_data.book_name = book_data.book_name.replace(" ", "")
     book_data.book_author = book_data.book_author.replace(" ", "")
