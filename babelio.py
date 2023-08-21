@@ -14,7 +14,7 @@ from googleapiclient.discovery import build
 cx = "14146c5573d2149dd"
 
 # Your Google API key
-api_key = "AIzaSyAypwJ-mHJEogVVQbEX59qfuTJ_r4QyG34"
+api_key = "AIzaSyAn6OQgvXAsJEPiJ_QosPITVr_m2BkQD5c"
 
 # Build a service object for interacting with the API
 service = build("customsearch", "v1", developerKey=api_key)
@@ -36,21 +36,29 @@ pbs = Namespace("http://example.org/pbs/")
 
 # Load your existing RDF data
 g = Graph()
-g.parse("books.ttl", format="turtle")
+g.parse("output_books_6.ttl", format="turtle")
 
 # Create a new Edge session
 driver = webdriver.Edge()
 
-review_counter = 0
-rating_counter = 0  # Initialize the rating_counter variable
-review_counter = 0  # Counter for unique URI
-citation_counter = 0
+rating_counter = 5000  # Initialize the rating_counter variable
+review_counter = 8883  # Counter for unique URI
+citation_counter = 8738
 
 log_file = open('log.txt', 'a')
 
+# Iterate over each book
+start_processing = False  # Set initial flag
 
 # Iterate over each book
 for book in g.subjects(RDF.type, ns1.Book):
+    # If the book being processed matches the desired book, start processing
+    if str(book) == "http://schema.org/Book9b501837-eb60-49c2-8a81-3fe16cdb1bb1":
+        start_processing = True
+
+    # If we haven't encountered the desired book yet, skip this iteration
+    if not start_processing:
+        continue
     try:
         # Get the book name
         book_name = g.value(book, ns1.name)
@@ -62,7 +70,14 @@ for book in g.subjects(RDF.type, ns1.Book):
         query = str(book_name) + " " + str(author_name) + " site:babelio.com"
 
         # Navigate to Google
-        res = service.cse().list(q=query, cx=cx).execute()
+        try: # Nested try-except for handling customsearch error
+            res = service.cse().list(q=query, cx=cx).execute()
+        except Exception as inner_e:
+            if "Unable to find the server at customsearch.googleapis.com" in str(inner_e):
+                input("An error occurred connecting to customsearch.googleapis.com. Press Enter to continue...")
+            else:
+                raise inner_e # Raise the exception to be caught by the outer try-except block
+            
         # Click on the first link
         if 'items' in res:
             first_link = res['items'][0]['link']
@@ -226,13 +241,21 @@ for book in g.subjects(RDF.type, ns1.Book):
             except Exception as e:
                 # Handle exceptions here if necessary
                 pass
-
-        # Save the updated RDF data incrementally
-        g.serialize(destination='output_books.ttl', format='turtle')
+        
+        ean_elem = soup.find(text=lambda s: "EAN :" in s)
+        if ean_elem:
+            ean_value = ean_elem.split(":")[1].strip().split('<br')[0].strip()
+        else:
+            ean_value = None
+            log_file.write(f"Failed to extract EAN for the book: {book}\n")
+        
+        if ean_value:
+            g.add((book, ns1.ean, Literal(ean_value)))
 
     except Exception as e:
         print(f"An error occurred while processing the book {book_name} (URI: {book}): {str(e)}")
 
+g.serialize(destination='output_books_7.ttl', format='turtle')
 # End the Selenium browser session
 driver.quit()
 
