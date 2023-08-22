@@ -12,8 +12,16 @@ import time
 formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
 
 N_JOBS = 12
-SIMILARITY_RATIO = 0.9
+SIMILARITY_RATIO = 0.95
 
+# before running:
+## remove old data from directory so it's not overwritten
+## verifiy ratio
+## verifiy n_jobs (12 because 6 cores with hyperthread)
+## verify source rdf (ctrl f : "parse")
+## verify key used (ctrlf: name_author_
+## verify logfile names: time_logger and stats_logger
+## verify output_csv name
 
 def setup_logger(name, log_file, level=logging.INFO):
     """To setup as many loggers as you want"""
@@ -162,7 +170,7 @@ class InterDBStats:
                                                          url_lurelu=book_alignment.url_lurelu,
                                                          similarity_ratio_lurelu=max_ratio,
                                                          key_used_to_align_lurelu=book_key)
-                self.increment_alignment_number()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
+                self.increment_alignment_number_lurelu()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
                 print("align approximate")
 
             else:
@@ -192,9 +200,7 @@ class InterDBStats:
             else:
                 self.increment_collision_number_isbn()  # increase if bnf data already present: doublon inside bnf
                 return True  # if collision -> already aligned
-        else:
-            self.all_book_alignments[
-                book_key] = book_alignment  # bnf data gets into the dict with its own key without alignment
+        else: # if not aligned with isbn, return without registering key in dict so it can be aligned with exact
             return False
 
     # Returns True if alignment in this call or already done (collision)
@@ -228,9 +234,7 @@ class InterDBStats:
             else:
                 self.increment_collision_number_exact_key_lurelu()
                 return True  # if collision -> already aligned
-        else:
-            self.all_book_alignments[
-                book_key_to_match] = book_alignment  # bnf data gets into the dict without alignment
+        else: # if not aligned with exact, return without registering key in dict so it can be aligned with approx
             return False
 
     def is_isbn_in_alignments_bnf(self, target_isbn) -> bool:
