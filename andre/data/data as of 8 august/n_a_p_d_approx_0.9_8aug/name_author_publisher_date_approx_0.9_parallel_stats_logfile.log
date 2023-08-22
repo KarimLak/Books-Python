@@ -1,0 +1,21 @@
+2023-08-13 17:31:40,602 INFO ------------------------------------
+2023-08-13 17:31:40,602 INFO key type name_author_publisher_date
+2023-08-13 17:31:40,602 INFO number of alignments 1887
+2023-08-13 17:31:40,602 INFO total number of books 41651
+2023-08-13 17:31:40,602 INFO total number of books bnf 30384
+2023-08-13 17:31:40,602 INFO total number of books constellation 11267
+2023-08-13 17:31:40,602 INFO total number of collisions 2129
+2023-08-13 17:31:40,602 INFO -----
+2023-08-13 17:34:54,426 INFO total alignment P 1887
+2023-08-13 17:34:54,438 INFO total non-alignment N 35745
+2023-08-13 17:34:54,438 INFO lines without url 0
+2023-08-13 17:34:54,438 INFO alignment & isbn matches TP 1366
+2023-08-13 17:34:54,438 INFO alignment & NOT isbn matches FP 519
+2023-08-13 17:34:54,438 INFO NON alignment & NON isbn present TN 34260
+2023-08-13 17:34:54,438 INFO NON alignment & isbn present FN 1228
+2023-08-13 17:34:54,438 INFO missing isbn bnf for positives 2
+2023-08-13 17:34:54,438 INFO missing isbn constellation for positives 0
+2023-08-13 17:34:54,438 INFO missing isbn bnf for negatives 257
+2023-08-13 17:34:54,438 INFO missing isbn constellation for negatives 0
+2023-08-13 17:34:54,438 INFO proportion of correct isbn matches over total number of alignment 0.7239003671229446
+2023-08-13 17:34:54,438 INFO proportion of incorrect isbn matches over total number of alignment 0.2750397441704306

@@ -1,0 +1,36 @@
+2023-08-15 00:22:22,275 INFO ------------------------------------
+2023-08-15 00:22:22,276 INFO key type name_author_publisher_date
+2023-08-15 00:22:22,276 INFO number of alignments bnf 2121
+2023-08-15 00:22:22,276 INFO number of alignments lurelu 71
+2023-08-15 00:22:22,276 INFO total number of books 41651
+2023-08-15 00:22:22,276 INFO total number of books bnf 30384
+2023-08-15 00:22:22,276 INFO total number of books constellation 11267
+2023-08-15 00:22:22,276 INFO total number of books lurelu 208
+2023-08-15 00:22:22,276 INFO total number of collisions isbn 11
+2023-08-15 00:22:22,277 INFO total number of collisions exact key bnf 28252
+2023-08-15 00:22:22,277 INFO total number of collisions exact key lurelu 0
+2023-08-15 00:22:22,277 INFO total number of collisions approximate key lurelu 4
+2023-08-15 00:22:22,277 INFO ----- validation set
+2023-08-15 00:29:24,647 INFO total alignment P 2120
+2023-08-15 00:29:24,647 INFO total non-alignment N 37263
+2023-08-15 00:29:24,647 INFO lines without url 0
+2023-08-15 00:29:24,647 INFO alignment & isbn matches TP 2120
+2023-08-15 00:29:24,647 INFO alignment & NOT isbn matches FP 0
+2023-08-15 00:29:24,647 INFO NON alignment & NON isbn present TN 36989
+2023-08-15 00:29:24,647 INFO NON alignment & isbn present FN 0
+2023-08-15 00:29:24,647 INFO missing isbn bnf for positives 0
+2023-08-15 00:29:24,647 INFO missing isbn constellation for positives 0
+2023-08-15 00:29:24,647 INFO missing isbn bnf for negatives 274
+2023-08-15 00:29:24,647 INFO missing isbn constellation for negatives 0
+2023-08-15 00:29:24,647 INFO ----- test set
+2023-08-15 00:36:48,696 INFO total alignment P 71
+2023-08-15 00:36:48,696 INFO total non-alignment N 39445
+2023-08-15 00:36:48,696 INFO lines without url 0
+2023-08-15 00:36:48,696 INFO alignment & isbn matches TP 65
+2023-08-15 00:36:48,696 INFO alignment & NOT isbn matches FP 6
+2023-08-15 00:36:48,696 INFO NON alignment & NON isbn present TN 38984
+2023-08-15 00:36:48,696 INFO NON alignment & isbn present FN 105
+2023-08-15 00:36:48,696 INFO missing isbn bnf or constellation for positives 0
+2023-08-15 00:36:48,696 INFO missing isbn lurelu for positives 0
+2023-08-15 00:36:48,696 INFO missing isbn bnf or constellation for negatives 274
+2023-08-15 00:36:48,697 INFO missing isbn lurelu for negatives 82
