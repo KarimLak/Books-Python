@@ -5004,3 +5004,282 @@ Failed to extract EAN for the book: http://schema.org/Booke7ae7c0c-ecaa-4a1a-a24
 Failed to find the search result link for the book: http://schema.org/Booke7edd534-d55a-44ba-b793-4312ffe6ed5b
 Failed to extract EAN for the book: http://schema.org/Booke812f74c-25aa-46d6-843c-59626f3b696e
 Failed to extract EAN for the book: http://schema.org/Booke8edc2c7-824b-4b3f-a89e-9fcecdc4bd0e
+Failed to find the search result link for the book: http://schema.org/Booke9707a64-cc26-448e-8eb5-c2d1c1b2b648
+Failed to extract EAN for the book: http://schema.org/Booke97575d1-183d-4053-9ecb-57194cf9ca4b
+Failed to extract all review attributes for book: http://schema.org/Bookea42bd22-e285-44b8-b5e6-3472f2d455e1
+Failed to extract EAN for the book: http://schema.org/Bookea5d58ee-6f82-46e9-9ad6-23b9f9610706
+Failed to extract all review attributes for book: http://schema.org/Bookeac5a7e-8f52-47d9-99e4-103c2f6d3f34305
+Failed to find the search result link for the book: http://schema.org/Bookeae9c635-1795-4d4a-9a3c-2c23db0e6349
+Failed to find the search result link for the book: http://schema.org/Bookeaeb5207-7611-4f66-81d4-ca10baef5176
+Failed to extract EAN for the book: http://schema.org/Bookeb687b88-5532-49a0-a12e-ec58779a54b4
+Failed to find the search result link for the book: http://schema.org/Bookeb917eaf-c073-41e4-b278-74306d9d9e29
+Failed to extract EAN for the book: http://schema.org/Bookebbfd4fa-4754-4aa0-8084-d7dcd19a6f2e
+Failed to extract EAN for the book: http://schema.org/Bookebf5b62e-5e2a-4794-b6f8-beca5de1efbd
+Failed to find the search result link for the book: http://schema.org/Bookec0722aa-a1a1-457c-a7be-938bc7a7bd59
+Failed to extract EAN for the book: http://schema.org/Bookec118e69-7e99-4a9d-97e1-9fd07d318bf2
+Failed to extract all review attributes for book: http://schema.org/Bookec3bdb7c-7f61-4d80-b150-d90c76a8abd5
+Failed to extract all review attributes for book: http://schema.org/Bookec625bbe-9443-4d6a-8d3d-e63558d79479
+Failed to extract EAN for the book: http://schema.org/Bookec9c041c-a261-40d6-ad7e-282ea5d61f85
+Failed to extract EAN for the book: http://schema.org/Bookeca65084-0c8e-4fc4-9044-ba8b4eaf4087
+Failed to find the search result link for the book: http://schema.org/Bookecb2c88c-b731-4cbf-aa29-6f76c9f3e820
+Failed to find the search result link for the book: http://schema.org/Booked1d7cf2-793f-4d9e-8671-c9bea7cc226b
+Failed to find the search result link for the book: http://schema.org/Booked5e2d44-e574-486b-9e32-bb0a6c0b6843
+Failed to find the search result link for the book: http://schema.org/Booked7801b25-682b-4b36-9f97-38acfb3be3d4
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4330-a445-9ca6b61df9d1
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df997
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d12
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d15
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d17
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d18
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d18
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d19
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d28
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d3
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d30
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d34
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d34
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d34
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d34
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d34
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d35
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d36
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d36
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99d8
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99f
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99i
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99j
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99n
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99o
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99p
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99y
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df99z
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9a0
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9a8
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9a9
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9ac
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9b1
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9b1
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9b1
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9b3
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9b3
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9b9
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d106
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d11
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d112
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d114
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d116
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d119
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d126
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d134
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d135
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d136
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d137
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d138
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d141
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d145
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d15
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1511
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1512
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d154
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1543
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1545
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1547
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1555
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1556
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1557
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1558
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1561
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1563
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1564
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1566
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1575
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1580
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1581
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1582
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1585
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1586
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1587
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1588
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1589
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1592
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1595
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1597
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1598
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1599
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1613
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1637
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1639
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1641
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1644
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1645
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1645
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1645
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1648
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1649
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1654
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1655
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1657
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1658
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1659
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d1661
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d167
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d169
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d20
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d21
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d22
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d25
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d37
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d38
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d40
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d51
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d55
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d55
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d57
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d71
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d78
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d79
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d85
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d89
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d92
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61df9d97
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61dfi9b
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61di990
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b61if992
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b6kdf9d2
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b6kdf9d2
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6b6kdf9d2
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6bi1df994
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6by1df9d1
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6i61df99e
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6j61df9d104
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca6j61df9d104
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9ca8b61df99d
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-a445-9cazb61df9d134
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9za6b61df9d1
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-a445-9za6b61df9d1
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-b445-9ca6b61df9d101
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-b4i5-9ca6b61df9d100
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-c445-9ca6b61df9d6
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-d445-9ca6b61df9d100
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-d445-9ca6b61df9d3
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-d445-9ca6b61df9d6
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-d445-9ca6b61df9d6
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-e445-9ca6b61df9d3
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-e445-9ca6b61df9d3
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-f445-9ca6bi1df9d7
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-g445-9ca6b61df9d3
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-g445-9ca6b61df9d4
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-h445-9ca6b61df9d3
+Failed to find the search result link for the book: http://schema.org/Booked7a4921-0d39-4370-h445-9ca6b61df9d6
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4370-i445-9ca6b61df9d3
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-i445-9ca6b61df9d3
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0d39-4370-i445-9ca6b61df9d4
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0d39-4372-a445-9ca6b61df99c
+Failed to extract all review attributes for book: http://schema.org/Booked7a4921-0f39-4370-a445-9ca6b61df9d2
+Failed to extract EAN for the book: http://schema.org/Booked7a4921-0f39-4370-a445-9ca6b61df9d2
+Failed to extract all review attributes for book: http://schema.org/Booked7a4922-0d39-4370-a445-9ca6b61df9d2
+Failed to find the search result link for the book: http://schema.org/Booked7b439c-4281-4a97-8945-b0a4ab6a95c4
+Failed to extract all review attributes for book: http://schema.org/Booked876897-249d-4d85-8a46-1600ae792b6d
+Failed to extract EAN for the book: http://schema.org/Booked973939-6597-49e5-8085-d24ddfe07261
+Failed to find the search result link for the book: http://schema.org/Bookedf1efd5-5145-4bcc-b2ff-971a5323155b
+Failed to extract EAN for the book: http://schema.org/Bookeea6f803-7431-4935-86c6-4becaee7f5c1
+Failed to extract EAN for the book: http://schema.org/Bookeef2bbd9-1da1-4eca-a2d8-32dd8a1b8c16
+Failed to find the search result link for the book: http://schema.org/Bookef04c261-ca24-47a5-871a-965d1096a95f
+Failed to extract EAN for the book: http://schema.org/Bookef3838f3-6705-4dff-bd04-3cec88eb9f7c
+Failed to find the search result link for the book: http://schema.org/Bookef7707c0-5518-4801-be35-54359f06c391
+Failed to find the search result link for the book: http://schema.org/Bookef8ead15-a740-4bad-9fc1-3c9f6fcd71e8
+Failed to find the search result link for the book: http://schema.org/Bookefe6eaaf-9cf3-4ae1-9ca3-7e9f56c83f67
+Failed to extract EAN for the book: http://schema.org/Bookf020f280-2506-4997-a0fb-33f066dfa7b4
+Failed to extract all review attributes for book: http://schema.org/Bookf0981201-36e6-429b-8c8c-79918413d5a8
+Failed to extract EAN for the book: http://schema.org/Bookf0aa9c75-16c3-4eb7-92e6-7aa2de9330b6
+Failed to extract all review attributes for book: http://schema.org/Bookf12bf527-acd2-4161-b930-a4269cdece6c
+Failed to extract all review attributes for book: http://schema.org/Bookf12bf527-acd2-4161-b930-a4269cdece6c
+Failed to extract all review attributes for book: http://schema.org/Bookf12bf527-acd2-4161-b930-a4269cdece6c
+Failed to extract EAN for the book: http://schema.org/Bookf1371e77-5e7d-4f12-96e6-d7e1af3467aa
+Failed to extract EAN for the book: http://schema.org/Bookf1518c11-4be7-43d4-a899-cdf01406d54e
+Failed to extract all review attributes for book: http://schema.org/Bookf176cd56-c77c-43c6-a506-5d3a3d090844
+Failed to find the search result link for the book: http://schema.org/Bookf1dc6a01-497b-429b-bf93-5a0d91f8db38
+Failed to find the search result link for the book: http://schema.org/Bookf1e0125e-7e47-4da4-9048-005ea6473745
+Failed to find the search result link for the book: http://schema.org/Bookf2167afc-e1f9-4ad8-a1e8-4b3dfab2b4d0
+Failed to find the search result link for the book: http://schema.org/Bookf27164ad-4e67-4c5e-bd8d-fc6448a05b31
+Failed to extract EAN for the book: http://schema.org/Bookf2990322-cd58-4707-ac75-5aa79a94de92
+Failed to find the search result link for the book: http://schema.org/Bookf2a99c87-8209-443a-be72-4d6a4b0f550c
+Failed to extract all review attributes for book: http://schema.org/Bookf2be37b1-f398-44f7-a863-b833ae8171a9
+Failed to extract EAN for the book: http://schema.org/Bookf2cde1bb-9cf8-4a24-b197-5d4d4fb37c3d
+Failed to extract all review attributes for book: http://schema.org/Bookf3031138-bbe4-40be-9690-4ad023beac2f
+Failed to extract EAN for the book: http://schema.org/Bookf3afcf28-43b8-49c3-8711-f3597d4de71a
+Failed to extract EAN for the book: http://schema.org/Bookf3c1f975-c7ee-4bd2-bcb6-7723e9ca27be
+Failed to extract EAN for the book: http://schema.org/Bookf3c4cc3e-eff7-4e26-ad1c-f9b22ec4965f
+Failed to extract EAN for the book: http://schema.org/Bookf3ddd5ee-0366-4677-94b2-7fa4c5d0a92e
+Failed to extract EAN for the book: http://schema.org/Bookf3e616a-f865-4c7c-a529-684092b5f50c
+Failed to extract EAN for the book: http://schema.org/Bookf3fb1e4f-7a93-41b9-ad58-02f83e55ec99
+Failed to find the search result link for the book: http://schema.org/Bookf45760a7-2139-4da6-9817-7757eee8f787
+Failed to extract EAN for the book: http://schema.org/Bookf459b61b-fec9-4220-938b-fd0e1bf9df5e
+Failed to extract EAN for the book: http://schema.org/Bookf46a27e7-5612-436f-96a4-16dd031f5c5a
+Failed to find the search result link for the book: http://schema.org/Bookf470a33c-6a3e-4e5b-91c7-d0ff8419446a
+Failed to extract all review attributes for book: http://schema.org/Bookf495f6e1-c73d-4ba5-ac93-4d7b1a6823db
+Failed to extract EAN for the book: http://schema.org/Bookf53e6cc5-fda0-49dc-89fd-ac7a75428170
+Failed to extract all review attributes for book: http://schema.org/Bookf5861c4-956e-4453-8796-1063dd36b42c326
+Failed to find the search result link for the book: http://schema.org/Bookf6445888-9321-4b71-a170-614a1405a2f5
+Failed to extract EAN for the book: http://schema.org/Bookf694d5eb-ec5c-4011-a8ea-62fed2e886d9
+Failed to extract EAN for the book: http://schema.org/Bookf6ccc271-d859-44f1-b2fc-605874fbf972
+Failed to find the search result link for the book: http://schema.org/Bookf6e36e50-696f-4d73-9d3c-7549ff5a0862
+Failed to find the search result link for the book: http://schema.org/Bookf6e69a48-ec19-4909-9365-6c2341290bd5
+Failed to extract all review attributes for book: http://schema.org/Bookf6e6e66a-6f0f-4ee9-9a6a-68c95d54d4c1
+Failed to extract EAN for the book: http://schema.org/Bookf72a3543-019c-427c-918d-36ac521edd40
+Failed to extract EAN for the book: http://schema.org/Bookf73e95ae-9f69-49ed-95f6-b77ec8243476
+Failed to extract EAN for the book: http://schema.org/Bookf74328f0-fa80-4ba3-bfdf-9a1905e3dff9
+Failed to find the search result link for the book: http://schema.org/Bookf7d18752-cfbb-4a63-bb47-45baeb708a42
+Failed to extract EAN for the book: http://schema.org/Bookf7d199cd-c2b1-4137-9ae8-872d8d7929e3
+Failed to extract EAN for the book: http://schema.org/Bookf7eac893-dabd-4cc7-8041-ca6840a6a274
+Failed to extract all review attributes for book: http://schema.org/Bookf7ef651-d7d3-4d59-af4a-819032f5e9bc64
+Failed to extract all review attributes for book: http://schema.org/Bookf84b8b3e-9f8a-41eb-93b6-8b71c3badca3
+Failed to extract all review attributes for book: http://schema.org/Bookf897523e-1c9c-4e0d-a1e5-8a813c8f13c8
+Failed to find the search result link for the book: http://schema.org/Bookf8a64583-075e-4832-bf1b-c161763aa9d3
+Failed to extract all review attributes for book: http://schema.org/Bookf8f1f0e2-69c2-4877-a9b6-94704d5f6e32
+Failed to find the search result link for the book: http://schema.org/Bookf8fdc585-1739-493e-8ff2-5ac9b88d663e
+Failed to extract EAN for the book: http://schema.org/Bookf8ffcea8-92be-4ffd-97ca-7c326b9f0c03
+Failed to extract EAN for the book: http://schema.org/Bookf92a5b73-e65e-486a-80b0-db6d41a4eb1e
+Failed to find the search result link for the book: http://schema.org/Bookf95c9475-0138-4ac4-b3c6-27c07f88a31c
+Failed to find the search result link for the book: http://schema.org/Bookf98487ff-a2ae-4bae-b81e-0bcc6cd4aea8
+Failed to extract all review attributes for book: http://schema.org/Bookf9d1526-90d9-417f-a98e-292af456c33d
+Failed to extract all review attributes for book: http://schema.org/Bookf9e457a2-57d9-4e0c-a6d3-fa15732a0f12
+Failed to extract all review attributes for book: http://schema.org/Bookf9e457a2-57d9-4e0c-a6d3-fa15732a0f12
+Failed to extract all review attributes for book: http://schema.org/Bookfa12013f-8527-457a-86b1-050ec775a096
+Failed to extract EAN for the book: http://schema.org/Bookfa193b9c-ed81-40ca-9a46-60e2eaea20a4
+Failed to find the search result link for the book: http://schema.org/Bookfa5b72ce-91e2-43ef-a4df-78fe9cbf63b1
+Failed to extract all review attributes for book: http://schema.org/Bookfa6e42d5-7e7f-4f7c-ac49-d8dfb41b3375
+Failed to extract all review attributes for book: http://schema.org/Bookfa825dc5-a3cd-4d6d-84a1-cb48416c1a3e
+Failed to find the search result link for the book: http://schema.org/Bookfaa5b66c-ab2a-4d6e-b8b6-49d3ea30d75d
+Failed to find the search result link for the book: http://schema.org/Bookfaeade38-308b-440a-90ea-80d8521b0d49
+Failed to extract all review attributes for book: http://schema.org/Bookfb04d446-6872-4c78-83e1-5aee62d46004
+Failed to find the search result link for the book: http://schema.org/Bookfb050363-a519-4980-b20b-2920a10b5de2
+Failed to extract all review attributes for book: http://schema.org/Bookfb059aad-d0c2-4038-8249-b64c707de971
+Failed to extract EAN for the book: http://schema.org/Bookfb1b4ab4-1405-4ce0-ae26-9e67eada4497
+Failed to extract all review attributes for book: http://schema.org/Bookfb5c7181-6ac7-4527-9278-d587e878aa4f
+Failed to extract all review attributes for book: http://schema.org/Bookfb5c7181-6ac7-4527-9278-d587e878aa4f
+Failed to extract EAN for the book: http://schema.org/Bookfb7397e2-e1dc-4128-8eea-b0645c9ecd6e
+Failed to extract EAN for the book: http://schema.org/Bookfb7ddeb9-f523-48d7-986a-76fd063fa686
+Failed to extract all review attributes for book: http://schema.org/Bookfb996f3-cf78-4b8e-bc6e-d76b28ee963b57
+Failed to extract all review attributes for book: http://schema.org/Bookfbadc949-bff3-434e-b1ac-28242c70f2e2
+Failed to extract all review attributes for book: http://schema.org/Bookfbed1e77-84ff-46bc-a832-6814a5b34b78
+Failed to extract all review attributes for book: http://schema.org/Bookfbed1e77-84ff-46bc-a832-6814a5b34b78
+Failed to extract all review attributes for book: http://schema.org/Bookfbed1e77-84ff-46bc-a832-6814a5b34b78
+Failed to find the search result link for the book: http://schema.org/Bookfc44137d-2668-4a71-b00e-9b8d829b864a
+Failed to extract EAN for the book: http://schema.org/Bookfc779cec-2976-48dd-a9dc-479fef3654c2
+Failed to extract all review attributes for book: http://schema.org/Bookfc779cec-2976-48dd-a9dc-479fef3654c3
+Failed to find the search result link for the book: http://schema.org/Bookfceebb16-9c9e-438d-aa3b-8e071fecb094
+Failed to find the search result link for the book: http://schema.org/Bookfd321ed9-43c6-4a52-9bc2-945da78a7329
+Failed to find the search result link for the book: http://schema.org/Bookfddcb804-9a12-444d-adf2-0cb3a4a6e1e5
+Failed to extract all review attributes for book: http://schema.org/Bookfe016209-e66b-4f2c-b682-f5fb8a3ecb60
+Failed to extract EAN for the book: http://schema.org/Bookfe18f667-7a30-46a1-82d6-212b98a3fe2e
+Failed to find the search result link for the book: http://schema.org/Bookfe3d38ee-a7ce-432b-9c1d-56d6514acc32
+Failed to find the search result link for the book: http://schema.org/Bookfe49e724-753c-4c33-87b1-4fba58681042
+Failed to find the search result link for the book: http://schema.org/Bookfe53e818-3c78-422d-adb3-2f3e6482aae8
+Failed to find the search result link for the book: http://schema.org/Bookff09facd-ade9-420f-bebe-179c45227aab
+Failed to extract all review attributes for book: http://schema.org/Bookff5d9f8b-4a08-4e83-982f-842d0a32a724
+Failed to extract all review attributes for book: http://schema.org/Bookff96d754-84d5-4bb7-940d-13d361df0aae
+Failed to find the search result link for the book: http://schema.org/Bookffb19169-4f0c-4d7c-a9a0-86ff4390c482
+Failed to find the search result link for the book: http://schema.org/Bookffc3d94a-90ef-4737-bf20-d336c118fd41
+Failed to extract EAN for the book: http://schema.org/Bookfff4bc12-69b2-43ab-a3ed-9bb255103afe
+Failed to find the search result link for the book: http://schema.org/Bookfff93595-1943-4e8a-94e4-686e0093daad

@@ -14,7 +14,7 @@ from googleapiclient.discovery import build
 cx = "14146c5573d2149dd"
 
 # Your Google API key
-api_key = "AIzaSyAn6OQgvXAsJEPiJ_QosPITVr_m2BkQD5c"
+api_key = ""
 
 # Build a service object for interacting with the API
 service = build("customsearch", "v1", developerKey=api_key)
@@ -53,7 +53,7 @@ start_processing = False  # Set initial flag
 # Iterate over each book
 for book in g.subjects(RDF.type, ns1.Book):
     # If the book being processed matches the desired book, start processing
-    if str(book) == "http://schema.org/Book9b501837-eb60-49c2-8a81-3fe16cdb1bb1":
+    if str(book) == "http://schema.org/Booke8fbff50-2324-42b0-9a2c-6dff287b4928":
         start_processing = True
 
     # If we haven't encountered the desired book yet, skip this iteration
