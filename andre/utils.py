@@ -1,15 +1,44 @@
 import rdflib
 import unicodedata
 import re
+import logging
+from difflib import SequenceMatcher
+
 
 EPSILON = 0.00001
+
+pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
+ns1 = rdflib.namespace.Namespace("http://schema.org/")
 
 def create_key(book_name, book_author="", publisher="", publication_date=""):
     return book_name + "_" + book_author + "_" + publisher + "_" + publication_date
 
 
-pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
-ns1 = rdflib.namespace.Namespace("http://schema.org/")
+formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
+def setup_logger(name, log_file, level=logging.INFO):
+    """To setup as many loggers as you want"""
+
+    handler = logging.FileHandler(log_file)
+    handler.setFormatter(formatter)
+
+    logger = logging.getLogger(name)
+    logger.setLevel(level)
+    logger.addHandler(handler)
+
+    return logger
+
+
+
+def is_key_close_enough_to_another_key(book_key, keys_to_check, SIMILARITY_RATIO):
+    max_ratio = 0
+    best_key = ""
+    for key_to_check in keys_to_check:
+        s = SequenceMatcher(None, book_key, key_to_check)
+        ratio = s.ratio()
+        if ratio >= SIMILARITY_RATIO and ratio > max_ratio:
+            best_key = key_to_check
+            max_ratio = ratio
+    return best_key, max_ratio
 
 class RdfBookData:
     def __init__(self, book_name, book_author, age_range_int, url, publication_date, publisher, isbn):
