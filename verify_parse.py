@@ -1,15 +1,13 @@
-from rdflib import Graph
+import rdflib
+from rdflib.plugins.parsers.notation3 import BadSyntax
 
-def check_turtle_syntax(filename):
-    # Create a new, empty graph
-    g = Graph()
-
+def validate_ttl_syntax(filename):
+    g = rdflib.Graph()
     try:
-        # Try to parse the file
-        g.parse(filename, format="ttl")
-        print(f"{filename} has valid Turtle syntax.")
-    except Exception as e:
-        print(f"{filename} does not have valid Turtle syntax. Error: {e}")
+        g.parse(filename, format='turtle')
+        print("The .ttl file has valid Turtle syntax!")
+    except BadSyntax as e:
+        print(f"Syntax error in the .ttl file: {e}")
 
-# Check the syntax of output_bnf_updated.ttl
-check_turtle_syntax("output_bnf.ttl")
+filename = 'output_books.ttl'
+validate_ttl_syntax(filename)
