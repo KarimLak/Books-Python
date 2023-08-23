@@ -1,15 +1,18 @@
-from rdflib import Graph
+import re
 
-def check_turtle_syntax(filename):
-    # Create a new, empty graph
-    g = Graph()
+def replace_quotes(filename):
+    with open(filename, 'r', encoding='utf-8') as file:
+        content = file.read()
 
-    try:
-        # Try to parse the file
-        g.parse(filename, format="ttl")
-        print(f"{filename} has valid Turtle syntax.")
-    except Exception as e:
-        print(f"{filename} does not have valid Turtle syntax. Error: {e}")
+    def replacement(match):
+        return match.group(1) + match.group(2).replace('"', "'") + match.group(3)
 
-# Check the syntax of output_bnf_updated.ttl
-check_turtle_syntax("output_bnf.ttl")
+    # Find the content inside ns1:reviewBody and replace double quotes with single quotes
+    content = re.sub(r'(ns1:reviewBody ")(.*?)"( .;)', replacement, content, flags=re.DOTALL)
+
+    with open(filename, 'w', encoding='utf-8') as file:
+        file.write(content)
+
+filename = 'output_books.ttl'
+replace_quotes(filename)
+print("Double quotes inside ns1:reviewBody have been replaced with single quotes.")
