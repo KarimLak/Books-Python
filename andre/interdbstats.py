@@ -1,8 +1,15 @@
 import time
 from joblib import Parallel, delayed
-from bookalignment import BookAlignment
+from book_alignment import BookAlignment
 import utils
 import csv
+from rdflib import Graph, Literal, URIRef, Namespace, BNode
+from rdflib.namespace import RDF, XSD
+import rdflib.namespace
+
+ns1 = Namespace("http://schema.org/")
+pbs = Namespace("http://example.org/pbs/")
+
 
 class InterDBStats:
     def __init__(self, key_type, time_logger, stats_logger, SIMILARITY_RATIO, N_JOBS) -> None:
@@ -88,7 +95,9 @@ class InterDBStats:
                 self.all_book_alignments[best_key].align_lurelu(isbn_lurelu=book_alignment.isbn_lurelu,
                                                          url_lurelu=book_alignment.url_lurelu,
                                                          similarity_ratio_lurelu=max_ratio,
-                                                         key_used_to_align_lurelu=book_key)
+                                                         key_used_to_align_lurelu=book_key,
+                                                         uri_lurelu=book_alignment.uri_lurelu)
+
                 self.increment_alignment_number_lurelu()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
                 print("align approximate")
 
@@ -112,7 +121,8 @@ class InterDBStats:
             if not self.all_book_alignments[matched_key].url_bnf:  # not a collision: bnf data not present
                 self.all_book_alignments[matched_key].align_bnf(isbn_bnf=book_alignment.isbn_bnf,
                                                             url_bnf=book_alignment.url_bnf,
-                                                            key_used_to_align_bnf="isbn")
+                                                            key_used_to_align_bnf="isbn",
+                                                            uri_bnf=book_alignment.uri_bnf)
                 self.increment_alignment_number_bnf()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
                 print("align isbn")
                 return True
@@ -128,7 +138,9 @@ class InterDBStats:
             if not self.all_book_alignments[book_key_to_match].url_bnf:  # not a collision: bnf data not present
                 self.all_book_alignments[book_key_to_match].align_bnf(isbn_bnf=book_alignment.isbn_bnf,
                                                                   url_bnf=book_alignment.url_bnf,
-                                                                  key_used_to_align_bnf="exact")
+                                                                  key_used_to_align_bnf="exact",
+                                                                  uri_bnf=book_alignment.uri_bnf)
+
                 self.increment_alignment_number_bnf()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
                 print("align exact")
                 return True
@@ -146,7 +158,8 @@ class InterDBStats:
                 self.all_book_alignments[book_key_to_match].align_lurelu(isbn_lurelu=book_alignment.isbn_lurelu,
                                                                   url_lurelu=book_alignment.url_lurelu,
                                                                   similarity_ratio_lurelu=-1,
-                                                                  key_used_to_align_lurelu="exact")
+                                                                  key_used_to_align_lurelu="exact",
+                                                                  uri_lurelu=book_alignment.uri_lurelu)
                 self.increment_alignment_number_lurelu()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
                 print("align exact")
                 return True
@@ -375,6 +388,39 @@ class InterDBStats:
         #         #     f"key: {key} | lists: {aligned_books[key]} |  similarity between 2 lists: {similarity}")
         #         average_similarity += similarity
         # print(f"average similarity between ages of same {self.key_type}", average_similarity / len(aligned_books))
+
+    def output_rdf(self):
+        alignment_counter = 0
+        g = Graph()
+
+        g.bind('ns1', ns1)
+        g.bind('pbs', pbs)
+
+        for book_alignment_key in self.all_book_alignments.keys():
+            book_alignment: BookAlignment = self.all_book_alignments[book_alignment_key]
+            alignment_uri = URIRef(f'http://example.org/pbs/alignment{alignment_counter}')
+            alignment_counter += 1
+            g.add((alignment_uri, RDF.type, pbs.Alignment))
+            if book_alignment.isbn_constellation:
+                g.add((alignment_uri, ns1.isbn, Literal(book_alignment.isbn_constellation)))
+            elif book_alignment.isbn_bnf:
+                g.add((alignment_uri, ns1.isbn, Literal(book_alignment.isbn_bnf)))
+            elif book_alignment.isbn_lurelu:
+                g.add((alignment_uri, ns1.isbn, Literal(book_alignment.isbn_lurelu)))
+
+            g.add((alignment_uri, pbs.exact_key, Literal(book_alignment_key)))
+            g.add((alignment_uri, ns1.name, Literal(book_alignment.name)))
+            g.add((alignment_uri, ns1.author, Literal(book_alignment.author)))
+            g.add((alignment_uri, ns1.datePublished, Literal(book_alignment.date)))
+
+            if book_alignment.uri_constellation:
+                g.add((alignment_uri, pbs.uri_constellation, URIRef(book_alignment.uri_constellation)))
+            if book_alignment.uri_bnf:
+                g.add((alignment_uri, pbs.uri_bnf, URIRef(book_alignment.uri_bnf)))
+            if book_alignment.uri_lurelu:
+                g.add((alignment_uri, pbs.uri_lurelu, URIRef(book_alignment.uri_lurelu)))
+
+        g.serialize(destination='output_alignment.ttl', format='turtle')
 
     def output_csv(self):
         with open(f"hybrid_alignment_{self.key_type}_ratio_{self.SIMILARITY_RATIO}.csv", "w", encoding='utf-8',

@@ -4,7 +4,6 @@ import re
 import logging
 from difflib import SequenceMatcher
 
-
 EPSILON = 0.00001
 
 pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
@@ -41,7 +40,7 @@ def is_key_close_enough_to_another_key(book_key, keys_to_check, SIMILARITY_RATIO
     return best_key, max_ratio
 
 class RdfBookData:
-    def __init__(self, book_name, book_author, age_range_int, url, publication_date, publisher, isbn):
+    def __init__(self, book_name, book_author, age_range_int, url, publication_date, publisher, isbn, uri):
         self.book_name = book_name
         self.book_author = book_author
         self.age_range_int = age_range_int
@@ -49,6 +48,18 @@ class RdfBookData:
         self.publication_date = publication_date
         self.publisher = publisher
         self.isbn = isbn
+        self.uri = uri
+
+def extract_data_alignment(graph, alignment_uri):
+    isbn = graph.value(alignment_uri, ns1.isbn)
+    exact_key = graph.value(alignment_uri, pbs.exact_key)
+    name = graph.value(alignment_uri, ns1.name)
+    author = graph.value(alignment_uri, ns1.author)
+    datePublished = graph.value(alignment_uri, ns1.datePublished)
+    uri_constellation =  graph.value(alignment_uri, pbs.uri_constellation) if graph.value(alignment_uri, pbs.uri_constellation) else None
+    uri_bnf =  graph.value(alignment_uri, pbs.uri_bnf) if graph.value(alignment_uri, pbs.uri_bnf) else None
+    uri_lurelu =  graph.value(alignment_uri, pbs.uri_lurelu) if graph.value(alignment_uri, pbs.uri_lurelu) else None
+    return isbn, exact_key, name, author, datePublished, uri_constellation, uri_bnf, uri_lurelu
 
 def extract_data_constellation(graph, book):
     book_name = str(graph.value(book, ns1.name)) if str(graph.value(book, ns1.name)) else str(
@@ -60,7 +71,8 @@ def extract_data_constellation(graph, book):
     publication_date = str(graph.value(book, pbs.dateEdition))
     publisher = str(graph.value(book, ns1.publisher))
     isbn = str(graph.value(book, ns1.isbn))
-    return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int, url=url, publication_date=publication_date, publisher=publisher, isbn=isbn)
+    uri = book
+    return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int, url=url, publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri)
 
 def extract_data_bnf(graph, book):
     book_name = str(graph.value(book, ns1.name))
@@ -71,7 +83,8 @@ def extract_data_bnf(graph, book):
     publication_date = str(graph.value(book, ns1.datePublished))
     publisher = str(graph.value(book, ns1.publisher))
     isbn = str(graph.value(book, ns1.isbn))
-    return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int, url=url, publication_date=publication_date, publisher=publisher, isbn=isbn)
+    uri = book
+    return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int, url=url, publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri)
 
 def extract_data_lurelu(graph, book):
     book_name = str(graph.value(book, ns1.name))
@@ -80,8 +93,9 @@ def extract_data_lurelu(graph, book):
     publication_date = str(graph.value(book, ns1.datePublished))
     publisher = str(graph.value(book, ns1.publisher))
     isbn = str(graph.value(book, ns1.isbn)) if graph.value(book, ns1.isbn) else ""
+    uri = book
     return RdfBookData(book_name=book_name, book_author=book_author, url=url,
-                       publication_date=publication_date, publisher=publisher, isbn=isbn, age_range_int=None)
+                       publication_date=publication_date, publisher=publisher, isbn=isbn, age_range_int=None, uri=uri)
 def remove_spaces(book_data: RdfBookData):
     book_data.book_name = book_data.book_name.replace(" ", "")
     book_data.book_author = book_data.book_author.replace(" ", "")

@@ -1,4 +1,4 @@
-from rdflib import Graph
+from rdflib import Namespace, Graph
 from rdflib.namespace import RDF
 import rdflib.namespace
 import utils
@@ -6,11 +6,12 @@ import copy
 from joblib import Parallel
 import time
 from interdbstats import InterDBStats
-from bookalignment import BookAlignment
+from book_alignment import BookAlignment
 
 # define the rdf namespace
-pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
-ns1 = rdflib.namespace.Namespace("http://schema.org/")
+ns1 = Namespace("http://schema.org/")
+pbs = Namespace("http://example.org/pbs/")
+
 
 #############################################################################
 # before running:
@@ -24,7 +25,7 @@ ns1 = rdflib.namespace.Namespace("http://schema.org/")
 #############################################################################
 
 N_JOBS = 12
-SIMILARITY_RATIO = 0.9
+SIMILARITY_RATIO = 0.91
 key_name = "name_author_publisher_date"
 
 time_logger = utils.setup_logger('execution_time_logger',
@@ -45,21 +46,26 @@ g.parse("../output_constellations.ttl", format="turtle")
 
 # constellation loop
 for book in g.subjects(RDF.type, ns1.Book):
-    book_data: utils.RdfBookData = \
+    book_data_raw = utils.extract_data_constellation(g, book)
+    book_data_preprocessed: utils.RdfBookData = \
         utils.remove_special_chars(
             utils.remove_accents(
                 utils.lower(
-                    utils.remove_spaces(
-                        utils.extract_data_constellation(g, book)))))
+                    utils.remove_spaces(copy.deepcopy(book_data_raw)))))
 
-    book_alignment_constellation = BookAlignment(url_constellation=book_data.url,
-                                                 isbn_constellation=book_data.isbn,
-                                                 age_range_constellation=book_data.age_range_int)
+    book_alignment_constellation = BookAlignment(url_constellation=book_data_preprocessed.url,
+                                                 isbn_constellation=book_data_preprocessed.isbn,
+                                                 age_range_constellation=book_data_preprocessed.age_range_int,
+                                                 name=book_data_raw.book_name,  # put non preprocessed name
+                                                 author=book_data_raw.book_author,
+                                                 publisher=book_data_raw.publisher,
+                                                 date=book_data_raw.publication_date,
+                                                 uri_constellation=book_data_preprocessed.uri)
 
-    name_author_publisher_date_key = utils.create_key(book_name=book_data.book_name,
-                                                      book_author=book_data.book_author,
-                                                      publisher=book_data.publisher,
-                                                      publication_date=book_data.publication_date)
+    name_author_publisher_date_key = utils.create_key(book_name=book_data_preprocessed.book_name,
+                                                      book_author=book_data_preprocessed.book_author,
+                                                      publisher=book_data_preprocessed.publisher,
+                                                      publication_date=book_data_preprocessed.publication_date)
     # name_author_date_key = utils.create_key(book_name=book_data.book_name,
     #                                         book_author=book_data.book_author,
     #                                         publication_date=book_data.publication_date)
@@ -82,20 +88,26 @@ g.parse("../output_bnf.ttl", format="turtle")
 # BNF loop
 
 for book in g.subjects(RDF.type, ns1.Book):  # O(M)
-    book_data: utils.RdfBookData = \
+    book_data_raw = utils.extract_data_bnf(g, book)
+    book_data_preprocessed: utils.RdfBookData = \
         utils.remove_special_chars(
             utils.remove_accents(
                 utils.lower(
                     utils.remove_spaces(
-                        utils.extract_data_bnf(g, book)))))
-    book_alignment_bnf = BookAlignment(url_bnf=book_data.url,
-                                       isbn_bnf=book_data.isbn,
-                                       age_range_bnf=book_data.age_range_int)
+                        copy.deepcopy(book_data_raw)))))
+    book_alignment_bnf = BookAlignment(url_bnf=book_data_preprocessed.url,
+                                       isbn_bnf=book_data_preprocessed.isbn,
+                                       age_range_bnf=book_data_preprocessed.age_range_int,
+                                       uri_bnf=book_data_preprocessed.uri,
+                                       name=book_data_raw.book_name,  # put non preprocessed name
+                                       author=book_data_raw.book_author,
+                                       publisher=book_data_raw.publisher,
+                                       date=book_data_raw.publication_date)
 
-    name_author_publisher_date_key = utils.create_key(book_name=book_data.book_name,
-                                                      book_author=book_data.book_author,
-                                                      publisher=book_data.publisher,
-                                                      publication_date=book_data.publication_date)
+    name_author_publisher_date_key = utils.create_key(book_name=book_data_preprocessed.book_name,
+                                                      book_author=book_data_preprocessed.book_author,
+                                                      publisher=book_data_preprocessed.publisher,
+                                                      publication_date=book_data_preprocessed.publication_date)
     # name_author_date_key = utils.create_key(book_name=book_data.book_name,
     #                                         book_author=book_data.book_author,
     #                                         publication_date=book_data.publication_date)
@@ -121,19 +133,25 @@ g = Graph()
 g.parse("../output_lurelu.ttl", format="turtle")
 with Parallel(n_jobs=N_JOBS) as parallel:
     for book in g.subjects(RDF.type, ns1.Book):  # O(M)
-        book_data: utils.RdfBookData = \
+        book_data_raw =  utils.extract_data_lurelu(g, book)
+        book_data_preprocessed: utils.RdfBookData = \
             utils.remove_special_chars(
                 utils.remove_accents(
                     utils.lower(
                         utils.remove_spaces(
-                            utils.extract_data_lurelu(g, book)))))
-        book_alignment_lurelu = BookAlignment(url_lurelu=book_data.url,
-                                              isbn_lurelu=book_data.isbn)
+                           copy.deepcopy(book_data_raw)))))
+        book_alignment_lurelu = BookAlignment(url_lurelu=book_data_preprocessed.url,
+                                              isbn_lurelu=book_data_preprocessed.isbn,
+                                              uri_lurelu=book_data_preprocessed.uri,
+                                              name=book_data_raw.book_name,  # put non preprocessed name
+                                              author=book_data_raw.book_author,
+                                              publisher=book_data_raw.publisher,
+                                              date=book_data_raw.publication_date)
 
-        name_author_publisher_date_key = utils.create_key(book_name=book_data.book_name,
-                                                          book_author=book_data.book_author,
-                                                          publisher=book_data.publisher,
-                                                          publication_date=book_data.publication_date)
+        name_author_publisher_date_key = utils.create_key(book_name=book_data_preprocessed.book_name,
+                                                          book_author=book_data_preprocessed.book_author,
+                                                          publisher=book_data_preprocessed.publisher,
+                                                          publication_date=book_data_preprocessed.publication_date)
         # name_author_date_key = utils.create_key(book_name=book_data.book_name,
         #                                         book_author=book_data.book_author,
         #                                         publication_date=book_data.publication_date)
@@ -152,6 +170,8 @@ with Parallel(n_jobs=N_JOBS) as parallel:
         # stats_isbn.increment_bnf_book_number()
         # stats_name_author_publisher.increment_bnf_book_number()
         stats.increment_lurelu_book_number()
+
+stats.output_rdf()
 
 # stats_name_author.output_csv()
 # stats_isbn.output_csv()
