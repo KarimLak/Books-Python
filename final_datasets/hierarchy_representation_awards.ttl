@@ -1,0 +1,330 @@
+@prefix pbs: <http://example.com/pbs#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+pbs:Biennale_De_L_illustration_De_Bratislava skos:narrower pbs:Biennale_De_L_illustration_De_Bratislava_Grand_Prix,
+        pbs:Biennale_De_L_illustration_De_Bratislava_Plaques_D_or,
+        pbs:Biennale_De_L_illustration_De_Bratislava_Pommes_D_or .
+
+pbs:Figures_Futur skos:narrower pbs:Figures_Futur_Prix_Des_Médiateurs,
+        pbs:Figures_Futur_Prix_Du_Jury,
+        pbs:Figures_Futur_Prix_Du_Public,
+        pbs:Figures_Futur_Prix_Du_Public_Enfants .
+
+pbs:Gayant_Lecture skos:narrower pbs:Gayant_Lecture_12_13,
+        pbs:Gayant_Lecture_14_17,
+        pbs:Gayant_Lecture_4_6,
+        pbs:Gayant_Lecture_7_8,
+        pbs:Gayant_Lecture_9_11 .
+
+pbs:Le_Prix_Espiègle skos:narrower pbs:Le_Prix_Espiègle_Primaire,
+        pbs:Le_Prix_Espiègle_Secondaire .
+
+pbs:Les_Pépites_Du_Salon_De_Montreuil skos:narrower pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Bande_Dessinée,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Bd_Manga,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_D_Or,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_L_Adaptation_Cinéma_D_Animation,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_L_Adaptation_Cinéma_D_Animation_Courts_Et_Moyens_Métrages,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_L_Adaptation_Cinéma_D_Animation_Séries_Télévisées,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_L_Album,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_La_Création_Numérique,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_De_La_Petite_Enfance,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Des_Grands,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Des_Moyens,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Des_Petits,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Documentaire,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Documentaire_Livre_D_Art,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Livre_Audio_Histoires_En_Musique,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Livre_D_Art,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Livre_Ovni_Coup_De_C_ur_De_L_Équipe_Du_Salon,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Premier_Album,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Roman_9_12_Ans,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Roman_Ado_Européen,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Du_Roman_Européen_Pour_Adolescents,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Fiction_Ados,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Fiction_Junior,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Livre_Illustré,
+        pbs:Les_Pépites_Du_Salon_De_Montreuil_Pépite_Roman .
+
+pbs:Prix_Alvine_Bélisle skos:narrower pbs:Prix_Alvine_Bélisle017e555d-a776-47e8-99ae-4dc902524b65 .
+
+pbs:Prix_Bernard_Versele skos:narrower pbs:Prix_Bernard_Versele_1_Chouette,
+        pbs:Prix_Bernard_Versele_2_Chouettes,
+        pbs:Prix_Bernard_Versele_3_Chouettes,
+        pbs:Prix_Bernard_Versele_4_Chouettes,
+        pbs:Prix_Bernard_Versele_5_Chouettes .
+
+pbs:Prix_Bologna_Ragazzi skos:narrower pbs:Prix_Bologna_Ragazzi_Arte_Novita_Prix_Arts_Nouveauté,
+        pbs:Prix_Bologna_Ragazzi_Bologna_Ragazzi_Award_Books_Seeds,
+        pbs:Prix_Bologna_Ragazzi_Bologna_Ragazzi_Award_On_Art_Architecture_Design,
+        pbs:Prix_Bologna_Ragazzi_Cinema_Categoria_Speciale,
+        pbs:Prix_Bologna_Ragazzi_Comics_Early_Reader,
+        pbs:Prix_Bologna_Ragazzi_Comics_Middle_Grade,
+        pbs:Prix_Bologna_Ragazzi_Comics_Young_Adult,
+        pbs:Prix_Bologna_Ragazzi_Fiction,
+        pbs:Prix_Bologna_Ragazzi_Fiction_Award,
+        pbs:Prix_Bologna_Ragazzi_Fiction_Enfance_6_9_Ans_,
+        pbs:Prix_Bologna_Ragazzi_Fiction_Jeunesse_10_16_Ans_,
+        pbs:Prix_Bologna_Ragazzi_Fiction_Première_Enfance_0_5_Ans_,
+        pbs:Prix_Bologna_Ragazzi_Fotografia_Categoria_Speciale,
+        pbs:Prix_Bologna_Ragazzi_Mention,
+        pbs:Prix_Bologna_Ragazzi_Mention_Spéciale,
+        pbs:Prix_Bologna_Ragazzi_Mention_Spéciale_Fiction,
+        pbs:Prix_Bologna_Ragazzi_Mentions,
+        pbs:Prix_Bologna_Ragazzi_Mentions_Spéciales,
+        pbs:Prix_Bologna_Ragazzi_New_Horizons,
+        pbs:Prix_Bologna_Ragazzi_New_Horizons_Award,
+        pbs:Prix_Bologna_Ragazzi_New_Media_Prize,
+        pbs:Prix_Bologna_Ragazzi_Non_Fiction,
+        pbs:Prix_Bologna_Ragazzi_Non_Fiction_Award,
+        pbs:Prix_Bologna_Ragazzi_Non_Fiction_Enfance_6_9_Ans_,
+        pbs:Prix_Bologna_Ragazzi_Non_Fiction_Jeunesse_10_16_Ans_,
+        pbs:Prix_Bologna_Ragazzi_Non_Fiction_Première_Enfance_0_5_Ans_,
+        pbs:Prix_Bologna_Ragazzi_Opera_Prima,
+        pbs:Prix_Bologna_Ragazzi_Poesia_Categoria_Speciale,
+        pbs:Prix_Bologna_Ragazzi_Prix_Non_Fiction,
+        pbs:Prix_Bologna_Ragazzi_Prix_Nouveaux_Horizons,
+        pbs:Prix_Bologna_Ragazzi_Prix_Opera_Prima_Première_uvre_,
+        pbs:Prix_Bologna_Ragazzi_Prix_Opéra_Prima_Première_uvre_ .
+
+pbs:Prix_Bulles_De_Cristal skos:narrower pbs:Prix_Bulles_De_Cristal_Catégorie_Des_11_14_Ans,
+        pbs:Prix_Bulles_De_Cristal_Catégorie_Des_15_18_Ans .
+
+pbs:Prix_Cendres skos:narrower pbs:Prix_Cendres_Mention .
+
+pbs:Prix_Chimère skos:narrower pbs:Prix_Chimère_11_14,
+        pbs:Prix_Chimère_15_18 .
+
+pbs:Prix_Chronos skos:narrower pbs:Prix_Chronos_Alzheimer,
+        pbs:Prix_Chronos_De_Littérature,
+        pbs:Prix_Chronos_De_Littérature_4E_3E,
+        pbs:Prix_Chronos_De_Littérature_6E_5E,
+        pbs:Prix_Chronos_De_Littérature_Ce1_Ce2,
+        pbs:Prix_Chronos_De_Littérature_Cm1_Cm2,
+        pbs:Prix_Chronos_De_Littérature_Maternelle_Cp .
+
+pbs:Prix_De_La_Pièce_De_Théâtre_Contemporain_Pour_Le_Jeune_Public skos:narrower pbs:Prix_De_La_Pièce_De_Théâtre_Contemporain_Pour_Le_Jeune_Public_3Ème_2Nde,
+        pbs:Prix_De_La_Pièce_De_Théâtre_Contemporain_Pour_Le_Jeune_Public_CM2_6Ème .
+
+pbs:Prix_Du_Conseil_Des_Arts_Du_Canada skos:narrower pbs:Prix_Du_Conseil_Des_Arts_Du_Canada_Illustration,
+        pbs:Prix_Du_Conseil_Des_Arts_Du_Canada_Texte .
+
+pbs:Prix_Du_Livre_M_Christie skos:narrower pbs:Prix_Du_Livre_M_Christie_0_7,
+        pbs:Prix_Du_Livre_M_Christie_12_16,
+        pbs:Prix_Du_Livre_M_Christie_8_11 .
+
+pbs:Prix_Du_Roman_Historique_Jeunesse skos:narrower pbs:Prix_Du_Roman_Historique_Jeunesse_3ème_Seconde,
+        pbs:Prix_Du_Roman_Historique_Jeunesse_5ème_4ème,
+        pbs:Prix_Du_Roman_Historique_Jeunesse_Cm2_6ème,
+        pbs:Prix_Du_Roman_Historique_Jeunesse_Lycée .
+
+pbs:Prix_Enfantaisie skos:narrower pbs:Prix_Enfantaisie_Catégorie_Album,
+        pbs:Prix_Enfantaisie_Catégorie_Roman_Prix_Farniente .
+
+pbs:Prix_Farniente skos:narrower pbs:Prix_Farniente_Basket_Jaune_13_,
+        pbs:Prix_Farniente_Basket_Orange,
+        pbs:Prix_Farniente_Basket_Verte_15_,
+        pbs:Prix_Farniente_Chameau_15_,
+        pbs:Prix_Farniente_Deux_Baskets,
+        pbs:Prix_Farniente_Dromadaire_13_,
+        pbs:Prix_Farniente_Prix_Evasion_15_,
+        pbs:Prix_Farniente_Prix_Victor_13_,
+        pbs:Prix_Farniente_Sélection_Jaune_13_,
+        pbs:Prix_Farniente_Sélection_Verte_15_,
+        pbs:Prix_Farniente_Une_Basket .
+
+pbs:Prix_Ficelle skos:narrower pbs:Prix_Ficelle_3_5,
+        pbs:Prix_Ficelle_6_7,
+        pbs:Prix_Ficelle_8_10 .
+
+pbs:Prix_Franco_Allemand_Pour_La_Littérature_De_Jeunesse skos:narrower pbs:Prix_Franco_Allemand_Pour_La_Littérature_De_Jeunesse_Allemagne,
+        pbs:Prix_Franco_Allemand_Pour_La_Littérature_De_Jeunesse_France .
+
+pbs:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières skos:narrower pbs:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières_Album,
+        pbs:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières_BD,
+        pbs:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières_Releve,
+        pbs:Prix_Illustration_Jeunesse_Salon_Du_Livre_De_Trois_Rivières_Roman .
+
+pbs:Prix_Imaginales skos:narrower pbs:Prix_Imaginales_Catégorie_Album,
+        pbs:Prix_Imaginales_Catégorie_Jeunesse,
+        pbs:Prix_Imaginales_Des_Collégiens,
+        pbs:Prix_Imaginales_Des_Ecoliers,
+        pbs:Prix_Imaginales_Des_Lycéens .
+
+pbs:Prix_La_Science_Se_Livre skos:narrower pbs:Prix_La_Science_Se_Livre_Catégorie_4_8_Ans,
+        pbs:Prix_La_Science_Se_Livre_Catégorie_9_14_Ans,
+        pbs:Prix_La_Science_Se_Livre_Catégorie_Adolescents_11_15_Ans .
+
+pbs:Prix_Libbylit skos:narrower pbs:Prix_Libbylit_Mention_Spéciale_,
+        pbs:Prix_Libbylit_Mention_Spéciale_Album_Roman_,
+        pbs:Prix_Libbylit_Mention_Spéciale_Du_Jury_,
+        pbs:Prix_Libbylit_Mention_Spéciale_Hors_Catégorie_,
+        pbs:Prix_Libbylit_Mention_Spéciale_Théâtre_Jeunesse_,
+        pbs:Prix_Libbylit_Ovni_,
+        pbs:Prix_Libbylit_Album_,
+        pbs:Prix_Libbylit_Roman_,
+        pbs:Prix_Libbylit_BD_,
+        pbs:Prix_Libbylit_Petite_Enfance_ .
+
+pbs:Prix_Littéraire_Hackmatack skos:narrower pbs:Prix_Littéraire_Hackmatack_Roman,
+    pbs:Prix_Littéraire_Hackmatack_Documentaire,
+    pbs:Prix_Littéraire_Hackmatack_Album.    
+
+pbs:Prix_Libr_À_Nous skos:narrower pbs:Prix_Libr_À_Nous_Album,
+        pbs:Prix_Libr_À_Nous_Roman .
+
+pbs:Prix_Littéralouest skos:narrower pbs:Prix_Littéralouest_10_11_Ans,
+        pbs:Prix_Littéralouest_4_5_Ans,
+        pbs:Prix_Littéralouest_4Ème_3Ème,
+        pbs:Prix_Littéralouest_5_6_Ans,
+        pbs:Prix_Littéralouest_6_7_Ans,
+        pbs:Prix_Littéralouest_6Ème_5Ème,
+        pbs:Prix_Littéralouest_7_8_Ans,
+        pbs:Prix_Littéralouest_8_9_Ans,
+        pbs:Prix_Littéralouest_9_10_Ans,
+        pbs:Prix_Littéralouest_Bd_Collège_,
+        pbs:Prix_Littéralouest_Moins_De_4_Ans .
+
+pbs:Prix_Livrentête skos:narrower pbs:Prix_Livrentête_Albums,
+        pbs:Prix_Livrentête_Albums_3_,
+        pbs:Prix_Livrentête_Albums_5_,
+        pbs:Prix_Livrentête_Bandes_Dessinées_Juniors_12_Ans_Et_Plus,
+        pbs:Prix_Livrentête_Bd_Enfants,
+        pbs:Prix_Livrentête_Bd_Juniors,
+        pbs:Prix_Livrentête_Livres_D_Images,
+        pbs:Prix_Livrentête_Premiers_Romans,
+        pbs:Prix_Livrentête_Premières_Bd,
+        pbs:Prix_Livrentête_Premières_Lectures,
+        pbs:Prix_Livrentête_Romans_Ados,
+        pbs:Prix_Livrentête_Romans_Enfants,
+        pbs:Prix_Livrentête_Romans_Juniors,
+        pbs:Prix_Livrentête_Sélection_Albums_À_Partir_De_3_Ans,
+        pbs:Prix_Livrentête_Sélection_Albums_À_Partir_De_5_Ans,
+        pbs:Prix_Livrentête_Sélection_Bd_À_Partir_De_10_Ans,
+        pbs:Prix_Livrentête_Sélection_Bd_À_Partir_De_13_Ans,
+        pbs:Prix_Livrentête_Sélection_Premières_Bd_À_Partir_De_7_Ans,
+        pbs:Prix_Livrentête_Sélection_Premières_Lectures_À_Partir_De_7_Ans,
+        pbs:Prix_Livrentête_Sélection_À_Partir_De_12_Ans,
+        pbs:Prix_Livrentête_Sélection_À_Partir_De_15_Ans,
+        pbs:Prix_Livrentête_Sélection_À_Partir_De_9_Ans .
+
+pbs:Prix_Lu_Et_Partagé skos:narrower pbs:Prix_Lu_Et_Partagé_Grand_Prix_De_L_Album,
+        pbs:Prix_Lu_Et_Partagé_Prix_Extra_Ordinaire,
+        pbs:Prix_Lu_Et_Partagé_Prix_Jeune_Talent,
+        pbs:Prix_Lu_Et_Partagé_Prix_Petite_Enfance,
+        pbs:Prix_Lu_Et_Partagé_Prix_Roman_Ado,
+        pbs:Prix_Lu_Et_Partagé_Prix_Roman_Junior,
+        pbs:Prix_Lu_Et_Partagé_Prix_Spécial_Du_Jury_Roman .
+
+pbs:Prix_Mangawa skos:narrower pbs:Prix_Mangawa_Catégorie_Seinen,
+        pbs:Prix_Mangawa_Catégorie_Shojo,
+        pbs:Prix_Mangawa_Catégorie_Shonen .
+
+pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel skos:narrower pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_13_17,
+        pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8,
+        pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_9_12,
+        pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Album_5_12,
+        pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Poesie
+        pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Roman_9_12 .
+
+pbs:Prix_Petit_Angle skos:narrower pbs:Prix_Petit_Angle_Petit_Angle_Étranger,
+        pbs:Prix_Petit_Angle_Prix_Spécial,
+        pbs:Prix_Petit_Angle_Prix_Spécial_Du_Jury .
+
+pbs:Prix_Real skos:narrower pbs:Prix_Real_11_14_Ans,
+        pbs:Prix_Real_15_18_Ans .
+
+pbs:Prix_Saint_Exupéry skos:narrower pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse .
+
+pbs:Prix_Sorcières skos:narrower pbs:Prix_Sorcières_Ados,
+        pbs:Prix_Sorcières_Albums,
+        pbs:Prix_Sorcières_Documentaire,
+        pbs:Prix_Sorcières_Documentaires,
+        pbs:Prix_Sorcières_Première_Lecture,
+        pbs:Prix_Sorcières_Premières_Lectures,
+        pbs:Prix_Sorcières_Roman_Ados,
+        pbs:Prix_Sorcières_Romans_9_12_Ans,
+        pbs:Prix_Sorcières_Romans_Adolescents,
+        pbs:Prix_Sorcières_Romans_Jeunes,
+        pbs:Prix_Sorcières_Romans_Juniors,
+        pbs:Prix_Sorcières_Tout_Petits .
+
+pbs:Prix_Talents_Cultura skos:narrower pbs:Prix_Talents_Cultura_Les_Talents_Bandes_Dessinées_2021,
+        pbs:Prix_Talents_Cultura_Les_Talents_Jeunesse_2021,
+        pbs:Prix_Talents_Cultura_Les_Talents_Romans_2021 .
+
+pbs:Prix_Tatoulu skos:narrower pbs:Prix_Tatoulu_Tatou_Blanc,
+        pbs:Prix_Tatoulu_Tatou_Bleu,
+        pbs:Prix_Tatoulu_Tatou_Jaune,
+        pbs:Prix_Tatoulu_Tatou_Noir,
+        pbs:Prix_Tatoulu_Tatou_Rose,
+        pbs:Prix_Tatoulu_Tatou_Rouge,
+        pbs:Prix_Tatoulu_Tatou_Vert,
+        pbs:Prix_Tatoulu_Tatou_Violet .
+
+pbs:Prix_Unicef_De_Littérature_Jeunesse skos:narrower pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_0_5_Ans,
+        pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_0_6_Ans,
+        pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_15_Ans,
+        pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_13_18_Ans,
+        pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_3_5_Ans,
+        pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_6_8_Ans,
+        pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_8_11_Ans,
+        pbs:Prix_Unicef_De_Littérature_Jeunesse_Catégorie_9_12_Ans .
+
+pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada skos:narrower pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Poesie,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Roman,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Essai,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Jeunesse_Texte,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Traduction_Francais,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Traduction_Anglais,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Theatre,
+        pbs:Prix_Littéraires_Du_Gouverneur_Général_Du_Canada_Illustration .
+
+pbs:Prix_des_libraires skos:narrower pbs:Prix_des_libraires_Lauréat_2023_Essai_Québec,
+        pbs:Prix_des_libraires_Lauréat_2023_Poésie_Québec,
+        pbs:Prix_des_libraires_Lauréats_0_5_Ans_Hors_Québec,
+        pbs:Prix_des_libraires_Lauréats_0_5_Ans_Québec,
+        pbs:Prix_des_libraires_Lauréats_12_17_Ans_Hors_Québec,
+        pbs:Prix_des_libraires_Lauréats_12_17_Ans_Québec,
+        pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Hors_Québec,
+        pbs:Prix_des_libraires_Lauréats_2023_Volet_Adulte_Québec,
+        pbs:Prix_des_libraires_Lauréats_6_11_Ans_Hors_Québec,
+        pbs:Prix_des_libraires_Lauréats_6_11_Ans_Québec,
+        pbs:Prix_des_libraires_Lauréats_Bd_Jeunesse_Hors_Québec,
+        pbs:Prix_des_libraires_Lauréats_Bd_Jeunesse_Québec,
+        pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Hors_Québec,
+        pbs:Prix_des_libraires_Lauréats_Roman_Nouvelles_Récit_2023_Québec .
+
+pbs:Tam_Tam_Du_Livre_De_Jeunesse skos:narrower pbs:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Bande_Dessinée,
+        pbs:Tam_Tam_Du_Livre_De_Jeunesse_Dlire_Canal_Bd_Catégorie_Manga,
+        pbs:Tam_Tam_Du_Livre_De_Jeunesse_J_aime_Lire,
+        pbs:Tam_Tam_Du_Livre_De_Jeunesse_Je_Bouquine .
+
+pbs:Livrentete skos:narrower pbs:Livrentete_Album_3_4,
+        pbs:Livrentete_Album_5_6,
+        pbs:Livrentete_7_8,
+        pbs:Livrentete_9_10,
+        pbs:Livrentete_11_12,
+        pbs:Livrentete_13_14,
+        pbs:Livrentete_15_17,
+        pbs:Livrentete_BD_9_12,
+        pbs:Livrentete_BD_13_17,
+        pbs:Livrentete_12_14,
+        pbs:Livrentete_BD_7_9,
+        pbs:Livrentete_BD_10_12,
+        pbs:Livrentete_BD_Enfant,
+        pbs:Livrentete_BD_Junior,
+        pbs:Livrentete_Premieres_Lectures,
+        pbs:Livrentete_Premieres_BD,
+        pbs:Livrentete_Roman_Enfant,
+        pbs:Livrentete_Roman_Junior,
+        pbs:Livrentete_Roman_Ado,
+        pbs:Livrentete_Livre_Image ;
+
+pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse skos:narrower pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album,
+        pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse_Coup_De_C_ur_Jury_Enfants,
+        pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse_Francophonie,
+        pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Speciale,
+        pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spéciale,
+        pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse_Mention_Spéciale_Environnement,
+        pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse_Prix_Spécial_Poésie,
+        pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse_Roman .

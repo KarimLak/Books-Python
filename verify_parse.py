@@ -9,5 +9,5 @@ def validate_ttl_syntax(filename):
     except BadSyntax as e:
         print(f"Syntax error in the .ttl file: {e}")
 
-filename = 'output_books.ttl'
+filename = './final_datasets/babelio.ttl'
 validate_ttl_syntax(filename)
