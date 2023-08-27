@@ -22,15 +22,16 @@ pbs = Namespace("http://example.org/pbs/")
 ## verify key used (ctrlf: name_author_
 ## verify logfile names: time_logger and stats_logger
 ## verify output_csv name
+## verify output_rtf name
 #############################################################################
 
 N_JOBS = 12
-SIMILARITY_RATIO = 0.91
+SIMILARITY_RATIO = 0.9
 key_name = "name_author_publisher_date"
 
 time_logger = utils.setup_logger('execution_time_logger',
-                           f'{key_name}_approx_{SIMILARITY_RATIO}_hybrid_execution_time_logfile.log')
-stats_logger = utils.setup_logger('stats_logger', f'{key_name}_approx_{SIMILARITY_RATIO}_hybrid_stats_logfile.log')
+                           f'hybrid_{key_name}_ratio_{SIMILARITY_RATIO}_execution_time.log')
+stats_logger = utils.setup_logger('stats_logger', f'hybrid_{key_name}_ratio_{SIMILARITY_RATIO}_stats.log')
 
 
 stats = InterDBStats(key_name, time_logger, stats_logger, SIMILARITY_RATIO, N_JOBS)
@@ -99,7 +100,7 @@ for book in g.subjects(RDF.type, ns1.Book):  # O(M)
                                        isbn_bnf=book_data_preprocessed.isbn,
                                        age_range_bnf=book_data_preprocessed.age_range_int,
                                        uri_bnf=book_data_preprocessed.uri,
-                                       name=book_data_raw.book_name,  # put non preprocessed name
+                                       name=book_data_raw.book_name,  # non preprocessed name
                                        author=book_data_raw.book_author,
                                        publisher=book_data_raw.publisher,
                                        date=book_data_raw.publication_date)
@@ -143,7 +144,7 @@ with Parallel(n_jobs=N_JOBS) as parallel:
         book_alignment_lurelu = BookAlignment(url_lurelu=book_data_preprocessed.url,
                                               isbn_lurelu=book_data_preprocessed.isbn,
                                               uri_lurelu=book_data_preprocessed.uri,
-                                              name=book_data_raw.book_name,  # put non preprocessed name
+                                              name=book_data_raw.book_name,  # non preprocessed name
                                               author=book_data_raw.book_author,
                                               publisher=book_data_raw.publisher,
                                               date=book_data_raw.publication_date)
@@ -157,6 +158,7 @@ with Parallel(n_jobs=N_JOBS) as parallel:
         #                                         publication_date=book_data.publication_date)
 
         start = time.time()
+        # stats.align_by_approximate_key_lurelu(book_alignment_lurelu, name_author_publisher_date_key, parallel) # toggle to test pure approx alignement with lurelu
         stats.align_hybrid_without_isbn(copy.deepcopy(book_alignment_lurelu), name_author_publisher_date_key, parallel)
         end = time.time()
 
@@ -166,19 +168,11 @@ with Parallel(n_jobs=N_JOBS) as parallel:
             time_logger.info("##################")
             time_logger.info("")
 
-        # stats_name_author.increment_bnf_book_number()
-        # stats_isbn.increment_bnf_book_number()
-        # stats_name_author_publisher.increment_bnf_book_number()
         stats.increment_lurelu_book_number()
 
 stats.output_rdf()
 
-# stats_name_author.output_csv()
-# stats_isbn.output_csv()
-# stats_name_author_publisher.output_csv()
 stats.output_csv()
 
-# stats_isbn.print_stats()
-# stats_name_author.print_stats()
-# stats_name_author_publisher.print_stats()
+print("alignment done, computing stats ...")
 stats.print_stats()

@@ -102,9 +102,9 @@ class InterDBStats:
                 print("align approximate")
 
             else:
-                self.increment_collision_number_approximate_key_lurelu()  # increase if bnf data already present: doublon inside bnf
+                self.increment_collision_number_approximate_key_lurelu()  # increase if lurelu data already present: doublon inside lurelu
         else:
-            self.all_book_alignments[book_key] = book_alignment  # bnf data gets into the dict without alignment
+            self.all_book_alignments[book_key] = book_alignment  # lurelu data gets into the dict without alignment because could not find suitable candidate and no other methods to test
 
     def isbn_alignment(self, isbn_to_match):
         for candidate_key in self.all_book_alignments.keys():
@@ -390,37 +390,36 @@ class InterDBStats:
         # print(f"average similarity between ages of same {self.key_type}", average_similarity / len(aligned_books))
 
     def output_rdf(self):
+        output_graph = Graph()
+        output_graph.bind('ns1', ns1)
+        output_graph.bind('pbs', pbs)
         alignment_counter = 0
-        g = Graph()
-
-        g.bind('ns1', ns1)
-        g.bind('pbs', pbs)
 
         for book_alignment_key in self.all_book_alignments.keys():
+            alignment_counter += 1
             book_alignment: BookAlignment = self.all_book_alignments[book_alignment_key]
             alignment_uri = URIRef(f'http://example.org/pbs/alignment{alignment_counter}')
-            alignment_counter += 1
-            g.add((alignment_uri, RDF.type, pbs.Alignment))
+            output_graph.add((alignment_uri, RDF.type, pbs.Alignment))
             if book_alignment.isbn_constellation:
-                g.add((alignment_uri, ns1.isbn, Literal(book_alignment.isbn_constellation)))
-            elif book_alignment.isbn_bnf:
-                g.add((alignment_uri, ns1.isbn, Literal(book_alignment.isbn_bnf)))
-            elif book_alignment.isbn_lurelu:
-                g.add((alignment_uri, ns1.isbn, Literal(book_alignment.isbn_lurelu)))
+                output_graph.add((alignment_uri, ns1.isbn_constellation, Literal(book_alignment.isbn_constellation)))
+            if book_alignment.isbn_bnf:
+                output_graph.add((alignment_uri, ns1.isbn_bnf, Literal(book_alignment.isbn_bnf)))
+            if book_alignment.isbn_lurelu:
+                output_graph.add((alignment_uri, ns1.isbn_lurelu, Literal(book_alignment.isbn_lurelu)))
 
-            g.add((alignment_uri, pbs.exact_key, Literal(book_alignment_key)))
-            g.add((alignment_uri, ns1.name, Literal(book_alignment.name)))
-            g.add((alignment_uri, ns1.author, Literal(book_alignment.author)))
-            g.add((alignment_uri, ns1.datePublished, Literal(book_alignment.date)))
+            output_graph.add((alignment_uri, pbs.exact_key, Literal(book_alignment_key)))
+            output_graph.add((alignment_uri, ns1.name, Literal(book_alignment.name)))
+            output_graph.add((alignment_uri, ns1.author, Literal(book_alignment.author)))
+            output_graph.add((alignment_uri, ns1.datePublished, Literal(book_alignment.date)))
 
             if book_alignment.uri_constellation:
-                g.add((alignment_uri, pbs.uri_constellation, URIRef(book_alignment.uri_constellation)))
+                output_graph.add((alignment_uri, pbs.uri_constellation, URIRef(book_alignment.uri_constellation)))
             if book_alignment.uri_bnf:
-                g.add((alignment_uri, pbs.uri_bnf, URIRef(book_alignment.uri_bnf)))
+                output_graph.add((alignment_uri, pbs.uri_bnf, URIRef(book_alignment.uri_bnf)))
             if book_alignment.uri_lurelu:
-                g.add((alignment_uri, pbs.uri_lurelu, URIRef(book_alignment.uri_lurelu)))
+                output_graph.add((alignment_uri, pbs.uri_lurelu, URIRef(book_alignment.uri_lurelu)))
 
-        g.serialize(destination='output_alignment.ttl', format='turtle')
+        output_graph.serialize(destination=f'hybrid_alignment_{self.key_type}_ratio_{self.SIMILARITY_RATIO}.ttl', format='turtle')
 
     def output_csv(self):
         with open(f"hybrid_alignment_{self.key_type}_ratio_{self.SIMILARITY_RATIO}.csv", "w", encoding='utf-8',

@@ -1,5 +1,5 @@
 import utils
-from rdflib import Graph, Literal, URIRef, Namespace, BNode, RDF
+from rdflib import Graph, Namespace, RDF
 
 ns1 = Namespace("http://schema.org/")
 pbs = Namespace("http://example.org/pbs/")

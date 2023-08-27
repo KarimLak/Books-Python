@@ -5,22 +5,16 @@ import csv
 from itertools import zip_longest
 from utils import *
 
-# stats
-# ---------------------------
-# pourcentage livres age
-
 # define the namespace
 pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
 ns1 = rdflib.namespace.Namespace("http://schema.org/")
-
-list_of_BookAges = {}
 
 
 class IntraDBStats: # stats for 1 db
     def __init__(self, source) -> None:
         self.source = source
         self.total_book_no = 0
-        self.books_without_authors = [] # name stored
+        self.books_without_authors = []
         self.books_without_age = []
         self.books_without_name = []
         self.books_without_publication_date = []
@@ -33,7 +27,7 @@ class IntraDBStats: # stats for 1 db
         self.book_name_author_publisher_date_doublons = defaultdict(lambda: [])
         self.book_name_author_ages = defaultdict(lambda: [])
 
-    def count(self, book_name, book_author, age_range, url, publication_date, publisher, isbn): # pass url to find books easily
+    def count(self, book_name, book_author, age_range, url, publication_date, publisher, isbn):
         self.total_book_no += 1
 
         if not book_name:
@@ -145,7 +139,7 @@ class IntraDBStats: # stats for 1 db
         for key in self.book_name_author_ages:
             if len(self.book_name_author_ages[key]) > 1:
                 book_name_author_ages_doublons[key] = self.book_name_author_ages[key]
-                similarity = jaccard(book_name_author_ages_doublons[key][0], book_name_author_ages_doublons[key][1])
+                similarity = jaccard(book_name_author_ages_doublons[key][0], book_name_author_ages_doublons[key][1]) # similarité entre seulement 2 doublons pour tester
                 print(f"key: {key} | lists: {book_name_author_ages_doublons[key]} |  similarity between 2 lists: {similarity}")
                 average_similarity += similarity
         print("average similarity between ages of same name_author", average_similarity/name_author_doublon_count)
@@ -155,32 +149,30 @@ class IntraDBStats: # stats for 1 db
 # CONSTELLATION
 
 # load the graph of constellation
-# g = Graph()
-# # g.parse("../output_constellations.ttl", format="turtle")
+g = Graph()
+g.parse("../output_constellations.ttl", format="turtle")
 # g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="turtle")
-#
-# stats_constellation = IntraDBStats("Constellation")
-#
-# # refactor to have a reader class
-# for book in g.subjects(RDF.type, ns1.Book):
-#     book_data = extract_data_constellation(g, book)
-#     stats_constellation.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn)
-#
-# stats_constellation.print_stats()
-# stats_constellation.output_csv()
+stats_constellation = IntraDBStats(source="Constellation")
+
+# refactor to have a reader class
+for book in g.subjects(RDF.type, ns1.Book):
+    book_data = extract_data_constellation(g, book)
+    stats_constellation.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn)
+
+stats_constellation.print_stats()
+stats_constellation.output_csv()
 
 
 #------------------------------------
 # BNF
 
-# reset graph
-g = Graph()
-# g.parse("../output_bnf.ttl", format="turtle")
-g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
+g = Graph() # reset graph
+g.parse("../output_bnf.ttl", format="turtle")
+# g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
 
-stats_bnf = IntraDBStats("BNF")
+stats_bnf = IntraDBStats(source="BNF")
 
-for book in g.subjects(RDF.type, ns1.Book): #O(M)
+for book in g.subjects(RDF.type, ns1.Book):
     book_data = extract_data_bnf(g, book)
     stats_bnf.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn)
 
