@@ -26,9 +26,9 @@ def setup_logger(name, log_file, level=logging.INFO):
 
     return logger
 
-folder_name = "9aug_noWhitespace&lower&noAccent&noSpecialChar_exact"
+folder_name = "exact_alignment"
 
-stats_logger = setup_logger('stats_logger', f'{folder_name}/stats_logfile.log')
+stats_logger = setup_logger('stats_logger', f'{folder_name}/stats.log')
 
 
 class BookAlignment:
@@ -324,12 +324,13 @@ for book in g.subjects(RDF.type, ns1.Book):  # O(M)
     stats_name_author_publisher_date.increment_bnf_book_number()
     stats_name_author_date.increment_bnf_book_number()
 
-print("finish")
 # stats_isbn.output_csv()
 stats_name_author.output_csv()
 stats_name_author_publisher.output_csv()
 stats_name_author_publisher_date.output_csv()
 stats_name_author_date.output_csv()
+
+print("alignment done, computing stats ...")
 
 # stats_isbn.print_stats()
 stats_name_author.print_stats()

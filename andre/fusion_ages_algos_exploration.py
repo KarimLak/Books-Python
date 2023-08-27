@@ -24,22 +24,26 @@ print("res33" , res33)
 
 # idée 3 paramétrable: choisir un golden source qui va decider
 opt_constellation_str = "1. constellation"
-opt_lurelu = "2. lurelu"
-opt_BNF = "3. bnf"
+opt_lurelu_str = "2. lurelu"
+opt_bnf_str = "3. bnf"
 optNoGoldenSource = "4. No Golden Source"
-options_str = [optConstellation, optLurelu, optBNF, optNoGoldenSource, ""]
-message = 'Please select the ideal golden source: (default = constellation) ' + str(options) + '\n'
+opt_constellation = "1"
+opt_lurelu = "2"
+opt_bnf = "3"
+options = [opt_constellation, opt_bnf, opt_lurelu]
+options_str = [opt_constellation_str, opt_lurelu_str, opt_bnf, optNoGoldenSource, ""]
+message = 'Please select the ideal golden source: (default = constellation) ' + str(options_str) + '\n'
 user_input = input(message)
 
 res = []
 if user_input in options:
     print('You selected:', user_input)
-    if user_input == optConstellation:
+    if user_input == opt_constellation:
         res = constellation_age
-    elif user_input == optLurelu:
+    elif user_input == opt_lurelu:
         res = lurelu_age
-    elif user_input == optBNF:
-        res = optBNF
+    elif user_input == opt_bnf:
+        res = bnf_age
     elif user_input == optNoGoldenSource:
         res = res1
     else:

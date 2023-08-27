@@ -29,8 +29,8 @@ def setup_logger(name, log_file, level=logging.INFO):
 key_name = "name_author_publisher_date"
 
 time_logger = setup_logger('execution_time_logger',
-                           f'{key_name}_approx_{similarity_ratio}_parallel_execution_time_logfile.log')
-stats_logger = setup_logger('stats_logger', f'{key_name}_approx_{similarity_ratio}_parallel_stats_logfile.log')
+                           f'approx_{key_name}_ratio_{similarity_ratio}_execution_time.log')
+stats_logger = setup_logger('stats_logger', f'approx_{key_name}_ratio_{similarity_ratio}_stats.log')
 
 # define the namespace
 pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
@@ -365,4 +365,5 @@ with Parallel(n_jobs=n_jobs) as parallel:
 
 
 stats.output_csv()
+print("alignment done, computing stats ...")
 stats.print_stats()
