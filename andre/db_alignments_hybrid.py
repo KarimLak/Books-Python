@@ -1,6 +1,5 @@
 from rdflib import Namespace, Graph
 from rdflib.namespace import RDF
-import rdflib.namespace
 import utils
 import copy
 from joblib import Parallel
@@ -11,7 +10,6 @@ from book_alignment import BookAlignment
 # define the rdf namespace
 ns1 = Namespace("http://schema.org/")
 pbs = Namespace("http://example.org/pbs/")
-
 
 #############################################################################
 # before running:
@@ -30,9 +28,8 @@ SIMILARITY_RATIO = 0.9
 key_name = "name_author_publisher_date"
 
 time_logger = utils.setup_logger('execution_time_logger',
-                           f'hybrid_{key_name}_ratio_{SIMILARITY_RATIO}_execution_time.log')
+                                 f'hybrid_{key_name}_ratio_{SIMILARITY_RATIO}_execution_time.log')
 stats_logger = utils.setup_logger('stats_logger', f'hybrid_{key_name}_ratio_{SIMILARITY_RATIO}_stats.log')
-
 
 stats = InterDBStats(key_name, time_logger, stats_logger, SIMILARITY_RATIO, N_JOBS)
 
@@ -41,7 +38,7 @@ stats = InterDBStats(key_name, time_logger, stats_logger, SIMILARITY_RATIO, N_JO
 
 # load the graph of constellation
 g = Graph()
-g.parse("../output_constellations.ttl", format="turtle")
+g.parse("../final_datasets/constellations.ttl", format="turtle")
 # g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="turtle")
 # g.parse("output_constellations_light_extended.ttl", format="turtle")
 
@@ -82,7 +79,7 @@ print("constellation book number", stats.constellation_book_number)
 
 # reset graph
 g = Graph()
-g.parse("../output_bnf.ttl", format="turtle")
+g.parse("../final_datasets/bnf.ttl", format="turtle")
 # g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
 # g.parse("output_bnf_light_extended.ttl", format="turtle")
 
@@ -124,23 +121,21 @@ for book in g.subjects(RDF.type, ns1.Book):  # O(M)
 
     stats.increment_bnf_book_number()
 
-
-
 # LURELU
 # ----------------------------------------------------
 
 # reset graph
 g = Graph()
-g.parse("../output_lurelu.ttl", format="turtle")
+g.parse("../final_datasets/lurelu.ttl", format="turtle")
 with Parallel(n_jobs=N_JOBS) as parallel:
     for book in g.subjects(RDF.type, ns1.Book):  # O(M)
-        book_data_raw =  utils.extract_data_lurelu(g, book)
+        book_data_raw = utils.extract_data_lurelu(g, book)
         book_data_preprocessed: utils.RdfBookData = \
             utils.remove_special_chars(
                 utils.remove_accents(
                     utils.lower(
                         utils.remove_spaces(
-                           copy.deepcopy(book_data_raw)))))
+                            copy.deepcopy(book_data_raw)))))
         book_alignment_lurelu = BookAlignment(url_lurelu=book_data_preprocessed.url,
                                               isbn_lurelu=book_data_preprocessed.isbn,
                                               uri_lurelu=book_data_preprocessed.uri,

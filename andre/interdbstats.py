@@ -1,11 +1,10 @@
 import time
-from joblib import Parallel, delayed
+from joblib import delayed
 from book_alignment import BookAlignment
 import utils
 import csv
-from rdflib import Graph, Literal, URIRef, Namespace, BNode
-from rdflib.namespace import RDF, XSD
-import rdflib.namespace
+from rdflib import Graph, Literal, URIRef, Namespace
+from rdflib.namespace import RDF
 
 ns1 = Namespace("http://schema.org/")
 pbs = Namespace("http://example.org/pbs/")
