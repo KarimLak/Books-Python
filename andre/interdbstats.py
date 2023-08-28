@@ -148,8 +148,7 @@ class InterDbStats:
         self.stats_logger.info(f"missing isbn constellation for positives {missing_isbn_constellation_in_positives}")
         self.stats_logger.info(f"missing isbn bnf for negatives {missing_isbn_bnf_in_negatives}")
         self.stats_logger.info(f"missing isbn constellation for negatives {missing_isbn_constellation_in_negatives}")
-        self.stats_logger.info(f"precision "
-                          f"{isbn_equality / (self.alignments_number + utils.EPSILON)}")
+
     def output_rdf(self):
         output_graph = Graph()
         output_graph.bind('ns1', utils.ns1)
