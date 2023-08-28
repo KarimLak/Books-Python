@@ -53,7 +53,7 @@ ns1:Book012346 a ns1:Book ;
 
 ns1:Book0123486 a ns1:Book ;
     ns1:author "Wajdi Mouawad" ;
-    ns1:dateCreated "1994"^^xsd:gYear ;
+    ns1:datePublished "1994"^^xsd:gYear ;
     pbs:eruditLink "https://www.erudit.org/fr/revues/lurelu/1994-v17-n2-lurelu1109514/12536ac/" ;
     pbs:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
     ns1:name "Alphonse" ;
@@ -62,7 +62,7 @@ ns1:Book0123486 a ns1:Book ;
 
 ns1:Book0123496 a ns1:Book ;
     ns1:author "Jasmine Dubé" ;
-    ns1:dateCreated "1997"^^xsd:gYear ;
+    ns1:datePublished "1997"^^xsd:gYear ;
     pbs:eruditLink "https://www.erudit.org/fr/revues/lurelu/1997-v20-n2-lurelu1107373/13281ac/" ;
     ns1:isbn "9782211312929" ;
     pbs:lureluLink "https://www.lurelu.net/coupsdecoeur01.html" ;
@@ -393,7 +393,7 @@ ns1:Book2345178 a ns1:Book ;
 
 ns1:Book2345578 a ns1:Book ;
     ns1:author "Jean-Rock Gaudreault" ;
-    ns1:dateCreated "1998"^^xsd:gYear ;
+    ns1:datePublished "1998"^^xsd:gYear ;
     pbs:eruditLink "https://www.erudit.org/fr/revues/lurelu/2000-v23-n2-lurelu1102005/12157ac/" ;
     pbs:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
     ns1:name "Mathieu trop court, François trop long" ;
@@ -1343,7 +1343,7 @@ ns1:Book345678 a ns1:Book ;
 
 ns1:Book3456780 a ns1:Book ;
     ns1:author "Suzanne Lebeau" ;
-    ns1:dateCreated "1997"^^xsd:gYear ;
+    ns1:datePublished "1997"^^xsd:gYear ;
     pbs:eruditLink "https://www.erudit.org/fr/revues/lurelu/1998-v21-n2-lurelu1104029/12396ac/" ;
     ns1:isbn "284260136X" ;
     pbs:lureluLink "https://www.lurelu.net/coupsdecoeur02.html" ;
