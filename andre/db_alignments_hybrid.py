@@ -16,8 +16,8 @@ pbs = Namespace("http://example.org/pbs/")
 ## remove old data from directory so it's not overwritten
 ## verifiy ratio
 ## verifiy n_jobs (12 because 6 cores with hyperthread)
-## verify source rdf (ctrl f : "parse")
-## verify key used (ctrlf: name_author_
+## verify source rdf -> ctrl f : "parse")
+## verify key used ->ctrlf: name_author_
 ## verify logfile names: time_logger and stats_logger
 ## verify output_csv name
 ## verify output_rtf name
@@ -167,7 +167,7 @@ with Parallel(n_jobs=N_JOBS) as parallel:
 
 stats.output_rdf()
 
-stats.output_csv()
+stats.output_csv_lurelu()
 
 print("alignment done, computing stats ...")
 stats.print_stats()

@@ -1,4 +1,7 @@
 import time
+from logging import Logger
+from typing import Dict
+
 from joblib import delayed
 from book_alignment import BookAlignment
 import utils
@@ -12,8 +15,8 @@ pbs = Namespace("http://example.org/pbs/")
 
 class InterDBStats:
     def __init__(self, key_type, time_logger, stats_logger, SIMILARITY_RATIO, N_JOBS) -> None:
-        self.N_JOBS = N_JOBS
-        self.SIMILARITY_RATIO = SIMILARITY_RATIO
+        self.N_JOBS: int = N_JOBS
+        self.SIMILARITY_RATIO: int = SIMILARITY_RATIO
         self.total_book_number: int = 0
         self.constellation_book_number: int = 0
         self.bnf_book_number: int = 0
@@ -25,10 +28,10 @@ class InterDBStats:
         self.collision_number_approximate_key_bnf: int = 0
         self.collision_number_approximate_key_lurelu: int = 0
         self.lurelu_book_number = 0
-        self.key_type = key_type
-        self.all_book_alignments = {}
-        self.time_logger = time_logger
-        self.stats_logger = stats_logger
+        self.key_type: str = key_type
+        self.all_book_alignments: Dict[str, BookAlignment] = {}
+        self.time_logger: Logger = time_logger
+        self.stats_logger: Logger = stats_logger
 
     def increment_alignment_number_bnf(self):
         self.alignments_number_bnf += 1
@@ -61,7 +64,7 @@ class InterDBStats:
         self.lurelu_book_number += 1
 
     def align_hybrid(self, book_alignment, book_key):
-        aligned_with_isbn = self.align_by_key_isbn(book_alignment, book_key)  # pass the key in case of non alignment
+        aligned_with_isbn = self.align_by_key_isbn(book_alignment)
         if not aligned_with_isbn:
             aligned_with_book_key = self.align_by_exact_key_bnf(book_alignment, book_key)
             # if not aligned_with_book_key:
@@ -114,14 +117,14 @@ class InterDBStats:
 
     # Returns True if alignment in this call or already done (collision)
     # We only align constellation & bnf with isbn for now
-    def align_by_key_isbn(self, book_alignment, book_key):
+    def align_by_key_isbn(self, book_alignment):
         matched_key = self.isbn_alignment(book_alignment.isbn_bnf)
         if matched_key:
             if not self.all_book_alignments[matched_key].url_bnf:  # not a collision: bnf data not present
-                self.all_book_alignments[matched_key].align_bnf(isbn_bnf=book_alignment.isbn_bnf,
-                                                            url_bnf=book_alignment.url_bnf,
-                                                            key_used_to_align_bnf="isbn",
-                                                            uri_bnf=book_alignment.uri_bnf)
+                self.all_book_alignments[matched_key].align_bnf(key_used_to_align_bnf="isbn",
+                                                                isbn_bnf=book_alignment.isbn_bnf,
+                                                                url_bnf=book_alignment.url_bnf,
+                                                                uri_bnf=book_alignment.uri_bnf)
                 self.increment_alignment_number_bnf()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
                 print("align isbn")
                 return True
@@ -135,10 +138,10 @@ class InterDBStats:
     def align_by_exact_key_bnf(self, book_alignment, book_key_to_match):
         if book_key_to_match in self.all_book_alignments:
             if not self.all_book_alignments[book_key_to_match].url_bnf:  # not a collision: bnf data not present
-                self.all_book_alignments[book_key_to_match].align_bnf(isbn_bnf=book_alignment.isbn_bnf,
-                                                                  url_bnf=book_alignment.url_bnf,
-                                                                  key_used_to_align_bnf="exact",
-                                                                  uri_bnf=book_alignment.uri_bnf)
+                self.all_book_alignments[book_key_to_match].align_bnf(key_used_to_align_bnf="exact",
+                                                                      isbn_bnf=book_alignment.isbn_bnf,
+                                                                      url_bnf=book_alignment.url_bnf,
+                                                                      uri_bnf=book_alignment.uri_bnf)
 
                 self.increment_alignment_number_bnf()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
                 print("align exact")
@@ -374,20 +377,6 @@ class InterDBStats:
         self.compute_alignment_confusion_matrix_validation()
         self.compute_alignment_confusion_matrix_test()
 
-        aligned_books = {}
-        average_similarity = 0
-        # for key in self.all_book_alignments:
-        #     url_constellation = self.all_book_alignments[key].url_constellation
-        #     url_bnf = self.all_book_alignments[key].url_bnf
-        #
-        #     if url_bnf and url_constellation:  # proof of alignment because never missing
-        #         aligned_books[key] = self.all_book_alignments[key]
-        #         similarity = utils.jaccard(aligned_books[key].age_range_bnf, aligned_books[key].age_range_constellation)
-        #         # print(
-        #         #     f"key: {key} | lists: {aligned_books[key]} |  similarity between 2 lists: {similarity}")
-        #         average_similarity += similarity
-        # print(f"average similarity between ages of same {self.key_type}", average_similarity / len(aligned_books))
-
     def output_rdf(self):
         output_graph = Graph()
         output_graph.bind('ns1', ns1)
@@ -410,6 +399,7 @@ class InterDBStats:
             output_graph.add((alignment_uri, ns1.name, Literal(book_alignment.name)))
             output_graph.add((alignment_uri, ns1.author, Literal(book_alignment.author)))
             output_graph.add((alignment_uri, ns1.datePublished, Literal(book_alignment.date)))
+            output_graph.add((alignment_uri, ns1.publisher, Literal(book_alignment.publisher)))
 
             if book_alignment.uri_constellation:
                 output_graph.add((alignment_uri, pbs.uri_constellation, URIRef(book_alignment.uri_constellation)))
@@ -420,7 +410,7 @@ class InterDBStats:
 
         output_graph.serialize(destination=f'hybrid_alignment_{self.key_type}_ratio_{self.SIMILARITY_RATIO}.ttl', format='turtle')
 
-    def output_csv(self):
+    def output_csv_lurelu(self):
         with open(f"hybrid_alignment_{self.key_type}_ratio_{self.SIMILARITY_RATIO}.csv", "w", encoding='utf-8',
                   newline="") as csvfile:
             writer = csv.writer(csvfile, delimiter='{')

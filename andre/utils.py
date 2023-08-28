@@ -15,8 +15,6 @@ def create_key(book_name, book_author="", publisher="", publication_date=""):
 
 formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
 def setup_logger(name, log_file, level=logging.INFO):
-    """To setup as many loggers as you want"""
-
     handler = logging.FileHandler(log_file)
     handler.setFormatter(formatter)
 
@@ -70,28 +68,28 @@ def extract_data_constellation(graph, book):
     url = str(graph.value(book, pbs.constellationLink))
     publication_date = str(graph.value(book, pbs.dateEdition))
     publisher = str(graph.value(book, ns1.publisher))
-    isbn = str(graph.value(book, ns1.isbn))
+    isbn = str(graph.value(book, ns1.isbn)) if graph.value(book, ns1.isbn) else ""
     uri = book
     return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int, url=url, publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri)
 
 def extract_data_bnf(graph, book):
-    book_name = str(graph.value(book, ns1.name))
-    book_author = str(graph.value(book, ns1.author))
+    book_name = str(graph.value(book, ns1.name)) if graph.value(book, ns1.name) else ""
+    book_author = str(graph.value(book, ns1.author)) if graph.value(book, ns1.author) else ""
     age_range = list(graph.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
     url = str(graph.value(book, pbs.bnfLink)) if graph.value(book, pbs.bnfLink) else str(graph.value(book, ns1.bnfLink)) #4 august vs 8 august data
-    publication_date = str(graph.value(book, ns1.datePublished))
-    publisher = str(graph.value(book, ns1.publisher))
-    isbn = str(graph.value(book, ns1.isbn))
+    publication_date = str(graph.value(book, ns1.datePublished)) if graph.value(book, ns1.datePublished) else ""
+    publisher = str(graph.value(book, ns1.publisher)) if graph.value(book, ns1.publisher) else ""
+    isbn = str(graph.value(book, ns1.isbn)) if graph.value(book, ns1.isbn) else ""
     uri = book
     return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int, url=url, publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri)
 
 def extract_data_lurelu(graph, book):
     book_name = str(graph.value(book, ns1.name))
-    book_author = str(graph.value(book, ns1.author))
-    url = str(graph.value(book, ns1.lureluLink))
-    publication_date = str(graph.value(book, ns1.datePublished))
-    publisher = str(graph.value(book, ns1.publisher))
+    book_author = str(graph.value(book, ns1.author)) if graph.value(book, ns1.author) else ""
+    url = str(graph.value(book, pbs.lureluLink))
+    publication_date = str(graph.value(book, ns1.datePublished)) if graph.value(book, ns1.datePublished) else ""
+    publisher = str(graph.value(book, ns1.publisher)) if graph.value(book, ns1.publisher) else ""
     isbn = str(graph.value(book, ns1.isbn)) if graph.value(book, ns1.isbn) else ""
     uri = book
     return RdfBookData(book_name=book_name, book_author=book_author, url=url,

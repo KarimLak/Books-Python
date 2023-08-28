@@ -1,3 +1,5 @@
+from typing import Dict
+
 from rdflib import Graph
 from rdflib.namespace import RDF
 import rdflib.namespace
@@ -6,6 +8,8 @@ import utils
 import copy
 from difflib import SequenceMatcher
 import logging
+
+from andre.book_alignment import BookAlignment
 
 # define the namespace
 pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
@@ -26,25 +30,10 @@ def setup_logger(name, log_file, level=logging.INFO):
 
     return logger
 
+
 folder_name = "exact_alignment"
 
 stats_logger = setup_logger('stats_logger', f'{folder_name}/stats.log')
-
-
-class BookAlignment:
-    def __init__(self, isbn_constellation=None, isbn_bnf=None, age_range_constellation=None,
-                 age_range_bnf=None, url_constellation=None, url_bnf=None):
-        self.isbn_constellation = isbn_constellation
-        self.isbn_bnf = isbn_bnf
-        self.age_range_constellation = age_range_constellation  # list not used to conserve source in db
-        self.age_range_bnf = age_range_bnf
-        self.url_bnf = url_bnf
-        self.url_constellation = url_constellation
-
-    def align(self, isbn_bnf, age_range_bnf, url_bnf):
-        self.isbn_bnf = isbn_bnf
-        self.age_range_bnf = age_range_bnf
-        self.url_bnf = url_bnf
 
 
 class InterDBStats:
@@ -54,8 +43,8 @@ class InterDBStats:
         self.bnf_book_number: int = 0
         self.alignments_number: int = 0
         self.collision_number: int = 0
-        self.key_type = key_type
-        self.all_book_alignments = {}
+        self.key_type: str = key_type
+        self.all_book_alignments: Dict[str, BookAlignment] = {}
 
     def increment_alignment_number(self):
         self.alignments_number += 1
@@ -79,9 +68,8 @@ class InterDBStats:
     def align_by_key(self, book_alignment, book_key):  # O(1)
         if book_key in self.all_book_alignments:
             if not self.all_book_alignments[book_key].url_bnf:  # not a collision: bnf data not present
-                self.all_book_alignments[book_key].align(isbn_bnf=book_alignment.isbn_bnf,
-                                                         age_range_bnf=book_alignment.age_range_bnf,
-                                                         url_bnf=book_alignment.url_bnf)
+                self.all_book_alignments[book_key].align_bnf(isbn_bnf=book_alignment.isbn_bnf,
+                                                             url_bnf=book_alignment.url_bnf)
                 self.increment_alignment_number()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
 
             else:
@@ -102,7 +90,7 @@ class InterDBStats:
             for book in self.all_book_alignments:
                 if target_isbn == self.all_book_alignments[book].isbn_bnf:
                     return True
-        elif source =="constellation":
+        elif source == "constellation":
             for book in self.all_book_alignments:
                 if target_isbn == self.all_book_alignments[book].isbn_constellation:
                     return True
@@ -113,16 +101,16 @@ class InterDBStats:
     def compute_alignment_confusion_matrix(self):
 
         stats_logger.info("-----")
-        isbn_equality = 0 # TP
-        isbn_inequality = 0 # FP
+        isbn_equality = 0  # TP
+        isbn_inequality = 0  # FP
         missing_isbn_bnf_in_negatives = 0
         missing_isbn_constellation_in_negatives = 0
         missing_isbn_constellation_in_positives = 0
         missing_isbn_bnf_in_positives = 0
-        total_non_alignment = 0 # N
-        total_alignment = 0 # P
-        non_alignment_isbn_present = 0 # FN
-        non_alignment_isbn_absent = 0 # TN
+        total_non_alignment = 0  # N
+        total_alignment = 0  # P
+        non_alignment_isbn_present = 0  # FN
+        non_alignment_isbn_absent = 0  # TN
         lines_without_url = 0
         for book_key in self.all_book_alignments:
             isbn_constellation = self.all_book_alignments[book_key].isbn_constellation
@@ -142,14 +130,14 @@ class InterDBStats:
                     missing_isbn_constellation_in_positives += 1
                 if not isbn_bnf:
                     missing_isbn_bnf_in_positives += 1
-            elif url_bnf and not url_constellation: # non-alignment: only 1 bnf present
+            elif url_bnf and not url_constellation:  # non-alignment: only 1 bnf present
                 total_non_alignment += 1
                 if isbn_bnf:
                     # look if isbn present in a constellation book
                     if self.is_isbn_in_alignments_constellation(isbn_bnf):
                         non_alignment_isbn_present += 1
                     else:
-                        non_alignment_isbn_absent +=1
+                        non_alignment_isbn_absent += 1
                 else:
                     missing_isbn_bnf_in_negatives += 1
             elif not url_bnf and url_constellation:
@@ -157,13 +145,13 @@ class InterDBStats:
                 if isbn_constellation:
                     # look if isbn present in a bnf book
                     if self.is_isbn_in_alignments_bnf(isbn_constellation):
-                        non_alignment_isbn_present +=1
+                        non_alignment_isbn_present += 1
                     else:
-                        non_alignment_isbn_absent +=1
+                        non_alignment_isbn_absent += 1
                 else:
                     # missing isbn
-                    missing_isbn_constellation_in_negatives +=1
-            else: #no url at all
+                    missing_isbn_constellation_in_negatives += 1
+            else:  # no url at all
                 lines_without_url += 1
                 stats_logger("empty line", book)
 
@@ -179,9 +167,9 @@ class InterDBStats:
         stats_logger.info(f"missing isbn bnf for negatives {missing_isbn_bnf_in_negatives}")
         stats_logger.info(f"missing isbn constellation for negatives {missing_isbn_constellation_in_negatives}")
         stats_logger.info(f"proportion of correct isbn matches over total number of alignment "
-                     f"{isbn_equality / (self.alignments_number + utils.EPSILON)}")
+                          f"{isbn_equality / (self.alignments_number + utils.EPSILON)}")
         stats_logger.info(f"proportion of incorrect isbn matches over total number of alignment "
-                     f"{isbn_inequality / (self.alignments_number + utils.EPSILON)}")
+                          f"{isbn_inequality / (self.alignments_number + utils.EPSILON)}")
 
     def print_stats(self):
         self.total_book_number = self.constellation_book_number + self.bnf_book_number
@@ -241,18 +229,18 @@ stats_name_author_date = InterDBStats("name_author_date")
 
 # load the graph of constellation
 g = Graph()
-g.parse("../output_constellations.ttl", format="turtle")
+g.parse("../final_datasets/constellations.ttl", format="turtle")
 # g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="turtle")
 # g.parse("output_constellations_light_extended.ttl", format="turtle")
 
 # constellation loop
 for book in g.subjects(RDF.type, ns1.Book):
-    book_data:utils.RdfBookData = \
-    utils.remove_special_chars(
-        utils.remove_accents(
-            utils.lower(
-                utils.remove_spaces(
-                    utils.extract_data_constellation(g, book)))))
+    book_data: utils.RdfBookData = \
+        utils.remove_special_chars(
+            utils.remove_accents(
+                utils.lower(
+                    utils.remove_spaces(
+                        utils.extract_data_constellation(g, book)))))
 
     book_alignment_constellation = BookAlignment(url_constellation=book_data.url,
                                                  isbn_constellation=book_data.isbn,
@@ -261,11 +249,11 @@ for book in g.subjects(RDF.type, ns1.Book):
     name_author_key = utils.create_key(book_data.book_name, book_data.book_author)
     isbn_key = book_data.isbn
     name_author_publisher_key = utils.create_key(book_data.book_name, book_data.book_author, book_data.publisher)
-    name_author_publisher_date_key = utils.create_key(book_data.book_name, book_data.book_author, book_data.publisher, book_data.publication_date)
+    name_author_publisher_date_key = utils.create_key(book_data.book_name, book_data.book_author, book_data.publisher,
+                                                      book_data.publication_date)
     name_author_date_key = utils.create_key(book_name=book_data.book_name,
                                             book_author=book_data.book_author,
                                             publication_date=book_data.publication_date)
-
 
     stats_name_author.all_book_alignments[name_author_key] = copy.deepcopy(book_alignment_constellation)
     stats_isbn.all_book_alignments[isbn_key] = copy.deepcopy(book_alignment_constellation)
@@ -287,7 +275,7 @@ for book in g.subjects(RDF.type, ns1.Book):
 
 # reset graph
 g = Graph()
-g.parse("../output_bnf.ttl", format="turtle")
+g.parse("../final_datasets/bnf.ttl", format="turtle")
 # g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
 # g.parse("output_bnf_light_extended.ttl", format="turtle")
 
@@ -307,7 +295,8 @@ for book in g.subjects(RDF.type, ns1.Book):  # O(M)
     name_author_key = utils.create_key(book_data.book_name, book_data.book_author)
     isbn_key = book_data.isbn
     name_author_publisher_key = utils.create_key(book_data.book_name, book_data.book_author, book_data.publisher)
-    name_author_publisher_date_key = utils.create_key(book_data.book_name, book_data.book_author, book_data.publisher, book_data.publication_date)
+    name_author_publisher_date_key = utils.create_key(book_data.book_name, book_data.book_author, book_data.publisher,
+                                                      book_data.publication_date)
     name_author_date_key = utils.create_key(book_name=book_data.book_name,
                                             book_author=book_data.book_author,
                                             publication_date=book_data.publication_date)
