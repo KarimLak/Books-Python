@@ -38,7 +38,9 @@ class InterDbStatsApprox(InterDbStatsExact):
             if not self.all_book_alignments[best_key].url_bnf:  # not a collision: bnf data not present
                 self.all_book_alignments[best_key].align_bnf(isbn_bnf=book_alignment.isbn_bnf,
                                                              url_bnf=book_alignment.url_bnf,
-                                                             similarity_ratio_bnf=max_ratio)
+                                                             similarity_ratio_bnf=max_ratio,
+                                                             uri_bnf=book_alignment.uri_bnf,
+                                                             key_used_to_align_bnf=book_key)
                 self.increment_alignment_number()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
 
             else:
@@ -51,6 +53,7 @@ class InterDbStatsApprox(InterDbStatsExact):
                   newline="") as csvfile:
             writer = csv.writer(csvfile, delimiter='{')
             writer.writerow(["key",
+                             "key used to align bnf",
                              "similarity ratio",
                              "isbn_constellation",
                              "isbn_bnf",
@@ -61,6 +64,7 @@ class InterDbStatsApprox(InterDbStatsExact):
             for key in self.all_book_alignments.keys():
                 book_alignment_output: BookAlignment = self.all_book_alignments[key]
                 writer.writerow([key,
+                                 book_alignment_output.key_used_to_align_bnf,
                                  book_alignment_output.similarity_ratio_bnf,
                                  book_alignment_output.isbn_constellation,
                                  book_alignment_output.isbn_bnf,

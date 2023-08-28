@@ -40,27 +40,27 @@ g.parse("data/light stats/output_constellations_light_extended.ttl", format="tur
 # constellation loop
 
 for book in g.subjects(RDF.type, ns1.Book):
-    book_data: utils.RdfBookData = \
+    book_data_raw = utils.extract_data_constellation(g, book)
+    book_data_preprocessed: utils.RdfBookData = \
         utils.remove_special_chars(
             utils.remove_accents(
                 utils.lower(
-                    utils.remove_spaces(
-                        utils.extract_data_constellation(g, book)))))
+                    utils.remove_spaces(copy.deepcopy(book_data_raw)))))
 
-    book_alignment_constellation = BookAlignment(url_constellation=book_data.url,
-                                                 isbn_constellation=book_data.isbn,
-                                                 age_range_constellation=book_data.age_range_int)
+    book_alignment_constellation = BookAlignment(url_constellation=book_data_preprocessed.url,
+                                                 isbn_constellation=book_data_preprocessed.isbn,
+                                                 age_range_constellation=book_data_preprocessed.age_range_int,
+                                                 name=book_data_raw.book_name,  # put non preprocessed name
+                                                 author=book_data_raw.book_author,
+                                                 publisher=book_data_raw.publisher,
+                                                 date=book_data_raw.publication_date,
+                                                 uri_constellation=book_data_preprocessed.uri)
 
-    # name_author_key = utils.create_key(book_name, book_author)
-    # isbn_key = isbn
-    # name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
-    name_author_publisher_date_key = utils.create_key(book_name=book_data.book_name,
-                                                      book_author=book_data.book_author,
-                                                      publisher=book_data.publisher,
-                                                      publication_date=book_data.publication_date)
-    # name_author_date_key = utils.create_key(book_name=book_data.book_name,
-    #                                         book_author=book_data.book_author,
-    #                                         publication_date=book_data.publication_date)
+    name_author_publisher_date_key = utils.create_key(book_name=book_data_preprocessed.book_name,
+                                                      book_author=book_data_preprocessed.book_author,
+                                                      publisher=book_data_preprocessed.publisher,
+                                                      publication_date=book_data_preprocessed.publication_date)
+
 
     stats_approx.all_book_alignments[name_author_publisher_date_key] = copy.deepcopy(book_alignment_constellation)
 
@@ -80,27 +80,27 @@ g.parse("data/light stats/output_bnf_light_extended.ttl", format="turtle")
 
 with Parallel(n_jobs=N_JOBS) as parallel:
     for book in g.subjects(RDF.type, ns1.Book):  # O(M)
-        book_data: utils.RdfBookData = \
+        book_data_raw = utils.extract_data_bnf(g, book)
+        book_data_preprocessed: utils.RdfBookData = \
             utils.remove_special_chars(
                 utils.remove_accents(
                     utils.lower(
                         utils.remove_spaces(
-                            utils.extract_data_bnf(g, book)))))
-        book_alignment_bnf = BookAlignment(url_bnf=book_data.url,
-                                           isbn_bnf=book_data.isbn,
-                                           age_range_bnf=book_data.age_range_int)
+                            copy.deepcopy(book_data_raw)))))
+        book_alignment_bnf = BookAlignment(url_bnf=book_data_preprocessed.url,
+                                           isbn_bnf=book_data_preprocessed.isbn,
+                                           age_range_bnf=book_data_preprocessed.age_range_int,
+                                           uri_bnf=book_data_preprocessed.uri,
+                                           name=book_data_raw.book_name,  # non preprocessed name
+                                           author=book_data_raw.book_author,
+                                           publisher=book_data_raw.publisher,
+                                           date=book_data_raw.publication_date)
 
-        # name_author_key = utils.create_key(book_name, book_author)
-        # isbn_key = isbn
-        # name_author_publisher_key = utils.create_key(book_name, book_author, publisher)
-        # name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
-        name_author_publisher_date_key = utils.create_key(book_name=book_data.book_name,
-                                                          book_author=book_data.book_author,
-                                                          publisher=book_data.publisher,
-                                                          publication_date=book_data.publication_date)
-        # name_author_date_key = utils.create_key(book_name=book_data.book_name,
-        #                                         book_author=book_data.book_author,
-        #                                         publication_date=book_data.publication_date)
+
+        name_author_publisher_date_key = utils.create_key(book_name=book_data_preprocessed.book_name,
+                                                          book_author=book_data_preprocessed.book_author,
+                                                          publisher=book_data_preprocessed.publisher,
+                                                          publication_date=book_data_preprocessed.publication_date)
 
         start = time.time()
         stats_approx.align_by_approximate_key_bnf(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key, parallel)
