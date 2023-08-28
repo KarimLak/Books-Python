@@ -4,7 +4,7 @@ import utils
 import copy
 from joblib import Parallel
 import time
-from interdbstats import InterDBStats
+import interdbstats_hybrid
 from book_alignment import BookAlignment
 
 # define the rdf namespace
@@ -31,7 +31,7 @@ time_logger = utils.setup_logger('execution_time_logger',
                                  f'hybrid_{key_name}_ratio_{SIMILARITY_RATIO}_execution_time.log')
 stats_logger = utils.setup_logger('stats_logger', f'hybrid_{key_name}_ratio_{SIMILARITY_RATIO}_stats.log')
 
-stats = InterDBStats(key_name, time_logger, stats_logger, SIMILARITY_RATIO, N_JOBS)
+stats_hybrid = interdbstats_hybrid.InterDbStatsHybrid(key_name, stats_logger, time_logger, SIMILARITY_RATIO, N_JOBS)
 
 # constellations
 # ----------------------------------------------------
@@ -68,12 +68,12 @@ for book in g.subjects(RDF.type, ns1.Book):
     #                                         book_author=book_data.book_author,
     #                                         publication_date=book_data.publication_date)
 
-    stats.all_book_alignments[name_author_publisher_date_key] = \
+    stats_hybrid.all_book_alignments[name_author_publisher_date_key] = \
         copy.deepcopy(book_alignment_constellation)
 
-    stats.increment_constellation_book_number()
+    stats_hybrid.increment_constellation_book_number()
 
-print("constellation book number", stats.constellation_book_number)
+print("constellation book number", stats_hybrid.constellation_book_number)
 # BNF
 # ----------------------------------------------------
 
@@ -111,15 +111,15 @@ for book in g.subjects(RDF.type, ns1.Book):  # O(M)
     #                                         publication_date=book_data.publication_date)
 
     start = time.time()
-    stats.align_hybrid(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
+    stats_hybrid.align_hybrid(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
     end = time.time()
-    if stats.bnf_book_number % 10 == 0:
-        time_logger.info(f"book no {stats.bnf_book_number}")
+    if stats_hybrid.bnf_book_number % 10 == 0:
+        time_logger.info(f"book no {stats_hybrid.bnf_book_number}")
         time_logger.info(f"time elapsed 1 book {end - start}")
         time_logger.info("##################")
         time_logger.info("")
 
-    stats.increment_bnf_book_number()
+    stats_hybrid.increment_bnf_book_number()
 
 # LURELU
 # ----------------------------------------------------
@@ -154,20 +154,19 @@ with Parallel(n_jobs=N_JOBS) as parallel:
 
         start = time.time()
         # stats.align_by_approximate_key_lurelu(book_alignment_lurelu, name_author_publisher_date_key, parallel) # toggle to test pure approx alignement with lurelu
-        stats.align_hybrid_without_isbn(copy.deepcopy(book_alignment_lurelu), name_author_publisher_date_key, parallel)
+        stats_hybrid.align_hybrid_without_isbn(copy.deepcopy(book_alignment_lurelu), name_author_publisher_date_key, parallel)
         end = time.time()
 
-        if stats.lurelu_book_number % 10 == 0:
-            time_logger.info(f"book no {stats.lurelu_book_number}")
+        if stats_hybrid.lurelu_book_number % 10 == 0:
+            time_logger.info(f"book no {stats_hybrid.lurelu_book_number}")
             time_logger.info(f"time elapsed 1 book {end - start}")
             time_logger.info("##################")
             time_logger.info("")
 
-        stats.increment_lurelu_book_number()
+        stats_hybrid.increment_lurelu_book_number()
 
-stats.output_rdf()
-
-stats.output_csv_lurelu()
+stats_hybrid.output_rdf()
+stats_hybrid.output_csv()
 
 print("alignment done, computing stats ...")
-stats.print_stats()
+stats_hybrid.print_stats()
