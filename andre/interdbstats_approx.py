@@ -1,11 +1,11 @@
 import time
 from logging import Logger
-
 from joblib import delayed
 from book_alignment import BookAlignment
 import utils
 import csv
 from interdbstats_exact import InterDbStatsExact
+
 
 class InterDbStatsApprox(InterDbStatsExact):
     def __init__(self, key_type, stats_logger, time_logger, SIMILARITY_RATIO, N_JOBS) -> None:
@@ -41,7 +41,7 @@ class InterDbStatsApprox(InterDbStatsExact):
                                                              similarity_ratio_bnf=max_ratio,
                                                              uri_bnf=book_alignment.uri_bnf,
                                                              key_used_to_align_bnf=book_key)
-                self.increment_alignment_number()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
+                self.increment_alignment_number()
 
             else:
                 self.increment_collision_number()  # increase if bnf data already present: doublon inside bnf
@@ -49,7 +49,8 @@ class InterDbStatsApprox(InterDbStatsExact):
             self.all_book_alignments[book_key] = book_alignment  # bnf data gets into the dict without alignment
 
     def output_csv(self):
-        with open(f"{self.alignment_method}_alignment_{self.key_type}_ratio_{self.SIMILARITY_RATIO}.csv", "w", encoding='utf-8',
+        with open(f"{self.alignment_method}_alignment_{self.key_type}_ratio_{self.SIMILARITY_RATIO}.csv", "w",
+                  encoding='utf-8',
                   newline="") as csvfile:
             writer = csv.writer(csvfile, delimiter='{')
             writer.writerow(["key",
@@ -72,4 +73,3 @@ class InterDbStatsApprox(InterDbStatsExact):
                                  book_alignment_output.age_range_bnf,
                                  book_alignment_output.url_constellation,
                                  book_alignment_output.url_bnf])
-

@@ -3,11 +3,7 @@ from rdflib.namespace import RDF
 from collections import defaultdict
 import csv
 from itertools import zip_longest
-from utils import *
-
-# define the namespace
-pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
-ns1 = rdflib.namespace.Namespace("http://schema.org/")
+import utils
 
 
 class IntraDBStats: # stats for 1 db
@@ -46,16 +42,16 @@ class IntraDBStats: # stats for 1 db
         self.count_doublon_with_missing_values(book_name, book_author, age_range, publisher, publication_date, isbn, url)
 
     def count_doublon_with_missing_values(self, book_name, book_author, age_range, publisher, publication_date, isbn, url):
-        name_key = create_key(book_name)
+        name_key = utils.create_key(book_name)
         self.book_name_doublons[name_key].append(url)
 
-        name_author_key = create_key(book_name,book_author)
+        name_author_key = utils.create_key(book_name,book_author)
         self.book_name_author_doublons[name_author_key].append(url)
 
-        name_author_publisher_key = create_key(book_name,book_author, publisher)
+        name_author_publisher_key = utils.create_key(book_name,book_author, publisher)
         self.book_name_author_publisher_doublons[name_author_publisher_key].append(url)
 
-        name_author_publisher_date_key = create_key(book_name, book_author, publisher, publication_date)
+        name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
         self.book_name_author_publisher_date_doublons[name_author_publisher_date_key].append(url)
 
         self.isbn_doublons[isbn].append(url)
@@ -139,7 +135,7 @@ class IntraDBStats: # stats for 1 db
         for key in self.book_name_author_ages:
             if len(self.book_name_author_ages[key]) > 1:
                 book_name_author_ages_doublons[key] = self.book_name_author_ages[key]
-                similarity = jaccard(book_name_author_ages_doublons[key][0], book_name_author_ages_doublons[key][1]) # similarité entre seulement 2 doublons pour tester
+                similarity = utils.jaccard(book_name_author_ages_doublons[key][0], book_name_author_ages_doublons[key][1]) # similarité entre seulement 2 doublons pour tester
                 print(f"key: {key} | lists: {book_name_author_ages_doublons[key]} |  similarity between 2 lists: {similarity}")
                 average_similarity += similarity
         print("average similarity between ages of same name_author", average_similarity/name_author_doublon_count)
@@ -150,13 +146,13 @@ class IntraDBStats: # stats for 1 db
 
 # load the graph of constellation
 g = Graph()
-g.parse("../output_constellations.ttl", format="turtle")
-# g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="turtle")
+# g.parse("../output_constellations.ttl", format="turtle")
+g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="turtle")
 stats_constellation = IntraDBStats(source="Constellation")
 
 # refactor to have a reader class
-for book in g.subjects(RDF.type, ns1.Book):
-    book_data = extract_data_constellation(g, book)
+for book in g.subjects(RDF.type, utils.ns1.Book):
+    book_data = utils.extract_data_constellation(g, book)
     stats_constellation.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn)
 
 stats_constellation.print_stats()
@@ -167,13 +163,13 @@ stats_constellation.output_csv()
 # BNF
 
 g = Graph() # reset graph
-g.parse("../output_bnf.ttl", format="turtle")
-# g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
+# g.parse("../output_bnf.ttl", format="turtle")
+g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
 
 stats_bnf = IntraDBStats(source="BNF")
 
-for book in g.subjects(RDF.type, ns1.Book):
-    book_data = extract_data_bnf(g, book)
+for book in g.subjects(RDF.type, utils.ns1.Book):
+    book_data = utils.extract_data_bnf(g, book)
     stats_bnf.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn)
 
 stats_bnf.print_stats()

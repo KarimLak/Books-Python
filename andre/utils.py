@@ -130,7 +130,7 @@ def lower(book_data: RdfBookData):
 
 
 def strip_special_chars(s):
-    return re.sub(r"[-()\"#/@;:<>{}`+=~|.!?,']", "", s)  # also remove []
+    return re.sub(r"[-()\"#/@;:<>{}`+=~|.!?,']", "", s)
 
 
 def remove_special_chars(book_data: RdfBookData):

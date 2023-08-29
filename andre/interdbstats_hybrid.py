@@ -62,17 +62,18 @@ class InterDbStatsHybrid(InterDbStats):
             #     self.align_by_approximate_key(book_alignment, book_key)
 
     def align_hybrid_without_isbn(self, book_alignment, book_key, parallel):
-        aligned_with_book_key = self.align_by_exact_key_lurelu(book_alignment, book_key)  # lurelu is aligned without isbn
+        aligned_with_book_key = self.align_by_exact_key_lurelu(book_alignment,
+                                                               book_key)  # lurelu is aligned without isbn
         if not aligned_with_book_key:
             self.align_by_approximate_key_lurelu(book_alignment, book_key, parallel)
-
 
     def align_by_approximate_key_lurelu(self, book_alignment, book_key, parallel):
         keys_to_check = list(self.all_book_alignments.keys())
         start_key_finding = time.time()
         batch_size = int(len(keys_to_check) / self.N_JOBS) + 1
         similar_keys_list = parallel(
-            delayed(utils.is_key_close_enough_to_another_key)(book_key, keys_to_check[i:i + batch_size], self.SIMILARITY_RATIO) for i in
+            delayed(utils.is_key_close_enough_to_another_key)(book_key, keys_to_check[i:i + batch_size],
+                                                              self.SIMILARITY_RATIO) for i in
             range(0, len(keys_to_check), batch_size))
         end_key_finding = time.time()
         if self.bnf_book_number % 10 == 0:
@@ -87,10 +88,10 @@ class InterDbStatsHybrid(InterDbStats):
         if best_key:
             if not self.all_book_alignments[best_key].url_lurelu:  # not a collision: lurelu data not present
                 self.all_book_alignments[best_key].align_lurelu(isbn_lurelu=book_alignment.isbn_lurelu,
-                                                         url_lurelu=book_alignment.url_lurelu,
-                                                         similarity_ratio_lurelu=max_ratio,
-                                                         key_used_to_align_lurelu=book_key,
-                                                         uri_lurelu=book_alignment.uri_lurelu)
+                                                                url_lurelu=book_alignment.url_lurelu,
+                                                                similarity_ratio_lurelu=max_ratio,
+                                                                key_used_to_align_lurelu=book_key,
+                                                                uri_lurelu=book_alignment.uri_lurelu)
 
                 self.increment_alignment_number_lurelu()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
                 print("align approximate")
@@ -98,7 +99,8 @@ class InterDbStatsHybrid(InterDbStats):
             else:
                 self.increment_collision_number_approximate_key_lurelu()  # increase if lurelu data already present: doublon inside lurelu
         else:
-            self.all_book_alignments[book_key] = book_alignment  # lurelu data gets into the dict without alignment because could not find suitable candidate and no other methods to test
+            self.all_book_alignments[
+                book_key] = book_alignment  # lurelu data gets into the dict without alignment because could not find suitable candidate and no other methods to test
 
     def isbn_alignment(self, isbn_to_match):
         for candidate_key in self.all_book_alignments.keys():
@@ -123,7 +125,7 @@ class InterDbStatsHybrid(InterDbStats):
             else:
                 self.increment_collision_number_isbn()  # increase if bnf data already present: doublon inside bnf
                 return True  # if collision -> already aligned
-        else: # if not aligned with isbn, return without registering key in dict so it can be aligned with exact
+        else:  # if not aligned with isbn, return without registering key in dict so it can be aligned with exact
             return False
 
     # Returns True if alignment in this call or already done (collision)
@@ -150,20 +152,18 @@ class InterDbStatsHybrid(InterDbStats):
         if book_key_to_match in self.all_book_alignments:
             if not self.all_book_alignments[book_key_to_match].url_lurelu:  # not a collision: bnf data not present
                 self.all_book_alignments[book_key_to_match].align_lurelu(isbn_lurelu=book_alignment.isbn_lurelu,
-                                                                  url_lurelu=book_alignment.url_lurelu,
-                                                                  similarity_ratio_lurelu=-1,
-                                                                  key_used_to_align_lurelu="exact",
-                                                                  uri_lurelu=book_alignment.uri_lurelu)
+                                                                         url_lurelu=book_alignment.url_lurelu,
+                                                                         similarity_ratio_lurelu=-1,
+                                                                         key_used_to_align_lurelu="exact",
+                                                                         uri_lurelu=book_alignment.uri_lurelu)
                 self.increment_alignment_number_lurelu()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
                 print("align exact")
                 return True
             else:
                 self.increment_collision_number_exact_key_lurelu()
                 return True  # if collision -> already aligned
-        else: # if not aligned with exact, return without registering key in dict, so it can be aligned with approx
+        else:  # if not aligned with exact, return without registering key in dict, so it can be aligned with approx
             return False
-
-
 
     def compute_alignment_confusion_matrix_test(self):
 
@@ -244,9 +244,11 @@ class InterDbStatsHybrid(InterDbStats):
         self.stats_logger.info(f"alignment & NOT isbn matches FP {isbn_inequality}")
         self.stats_logger.info(f"NON alignment & NON isbn present TN {non_alignment_isbn_absent}")
         self.stats_logger.info(f"NON alignment & isbn present FN {non_alignment_isbn_present}")
-        self.stats_logger.info(f"missing isbn bnf or constellation for positives {missing_isbn_bnf_constellation_in_positives}")
+        self.stats_logger.info(
+            f"missing isbn bnf or constellation for positives {missing_isbn_bnf_constellation_in_positives}")
         self.stats_logger.info(f"missing isbn lurelu for positives {missing_isbn_lurelu_in_positives}")
-        self.stats_logger.info(f"missing isbn bnf or constellation for negatives {missing_isbn_bnf_constellation_in_negatives}")
+        self.stats_logger.info(
+            f"missing isbn bnf or constellation for negatives {missing_isbn_bnf_constellation_in_negatives}")
         self.stats_logger.info(f"missing isbn lurelu for negatives {missing_isbn_lurelu_in_negatives}")
 
     def print_stats(self):
@@ -262,7 +264,8 @@ class InterDbStatsHybrid(InterDbStats):
         self.stats_logger.info(f"total number of collisions isbn {self.collision_number_isbn}")
         self.stats_logger.info(f"total number of collisions exact key bnf {self.collision_number_exact_key_bnf}")
         self.stats_logger.info(f"total number of collisions exact key lurelu {self.collision_number_exact_key_lurelu}")
-        self.stats_logger.info(f"total number of collisions approximate key lurelu {self.collision_number_approximate_key_lurelu}")
+        self.stats_logger.info(
+            f"total number of collisions approximate key lurelu {self.collision_number_approximate_key_lurelu}")
         self.compute_alignment_confusion_matrix_validation()
         self.compute_alignment_confusion_matrix_test()
 

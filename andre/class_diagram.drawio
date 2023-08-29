@@ -1,0 +1,39 @@
+<mxGraphModel dx="0" dy="0" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" background="none" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="node1" parent="1" vertex="1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;andre.interdbstats.InterDbStats&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; constellation_book_number: &lt;br/&gt; stats_logger: &lt;br/&gt; total_book_number: &lt;br/&gt; key_type: &lt;br/&gt; collision_number: &lt;br/&gt; alignment_method: &lt;br/&gt; alignments_number: &lt;br/&gt; all_book_alignments: &lt;br/&gt; bnf_book_number: &lt;br/&gt; SIMILARITY_RATIO: &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; __init__(self, key_type, stats_logger): &lt;br/&gt; increment_alignment_number(self): &lt;br/&gt; increment_collision_number(self): &lt;br/&gt; increment_bnf_book_number(self): &lt;br/&gt; increment_constellation_book_number(self): &lt;br/&gt; is_isbn_in_alignments_bnf(self, target_isbn): &lt;br/&gt; is_isbn_in_alignments_constellation(self, target_isbn): &lt;br/&gt; is_isbn_in_alignments_constellation_bnf(self, target_isbn): &lt;br/&gt; is_isbn_in_alignments_lurelu(self, target_isbn): &lt;br/&gt; is_isbn_in_alignments(self, target_isbn, source): &lt;br/&gt; print_stats(self): &lt;br/&gt; compute_alignment_confusion_matrix_validation(self): &lt;br/&gt; output_rdf(self): &lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;">
+      <mxGeometry x="67" y="202" width="393" height="592" as="geometry" />
+    </mxCell>
+    <mxCell id="node2" parent="1" vertex="1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;andre.interdbstats_approx.InterDbStatsApprox&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; time_logger: &lt;br/&gt; N_JOBS: &lt;br/&gt; stats_logger: &lt;br/&gt; alignment_method: &lt;br/&gt; SIMILARITY_RATIO: &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; __init__(self, key_type, stats_logger, time_logger, SIMILARITY_RATIO, N_JOBS): &lt;br/&gt; align_by_approximate_key_bnf(self, book_alignment, book_key, parallel): &lt;br/&gt; output_csv(self): &lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;">
+      <mxGeometry x="-153" y="1750" width="413" height="232" as="geometry" />
+    </mxCell>
+    <mxCell id="node0" parent="1" vertex="1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;andre.interdbstats_exact.InterDbStatsExact&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; constellation_book_number: &lt;br/&gt; total_book_number: &lt;br/&gt; alignment_method: &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; __init__(self, key_type, stats_logger): &lt;br/&gt; align_by_key(self, book_alignment, book_key): &lt;br/&gt; output_csv(self): &lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;">
+      <mxGeometry x="-132" y="1180" width="371" height="184" as="geometry" />
+    </mxCell>
+    <mxCell id="node3" parent="1" vertex="1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;andre.interdbstats_hybrid.InterDbStatsHybrid&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; time_logger: &lt;br/&gt; collision_number_approximate_key_bnf: &lt;br/&gt; alignment_method: &lt;br/&gt; alignments_number_bnf: &lt;br/&gt; alignments_number_lurelu: &lt;br/&gt; collision_number_exact_key_bnf: &lt;br/&gt; collision_number_approximate_key_lurelu: &lt;br/&gt; lurelu_book_number: &lt;br/&gt; N_JOBS: &lt;br/&gt; total_book_number: &lt;br/&gt; collision_number_isbn: &lt;br/&gt; collision_number_exact_key_lurelu: &lt;br/&gt; SIMILARITY_RATIO: &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; __init__(self, key_type, stats_logger, time_logger, SIMILARITY_RATIO, N_JOBS): &lt;br/&gt; increment_alignment_number_bnf(self): &lt;br/&gt; increment_alignment_number_lurelu(self): &lt;br/&gt; increment_collision_number_isbn(self): &lt;br/&gt; increment_collision_number_exact_key_bnf(self): &lt;br/&gt; increment_collision_number_exact_key_lurelu(self): &lt;br/&gt; increment_collision_number_approximate_key_bnf(self): &lt;br/&gt; increment_collision_number_approximate_key_lurelu(self): &lt;br/&gt; increment_bnf_book_number(self): &lt;br/&gt; increment_constellation_book_number(self): &lt;br/&gt; increment_lurelu_book_number(self): &lt;br/&gt; align_hybrid(self, book_alignment, book_key): &lt;br/&gt; align_hybrid_without_isbn(self, book_alignment, book_key, parallel): &lt;br/&gt; align_by_approximate_key_lurelu(self, book_alignment, book_key, parallel): &lt;br/&gt; isbn_alignment(self, isbn_to_match): &lt;br/&gt; align_by_key_isbn(self, book_alignment): &lt;br/&gt; align_by_exact_key_bnf(self, book_alignment, book_key_to_match): &lt;br/&gt; align_by_exact_key_lurelu(self, book_alignment, book_key_to_match): &lt;br/&gt; compute_alignment_confusion_matrix_test(self): &lt;br/&gt; print_stats(self): &lt;br/&gt; output_csv(self): &lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;">
+      <mxGeometry x="259" y="844" width="429" height="856" as="geometry" />
+    </mxCell>
+    <mxCell id="edge1" edge="1" value="" parent="1" source="node2" target="node0" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=block;startSize=12;endArrow=none;strokeColor=#595959;exitX=0.500;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <Array as="points" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="edge0" edge="1" value="" parent="1" source="node0" target="node1" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=block;startSize=12;endArrow=none;strokeColor=#595959;exitX=0.500;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="54" y="819" />
+          <mxPoint x="264" y="819" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="edge2" edge="1" value="" parent="1" source="node3" target="node1" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=block;startSize=12;endArrow=none;strokeColor=#595959;exitX=0.500;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="474" y="819" />
+          <mxPoint x="264" y="819" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+  </root>
+</mxGraphModel>

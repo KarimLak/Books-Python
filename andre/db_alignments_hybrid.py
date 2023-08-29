@@ -7,10 +7,6 @@ import time
 import interdbstats_hybrid
 from book_alignment import BookAlignment
 
-# define the rdf namespace
-ns1 = Namespace("http://schema.org/")
-pbs = Namespace("http://example.org/pbs/")
-
 #############################################################################
 # before running:
 ## remove old data from directory so it's not overwritten
@@ -43,7 +39,7 @@ g.parse("../final_datasets/constellations.ttl", format="turtle")
 # g.parse("output_constellations_light_extended.ttl", format="turtle")
 
 # constellation loop
-for book in g.subjects(RDF.type, ns1.Book):
+for book in g.subjects(RDF.type, utils.ns1.Book):
     book_data_raw = utils.extract_data_constellation(g, book)
     book_data_preprocessed: utils.RdfBookData = \
         utils.remove_special_chars(
@@ -64,9 +60,6 @@ for book in g.subjects(RDF.type, ns1.Book):
                                                       book_author=book_data_preprocessed.book_author,
                                                       publisher=book_data_preprocessed.publisher,
                                                       publication_date=book_data_preprocessed.publication_date)
-    # name_author_date_key = utils.create_key(book_name=book_data.book_name,
-    #                                         book_author=book_data.book_author,
-    #                                         publication_date=book_data.publication_date)
 
     stats_hybrid.all_book_alignments[name_author_publisher_date_key] = \
         copy.deepcopy(book_alignment_constellation)
@@ -85,7 +78,7 @@ g.parse("../final_datasets/bnf.ttl", format="turtle")
 
 # BNF loop
 
-for book in g.subjects(RDF.type, ns1.Book):  # O(M)
+for book in g.subjects(RDF.type, utils.ns1.Book):  # O(M)
     book_data_raw = utils.extract_data_bnf(g, book)
     book_data_preprocessed: utils.RdfBookData = \
         utils.remove_special_chars(
@@ -106,9 +99,6 @@ for book in g.subjects(RDF.type, ns1.Book):  # O(M)
                                                       book_author=book_data_preprocessed.book_author,
                                                       publisher=book_data_preprocessed.publisher,
                                                       publication_date=book_data_preprocessed.publication_date)
-    # name_author_date_key = utils.create_key(book_name=book_data.book_name,
-    #                                         book_author=book_data.book_author,
-    #                                         publication_date=book_data.publication_date)
 
     start = time.time()
     stats_hybrid.align_hybrid(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
@@ -128,7 +118,7 @@ for book in g.subjects(RDF.type, ns1.Book):  # O(M)
 g = Graph()
 g.parse("../final_datasets/lurelu.ttl", format="turtle")
 with Parallel(n_jobs=N_JOBS) as parallel:
-    for book in g.subjects(RDF.type, ns1.Book):  # O(M)
+    for book in g.subjects(RDF.type, utils.ns1.Book):  # O(M)
         book_data_raw = utils.extract_data_lurelu(g, book)
         book_data_preprocessed: utils.RdfBookData = \
             utils.remove_special_chars(
@@ -148,9 +138,7 @@ with Parallel(n_jobs=N_JOBS) as parallel:
                                                           book_author=book_data_preprocessed.book_author,
                                                           publisher=book_data_preprocessed.publisher,
                                                           publication_date=book_data_preprocessed.publication_date)
-        # name_author_date_key = utils.create_key(book_name=book_data.book_name,
-        #                                         book_author=book_data.book_author,
-        #                                         publication_date=book_data.publication_date)
+
 
         start = time.time()
         # stats.align_by_approximate_key_lurelu(book_alignment_lurelu, name_author_publisher_date_key, parallel) # toggle to test pure approx alignement with lurelu

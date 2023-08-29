@@ -2,6 +2,7 @@ import utils
 import csv
 from interdbstats import InterDbStats
 
+
 class InterDbStatsExact(InterDbStats):
     def __init__(self, key_type, stats_logger) -> None:
         super().__init__(key_type, stats_logger)
@@ -9,14 +10,13 @@ class InterDbStatsExact(InterDbStats):
         self.constellation_book_number: int = 0
         self.alignment_method = "exact"
 
-
     def align_by_key(self, book_alignment, book_key):  # O(1)
         if book_key in self.all_book_alignments:
             if not self.all_book_alignments[book_key].url_bnf:  # not a collision: bnf data not present
                 self.all_book_alignments[book_key].align_bnf(isbn_bnf=book_alignment.isbn_bnf,
                                                              url_bnf=book_alignment.url_bnf,
                                                              uri_bnf=book_alignment.uri_bnf)
-                self.increment_alignment_number()  # bnf data already present because of key doublon  inside bnf; independant of alignment (may be present without alignment_
+                self.increment_alignment_number()
 
             else:
                 self.increment_collision_number()  # increase if bnf data already present: doublon inside bnf
@@ -24,7 +24,6 @@ class InterDbStatsExact(InterDbStats):
 
         else:
             self.all_book_alignments[book_key] = book_alignment  # bnf data gets into the dict without alignment
-
 
     def output_csv(self):
         with open(f"exact_alignment_{self.key_type}.csv", "w", encoding='utf-8', newline="") as csvfile:
