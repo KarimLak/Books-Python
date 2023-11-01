@@ -5,6 +5,9 @@ from book_alignment import BookAlignment
 from rdflib import Graph, Literal, URIRef
 from rdflib.namespace import RDF
 import utils
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
 
 class InterDbStats:
     def __init__(self, key_type, stats_logger) -> None:
@@ -92,6 +95,8 @@ class InterDbStats:
         non_alignment_isbn_present = 0  # FN
         non_alignment_isbn_absent = 0  # TN
         lines_without_url = 0
+        jaccard_similarities = []
+
         for book_key in self.all_book_alignments:
             isbn_constellation = self.all_book_alignments[book_key].isbn_constellation
             isbn_bnf = self.all_book_alignments[book_key].isbn_bnf
@@ -137,6 +142,21 @@ class InterDbStats:
                 lines_without_url += 1
                 self.stats_logger.info("empty line", book_key)
 
+            age_bnf = self.all_book_alignments[book_key].age_range_bnf
+            age_constellation = self.all_book_alignments[book_key].age_range_constellation
+            if age_bnf and age_constellation and len(age_constellation) > 0 and len(age_bnf) > 0:
+                similarity = utils.jaccard(age_bnf, age_constellation)
+                jaccard_similarities.append(similarity)
+
+        pandas_similarities = pd.Series(jaccard_similarities)
+        step = 5
+        bin_edges = np.arange(0, 100 + step, step)
+        plt.hist(pandas_similarities, bins=bin_edges, rwidth=0.5)
+        plt.xlabel("similarité Jaccard en %")
+        plt.ylabel("nombre d'alignements")
+
+        average_jaccard_similarity = sum(jaccard_similarities) / len(jaccard_similarities)
+        self.stats_logger.info(f"average jaccard similarity between ages {average_jaccard_similarity}")
         self.stats_logger.info(f"total alignment P {total_alignment}")
         self.stats_logger.info(f"total non-alignment N {total_non_alignment}")
         self.stats_logger.info(f"lines without url {lines_without_url}")
@@ -148,6 +168,7 @@ class InterDbStats:
         self.stats_logger.info(f"missing isbn constellation for positives {missing_isbn_constellation_in_positives}")
         self.stats_logger.info(f"missing isbn bnf for negatives {missing_isbn_bnf_in_negatives}")
         self.stats_logger.info(f"missing isbn constellation for negatives {missing_isbn_constellation_in_negatives}")
+        plt.show()
 
     def output_rdf(self):
         output_graph = Graph()

@@ -25,12 +25,13 @@ class BookAlignment:
         self.date = date
 
 
-    def align_bnf(self, key_used_to_align_bnf=None, isbn_bnf=None,url_bnf=None, uri_bnf=None, similarity_ratio_bnf=None):
+    def align_bnf(self, key_used_to_align_bnf=None, isbn_bnf=None, url_bnf=None, uri_bnf=None, similarity_ratio_bnf=None, age_range_bnf=None):
         self.key_used_to_align_bnf = key_used_to_align_bnf
         self.isbn_bnf = isbn_bnf
         self.url_bnf = url_bnf
         self.uri_bnf = uri_bnf
         self.similarity_ratio_bnf = similarity_ratio_bnf
+        self.age_range_bnf = age_range_bnf
 
     def align_lurelu(self,  isbn_lurelu=None,  url_lurelu=None, similarity_ratio_lurelu=None, key_used_to_align_lurelu=None, uri_lurelu=None):
         self.similarity_ratio_lurelu = similarity_ratio_lurelu

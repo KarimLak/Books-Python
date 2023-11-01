@@ -1,5 +1,7 @@
 import utils
 import csv
+
+from andre.book_alignment import BookAlignment
 from interdbstats import InterDbStats
 
 
@@ -10,12 +12,13 @@ class InterDbStatsExact(InterDbStats):
         self.constellation_book_number: int = 0
         self.alignment_method = "exact"
 
-    def align_by_key(self, book_alignment, book_key):  # O(1)
+    def align_by_key(self, book_alignment:BookAlignment, book_key):  # O(1)
         if book_key in self.all_book_alignments:
             if not self.all_book_alignments[book_key].url_bnf:  # not a collision: bnf data not present
                 self.all_book_alignments[book_key].align_bnf(isbn_bnf=book_alignment.isbn_bnf,
                                                              url_bnf=book_alignment.url_bnf,
-                                                             uri_bnf=book_alignment.uri_bnf)
+                                                             uri_bnf=book_alignment.uri_bnf,
+                                                             age_range_bnf=book_alignment.age_range_bnf)
                 self.increment_alignment_number()
 
             else:
