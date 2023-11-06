@@ -318,7 +318,7 @@ pbs:Livrentete skos:narrower pbs:Livrentete_Album_3_4,
         pbs:Livrentete_Roman_Enfant,
         pbs:Livrentete_Roman_Junior,
         pbs:Livrentete_Roman_Ado,
-        pbs:Livrentete_Livre_Image ;
+        pbs:Livrentete_Livre_Image .
 
 pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse skos:narrower pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse_Album,
         pbs:Prix_Saint_Exupéry_Valeurs_Jeunesse_Coup_De_C_ur_Jury_Enfants,
