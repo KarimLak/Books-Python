@@ -223,7 +223,7 @@ pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel skos:narrower pbs:Prix_Littérai
         pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_5_8,
         pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_9_12,
         pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Album_5_12,
-        pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Poesie
+        pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Poesie,
         pbs:Prix_Littéraires_Des_Enseignants_Aqpf_Anel_Roman_9_12 .
 
 pbs:Prix_Petit_Angle skos:narrower pbs:Prix_Petit_Angle_Petit_Angle_Étranger,
