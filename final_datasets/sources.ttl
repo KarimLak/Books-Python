@@ -1,0 +1,26 @@
+@prefix ns1: <http://schema.org/> .
+@prefix pbs: <http://www.example.org/pbs#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+
+
+
+
+pbs:Constellations a pbs:Source ;
+		   schema:name "Constellations"  .
+
+
+pbs:BNF a pbs:Source ;
+		   schema:name "BNF"  .
+
+
+pbs:Lurelu a pbs:Source ;
+		   schema:name "Lurelu"  .
+		   
+
+
+pbs:Babelio a pbs:Source ;
+		   schema:name "Babelio"  .
+		   
+

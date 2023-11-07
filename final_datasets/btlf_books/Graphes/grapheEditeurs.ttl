@@ -1,0 +1,2233 @@
+@prefix btlf-classe: <http://www.btlf.com/classe/> .
+@prefix btlf-editeur: <http://www.btlf.com/editeur/> .
+@prefix schema: <https://schema.org/> .
+
+btlf-editeur:0 a btlf-classe:Editeur ;
+    schema:name "Editions Gallimard" .
+
+btlf-editeur:1 a btlf-classe:Editeur ;
+    schema:name "Les Trois ourses" .
+
+btlf-editeur:10 a btlf-classe:Editeur ;
+    schema:name "Magnard-Vuibert" .
+
+btlf-editeur:100 a btlf-classe:Editeur ;
+    schema:name "L'Atelier" .
+
+btlf-editeur:101 a btlf-classe:Editeur ;
+    schema:name "Editions Corti" .
+
+btlf-editeur:102 a btlf-classe:Editeur ;
+    schema:name "Mila Editions" .
+
+btlf-editeur:103 a btlf-classe:Editeur ;
+    schema:name "Musée du Louvre" .
+
+btlf-editeur:104 a btlf-classe:Editeur ;
+    schema:name "Etre éditions" .
+
+btlf-editeur:105 a btlf-classe:Editeur ;
+    schema:name "Soréda" .
+
+btlf-editeur:106 a btlf-classe:Editeur ;
+    schema:name "Pika édition" .
+
+btlf-editeur:107 a btlf-classe:Editeur ;
+    schema:name "Editions Chan-ok" .
+
+btlf-editeur:108 a btlf-classe:Editeur ;
+    schema:name "Hoche communication" .
+
+btlf-editeur:109 a btlf-classe:Editeur ;
+    schema:name "Editions Hesse" .
+
+btlf-editeur:11 a btlf-classe:Editeur ;
+    schema:name "Soleil productions" .
+
+btlf-editeur:110 a btlf-classe:Editeur ;
+    schema:name "Dexia Editions" .
+
+btlf-editeur:111 a btlf-classe:Editeur ;
+    schema:name "L'Elan vert" .
+
+btlf-editeur:112 a btlf-classe:Editeur ;
+    schema:name "Les Editions du Quotidien" .
+
+btlf-editeur:113 a btlf-classe:Editeur ;
+    schema:name "Editions MK2" .
+
+btlf-editeur:114 a btlf-classe:Editeur ;
+    schema:name "Editions de L'Epure" .
+
+btlf-editeur:115 a btlf-classe:Editeur ;
+    schema:name "Editions Payot & Rivages" .
+
+btlf-editeur:116 a btlf-classe:Editeur ;
+    schema:name "Alseg edition presse et multimedia" .
+
+btlf-editeur:117 a btlf-classe:Editeur ;
+    schema:name "Groupe Paquet" .
+
+btlf-editeur:118 a btlf-classe:Editeur ;
+    schema:name "Jasor" .
+
+btlf-editeur:119 a btlf-classe:Editeur ;
+    schema:name "Epsilon éditions" .
+
+btlf-editeur:12 a btlf-classe:Editeur ;
+    schema:name "Gulf Stream (Editions du)" .
+
+btlf-editeur:120 a btlf-classe:Editeur ;
+    schema:name "L'Edune" .
+
+btlf-editeur:121 a btlf-classe:Editeur ;
+    schema:name "Passage piétons" .
+
+btlf-editeur:122 a btlf-classe:Editeur ;
+    schema:name "Cyr éditions" .
+
+btlf-editeur:123 a btlf-classe:Editeur ;
+    schema:name "Grain de sable" .
+
+btlf-editeur:124 a btlf-classe:Editeur ;
+    schema:name "Lire en Calédonie" .
+
+btlf-editeur:125 a btlf-classe:Editeur ;
+    schema:name "Valbert" .
+
+btlf-editeur:126 a btlf-classe:Editeur ;
+    schema:name "Oskar éditeur" .
+
+btlf-editeur:127 a btlf-classe:Editeur ;
+    schema:name "Le Lézard noir" .
+
+btlf-editeur:128 a btlf-classe:Editeur ;
+    schema:name "Viz Média Europe" .
+
+btlf-editeur:129 a btlf-classe:Editeur ;
+    schema:name "Editions Petit à Petit" .
+
+btlf-editeur:13 a btlf-classe:Editeur ;
+    schema:name "Bayard Editions Jeunesse" .
+
+btlf-editeur:130 a btlf-classe:Editeur ;
+    schema:name "OQO" .
+
+btlf-editeur:131 a btlf-classe:Editeur ;
+    schema:name "Éditions les 400 coups" .
+
+btlf-editeur:132 a btlf-classe:Editeur ;
+    schema:name "Afrobul" .
+
+btlf-editeur:133 a btlf-classe:Editeur ;
+    schema:name "Editions J'ai lu" .
+
+btlf-editeur:134 a btlf-classe:Editeur ;
+    schema:name "Intervista" .
+
+btlf-editeur:135 a btlf-classe:Editeur ;
+    schema:name "Editions MeMo" .
+
+btlf-editeur:136 a btlf-classe:Editeur ;
+    schema:name "Editions Lattès (Jean-Claude)" .
+
+btlf-editeur:137 a btlf-classe:Editeur ;
+    schema:name "Editions Ouest-France-Edilarge" .
+
+btlf-editeur:138 a btlf-classe:Editeur ;
+    schema:name "Librairie L'Atalante" .
+
+btlf-editeur:139 a btlf-classe:Editeur ;
+    schema:name "Le Cherche Midi" .
+
+btlf-editeur:14 a btlf-classe:Editeur ;
+    schema:name "Editions du Panama" .
+
+btlf-editeur:140 a btlf-classe:Editeur ;
+    schema:name "Yanbow Al Kitab" .
+
+btlf-editeur:141 a btlf-classe:Editeur ;
+    schema:name "Editions Atlas" .
+
+btlf-editeur:142 a btlf-classe:Editeur ;
+    schema:name "Le Courrier du livre" .
+
+btlf-editeur:143 a btlf-classe:Editeur ;
+    schema:name "L'Agapante et cie" .
+
+btlf-editeur:144 a btlf-classe:Editeur ;
+    schema:name "Kanjil" .
+
+btlf-editeur:145 a btlf-classe:Editeur ;
+    schema:name "Editions Lafontaine" .
+
+btlf-editeur:146 a btlf-classe:Editeur ;
+    schema:name "Nouveau Monde éditions" .
+
+btlf-editeur:147 a btlf-classe:Editeur ;
+    schema:name "Les Fous de Bassan !" .
+
+btlf-editeur:148 a btlf-classe:Editeur ;
+    schema:name "Editions Aubéron" .
+
+btlf-editeur:149 a btlf-classe:Editeur ;
+    schema:name "PLB éditions FWI" .
+
+btlf-editeur:15 a btlf-classe:Editeur ;
+    schema:name "Univers Poche" .
+
+btlf-editeur:150 a btlf-classe:Editeur ;
+    schema:name "Rue des écoles" .
+
+btlf-editeur:151 a btlf-classe:Editeur ;
+    schema:name "Editions du Temps" .
+
+btlf-editeur:152 a btlf-classe:Editeur ;
+    schema:name "Zuid-Nederlandse Uitgeverij" .
+
+btlf-editeur:153 a btlf-classe:Editeur ;
+    schema:name "Le Port a jauni" .
+
+btlf-editeur:154 a btlf-classe:Editeur ;
+    schema:name "Plume de carotte" .
+
+btlf-editeur:155 a btlf-classe:Editeur ;
+    schema:name "Editions Dadoclem" .
+
+btlf-editeur:156 a btlf-classe:Editeur ;
+    schema:name "Cité des sciences et de l'industrie" .
+
+btlf-editeur:157 a btlf-classe:Editeur ;
+    schema:name "Jean-Claude Gawsewitch éditeur" .
+
+btlf-editeur:158 a btlf-classe:Editeur ;
+    schema:name "Editions de L'Atelier" .
+
+btlf-editeur:159 a btlf-classe:Editeur ;
+    schema:name "Editions Belize" .
+
+btlf-editeur:16 a btlf-classe:Editeur ;
+    schema:name "AC Media" .
+
+btlf-editeur:160 a btlf-classe:Editeur ;
+    schema:name "Leméac éditeur" .
+
+btlf-editeur:161 a btlf-classe:Editeur ;
+    schema:name "Hachette Livre" .
+
+btlf-editeur:162 a btlf-classe:Editeur ;
+    schema:name "Editions de L'Archipel" .
+
+btlf-editeur:163 a btlf-classe:Editeur ;
+    schema:name "Odile Jacob" .
+
+btlf-editeur:164 a btlf-classe:Editeur ;
+    schema:name "CTP inter-parents" .
+
+btlf-editeur:165 a btlf-classe:Editeur ;
+    schema:name "Editions Point de vues" .
+
+btlf-editeur:166 a btlf-classe:Editeur ;
+    schema:name "Dagan Editions" .
+
+btlf-editeur:167 a btlf-classe:Editeur ;
+    schema:name "MAT Editions" .
+
+btlf-editeur:168 a btlf-classe:Editeur ;
+    schema:name "Au fond du grenier" .
+
+btlf-editeur:169 a btlf-classe:Editeur ;
+    schema:name "Editions du Centre Pompidou" .
+
+btlf-editeur:17 a btlf-classe:Editeur ;
+    schema:name "Editions Dupuis SA" .
+
+btlf-editeur:170 a btlf-classe:Editeur ;
+    schema:name "Editions les 400 coups" .
+
+btlf-editeur:171 a btlf-classe:Editeur ;
+    schema:name "Musées de la ville de Strasbourg" .
+
+btlf-editeur:172 a btlf-classe:Editeur ;
+    schema:name "Hélium" .
+
+btlf-editeur:173 a btlf-classe:Editeur ;
+    schema:name "Enfance et musique" .
+
+btlf-editeur:174 a btlf-classe:Editeur ;
+    schema:name "Le Mot et le reste" .
+
+btlf-editeur:175 a btlf-classe:Editeur ;
+    schema:name "Editions Frimousse" .
+
+btlf-editeur:176 a btlf-classe:Editeur ;
+    schema:name "Le Tripode" .
+
+btlf-editeur:177 a btlf-classe:Editeur ;
+    schema:name "Lirabelle" .
+
+btlf-editeur:178 a btlf-classe:Editeur ;
+    schema:name "Libella" .
+
+btlf-editeur:179 a btlf-classe:Editeur ;
+    schema:name "Editions Espaces 34" .
+
+btlf-editeur:18 a btlf-classe:Editeur ;
+    schema:name "Editions L'Harmattan" .
+
+btlf-editeur:180 a btlf-classe:Editeur ;
+    schema:name "Les Editions du Ricochet" .
+
+btlf-editeur:181 a btlf-classe:Editeur ;
+    schema:name "Hugo et compagnie" .
+
+btlf-editeur:182 a btlf-classe:Editeur ;
+    schema:name "Editions Grandir" .
+
+btlf-editeur:183 a btlf-classe:Editeur ;
+    schema:name "Karibencyla" .
+
+btlf-editeur:184 a btlf-classe:Editeur ;
+    schema:name "Editions Quart monde" .
+
+btlf-editeur:185 a btlf-classe:Editeur ;
+    schema:name "Lancosme multimédia" .
+
+btlf-editeur:186 a btlf-classe:Editeur ;
+    schema:name "Editions Orphie" .
+
+btlf-editeur:187 a btlf-classe:Editeur ;
+    schema:name "Magellan & Cie" .
+
+btlf-editeur:188 a btlf-classe:Editeur ;
+    schema:name "Les éditions Héritage" .
+
+btlf-editeur:189 a btlf-classe:Editeur ;
+    schema:name "Alzabane éditions" .
+
+btlf-editeur:19 a btlf-classe:Editeur ;
+    schema:name "Bayard Editions" .
+
+btlf-editeur:190 a btlf-classe:Editeur ;
+    schema:name "Editions du Mont" .
+
+btlf-editeur:191 a btlf-classe:Editeur ;
+    schema:name "Nouvelles éditions Scala" .
+
+btlf-editeur:192 a btlf-classe:Editeur ;
+    schema:name "Editions Paulsen" .
+
+btlf-editeur:193 a btlf-classe:Editeur ;
+    schema:name "Prikosnovenie" .
+
+btlf-editeur:194 a btlf-classe:Editeur ;
+    schema:name "Komedit" .
+
+btlf-editeur:195 a btlf-classe:Editeur ;
+    schema:name "Les éditions du Jardin des mots" .
+
+btlf-editeur:196 a btlf-classe:Editeur ;
+    schema:name "La P'tite scène qui bouge" .
+
+btlf-editeur:197 a btlf-classe:Editeur ;
+    schema:name "Michel Lafon" .
+
+btlf-editeur:198 a btlf-classe:Editeur ;
+    schema:name "Critères" .
+
+btlf-editeur:199 a btlf-classe:Editeur ;
+    schema:name "Mémoire d'encrier" .
+
+btlf-editeur:2 a btlf-classe:Editeur ;
+    schema:name "One Stroke" .
+
+btlf-editeur:20 a btlf-classe:Editeur ;
+    schema:name "Dargaud" .
+
+btlf-editeur:200 a btlf-classe:Editeur ;
+    schema:name "Quespire" .
+
+btlf-editeur:201 a btlf-classe:Editeur ;
+    schema:name "Editions des Braques" .
+
+btlf-editeur:202 a btlf-classe:Editeur ;
+    schema:name "Les éditions du Bonhomme vert" .
+
+btlf-editeur:203 a btlf-classe:Editeur ;
+    schema:name "Vengeur masqué" .
+
+btlf-editeur:204 a btlf-classe:Editeur ;
+    schema:name "XO éditions" .
+
+btlf-editeur:205 a btlf-classe:Editeur ;
+    schema:name "Editions Aréopage" .
+
+btlf-editeur:206 a btlf-classe:Editeur ;
+    schema:name "Editions Ecole active" .
+
+btlf-editeur:207 a btlf-classe:Editeur ;
+    schema:name "Phaidon" .
+
+btlf-editeur:208 a btlf-classe:Editeur ;
+    schema:name "Les éditions de la Salamandre " .
+
+btlf-editeur:209 a btlf-classe:Editeur ;
+    schema:name "Editions de La Salamandre" .
+
+btlf-editeur:21 a btlf-classe:Editeur ;
+    schema:name "Editions Lito" .
+
+btlf-editeur:210 a btlf-classe:Editeur ;
+    schema:name "Esperluète éditions" .
+
+btlf-editeur:211 a btlf-classe:Editeur ;
+    schema:name "Editions du Lampion" .
+
+btlf-editeur:212 a btlf-classe:Editeur ;
+    schema:name "HongFei Cultures" .
+
+btlf-editeur:213 a btlf-classe:Editeur ;
+    schema:name "Editions [MiC_MaC]" .
+
+btlf-editeur:214 a btlf-classe:Editeur ;
+    schema:name "Les Editions de Saxe" .
+
+btlf-editeur:215 a btlf-classe:Editeur ;
+    schema:name "Eveil et découvertes" .
+
+btlf-editeur:216 a btlf-classe:Editeur ;
+    schema:name "Editions Tikouti" .
+
+btlf-editeur:217 a btlf-classe:Editeur ;
+    schema:name "Scrineo" .
+
+btlf-editeur:218 a btlf-classe:Editeur ;
+    schema:name "Le Fond du Tiroir" .
+
+btlf-editeur:219 a btlf-classe:Editeur ;
+    schema:name "Editions Tartamudo" .
+
+btlf-editeur:22 a btlf-classe:Editeur ;
+    schema:name "L'Ecole des loisirs" .
+
+btlf-editeur:220 a btlf-classe:Editeur ;
+    schema:name "Editions des Grandes personnes" .
+
+btlf-editeur:221 a btlf-classe:Editeur ;
+    schema:name "Escabelle" .
+
+btlf-editeur:222 a btlf-classe:Editeur ;
+    schema:name "Benjamins media" .
+
+btlf-editeur:223 a btlf-classe:Editeur ;
+    schema:name "Association culturelle France-Amérique" .
+
+btlf-editeur:224 a btlf-classe:Editeur ;
+    schema:name "Groupe Ville-Marie" .
+
+btlf-editeur:225 a btlf-classe:Editeur ;
+    schema:name "Galerie Barbier & Mathon" .
+
+btlf-editeur:226 a btlf-classe:Editeur ;
+    schema:name "Editions Stock" .
+
+btlf-editeur:227 a btlf-classe:Editeur ;
+    schema:name "Multimed Publishing SAS" .
+
+btlf-editeur:228 a btlf-classe:Editeur ;
+    schema:name "Fondencre" .
+
+btlf-editeur:229 a btlf-classe:Editeur ;
+    schema:name "Editions Cadex" .
+
+btlf-editeur:23 a btlf-classe:Editeur ;
+    schema:name "Media-Participations Paris" .
+
+btlf-editeur:230 a btlf-classe:Editeur ;
+    schema:name "Planète rebelle" .
+
+btlf-editeur:231 a btlf-classe:Editeur ;
+    schema:name "Rouge safran" .
+
+btlf-editeur:232 a btlf-classe:Editeur ;
+    schema:name "Studyrama" .
+
+btlf-editeur:233 a btlf-classe:Editeur ;
+    schema:name "Ankama Editions" .
+
+btlf-editeur:234 a btlf-classe:Editeur ;
+    schema:name "Éditions Michel Quintin" .
+
+btlf-editeur:235 a btlf-classe:Editeur ;
+    schema:name "Esprit libre junior" .
+
+btlf-editeur:236 a btlf-classe:Editeur ;
+    schema:name "Editions Courtes et longues" .
+
+btlf-editeur:237 a btlf-classe:Editeur ;
+    schema:name "Editions Denoël" .
+
+btlf-editeur:238 a btlf-classe:Editeur ;
+    schema:name "ST2  " .
+
+btlf-editeur:239 a btlf-classe:Editeur ;
+    schema:name "Les Editions Fei" .
+
+btlf-editeur:24 a btlf-classe:Editeur ;
+    schema:name "SEJER" .
+
+btlf-editeur:240 a btlf-classe:Editeur ;
+    schema:name "Bragelonne" .
+
+btlf-editeur:241 a btlf-classe:Editeur ;
+    schema:name "La courte échelle" .
+
+btlf-editeur:242 a btlf-classe:Editeur ;
+    schema:name "Au diable Vauvert" .
+
+btlf-editeur:243 a btlf-classe:Editeur ;
+    schema:name "Editions-Diffusion Karthala" .
+
+btlf-editeur:244 a btlf-classe:Editeur ;
+    schema:name "Editions Thames & Hudson" .
+
+btlf-editeur:245 a btlf-classe:Editeur ;
+    schema:name "Le Genévrier" .
+
+btlf-editeur:246 a btlf-classe:Editeur ;
+    schema:name "Des Bulles dans l'océan" .
+
+btlf-editeur:247 a btlf-classe:Editeur ;
+    schema:name "Editions Grandvaux" .
+
+btlf-editeur:248 a btlf-classe:Editeur ;
+    schema:name "Les éditions Carpentier" .
+
+btlf-editeur:249 a btlf-classe:Editeur ;
+    schema:name "Donner à voir (Association)" .
+
+btlf-editeur:25 a btlf-classe:Editeur ;
+    schema:name "Editions Glénat SA" .
+
+btlf-editeur:250 a btlf-classe:Editeur ;
+    schema:name "Editions Terre de brume" .
+
+btlf-editeur:251 a btlf-classe:Editeur ;
+    schema:name "Rue de l'échiquier" .
+
+btlf-editeur:252 a btlf-classe:Editeur ;
+    schema:name "Marabout" .
+
+btlf-editeur:253 a btlf-classe:Editeur ;
+    schema:name "Transboréal" .
+
+btlf-editeur:254 a btlf-classe:Editeur ;
+    schema:name "Yves Briend Editeur" .
+
+btlf-editeur:255 a btlf-classe:Editeur ;
+    schema:name "Utopique" .
+
+btlf-editeur:256 a btlf-classe:Editeur ;
+    schema:name "Editions de la Balle" .
+
+btlf-editeur:257 a btlf-classe:Editeur ;
+    schema:name "éditions FLBLB" .
+
+btlf-editeur:258 a btlf-classe:Editeur ;
+    schema:name "Formulette production" .
+
+btlf-editeur:259 a btlf-classe:Editeur ;
+    schema:name "Editions Millefeuille" .
+
+btlf-editeur:26 a btlf-classe:Editeur ;
+    schema:name "Editions Delcourt" .
+
+btlf-editeur:260 a btlf-classe:Editeur ;
+    schema:name "Société nouvelle Anne Carrière" .
+
+btlf-editeur:261 a btlf-classe:Editeur ;
+    schema:name "Des ronds dans l'O" .
+
+btlf-editeur:262 a btlf-classe:Editeur ;
+    schema:name "Graine 2" .
+
+btlf-editeur:263 a btlf-classe:Editeur ;
+    schema:name "Editions Nomades" .
+
+btlf-editeur:264 a btlf-classe:Editeur ;
+    schema:name "Au merle moqueur" .
+
+btlf-editeur:265 a btlf-classe:Editeur ;
+    schema:name "Talents hauts" .
+
+btlf-editeur:266 a btlf-classe:Editeur ;
+    schema:name "TASCHEN" .
+
+btlf-editeur:267 a btlf-classe:Editeur ;
+    schema:name "Pascal Galodé éditeurs" .
+
+btlf-editeur:268 a btlf-classe:Editeur ;
+    schema:name "Edition Langlaude" .
+
+btlf-editeur:269 a btlf-classe:Editeur ;
+    schema:name "Prisma Media" .
+
+btlf-editeur:27 a btlf-classe:Editeur ;
+    schema:name "Gallimard-Jeunesse" .
+
+btlf-editeur:270 a btlf-classe:Editeur ;
+    schema:name "les Editions la Tulipe noire" .
+
+btlf-editeur:271 a btlf-classe:Editeur ;
+    schema:name "La Cheminante" .
+
+btlf-editeur:272 a btlf-classe:Editeur ;
+    schema:name "Edition Horizon oriental" .
+
+btlf-editeur:273 a btlf-classe:Editeur ;
+    schema:name "Oslo éditions" .
+
+btlf-editeur:274 a btlf-classe:Editeur ;
+    schema:name "Après la lune" .
+
+btlf-editeur:275 a btlf-classe:Editeur ;
+    schema:name "Association Lilygus" .
+
+btlf-editeur:276 a btlf-classe:Editeur ;
+    schema:name "Robert Laffont" .
+
+btlf-editeur:277 a btlf-classe:Editeur ;
+    schema:name "Art à la page" .
+
+btlf-editeur:278 a btlf-classe:Editeur ;
+    schema:name "Editions IMHO" .
+
+btlf-editeur:279 a btlf-classe:Editeur ;
+    schema:name "La Mercurie" .
+
+btlf-editeur:28 a btlf-classe:Editeur ;
+    schema:name "Editions Palette" .
+
+btlf-editeur:280 a btlf-classe:Editeur ;
+    schema:name "les Editions Magnani" .
+
+btlf-editeur:281 a btlf-classe:Editeur ;
+    schema:name "Editions Coop Breizh" .
+
+btlf-editeur:282 a btlf-classe:Editeur ;
+    schema:name "Editions La Joie de lire" .
+
+btlf-editeur:283 a btlf-classe:Editeur ;
+    schema:name "L'Association" .
+
+btlf-editeur:284 a btlf-classe:Editeur ;
+    schema:name "Le Verger des Hespérides" .
+
+btlf-editeur:285 a btlf-classe:Editeur ;
+    schema:name "Le Temps des cerises" .
+
+btlf-editeur:286 a btlf-classe:Editeur ;
+    schema:name "Créaliv" .
+
+btlf-editeur:287 a btlf-classe:Editeur ;
+    schema:name "Monde Global" .
+
+btlf-editeur:288 a btlf-classe:Editeur ;
+    schema:name "CERCIL" .
+
+btlf-editeur:289 a btlf-classe:Editeur ;
+    schema:name "Editions Bulles de savon" .
+
+btlf-editeur:29 a btlf-classe:Editeur ;
+    schema:name "Actes sud" .
+
+btlf-editeur:290 a btlf-classe:Editeur ;
+    schema:name "Cambourakis" .
+
+btlf-editeur:291 a btlf-classe:Editeur ;
+    schema:name "Editions Musée Rodin" .
+
+btlf-editeur:292 a btlf-classe:Editeur ;
+    schema:name "Groupe Elidia" .
+
+btlf-editeur:293 a btlf-classe:Editeur ;
+    schema:name "Les Editions de la Grande ourse" .
+
+btlf-editeur:294 a btlf-classe:Editeur ;
+    schema:name "D'Orbestier" .
+
+btlf-editeur:295 a btlf-classe:Editeur ;
+    schema:name "Centre France livres" .
+
+btlf-editeur:296 a btlf-classe:Editeur ;
+    schema:name "Les Petits Platons" .
+
+btlf-editeur:297 a btlf-classe:Editeur ;
+    schema:name "Editions de La Différence" .
+
+btlf-editeur:298 a btlf-classe:Editeur ;
+    schema:name "Éditions Goélette" .
+
+btlf-editeur:299 a btlf-classe:Editeur ;
+    schema:name "On a marché sur la bulle" .
+
+btlf-editeur:3 a btlf-classe:Editeur ;
+    schema:name "Editions Fleurus" .
+
+btlf-editeur:30 a btlf-classe:Editeur ;
+    schema:name "Thierry Magnier" .
+
+btlf-editeur:300 a btlf-classe:Editeur ;
+    schema:name "Editions Arola" .
+
+btlf-editeur:301 a btlf-classe:Editeur ;
+    schema:name "Tertium" .
+
+btlf-editeur:302 a btlf-classe:Editeur ;
+    schema:name "Eddif Maroc SA" .
+
+btlf-editeur:303 a btlf-classe:Editeur ;
+    schema:name "Yomad" .
+
+btlf-editeur:304 a btlf-classe:Editeur ;
+    schema:name "Marsam" .
+
+btlf-editeur:305 a btlf-classe:Editeur ;
+    schema:name "Editions Ruisseaux d'Afrique" .
+
+btlf-editeur:306 a btlf-classe:Editeur ;
+    schema:name "Editions NDZE" .
+
+btlf-editeur:307 a btlf-classe:Editeur ;
+    schema:name "Editions Tropiques" .
+
+btlf-editeur:308 a btlf-classe:Editeur ;
+    schema:name "Akoma Mba" .
+
+btlf-editeur:309 a btlf-classe:Editeur ;
+    schema:name "Ramsay éditions" .
+
+btlf-editeur:31 a btlf-classe:Editeur ;
+    schema:name "Editions Mijade" .
+
+btlf-editeur:310 a btlf-classe:Editeur ;
+    schema:name "Bibliothèque lecture développement" .
+
+btlf-editeur:311 a btlf-classe:Editeur ;
+    schema:name "Groupe HMH" .
+
+btlf-editeur:312 a btlf-classe:Editeur ;
+    schema:name "Faribole" .
+
+btlf-editeur:313 a btlf-classe:Editeur ;
+    schema:name "Alice éditions" .
+
+btlf-editeur:314 a btlf-classe:Editeur ;
+    schema:name "Editions Télémaque" .
+
+btlf-editeur:315 a btlf-classe:Editeur ;
+    schema:name "Editions Bachari" .
+
+btlf-editeur:316 a btlf-classe:Editeur ;
+    schema:name "La Montagne secrète" .
+
+btlf-editeur:317 a btlf-classe:Editeur ;
+    schema:name "Editions de la Renarde rouge" .
+
+btlf-editeur:318 a btlf-classe:Editeur ;
+    schema:name "Editions Livre Sud" .
+
+btlf-editeur:319 a btlf-classe:Editeur ;
+    schema:name "Delagrave édition" .
+
+btlf-editeur:32 a btlf-classe:Editeur ;
+    schema:name "Rue du monde" .
+
+btlf-editeur:320 a btlf-classe:Editeur ;
+    schema:name "UNICEF" .
+
+btlf-editeur:321 a btlf-classe:Editeur ;
+    schema:name "Les éditions Graines de pensées" .
+
+btlf-editeur:322 a btlf-classe:Editeur ;
+    schema:name "Radio-France internationale" .
+
+btlf-editeur:323 a btlf-classe:Editeur ;
+    schema:name "Editions Usborne" .
+
+btlf-editeur:324 a btlf-classe:Editeur ;
+    schema:name "La Pastèque" .
+
+btlf-editeur:325 a btlf-classe:Editeur ;
+    schema:name "Diantantu (Sungamena Serge)" .
+
+btlf-editeur:326 a btlf-classe:Editeur ;
+    schema:name "Editions Vizavi" .
+
+btlf-editeur:327 a btlf-classe:Editeur ;
+    schema:name "Humoir" .
+
+btlf-editeur:328 a btlf-classe:Editeur ;
+    schema:name "Samir Editeur" .
+
+btlf-editeur:329 a btlf-classe:Editeur ;
+    schema:name "éditions Notari SARL" .
+
+btlf-editeur:33 a btlf-classe:Editeur ;
+    schema:name "Société des éditions Grasset et Fasquelle" .
+
+btlf-editeur:330 a btlf-classe:Editeur ;
+    schema:name "Aniss éditions" .
+
+btlf-editeur:331 a btlf-classe:Editeur ;
+    schema:name "Soulières éditeur" .
+
+btlf-editeur:332 a btlf-classe:Editeur ;
+    schema:name "Françoise Salmon" .
+
+btlf-editeur:333 a btlf-classe:Editeur ;
+    schema:name "Éditions Glénat Québec" .
+
+btlf-editeur:334 a btlf-classe:Editeur ;
+    schema:name "Caraïbéditions" .
+
+btlf-editeur:335 a btlf-classe:Editeur ;
+    schema:name "Secrets des toiles" .
+
+btlf-editeur:336 a btlf-classe:Editeur ;
+    schema:name "Editions Corentin" .
+
+btlf-editeur:337 a btlf-classe:Editeur ;
+    schema:name "Mad fabrik" .
+
+btlf-editeur:338 a btlf-classe:Editeur ;
+    schema:name "Éditions Marchand de feuilles" .
+
+btlf-editeur:339 a btlf-classe:Editeur ;
+    schema:name "Éditions Scholastic" .
+
+btlf-editeur:34 a btlf-classe:Editeur ;
+    schema:name "Editions du Rouergue" .
+
+btlf-editeur:340 a btlf-classe:Editeur ;
+    schema:name "Éditions du Boréal" .
+
+btlf-editeur:341 a btlf-classe:Editeur ;
+    schema:name "Éditions Pierre Tisseyre" .
+
+btlf-editeur:342 a btlf-classe:Editeur ;
+    schema:name "Éditions Les intouchables" .
+
+btlf-editeur:343 a btlf-classe:Editeur ;
+    schema:name "Éditions Québec Amérique" .
+
+btlf-editeur:344 a btlf-classe:Editeur ;
+    schema:name "Éditions FouLire" .
+
+btlf-editeur:345 a btlf-classe:Editeur ;
+    schema:name "Éditions L'Interligne" .
+
+btlf-editeur:346 a btlf-classe:Editeur ;
+    schema:name "Les éditions du soleil de minuit" .
+
+btlf-editeur:347 a btlf-classe:Editeur ;
+    schema:name "Institut international de la marionnette" .
+
+btlf-editeur:348 a btlf-classe:Editeur ;
+    schema:name "Editions L'Entretemps" .
+
+btlf-editeur:349 a btlf-classe:Editeur ;
+    schema:name "Nobrow" .
+
+btlf-editeur:35 a btlf-classe:Editeur ;
+    schema:name "Editions Sarbacane" .
+
+btlf-editeur:350 a btlf-classe:Editeur ;
+    schema:name "Bakame Editions" .
+
+btlf-editeur:351 a btlf-classe:Editeur ;
+    schema:name "Association Sous la lime" .
+
+btlf-editeur:352 a btlf-classe:Editeur ;
+    schema:name "Les heures bleues" .
+
+btlf-editeur:353 a btlf-classe:Editeur ;
+    schema:name "Fréon asbl" .
+
+btlf-editeur:354 a btlf-classe:Editeur ;
+    schema:name "Bang Editions" .
+
+btlf-editeur:355 a btlf-classe:Editeur ;
+    schema:name "Nane Editions" .
+
+btlf-editeur:356 a btlf-classe:Editeur ;
+    schema:name "Terra incognita" .
+
+btlf-editeur:357 a btlf-classe:Editeur ;
+    schema:name "Isan Manga" .
+
+btlf-editeur:358 a btlf-classe:Editeur ;
+    schema:name "Diabolo Ediciones" .
+
+btlf-editeur:359 a btlf-classe:Editeur ;
+    schema:name "Atrabile" .
+
+btlf-editeur:36 a btlf-classe:Editeur ;
+    schema:name "Père Castor-Flammarion" .
+
+btlf-editeur:360 a btlf-classe:Editeur ;
+    schema:name "Ballon" .
+
+btlf-editeur:361 a btlf-classe:Editeur ;
+    schema:name "Kennes Editions" .
+
+btlf-editeur:362 a btlf-classe:Editeur ;
+    schema:name "Editions des Arènes" .
+
+btlf-editeur:363 a btlf-classe:Editeur ;
+    schema:name "Bayard Canada Livres" .
+
+btlf-editeur:364 a btlf-classe:Editeur ;
+    schema:name "Éditions de l'Isatis" .
+
+btlf-editeur:365 a btlf-classe:Editeur ;
+    schema:name "Lettr'ange" .
+
+btlf-editeur:366 a btlf-classe:Editeur ;
+    schema:name "Afrique-Orient" .
+
+btlf-editeur:367 a btlf-classe:Editeur ;
+    schema:name "Editions les Fourmis rouges" .
+
+btlf-editeur:368 a btlf-classe:Editeur ;
+    schema:name "Cauris éditions" .
+
+btlf-editeur:369 a btlf-classe:Editeur ;
+    schema:name "Editions Ganndal" .
+
+btlf-editeur:37 a btlf-classe:Editeur ;
+    schema:name "Editions Milan" .
+
+btlf-editeur:370 a btlf-classe:Editeur ;
+    schema:name "Editions Michel Lagarde" .
+
+btlf-editeur:371 a btlf-classe:Editeur ;
+    schema:name "Maison Georges" .
+
+btlf-editeur:372 a btlf-classe:Editeur ;
+    schema:name "L'Ampoule" .
+
+btlf-editeur:373 a btlf-classe:Editeur ;
+    schema:name "IRFAN, le Label" .
+
+btlf-editeur:374 a btlf-classe:Editeur ;
+    schema:name "L'Initiale" .
+
+btlf-editeur:375 a btlf-classe:Editeur ;
+    schema:name "Editions Fabert" .
+
+btlf-editeur:376 a btlf-classe:Editeur ;
+    schema:name "Dunod Editeur" .
+
+btlf-editeur:377 a btlf-classe:Editeur ;
+    schema:name "WINIOUX" .
+
+btlf-editeur:378 a btlf-classe:Editeur ;
+    schema:name "Le Muscadier" .
+
+btlf-editeur:379 a btlf-classe:Editeur ;
+    schema:name "Parc de la Villette" .
+
+btlf-editeur:38 a btlf-classe:Editeur ;
+    schema:name "L'Arche éditeur" .
+
+btlf-editeur:380 a btlf-classe:Editeur ;
+    schema:name "Les petites moustaches éditions" .
+
+btlf-editeur:381 a btlf-classe:Editeur ;
+    schema:name "Al Manar" .
+
+btlf-editeur:382 a btlf-classe:Editeur ;
+    schema:name "Editions Play Bac" .
+
+btlf-editeur:383 a btlf-classe:Editeur ;
+    schema:name "Editions Daniel Maghen" .
+
+btlf-editeur:384 a btlf-classe:Editeur ;
+    schema:name "Locus solus" .
+
+btlf-editeur:385 a btlf-classe:Editeur ;
+    schema:name "Elytis" .
+
+btlf-editeur:386 a btlf-classe:Editeur ;
+    schema:name "Misma" .
+
+btlf-editeur:387 a btlf-classe:Editeur ;
+    schema:name "Editions du livre" .
+
+btlf-editeur:388 a btlf-classe:Editeur ;
+    schema:name "Société Internationale de financement et d'Investissemen" .
+
+btlf-editeur:389 a btlf-classe:Editeur ;
+    schema:name "Le Square éditeur" .
+
+btlf-editeur:39 a btlf-classe:Editeur ;
+    schema:name "Editions du Rocher" .
+
+btlf-editeur:390 a btlf-classe:Editeur ;
+    schema:name "Bibliothèque nationale de France" .
+
+btlf-editeur:391 a btlf-classe:Editeur ;
+    schema:name "Amaterra" .
+
+btlf-editeur:392 a btlf-classe:Editeur ;
+    schema:name "Griffon bleu" .
+
+btlf-editeur:393 a btlf-classe:Editeur ;
+    schema:name "Association des amis du Père Castor" .
+
+btlf-editeur:394 a btlf-classe:Editeur ;
+    schema:name "Les éditions du Kilowatt" .
+
+btlf-editeur:395 a btlf-classe:Editeur ;
+    schema:name "Moka" .
+
+btlf-editeur:396 a btlf-classe:Editeur ;
+    schema:name "La Maison est en carton" .
+
+btlf-editeur:397 a btlf-classe:Editeur ;
+    schema:name "Editions du Centenaire" .
+
+btlf-editeur:398 a btlf-classe:Editeur ;
+    schema:name "Scutella (Les éditions)" .
+
+btlf-editeur:399 a btlf-classe:Editeur ;
+    schema:name "Editions Calmann-Lévy" .
+
+btlf-editeur:4 a btlf-classe:Editeur ;
+    schema:name "Flammarion" .
+
+btlf-editeur:40 a btlf-classe:Editeur ;
+    schema:name "Circonflexe" .
+
+btlf-editeur:400 a btlf-classe:Editeur ;
+    schema:name "Cépages" .
+
+btlf-editeur:401 a btlf-classe:Editeur ;
+    schema:name "Orso.Editions." .
+
+btlf-editeur:402 a btlf-classe:Editeur ;
+    schema:name "Mâche Milo éditions" .
+
+btlf-editeur:403 a btlf-classe:Editeur ;
+    schema:name "Etablissement public Paris-Musées" .
+
+btlf-editeur:404 a btlf-classe:Editeur ;
+    schema:name "François Azar" .
+
+btlf-editeur:405 a btlf-classe:Editeur ;
+    schema:name "Papiers coupés" .
+
+btlf-editeur:406 a btlf-classe:Editeur ;
+    schema:name "Dargaud-Jeunesse" .
+
+btlf-editeur:407 a btlf-classe:Editeur ;
+    schema:name "Editions de L'Eclat" .
+
+btlf-editeur:408 a btlf-classe:Editeur ;
+    schema:name "Editions Eyrolles" .
+
+btlf-editeur:409 a btlf-classe:Editeur ;
+    schema:name "A pas de loups" .
+
+btlf-editeur:41 a btlf-classe:Editeur ;
+    schema:name "Editions Chandeigne" .
+
+btlf-editeur:410 a btlf-classe:Editeur ;
+    schema:name "Editions Soc et foc" .
+
+btlf-editeur:411 a btlf-classe:Editeur ;
+    schema:name "Editions Les Solitaires intempestifs" .
+
+btlf-editeur:412 a btlf-classe:Editeur ;
+    schema:name "Les Classiques ivoiriens" .
+
+btlf-editeur:413 a btlf-classe:Editeur ;
+    schema:name "Bernest" .
+
+btlf-editeur:414 a btlf-classe:Editeur ;
+    schema:name "Akata" .
+
+btlf-editeur:415 a btlf-classe:Editeur ;
+    schema:name "Alberti" .
+
+btlf-editeur:416 a btlf-classe:Editeur ;
+    schema:name "Black Box" .
+
+btlf-editeur:417 a btlf-classe:Editeur ;
+    schema:name "Steinkis" .
+
+btlf-editeur:418 a btlf-classe:Editeur ;
+    schema:name "Editions Textuel" .
+
+btlf-editeur:419 a btlf-classe:Editeur ;
+    schema:name "Centre de créations pour l'enfance" .
+
+btlf-editeur:42 a btlf-classe:Editeur ;
+    schema:name "Flies France SARL" .
+
+btlf-editeur:420 a btlf-classe:Editeur ;
+    schema:name "La Palissade " .
+
+btlf-editeur:421 a btlf-classe:Editeur ;
+    schema:name "Lapin éditions" .
+
+btlf-editeur:422 a btlf-classe:Editeur ;
+    schema:name "Musée du château des ducs de Wurtemberg" .
+
+btlf-editeur:423 a btlf-classe:Editeur ;
+    schema:name "Komikku éditions" .
+
+btlf-editeur:424 a btlf-classe:Editeur ;
+    schema:name "Harmonia mundi" .
+
+btlf-editeur:425 a btlf-classe:Editeur ;
+    schema:name "Les Editions des éléphants" .
+
+btlf-editeur:426 a btlf-classe:Editeur ;
+    schema:name "Lire Ici-ailleurs" .
+
+btlf-editeur:427 a btlf-classe:Editeur ;
+    schema:name "Tout S'Métisse" .
+
+btlf-editeur:428 a btlf-classe:Editeur ;
+    schema:name "Une Note de partage" .
+
+btlf-editeur:429 a btlf-classe:Editeur ;
+    schema:name "Nouvelles éditions latines" .
+
+btlf-editeur:43 a btlf-classe:Editeur ;
+    schema:name "Les éditions A propos" .
+
+btlf-editeur:430 a btlf-classe:Editeur ;
+    schema:name "Éditions Les Malins" .
+
+btlf-editeur:431 a btlf-classe:Editeur ;
+    schema:name "PAARI" .
+
+btlf-editeur:432 a btlf-classe:Editeur ;
+    schema:name "Centre Dumas-Pouchkine des diasporas et cultures africaines" .
+
+btlf-editeur:433 a btlf-classe:Editeur ;
+    schema:name "Editions Exbrayat" .
+
+btlf-editeur:434 a btlf-classe:Editeur ;
+    schema:name "Frédérique Warin" .
+
+btlf-editeur:435 a btlf-classe:Editeur ;
+    schema:name "Ophelbe" .
+
+btlf-editeur:436 a btlf-classe:Editeur ;
+    schema:name "Comme des géants" .
+
+btlf-editeur:437 a btlf-classe:Editeur ;
+    schema:name "Auzou (Editions Philippe)-Editions Lidis" .
+
+btlf-editeur:438 a btlf-classe:Editeur ;
+    schema:name "Vanvaerenbergh Xavier" .
+
+btlf-editeur:439 a btlf-classe:Editeur ;
+    schema:name "Voce Verso" .
+
+btlf-editeur:44 a btlf-classe:Editeur ;
+    schema:name "Humensis" .
+
+btlf-editeur:440 a btlf-classe:Editeur ;
+    schema:name "Editions la Ville brûle" .
+
+btlf-editeur:441 a btlf-classe:Editeur ;
+    schema:name "Editions Issekinicho" .
+
+btlf-editeur:442 a btlf-classe:Editeur ;
+    schema:name "Editions du Pourquoi pas" .
+
+btlf-editeur:443 a btlf-classe:Editeur ;
+    schema:name "Alifbata" .
+
+btlf-editeur:444 a btlf-classe:Editeur ;
+    schema:name "Doucey éditions" .
+
+btlf-editeur:445 a btlf-classe:Editeur ;
+    schema:name "Icinori" .
+
+btlf-editeur:446 a btlf-classe:Editeur ;
+    schema:name "Zebulo" .
+
+btlf-editeur:447 a btlf-classe:Editeur ;
+    schema:name "Editions Cipango" .
+
+btlf-editeur:448 a btlf-classe:Editeur ;
+    schema:name "Allary éditions" .
+
+btlf-editeur:449 a btlf-classe:Editeur ;
+    schema:name "Leduc.s éditions" .
+
+btlf-editeur:45 a btlf-classe:Editeur ;
+    schema:name "Editions Naïve" .
+
+btlf-editeur:450 a btlf-classe:Editeur ;
+    schema:name "Palais de la découverte" .
+
+btlf-editeur:451 a btlf-classe:Editeur ;
+    schema:name "Éditions La Presse" .
+
+btlf-editeur:452 a btlf-classe:Editeur ;
+    schema:name "Editions Privat SAS" .
+
+btlf-editeur:453 a btlf-classe:Editeur ;
+    schema:name "Editions Père Fouettard" .
+
+btlf-editeur:454 a btlf-classe:Editeur ;
+    schema:name "Arabesques" .
+
+btlf-editeur:455 a btlf-classe:Editeur ;
+    schema:name "Glénat Suisse" .
+
+btlf-editeur:456 a btlf-classe:Editeur ;
+    schema:name "Éditions JFD" .
+
+btlf-editeur:457 a btlf-classe:Editeur ;
+    schema:name "Le Quartanier" .
+
+btlf-editeur:458 a btlf-classe:Editeur ;
+    schema:name "Éditions la Morue verte" .
+
+btlf-editeur:459 a btlf-classe:Editeur ;
+    schema:name "Association Wa'Wa" .
+
+btlf-editeur:46 a btlf-classe:Editeur ;
+    schema:name "Editions Clair de lune" .
+
+btlf-editeur:460 a btlf-classe:Editeur ;
+    schema:name "Marcel & Joachim" .
+
+btlf-editeur:461 a btlf-classe:Editeur ;
+    schema:name "Editions Médiaspaul France" .
+
+btlf-editeur:462 a btlf-classe:Editeur ;
+    schema:name "L'Echelle de Jacob" .
+
+btlf-editeur:463 a btlf-classe:Editeur ;
+    schema:name "Imav éditions" .
+
+btlf-editeur:464 a btlf-classe:Editeur ;
+    schema:name "Editions Lec" .
+
+btlf-editeur:465 a btlf-classe:Editeur ;
+    schema:name "Conférence" .
+
+btlf-editeur:466 a btlf-classe:Editeur ;
+    schema:name "Monsieur Toussaint Louverture" .
+
+btlf-editeur:467 a btlf-classe:Editeur ;
+    schema:name "Editions de la Cerise" .
+
+btlf-editeur:468 a btlf-classe:Editeur ;
+    schema:name "Editions Chocolat ! jeunesse" .
+
+btlf-editeur:469 a btlf-classe:Editeur ;
+    schema:name "LamaO éditions" .
+
+btlf-editeur:47 a btlf-classe:Editeur ;
+    schema:name "Kaléidoscope" .
+
+btlf-editeur:470 a btlf-classe:Editeur ;
+    schema:name "Biscoto éditions" .
+
+btlf-editeur:471 a btlf-classe:Editeur ;
+    schema:name "A2 Mimo" .
+
+btlf-editeur:472 a btlf-classe:Editeur ;
+    schema:name "Eidola éditions" .
+
+btlf-editeur:473 a btlf-classe:Editeur ;
+    schema:name "Borealia" .
+
+btlf-editeur:474 a btlf-classe:Editeur ;
+    schema:name "Editions Geste" .
+
+btlf-editeur:475 a btlf-classe:Editeur ;
+    schema:name "Comme une orange" .
+
+btlf-editeur:476 a btlf-classe:Editeur ;
+    schema:name "Au Nord les étoiles" .
+
+btlf-editeur:477 a btlf-classe:Editeur ;
+    schema:name "Editions Goater" .
+
+btlf-editeur:478 a btlf-classe:Editeur ;
+    schema:name "Le Nouvel Attila" .
+
+btlf-editeur:479 a btlf-classe:Editeur ;
+    schema:name "Editions l'Iroli" .
+
+btlf-editeur:48 a btlf-classe:Editeur ;
+    schema:name "Hachette Jeunesse" .
+
+btlf-editeur:480 a btlf-classe:Editeur ;
+    schema:name "LACF" .
+
+btlf-editeur:481 a btlf-classe:Editeur ;
+    schema:name "Shellac Sud" .
+
+btlf-editeur:482 a btlf-classe:Editeur ;
+    schema:name "Editions Hozhoni" .
+
+btlf-editeur:483 a btlf-classe:Editeur ;
+    schema:name "Ago média" .
+
+btlf-editeur:484 a btlf-classe:Editeur ;
+    schema:name "Makaka éditions" .
+
+btlf-editeur:485 a btlf-classe:Editeur ;
+    schema:name "Bliss éditions" .
+
+btlf-editeur:486 a btlf-classe:Editeur ;
+    schema:name "Long Bec (Editions du)" .
+
+btlf-editeur:487 a btlf-classe:Editeur ;
+    schema:name "Editions Acoria" .
+
+btlf-editeur:488 a btlf-classe:Editeur ;
+    schema:name "Ynnis éditions" .
+
+btlf-editeur:489 a btlf-classe:Editeur ;
+    schema:name "Versant Sud" .
+
+btlf-editeur:49 a btlf-classe:Editeur ;
+    schema:name "Cornélius" .
+
+btlf-editeur:490 a btlf-classe:Editeur ;
+    schema:name "Daphné France" .
+
+btlf-editeur:491 a btlf-classe:Editeur ;
+    schema:name "Epilobe éditions" .
+
+btlf-editeur:492 a btlf-classe:Editeur ;
+    schema:name "Atelier des nomades" .
+
+btlf-editeur:493 a btlf-classe:Editeur ;
+    schema:name "Centre des monuments nationaux" .
+
+btlf-editeur:494 a btlf-classe:Editeur ;
+    schema:name "Losange" .
+
+btlf-editeur:495 a btlf-classe:Editeur ;
+    schema:name "Museum of modern art" .
+
+btlf-editeur:496 a btlf-classe:Editeur ;
+    schema:name "Longue distance éditions?" .
+
+btlf-editeur:497 a btlf-classe:Editeur ;
+    schema:name "Papa Luna productions" .
+
+btlf-editeur:498 a btlf-classe:Editeur ;
+    schema:name "Maison Eliza" .
+
+btlf-editeur:499 a btlf-classe:Editeur ;
+    schema:name "Editions Mouck" .
+
+btlf-editeur:5 a btlf-classe:Editeur ;
+    schema:name "Le Navire en pleine ville" .
+
+btlf-editeur:50 a btlf-classe:Editeur ;
+    schema:name "LGF" .
+
+btlf-editeur:500 a btlf-classe:Editeur ;
+    schema:name "Musée d'Orsay et du Musée de l'Orangerie" .
+
+btlf-editeur:501 a btlf-classe:Editeur ;
+    schema:name "Terra Nova" .
+
+btlf-editeur:502 a btlf-classe:Editeur ;
+    schema:name "Yuk " .
+
+btlf-editeur:503 a btlf-classe:Editeur ;
+    schema:name "Editions du Mont-Blanc" .
+
+btlf-editeur:504 a btlf-classe:Editeur ;
+    schema:name "Editions Ensemble" .
+
+btlf-editeur:505 a btlf-classe:Editeur ;
+    schema:name "Le Nouveau Pont" .
+
+btlf-editeur:506 a btlf-classe:Editeur ;
+    schema:name "Librairie du Globe" .
+
+btlf-editeur:507 a btlf-classe:Editeur ;
+    schema:name "Tohu-Bohu éditions" .
+
+btlf-editeur:508 a btlf-classe:Editeur ;
+    schema:name "Albin michel jeunesse" .
+
+btlf-editeur:509 a btlf-classe:Editeur ;
+    schema:name "Le Calicot" .
+
+btlf-editeur:51 a btlf-classe:Editeur ;
+    schema:name "Edi8" .
+
+btlf-editeur:510 a btlf-classe:Editeur ;
+    schema:name "Les Editions du Sucrier" .
+
+btlf-editeur:511 a btlf-classe:Editeur ;
+    schema:name "Blue Lotus Prod" .
+
+btlf-editeur:512 a btlf-classe:Editeur ;
+    schema:name "Mediatoon licensing" .
+
+btlf-editeur:513 a btlf-classe:Editeur ;
+    schema:name "Mosquito" .
+
+btlf-editeur:514 a btlf-classe:Editeur ;
+    schema:name "Euphor" .
+
+btlf-editeur:515 a btlf-classe:Editeur ;
+    schema:name "Les  Aventuriers de l'étrange" .
+
+btlf-editeur:516 a btlf-classe:Editeur ;
+    schema:name "Editions Marie-Claire" .
+
+btlf-editeur:517 a btlf-classe:Editeur ;
+    schema:name "Édito" .
+
+btlf-editeur:518 a btlf-classe:Editeur ;
+    schema:name "Editions Héros-Limite" .
+
+btlf-editeur:519 a btlf-classe:Editeur ;
+    schema:name "Editions du Trainailleur" .
+
+btlf-editeur:52 a btlf-classe:Editeur ;
+    schema:name "Dargaud-Lombard SA" .
+
+btlf-editeur:520 a btlf-classe:Editeur ;
+    schema:name "Nada" .
+
+btlf-editeur:521 a btlf-classe:Editeur ;
+    schema:name "Les Editions Sandawe" .
+
+btlf-editeur:522 a btlf-classe:Editeur ;
+    schema:name "Presses universitaires de Lyon" .
+
+btlf-editeur:523 a btlf-classe:Editeur ;
+    schema:name "Hyvert Barbara" .
+
+btlf-editeur:524 a btlf-classe:Editeur ;
+    schema:name "LRD" .
+
+btlf-editeur:525 a btlf-classe:Editeur ;
+    schema:name "L'Etagère du bas" .
+
+btlf-editeur:526 a btlf-classe:Editeur ;
+    schema:name "Editions Velvet" .
+
+btlf-editeur:527 a btlf-classe:Editeur ;
+    schema:name "Lucca éditions" .
+
+btlf-editeur:528 a btlf-classe:Editeur ;
+    schema:name "Hikari Editions" .
+
+btlf-editeur:529 a btlf-classe:Editeur ;
+    schema:name "Le Diplodocus" .
+
+btlf-editeur:53 a btlf-classe:Editeur ;
+    schema:name "Editions Carabas" .
+
+btlf-editeur:530 a btlf-classe:Editeur ;
+    schema:name "Editions Margot" .
+
+btlf-editeur:531 a btlf-classe:Editeur ;
+    schema:name "Editions Astrid Franchet" .
+
+btlf-editeur:532 a btlf-classe:Editeur ;
+    schema:name "Des Souris et des Plumes" .
+
+btlf-editeur:533 a btlf-classe:Editeur ;
+    schema:name "Lexitis" .
+
+btlf-editeur:534 a btlf-classe:Editeur ;
+    schema:name "Koinè" .
+
+btlf-editeur:535 a btlf-classe:Editeur ;
+    schema:name "LEP" .
+
+btlf-editeur:536 a btlf-classe:Editeur ;
+    schema:name "Editions 2024" .
+
+btlf-editeur:537 a btlf-classe:Editeur ;
+    schema:name "Poetry Wanted" .
+
+btlf-editeur:538 a btlf-classe:Editeur ;
+    schema:name "Editions Format" .
+
+btlf-editeur:539 a btlf-classe:Editeur ;
+    schema:name "Fage & Compagnie" .
+
+btlf-editeur:54 a btlf-classe:Editeur ;
+    schema:name "Le Pré du Plain" .
+
+btlf-editeur:540 a btlf-classe:Editeur ;
+    schema:name "Transfaire SA" .
+
+btlf-editeur:541 a btlf-classe:Editeur ;
+    schema:name "Nouvelles éditions ivoiriennes" .
+
+btlf-editeur:542 a btlf-classe:Editeur ;
+    schema:name "Editions Kinaye" .
+
+btlf-editeur:543 a btlf-classe:Editeur ;
+    schema:name "Ici Même éditions" .
+
+btlf-editeur:544 a btlf-classe:Editeur ;
+    schema:name "Editions du 31 Décembre" .
+
+btlf-editeur:545 a btlf-classe:Editeur ;
+    schema:name "Editions Pera" .
+
+btlf-editeur:546 a btlf-classe:Editeur ;
+    schema:name "Studio des Trois Becs" .
+
+btlf-editeur:547 a btlf-classe:Editeur ;
+    schema:name "Néva éditions" .
+
+btlf-editeur:548 a btlf-classe:Editeur ;
+    schema:name "Aleph éditions" .
+
+btlf-editeur:549 a btlf-classe:Editeur ;
+    schema:name "Lanskine" .
+
+btlf-editeur:55 a btlf-classe:Editeur ;
+    schema:name "Direction information légale et administrative" .
+
+btlf-editeur:550 a btlf-classe:Editeur ;
+    schema:name "Joyvox" .
+
+btlf-editeur:551 a btlf-classe:Editeur ;
+    schema:name "Les Lettres occitanes" .
+
+btlf-editeur:552 a btlf-classe:Editeur ;
+    schema:name "Tuttistori éditions" .
+
+btlf-editeur:553 a btlf-classe:Editeur ;
+    schema:name "Vide-Cocagne" .
+
+btlf-editeur:554 a btlf-classe:Editeur ;
+    schema:name "Editions Insula" .
+
+btlf-editeur:555 a btlf-classe:Editeur ;
+    schema:name "Les Requins marteaux" .
+
+btlf-editeur:556 a btlf-classe:Editeur ;
+    schema:name "La Cabane bleue" .
+
+btlf-editeur:557 a btlf-classe:Editeur ;
+    schema:name "Ypsilon éditeur" .
+
+btlf-editeur:558 a btlf-classe:Editeur ;
+    schema:name "L'Asiathèque. Maison des langues du monde" .
+
+btlf-editeur:559 a btlf-classe:Editeur ;
+    schema:name "Château de Versailles" .
+
+btlf-editeur:56 a btlf-classe:Editeur ;
+    schema:name "Editions Larousse" .
+
+btlf-editeur:560 a btlf-classe:Editeur ;
+    schema:name "Zuul" .
+
+btlf-editeur:561 a btlf-classe:Editeur ;
+    schema:name "Editions Imago" .
+
+btlf-editeur:562 a btlf-classe:Editeur ;
+    schema:name "L'Employé du Moi" .
+
+btlf-editeur:563 a btlf-classe:Editeur ;
+    schema:name "L'Esprit du temps" .
+
+btlf-editeur:564 a btlf-classe:Editeur ;
+    schema:name "Des Carabistouilles" .
+
+btlf-editeur:565 a btlf-classe:Editeur ;
+    schema:name "ACTUSF" .
+
+btlf-editeur:566 a btlf-classe:Editeur ;
+    schema:name "Drakoo" .
+
+btlf-editeur:567 a btlf-classe:Editeur ;
+    schema:name "Editions Libertalia" .
+
+btlf-editeur:568 a btlf-classe:Editeur ;
+    schema:name "La Poule qui pond" .
+
+btlf-editeur:569 a btlf-classe:Editeur ;
+    schema:name "Guy Jimenes" .
+
+btlf-editeur:57 a btlf-classe:Editeur ;
+    schema:name "Rageot éditeur" .
+
+btlf-editeur:570 a btlf-classe:Editeur ;
+    schema:name "Éditions d'Eux" .
+
+btlf-editeur:571 a btlf-classe:Editeur ;
+    schema:name "205 Corp" .
+
+btlf-editeur:572 a btlf-classe:Editeur ;
+    schema:name "Librairie Téqui (Pierre)" .
+
+btlf-editeur:573 a btlf-classe:Editeur ;
+    schema:name "Babouche à oreille" .
+
+btlf-editeur:574 a btlf-classe:Editeur ;
+    schema:name "Le Cosmographe" .
+
+btlf-editeur:575 a btlf-classe:Editeur ;
+    schema:name "Helvetiq" .
+
+btlf-editeur:576 a btlf-classe:Editeur ;
+    schema:name "Akinomé" .
+
+btlf-editeur:577 a btlf-classe:Editeur ;
+    schema:name "Editions de la Coopérative" .
+
+btlf-editeur:578 a btlf-classe:Editeur ;
+    schema:name "Kite edizioni" .
+
+btlf-editeur:579 a btlf-classe:Editeur ;
+    schema:name "ACCÈS Éditions" .
+
+btlf-editeur:58 a btlf-classe:Editeur ;
+    schema:name "Convergences" .
+
+btlf-editeur:580 a btlf-classe:Editeur ;
+    schema:name "Petit pavé et associés" .
+
+btlf-editeur:581 a btlf-classe:Editeur ;
+    schema:name "Arte Editions" .
+
+btlf-editeur:582 a btlf-classe:Editeur ;
+    schema:name "La Fontaine" .
+
+btlf-editeur:583 a btlf-classe:Editeur ;
+    schema:name "Les Apprimeurs" .
+
+btlf-editeur:584 a btlf-classe:Editeur ;
+    schema:name "Chattochatto" .
+
+btlf-editeur:585 a btlf-classe:Editeur ;
+    schema:name "Bibliothèque Sainte-Geneviève" .
+
+btlf-editeur:586 a btlf-classe:Editeur ;
+    schema:name "Optima" .
+
+btlf-editeur:587 a btlf-classe:Editeur ;
+    schema:name "Les Productions Somme toute" .
+
+btlf-editeur:588 a btlf-classe:Editeur ;
+    schema:name "Éditions André Fontaine" .
+
+btlf-editeur:589 a btlf-classe:Editeur ;
+    schema:name "La Nage de l'ourse éditions" .
+
+btlf-editeur:59 a btlf-classe:Editeur ;
+    schema:name "TF1 Entreprises" .
+
+btlf-editeur:590 a btlf-classe:Editeur ;
+    schema:name "La Partie" .
+
+btlf-editeur:591 a btlf-classe:Editeur ;
+    schema:name "Editions 3oeil" .
+
+btlf-editeur:592 a btlf-classe:Editeur ;
+    schema:name "Editions en apnée" .
+
+btlf-editeur:593 a btlf-classe:Editeur ;
+    schema:name "La Marmotière - Prestations petite enfance" .
+
+btlf-editeur:594 a btlf-classe:Editeur ;
+    schema:name "Orchestre national de jazz" .
+
+btlf-editeur:595 a btlf-classe:Editeur ;
+    schema:name "Attakus" .
+
+btlf-editeur:596 a btlf-classe:Editeur ;
+    schema:name "Obriart éditions" .
+
+btlf-editeur:597 a btlf-classe:Editeur ;
+    schema:name "Editions CFC" .
+
+btlf-editeur:598 a btlf-classe:Editeur ;
+    schema:name "Même pas mal éditions" .
+
+btlf-editeur:599 a btlf-classe:Editeur ;
+    schema:name "Editions In8" .
+
+btlf-editeur:6 a btlf-classe:Editeur ;
+    schema:name "Réseau Canopé" .
+
+btlf-editeur:60 a btlf-classe:Editeur ;
+    schema:name "Place des éditeurs" .
+
+btlf-editeur:600 a btlf-classe:Editeur ;
+    schema:name "The Hoochie coochie" .
+
+btlf-editeur:601 a btlf-classe:Editeur ;
+    schema:name "Les Ardents éditeurs" .
+
+btlf-editeur:602 a btlf-classe:Editeur ;
+    schema:name "Editions Tishina" .
+
+btlf-editeur:603 a btlf-classe:Editeur ;
+    schema:name "Vijana" .
+
+btlf-editeur:604 a btlf-classe:Editeur ;
+    schema:name "Presque lune éditions" .
+
+btlf-editeur:605 a btlf-classe:Editeur ;
+    schema:name "Oui dire éditions" .
+
+btlf-editeur:606 a btlf-classe:Editeur ;
+    schema:name "Art&fiction, éditions d'artistes" .
+
+btlf-editeur:607 a btlf-classe:Editeur ;
+    schema:name "L'Atelier des Noyers" .
+
+btlf-editeur:608 a btlf-classe:Editeur ;
+    schema:name "L'Articho" .
+
+btlf-editeur:609 a btlf-classe:Editeur ;
+    schema:name "Editions Cours toujours" .
+
+btlf-editeur:61 a btlf-classe:Editeur ;
+    schema:name "Editions Albin Michel" .
+
+btlf-editeur:610 a btlf-classe:Editeur ;
+    schema:name "Editions Maelström" .
+
+btlf-editeur:611 a btlf-classe:Editeur ;
+    schema:name "Editions Circé" .
+
+btlf-editeur:612 a btlf-classe:Editeur ;
+    schema:name "Groupe Homme" .
+
+btlf-editeur:613 a btlf-classe:Editeur ;
+    schema:name "Sciences Humaines Communication" .
+
+btlf-editeur:614 a btlf-classe:Editeur ;
+    schema:name "Ginkgo éditeur" .
+
+btlf-editeur:615 a btlf-classe:Editeur ;
+    schema:name "Livres sans frontières" .
+
+btlf-editeur:616 a btlf-classe:Editeur ;
+    schema:name "Askip" .
+
+btlf-editeur:617 a btlf-classe:Editeur ;
+    schema:name "Editions franco-slovènes & Cie" .
+
+btlf-editeur:618 a btlf-classe:Editeur ;
+    schema:name "Editions Poisson rouge.Oi" .
+
+btlf-editeur:619 a btlf-classe:Editeur ;
+    schema:name "Nuinui" .
+
+btlf-editeur:62 a btlf-classe:Editeur ;
+    schema:name "Balivernes éditions" .
+
+btlf-editeur:620 a btlf-classe:Editeur ;
+    schema:name "Le Lac aux Fées" .
+
+btlf-editeur:621 a btlf-classe:Editeur ;
+    schema:name "Editions Antipodes" .
+
+btlf-editeur:622 a btlf-classe:Editeur ;
+    schema:name "La Maison théâtre" .
+
+btlf-editeur:623 a btlf-classe:Editeur ;
+    schema:name "Critic" .
+
+btlf-editeur:624 a btlf-classe:Editeur ;
+    schema:name "Editions Panthera" .
+
+btlf-editeur:625 a btlf-classe:Editeur ;
+    schema:name "Éditions écosociété" .
+
+btlf-editeur:626 a btlf-classe:Editeur ;
+    schema:name "Ligne claire" .
+
+btlf-editeur:627 a btlf-classe:Editeur ;
+    schema:name "Vagator Productions" .
+
+btlf-editeur:628 a btlf-classe:Editeur ;
+    schema:name "Éditions Imagine" .
+
+btlf-editeur:629 a btlf-classe:Editeur ;
+    schema:name "Auzou" .
+
+btlf-editeur:63 a btlf-classe:Editeur ;
+    schema:name "Atelier du poisson soluble" .
+
+btlf-editeur:630 a btlf-classe:Editeur ;
+    schema:name "Publications du Québec" .
+
+btlf-editeur:631 a btlf-classe:Editeur ;
+    schema:name "Groupe Modus" .
+
+btlf-editeur:632 a btlf-classe:Editeur ;
+    schema:name "Éditions Hannenorak" .
+
+btlf-editeur:633 a btlf-classe:Editeur ;
+    schema:name "Éditions du Renouveau pédagogique (ERPI)" .
+
+btlf-editeur:634 a btlf-classe:Editeur ;
+    schema:name "Éditions Dent-De-Lion" .
+
+btlf-editeur:635 a btlf-classe:Editeur ;
+    schema:name "Tom'poche" .
+
+btlf-editeur:636 a btlf-classe:Editeur ;
+    schema:name "Éditions Z'ailées" .
+
+btlf-editeur:637 a btlf-classe:Editeur ;
+    schema:name "Petits Génies" .
+
+btlf-editeur:638 a btlf-classe:Editeur ;
+    schema:name "Éditions des Plaines" .
+
+btlf-editeur:639 a btlf-classe:Editeur ;
+    schema:name "KO éditions" .
+
+btlf-editeur:64 a btlf-classe:Editeur ;
+    schema:name "Editions Casterman" .
+
+btlf-editeur:640 a btlf-classe:Editeur ;
+    schema:name "Éditions de Mortagne" .
+
+btlf-editeur:641 a btlf-classe:Editeur ;
+    schema:name "Éditions Album" .
+
+btlf-editeur:642 a btlf-classe:Editeur ;
+    schema:name "Éditions Broquet" .
+
+btlf-editeur:643 a btlf-classe:Editeur ;
+    schema:name "Éditions Druide" .
+
+btlf-editeur:644 a btlf-classe:Editeur ;
+    schema:name "Bouton d'or Acadie" .
+
+btlf-editeur:645 a btlf-classe:Editeur ;
+    schema:name "Groupe Librex" .
+
+btlf-editeur:646 a btlf-classe:Editeur ;
+    schema:name "Elcy" .
+
+btlf-editeur:647 a btlf-classe:Editeur ;
+    schema:name "National geographic France" .
+
+btlf-editeur:648 a btlf-classe:Editeur ;
+    schema:name "La Peuplade" .
+
+btlf-editeur:649 a btlf-classe:Editeur ;
+    schema:name "Atelier 10" .
+
+btlf-editeur:65 a btlf-classe:Editeur ;
+    schema:name "Réunion des Musées nationaux-Grand Palais" .
+
+btlf-editeur:650 a btlf-classe:Editeur ;
+    schema:name "Alto" .
+
+btlf-editeur:651 a btlf-classe:Editeur ;
+    schema:name "Bibliothèque québécoise" .
+
+btlf-editeur:652 a btlf-classe:Editeur ;
+    schema:name "Le Buveur d'encre" .
+
+btlf-editeur:653 a btlf-classe:Editeur ;
+    schema:name "Éditions du Passage" .
+
+btlf-editeur:654 a btlf-classe:Editeur ;
+    schema:name "Zoom éditions" .
+
+btlf-editeur:655 a btlf-classe:Editeur ;
+    schema:name "Saint-Jean" .
+
+btlf-editeur:656 a btlf-classe:Editeur ;
+    schema:name "Editions Anna Chanel" .
+
+btlf-editeur:657 a btlf-classe:Editeur ;
+    schema:name "Editions Nord-Sud" .
+
+btlf-editeur:658 a btlf-classe:Editeur ;
+    schema:name "Red Deer Press" .
+
+btlf-editeur:659 a btlf-classe:Editeur ;
+    schema:name "Le Dilettante" .
+
+btlf-editeur:66 a btlf-classe:Editeur ;
+    schema:name "Panini France" .
+
+btlf-editeur:660 a btlf-classe:Editeur ;
+    schema:name "Éditions Prise de parole" .
+
+btlf-editeur:661 a btlf-classe:Editeur ;
+    schema:name "Desputeaux + Aubin" .
+
+btlf-editeur:662 a btlf-classe:Editeur ;
+    schema:name "Clorophyl éditions" .
+
+btlf-editeur:663 a btlf-classe:Editeur ;
+    schema:name "Groupe Fides" .
+
+btlf-editeur:664 a btlf-classe:Editeur ;
+    schema:name "1 2 3 Soleil" .
+
+btlf-editeur:665 a btlf-classe:Editeur ;
+    schema:name "Editions White star" .
+
+btlf-editeur:666 a btlf-classe:Editeur ;
+    schema:name "Editions Liana Levi" .
+
+btlf-editeur:667 a btlf-classe:Editeur ;
+    schema:name "Editions Zulma" .
+
+btlf-editeur:668 a btlf-classe:Editeur ;
+    schema:name "Le Lièvre de Mars" .
+
+btlf-editeur:669 a btlf-classe:Editeur ;
+    schema:name "Les Editions de Minuit" .
+
+btlf-editeur:67 a btlf-classe:Editeur ;
+    schema:name "Editions Jean-Paul Gisserot" .
+
+btlf-editeur:670 a btlf-classe:Editeur ;
+    schema:name "Éditions de la Nouvelle plume" .
+
+btlf-editeur:671 a btlf-classe:Editeur ;
+    schema:name "Editions Leha" .
+
+btlf-editeur:672 a btlf-classe:Editeur ;
+    schema:name "Lux éditeur" .
+
+btlf-editeur:673 a btlf-classe:Editeur ;
+    schema:name "Société nationale des chemins de fer français" .
+
+btlf-editeur:674 a btlf-classe:Editeur ;
+    schema:name "Groupe Nota bene" .
+
+btlf-editeur:675 a btlf-classe:Editeur ;
+    schema:name "Éditions Vents d'Ouest" .
+
+btlf-editeur:676 a btlf-classe:Editeur ;
+    schema:name "Editions Hemma" .
+
+btlf-editeur:677 a btlf-classe:Editeur ;
+    schema:name "Les éditions du dernier havre" .
+
+btlf-editeur:678 a btlf-classe:Editeur ;
+    schema:name "Éditions du Septentrion" .
+
+btlf-editeur:679 a btlf-classe:Editeur ;
+    schema:name "Officina Libraria" .
+
+btlf-editeur:68 a btlf-classe:Editeur ;
+    schema:name "Vents d'ailleurs" .
+
+btlf-editeur:680 a btlf-classe:Editeur ;
+    schema:name "Moelle Graphik" .
+
+btlf-editeur:681 a btlf-classe:Editeur ;
+    schema:name "Novapress" .
+
+btlf-editeur:682 a btlf-classe:Editeur ;
+    schema:name "Éditions du Remue-Ménage" .
+
+btlf-editeur:683 a btlf-classe:Editeur ;
+    schema:name "Beech Street Books (French)" .
+
+btlf-editeur:684 a btlf-classe:Editeur ;
+    schema:name "Éditions du CHU Sainte-Justine" .
+
+btlf-editeur:685 a btlf-classe:Editeur ;
+    schema:name "Orca Book Publishing" .
+
+btlf-editeur:686 a btlf-classe:Editeur ;
+    schema:name "Médiaspaul" .
+
+btlf-editeur:687 a btlf-classe:Editeur ;
+    schema:name "Amnesty international France" .
+
+btlf-editeur:688 a btlf-classe:Editeur ;
+    schema:name "Institut du monde arabe" .
+
+btlf-editeur:689 a btlf-classe:Editeur ;
+    schema:name "Éditions Tête haute" .
+
+btlf-editeur:69 a btlf-classe:Editeur ;
+    schema:name "Les Doigts qui rêvent" .
+
+btlf-editeur:690 a btlf-classe:Editeur ;
+    schema:name "Presses de l'Ecole des hautes études en santé publique" .
+
+btlf-editeur:691 a btlf-classe:Editeur ;
+    schema:name "Chenelière éducation" .
+
+btlf-editeur:692 a btlf-classe:Editeur ;
+    schema:name "LéR - Les éditeurs réunis" .
+
+btlf-editeur:693 a btlf-classe:Editeur ;
+    schema:name "Ellipses-Edition Marketing SA" .
+
+btlf-editeur:694 a btlf-classe:Editeur ;
+    schema:name "Atelier de la belle étoile" .
+
+btlf-editeur:695 a btlf-classe:Editeur ;
+    schema:name "Le Grand jardin" .
+
+btlf-editeur:696 a btlf-classe:Editeur ;
+    schema:name "Monsieur Ed" .
+
+btlf-editeur:697 a btlf-classe:Editeur ;
+    schema:name "Rabsel Editions" .
+
+btlf-editeur:698 a btlf-classe:Editeur ;
+    schema:name "Perro éditeur" .
+
+btlf-editeur:699 a btlf-classe:Editeur ;
+    schema:name "Éditions Chauve-Souris" .
+
+btlf-editeur:7 a btlf-classe:Editeur ;
+    schema:name "BNF-Centre national de la littérature pour la jeunesse" .
+
+btlf-editeur:70 a btlf-classe:Editeur ;
+    schema:name "Hors commerce" .
+
+btlf-editeur:700 a btlf-classe:Editeur ;
+    schema:name "Gecko éditions" .
+
+btlf-editeur:701 a btlf-classe:Editeur ;
+    schema:name "Editions du Baobab" .
+
+btlf-editeur:702 a btlf-classe:Editeur ;
+    schema:name "Jourdan le Clercq" .
+
+btlf-editeur:703 a btlf-classe:Editeur ;
+    schema:name "Sonatine éditions" .
+
+btlf-editeur:704 a btlf-classe:Editeur ;
+    schema:name "Presses de l'Université de Montréal" .
+
+btlf-editeur:705 a btlf-classe:Editeur ;
+    schema:name "Éditions du Noroit" .
+
+btlf-editeur:706 a btlf-classe:Editeur ;
+    schema:name "Editions de Fallois" .
+
+btlf-editeur:707 a btlf-classe:Editeur ;
+    schema:name "Trois" .
+
+btlf-editeur:708 a btlf-classe:Editeur ;
+    schema:name "Benoît Jacques books" .
+
+btlf-editeur:709 a btlf-classe:Editeur ;
+    schema:name "Editions Passiflore" .
+
+btlf-editeur:71 a btlf-classe:Editeur ;
+    schema:name "Editions Calligram" .
+
+btlf-editeur:710 a btlf-classe:Editeur ;
+    schema:name "Lucane éditions" .
+
+btlf-editeur:711 a btlf-classe:Editeur ;
+    schema:name "Editions Arléa" .
+
+btlf-editeur:712 a btlf-classe:Editeur ;
+    schema:name "Éditions David" .
+
+btlf-editeur:713 a btlf-classe:Editeur ;
+    schema:name "Sabine Wespieser éditeur" .
+
+btlf-editeur:714 a btlf-classe:Editeur ;
+    schema:name "Allia" .
+
+btlf-editeur:715 a btlf-classe:Editeur ;
+    schema:name "Art global" .
+
+btlf-editeur:716 a btlf-classe:Editeur ;
+    schema:name "Éditions Pow Pow" .
+
+btlf-editeur:717 a btlf-classe:Editeur ;
+    schema:name "Fayard" .
+
+btlf-editeur:718 a btlf-classe:Editeur ;
+    schema:name "6 pieds sous terre éditions" .
+
+btlf-editeur:719 a btlf-classe:Editeur ;
+    schema:name "Editions de l'Ogre " .
+
+btlf-editeur:72 a btlf-classe:Editeur ;
+    schema:name "Editions Théâtrales" .
+
+btlf-editeur:720 a btlf-classe:Editeur ;
+    schema:name "Le Cheval d'août éditeur" .
+
+btlf-editeur:721 a btlf-classe:Editeur ;
+    schema:name "Editions du Triomphe" .
+
+btlf-editeur:722 a btlf-classe:Editeur ;
+    schema:name "Visage vert (Le)" .
+
+btlf-editeur:723 a btlf-classe:Editeur ;
+    schema:name "Milena Schwarzberg" .
+
+btlf-editeur:724 a btlf-classe:Editeur ;
+    schema:name "Encrage édition" .
+
+btlf-editeur:725 a btlf-classe:Editeur ;
+    schema:name "Kamiti" .
+
+btlf-editeur:726 a btlf-classe:Editeur ;
+    schema:name "Les éditions les Allusifs" .
+
+btlf-editeur:727 a btlf-classe:Editeur ;
+    schema:name "Alter Comics" .
+
+btlf-editeur:728 a btlf-classe:Editeur ;
+    schema:name "Editions Klincksieck" .
+
+btlf-editeur:729 a btlf-classe:Editeur ;
+    schema:name "Éditions Chouette" .
+
+btlf-editeur:73 a btlf-classe:Editeur ;
+    schema:name "Les Humanoïdes associés" .
+
+btlf-editeur:730 a btlf-classe:Editeur ;
+    schema:name "Les éditions d'Avallon" .
+
+btlf-editeur:731 a btlf-classe:Editeur ;
+    schema:name "Gallmeister" .
+
+btlf-editeur:732 a btlf-classe:Editeur ;
+    schema:name "Éditions du Vermillon" .
+
+btlf-editeur:733 a btlf-classe:Editeur ;
+    schema:name "Belem éditions" .
+
+btlf-editeur:734 a btlf-classe:Editeur ;
+    schema:name "Écrits des Forges" .
+
+btlf-editeur:735 a btlf-classe:Editeur ;
+    schema:name "Boomerang éditeur jeunesse" .
+
+btlf-editeur:736 a btlf-classe:Editeur ;
+    schema:name "Éditions ADA inc." .
+
+btlf-editeur:737 a btlf-classe:Editeur ;
+    schema:name "Editions Mnémos" .
+
+btlf-editeur:738 a btlf-classe:Editeur ;
+    schema:name "Homme sans nom (Editions de l')" .
+
+btlf-editeur:739 a btlf-classe:Editeur ;
+    schema:name "Editions des Mille saisons" .
+
+btlf-editeur:74 a btlf-classe:Editeur ;
+    schema:name "Ibis rouge Editions" .
+
+btlf-editeur:740 a btlf-classe:Editeur ;
+    schema:name "La Factorie-Maison de Poésie-Normandie" .
+
+btlf-editeur:741 a btlf-classe:Editeur ;
+    schema:name "Éditions Espoir en canne" .
+
+btlf-editeur:742 a btlf-classe:Editeur ;
+    schema:name "De plaines en vallées" .
+
+btlf-editeur:75 a btlf-classe:Editeur ;
+    schema:name "Editions AKILEOS" .
+
+btlf-editeur:76 a btlf-classe:Editeur ;
+    schema:name "Les Editions Hatier" .
+
+btlf-editeur:77 a btlf-classe:Editeur ;
+    schema:name "Minedition France" .
+
+btlf-editeur:78 a btlf-classe:Editeur ;
+    schema:name "Editions Dodo vole" .
+
+btlf-editeur:79 a btlf-classe:Editeur ;
+    schema:name "Cheyne éditeur" .
+
+btlf-editeur:8 a btlf-classe:Editeur ;
+    schema:name "Mango" .
+
+btlf-editeur:80 a btlf-classe:Editeur ;
+    schema:name "ABC melody" .
+
+btlf-editeur:81 a btlf-classe:Editeur ;
+    schema:name "Bamboo" .
+
+btlf-editeur:82 a btlf-classe:Editeur ;
+    schema:name "Editions çà et Là" .
+
+btlf-editeur:83 a btlf-classe:Editeur ;
+    schema:name "La Boîte à Bulles" .
+
+btlf-editeur:84 a btlf-classe:Editeur ;
+    schema:name "Museum national d'histoire naturelle" .
+
+btlf-editeur:85 a btlf-classe:Editeur ;
+    schema:name "Editions du Jasmin" .
+
+btlf-editeur:86 a btlf-classe:Editeur ;
+    schema:name "Présence africaine éditions" .
+
+btlf-editeur:87 a btlf-classe:Editeur ;
+    schema:name "Hachette" .
+
+btlf-editeur:88 a btlf-classe:Editeur ;
+    schema:name "Un, deux, quatre édition" .
+
+btlf-editeur:89 a btlf-classe:Editeur ;
+    schema:name "Editions Albert René" .
+
+btlf-editeur:9 a btlf-classe:Editeur ;
+    schema:name "Quiquandquoi" .
+
+btlf-editeur:90 a btlf-classe:Editeur ;
+    schema:name "Editions du Toucan" .
+
+btlf-editeur:91 a btlf-classe:Editeur ;
+    schema:name "Emile et Compagnie" .
+
+btlf-editeur:92 a btlf-classe:Editeur ;
+    schema:name "Editions Parigramme" .
+
+btlf-editeur:93 a btlf-classe:Editeur ;
+    schema:name "Vincze (Eva)" .
+
+btlf-editeur:94 a btlf-classe:Editeur ;
+    schema:name "Beurre salé" .
+
+btlf-editeur:95 a btlf-classe:Editeur ;
+    schema:name "Editions Dapper" .
+
+btlf-editeur:96 a btlf-classe:Editeur ;
+    schema:name "Edizioni Corraini" .
+
+btlf-editeur:97 a btlf-classe:Editeur ;
+    schema:name "Atelier EXB" .
+
+btlf-editeur:98 a btlf-classe:Editeur ;
+    schema:name "Motus" .
+
+btlf-editeur:99 a btlf-classe:Editeur ;
+    schema:name "Editions Picquier (Philippe)" .
+
