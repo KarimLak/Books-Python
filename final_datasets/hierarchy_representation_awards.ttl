@@ -1,4 +1,4 @@
-@prefix pbs: <http://example.com/pbs#> .
+@prefix pbs: <http://example.org/pbs#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 pbs:Biennale_De_L_illustration_De_Bratislava skos:narrower pbs:Biennale_De_L_illustration_De_Bratislava_Grand_Prix,
