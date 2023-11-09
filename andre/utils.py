@@ -6,7 +6,7 @@ from difflib import SequenceMatcher
 
 EPSILON = 0.00001
 
-pbs = rdflib.namespace.Namespace("http://www.example.org/pbs/#")
+pbs = rdflib.namespace.Namespace("http://www.example.org/pbs#")
 ns1 = rdflib.namespace.Namespace("http://schema.org/")
 
 
@@ -40,7 +40,7 @@ def is_key_close_enough_to_another_key(book_key, keys_to_check, SIMILARITY_RATIO
 
 
 class RdfBookData:
-    def __init__(self, book_name, book_author, age_range_int, url, publication_date, publisher, isbn, uri):
+    def __init__(self, book_name, book_author, age_range_int, url, publication_date, publisher, isbn, uri, ean=None):
         self.book_name = book_name
         self.book_author = book_author
         self.age_range_int = age_range_int
@@ -49,6 +49,7 @@ class RdfBookData:
         self.publisher = publisher
         self.isbn = isbn
         self.uri = uri
+        self.ean = ean
 
 
 def extract_data_alignment(graph, alignment_uri):
@@ -89,9 +90,10 @@ def extract_data_bnf(graph, book):
     publication_date = str(graph.value(book, ns1.datePublished)) if graph.value(book, ns1.datePublished) else ""
     publisher = str(graph.value(book, ns1.publisher)) if graph.value(book, ns1.publisher) else ""
     isbn = str(graph.value(book, ns1.isbn)) if (graph.value(book, ns1.isbn) and str(graph.value(book, ns1.isbn)) != "none") else ""
+    ean = str(graph.value(book, pbs.ean)) if (graph.value(book, pbs.ean) and str(graph.value(book, pbs.ean)) != "none") else ""
     uri = book
     return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int, url=url,
-                       publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri)
+                       publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri, ean=ean)
 
 
 def extract_data_lurelu(graph, book):

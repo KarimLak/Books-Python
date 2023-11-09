@@ -10,7 +10,7 @@ stats_logger = utils.setup_logger('stats_logger', f'exact_stats.log')
 
 # stats_name_author = interdbstats_exact.InterDbStatsExact(key_type="name_author", stats_logger=stats_logger)
 # stats_name_author_publisher = interdbstats_exact.InterDbStatsExact(key_type="name_author_publisher", stats_logger=stats_logger)
-stats_isbn = interdbstats_exact.InterDbStatsExact(key_type="isbn", stats_logger=stats_logger)
+stats_isbn = interdbstats_exact.InterDbStatsExact(key_type="isbn_ean", stats_logger=stats_logger)
 # stats_name_author_publisher_date = interdbstats_exact.InterDbStatsExact(key_type="name_author_publisher_date", stats_logger=stats_logger)
 # stats_name_author_date = interdbstats_exact.InterDbStatsExact(key_type="name_author_date", stats_logger=stats_logger)
 
@@ -84,6 +84,7 @@ for book in g.subjects(RDF.type, utils.ns1.Book):  # O(M)
                         copy.deepcopy(book_data_raw)))))
     book_alignment_bnf = BookAlignment(url_bnf=book_data_preprocessed.url,
                                        isbn_bnf=book_data_preprocessed.isbn,
+                                       ean_bnf=book_data_raw.ean,
                                        age_range_bnf=book_data_preprocessed.age_range_int,
                                        uri_bnf=book_data_preprocessed.uri,
                                        name=book_data_raw.book_name,  # non preprocessed name
@@ -101,7 +102,8 @@ for book in g.subjects(RDF.type, utils.ns1.Book):  # O(M)
     #                                         publication_date=book_data_preprocessed.publication_date)
     #
     # stats_name_author.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_key)
-    stats_isbn.align_by_key(copy.deepcopy(book_alignment_bnf), isbn_key)
+    # stats_isbn.align_by_key(copy.deepcopy(book_alignment_bnf), isbn_key)
+    stats_isbn.align_by_ean_isbn(copy.deepcopy(book_alignment_bnf), isbn_key, book_data_raw.ean)
     # stats_name_author_publisher.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
     # stats_name_author_publisher_date.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
     # stats_name_author_date.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_date_key)

@@ -96,10 +96,16 @@ class InterDbStats:
         non_alignment_isbn_absent = 0  # TN
         lines_without_url = 0
         jaccard_similarities = []
+        ean_no_isbn = 0
+        no_ean_isbn = 0
+        ean_and_isbn = 0
+        no_ean_no_isbn = 0
+        ean_sameAs_isbn = 0
+        ean_different_isbn = 0
 
         for book_key in self.all_book_alignments:
             isbn_constellation = self.all_book_alignments[book_key].isbn_constellation
-            isbn_bnf = self.all_book_alignments[book_key].isbn_bnf
+            isbn_bnf = self.all_book_alignments[book_key].ean_bnf if self.all_book_alignments[book_key].ean_used_to_align else self.all_book_alignments[book_key].isbn_bnf
 
             url_constellation = self.all_book_alignments[book_key].url_constellation
             url_bnf = self.all_book_alignments[book_key].url_bnf
@@ -142,20 +148,50 @@ class InterDbStats:
                 lines_without_url += 1
                 self.stats_logger.info("empty line", book_key)
 
+            # age
+            # -------
             age_bnf = self.all_book_alignments[book_key].age_range_bnf
             age_constellation = self.all_book_alignments[book_key].age_range_constellation
             if age_bnf and age_constellation and len(age_constellation) > 0 and len(age_bnf) > 0:
                 similarity = utils.jaccard(age_bnf, age_constellation)
                 jaccard_similarities.append(similarity)
 
+            # ean vs isbn
+            # -------
+            ean_bnf: str = str(self.all_book_alignments[book_key].ean_bnf)
+            if not ean_bnf and isbn_bnf:
+                no_ean_isbn += 1
+            elif ean_bnf and not isbn_bnf:
+                ean_no_isbn += 1
+            elif not ean_bnf and not isbn_bnf:
+                no_ean_no_isbn += 1
+            elif not ean_bnf and not isbn_bnf:
+                no_ean_no_isbn += 1
+            elif ean_bnf and isbn_bnf:
+                ean_and_isbn += 1
+                if ean_bnf == isbn_bnf:
+                    ean_sameAs_isbn +=1
+                else:
+                    ean_different_isbn +=1
+
+
+        assert((ean_sameAs_isbn + ean_different_isbn) == ean_and_isbn)
         pandas_similarities = pd.Series(jaccard_similarities)
         step = 5
         bin_edges = np.arange(0, 100 + step, step)
         plt.hist(pandas_similarities, bins=bin_edges, rwidth=0.5)
         plt.xlabel("similarité Jaccard en %")
         plt.ylabel("nombre d'alignements")
+        plt.show()
 
-        average_jaccard_similarity = sum(jaccard_similarities) / len(jaccard_similarities)
+        average_jaccard_similarity = sum(jaccard_similarities) / len(jaccard_similarities) if len(jaccard_similarities) > 0 else 0
+
+        self.stats_logger.info(f"EAN and no ISBN {ean_no_isbn}")
+        self.stats_logger.info(f"no EAN and ISBN {no_ean_isbn}")
+        self.stats_logger.info(f"no EAN and no ISBN {no_ean_no_isbn}")
+        self.stats_logger.info(f"EAN and ISBN {ean_and_isbn}")
+        self.stats_logger.info(f"EAN == ISBN {ean_sameAs_isbn}")
+        self.stats_logger.info(f"EAN != ISBN {ean_different_isbn}")
         self.stats_logger.info(f"average jaccard similarity between ages {average_jaccard_similarity}")
         self.stats_logger.info(f"total alignment P {total_alignment}")
         self.stats_logger.info(f"total non-alignment N {total_non_alignment}")
@@ -168,7 +204,6 @@ class InterDbStats:
         self.stats_logger.info(f"missing isbn constellation for positives {missing_isbn_constellation_in_positives}")
         self.stats_logger.info(f"missing isbn bnf for negatives {missing_isbn_bnf_in_negatives}")
         self.stats_logger.info(f"missing isbn constellation for negatives {missing_isbn_constellation_in_negatives}")
-        plt.show()
 
     def output_rdf(self):
         output_graph = Graph()

@@ -1,7 +1,7 @@
 import utils
 import csv
 
-from andre.book_alignment import BookAlignment
+from book_alignment import BookAlignment
 from interdbstats import InterDbStats
 
 
@@ -16,6 +16,7 @@ class InterDbStatsExact(InterDbStats):
         if book_key in self.all_book_alignments:
             if not self.all_book_alignments[book_key].url_bnf:  # not a collision: bnf data not present
                 self.all_book_alignments[book_key].align_bnf(isbn_bnf=book_alignment.isbn_bnf,
+                                                             ean_bnf=book_alignment.ean_bnf,
                                                              url_bnf=book_alignment.url_bnf,
                                                              uri_bnf=book_alignment.uri_bnf,
                                                              age_range_bnf=book_alignment.age_range_bnf)
@@ -27,6 +28,36 @@ class InterDbStatsExact(InterDbStats):
 
         else:
             self.all_book_alignments[book_key] = book_alignment  # bnf data gets into the dict without alignment
+
+    def align_by_ean_isbn(self, book_alignment:BookAlignment, isbn_bnf, ean_bnf):  # O(1)
+        if isbn_bnf in self.all_book_alignments:
+            if not self.all_book_alignments[isbn_bnf].url_bnf:  # not a collision: bnf data not present
+                self.all_book_alignments[isbn_bnf].align_bnf(isbn_bnf=book_alignment.isbn_bnf,
+                                                             ean_bnf = book_alignment.ean_bnf,
+                                                             url_bnf=book_alignment.url_bnf,
+                                                             uri_bnf=book_alignment.uri_bnf,
+                                                             age_range_bnf=book_alignment.age_range_bnf,
+                                                             ean_used_to_align=False)
+                self.increment_alignment_number()
+
+            else:
+                self.increment_collision_number()  # increase if bnf data already present: doublon inside bnf
+
+        elif ean_bnf in self.all_book_alignments:
+            if not self.all_book_alignments[ean_bnf].url_bnf:  # not a collision: bnf data not present
+                self.all_book_alignments[ean_bnf].align_bnf(isbn_bnf=book_alignment.isbn_bnf,
+                                                             ean_bnf=book_alignment.ean_bnf,
+                                                             url_bnf=book_alignment.url_bnf,
+                                                             uri_bnf=book_alignment.uri_bnf,
+                                                             age_range_bnf=book_alignment.age_range_bnf,
+                                                            ean_used_to_align=True)
+                self.increment_alignment_number()
+            else:
+                self.increment_collision_number()  # increase if bnf data already present: doublon inside bnf
+
+        else:
+            self.all_book_alignments[isbn_bnf] = book_alignment  # bnf data gets into the dict without alignment
+
 
     def output_csv(self):
         with open(f"exact_alignment_{self.key_type}.csv", "w", encoding='utf-8', newline="") as csvfile:
