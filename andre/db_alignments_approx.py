@@ -113,7 +113,7 @@ with Parallel(n_jobs=N_JOBS) as parallel:
 
         stats_approx.increment_bnf_book_number()
 
-stats_approx.output_csv()
+stats_approx.output_csv_constellation_bnf()
 stats_approx.output_rdf()
 print("alignment done, computing stats ...")
 stats_approx.print_stats()

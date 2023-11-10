@@ -48,7 +48,7 @@ class InterDbStatsApprox(InterDbStatsExact):
         else:
             self.all_book_alignments[book_key] = book_alignment  # bnf data gets into the dict without alignment
 
-    def output_csv(self):
+    def output_csv_constellation_bnf(self):
         with open(f"{self.alignment_method}_alignment_{self.key_type}_ratio_{self.SIMILARITY_RATIO}.csv", "w",
                   encoding='utf-8',
                   newline="") as csvfile:

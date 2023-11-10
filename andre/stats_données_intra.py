@@ -151,7 +151,7 @@ g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="t
 stats_constellation = IntraDBStats(source="Constellation")
 
 # refactor to have a reader class
-for book in g.subjects(RDF.type, utils.ns1.Book):
+for book in g.subjects(RDF.type, utils.schema.Book):
     book_data = utils.extract_data_constellation(g, book)
     stats_constellation.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn)
 
@@ -168,7 +168,7 @@ g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", fo
 
 stats_bnf = IntraDBStats(source="BNF")
 
-for book in g.subjects(RDF.type, utils.ns1.Book):
+for book in g.subjects(RDF.type, utils.schema.Book):
     book_data = utils.extract_data_bnf(g, book)
     stats_bnf.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn)
 

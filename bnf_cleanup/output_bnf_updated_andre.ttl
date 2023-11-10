@@ -1,0 +1,44 @@
+@prefix ns1: <http://schema.org/> .
+@prefix pbs: <http://www.example.org/pbs#> .
+
+ns1:Book43452914 a ns1:Book ;
+    ns1:author "Calvo" ;
+    ns1:bookFormat "ill. en coul. ; 36 x 27 cm" ;
+    ns1:datePublished "1995" ;
+    ns1:description "Comprend : Quand la bête est déchaînée ; Quand la bête est terrassée | Code à barres commercial : EAN 9782070590735 | " ;
+    ns1:genre "Bandes dessinées" ;
+    ns1:inLanguage "Français" ;
+    ns1:isbn "2070590739" ;
+    ns1:name "La bête est morte !... : la guerre mondiale chez les animaux" ;
+    ns1:publisher ns1:Gallimard_Jeunesse ;
+    pbs:ageRange "10",
+        "11",
+        "12",
+        "9" ;
+    pbs:avisCritique "Coup de coeur !" ;
+    pbs:avisDate "2013-10-01" ;
+    pbs:avisSource "Escales en littérature de jeunesse" ;
+    pbs:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb434529148" ;
+    pbs:noticeCritique "Dessiné à partir de 1942, ce chef-d'0153uvre graphique raconte le second conflit mondial sur le mode animalier. Chaque nation est symbolisée par un animal : les Allemands sont des loups, les Russes des ours blancs... un discours fort et actuel sur la guerre. Plus léger mais autre chef-d'0153uvre, Rosalie conte les aventures d'une voiture très spéciale." ;
+    pbs:resume "Dessiné et peint en pleine occupation allemande, cet album est publié par les Editions G.P., dans le troisième mois de la Libération. Ce bestiaire sanglant, qui s'inscrit dans la longue tradition du symbolisme animal, est à l'image de cet épisode parmi les plus monstrueux de l'histoire de l'humanité : féroce et impitoyable. [source Electre]" .
+
+ns1:Book43452938 a ns1:Book ;
+    ns1:author "Abdoua Kanta" ;
+    ns1:bookFormat "95 p. : ill., couv. ill. en coul. ; 17 x 11 cm" ;
+    ns1:datePublished "2007" ;
+    ns1:description "Collection : Afrique en poche junior" ;
+    ns1:genre "Romans" ;
+    ns1:inLanguage "Français" ;
+    ns1:isbn "9782850694486" ;
+    ns1:name "Halimatou : jeunesse" ;
+    ns1:publisher ns1:edicefnouvelleseditionsafricainesdusngal ;
+    pbs:ageRange "11",
+        "12" ;
+    pbs:avisAuthor "de vie d'Halimatou, jeune bergère peule du Niger. Peu d'amour exprimé, un père parti au loin. Son retour change la vie de la jeune fille, tout comme le jeune Aliou fait battre son c0153ur. Récit riche d'une vie traditionnelle dont Halimatou ne comprend pas toujours bien les codes. Des romans de tous les pays francophones sont publiés dans cette collection. - Le 20131001" ;
+    pbs:avisCritique "" ;
+    pbs:avisDate "2013-10-01" ;
+    pbs:avisSource "Escales en littérature de jeunesse" ;
+    pbs:bnfLink "http://catalogue.bnf.fr/ark:/12148/cb434529388" ;
+    pbs:noticeCritique "La rude vie d'Halimatou, jeune bergère peule du Niger. Peu d'amour exprimé, un père parti au loin. Son retour change la vie de la jeune fille, tout comme le jeune Aliou fait battre son c0153ur. Récit riche d'une vie traditionnelle dont Halimatou ne comprend pas toujours bien les codes. Des romans de tous les pays francophones sont publiés dans cette collection." ;
+    pbs:resume "" .
+

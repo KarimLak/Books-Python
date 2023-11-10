@@ -81,6 +81,47 @@ class InterDbStats:
         self.compute_alignment_confusion_matrix_validation()
 
 
+    def plot_age_similarities_histograms(self):
+        jaccard_similarity_bnf_constellation = []
+        jaccard_similarity_bnf_btlf = []
+        jaccard_similarity_btlf_constellation = []
+
+        for book_key in self.all_book_alignments:
+            age_bnf = self.all_book_alignments[book_key].age_range_bnf
+            age_constellation = self.all_book_alignments[book_key].age_range_constellation
+            age_btlf = self.all_book_alignments[book_key].age_range_btlf
+
+            if age_bnf and age_constellation and len(age_bnf) > 0 and len(age_constellation) > 0:
+                similarity = utils.jaccard(age_bnf, age_constellation)
+                jaccard_similarity_bnf_constellation.append(similarity)
+
+            if age_bnf and age_btlf and len(age_bnf) > 0 and len(age_btlf) > 0:
+                similarity = utils.jaccard(age_bnf, age_btlf)
+                jaccard_similarity_bnf_btlf.append(similarity)
+
+            if age_btlf and age_constellation and len(age_btlf) > 0 and len(age_constellation) > 0:
+                similarity = utils.jaccard(age_btlf, age_constellation)
+                jaccard_similarity_btlf_constellation.append(similarity)
+
+        self.plot_age_similarity_histogram(jaccard_similarity_bnf_constellation, "bnf_constellation")
+        self.plot_age_similarity_histogram(jaccard_similarity_bnf_btlf, "bnf_btlf")
+        self.plot_age_similarity_histogram(jaccard_similarity_btlf_constellation, "btlf_constellation")
+
+    def plot_age_similarity_histogram(self, jaccard_similarities, title):
+
+        pandas_similarities = pd.Series(jaccard_similarities)
+        step = 5
+        bin_edges = np.arange(0, 100 + step, step)
+        plt.hist(pandas_similarities, bins=bin_edges, rwidth=0.5)
+        plt.xlabel("similarité Jaccard en %")
+        plt.ylabel("nombre d'alignements")
+        plt.title(title)
+        plt.show()
+
+        average_jaccard_similarity = sum(jaccard_similarities) / len(jaccard_similarities) if len(jaccard_similarities) > 0 else 0
+        self.stats_logger.info(f"average jaccard similarity between ages of {title} = {average_jaccard_similarity}")
+
+
     def compute_alignment_confusion_matrix_validation(self):
 
         self.stats_logger.info("----- validation set")
@@ -95,7 +136,6 @@ class InterDbStats:
         non_alignment_isbn_present = 0  # FN
         non_alignment_isbn_absent = 0  # TN
         lines_without_url = 0
-        jaccard_similarities = []
         ean_no_isbn = 0
         no_ean_isbn = 0
         ean_and_isbn = 0
@@ -148,14 +188,6 @@ class InterDbStats:
                 lines_without_url += 1
                 self.stats_logger.info("empty line", book_key)
 
-            # age
-            # -------
-            age_bnf = self.all_book_alignments[book_key].age_range_bnf
-            age_constellation = self.all_book_alignments[book_key].age_range_constellation
-            if age_bnf and age_constellation and len(age_constellation) > 0 and len(age_bnf) > 0:
-                similarity = utils.jaccard(age_bnf, age_constellation)
-                jaccard_similarities.append(similarity)
-
             # ean vs isbn
             # -------
             ean_bnf: str = str(self.all_book_alignments[book_key].ean_bnf)
@@ -176,15 +208,6 @@ class InterDbStats:
 
 
         assert((ean_sameAs_isbn + ean_different_isbn) == ean_and_isbn)
-        pandas_similarities = pd.Series(jaccard_similarities)
-        step = 5
-        bin_edges = np.arange(0, 100 + step, step)
-        plt.hist(pandas_similarities, bins=bin_edges, rwidth=0.5)
-        plt.xlabel("similarité Jaccard en %")
-        plt.ylabel("nombre d'alignements")
-        plt.show()
-
-        average_jaccard_similarity = sum(jaccard_similarities) / len(jaccard_similarities) if len(jaccard_similarities) > 0 else 0
 
         self.stats_logger.info(f"EAN and no ISBN {ean_no_isbn}")
         self.stats_logger.info(f"no EAN and ISBN {no_ean_isbn}")
@@ -192,7 +215,6 @@ class InterDbStats:
         self.stats_logger.info(f"EAN and ISBN {ean_and_isbn}")
         self.stats_logger.info(f"EAN == ISBN {ean_sameAs_isbn}")
         self.stats_logger.info(f"EAN != ISBN {ean_different_isbn}")
-        self.stats_logger.info(f"average jaccard similarity between ages {average_jaccard_similarity}")
         self.stats_logger.info(f"total alignment P {total_alignment}")
         self.stats_logger.info(f"total non-alignment N {total_non_alignment}")
         self.stats_logger.info(f"lines without url {lines_without_url}")
@@ -207,7 +229,7 @@ class InterDbStats:
 
     def output_rdf(self):
         output_graph = Graph()
-        output_graph.bind('ns1', utils.ns1)
+        output_graph.bind('ns1', utils.schema)
         output_graph.bind('pbs', utils.pbs)
         alignment_counter = 0
 
@@ -217,17 +239,17 @@ class InterDbStats:
             alignment_uri = URIRef(f'http://example.org/pbs/alignment{alignment_counter}')
             output_graph.add((alignment_uri, RDF.type, utils.pbs.Alignment))
             if book_alignment.isbn_constellation:
-                output_graph.add((alignment_uri, utils.ns1.isbn_constellation, Literal(book_alignment.isbn_constellation)))
+                output_graph.add((alignment_uri, utils.schema.isbn_constellation, Literal(book_alignment.isbn_constellation)))
             if book_alignment.isbn_bnf:
-                output_graph.add((alignment_uri, utils.ns1.isbn_bnf, Literal(book_alignment.isbn_bnf)))
+                output_graph.add((alignment_uri, utils.schema.isbn_bnf, Literal(book_alignment.isbn_bnf)))
             if book_alignment.isbn_lurelu:
-                output_graph.add((alignment_uri, utils.ns1.isbn_lurelu, Literal(book_alignment.isbn_lurelu)))
+                output_graph.add((alignment_uri, utils.schema.isbn_lurelu, Literal(book_alignment.isbn_lurelu)))
 
             output_graph.add((alignment_uri, utils.pbs.exact_key, Literal(book_alignment_key)))
-            output_graph.add((alignment_uri, utils.ns1.name, Literal(book_alignment.name)))
-            output_graph.add((alignment_uri, utils.ns1.author, Literal(book_alignment.author)))
-            output_graph.add((alignment_uri, utils.ns1.datePublished, Literal(book_alignment.date)))
-            output_graph.add((alignment_uri, utils.ns1.publisher, Literal(book_alignment.publisher)))
+            output_graph.add((alignment_uri, utils.schema.name, Literal(book_alignment.name)))
+            output_graph.add((alignment_uri, utils.schema.author, Literal(book_alignment.author)))
+            output_graph.add((alignment_uri, utils.schema.datePublished, Literal(book_alignment.date)))
+            output_graph.add((alignment_uri, utils.schema.publisher, Literal(book_alignment.publisher)))
 
             if book_alignment.uri_constellation:
                 output_graph.add((alignment_uri, utils.pbs.uri_constellation, URIRef(book_alignment.uri_constellation)))

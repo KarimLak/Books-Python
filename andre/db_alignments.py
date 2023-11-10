@@ -23,7 +23,7 @@ g.parse("../final_datasets/constellations.ttl", format="turtle")
 # g.parse("output_constellations_light_extended.ttl", format="turtle")
 
 # constellation loop
-for book in g.subjects(RDF.type, utils.ns1.Book):
+for book in g.subjects(RDF.type, utils.schema.Book):
     book_data_raw = utils.extract_data_constellation(g, book)
     book_data_preprocessed: utils.RdfBookData = \
         utils.remove_special_chars(
@@ -74,7 +74,7 @@ g.parse("../final_datasets/bnf.ttl", format="turtle")
 
 # BNF loop
 
-for book in g.subjects(RDF.type, utils.ns1.Book):  # O(M)
+for book in g.subjects(RDF.type, utils.schema.Book):  # O(M)
     book_data_raw = utils.extract_data_bnf(g, book)
     book_data_preprocessed: utils.RdfBookData = \
         utils.remove_special_chars(
@@ -114,7 +114,7 @@ for book in g.subjects(RDF.type, utils.ns1.Book):  # O(M)
     # stats_name_author_publisher_date.increment_bnf_book_number()
     # stats_name_author_date.increment_bnf_book_number()
 
-stats_isbn.output_csv()
+stats_isbn.output_csv_constellation_bnf()
 # stats_name_author.output_csv()
 # stats_name_author_publisher.output_csv()
 # stats_name_author_publisher_date.output_csv()

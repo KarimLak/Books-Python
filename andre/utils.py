@@ -7,8 +7,10 @@ from difflib import SequenceMatcher
 EPSILON = 0.00001
 
 pbs = rdflib.namespace.Namespace("http://www.example.org/pbs#")
-ns1 = rdflib.namespace.Namespace("http://schema.org/")
-
+schema = rdflib.namespace.Namespace("http://schema.org/")
+btlf_classe = rdflib.namespace.Namespace("http://www.btlf.com/classe/")
+btlf_livre = rdflib.namespace.Namespace("http://www.btlf.com/livre/")
+btlf_prop = rdflib.namespace.Namespace("http://www.btlf.com/prop/")
 
 def create_key(book_name, book_author="", publisher="", publication_date=""):
     return book_name + "_" + book_author + "_" + publisher + "_" + publication_date
@@ -40,7 +42,7 @@ def is_key_close_enough_to_another_key(book_key, keys_to_check, SIMILARITY_RATIO
 
 
 class RdfBookData:
-    def __init__(self, book_name, book_author, age_range_int, url, publication_date, publisher, isbn, uri, ean=None):
+    def __init__(self, uri, book_name=None, book_author=None, age_range_int=None, url=None, publication_date=None, publisher=None, isbn=None, ean=None):
         self.book_name = book_name
         self.book_author = book_author
         self.age_range_int = age_range_int
@@ -53,11 +55,11 @@ class RdfBookData:
 
 
 def extract_data_alignment(graph, alignment_uri):
-    isbn = graph.value(alignment_uri, ns1.isbn)
+    isbn = graph.value(alignment_uri, schema.isbn)
     exact_key = graph.value(alignment_uri, pbs.exact_key)
-    name = graph.value(alignment_uri, ns1.name)
-    author = graph.value(alignment_uri, ns1.author)
-    datePublished = graph.value(alignment_uri, ns1.datePublished)
+    name = graph.value(alignment_uri, schema.name)
+    author = graph.value(alignment_uri, schema.author)
+    datePublished = graph.value(alignment_uri, schema.datePublished)
     uri_constellation = graph.value(alignment_uri, pbs.uri_constellation) if graph.value(alignment_uri,
                                                                                          pbs.uri_constellation) else None
     uri_bnf = graph.value(alignment_uri, pbs.uri_bnf) if graph.value(alignment_uri, pbs.uri_bnf) else None
@@ -66,30 +68,42 @@ def extract_data_alignment(graph, alignment_uri):
 
 
 def extract_data_constellation(graph, book):
-    book_name = str(graph.value(book, ns1.name)) if str(graph.value(book, ns1.name)) else str(
-        graph.value(book, ns1.title))  # name vs title in database
-    book_author = str(graph.value(book, ns1.author)) if graph.value(book, ns1.author) else ""
+    book_name = str(graph.value(book, schema.name)) if str(graph.value(book, schema.name)) else str(
+        graph.value(book, schema.title))  # name vs title in database
+    book_author = str(graph.value(book, schema.author)) if graph.value(book, schema.author) else ""
     age_range = list(graph.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
     url = str(graph.value(book, pbs.constellationLink))
     publication_date = str(graph.value(book, pbs.dateEdition))
-    publisher = str(graph.value(book, ns1.publisher))
-    isbn = str(graph.value(book, ns1.isbn)) if (graph.value(book, ns1.isbn) and str(graph.value(book, ns1.isbn)) != "none") else ""
+    publisher = str(graph.value(book, schema.publisher))
+    isbn = str(graph.value(book, schema.isbn)) if (graph.value(book, schema.isbn) and str(graph.value(book, schema.isbn)) != "none") else ""
     uri = book
     return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int, url=url,
                        publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri)
 
+# no url for btlf data
+def extract_data_btlf(graph, book):
+    book_author = str(graph.value(book, schema.author)) if graph.value(book, schema.author) else ""
+    age_range = list(graph.objects(book, btlf_prop.age))
+    age_range_int = [int(age) for age in age_range]
+    publication_date = str(graph.value(book, schema.datePublished))
+    publisher = str(graph.value(book, schema.publisher))
+    isbn = str(graph.value(book, schema.isbn)) if (graph.value(book, schema.isbn) and str(graph.value(book, schema.isbn)) != "none") else ""
+    uri = book
+    return RdfBookData(book_author=book_author, age_range_int=age_range_int,
+                       publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri)
+
 
 def extract_data_bnf(graph, book):
-    book_name = str(graph.value(book, ns1.name)) if graph.value(book, ns1.name) else ""
-    book_author = str(graph.value(book, ns1.author)) if graph.value(book, ns1.author) else ""
+    book_name = str(graph.value(book, schema.name)) if graph.value(book, schema.name) else ""
+    book_author = str(graph.value(book, schema.author)) if graph.value(book, schema.author) else ""
     age_range = list(graph.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
     url = str(graph.value(book, pbs.bnfLink)) if graph.value(book, pbs.bnfLink) else str(
-        graph.value(book, ns1.bnfLink))  # 4 august vs 8 august data
-    publication_date = str(graph.value(book, ns1.datePublished)) if graph.value(book, ns1.datePublished) else ""
-    publisher = str(graph.value(book, ns1.publisher)) if graph.value(book, ns1.publisher) else ""
-    isbn = str(graph.value(book, ns1.isbn)) if (graph.value(book, ns1.isbn) and str(graph.value(book, ns1.isbn)) != "none") else ""
+        graph.value(book, schema.bnfLink))  # 4 august vs 8 august data
+    publication_date = str(graph.value(book, schema.datePublished)) if graph.value(book, schema.datePublished) else ""
+    publisher = str(graph.value(book, schema.publisher)) if graph.value(book, schema.publisher) else ""
+    isbn = str(graph.value(book, schema.isbn)) if (graph.value(book, schema.isbn) and str(graph.value(book, schema.isbn)) != "none") else ""
     ean = str(graph.value(book, pbs.ean)) if (graph.value(book, pbs.ean) and str(graph.value(book, pbs.ean)) != "none") else ""
     uri = book
     return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int, url=url,
@@ -97,13 +111,13 @@ def extract_data_bnf(graph, book):
 
 
 def extract_data_lurelu(graph, book):
-    book_name = str(graph.value(book, ns1.name))
-    book_author = str(graph.value(book, ns1.author)) if graph.value(book, ns1.author) else ""
+    book_name = str(graph.value(book, schema.name))
+    book_author = str(graph.value(book, schema.author)) if graph.value(book, schema.author) else ""
     url = str(graph.value(book, pbs.lureluLink))
-    publication_date = str(graph.value(book, ns1.datePublished)) if graph.value(book, ns1.datePublished) else ""
-    publisher = str(graph.value(book, ns1.publisher)) if graph.value(book, ns1.publisher) else ""
-    isbn = str(graph.value(book, ns1.isbn)) if (
-                graph.value(book, ns1.isbn) and str(graph.value(book, ns1.isbn)) != "none") else ""
+    publication_date = str(graph.value(book, schema.datePublished)) if graph.value(book, schema.datePublished) else ""
+    publisher = str(graph.value(book, schema.publisher)) if graph.value(book, schema.publisher) else ""
+    isbn = str(graph.value(book, schema.isbn)) if (
+            graph.value(book, schema.isbn) and str(graph.value(book, schema.isbn)) != "none") else ""
     uri = book
     return RdfBookData(book_name=book_name, book_author=book_author, url=url,
                        publication_date=publication_date, publisher=publisher, isbn=isbn, age_range_int=None, uri=uri)
