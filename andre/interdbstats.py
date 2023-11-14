@@ -119,7 +119,7 @@ class InterDbStats:
         plt.show()
 
         average_jaccard_similarity = sum(jaccard_similarities) / len(jaccard_similarities) if len(jaccard_similarities) > 0 else 0
-        self.stats_logger.info(f"average jaccard similarity between ages of {title} = {average_jaccard_similarity}")
+        print(f"average jaccard similarity between ages of {title} = {average_jaccard_similarity}")
 
 
     def compute_alignment_confusion_matrix_validation(self):

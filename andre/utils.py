@@ -3,6 +3,7 @@ import unicodedata
 import re
 import logging
 from difflib import SequenceMatcher
+import os
 
 EPSILON = 0.00001
 
@@ -28,6 +29,14 @@ def setup_logger(name, log_file, level=logging.INFO):
     logger.addHandler(handler)
 
     return logger
+
+def delete_empty_logfile(logger):
+    handlers = logger.handlers[:]
+    for handler in handlers:
+        logger.removeHandler(handler)
+        handler.close()
+        if os.path.getsize(handler.baseFilename) == 0:
+            os.remove(handler.baseFilename)
 
 def is_key_close_enough_to_another_key(book_key, keys_to_check, SIMILARITY_RATIO):
     max_ratio = 0
