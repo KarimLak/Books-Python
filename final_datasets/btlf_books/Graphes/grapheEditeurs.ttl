@@ -1,6 +1,6 @@
 @prefix btlf-classe: <http://www.btlf.com/classe/> .
 @prefix btlf-editeur: <http://www.btlf.com/editeur/> .
-@prefix schema: <https://schema.org/> .
+@prefix schema: <http://schema.org/> .
 
 btlf-editeur:0 a btlf-classe:Editeur ;
     schema:name "Editions Gallimard" .
