@@ -16,6 +16,7 @@ class IntraDBStats: # stats for 1 db
         self.books_without_publication_date = []
         self.books_without_publisher = []
         self.books_without_isbn = []
+        self.books_without_isbn_and_ean = []
         self.isbn_doublons = defaultdict(lambda: [])
         self.book_name_doublons = defaultdict(lambda: [])
         self.book_name_author_doublons = defaultdict(lambda: [])
@@ -23,7 +24,7 @@ class IntraDBStats: # stats for 1 db
         self.book_name_author_publisher_date_doublons = defaultdict(lambda: [])
         self.book_name_author_ages = defaultdict(lambda: [])
 
-    def count(self, book_name, book_author, age_range, url, publication_date, publisher, isbn):
+    def count(self, book_name, book_author, age_range, url, publication_date, publisher, isbn, ean=None):
         self.total_book_no += 1
 
         if not book_name:
@@ -38,8 +39,10 @@ class IntraDBStats: # stats for 1 db
             self.books_without_publisher.append(url)
         if not isbn or isbn == "none":
             self.books_without_isbn.append(url)
+            if not ean or ean == "none":
+                self.books_without_isbn_and_ean.append(url)
 
-        self.count_doublon_with_missing_values(book_name, book_author, age_range, publisher, publication_date, isbn, url)
+        self.count_doublon_with_missing_values(str(book_name), str(book_author), age_range, str(publisher), str(publication_date), isbn, url)
 
     def count_doublon_with_missing_values(self, book_name, book_author, age_range, publisher, publication_date, isbn, url):
         name_key = utils.create_key(book_name)
@@ -91,6 +94,7 @@ class IntraDBStats: # stats for 1 db
             with open(f"{self.source}_intra_stats.csv", "w", encoding='utf-8', newline="") as csvfile:
                 writer = csv.writer(csvfile, delimiter='{')
                 writer.writerow([f"without isbn: {len(self.books_without_isbn)}",
+                                 f"without isbn and ean: {len(self.books_without_isbn_and_ean)}",
                                  f"without name: {len(self.books_without_name)}",
                                  f"without author:{len(self.books_without_authors)}",
                                  f"without age {len(self.books_without_age)}",
@@ -98,6 +102,7 @@ class IntraDBStats: # stats for 1 db
                                  f"without publisher {len(self.books_without_publisher)}"])
 
                 rows = zip_longest(self.books_without_isbn,
+                                   self.books_without_isbn_and_ean,
                                    self.books_without_name,
                                    self.books_without_authors,
                                    self.books_without_age,
@@ -140,14 +145,14 @@ class IntraDBStats: # stats for 1 db
                 average_similarity += similarity
         print("average similarity between ages of same name_author", average_similarity/name_author_doublon_count)
 
-
+'''
 #------------------------------------
 # CONSTELLATION
 
 # load the graph of constellation
 g = Graph()
-# g.parse("../output_constellations.ttl", format="turtle")
-g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="turtle")
+g.parse("../final_datasets/constellations.ttl", format="turtle")
+# g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="turtle")
 stats_constellation = IntraDBStats(source="Constellation")
 
 # refactor to have a reader class
@@ -163,14 +168,29 @@ stats_constellation.output_csv()
 # BNF
 
 g = Graph() # reset graph
-# g.parse("../output_bnf.ttl", format="turtle")
-g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
+g.parse("final_datasets/bnf.ttl", format="turtle")
+# g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
 
 stats_bnf = IntraDBStats(source="BNF")
 
 for book in g.subjects(RDF.type, utils.schema.Book):
     book_data = utils.extract_data_bnf(g, book)
-    stats_bnf.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn)
+    stats_bnf.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn, book_data.ean)
 
 stats_bnf.print_stats()
 stats_bnf.output_csv()
+'''
+#------------------------------------
+#BTLF
+g = Graph() # reset graph
+g.parse("../final_datasets/btlf_books/Graphes/grapheLivres.ttl", format="turtle")
+# g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
+
+stats_btlf = IntraDBStats(source="BTLF")
+
+for book in g.subjects(RDF.type, utils.btlf_classe.Livre):  # O(M)
+    book_data = utils.extract_data_btlf(g, book)
+    stats_btlf.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.uri, book_data.publication_date, book_data.publisher, book_data.isbn)
+
+stats_btlf.print_stats()
+stats_btlf.output_csv()
