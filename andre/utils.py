@@ -77,7 +77,7 @@ def extract_data_alignment(graph, alignment_uri):
 
 
 def extract_data_constellation(graph, book):
-    book_name = str(graph.value(book, schema.name)) if str(graph.value(book, schema.name)) else str(
+    book_name = str(graph.value(book, schema.name)) if graph.value(book, schema.name) else str(
         graph.value(book, schema.title))  # name vs title in database
     book_author = str(graph.value(book, schema.author)) if graph.value(book, schema.author) else ""
     age_range = list(graph.objects(book, pbs.ageRange))
@@ -92,14 +92,18 @@ def extract_data_constellation(graph, book):
 
 # no url for btlf data
 def extract_data_btlf(graph, book):
+    book_name = str(graph.value(book, schema.name)) if graph.value(book, schema.name) else ""
     book_author = str(graph.value(book, schema.author)) if graph.value(book, schema.author) else ""
-    age_range = list(graph.objects(book, btlf_prop.age))
+    age_range = list(graph.objects(book, pbs.age))
     age_range_int = [int(age) for age in age_range]
     publication_date = str(graph.value(book, schema.datePublished))
     publisher = str(graph.value(book, schema.publisher))
+    illustrator = str(graph.value(book, schema.illustrator)) if graph.value(book, schema.illustrator) else ""
+    if not book_author:
+        book_author = illustrator
     isbn = str(graph.value(book, schema.isbn)) if (graph.value(book, schema.isbn) and str(graph.value(book, schema.isbn)) != "none") else ""
     uri = book
-    return RdfBookData(book_author=book_author, age_range_int=age_range_int,
+    return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int,
                        publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri)
 
 
