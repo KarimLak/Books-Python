@@ -3382,7 +3382,9 @@ ns1:Theatre_En_LAir a ns1:Publisher ;
     ns1:name "Théâtre en l'Air"^^xsd:string .
 
 ns1:Compagnie_Artifice a ns1:Publisher ;
-    ns1:name "Compagnie l'Artifice"^^xsd:string .ns1:EpsilonBD a ns1:Publisher ;
+    ns1:name "Compagnie l'Artifice"^^xsd:string .
+    
+ns1:EpsilonBD a ns1:Publisher ;
     ns1:name "Epsilon BD"^^xsd:string .
 
 ns1:BajazzoVerlag a ns1:Publisher ;
