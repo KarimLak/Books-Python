@@ -12,6 +12,8 @@ schema = rdflib.namespace.Namespace("http://schema.org/")
 btlf_classe = rdflib.namespace.Namespace("http://www.btlf.com/classe/")
 btlf_livre = rdflib.namespace.Namespace("http://www.btlf.com/livre/")
 btlf_prop = rdflib.namespace.Namespace("http://www.btlf.com/prop/")
+xsd = rdflib.namespace.Namespace('http://www.w3.org/2001/XMLSchema#')
+
 
 def create_key(book_name, book_author="", publisher="", publication_date=""):
     return book_name + "_" + book_author + "_" + publisher + "_" + publication_date
