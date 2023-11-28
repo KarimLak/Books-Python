@@ -19,8 +19,8 @@ from book_alignment import BookAlignment
 ## verify output_rtf name
 #############################################################################
 
-N_JOBS = 12
-SIMILARITY_RATIO = 0.9
+N_JOBS = 1 # serial execution
+SIMILARITY_RATIO = -1
 key_name = "name_author_publisher_date"
 
 time_logger = utils.setup_logger('execution_time_logger',
@@ -51,13 +51,13 @@ for book in g.subjects(RDF.type, utils.schema.Book):
                                                  isbn_constellation=book_data_preprocessed.isbn,
                                                  age_range_constellation=book_data_preprocessed.age_range_int,
                                                  name=book_data_raw.book_name,  # put non preprocessed name
-                                                 author=book_data_raw.book_author,
+                                                 authors=book_data_raw.book_authors,
                                                  publisher=book_data_raw.publisher,
                                                  date=book_data_raw.publication_date,
                                                  uri_constellation=book_data_preprocessed.uri)
 
     name_author_publisher_date_key = utils.create_key(book_name=book_data_preprocessed.book_name,
-                                                      book_author=book_data_preprocessed.book_author,
+                                                      book_author=book_data_preprocessed.book_authors,
                                                       publisher=book_data_preprocessed.publisher,
                                                       publication_date=book_data_preprocessed.publication_date)
 
@@ -88,15 +88,16 @@ for book in g.subjects(RDF.type, utils.schema.Book):  # O(M)
                         copy.deepcopy(book_data_raw)))))
     book_alignment_bnf = BookAlignment(url_bnf=book_data_preprocessed.url,
                                        isbn_bnf=book_data_preprocessed.isbn,
+                                       ean_bnf=book_data_raw.ean,
                                        age_range_bnf=book_data_preprocessed.age_range_int,
                                        uri_bnf=book_data_preprocessed.uri,
                                        name=book_data_raw.book_name,  # non preprocessed name
-                                       author=book_data_raw.book_author,
+                                       authors=book_data_raw.book_authors,
                                        publisher=book_data_raw.publisher,
                                        date=book_data_raw.publication_date)
 
     name_author_publisher_date_key = utils.create_key(book_name=book_data_preprocessed.book_name,
-                                                      book_author=book_data_preprocessed.book_author,
+                                                      book_author=book_data_preprocessed.book_authors,
                                                       publisher=book_data_preprocessed.publisher,
                                                       publication_date=book_data_preprocessed.publication_date)
 
@@ -110,7 +111,7 @@ for book in g.subjects(RDF.type, utils.schema.Book):  # O(M)
         time_logger.info("")
 
     stats_hybrid.increment_bnf_book_number()
-
+'''
 # LURELU
 # ----------------------------------------------------
 
@@ -130,12 +131,12 @@ with Parallel(n_jobs=N_JOBS) as parallel:
                                               isbn_lurelu=book_data_preprocessed.isbn,
                                               uri_lurelu=book_data_preprocessed.uri,
                                               name=book_data_raw.book_name,  # non preprocessed name
-                                              author=book_data_raw.book_author,
+                                              authors=book_data_raw.book_authors,
                                               publisher=book_data_raw.publisher,
                                               date=book_data_raw.publication_date)
 
         name_author_publisher_date_key = utils.create_key(book_name=book_data_preprocessed.book_name,
-                                                          book_author=book_data_preprocessed.book_author,
+                                                          book_author=book_data_preprocessed.book_authors,
                                                           publisher=book_data_preprocessed.publisher,
                                                           publication_date=book_data_preprocessed.publication_date)
 
@@ -152,6 +153,8 @@ with Parallel(n_jobs=N_JOBS) as parallel:
             time_logger.info("")
 
         stats_hybrid.increment_lurelu_book_number()
+
+'''
 
 stats_hybrid.output_rdf()
 stats_hybrid.output_csv()

@@ -51,13 +51,13 @@ for book in g.subjects(RDF.type, ns1.Book):
                                                  isbn_constellation=book_data_preprocessed.isbn,
                                                  age_range_constellation=book_data_preprocessed.age_range_int,
                                                  name=book_data_raw.book_name,  # put non preprocessed name
-                                                 author=book_data_raw.book_author,
+                                                 authors=book_data_raw.book_authors,
                                                  publisher=book_data_raw.publisher,
                                                  date=book_data_raw.publication_date,
                                                  uri_constellation=book_data_preprocessed.uri)
 
     name_author_publisher_date_key = utils.create_key(book_name=book_data_preprocessed.book_name,
-                                                      book_author=book_data_preprocessed.book_author,
+                                                      book_author=book_data_preprocessed.book_authors,
                                                       publisher=book_data_preprocessed.publisher,
                                                       publication_date=book_data_preprocessed.publication_date)
 
@@ -92,13 +92,13 @@ with Parallel(n_jobs=N_JOBS) as parallel:
                                            age_range_bnf=book_data_preprocessed.age_range_int,
                                            uri_bnf=book_data_preprocessed.uri,
                                            name=book_data_raw.book_name,  # non preprocessed name
-                                           author=book_data_raw.book_author,
+                                           authors=book_data_raw.book_authors,
                                            publisher=book_data_raw.publisher,
                                            date=book_data_raw.publication_date)
 
 
         name_author_publisher_date_key = utils.create_key(book_name=book_data_preprocessed.book_name,
-                                                          book_author=book_data_preprocessed.book_author,
+                                                          book_author=book_data_preprocessed.book_authors,
                                                           publisher=book_data_preprocessed.publisher,
                                                           publication_date=book_data_preprocessed.publication_date)
 

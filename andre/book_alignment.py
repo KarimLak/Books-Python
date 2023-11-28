@@ -1,6 +1,6 @@
 class BookAlignment:
     def __init__(self, isbn_constellation=None, isbn_bnf=None, ean_bnf=None, isbn_btlf=None, isbn_lurelu=None, age_range_constellation=None,
-                 age_range_bnf=None, age_range_btlf=None, url_constellation=None, url_bnf=None, url_lurelu=None, uri_btlf = None, uri_bnf=None, uri_constellation=None, uri_lurelu=None, name=None, author=None, date=None, publisher=None):
+                 age_range_bnf=None, age_range_btlf=None, url_constellation=None, url_bnf=None, url_lurelu=None, uri_btlf = None, uri_bnf=None, uri_constellation=None, uri_lurelu=None, name=None, authors=None, date=None, publisher=None):
         self.similarity_ratio_lurelu = 0
         self.key_used_to_align_bnf = None
         self.key_used_to_align_lurelu = None
@@ -26,7 +26,7 @@ class BookAlignment:
         self.isbn_lurelu = isbn_lurelu
 
         self.name = name
-        self.author = author
+        self.authors = authors
         self.publisher = publisher
         self.date = date
 

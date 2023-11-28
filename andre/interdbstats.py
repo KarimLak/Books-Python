@@ -247,7 +247,8 @@ class InterDbStats:
 
             output_graph.add((alignment_uri, utils.pbs.exact_key, Literal(book_alignment_key)))
             output_graph.add((alignment_uri, utils.schema.name, Literal(book_alignment.name)))
-            output_graph.add((alignment_uri, utils.schema.author, Literal(book_alignment.author)))
+            for a in book_alignment.authors:
+                output_graph.add((alignment_uri, utils.schema.author, Literal(a)))
             output_graph.add((alignment_uri, utils.schema.datePublished, Literal(book_alignment.date)))
             output_graph.add((alignment_uri, utils.schema.publisher, Literal(book_alignment.publisher)))
 

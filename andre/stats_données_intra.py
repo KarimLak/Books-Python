@@ -18,18 +18,19 @@ class IntraDBStats: # stats for 1 db
         self.books_without_isbn = []
         self.books_without_isbn_and_ean = []
         self.isbn_doublons = defaultdict(lambda: [])
+        self.ean_doublons = defaultdict(lambda: [])
         self.book_name_doublons = defaultdict(lambda: [])
         self.book_name_author_doublons = defaultdict(lambda: [])
         self.book_name_author_publisher_doublons = defaultdict(lambda: [])
         self.book_name_author_publisher_date_doublons = defaultdict(lambda: [])
         self.book_name_author_ages = defaultdict(lambda: [])
 
-    def count(self, book_name, book_author, age_range, url, publication_date, publisher, isbn, ean=None):
+    def count(self, book_name, book_authors, age_range, url, publication_date, publisher, isbn, ean=None):
         self.total_book_no += 1
 
         if not book_name:
             self.books_without_name.append(url)
-        if not book_author:
+        if not book_authors:
             self.books_without_authors.append(url)
         if not age_range:
             self.books_without_age.append(url)
@@ -42,22 +43,31 @@ class IntraDBStats: # stats for 1 db
             if not ean or ean == "none":
                 self.books_without_isbn_and_ean.append(url)
 
-        self.count_doublon_with_missing_values(str(book_name), str(book_author), age_range, str(publisher), str(publication_date), isbn, url)
+        self.count_doublon_with_missing_values(book_name=str(book_name),
+                                               book_authors=str(book_authors),
+                                               age_range=age_range,
+                                               publisher=str(publisher),
+                                               publication_date=str(publication_date),
+                                               isbn=isbn,
+                                               ean=ean,
+                                               url=url)
 
-    def count_doublon_with_missing_values(self, book_name, book_author, age_range, publisher, publication_date, isbn, url):
+    def count_doublon_with_missing_values(self, book_name, book_authors, age_range, publisher, publication_date, isbn, ean, url):
         name_key = utils.create_key(book_name)
         self.book_name_doublons[name_key].append(url)
 
-        name_author_key = utils.create_key(book_name,book_author)
+        name_author_key = utils.create_key(book_name, book_authors)
         self.book_name_author_doublons[name_author_key].append(url)
 
-        name_author_publisher_key = utils.create_key(book_name,book_author, publisher)
+        name_author_publisher_key = utils.create_key(book_name, book_authors, publisher)
         self.book_name_author_publisher_doublons[name_author_publisher_key].append(url)
 
-        name_author_publisher_date_key = utils.create_key(book_name, book_author, publisher, publication_date)
+        name_author_publisher_date_key = utils.create_key(book_name, book_authors, publisher, publication_date)
         self.book_name_author_publisher_date_doublons[name_author_publisher_date_key].append(url)
 
         self.isbn_doublons[isbn].append(url)
+
+        self.ean_doublons[ean].append(url)
 
         self.book_name_author_ages[name_author_key].append(age_range)
 
@@ -116,6 +126,8 @@ class IntraDBStats: # stats for 1 db
         self.doublon_output_csv("name_author_publisher", self.book_name_author_publisher_doublons)
         self.doublon_output_csv("name_author_publisher_date", self.book_name_author_publisher_date_doublons)
         self.doublon_output_csv("isbn", self.isbn_doublons)
+        self.doublon_output_csv("ean", self.ean_doublons)
+
 
 
     def print_stats(self):
@@ -162,7 +174,7 @@ for book in g.subjects(RDF.type, utils.schema.Book):
 
 stats_constellation.print_stats()
 stats_constellation.output_csv()
-
+'''
 
 #------------------------------------
 # BNF
@@ -175,7 +187,7 @@ stats_bnf = IntraDBStats(source="BNF")
 
 for book in g.subjects(RDF.type, utils.schema.Book):
     book_data = utils.extract_data_bnf(g, book)
-    stats_bnf.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn, book_data.ean)
+    stats_bnf.count(book_data.book_name, book_data.book_authors, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn, book_data.ean)
 
 stats_bnf.print_stats()
 stats_bnf.output_csv()
@@ -190,7 +202,8 @@ stats_btlf = IntraDBStats(source="BTLF")
 
 for book in g.subjects(RDF.type, utils.btlf_classe.Livre):  # O(M)
     book_data = utils.extract_data_btlf(g, book)
-    stats_btlf.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.uri, book_data.publication_date, book_data.publisher, book_data.isbn)
+    stats_btlf.count(book_data.book_name, book_data.book_authors, book_data.age_range_int, book_data.uri, book_data.publication_date, book_data.publisher, book_data.isbn)
 
 stats_btlf.print_stats()
 stats_btlf.output_csv()
+'''

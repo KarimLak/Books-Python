@@ -15,8 +15,17 @@ btlf_prop = rdflib.namespace.Namespace("http://www.btlf.com/prop/")
 xsd = rdflib.namespace.Namespace('http://www.w3.org/2001/XMLSchema#')
 
 
-def create_key(book_name, book_author="", publisher="", publication_date=""):
-    return book_name + "_" + book_author + "_" + publisher + "_" + publication_date
+def create_key(book_name, book_author:list=[], publisher="", publication_date=""):
+    authors_string = ""
+    for a in book_author:
+        authors_string += a
+        authors_string += "+"
+    if len(book_author) > 0:
+        if authors_string[-1] == "+":
+            authors_string = authors_string[:-1]
+
+
+    return book_name + "_" + authors_string + "_" + publisher + "_" + publication_date
 
 
 formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
@@ -53,9 +62,9 @@ def is_key_close_enough_to_another_key(book_key, keys_to_check, SIMILARITY_RATIO
 
 
 class RdfBookData:
-    def __init__(self, uri, book_name=None, book_author=None, age_range_int=None, url=None, publication_date=None, publisher=None, isbn=None, ean=None):
+    def __init__(self, uri, book_name=None, book_authors=None, age_range_int=None, url=None, publication_date=None, publisher=None, isbn=None, ean=None):
         self.book_name = book_name
-        self.book_author = book_author
+        self.book_authors = book_authors
         self.age_range_int = age_range_int
         self.url = url
         self.publication_date = publication_date
@@ -81,7 +90,8 @@ def extract_data_alignment(graph, alignment_uri):
 def extract_data_constellation(graph, book):
     book_name = str(graph.value(book, schema.name)) if graph.value(book, schema.name) else str(
         graph.value(book, schema.title))  # name vs title in database
-    book_author = str(graph.value(book, schema.author)) if graph.value(book, schema.author) else ""
+    book_authors = list(graph.objects(book, schema.author))
+    book_authors_str = [str(a) for a in book_authors]
     age_range = list(graph.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
     url = str(graph.value(book, pbs.constellationLink))
@@ -89,7 +99,7 @@ def extract_data_constellation(graph, book):
     publisher = str(graph.value(book, schema.publisher))
     isbn = str(graph.value(book, schema.isbn)) if (graph.value(book, schema.isbn) and str(graph.value(book, schema.isbn)) != "none") else ""
     uri = book
-    return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int, url=url,
+    return RdfBookData(book_name=book_name, book_authors=book_authors_str, age_range_int=age_range_int, url=url,
                        publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri)
 
 # no url for btlf data
@@ -105,13 +115,14 @@ def extract_data_btlf(graph, book):
         book_author = illustrator
     isbn = str(graph.value(book, schema.isbn)) if (graph.value(book, schema.isbn) and str(graph.value(book, schema.isbn)) != "none") else ""
     uri = book
-    return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int,
+    return RdfBookData(book_name=book_name, book_authors=book_author, age_range_int=age_range_int,
                        publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri)
 
 
 def extract_data_bnf(graph, book):
     book_name = str(graph.value(book, schema.name)) if graph.value(book, schema.name) else ""
-    book_author = str(graph.value(book, schema.author)) if graph.value(book, schema.author) else ""
+    book_authors = list(graph.objects(book, schema.author))
+    book_authors_str = [str(a) for a in book_authors]
     age_range = list(graph.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
     url = str(graph.value(book, pbs.bnfLink)) if graph.value(book, pbs.bnfLink) else str(
@@ -121,7 +132,7 @@ def extract_data_bnf(graph, book):
     isbn = str(graph.value(book, schema.isbn)) if (graph.value(book, schema.isbn) and str(graph.value(book, schema.isbn)) != "none") else ""
     ean = str(graph.value(book, pbs.ean)) if (graph.value(book, pbs.ean) and str(graph.value(book, pbs.ean)) != "none") else ""
     uri = book
-    return RdfBookData(book_name=book_name, book_author=book_author, age_range_int=age_range_int, url=url,
+    return RdfBookData(book_name=book_name, book_authors=book_authors_str, age_range_int=age_range_int, url=url,
                        publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri, ean=ean)
 
 
@@ -134,13 +145,13 @@ def extract_data_lurelu(graph, book):
     isbn = str(graph.value(book, schema.isbn)) if (
             graph.value(book, schema.isbn) and str(graph.value(book, schema.isbn)) != "none") else ""
     uri = book
-    return RdfBookData(book_name=book_name, book_author=book_author, url=url,
+    return RdfBookData(book_name=book_name, book_authors=book_author, url=url,
                        publication_date=publication_date, publisher=publisher, isbn=isbn, age_range_int=None, uri=uri)
 
 
 def remove_spaces(book_data: RdfBookData):
     book_data.book_name = book_data.book_name.replace(" ", "")
-    book_data.book_author = book_data.book_author.replace(" ", "")
+    book_data.book_authors = [a.replace(" ", "") for a in book_data.book_authors]
     book_data.age_range_int = book_data.age_range_int
     book_data.url = book_data.url
     book_data.publication_date = book_data.publication_date.replace(" ", "")
@@ -151,7 +162,7 @@ def remove_spaces(book_data: RdfBookData):
 
 def lower(book_data: RdfBookData):
     book_data.book_name = book_data.book_name.lower()
-    book_data.book_author = book_data.book_author.lower()
+    book_data.book_authors = [a.lower()for a in book_data.book_authors]
     book_data.age_range_int = book_data.age_range_int
     book_data.url = book_data.url
     book_data.publication_date = book_data.publication_date.lower()
@@ -166,7 +177,7 @@ def strip_special_chars(s):
 
 def remove_special_chars(book_data: RdfBookData):
     book_data.book_name = strip_special_chars(book_data.book_name)
-    book_data.book_author = strip_special_chars(book_data.book_author)
+    book_data.book_authors = [strip_special_chars(a) for a in book_data.book_authors]
     book_data.age_range_int = book_data.age_range_int
     book_data.url = book_data.url
     book_data.publication_date = strip_special_chars(book_data.publication_date)
@@ -177,7 +188,7 @@ def remove_special_chars(book_data: RdfBookData):
 
 def remove_accents(book_data: RdfBookData):
     book_data.book_name = strip_accents(book_data.book_name)
-    book_data.book_author = strip_accents(book_data.book_author)
+    book_data.book_authors = [strip_accents(a) for a in book_data.book_authors]
     book_data.age_range_int = book_data.age_range_int
     book_data.url = book_data.url
     book_data.publication_date = strip_accents(book_data.publication_date)

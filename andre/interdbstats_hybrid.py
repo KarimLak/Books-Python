@@ -55,17 +55,19 @@ class InterDbStatsHybrid(InterDbStats):
         self.lurelu_book_number += 1
 
     def align_hybrid(self, book_alignment, book_key):
-        aligned_with_isbn = self.align_by_key_isbn(book_alignment)
+        aligned_with_isbn = self.align_by_key_isbn(book_alignment, book_alignment.isbn_bnf)
         if not aligned_with_isbn:
-            aligned_with_book_key = self.align_by_exact_key_bnf(book_alignment, book_key)
+            aligned_with_ean = self.align_by_key_isbn(book_alignment, book_alignment.ean_bnf)
+            if not aligned_with_ean:
+                aligned_with_book_key = self.align_by_exact_key_bnf(book_alignment, book_key)
             # if not aligned_with_book_key:
             #     self.align_by_approximate_key(book_alignment, book_key)
 
     def align_hybrid_without_isbn(self, book_alignment, book_key, parallel):
         aligned_with_book_key = self.align_by_exact_key_lurelu(book_alignment,
                                                                book_key)  # lurelu is aligned without isbn
-        if not aligned_with_book_key:
-            self.align_by_approximate_key_lurelu(book_alignment, book_key, parallel)
+        # if not aligned_with_book_key:
+        #     self.align_by_approximate_key_lurelu(book_alignment, book_key, parallel)
 
     def align_by_approximate_key_lurelu(self, book_alignment, book_key, parallel):
         keys_to_check = list(self.all_book_alignments.keys())
@@ -111,8 +113,8 @@ class InterDbStatsHybrid(InterDbStats):
 
     # Returns True if alignment in this call or already done (collision)
     # We only align constellation & bnf with isbn for now
-    def align_by_key_isbn(self, book_alignment):
-        matched_key = self.isbn_alignment(book_alignment.isbn_bnf)
+    def align_by_key_isbn(self, book_alignment, isbn):
+        matched_key = self.isbn_alignment(isbn)
         if matched_key:
             if not self.all_book_alignments[matched_key].url_bnf:  # not a collision: bnf data not present
                 self.all_book_alignments[matched_key].align_bnf(key_used_to_align_bnf="isbn",

@@ -11,7 +11,7 @@ stats_logger = utils.setup_logger('stats_logger', f'exact_stats.log')
 # stats_name_author = interdbstats_exact.InterDbStatsExact(key_type="name_author", stats_logger=stats_logger)
 # stats_name_author_publisher = interdbstats_exact.InterDbStatsExact(key_type="name_author_publisher", stats_logger=stats_logger)
 stats_isbn = interdbstats_exact.InterDbStatsExact(key_type="isbn_ean", stats_logger=stats_logger)
-# stats_name_author_publisher_date = interdbstats_exact.InterDbStatsExact(key_type="name_author_publisher_date", stats_logger=stats_logger)
+stats_name_author_publisher_date = interdbstats_exact.InterDbStatsExact(key_type="name_author_publisher_date", stats_logger=stats_logger)
 # stats_name_author_date = interdbstats_exact.InterDbStatsExact(key_type="name_author_date", stats_logger=stats_logger)
 
 # constellations
@@ -35,7 +35,7 @@ for book in g.subjects(RDF.type, utils.schema.Book):
                                                  isbn_constellation=book_data_preprocessed.isbn,
                                                  age_range_constellation=book_data_preprocessed.age_range_int,
                                                  name=book_data_raw.book_name,  # put non preprocessed name
-                                                 author=book_data_raw.book_author,
+                                                 authors=book_data_raw.book_authors,
                                                  publisher=book_data_raw.publisher,
                                                  date=book_data_raw.publication_date,
                                                  uri_constellation=book_data_preprocessed.uri)
@@ -43,8 +43,8 @@ for book in g.subjects(RDF.type, utils.schema.Book):
     # name_author_key = utils.create_key(book_data_preprocessed.book_name, book_data_preprocessed.book_author)
     isbn_key = book_data_preprocessed.isbn
     # name_author_publisher_key = utils.create_key(book_data_preprocessed.book_name, book_data_preprocessed.book_author, book_data_preprocessed.publisher)
-    # name_author_publisher_date_key = utils.create_key(book_data_preprocessed.book_name, book_data_preprocessed.book_author, book_data_preprocessed.publisher,
-    #                                                   book_data_preprocessed.publication_date)
+    name_author_publisher_date_key = utils.create_key(book_data_preprocessed.book_name, book_data_preprocessed.book_authors, book_data_preprocessed.publisher,
+                                                      book_data_preprocessed.publication_date)
     # name_author_date_key = utils.create_key(book_name=book_data_preprocessed.book_name,
     #                                         book_author=book_data_preprocessed.book_author,
     #                                         publication_date=book_data_preprocessed.publication_date)
@@ -53,9 +53,9 @@ for book in g.subjects(RDF.type, utils.schema.Book):
     stats_isbn.all_book_alignments[isbn_key] = copy.deepcopy(book_alignment_constellation)
     # stats_name_author_publisher.all_book_alignments[name_author_publisher_key] = \
     #     copy.deepcopy(book_alignment_constellation)
-    # stats_name_author_publisher_date.all_book_alignments[name_author_publisher_date_key] = \
-    #     copy.deepcopy(book_alignment_constellation)
-    # stats_name_author_date.all_book_alignments[name_author_date_key] = \
+    stats_name_author_publisher_date.all_book_alignments[name_author_publisher_date_key] = \
+        copy.deepcopy(book_alignment_constellation)
+    # stats_name_author_date.all_book_alignmens[name_author_date_key] = \
     #     copy.deepcopy(book_alignment_constellation)
 
     # stats_name_author.increment_constellation_book_number()
@@ -88,15 +88,15 @@ for book in g.subjects(RDF.type, utils.schema.Book):  # O(M)
                                        age_range_bnf=book_data_preprocessed.age_range_int,
                                        uri_bnf=book_data_preprocessed.uri,
                                        name=book_data_raw.book_name,  # non preprocessed name
-                                       author=book_data_raw.book_author,
+                                       authors=book_data_raw.book_authors,
                                        publisher=book_data_raw.publisher,
                                        date=book_data_raw.publication_date)
 
     # name_author_key = utils.create_key(book_data_preprocessed.book_name, book_data_preprocessed.book_author)
     isbn_key = book_data_preprocessed.isbn
     # name_author_publisher_key = utils.create_key(book_data_preprocessed.book_name, book_data_preprocessed.book_author, book_data_preprocessed.publisher)
-    # name_author_publisher_date_key = utils.create_key(book_data_preprocessed.book_name, book_data_preprocessed.book_author, book_data_preprocessed.publisher,
-    #                                                   book_data_preprocessed.publication_date)
+    name_author_publisher_date_key = utils.create_key(book_data_preprocessed.book_name, book_data_preprocessed.book_authors, book_data_preprocessed.publisher,
+                                                      book_data_preprocessed.publication_date)
     # name_author_date_key = utils.create_key(book_name=book_data_preprocessed.book_name,
     #                                         book_author=book_data_preprocessed.book_author,
     #                                         publication_date=book_data_preprocessed.publication_date)
@@ -105,19 +105,19 @@ for book in g.subjects(RDF.type, utils.schema.Book):  # O(M)
     # stats_isbn.align_by_key(copy.deepcopy(book_alignment_bnf), isbn_key)
     stats_isbn.align_by_ean_isbn(copy.deepcopy(book_alignment_bnf), isbn_key, book_data_raw.ean)
     # stats_name_author_publisher.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_key)
-    # stats_name_author_publisher_date.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
+    stats_name_author_publisher_date.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
     # stats_name_author_date.align_by_key(copy.deepcopy(book_alignment_bnf), name_author_date_key)
 
     # stats_name_author.increment_bnf_book_number()
     stats_isbn.increment_bnf_book_number()
     # stats_name_author_publisher.increment_bnf_book_number()
-    # stats_name_author_publisher_date.increment_bnf_book_number()
+    stats_name_author_publisher_date.increment_bnf_book_number()
     # stats_name_author_date.increment_bnf_book_number()
 
 stats_isbn.output_csv_constellation_bnf()
 # stats_name_author.output_csv()
 # stats_name_author_publisher.output_csv()
-# stats_name_author_publisher_date.output_csv()
+stats_name_author_publisher_date.output_csv_constellation_bnf()
 # stats_name_author_date.output_csv()
 
 # stats_name_author_publisher_date.output_rdf()
@@ -127,5 +127,5 @@ print("alignment done, computing stats ...")
 stats_isbn.print_stats()
 # stats_name_author.print_stats()
 # stats_name_author_publisher.print_stats()
-# stats_name_author_publisher_date.print_stats()
+stats_name_author_publisher_date.print_stats()
 # stats_name_author_date.print_stats()
