@@ -15,6 +15,35 @@ btlf_prop = rdflib.namespace.Namespace("http://www.btlf.com/prop/")
 xsd = rdflib.namespace.Namespace('http://www.w3.org/2001/XMLSchema#')
 
 
+def preprocess_publisher_name(raw_name):
+    preprocessed_name = raw_name
+    preprocessed_name = preprocessed_name.replace(" SARL", "")
+    preprocessed_name = preprocessed_name.replace(" SA", "")
+    preprocessed_name = preprocessed_name.lower()
+    # preprocessed_name = re.sub(r"^la ","", preprocessed_name)
+    preprocessed_name = preprocessed_name.replace("et cie", "")
+    preprocessed_name = preprocessed_name.replace("& cie", "")
+    preprocessed_name = strip_special_chars(preprocessed_name)
+    preprocessed_name = strip_accents(preprocessed_name)
+    preprocessed_name = preprocessed_name.replace("librairies", "")
+    preprocessed_name = preprocessed_name.replace("librairie", "")
+    preprocessed_name = preprocessed_name.replace("editeurs", "")
+    preprocessed_name = preprocessed_name.replace("editeur", "")
+    preprocessed_name = preprocessed_name.replace("les editions", "")
+    preprocessed_name = preprocessed_name.replace("editions", "")
+    preprocessed_name = preprocessed_name.replace("edition", "")
+    preprocessed_name = preprocessed_name.replace(" ", "")
+    preprocessed_name = preprocessed_name.replace("groupe", "")
+    preprocessed_name = preprocessed_name.strip()
+    return preprocessed_name
+
+class Publisher:
+    def __init__(self, source, uri, raw_name, preprocessed_name):
+        self.source = source
+        self.uri = uri  
+        self.raw_name = raw_name  
+        self.preprocessed_name = preprocessed_name  
+
 def create_key(book_name, book_author:list=[], publisher="", publication_date=""):
     authors_string = ""
     for a in book_author:
