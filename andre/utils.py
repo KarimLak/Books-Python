@@ -11,7 +11,6 @@ pbs = rdflib.namespace.Namespace("http://www.example.org/pbs#")
 schema = rdflib.namespace.Namespace("http://schema.org/")
 btlf_classe = rdflib.namespace.Namespace("http://www.btlf.com/classe/")
 btlf_livre = rdflib.namespace.Namespace("http://www.btlf.com/livre/")
-btlf_prop = rdflib.namespace.Namespace("http://www.btlf.com/prop/")
 xsd = rdflib.namespace.Namespace('http://www.w3.org/2001/XMLSchema#')
 
 
@@ -20,7 +19,6 @@ def preprocess_publisher_name(raw_name):
     preprocessed_name = preprocessed_name.replace(" SARL", "")
     preprocessed_name = preprocessed_name.replace(" SA", "")
     preprocessed_name = preprocessed_name.lower()
-    # preprocessed_name = re.sub(r"^la ","", preprocessed_name)
     preprocessed_name = preprocessed_name.replace("et cie", "")
     preprocessed_name = preprocessed_name.replace("& cie", "")
     preprocessed_name = strip_special_chars(preprocessed_name)

@@ -14,11 +14,9 @@ ns1:1_2_3_Soleil a ns1:Publisher ;
 ns1:2024 a ns1:Publisher ;
     ns1:name "2024"^^xsd:string .
 
-ns1:205_Corp a ns1:Publisher ;
-    ns1:name "205 Corp"^^xsd:string .
-
 ns1:205fr a ns1:Publisher ;
-    ns1:name "205.fr"^^xsd:string .
+    ns1:name "205 Corp"^^xsd:string,
+        "205.fr"^^xsd:string .
 
 ns1:21g a ns1:Publisher ;
     ns1:name "21g"^^xsd:string .
@@ -34,9 +32,6 @@ ns1:404comics a ns1:Publisher ;
 
 ns1:4picesd a ns1:Publisher ;
     ns1:name "4 épices éd."^^xsd:string .
-
-ns1:6_pieds_sous_terre_éditions a ns1:Publisher ;
-    ns1:name "6 pieds sous terre éditions"^^xsd:string .
 
 ns1:A2mimo a ns1:Publisher ;
     ns1:name "A2mimo"^^xsd:string .
@@ -120,7 +115,8 @@ ns1:Actusf a ns1:Publisher ;
     ns1:name "Actusf"^^xsd:string .
 
 ns1:AdA a ns1:Publisher ;
-    ns1:name "AdA"^^xsd:string .
+    ns1:name "AdA"^^xsd:string,
+        "Éditions ADA inc."^^xsd:string .
 
 ns1:AdalEduc a ns1:Publisher ;
     ns1:name "Adal-Educ"^^xsd:string .
@@ -326,11 +322,9 @@ ns1:Andrews_McMeel_Publishing a ns1:Publisher ;
 ns1:Anik_Lafrenière a ns1:Publisher ;
     ns1:name "Anik Lafrenière"^^xsd:string .
 
-ns1:Aniss_éditions a ns1:Publisher ;
-    ns1:name "Aniss éditions"^^xsd:string .
-
 ns1:Anissd a ns1:Publisher ;
-    ns1:name "Aniss éd."^^xsd:string .
+    ns1:name "Aniss éd."^^xsd:string,
+        "Aniss éditions"^^xsd:string .
 
 ns1:Ankama a ns1:Publisher ;
     ns1:name "Ankama"^^xsd:string .
@@ -427,9 +421,6 @@ ns1:Art_Lys a ns1:Publisher ;
 
 ns1:Art_global a ns1:Publisher ;
     ns1:name "Art global"^^xsd:string .
-
-ns1:Art_à_la_page a ns1:Publisher ;
-    ns1:name "Art à la page"^^xsd:string .
 
 ns1:Arte a ns1:Publisher ;
     ns1:name "Arte"^^xsd:string .
@@ -606,7 +597,8 @@ ns1:Autochenille_Production a ns1:Publisher ;
     ns1:name "Autochenille Production"^^xsd:string .
 
 ns1:AuzasditeursImago a ns1:Publisher ;
-    ns1:name "Auzas éditeurs-Imago"^^xsd:string .
+    ns1:name "Auzas éditeurs-Imago"^^xsd:string,
+        "Editions Imago"^^xsd:string .
 
 ns1:Auzou a ns1:Publisher ;
     ns1:name "Auzou"^^xsd:string .
@@ -947,9 +939,6 @@ ns1:CBonneton a ns1:Publisher ;
 ns1:CEDA a ns1:Publisher ;
     ns1:name "CEDA"^^xsd:string .
 
-ns1:CERCIL a ns1:Publisher ;
-    ns1:name "CERCIL"^^xsd:string .
-
 ns1:CFCditions a ns1:Publisher ;
     ns1:name "CFC éditions"^^xsd:string .
 
@@ -1029,7 +1018,8 @@ ns1:Canicola a ns1:Publisher ;
     ns1:name "Canicola"^^xsd:string .
 
 ns1:Canopditions a ns1:Publisher ;
-    ns1:name "Canopé éditions"^^xsd:string .
+    ns1:name "Canopé éditions"^^xsd:string,
+        "Réseau Canopé"^^xsd:string .
 
 ns1:Cap_Aux_Diamants a ns1:Publisher ;
     ns1:name "Cap Aux Diamants"^^xsd:string .
@@ -1110,7 +1100,8 @@ ns1:CentreGeorgesPompidou a ns1:Publisher ;
     ns1:name "Centre Georges Pompidou"^^xsd:string .
 
 ns1:CentrePompidou a ns1:Publisher ;
-    ns1:name "Centre Pompidou"^^xsd:string .
+    ns1:name "Centre Pompidou"^^xsd:string,
+        "Editions du Centre Pompidou"^^xsd:string .
 
 ns1:Centre_De_Créations_De_Tinqueux a ns1:Publisher ;
     ns1:name "Centre De Créations De Tinqueux"^^xsd:string .
@@ -1174,9 +1165,6 @@ ns1:Chenelière_éducation a ns1:Publisher ;
 
 ns1:Cheyne a ns1:Publisher ;
     ns1:name "Cheyne"^^xsd:string .
-
-ns1:Cheyne_éditeur a ns1:Publisher ;
-    ns1:name "Cheyne éditeur"^^xsd:string .
 
 ns1:Childs_Play a ns1:Publisher ;
     ns1:name "Child's Play"^^xsd:string .
@@ -1329,7 +1317,8 @@ ns1:Corps_Puce a ns1:Publisher ;
     ns1:name "Corps Puce"^^xsd:string .
 
 ns1:Corraini a ns1:Publisher ;
-    ns1:name "Corraini"^^xsd:string .
+    ns1:name "Corraini"^^xsd:string,
+        "Edizioni Corraini"^^xsd:string .
 
 ns1:Corti a ns1:Publisher ;
     ns1:name "Corti"^^xsd:string .
@@ -1368,10 +1357,8 @@ ns1:Critic a ns1:Publisher ;
     ns1:name "Critic"^^xsd:string .
 
 ns1:Critresd a ns1:Publisher ;
-    ns1:name "Critères éd."^^xsd:string .
-
-ns1:Critères a ns1:Publisher ;
-    ns1:name "Critères"^^xsd:string .
+    ns1:name "Critères"^^xsd:string,
+        "Critères éd."^^xsd:string .
 
 ns1:CroixRougedeBelgique a ns1:Publisher ;
     ns1:name "Croix-Rouge de Belgique"^^xsd:string .
@@ -1420,7 +1407,8 @@ ns1:DC_Comics a ns1:Publisher ;
     ns1:name "DC Comics"^^xsd:string .
 
 ns1:DCarpentier a ns1:Publisher ;
-    ns1:name "D. Carpentier"^^xsd:string .
+    ns1:name "D. Carpentier"^^xsd:string,
+        "Les éditions Carpentier"^^xsd:string .
 
 ns1:DEux a ns1:Publisher ;
     ns1:name "D'Eux"^^xsd:string .
@@ -1441,7 +1429,8 @@ ns1:Dada a ns1:Publisher ;
     ns1:name "Dada"^^xsd:string .
 
 ns1:Dadoclemd a ns1:Publisher ;
-    ns1:name "Dadoclem éd."^^xsd:string .
+    ns1:name "Dadoclem éd."^^xsd:string,
+        "Editions Dadoclem"^^xsd:string .
 
 ns1:Dagan a ns1:Publisher ;
     ns1:name "Dagan"^^xsd:string .
@@ -1852,9 +1841,6 @@ ns1:Dundurn a ns1:Publisher ;
 ns1:Dunod a ns1:Publisher ;
     ns1:name "Dunod"^^xsd:string .
 
-ns1:Dunod_Editeur a ns1:Publisher ;
-    ns1:name "Dunod Editeur"^^xsd:string .
-
 ns1:Dupuis a ns1:Publisher ;
     ns1:name "Dupuis"^^xsd:string .
 
@@ -1883,7 +1869,8 @@ ns1:Eblad a ns1:Publisher ;
     ns1:name "Ebla éd."^^xsd:string .
 
 ns1:Ecole_Active a ns1:Publisher ;
-    ns1:name "L'École active"^^xsd:string .
+    ns1:name "Editions Ecole active"^^xsd:string,
+        "L'École active"^^xsd:string .
 
 ns1:Ecw_Press a ns1:Publisher ;
     ns1:name "Ecw Press"^^xsd:string .
@@ -1906,18 +1893,6 @@ ns1:Edis a ns1:Publisher ;
 ns1:Editha a ns1:Publisher ;
     ns1:name "Editha"^^xsd:string .
 
-ns1:Editions-Diffusion_Karthala a ns1:Publisher ;
-    ns1:name "Editions-Diffusion Karthala"^^xsd:string .
-
-ns1:Editions_Dadoclem a ns1:Publisher ;
-    ns1:name "Editions Dadoclem"^^xsd:string .
-
-ns1:Editions_Dupuis_SA a ns1:Publisher ;
-    ns1:name "Editions Dupuis SA"^^xsd:string .
-
-ns1:Editions_Ecole_active a ns1:Publisher ;
-    ns1:name "Editions Ecole active"^^xsd:string .
-
 ns1:Editions_Ensemble a ns1:Publisher ;
     ns1:name "Editions Ensemble"^^xsd:string .
 
@@ -1927,17 +1902,8 @@ ns1:Editions_Fabert a ns1:Publisher ;
 ns1:Editions_Geste a ns1:Publisher ;
     ns1:name "Editions Geste"^^xsd:string .
 
-ns1:Editions_Glénat_SA a ns1:Publisher ;
-    ns1:name "Editions Glénat SA"^^xsd:string .
-
 ns1:Editions_Hemma a ns1:Publisher ;
     ns1:name "Editions Hemma"^^xsd:string .
-
-ns1:Editions_Imago a ns1:Publisher ;
-    ns1:name "Editions Imago"^^xsd:string .
-
-ns1:Editions_Jean-Paul_Gisserot a ns1:Publisher ;
-    ns1:name "Editions Jean-Paul Gisserot"^^xsd:string .
 
 ns1:Editions_Klincksieck a ns1:Publisher ;
     ns1:name "Editions Klincksieck"^^xsd:string .
@@ -1951,41 +1917,14 @@ ns1:Editions_Lec a ns1:Publisher ;
 ns1:Editions_Livre_Sud a ns1:Publisher ;
     ns1:name "Editions Livre Sud"^^xsd:string .
 
-ns1:Editions_Maelström a ns1:Publisher ;
-    ns1:name "Editions Maelström"^^xsd:string .
-
 ns1:Editions_Musée_Rodin a ns1:Publisher ;
     ns1:name "Editions Musée Rodin"^^xsd:string .
 
 ns1:Editions_Médiaspaul_France a ns1:Publisher ;
     ns1:name "Editions Médiaspaul France"^^xsd:string .
 
-ns1:Editions_Ouest-France-Edilarge a ns1:Publisher ;
-    ns1:name "Editions Ouest-France-Edilarge"^^xsd:string .
-
 ns1:Editions_Paulsen a ns1:Publisher ;
     ns1:name "Editions Paulsen"^^xsd:string .
-
-ns1:Editions_Picquier_\(Philippe\) a ns1:Publisher ;
-    ns1:name "Editions Picquier (Philippe)"^^xsd:string .
-
-ns1:Editions_Privat_SAS a ns1:Publisher ;
-    ns1:name "Editions Privat SAS"^^xsd:string .
-
-<http://schema.org/Editions_[MiC_MaC]> a ns1:Publisher ;
-    ns1:name "Editions [MiC_MaC]"^^xsd:string .
-
-ns1:Editions_de_Fallois a ns1:Publisher ;
-    ns1:name "Editions de Fallois"^^xsd:string .
-
-ns1:Editions_de_LArchipel a ns1:Publisher ;
-    ns1:name "Editions de L'Archipel"^^xsd:string .
-
-ns1:Editions_de_La_Différence a ns1:Publisher ;
-    ns1:name "Editions de La Différence"^^xsd:string .
-
-ns1:Editions_de_La_Salamandre a ns1:Publisher ;
-    ns1:name "Editions de La Salamandre"^^xsd:string .
 
 ns1:Editions_de_lOgre_ a ns1:Publisher ;
     ns1:name "Editions de l'Ogre "^^xsd:string .
@@ -1993,32 +1932,11 @@ ns1:Editions_de_lOgre_ a ns1:Publisher ;
 ns1:Editions_de_la_Cerise a ns1:Publisher ;
     ns1:name "Editions de la Cerise"^^xsd:string .
 
-ns1:Editions_de_la_Coopérative a ns1:Publisher ;
-    ns1:name "Editions de la Coopérative"^^xsd:string .
-
-ns1:Editions_de_la_Renarde_rouge a ns1:Publisher ;
-    ns1:name "Editions de la Renarde rouge"^^xsd:string .
-
-ns1:Editions_des_Arènes a ns1:Publisher ;
-    ns1:name "Editions des Arènes"^^xsd:string .
-
-ns1:Editions_des_Grandes_personnes a ns1:Publisher ;
-    ns1:name "Editions des Grandes personnes"^^xsd:string .
-
-ns1:Editions_des_Mille_saisons a ns1:Publisher ;
-    ns1:name "Editions des Mille saisons"^^xsd:string .
-
 ns1:Editions_du_31_Décembre a ns1:Publisher ;
     ns1:name "Editions du 31 Décembre"^^xsd:string .
 
 ns1:Editions_du_Centenaire a ns1:Publisher ;
     ns1:name "Editions du Centenaire"^^xsd:string .
-
-ns1:Editions_du_Centre_Pompidou a ns1:Publisher ;
-    ns1:name "Editions du Centre Pompidou"^^xsd:string .
-
-ns1:Editions_du_Rouergue a ns1:Publisher ;
-    ns1:name "Editions du Rouergue"^^xsd:string .
 
 ns1:Editions_du_Temps a ns1:Publisher ;
     ns1:name "Editions du Temps"^^xsd:string .
@@ -2026,17 +1944,11 @@ ns1:Editions_du_Temps a ns1:Publisher ;
 ns1:Editions_du_Toucan a ns1:Publisher ;
     ns1:name "Editions du Toucan"^^xsd:string .
 
-ns1:Editions_du_Triomphe a ns1:Publisher ;
-    ns1:name "Editions du Triomphe"^^xsd:string .
-
 ns1:Editions_en_apnée a ns1:Publisher ;
     ns1:name "Editions en apnée"^^xsd:string .
 
 ns1:Editis a ns1:Publisher ;
     ns1:name "Editis"^^xsd:string .
-
-ns1:Edizioni_Corraini a ns1:Publisher ;
-    ns1:name "Edizioni Corraini"^^xsd:string .
 
 ns1:Eerdmans a ns1:Publisher ;
     ns1:name "Eerdmans"^^xsd:string .
@@ -2173,11 +2085,9 @@ ns1:Etre a ns1:Publisher ;
 ns1:Euphor a ns1:Publisher ;
     ns1:name "Euphor"^^xsd:string .
 
-ns1:Eveil_et_découvertes a ns1:Publisher ;
-    ns1:name "Eveil et découvertes"^^xsd:string .
-
 ns1:Eveiletdcouverte a ns1:Publisher ;
-    ns1:name "Eveil et découverte"^^xsd:string .
+    ns1:name "Eveil et découverte"^^xsd:string,
+        "Eveil et découvertes"^^xsd:string .
 
 ns1:Evergreen a ns1:Publisher ;
     ns1:name "Evergreen"^^xsd:string .
@@ -2216,7 +2126,8 @@ ns1:FaliaEditionsEnfance a ns1:Publisher ;
     ns1:name "Falia Editions Enfance"^^xsd:string .
 
 ns1:Fallois a ns1:Publisher ;
-    ns1:name "Fallois"^^xsd:string .
+    ns1:name "Editions de Fallois"^^xsd:string,
+        "Fallois"^^xsd:string .
 
 ns1:Familius a ns1:Publisher ;
     ns1:name "Familius"^^xsd:string .
@@ -2304,9 +2215,6 @@ ns1:Fleuve_Noir a ns1:Publisher ;
 
 ns1:FliesFrance a ns1:Publisher ;
     ns1:name "Flies France"^^xsd:string .
-
-ns1:Flies_France_SARL a ns1:Publisher ;
-    ns1:name "Flies France SARL"^^xsd:string .
 
 ns1:Floris_Books a ns1:Publisher ;
     ns1:name "Floris Books"^^xsd:string .
@@ -2569,9 +2477,6 @@ ns1:Grenouilleditions a ns1:Publisher ;
 ns1:Greystone_Kids a ns1:Publisher ;
     ns1:name "Greystone Kids"^^xsd:string .
 
-ns1:Griffon_bleu a ns1:Publisher ;
-    ns1:name "Griffon bleu"^^xsd:string .
-
 ns1:Groovie_éditions a ns1:Publisher ;
     ns1:name "Groovie éditions"^^xsd:string .
 
@@ -2587,12 +2492,6 @@ ns1:GroupeDelcourt a ns1:Publisher ;
 ns1:Groupe_Elidia a ns1:Publisher ;
     ns1:name "Groupe Elidia"^^xsd:string .
 
-ns1:Groupe_Fides a ns1:Publisher ;
-    ns1:name "Groupe Fides"^^xsd:string .
-
-ns1:Groupe_HMH a ns1:Publisher ;
-    ns1:name "Groupe HMH"^^xsd:string .
-
 ns1:Groupe_Homme a ns1:Publisher ;
     ns1:name "Groupe Homme"^^xsd:string .
 
@@ -2601,12 +2500,6 @@ ns1:Groupe_Librex a ns1:Publisher ;
 
 ns1:Groupe_Modus a ns1:Publisher ;
     ns1:name "Groupe Modus"^^xsd:string .
-
-ns1:Groupe_Nota_bene a ns1:Publisher ;
-    ns1:name "Groupe Nota bene"^^xsd:string .
-
-ns1:Groupe_Paquet a ns1:Publisher ;
-    ns1:name "Groupe Paquet"^^xsd:string .
 
 ns1:Groupe_Ville-Marie a ns1:Publisher ;
     ns1:name "Groupe Ville-Marie"^^xsd:string .
@@ -2773,9 +2666,6 @@ ns1:Holiday_House_Publishing a ns1:Publisher ;
 
 ns1:Holtzbrink a ns1:Publisher ;
     ns1:name "Holtzbrink"^^xsd:string .
-
-ns1:Homme_sans_nom_\(Editions_de_l\) a ns1:Publisher ;
-    ns1:name "Homme sans nom (Editions de l')"^^xsd:string .
 
 ns1:Horizonoriental a ns1:Publisher ;
     ns1:name "Horizon oriental"^^xsd:string .
@@ -2994,7 +2884,8 @@ ns1:JBzCie a ns1:Publisher ;
     ns1:name "JBz & Cie"^^xsd:string .
 
 ns1:JCGawsewitch a ns1:Publisher ;
-    ns1:name "J.-C. Gawsewitch"^^xsd:string .
+    ns1:name "J.-C. Gawsewitch"^^xsd:string,
+        "Jean-Claude Gawsewitch éditeur"^^xsd:string .
 
 ns1:JC_Lattès a ns1:Publisher ;
     ns1:name "JC Lattès"^^xsd:string .
@@ -3012,7 +2903,8 @@ ns1:JM_Dent_Sons a ns1:Publisher ;
     ns1:name "J.M. Dent & Sons"^^xsd:string .
 
 ns1:JPGisserot a ns1:Publisher ;
-    ns1:name "J.-P. Gisserot"^^xsd:string .
+    ns1:name "Editions Jean-Paul Gisserot"^^xsd:string,
+        "J.-P. Gisserot"^^xsd:string .
 
 ns1:JVSnac a ns1:Publisher ;
     ns1:name "J.-V. Sénac"^^xsd:string .
@@ -3040,9 +2932,6 @@ ns1:Jasor a ns1:Publisher ;
 
 ns1:Jasorjeunesse a ns1:Publisher ;
     ns1:name "Jasor jeunesse"^^xsd:string .
-
-ns1:Jean-Claude_Gawsewitch_éditeur a ns1:Publisher ;
-    ns1:name "Jean-Claude Gawsewitch éditeur"^^xsd:string .
 
 ns1:Jerboabooks a ns1:Publisher ;
     ns1:name "Jerboa books"^^xsd:string .
@@ -3135,7 +3024,8 @@ ns1:Karibencyla a ns1:Publisher ;
     ns1:name "Karibencyla"^^xsd:string .
 
 ns1:Karthala a ns1:Publisher ;
-    ns1:name "Karthala"^^xsd:string .
+    ns1:name "Editions-Diffusion Karthala"^^xsd:string,
+        "Karthala"^^xsd:string .
 
 ns1:Kata a ns1:Publisher ;
     ns1:name "Kata"^^xsd:string .
@@ -3168,7 +3058,8 @@ ns1:Kids_Can_Press a ns1:Publisher ;
     ns1:name "Kids Can Press"^^xsd:string .
 
 ns1:Kilowatt a ns1:Publisher ;
-    ns1:name "Kilowatt"^^xsd:string .
+    ns1:name "Kilowatt"^^xsd:string,
+        "Les éditions du Kilowatt"^^xsd:string .
 
 ns1:Kimane a ns1:Publisher ;
     ns1:name "Kimane"^^xsd:string .
@@ -3252,9 +3143,6 @@ ns1:LAHAditions a ns1:Publisher ;
 ns1:LAgapante a ns1:Publisher ;
     ns1:name "L'Agapante"^^xsd:string .
 
-ns1:LAgapante_et_cie a ns1:Publisher ;
-    ns1:name "L'Agapante et cie"^^xsd:string .
-
 ns1:LAgrume a ns1:Publisher ;
     ns1:name "L'Agrume"^^xsd:string .
 
@@ -3268,7 +3156,8 @@ ns1:LArcheEditeur a ns1:Publisher ;
     ns1:name "L'Arche Editeur"^^xsd:string .
 
 ns1:LArchipel a ns1:Publisher ;
-    ns1:name "L'Archipel"^^xsd:string .
+    ns1:name "Editions de L'Archipel"^^xsd:string,
+        "L'Archipel"^^xsd:string .
 
 ns1:LAsiathèque_Maison_des_langues_du_monde a ns1:Publisher ;
     ns1:name "L'Asiathèque. Maison des langues du monde"^^xsd:string .
@@ -3313,7 +3202,8 @@ ns1:LHexagone a ns1:Publisher ;
     ns1:name "L'Hexagone"^^xsd:string .
 
 ns1:LHomme_Sans_Nom a ns1:Publisher ;
-    ns1:name "L'Homme Sans Nom"^^xsd:string .
+    ns1:name "Homme sans nom (Editions de l')"^^xsd:string,
+        "L'Homme Sans Nom"^^xsd:string .
 
 ns1:LInterligne a ns1:Publisher ;
     ns1:name "L'Interligne"^^xsd:string .
@@ -3367,7 +3257,8 @@ ns1:La_Courte_Échelle a ns1:Publisher ;
     ns1:name "La Courte Échelle"^^xsd:string .
 
 ns1:La_Différence a ns1:Publisher ;
-    ns1:name "La Différence"^^xsd:string .
+    ns1:name "Editions de La Différence"^^xsd:string,
+        "La Différence"^^xsd:string .
 
 ns1:La_Dérivée_Le_Seuil a ns1:Publisher ;
     ns1:name "La Dérivée/Le Seuil"^^xsd:string .
@@ -3385,7 +3276,8 @@ ns1:La_Gouttière a ns1:Publisher ;
     ns1:name "La Gouttière"^^xsd:string .
 
 ns1:La_Grande_Ourse a ns1:Publisher ;
-    ns1:name "La Grande Ourse"^^xsd:string .
+    ns1:name "La Grande Ourse"^^xsd:string,
+        "Les Editions de la Grande ourse"^^xsd:string .
 
 ns1:La_Grenouillère a ns1:Publisher ;
     ns1:name "La Grenouillère"^^xsd:string .
@@ -3442,7 +3334,8 @@ ns1:La_Ptite_scène_qui_bouge a ns1:Publisher ;
     ns1:name "La P'tite scène qui bouge"^^xsd:string .
 
 ns1:La_Renarde_Rouge a ns1:Publisher ;
-    ns1:name "La Renarde Rouge"^^xsd:string .
+    ns1:name "Editions de la Renarde rouge"^^xsd:string,
+        "La Renarde Rouge"^^xsd:string .
 
 ns1:La_Ville_Brûle a ns1:Publisher ;
     ns1:name "La Ville Brûle"^^xsd:string .
@@ -3492,11 +3385,9 @@ ns1:Lamaisondesmcnes a ns1:Publisher ;
 ns1:Lancelot_Press a ns1:Publisher ;
     ns1:name "Lancelot Press"^^xsd:string .
 
-ns1:Lancosme_multimédia a ns1:Publisher ;
-    ns1:name "Lancosme multimédia"^^xsd:string .
-
 ns1:Lancosmed a ns1:Publisher ;
-    ns1:name "Lancosme éd."^^xsd:string .
+    ns1:name "Lancosme multimédia"^^xsd:string,
+        "Lancosme éd."^^xsd:string .
 
 ns1:Lanctot a ns1:Publisher ;
     ns1:name "Lanctôt éditeur"^^xsd:string .
@@ -3573,12 +3464,6 @@ ns1:Le_Cherche_Midi a ns1:Publisher ;
 ns1:Le_Cheval_Daoût a ns1:Publisher ;
     ns1:name "Le Cheval D'août"^^xsd:string .
 
-ns1:Le_Cheval_daoût_éditeur a ns1:Publisher ;
-    ns1:name "Le Cheval d'août éditeur"^^xsd:string .
-
-ns1:Le_Dilettante a ns1:Publisher ;
-    ns1:name "Le Dilettante"^^xsd:string .
-
 ns1:Le_Genévrier a ns1:Publisher ;
     ns1:name "Le Genévrier"^^xsd:string .
 
@@ -3607,7 +3492,8 @@ ns1:Le_Navire_En_Pleine_Ville a ns1:Publisher ;
     ns1:name "Le Navire En Pleine Ville"^^xsd:string .
 
 ns1:Le_Noroît a ns1:Publisher ;
-    ns1:name "Le Noroît"^^xsd:string .
+    ns1:name "Le Noroît"^^xsd:string,
+        "Éditions du Noroit"^^xsd:string .
 
 ns1:Le_Petit_lézard a ns1:Publisher ;
     ns1:name "Le Petit lézard"^^xsd:string .
@@ -3636,11 +3522,9 @@ ns1:Le_Sablier a ns1:Publisher ;
 ns1:Le_Sorbier a ns1:Publisher ;
     ns1:name "Le Sorbier"^^xsd:string .
 
-ns1:Le_Square_éditeur a ns1:Publisher ;
-    ns1:name "Le Square éditeur"^^xsd:string .
-
 ns1:Le_Vengeur_Masqué a ns1:Publisher ;
-    ns1:name "Le Vengeur Masqué"^^xsd:string .
+    ns1:name "Le Vengeur Masqué"^^xsd:string,
+        "Vengeur masqué"^^xsd:string .
 
 ns1:Le_baron_perché a ns1:Publisher ;
     ns1:name "Le baron perché"^^xsd:string .
@@ -3649,10 +3533,12 @@ ns1:Le_buveur_dencre a ns1:Publisher ;
     ns1:name "Le buveur d'encre"^^xsd:string .
 
 ns1:Le_dernier_havre a ns1:Publisher ;
-    ns1:name "Le dernier havre"^^xsd:string .
+    ns1:name "Le dernier havre"^^xsd:string,
+        "Les éditions du dernier havre"^^xsd:string .
 
 ns1:Le_dilletante a ns1:Publisher ;
-    ns1:name "Le dilletante"^^xsd:string .
+    ns1:name "Le Dilettante"^^xsd:string,
+        "Le dilletante"^^xsd:string .
 
 ns1:Le_lièvre_de_Mars a ns1:Publisher ;
     ns1:name "Le lièvre de Mars"^^xsd:string .
@@ -3674,9 +3560,6 @@ ns1:Lemniscaat a ns1:Publisher ;
 
 ns1:Leméac a ns1:Publisher ;
     ns1:name "Leméac"^^xsd:string .
-
-ns1:Leméac_éditeur a ns1:Publisher ;
-    ns1:name "Leméac éditeur"^^xsd:string .
 
 ns1:Leo_Cooper a ns1:Publisher ;
     ns1:name "Leo Cooper"^^xsd:string .
@@ -3715,7 +3598,8 @@ ns1:Les_Apprimeurs a ns1:Publisher ;
     ns1:name "Les Apprimeurs"^^xsd:string .
 
 ns1:Les_Arènes a ns1:Publisher ;
-    ns1:name "Les Arènes"^^xsd:string .
+    ns1:name "Editions des Arènes"^^xsd:string,
+        "Les Arènes"^^xsd:string .
 
 ns1:Les_Bruits_De_LEncre a ns1:Publisher ;
     ns1:name "Les Bruits De L'Encre"^^xsd:string .
@@ -3729,41 +3613,15 @@ ns1:Les_Deux_Mondes a ns1:Publisher ;
 ns1:Les_Débrouillards a ns1:Publisher ;
     ns1:name "Les Débrouillards"^^xsd:string .
 
-ns1:Les_Editions_Fei a ns1:Publisher ;
-    ns1:name "Les Editions Fei"^^xsd:string .
-
-ns1:Les_Editions_Hatier a ns1:Publisher ;
-    ns1:name "Les Editions Hatier"^^xsd:string .
-
-ns1:Les_Editions_Sandawe a ns1:Publisher ;
-    ns1:name "Les Editions Sandawe"^^xsd:string .
-
-ns1:Les_Editions_de_Minuit a ns1:Publisher ;
-    ns1:name "Les Editions de Minuit"^^xsd:string .
-
-ns1:Les_Editions_de_Saxe a ns1:Publisher ;
-    ns1:name "Les Editions de Saxe"^^xsd:string .
-
-ns1:Les_Editions_de_la_Grande_ourse a ns1:Publisher ;
-    ns1:name "Les Editions de la Grande ourse"^^xsd:string .
-
-ns1:Les_Editions_des_éléphants a ns1:Publisher ;
-    ns1:name "Les Editions des éléphants"^^xsd:string .
-
 ns1:Les_Editions_du_Quotidien a ns1:Publisher ;
     ns1:name "Les Editions du Quotidien"^^xsd:string .
-
-ns1:Les_Editions_du_Ricochet a ns1:Publisher ;
-    ns1:name "Les Editions du Ricochet"^^xsd:string .
-
-ns1:Les_Editions_du_Sucrier a ns1:Publisher ;
-    ns1:name "Les Editions du Sucrier"^^xsd:string .
 
 ns1:Les_Fourmis_Rouges a ns1:Publisher ;
     ns1:name "Les Fourmis Rouges"^^xsd:string .
 
 ns1:Les_Grandes_Personnes a ns1:Publisher ;
-    ns1:name "Les Grandes Personnes"^^xsd:string .
+    ns1:name "Editions des Grandes personnes"^^xsd:string,
+        "Les Grandes Personnes"^^xsd:string .
 
 ns1:Les_Herbes_Rouges a ns1:Publisher ;
     ns1:name "Les Herbes Rouges"^^xsd:string .
@@ -3793,10 +3651,8 @@ ns1:Les_Nuages_En_Pantalon a ns1:Publisher ;
     ns1:name "Les Nuages En Pantalon"^^xsd:string .
 
 ns1:Les_Presses_De_Luniversité_De_Montréal a ns1:Publisher ;
-    ns1:name "Les Presses De L’université De Montréal"^^xsd:string .
-
-ns1:Les_Productions_Somme_toute a ns1:Publisher ;
-    ns1:name "Les Productions Somme toute"^^xsd:string .
+    ns1:name "Les Presses De L’université De Montréal"^^xsd:string,
+        "Presses de l'Université de Montréal"^^xsd:string .
 
 ns1:Les_Publications_Graficor a ns1:Publisher ;
     ns1:name "Les Publications Graficor"^^xsd:string .
@@ -3811,19 +3667,11 @@ ns1:Les_Écrits_Des_Forges a ns1:Publisher ;
     ns1:name "Les Écrits Des Forges"^^xsd:string .
 
 ns1:Les_Éditeurs_Réunis a ns1:Publisher ;
-    ns1:name "Les Éditeurs Réunis"^^xsd:string .
+    ns1:name "Les Éditeurs Réunis"^^xsd:string,
+        "LéR - Les éditeurs réunis"^^xsd:string .
 
 ns1:Les_éditions_A_propos a ns1:Publisher ;
     ns1:name "Les éditions A propos"^^xsd:string .
-
-ns1:Les_éditions_Carpentier a ns1:Publisher ;
-    ns1:name "Les éditions Carpentier"^^xsd:string .
-
-ns1:Les_éditions_Graines_de_pensées a ns1:Publisher ;
-    ns1:name "Les éditions Graines de pensées"^^xsd:string .
-
-ns1:Les_éditions_Héritage a ns1:Publisher ;
-    ns1:name "Les éditions Héritage"^^xsd:string .
 
 ns1:Les_éditions_La_Presse a ns1:Publisher ;
     ns1:name "Les éditions La Presse"^^xsd:string .
@@ -3836,24 +3684,6 @@ ns1:Les_éditions_de_La_Presse a ns1:Publisher ;
 
 ns1:Les_éditions_de_la_Salamandre_ a ns1:Publisher ;
     ns1:name "Les éditions de la Salamandre "^^xsd:string .
-
-ns1:Les_éditions_du_Bonhomme_vert a ns1:Publisher ;
-    ns1:name "Les éditions du Bonhomme vert"^^xsd:string .
-
-ns1:Les_éditions_du_Jardin_des_mots a ns1:Publisher ;
-    ns1:name "Les éditions du Jardin des mots"^^xsd:string .
-
-ns1:Les_éditions_du_Kilowatt a ns1:Publisher ;
-    ns1:name "Les éditions du Kilowatt"^^xsd:string .
-
-ns1:Les_éditions_du_dernier_havre a ns1:Publisher ;
-    ns1:name "Les éditions du dernier havre"^^xsd:string .
-
-ns1:Les_éditions_du_soleil_de_minuit a ns1:Publisher ;
-    ns1:name "Les éditions du soleil de minuit"^^xsd:string .
-
-ns1:Les_éditions_les_Allusifs a ns1:Publisher ;
-    ns1:name "Les éditions les Allusifs"^^xsd:string .
 
 ns1:Lester a ns1:Publisher ;
     ns1:name "Lester"^^xsd:string .
@@ -3902,12 +3732,6 @@ ns1:Librairie_Déom a ns1:Publisher ;
 
 ns1:Librairie_Générale_Française a ns1:Publisher ;
     ns1:name "Librairie Générale Française"^^xsd:string .
-
-ns1:Librairie_LAtalante a ns1:Publisher ;
-    ns1:name "Librairie L'Atalante"^^xsd:string .
-
-ns1:Librairie_Téqui_\(Pierre\) a ns1:Publisher ;
-    ns1:name "Librairie Téqui (Pierre)"^^xsd:string .
 
 ns1:LibrairieduGlobe a ns1:Publisher ;
     ns1:name "Librairie du Globe"^^xsd:string .
@@ -4056,9 +3880,6 @@ ns1:Longmans a ns1:Publisher ;
 <http://schema.org/Longue_distance_éditions?> a ns1:Publisher ;
     ns1:name "Longue distance éditions?"^^xsd:string .
 
-ns1:Losange a ns1:Publisher ;
-    ns1:name "Losange"^^xsd:string .
-
 ns1:Loubatières a ns1:Publisher ;
     ns1:name "Loubatières"^^xsd:string .
 
@@ -4092,9 +3913,6 @@ ns1:Lurelu a ns1:Publisher ;
 ns1:Lux a ns1:Publisher ;
     ns1:name "Lux"^^xsd:string .
 
-ns1:Lux_éditeur a ns1:Publisher ;
-    ns1:name "Lux éditeur"^^xsd:string .
-
 ns1:LÉcole_Des_Loisirs a ns1:Publisher ;
     ns1:name "L'École Des Loisirs"^^xsd:string .
 
@@ -4103,9 +3921,6 @@ ns1:LÉlan_Vert a ns1:Publisher ;
 
 ns1:LÉtagère_Du_Bas a ns1:Publisher ;
     ns1:name "L'Étagère Du Bas"^^xsd:string .
-
-ns1:LéR_-_Les_éditeurs_réunis a ns1:Publisher ;
-    ns1:name "LéR - Les éditeurs réunis"^^xsd:string .
 
 ns1:MAT_Editions a ns1:Publisher ;
     ns1:name "MAT Editions"^^xsd:string .
@@ -4306,7 +4121,8 @@ ns1:Mercure_De_France a ns1:Publisher ;
     ns1:name "Mercure De France"^^xsd:string .
 
 ns1:MicMac a ns1:Publisher ;
-    ns1:name "Mic-Mac"^^xsd:string .
+    ns1:name "Editions [MiC_MaC]"^^xsd:string,
+        "Mic-Mac"^^xsd:string .
 
 ns1:MicMacditions a ns1:Publisher ;
     ns1:name "Mic Mac éditions"^^xsd:string .
@@ -4357,7 +4173,8 @@ ns1:Milena_Schwarzberg a ns1:Publisher ;
     ns1:name "Milena Schwarzberg"^^xsd:string .
 
 ns1:Mille_Saisons a ns1:Publisher ;
-    ns1:name "Mille Saisons"^^xsd:string .
+    ns1:name "Editions des Mille saisons"^^xsd:string,
+        "Mille Saisons"^^xsd:string .
 
 ns1:Millefeuille a ns1:Publisher ;
     ns1:name "Millefeuille"^^xsd:string .
@@ -4390,7 +4207,8 @@ ns1:MiniSyros a ns1:Publisher ;
     ns1:name "Mini Syros"^^xsd:string .
 
 ns1:Minuit a ns1:Publisher ;
-    ns1:name "Minuit"^^xsd:string .
+    ns1:name "Les Editions de Minuit"^^xsd:string,
+        "Minuit"^^xsd:string .
 
 ns1:Misma a ns1:Publisher ;
     ns1:name "Misma"^^xsd:string .
@@ -4489,7 +4307,8 @@ ns1:MusedesbeauxartsdeLausanne a ns1:Publisher ;
     ns1:name "Musée des beaux-arts de Lausanne"^^xsd:string .
 
 ns1:MuseduLouvred a ns1:Publisher ;
-    ns1:name "Musée du Louvre éd."^^xsd:string .
+    ns1:name "Musée du Louvre"^^xsd:string,
+        "Musée du Louvre éd."^^xsd:string .
 
 ns1:MuseduquaiBranly a ns1:Publisher ;
     ns1:name "Musée du quai Branly"^^xsd:string .
@@ -4515,17 +4334,11 @@ ns1:Musumnationaldhistoirenaturelle a ns1:Publisher ;
 ns1:Musée_dOrsay_et_du_Musée_de_lOrangerie a ns1:Publisher ;
     ns1:name "Musée d'Orsay et du Musée de l'Orangerie"^^xsd:string .
 
-ns1:Musée_du_Louvre a ns1:Publisher ;
-    ns1:name "Musée du Louvre"^^xsd:string .
-
 ns1:Musée_du_Québec a ns1:Publisher ;
     ns1:name "Musée du Québec"^^xsd:string .
 
 ns1:Musée_du_château_des_ducs_de_Wurtemberg a ns1:Publisher ;
     ns1:name "Musée du château des ducs de Wurtemberg"^^xsd:string .
-
-ns1:Musées_de_la_ville_de_Strasbourg a ns1:Publisher ;
-    ns1:name "Musées de la ville de Strasbourg"^^xsd:string .
 
 ns1:Mâche_Milo_éditions a ns1:Publisher ;
     ns1:name "Mâche Milo éditions"^^xsd:string .
@@ -4573,7 +4386,8 @@ ns1:NEICEDA a ns1:Publisher ;
     ns1:name "NEI-CEDA"^^xsd:string .
 
 ns1:NEINouvellesditionsIvoiriennes a ns1:Publisher ;
-    ns1:name "NEI - Nouvelles éditions Ivoiriennes"^^xsd:string .
+    ns1:name "NEI - Nouvelles éditions Ivoiriennes"^^xsd:string,
+        "Nouvelles éditions ivoiriennes"^^xsd:string .
 
 ns1:NKEditions a ns1:Publisher ;
     ns1:name "NK Editions"^^xsd:string .
@@ -4747,9 +4561,6 @@ ns1:Nouvelle_Optique a ns1:Publisher ;
 ns1:Nouvelles_Éditions_De_LArc a ns1:Publisher ;
     ns1:name "Nouvelles Éditions De L'Arc"^^xsd:string .
 
-ns1:Nouvelles_éditions_ivoiriennes a ns1:Publisher ;
-    ns1:name "Nouvelles éditions ivoiriennes"^^xsd:string .
-
 ns1:Nouvelles_éditions_latines a ns1:Publisher ;
     ns1:name "Nouvelles éditions latines"^^xsd:string .
 
@@ -4778,7 +4589,8 @@ ns1:Nuitsdencreditions a ns1:Publisher ;
     ns1:name "Nuits d'encre éditions"^^xsd:string .
 
 ns1:OJacob a ns1:Publisher ;
-    ns1:name "O. Jacob"^^xsd:string .
+    ns1:name "O. Jacob"^^xsd:string,
+        "Odile Jacob"^^xsd:string .
 
 ns1:ONGActeco a ns1:Publisher ;
     ns1:name "ONG Act'eco"^^xsd:string .
@@ -4795,14 +4607,12 @@ ns1:OcanBaba a ns1:Publisher ;
 ns1:Ocand a ns1:Publisher ;
     ns1:name "Océan éd."^^xsd:string .
 
-ns1:Odile_Jacob a ns1:Publisher ;
-    ns1:name "Odile Jacob"^^xsd:string .
-
 ns1:Odin a ns1:Publisher ;
     ns1:name "Odin"^^xsd:string .
 
 ns1:Ofelbe a ns1:Publisher ;
-    ns1:name "Ofelbe"^^xsd:string .
+    ns1:name "Ofelbe"^^xsd:string,
+        "Ophelbe"^^xsd:string .
 
 ns1:Officenationaldesforts a ns1:Publisher ;
     ns1:name "Office national des forêts"^^xsd:string .
@@ -4837,9 +4647,6 @@ ns1:Oolichan_Books a ns1:Publisher ;
 ns1:Opal a ns1:Publisher ;
     ns1:name "Opal"^^xsd:string .
 
-ns1:Ophelbe a ns1:Publisher ;
-    ns1:name "Ophelbe"^^xsd:string .
-
 ns1:Ophrysjeunesse a ns1:Publisher ;
     ns1:name "Ophrys jeunesse"^^xsd:string .
 
@@ -4853,10 +4660,8 @@ ns1:Orbit a ns1:Publisher ;
     ns1:name "Orbit"^^xsd:string .
 
 ns1:Orca a ns1:Publisher ;
-    ns1:name "Orca"^^xsd:string .
-
-ns1:Orca_Book_Publishing a ns1:Publisher ;
-    ns1:name "Orca Book Publishing"^^xsd:string .
+    ns1:name "Orca"^^xsd:string,
+        "Orca Book Publishing"^^xsd:string .
 
 ns1:Orchard_Book a ns1:Publisher ;
     ns1:name "Orchard Book"^^xsd:string .
@@ -4879,9 +4684,6 @@ ns1:Orphée a ns1:Publisher ;
 ns1:Orso a ns1:Publisher ;
     ns1:name "Orso"^^xsd:string .
 
-ns1:Oskar_éditeur a ns1:Publisher ;
-    ns1:name "Oskar éditeur"^^xsd:string .
-
 ns1:Oskarson a ns1:Publisher ;
     ns1:name "Oskarson"^^xsd:string .
 
@@ -4898,7 +4700,8 @@ ns1:Ototo a ns1:Publisher ;
     ns1:name "Ototo"^^xsd:string .
 
 ns1:OuestFrance a ns1:Publisher ;
-    ns1:name "Ouest-France"^^xsd:string .
+    ns1:name "Editions Ouest-France-Edilarge"^^xsd:string,
+        "Ouest-France"^^xsd:string .
 
 ns1:Ouidireditions a ns1:Publisher ;
     ns1:name "Oui'dire éditions"^^xsd:string .
@@ -4924,9 +4727,6 @@ ns1:Oxford_University_Press a ns1:Publisher ;
 ns1:Oxyzone a ns1:Publisher ;
     ns1:name "Oxyzone"^^xsd:string .
 
-ns1:PAARI a ns1:Publisher ;
-    ns1:name "PAARI"^^xsd:string .
-
 ns1:PASTEQUE a ns1:Publisher ;
     ns1:name "PASTEQUE"^^xsd:string .
 
@@ -4934,7 +4734,8 @@ ns1:PEMF a ns1:Publisher ;
     ns1:name "PEMF"^^xsd:string .
 
 ns1:PGalod a ns1:Publisher ;
-    ns1:name "P. Galodé"^^xsd:string .
+    ns1:name "P. Galodé"^^xsd:string,
+        "Pascal Galodé éditeurs"^^xsd:string .
 
 ns1:PH a ns1:Publisher ;
     ns1:name "PH"^^xsd:string .
@@ -4949,7 +4750,8 @@ ns1:PLG a ns1:Publisher ;
     ns1:name "PLG"^^xsd:string .
 
 ns1:PPicquier a ns1:Publisher ;
-    ns1:name "P. Picquier"^^xsd:string .
+    ns1:name "Editions Picquier (Philippe)"^^xsd:string,
+        "P. Picquier"^^xsd:string .
 
 ns1:Paariditeur a ns1:Publisher ;
     ns1:name "Paari éditeur"^^xsd:string .
@@ -5022,9 +4824,6 @@ ns1:ParisMditerrane a ns1:Publisher ;
 
 ns1:ParisMuses a ns1:Publisher ;
     ns1:name "Paris Musées"^^xsd:string .
-
-ns1:Pascal_Galodé_éditeurs a ns1:Publisher ;
-    ns1:name "Pascal Galodé éditeurs"^^xsd:string .
 
 ns1:Passage_Piétons a ns1:Publisher ;
     ns1:name "Passage Piétons"^^xsd:string .
@@ -5200,11 +4999,9 @@ ns1:Plon a ns1:Publisher ;
 ns1:PlumeVerte a ns1:Publisher ;
     ns1:name "Plume Verte"^^xsd:string .
 
-ns1:Plume_de_carotte a ns1:Publisher ;
-    ns1:name "Plume de carotte"^^xsd:string .
-
 ns1:Plumecarotte a ns1:Publisher ;
-    ns1:name "Plume carotte"^^xsd:string .
+    ns1:name "Plume carotte"^^xsd:string,
+        "Plume de carotte"^^xsd:string .
 
 ns1:Plumor a ns1:Publisher ;
     ns1:name "Plum'or"^^xsd:string .
@@ -5275,9 +5072,6 @@ ns1:Presses_Universitaires_De_France a ns1:Publisher ;
 ns1:Presses_de_lEcole_des_hautes_études_en_santé_publique a ns1:Publisher ;
     ns1:name "Presses de l'Ecole des hautes études en santé publique"^^xsd:string .
 
-ns1:Presses_de_lUniversité_de_Montréal a ns1:Publisher ;
-    ns1:name "Presses de l'Université de Montréal"^^xsd:string .
-
 ns1:Presses_universitaires_de_Lyon a ns1:Publisher ;
     ns1:name "Presses universitaires de Lyon"^^xsd:string .
 
@@ -5310,13 +5104,12 @@ ns1:Prise_De_Parole a ns1:Publisher ;
     ns1:name "Prise De Parole"^^xsd:string .
 
 ns1:Prisma a ns1:Publisher ;
-    ns1:name "Prisma"^^xsd:string .
-
-ns1:Prisma_Media a ns1:Publisher ;
-    ns1:name "Prisma Media"^^xsd:string .
+    ns1:name "Prisma"^^xsd:string,
+        "Prisma Media"^^xsd:string .
 
 ns1:Privat a ns1:Publisher ;
-    ns1:name "Privat"^^xsd:string .
+    ns1:name "Editions Privat SAS"^^xsd:string,
+        "Privat"^^xsd:string .
 
 ns1:Privatjeunesse a ns1:Publisher ;
     ns1:name "Privat jeunesse"^^xsd:string .
@@ -5366,11 +5159,9 @@ ns1:Quartmonde a ns1:Publisher ;
 ns1:Quatre_Fleuves a ns1:Publisher ;
     ns1:name "Quatre Fleuves"^^xsd:string .
 
-ns1:Quespire a ns1:Publisher ;
-    ns1:name "Quespire"^^xsd:string .
-
 ns1:Quespired a ns1:Publisher ;
-    ns1:name "Quespire éd."^^xsd:string .
+    ns1:name "Quespire"^^xsd:string,
+        "Quespire éd."^^xsd:string .
 
 ns1:Quinze a ns1:Publisher ;
     ns1:name "Quinze"^^xsd:string .
@@ -5410,9 +5201,6 @@ ns1:RadioFrance a ns1:Publisher ;
 
 ns1:Rageot a ns1:Publisher ;
     ns1:name "Rageot"^^xsd:string .
-
-ns1:Rageot_éditeur a ns1:Publisher ;
-    ns1:name "Rageot éditeur"^^xsd:string .
 
 ns1:Raincoast_Books a ns1:Publisher ;
     ns1:name "Raincoast Books"^^xsd:string .
@@ -5509,7 +5297,8 @@ ns1:Ronsdale_Press a ns1:Publisher ;
     ns1:name "Ronsdale Press"^^xsd:string .
 
 ns1:Rouergue a ns1:Publisher ;
-    ns1:name "Rouergue"^^xsd:string .
+    ns1:name "Editions du Rouergue"^^xsd:string,
+        "Rouergue"^^xsd:string .
 
 ns1:Rouge__Or a ns1:Publisher ;
     ns1:name "Rouge & Or"^^xsd:string .
@@ -5574,9 +5363,6 @@ ns1:RuyVidaletHarlinQuist a ns1:Publisher ;
 ns1:RvesbleusddOrbestier a ns1:Publisher ;
     ns1:name "Rêves bleus-Éd. d'Orbestier"^^xsd:string .
 
-ns1:Réseau_Canopé a ns1:Publisher ;
-    ns1:name "Réseau Canopé"^^xsd:string .
-
 ns1:SBachs a ns1:Publisher ;
     ns1:name "S. Bachès"^^xsd:string .
 
@@ -5616,14 +5402,12 @@ ns1:Saltimbanque a ns1:Publisher ;
 ns1:Salvator a ns1:Publisher ;
     ns1:name "Salvator"^^xsd:string .
 
-ns1:Samir_Editeur a ns1:Publisher ;
-    ns1:name "Samir Editeur"^^xsd:string .
-
 ns1:Samr a ns1:Publisher ;
     ns1:name "Samīr"^^xsd:string .
 
 ns1:Sandawecom a ns1:Publisher ;
-    ns1:name "Sandawe.com"^^xsd:string .
+    ns1:name "Les Editions Sandawe"^^xsd:string,
+        "Sandawe.com"^^xsd:string .
 
 ns1:SanssouciVerlag a ns1:Publisher ;
     ns1:name "Sanssouci Verlag"^^xsd:string .
@@ -5670,9 +5454,6 @@ ns1:Scirocco_Drama a ns1:Publisher ;
 ns1:Scribblers a ns1:Publisher ;
     ns1:name "Scribblers"^^xsd:string .
 
-ns1:Scutella_\(Les_éditions\) a ns1:Publisher ;
-    ns1:name "Scutella (Les éditions)"^^xsd:string .
-
 ns1:Scutellad a ns1:Publisher ;
     ns1:name "Scutella éd."^^xsd:string .
 
@@ -5704,7 +5485,8 @@ ns1:Septembre a ns1:Publisher ;
     ns1:name "Septembre"^^xsd:string .
 
 ns1:Septentrion a ns1:Publisher ;
-    ns1:name "Septentrion"^^xsd:string .
+    ns1:name "Septentrion"^^xsd:string,
+        "Éditions du Septentrion"^^xsd:string .
 
 ns1:Serendib a ns1:Publisher ;
     ns1:name "Serendib"^^xsd:string .
@@ -5755,7 +5537,8 @@ ns1:Sipar a ns1:Publisher ;
     ns1:name "Sipar"^^xsd:string .
 
 ns1:Six_Pieds_Sous_Terre a ns1:Publisher ;
-    ns1:name "Six Pieds Sous Terre"^^xsd:string .
+    ns1:name "6 pieds sous terre éditions"^^xsd:string,
+        "Six Pieds Sous Terre"^^xsd:string .
 
 ns1:Slalom a ns1:Publisher ;
     ns1:name "Slalom"^^xsd:string .
@@ -5806,16 +5589,15 @@ ns1:Soleil a ns1:Publisher ;
     ns1:name "Soleil"^^xsd:string .
 
 ns1:Soleil_De_Minuit a ns1:Publisher ;
-    ns1:name "Soleil De Minuit"^^xsd:string .
-
-ns1:Soleil_productions a ns1:Publisher ;
-    ns1:name "Soleil productions"^^xsd:string .
+    ns1:name "Les éditions du soleil de minuit"^^xsd:string,
+        "Soleil De Minuit"^^xsd:string .
 
 ns1:Soleilmanga a ns1:Publisher ;
     ns1:name "Soleil manga"^^xsd:string .
 
 ns1:Soleilproduction a ns1:Publisher ;
-    ns1:name "Soleil production"^^xsd:string .
+    ns1:name "Soleil production"^^xsd:string,
+        "Soleil productions"^^xsd:string .
 
 ns1:Soline a ns1:Publisher ;
     ns1:name "Soline"^^xsd:string .
@@ -5827,7 +5609,8 @@ ns1:Somerville_House_Publishing a ns1:Publisher ;
     ns1:name "Somerville House Publishing"^^xsd:string .
 
 ns1:Somme_toute a ns1:Publisher ;
-    ns1:name "Somme toute"^^xsd:string .
+    ns1:name "Les Productions Somme toute"^^xsd:string,
+        "Somme toute"^^xsd:string .
 
 ns1:Somogy a ns1:Publisher ;
     ns1:name "Somogy"^^xsd:string .
@@ -5846,9 +5629,6 @@ ns1:Souffles a ns1:Publisher ;
 
 ns1:Soulières a ns1:Publisher ;
     ns1:name "Soulières"^^xsd:string .
-
-ns1:Soulières_éditeur a ns1:Publisher ;
-    ns1:name "Soulières éditeur"^^xsd:string .
 
 ns1:Sourcebooks a ns1:Publisher ;
     ns1:name "Sourcebooks"^^xsd:string .
@@ -5890,11 +5670,9 @@ ns1:Stock a ns1:Publisher ;
 ns1:Strange_Light a ns1:Publisher ;
     ns1:name "Strange Light"^^xsd:string .
 
-ns1:Studio_des_Trois_Becs a ns1:Publisher ;
-    ns1:name "Studio des Trois Becs"^^xsd:string .
-
 ns1:StudiolesTroisBecs a ns1:Publisher ;
-    ns1:name "Studio les Trois Becs"^^xsd:string .
+    ns1:name "Studio des Trois Becs"^^xsd:string,
+        "Studio les Trois Becs"^^xsd:string .
 
 ns1:Studyrama a ns1:Publisher ;
     ns1:name "Studyrama"^^xsd:string .
@@ -6016,11 +5794,9 @@ ns1:TerreVivante a ns1:Publisher ;
 ns1:Terredebrume a ns1:Publisher ;
     ns1:name "Terre de brume"^^xsd:string .
 
-ns1:Tertium a ns1:Publisher ;
-    ns1:name "Tertium"^^xsd:string .
-
 ns1:Tertiumd a ns1:Publisher ;
-    ns1:name "Tertium éd."^^xsd:string .
+    ns1:name "Tertium"^^xsd:string,
+        "Tertium éd."^^xsd:string .
 
 ns1:Textuel a ns1:Publisher ;
     ns1:name "Textuel"^^xsd:string .
@@ -6218,7 +5994,8 @@ ns1:Treizetrange a ns1:Publisher ;
     ns1:name "Treize étrange"^^xsd:string .
 
 ns1:Triomphe a ns1:Publisher ;
-    ns1:name "Triomphe"^^xsd:string .
+    ns1:name "Editions du Triomphe"^^xsd:string,
+        "Triomphe"^^xsd:string .
 
 ns1:Triptyque a ns1:Publisher ;
     ns1:name "Triptyque"^^xsd:string .
@@ -6290,7 +6067,8 @@ ns1:Typo a ns1:Publisher ;
     ns1:name "Typo"^^xsd:string .
 
 ns1:Téqui a ns1:Publisher ;
-    ns1:name "Téqui"^^xsd:string .
+    ns1:name "Librairie Téqui (Pierre)"^^xsd:string,
+        "Téqui"^^xsd:string .
 
 ns1:Tête_haute a ns1:Publisher ;
     ns1:name "Tête haute"^^xsd:string .
@@ -6400,9 +6178,6 @@ ns1:Varia a ns1:Publisher ;
 ns1:Velvet a ns1:Publisher ;
     ns1:name "Velvet"^^xsd:string .
 
-ns1:Vengeur_masqué a ns1:Publisher ;
-    ns1:name "Vengeur masqué"^^xsd:string .
-
 ns1:Vents_DAilleurs a ns1:Publisher ;
     ns1:name "Vents D'Ailleurs"^^xsd:string .
 
@@ -6422,7 +6197,8 @@ ns1:Verlagsgruppe_Oetinger a ns1:Publisher ;
     ns1:name "Verlagsgruppe Oetinger"^^xsd:string .
 
 ns1:Vermillon a ns1:Publisher ;
-    ns1:name "Vermillon"^^xsd:string .
+    ns1:name "Vermillon"^^xsd:string,
+        "Éditions du Vermillon"^^xsd:string .
 
 ns1:Versify a ns1:Publisher ;
     ns1:name "Versify"^^xsd:string .
@@ -6470,10 +6246,8 @@ ns1:Vilo a ns1:Publisher ;
     ns1:name "Vilo"^^xsd:string .
 
 ns1:Vincze a ns1:Publisher ;
-    ns1:name "É. Vincze"^^xsd:string .
-
-ns1:Vincze_\(Eva\) a ns1:Publisher ;
-    ns1:name "Vincze (Eva)"^^xsd:string .
+    ns1:name "Vincze (Eva)"^^xsd:string,
+        "É. Vincze"^^xsd:string .
 
 ns1:Visage_vert_\(Le\) a ns1:Publisher ;
     ns1:name "Visage vert (Le)"^^xsd:string .
@@ -6597,9 +6371,6 @@ ns1:Youpeyoupe a ns1:Publisher ;
 
 ns1:Ypsilon a ns1:Publisher ;
     ns1:name "Ypsilon"^^xsd:string .
-
-ns1:Ypsilon_éditeur a ns1:Publisher ;
-    ns1:name "Ypsilon éditeur"^^xsd:string .
 
 ns1:Yuk_ a ns1:Publisher ;
     ns1:name "Yuk "^^xsd:string .
@@ -6830,7 +6601,8 @@ ns1:duCentredecrationspourlenfancedeTinqueux a ns1:Publisher ;
     ns1:name "du Centre de créations pour l'enfance de Tinqueux"^^xsd:string .
 
 ns1:duCercil a ns1:Publisher ;
-    ns1:name "du Cercil"^^xsd:string .
+    ns1:name "CERCIL"^^xsd:string,
+        "du Cercil"^^xsd:string .
 
 ns1:duChne a ns1:Publisher ;
     ns1:name "du Chêne"^^xsd:string .
@@ -6860,7 +6632,8 @@ ns1:duLongbec a ns1:Publisher ;
     ns1:name "du Long bec"^^xsd:string .
 
 ns1:duLosange a ns1:Publisher ;
-    ns1:name "du Losange"^^xsd:string .
+    ns1:name "Losange"^^xsd:string,
+        "du Losange"^^xsd:string .
 
 ns1:duMahot a ns1:Publisher ;
     ns1:name "du Mahot"^^xsd:string .
@@ -6989,7 +6762,8 @@ ns1:lArticho a ns1:Publisher ;
     ns1:name "l'Articho"^^xsd:string .
 
 ns1:lArtlapage a ns1:Publisher ;
-    ns1:name "l'Art à la page"^^xsd:string .
+    ns1:name "Art à la page"^^xsd:string,
+        "l'Art à la page"^^xsd:string .
 
 ns1:lAsiathque a ns1:Publisher ;
     ns1:name "l'Asiathèque"^^xsd:string .
@@ -7046,7 +6820,8 @@ ns1:laCompagniecrative a ns1:Publisher ;
     ns1:name "la Compagnie créative"^^xsd:string .
 
 ns1:laCooprative a ns1:Publisher ;
-    ns1:name "la Coopérative"^^xsd:string .
+    ns1:name "Editions de la Coopérative"^^xsd:string,
+        "la Coopérative"^^xsd:string .
 
 ns1:laCroisedeschemins a ns1:Publisher ;
     ns1:name "la Croisée des chemins"^^xsd:string .
@@ -7127,7 +6902,8 @@ ns1:lcoledesloisirsruedeSvres a ns1:Publisher ;
     ns1:name "l'École des loisirs rue de Sèvres"^^xsd:string .
 
 ns1:leBonhommevert a ns1:Publisher ;
-    ns1:name "le Bonhomme vert"^^xsd:string .
+    ns1:name "Les éditions du Bonhomme vert"^^xsd:string,
+        "le Bonhomme vert"^^xsd:string .
 
 ns1:leCalicot a ns1:Publisher ;
     ns1:name "le Calicot"^^xsd:string .
@@ -7160,7 +6936,8 @@ ns1:leGrandlivredumois a ns1:Publisher ;
     ns1:name "le Grand livre du mois"^^xsd:string .
 
 ns1:leGriffonbleu a ns1:Publisher ;
-    ns1:name "le Griffon bleu"^^xsd:string .
+    ns1:name "Griffon bleu"^^xsd:string,
+        "le Griffon bleu"^^xsd:string .
 
 ns1:leLzardnoir a ns1:Publisher ;
     ns1:name "le Lézard noir"^^xsd:string .
@@ -7193,7 +6970,8 @@ ns1:leSourirequimord a ns1:Publisher ;
     ns1:name "le Sourire qui mord"^^xsd:string .
 
 ns1:leSquared a ns1:Publisher ;
-    ns1:name "le Square éd."^^xsd:string .
+    ns1:name "Le Square éditeur"^^xsd:string,
+        "le Square éd."^^xsd:string .
 
 ns1:leTempsapprivois a ns1:Publisher ;
     ns1:name "le Temps apprivoisé"^^xsd:string .
@@ -7253,7 +7031,8 @@ ns1:lesMinisSyros a ns1:Publisher ;
     ns1:name "les Minis Syros"^^xsd:string .
 
 ns1:lesMusesdelaVilledeStrasbourg a ns1:Publisher ;
-    ns1:name "les Musées de la Ville de Strasbourg"^^xsd:string .
+    ns1:name "Musées de la ville de Strasbourg"^^xsd:string,
+        "les Musées de la Ville de Strasbourg"^^xsd:string .
 
 ns1:lesNouvellesdafricaines a ns1:Publisher ;
     ns1:name "les Nouvelles éd. africaines"^^xsd:string .
@@ -7282,12 +7061,6 @@ ns1:lesPtitstotemsd a ns1:Publisher ;
 ns1:lesRequinsmarteaux a ns1:Publisher ;
     ns1:name "les Requins marteaux"^^xsd:string .
 
-ns1:les_Editions_Magnani a ns1:Publisher ;
-    ns1:name "les Editions Magnani"^^xsd:string .
-
-ns1:les_Editions_la_Tulipe_noire a ns1:Publisher ;
-    ns1:name "les Editions la Tulipe noire"^^xsd:string .
-
 ns1:lesalbumsPhilasAutobule a ns1:Publisher ;
     ns1:name "les albums Philéas & Autobule"^^xsd:string .
 
@@ -7307,7 +7080,8 @@ ns1:madabd a ns1:Publisher ;
     ns1:name "mada-bd"^^xsd:string .
 
 ns1:maelstrmreEvolution a ns1:Publisher ;
-    ns1:name "maelstrÖm reEvolution"^^xsd:string .
+    ns1:name "Editions Maelström"^^xsd:string,
+        "maelstrÖm reEvolution"^^xsd:string .
 
 ns1:matenikaniassociationpourlapromotiondelducationculturelleauniger a ns1:Publisher ;
     ns1:name "mate ni kani, association pour la promotion de l'éducation culturelle au niger"^^xsd:string .
@@ -7408,9 +7182,6 @@ ns1:Éditions_1018 a ns1:Publisher ;
 ns1:Éditions_123_Soleil a ns1:Publisher ;
     ns1:name "Éditions 123 Soleil"^^xsd:string .
 
-ns1:Éditions_ADA_inc a ns1:Publisher ;
-    ns1:name "Éditions ADA inc."^^xsd:string .
-
 ns1:Éditions_André_Fontaine a ns1:Publisher ;
     ns1:name "Éditions André Fontaine"^^xsd:string .
 
@@ -7431,9 +7202,6 @@ ns1:Éditions_JFD a ns1:Publisher ;
 
 ns1:Éditions_Jeunesse a ns1:Publisher ;
     ns1:name "Éditions Jeunesse"^^xsd:string .
-
-ns1:Éditions_La_Presse a ns1:Publisher ;
-    ns1:name "Éditions La Presse"^^xsd:string .
 
 ns1:Éditions_Leha a ns1:Publisher ;
     ns1:name "Éditions Leha"^^xsd:string .
@@ -7465,20 +7233,11 @@ ns1:Éditions_du_CHU_Sainte-Justine a ns1:Publisher ;
 ns1:Éditions_du_Chêne a ns1:Publisher ;
     ns1:name "Éditions du Chêne"^^xsd:string .
 
-ns1:Éditions_du_Noroit a ns1:Publisher ;
-    ns1:name "Éditions du Noroit"^^xsd:string .
-
 ns1:Éditions_du_Pépin a ns1:Publisher ;
     ns1:name "Éditions du Pépin"^^xsd:string .
 
 ns1:Éditions_du_Renouveau_pédagogique_E_R_P_I a ns1:Publisher ;
     ns1:name "Éditions du Renouveau pédagogique, E.R.P.I"^^xsd:string .
-
-ns1:Éditions_du_Septentrion a ns1:Publisher ;
-    ns1:name "Éditions du Septentrion"^^xsd:string .
-
-ns1:Éditions_du_Vermillon a ns1:Publisher ;
-    ns1:name "Éditions du Vermillon"^^xsd:string .
 
 ns1:Éditions_du_patrimoine a ns1:Publisher ;
     ns1:name "Éditions du patrimoine"^^xsd:string .
@@ -7491,9 +7250,6 @@ ns1:Ékaré a ns1:Publisher ;
 
 ns1:Être_Éditions a ns1:Publisher ;
     ns1:name "Être Éditions"^^xsd:string .
-
-ns1:éditions_Notari_SARL a ns1:Publisher ;
-    ns1:name "éditions Notari SARL"^^xsd:string .
 
 ns1:Actes_Sud-Papiers a ns1:Publisher ;
     ns1:name "Actes Sud-Papiers"^^xsd:string ;
