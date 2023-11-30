@@ -22,6 +22,7 @@ class InterDbStatsHybrid(InterDbStats):
         self.collision_number_approximate_key_bnf: int = 0
         self.collision_number_approximate_key_lurelu: int = 0
         self.lurelu_book_number = 0
+        self.ean_alignment_number = 0
         self.alignment_method = "hybrid"
 
     def increment_alignment_number_bnf(self):
@@ -60,6 +61,8 @@ class InterDbStatsHybrid(InterDbStats):
             aligned_with_ean = self.align_by_key_isbn(book_alignment, book_alignment.ean_bnf)
             if not aligned_with_ean:
                 aligned_with_book_key = self.align_by_exact_key_bnf(book_alignment, book_key)
+            else:
+                self.ean_alignment_number += 1
             # if not aligned_with_book_key:
             #     self.align_by_approximate_key(book_alignment, book_key)
 
@@ -259,6 +262,7 @@ class InterDbStatsHybrid(InterDbStats):
         self.stats_logger.info(f"key type {self.key_type}")
         self.stats_logger.info(f"number of alignments bnf {self.alignments_number_bnf}")
         self.stats_logger.info(f"number of alignments lurelu {self.alignments_number_lurelu}")
+        self.stats_logger.info(f"number of ean alignment bnf {self.ean_alignment_number}")
         self.stats_logger.info(f"total number of books {self.total_book_number}")
         self.stats_logger.info(f"total number of books bnf {self.bnf_book_number}")
         self.stats_logger.info(f"total number of books constellation {self.constellation_book_number}")

@@ -34,7 +34,7 @@ stats_hybrid = interdbstats_hybrid.InterDbStatsHybrid(key_name, stats_logger, ti
 
 # load the graph of constellation
 g = Graph()
-g.parse("../final_datasets/constellations.ttl", format="turtle")
+g.parse("../final_datasets/constellations_auteursURI.ttl", format="turtle")
 # g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="turtle")
 # g.parse("output_constellations_light_extended.ttl", format="turtle")
 
@@ -72,7 +72,7 @@ print("constellation book number", stats_hybrid.constellation_book_number)
 
 # reset graph
 g = Graph()
-g.parse("../final_datasets/bnf.ttl", format="turtle")
+g.parse("../final_datasets/bnf_auteursURI.ttl", format="turtle")
 # g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
 # g.parse("output_bnf_light_extended.ttl", format="turtle")
 
@@ -100,7 +100,6 @@ for book in g.subjects(RDF.type, utils.schema.Book):  # O(M)
                                                       book_author=book_data_preprocessed.book_authors,
                                                       publisher=book_data_preprocessed.publisher,
                                                       publication_date=book_data_preprocessed.publication_date)
-
     start = time.time()
     stats_hybrid.align_hybrid(copy.deepcopy(book_alignment_bnf), name_author_publisher_date_key)
     end = time.time()

@@ -17,6 +17,7 @@ class IntraDBStats: # stats for 1 db
         self.books_without_publisher = []
         self.books_without_isbn = []
         self.books_without_isbn_and_ean = []
+        self.books_without_isbn_with_ean = []
         self.isbn_doublons = defaultdict(lambda: [])
         self.ean_doublons = defaultdict(lambda: [])
         self.book_name_doublons = defaultdict(lambda: [])
@@ -42,9 +43,11 @@ class IntraDBStats: # stats for 1 db
             self.books_without_isbn.append(url)
             if not ean or ean == "none":
                 self.books_without_isbn_and_ean.append(url)
+            else:
+                self.books_without_isbn_with_ean.append(url)
 
         self.count_doublon_with_missing_values(book_name=str(book_name),
-                                               book_authors=str(book_authors),
+                                               book_authors=book_authors,
                                                age_range=age_range,
                                                publisher=str(publisher),
                                                publication_date=str(publication_date),
@@ -56,8 +59,10 @@ class IntraDBStats: # stats for 1 db
         name_key = utils.create_key(book_name)
         self.book_name_doublons[name_key].append(url)
 
+        print(book_authors)
         name_author_key = utils.create_key(book_name, book_authors)
         self.book_name_author_doublons[name_author_key].append(url)
+        print(name_author_key)
 
         name_author_publisher_key = utils.create_key(book_name, book_authors, publisher)
         self.book_name_author_publisher_doublons[name_author_publisher_key].append(url)
@@ -67,7 +72,7 @@ class IntraDBStats: # stats for 1 db
 
         self.isbn_doublons[isbn].append(url)
 
-        self.ean_doublons[ean].append(url)
+        self.ean_doublons[ean].append([isbn, url])
 
         self.book_name_author_ages[name_author_key].append(age_range)
 
@@ -99,12 +104,26 @@ class IntraDBStats: # stats for 1 db
                 value = doublon_dict[key]
                 if len(value) > 1: # more than 1 book for 1 key means there's a doublon
                     writer.writerow([key] + value)
+    def doublon_output_csv_ean(self, key_name, doublon_dict):
+        with open(f"{self.source}_doublons_{key_name}_intra_stats.csv", "w", encoding='utf-8', newline="") as csvfile:
+            writer = csv.writer(csvfile, delimiter='{')
+            writer.writerow([f"{key_name}"])
+            for key in doublon_dict.keys():
+                value = doublon_dict[key]
+                if len(value) > 1: # more than 1 book for 1 key means there's a doublon
+                    isbn_1 = value[0][0]
+                    isbn_2 = value[1][0]
+                    if isbn_1 == '' or isbn_2 == '':
+                        writer.writerow([key] + ["undefined"] + value)
+                    else:
+                        writer.writerow([key] + [isbn_1==isbn_2] + value)
     def output_csv(self):
         if 1: # toggle if we want to recompute stats for intra db
             with open(f"{self.source}_intra_stats.csv", "w", encoding='utf-8', newline="") as csvfile:
                 writer = csv.writer(csvfile, delimiter='{')
                 writer.writerow([f"without isbn: {len(self.books_without_isbn)}",
                                  f"without isbn and ean: {len(self.books_without_isbn_and_ean)}",
+                                 f"without isbn with ean: {len(self.books_without_isbn_with_ean)}",
                                  f"without name: {len(self.books_without_name)}",
                                  f"without author:{len(self.books_without_authors)}",
                                  f"without age {len(self.books_without_age)}",
@@ -113,6 +132,7 @@ class IntraDBStats: # stats for 1 db
 
                 rows = zip_longest(self.books_without_isbn,
                                    self.books_without_isbn_and_ean,
+                                   self.books_without_isbn_with_ean,
                                    self.books_without_name,
                                    self.books_without_authors,
                                    self.books_without_age,
@@ -126,7 +146,7 @@ class IntraDBStats: # stats for 1 db
         self.doublon_output_csv("name_author_publisher", self.book_name_author_publisher_doublons)
         self.doublon_output_csv("name_author_publisher_date", self.book_name_author_publisher_date_doublons)
         self.doublon_output_csv("isbn", self.isbn_doublons)
-        self.doublon_output_csv("ean", self.ean_doublons)
+        self.doublon_output_csv_ean("ean", self.ean_doublons)
 
 
 
@@ -180,7 +200,7 @@ stats_constellation.output_csv()
 # BNF
 
 g = Graph() # reset graph
-g.parse("final_datasets/bnf.ttl", format="turtle")
+g.parse("final_datasets/bnf_auteursURI.ttl", format="turtle")
 # g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
 
 stats_bnf = IntraDBStats(source="BNF")
