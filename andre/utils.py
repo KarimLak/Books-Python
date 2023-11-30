@@ -44,14 +44,18 @@ class Publisher:
 
 def create_key(book_name, book_author:list=[], publisher="", publication_date=""):
     authors_string = ""
-    for a in book_author:
-        authors_string += a
-        authors_string += "+"
-    if len(book_author) > 0:
+    if len(book_author) > 1 and len(book_author[0]) > 1: # eviter que le book author soit juste 1 auteur et qu'on mette des '+' entre chaque caractere
+        for a in book_author:
+            authors_string += a
+            authors_string += "+"
         if authors_string[-1] == "+":
             authors_string = authors_string[:-1]
-
-
+    elif len(book_author) == 1:
+        authors_string = book_author[0]
+    elif len(book_author) == 0:
+        authors_string = ""
+    else:
+        print("author key creation edge case")
     return book_name + "_" + authors_string + "_" + publisher + "_" + publication_date
 
 
