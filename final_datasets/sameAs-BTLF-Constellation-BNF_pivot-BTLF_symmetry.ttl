@@ -8,6 +8,8 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix fn: <http://www.w3.org/2005/xpath-functions#> .
 
+owl:sameAs a owl:SymmetricProperty . 
+
 
 schema:NOT16373024859994 owl:sameAs schema:Book001cd57c-4ffb-4d0a-a770-368827ecf2a9 .
 
