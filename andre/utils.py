@@ -33,7 +33,8 @@ def preprocess_publisher_name(raw_name):
     preprocessed_name = preprocessed_name.replace(" ", "")
     preprocessed_name = preprocessed_name.replace("groupe", "")
     preprocessed_name = preprocessed_name.strip()
-    return preprocessed_name
+
+    return raw_name if not preprocessed_name  else preprocessed_name
 
 class Publisher:
     def __init__(self, source, uri, raw_name, preprocessed_name):
