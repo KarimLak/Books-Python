@@ -1,3070 +1,3068 @@
-@prefix btlf-classe: <http://www.btlf.com/classe/> .
-@prefix schema: <http://www.btlf.com/editeur/> .
 @prefix schema: <http://schema.org/> .
 
-schema:0 a schema:Publisher ;
+schema:publisher0 a schema:publisher ;
     schema:name "Gallimard" .
 
-schema:1 a schema:Publisher ;
+schema:publisher1 a schema:publisher ;
     schema:name "les Trois ourses" .
 
-schema:10 a schema:Publisher ;
+schema:publisher10 a schema:publisher ;
     schema:name "Mango-Jeunesse" .
 
-schema:100 a schema:Publisher ;
+schema:publisher100 a schema:publisher ;
     schema:name "Dodo vole" .
 
-schema:1000 a schema:Publisher ;
+schema:publisher1000 a schema:publisher ;
     schema:name "les Allusifs" .
 
-schema:1001 a schema:Publisher ;
+schema:publisher1001 a schema:publisher ;
     schema:name "Belfond" .
 
-schema:1002 a schema:Publisher ;
+schema:publisher1002 a schema:publisher ;
     schema:name "Alter Comics" .
 
-schema:1003 a schema:Publisher ;
+schema:publisher1003 a schema:publisher ;
     schema:name "Didier-Erudition" .
 
-schema:1004 a schema:Publisher ;
+schema:publisher1004 a schema:publisher ;
     schema:name "Éditions Chouette" .
 
-schema:1005 a schema:Publisher ;
+schema:publisher1005 a schema:publisher ;
     schema:name "Les éditions d'Avallon" .
 
-schema:1006 a schema:Publisher ;
+schema:publisher1006 a schema:publisher ;
     schema:name "Éditions Logiques" .
 
-schema:1007 a schema:Publisher ;
+schema:publisher1007 a schema:publisher ;
     schema:name "Gallmeister" .
 
-schema:1008 a schema:Publisher ;
+schema:publisher1008 a schema:publisher ;
     schema:name "Éditions du Vermillon" .
 
-schema:1009 a schema:Publisher ;
+schema:publisher1009 a schema:publisher ;
     schema:name "Belem éditions" .
 
-schema:101 a schema:Publisher ;
+schema:publisher101 a schema:publisher ;
     schema:name "Cheyne" .
 
-schema:1010 a schema:Publisher ;
+schema:publisher1010 a schema:publisher ;
     schema:name "Écrits des Forges" .
 
-schema:1011 a schema:Publisher ;
+schema:publisher1011 a schema:publisher ;
     schema:name "Age d'homme" .
 
-schema:1012 a schema:Publisher ;
+schema:publisher1012 a schema:publisher ;
     schema:name "Boomerang éditeur jeunesse" .
 
-schema:1013 a schema:Publisher ;
+schema:publisher1013 a schema:publisher ;
     schema:name "Éditions ADA inc." .
 
-schema:1014 a schema:Publisher ;
+schema:publisher1014 a schema:publisher ;
     schema:name "Mnémos" .
 
-schema:1015 a schema:Publisher ;
+schema:publisher1015 a schema:publisher ;
     schema:name "Ed. de l'Homme sans nom" .
 
-schema:1016 a schema:Publisher ;
+schema:publisher1016 a schema:publisher ;
     schema:name "Ed. des Mille saisons" .
 
-schema:1017 a schema:Publisher ;
+schema:publisher1017 a schema:publisher ;
     schema:name "les Carnets du dessert de lune" .
 
-schema:1018 a schema:Publisher ;
+schema:publisher1018 a schema:publisher ;
     schema:name "Hugo Image" .
 
-schema:1019 a schema:Publisher ;
+schema:publisher1019 a schema:publisher ;
     schema:name "PUF" .
 
-schema:102 a schema:Publisher ;
+schema:publisher102 a schema:publisher ;
     schema:name "ABC melody" .
 
-schema:1020 a schema:Publisher ;
+schema:publisher1020 a schema:publisher ;
     schema:name "Éditions Espoir en canne" .
 
-schema:1021 a schema:Publisher ;
+schema:publisher1021 a schema:publisher ;
     schema:name "De plaines en vallées" .
 
-schema:103 a schema:Publisher ;
+schema:publisher103 a schema:publisher ;
     schema:name "Bamboo" .
 
-schema:104 a schema:Publisher ;
+schema:publisher104 a schema:publisher ;
     schema:name "Ed. çà et là" .
 
-schema:105 a schema:Publisher ;
+schema:publisher105 a schema:publisher ;
     schema:name "La Boîte à bulles" .
 
-schema:106 a schema:Publisher ;
+schema:publisher106 a schema:publisher ;
     schema:name "INRAP" .
 
-schema:107 a schema:Publisher ;
+schema:publisher107 a schema:publisher ;
     schema:name "Leméac" .
 
-schema:108 a schema:Publisher ;
+schema:publisher108 a schema:publisher ;
     schema:name "Muséum national d'histoire naturelle" .
 
-schema:109 a schema:Publisher ;
+schema:publisher109 a schema:publisher ;
     schema:name "Ed. du Jasmin" .
 
-schema:11 a schema:Publisher ;
+schema:publisher11 a schema:publisher ;
     schema:name "Quiquandquoi" .
 
-schema:110 a schema:Publisher ;
+schema:publisher110 a schema:publisher ;
     schema:name "Gallimard-Jeunesse Giboulées" .
 
-schema:111 a schema:Publisher ;
+schema:publisher111 a schema:publisher ;
     schema:name "Le Livre de poche" .
 
-schema:112 a schema:Publisher ;
+schema:publisher112 a schema:publisher ;
     schema:name "Présence africaine" .
 
-schema:113 a schema:Publisher ;
+schema:publisher113 a schema:publisher ;
     schema:name "Gautier-Languereau" .
 
-schema:114 a schema:Publisher ;
+schema:publisher114 a schema:publisher ;
     schema:name "Un, deux, quatre" .
 
-schema:115 a schema:Publisher ;
+schema:publisher115 a schema:publisher ;
     schema:name "Albert René" .
 
-schema:116 a schema:Publisher ;
+schema:publisher116 a schema:publisher ;
     schema:name "Carabas jeunesse" .
 
-schema:117 a schema:Publisher ;
+schema:publisher117 a schema:publisher ;
     schema:name "Kami" .
 
-schema:118 a schema:Publisher ;
+schema:publisher118 a schema:publisher ;
     schema:name "Toucan jeunesse" .
 
-schema:119 a schema:Publisher ;
+schema:publisher119 a schema:publisher ;
     schema:name "Sorbier" .
 
-schema:12 a schema:Publisher ;
+schema:publisher12 a schema:publisher ;
     schema:name "Magnard jeunesse" .
 
-schema:120 a schema:Publisher ;
+schema:publisher120 a schema:publisher ;
     schema:name "Lansman éditeur" .
 
-schema:121 a schema:Publisher ;
+schema:publisher121 a schema:publisher ;
     schema:name "Parigramme" .
 
-schema:122 a schema:Publisher ;
+schema:publisher122 a schema:publisher ;
     schema:name "Milan" .
 
-schema:123 a schema:Publisher ;
+schema:publisher123 a schema:publisher ;
     schema:name "Kankô" .
 
-schema:124 a schema:Publisher ;
+schema:publisher124 a schema:publisher ;
     schema:name "Institut du monde arabe" .
 
-schema:125 a schema:Publisher ;
+schema:publisher125 a schema:publisher ;
     schema:name "Belin" .
 
-schema:126 a schema:Publisher ;
+schema:publisher126 a schema:publisher ;
     schema:name "E. Vincze" .
 
-schema:127 a schema:Publisher ;
+schema:publisher127 a schema:publisher ;
     schema:name "Il était deux fois" .
 
-schema:128 a schema:Publisher ;
+schema:publisher128 a schema:publisher ;
     schema:name "Canopé-CRDP de l'académie de Paris" .
 
-schema:129 a schema:Publisher ;
+schema:publisher129 a schema:publisher ;
     schema:name "Dapper" .
 
-schema:13 a schema:Publisher ;
+schema:publisher13 a schema:publisher ;
     schema:name "Soleil" .
 
-schema:130 a schema:Publisher ;
+schema:publisher130 a schema:publisher ;
     schema:name "Corraini" .
 
-schema:131 a schema:Publisher ;
+schema:publisher131 a schema:publisher ;
     schema:name "NordSud" .
 
-schema:132 a schema:Publisher ;
+schema:publisher132 a schema:publisher ;
     schema:name "Bleu de Chine" .
 
-schema:133 a schema:Publisher ;
+schema:publisher133 a schema:publisher ;
     schema:name "Atelier EXB" .
 
-schema:134 a schema:Publisher ;
+schema:publisher134 a schema:publisher ;
     schema:name "Motus" .
 
-schema:135 a schema:Publisher ;
+schema:publisher135 a schema:publisher ;
     schema:name "L'Harmattan" .
 
-schema:136 a schema:Publisher ;
+schema:publisher136 a schema:publisher ;
     schema:name "Quadrants" .
 
-schema:137 a schema:Publisher ;
+schema:publisher137 a schema:publisher ;
     schema:name "Plon" .
 
-schema:138 a schema:Publisher ;
+schema:publisher138 a schema:publisher ;
     schema:name "Points de suspension" .
 
-schema:139 a schema:Publisher ;
+schema:publisher139 a schema:publisher ;
     schema:name "Grasset" .
 
-schema:14 a schema:Publisher ;
+schema:publisher14 a schema:publisher ;
     schema:name "Gulf Stream" .
 
-schema:140 a schema:Publisher ;
+schema:publisher140 a schema:publisher ;
     schema:name "P. Picquier" .
 
-schema:141 a schema:Publisher ;
+schema:publisher141 a schema:publisher ;
     schema:name "L'Atelier" .
 
-schema:142 a schema:Publisher ;
+schema:publisher142 a schema:publisher ;
     schema:name "Géo Ado" .
 
-schema:143 a schema:Publisher ;
+schema:publisher143 a schema:publisher ;
     schema:name "Cinémathèque française" .
 
-schema:144 a schema:Publisher ;
+schema:publisher144 a schema:publisher ;
     schema:name "Hachette Pratique" .
 
-schema:145 a schema:Publisher ;
+schema:publisher145 a schema:publisher ;
     schema:name "Corti" .
 
-schema:146 a schema:Publisher ;
+schema:publisher146 a schema:publisher ;
     schema:name "Mila" .
 
-schema:147 a schema:Publisher ;
+schema:publisher147 a schema:publisher ;
     schema:name "Tourbillon" .
 
-schema:148 a schema:Publisher ;
+schema:publisher148 a schema:publisher ;
     schema:name "Etre" .
 
-schema:149 a schema:Publisher ;
+schema:publisher149 a schema:publisher ;
     schema:name "Apogée" .
 
-schema:15 a schema:Publisher ;
+schema:publisher15 a schema:publisher ;
     schema:name "Bayard Jeunesse" .
 
-schema:150 a schema:Publisher ;
+schema:publisher150 a schema:publisher ;
     schema:name "Bretagne environnement" .
 
-schema:151 a schema:Publisher ;
+schema:publisher151 a schema:publisher ;
     schema:name "Rouge et or" .
 
-schema:152 a schema:Publisher ;
+schema:publisher152 a schema:publisher ;
     schema:name "Pika" .
 
-schema:153 a schema:Publisher ;
+schema:publisher153 a schema:publisher ;
     schema:name "Chan-ok" .
 
-schema:154 a schema:Publisher ;
+schema:publisher154 a schema:publisher ;
     schema:name "le Baron perché" .
 
-schema:155 a schema:Publisher ;
+schema:publisher155 a schema:publisher ;
     schema:name "Hesse" .
 
-schema:156 a schema:Publisher ;
+schema:publisher156 a schema:publisher ;
     schema:name "Dexia Ed." .
 
-schema:157 a schema:Publisher ;
+schema:publisher157 a schema:publisher ;
     schema:name "l'Elan vert" .
 
-schema:158 a schema:Publisher ;
+schema:publisher158 a schema:publisher ;
     schema:name "Nuée bleue" .
 
-schema:159 a schema:Publisher ;
+schema:publisher159 a schema:publisher ;
     schema:name "Treize étrange" .
 
-schema:16 a schema:Publisher ;
+schema:publisher16 a schema:publisher ;
     schema:name "Ed. du Panama" .
 
-schema:160 a schema:Publisher ;
+schema:publisher160 a schema:publisher ;
     schema:name "MK2" .
 
-schema:161 a schema:Publisher ;
+schema:publisher161 a schema:publisher ;
     schema:name "Rocher" .
 
-schema:162 a schema:Publisher ;
+schema:publisher162 a schema:publisher ;
     schema:name "Serpent à Plumes" .
 
-schema:163 a schema:Publisher ;
+schema:publisher163 a schema:publisher ;
     schema:name "Millepages" .
 
-schema:164 a schema:Publisher ;
+schema:publisher164 a schema:publisher ;
     schema:name "Ed. de l'Epure" .
 
-schema:165 a schema:Publisher ;
+schema:publisher165 a schema:publisher ;
     schema:name "Rivages" .
 
-schema:166 a schema:Publisher ;
+schema:publisher166 a schema:publisher ;
     schema:name "Albin Michel" .
 
-schema:167 a schema:Publisher ;
+schema:publisher167 a schema:publisher ;
     schema:name "Monde global" .
 
-schema:168 a schema:Publisher ;
+schema:publisher168 a schema:publisher ;
     schema:name "Larousse" .
 
-schema:169 a schema:Publisher ;
+schema:publisher169 a schema:publisher ;
     schema:name "EP Emmanuel Proust éditions" .
 
-schema:17 a schema:Publisher ;
+schema:publisher17 a schema:publisher ;
     schema:name "Kurokawa" .
 
-schema:170 a schema:Publisher ;
+schema:publisher170 a schema:publisher ;
     schema:name "Jasor" .
 
-schema:171 a schema:Publisher ;
+schema:publisher171 a schema:publisher ;
     schema:name "Epsilon" .
 
-schema:172 a schema:Publisher ;
+schema:publisher172 a schema:publisher ;
     schema:name "l'Edune" .
 
-schema:173 a schema:Publisher ;
+schema:publisher173 a schema:publisher ;
     schema:name "Passage piétons" .
 
-schema:174 a schema:Publisher ;
+schema:publisher174 a schema:publisher ;
     schema:name "Cyr éditions" .
 
-schema:175 a schema:Publisher ;
+schema:publisher175 a schema:publisher ;
     schema:name "Grain de sable" .
 
-schema:176 a schema:Publisher ;
+schema:publisher176 a schema:publisher ;
     schema:name "Lire en Calédonie" .
 
-schema:177 a schema:Publisher ;
+schema:publisher177 a schema:publisher ;
     schema:name "Bilboquet" .
 
-schema:178 a schema:Publisher ;
+schema:publisher178 a schema:publisher ;
     schema:name "Oskar jeunesse" .
 
-schema:179 a schema:Publisher ;
+schema:publisher179 a schema:publisher ;
     schema:name "Petit Lézard" .
 
-schema:18 a schema:Publisher ;
+schema:publisher18 a schema:publisher ;
     schema:name "Ki-oon" .
 
-schema:180 a schema:Publisher ;
+schema:publisher180 a schema:publisher ;
     schema:name "Harmattan Cameroun" .
 
-schema:181 a schema:Publisher ;
+schema:publisher181 a schema:publisher ;
     schema:name "Asuka" .
 
-schema:182 a schema:Publisher ;
+schema:publisher182 a schema:publisher ;
     schema:name "Petit à petit" .
 
-schema:183 a schema:Publisher ;
+schema:publisher183 a schema:publisher ;
     schema:name "OQO" .
 
-schema:184 a schema:Publisher ;
+schema:publisher184 a schema:publisher ;
     schema:name "Éditions les 400 coups" .
 
-schema:185 a schema:Publisher ;
+schema:publisher185 a schema:publisher ;
     schema:name "Nathan" .
 
-schema:186 a schema:Publisher ;
+schema:publisher186 a schema:publisher ;
     schema:name "Afrobul" .
 
-schema:187 a schema:Publisher ;
+schema:publisher187 a schema:publisher ;
     schema:name "Baam !" .
 
-schema:188 a schema:Publisher ;
+schema:publisher188 a schema:publisher ;
     schema:name "Intervista" .
 
-schema:189 a schema:Publisher ;
+schema:publisher189 a schema:publisher ;
     schema:name "Delachaux et Niestlé" .
 
-schema:19 a schema:Publisher ;
+schema:publisher19 a schema:publisher ;
     schema:name "Dupuis" .
 
-schema:190 a schema:Publisher ;
+schema:publisher190 a schema:publisher ;
     schema:name "MeMo" .
 
-schema:191 a schema:Publisher ;
+schema:publisher191 a schema:publisher ;
     schema:name "Géo jeunesse" .
 
-schema:192 a schema:Publisher ;
+schema:publisher192 a schema:publisher ;
     schema:name "Ed. du Masque" .
 
-schema:193 a schema:Publisher ;
+schema:publisher193 a schema:publisher ;
     schema:name "Ouest-France" .
 
-schema:194 a schema:Publisher ;
+schema:publisher194 a schema:publisher ;
     schema:name "Océan" .
 
-schema:195 a schema:Publisher ;
+schema:publisher195 a schema:publisher ;
     schema:name "Atalante" .
 
-schema:196 a schema:Publisher ;
+schema:publisher196 a schema:publisher ;
     schema:name "Cherche Midi" .
 
-schema:197 a schema:Publisher ;
+schema:publisher197 a schema:publisher ;
     schema:name "Yanbow Al Kitab" .
 
-schema:198 a schema:Publisher ;
+schema:publisher198 a schema:publisher ;
     schema:name "Atlas" .
 
-schema:199 a schema:Publisher ;
+schema:publisher199 a schema:publisher ;
     schema:name "Courrier du livre" .
 
-schema:2 a schema:Publisher ;
+schema:publisher2 a schema:publisher ;
     schema:name "One Stroke" .
 
-schema:20 a schema:Publisher ;
+schema:publisher20 a schema:publisher ;
     schema:name "Odin" .
 
-schema:200 a schema:Publisher ;
+schema:publisher200 a schema:publisher ;
     schema:name "l'Agapante et Cie" .
 
-schema:201 a schema:Publisher ;
+schema:publisher201 a schema:publisher ;
     schema:name "Kanjil" .
 
-schema:202 a schema:Publisher ;
+schema:publisher202 a schema:publisher ;
     schema:name "Lafontaine Jeunesse" .
 
-schema:203 a schema:Publisher ;
+schema:publisher203 a schema:publisher ;
     schema:name "Nouveau Monde éditions" .
 
-schema:204 a schema:Publisher ;
+schema:publisher204 a schema:publisher ;
     schema:name "les Fous de bassan !" .
 
-schema:205 a schema:Publisher ;
+schema:publisher205 a schema:publisher ;
     schema:name "Aubéron" .
 
-schema:206 a schema:Publisher ;
+schema:publisher206 a schema:publisher ;
     schema:name "PLB FWI" .
 
-schema:207 a schema:Publisher ;
+schema:publisher207 a schema:publisher ;
     schema:name "Mouck" .
 
-schema:208 a schema:Publisher ;
+schema:publisher208 a schema:publisher ;
     schema:name "Ed. du Temps" .
 
-schema:209 a schema:Publisher ;
+schema:publisher209 a schema:publisher ;
     schema:name "INA" .
 
-schema:21 a schema:Publisher ;
+schema:publisher21 a schema:publisher ;
     schema:name "Bayard" .
 
-schema:210 a schema:Publisher ;
+schema:publisher210 a schema:publisher ;
     schema:name "Hoëbeke" .
 
-schema:211 a schema:Publisher ;
+schema:publisher211 a schema:publisher ;
     schema:name "Hatier jeunesse" .
 
-schema:212 a schema:Publisher ;
+schema:publisher212 a schema:publisher ;
     schema:name "Chantecler" .
 
-schema:213 a schema:Publisher ;
+schema:publisher213 a schema:publisher ;
     schema:name "Sépia" .
 
-schema:214 a schema:Publisher ;
+schema:publisher214 a schema:publisher ;
     schema:name "Cité de la musique" .
 
-schema:215 a schema:Publisher ;
+schema:publisher215 a schema:publisher ;
     schema:name "le Port a jauni" .
 
-schema:216 a schema:Publisher ;
+schema:publisher216 a schema:publisher ;
     schema:name "Plume de carotte" .
 
-schema:217 a schema:Publisher ;
+schema:publisher217 a schema:publisher ;
     schema:name "Dadoclem" .
 
-schema:218 a schema:Publisher ;
+schema:publisher218 a schema:publisher ;
     schema:name "Cité des sciences & de l'industrie" .
 
-schema:219 a schema:Publisher ;
+schema:publisher219 a schema:publisher ;
     schema:name "Tôt ou tard" .
 
-schema:22 a schema:Publisher ;
+schema:publisher22 a schema:publisher ;
     schema:name "Dargaud" .
 
-schema:220 a schema:Publisher ;
+schema:publisher220 a schema:publisher ;
     schema:name "Gallimard-Jeunesse Musique" .
 
-schema:221 a schema:Publisher ;
+schema:publisher221 a schema:publisher ;
     schema:name "J.-C. Gawsewitch éditeur" .
 
-schema:222 a schema:Publisher ;
+schema:publisher222 a schema:publisher ;
     schema:name "Ed. de l'Atelier" .
 
-schema:223 a schema:Publisher ;
+schema:publisher223 a schema:publisher ;
     schema:name "Belize" .
 
-schema:224 a schema:Publisher ;
+schema:publisher224 a schema:publisher ;
     schema:name "Éditions les Allusifs" .
 
-schema:225 a schema:Publisher ;
+schema:publisher225 a schema:publisher ;
     schema:name "Chêne jeunesse" .
 
-schema:226 a schema:Publisher ;
+schema:publisher226 a schema:publisher ;
     schema:name "Archipoche" .
 
-schema:227 a schema:Publisher ;
+schema:publisher227 a schema:publisher ;
     schema:name "Belin jeunesse" .
 
-schema:228 a schema:Publisher ;
+schema:publisher228 a schema:publisher ;
     schema:name "O. Jacob" .
 
-schema:229 a schema:Publisher ;
+schema:publisher229 a schema:publisher ;
     schema:name "Rue des enfants" .
 
-schema:23 a schema:Publisher ;
+schema:publisher23 a schema:publisher ;
     schema:name "Lito" .
 
-schema:230 a schema:Publisher ;
+schema:publisher230 a schema:publisher ;
     schema:name "Point de vues" .
 
-schema:231 a schema:Publisher ;
+schema:publisher231 a schema:publisher ;
     schema:name "Amnesty international France" .
 
-schema:232 a schema:Publisher ;
+schema:publisher232 a schema:publisher ;
     schema:name "Maîtrise des Hauts-de-Seine" .
 
-schema:233 a schema:Publisher ;
+schema:publisher233 a schema:publisher ;
     schema:name "Dagan jeunesse éditions" .
 
-schema:234 a schema:Publisher ;
+schema:publisher234 a schema:publisher ;
     schema:name "MAT Editions" .
 
-schema:235 a schema:Publisher ;
+schema:publisher235 a schema:publisher ;
     schema:name "Arte Editions" .
 
-schema:236 a schema:Publisher ;
+schema:publisher236 a schema:publisher ;
     schema:name "Au fond du grenier" .
 
-schema:237 a schema:Publisher ;
+schema:publisher237 a schema:publisher ;
     schema:name "Futuropolis" .
 
-schema:238 a schema:Publisher ;
+schema:publisher238 a schema:publisher ;
     schema:name "Funambule" .
 
-schema:239 a schema:Publisher ;
+schema:publisher239 a schema:publisher ;
     schema:name "les 400 coups" .
 
-schema:24 a schema:Publisher ;
+schema:publisher24 a schema:publisher ;
     schema:name "Ecole des loisirs" .
 
-schema:240 a schema:Publisher ;
+schema:publisher240 a schema:publisher ;
     schema:name "BBC France" .
 
-schema:241 a schema:Publisher ;
+schema:publisher241 a schema:publisher ;
     schema:name "Musées de la ville de Strasbourg" .
 
-schema:242 a schema:Publisher ;
+schema:publisher242 a schema:publisher ;
     schema:name "DC comics" .
 
-schema:243 a schema:Publisher ;
+schema:publisher243 a schema:publisher ;
     schema:name "Rotor" .
 
-schema:244 a schema:Publisher ;
+schema:publisher244 a schema:publisher ;
     schema:name "Delachaux et Niestlé jeunesse" .
 
-schema:245 a schema:Publisher ;
+schema:publisher245 a schema:publisher ;
     schema:name "Hélium" .
 
-schema:246 a schema:Publisher ;
+schema:publisher246 a schema:publisher ;
     schema:name "Enfance et musique" .
 
-schema:247 a schema:Publisher ;
+schema:publisher247 a schema:publisher ;
     schema:name "Mot et le reste" .
 
-schema:248 a schema:Publisher ;
+schema:publisher248 a schema:publisher ;
     schema:name "Frimousse" .
 
-schema:249 a schema:Publisher ;
+schema:publisher249 a schema:publisher ;
     schema:name "Attila" .
 
-schema:25 a schema:Publisher ;
+schema:publisher25 a schema:publisher ;
     schema:name "De La Martinière Jeunesse" .
 
-schema:250 a schema:Publisher ;
+schema:publisher250 a schema:publisher ;
     schema:name "Lirabelle" .
 
-schema:251 a schema:Publisher ;
+schema:publisher251 a schema:publisher ;
     schema:name "Temps apprivoisé" .
 
-schema:252 a schema:Publisher ;
+schema:publisher252 a schema:publisher ;
     schema:name "Espaces 34" .
 
-schema:253 a schema:Publisher ;
+schema:publisher253 a schema:publisher ;
     schema:name "Archipel" .
 
-schema:254 a schema:Publisher ;
+schema:publisher254 a schema:publisher ;
     schema:name "Ed. du Ricochet" .
 
-schema:255 a schema:Publisher ;
+schema:publisher255 a schema:publisher ;
     schema:name "Ecole active" .
 
-schema:256 a schema:Publisher ;
+schema:publisher256 a schema:publisher ;
     schema:name "Hugo et compagnie" .
 
-schema:257 a schema:Publisher ;
+schema:publisher257 a schema:publisher ;
     schema:name "Théâtre de la digue" .
 
-schema:258 a schema:Publisher ;
+schema:publisher258 a schema:publisher ;
     schema:name "Grandir" .
 
-schema:259 a schema:Publisher ;
+schema:publisher259 a schema:publisher ;
     schema:name "Karibencyla" .
 
-schema:26 a schema:Publisher ;
+schema:publisher26 a schema:publisher ;
     schema:name "Syros" .
 
-schema:260 a schema:Publisher ;
+schema:publisher260 a schema:publisher ;
     schema:name "Quart Monde" .
 
-schema:261 a schema:Publisher ;
+schema:publisher261 a schema:publisher ;
     schema:name "Lancosme" .
 
-schema:262 a schema:Publisher ;
+schema:publisher262 a schema:publisher ;
     schema:name "Edicef" .
 
-schema:263 a schema:Publisher ;
+schema:publisher263 a schema:publisher ;
     schema:name "Mango" .
 
-schema:264 a schema:Publisher ;
+schema:publisher264 a schema:publisher ;
     schema:name "Orphie" .
 
-schema:265 a schema:Publisher ;
+schema:publisher265 a schema:publisher ;
     schema:name "Epsilon BD" .
 
-schema:266 a schema:Publisher ;
+schema:publisher266 a schema:publisher ;
     schema:name "Magellan & Cie" .
 
-schema:267 a schema:Publisher ;
+schema:publisher267 a schema:publisher ;
     schema:name "Dominique et compagnie" .
 
-schema:268 a schema:Publisher ;
+schema:publisher268 a schema:publisher ;
     schema:name "Hachette" .
 
-schema:269 a schema:Publisher ;
+schema:publisher269 a schema:publisher ;
     schema:name "A dos d'âne" .
 
-schema:27 a schema:Publisher ;
+schema:publisher27 a schema:publisher ;
     schema:name "Vents d'ouest" .
 
-schema:270 a schema:Publisher ;
+schema:publisher270 a schema:publisher ;
     schema:name "Alzabane éditions" .
 
-schema:271 a schema:Publisher ;
+schema:publisher271 a schema:publisher ;
     schema:name "Ed. du Mont" .
 
-schema:272 a schema:Publisher ;
+schema:publisher272 a schema:publisher ;
     schema:name "Nouvelles éditions Scala" .
 
-schema:273 a schema:Publisher ;
+schema:publisher273 a schema:publisher ;
     schema:name "Guérin" .
 
-schema:274 a schema:Publisher ;
+schema:publisher274 a schema:publisher ;
     schema:name "Hors les murs" .
 
-schema:275 a schema:Publisher ;
+schema:publisher275 a schema:publisher ;
     schema:name "Blake et Mortimer" .
 
-schema:276 a schema:Publisher ;
+schema:publisher276 a schema:publisher ;
     schema:name "Prikosnovenie" .
 
-schema:277 a schema:Publisher ;
+schema:publisher277 a schema:publisher ;
     schema:name "Komedit" .
 
-schema:278 a schema:Publisher ;
+schema:publisher278 a schema:publisher ;
     schema:name "les Ed. du jardin des mots" .
 
-schema:279 a schema:Publisher ;
+schema:publisher279 a schema:publisher ;
     schema:name "Coccinelle édition " .
 
-schema:28 a schema:Publisher ;
+schema:publisher28 a schema:publisher ;
     schema:name "Quatre Fleuves" .
 
-schema:280 a schema:Publisher ;
+schema:publisher280 a schema:publisher ;
     schema:name "Ibis rouge" .
 
-schema:281 a schema:Publisher ;
+schema:publisher281 a schema:publisher ;
     schema:name "M. Lafon" .
 
-schema:282 a schema:Publisher ;
+schema:publisher282 a schema:publisher ;
     schema:name "Critères" .
 
-schema:283 a schema:Publisher ;
+schema:publisher283 a schema:publisher ;
     schema:name "Mémoire d'encrier" .
 
-schema:284 a schema:Publisher ;
+schema:publisher284 a schema:publisher ;
     schema:name "Quespire" .
 
-schema:285 a schema:Publisher ;
+schema:publisher285 a schema:publisher ;
     schema:name "Ed. des Braques" .
 
-schema:286 a schema:Publisher ;
+schema:publisher286 a schema:publisher ;
     schema:name "les Ed. du bonhomme vert" .
 
-schema:287 a schema:Publisher ;
+schema:publisher287 a schema:publisher ;
     schema:name "SNCF, Direction de la recherche, Département marketing et développement" .
 
-schema:288 a schema:Publisher ;
+schema:publisher288 a schema:publisher ;
     schema:name "Vengeur masqué" .
 
-schema:289 a schema:Publisher ;
+schema:publisher289 a schema:publisher ;
     schema:name "OH ! éditions" .
 
-schema:29 a schema:Publisher ;
+schema:publisher29 a schema:publisher ;
     schema:name "Delcourt" .
 
-schema:290 a schema:Publisher ;
+schema:publisher290 a schema:publisher ;
     schema:name "Aréopage" .
 
-schema:291 a schema:Publisher ;
+schema:publisher291 a schema:publisher ;
     schema:name "Ane bâté" .
 
-schema:292 a schema:Publisher ;
+schema:publisher292 a schema:publisher ;
     schema:name "Phaidon" .
 
-schema:293 a schema:Publisher ;
+schema:publisher293 a schema:publisher ;
     schema:name "Petite plume de carotte" .
 
-schema:294 a schema:Publisher ;
+schema:publisher294 a schema:publisher ;
     schema:name "Petite Salamandre" .
 
-schema:295 a schema:Publisher ;
+schema:publisher295 a schema:publisher ;
     schema:name "Oskar éditeur" .
 
-schema:296 a schema:Publisher ;
+schema:publisher296 a schema:publisher ;
     schema:name "Esperluète" .
 
-schema:297 a schema:Publisher ;
+schema:publisher297 a schema:publisher ;
     schema:name "Ed. du Lampion" .
 
-schema:298 a schema:Publisher ;
+schema:publisher298 a schema:publisher ;
     schema:name "Radio-France internationale" .
 
-schema:299 a schema:Publisher ;
+schema:publisher299 a schema:publisher ;
     schema:name "HongFei cultures" .
 
-schema:3 a schema:Publisher ;
+schema:publisher3 a schema:publisher ;
     schema:name "Fleurus" .
 
-schema:30 a schema:Publisher ;
+schema:publisher30 a schema:publisher ;
     schema:name "Gallimard-Jeunesse" .
 
-schema:300 a schema:Publisher ;
+schema:publisher300 a schema:publisher ;
     schema:name "MiC MaC" .
 
-schema:301 a schema:Publisher ;
+schema:publisher301 a schema:publisher ;
     schema:name "Canopé-CRDP de l'académie d'Aix-Marseille" .
 
-schema:302 a schema:Publisher ;
+schema:publisher302 a schema:publisher ;
     schema:name "Editions de Saxe" .
 
-schema:303 a schema:Publisher ;
+schema:publisher303 a schema:publisher ;
     schema:name "Eveil et découvertes" .
 
-schema:304 a schema:Publisher ;
+schema:publisher304 a schema:publisher ;
     schema:name "Tikouti" .
 
-schema:305 a schema:Publisher ;
+schema:publisher305 a schema:publisher ;
     schema:name "Kazé Manga" .
 
-schema:306 a schema:Publisher ;
+schema:publisher306 a schema:publisher ;
     schema:name "Scrineo Jeunesse" .
 
-schema:307 a schema:Publisher ;
+schema:publisher307 a schema:publisher ;
     schema:name "Fond du Tiroir (Le)" .
 
-schema:308 a schema:Publisher ;
+schema:publisher308 a schema:publisher ;
     schema:name "Tartamudo" .
 
-schema:309 a schema:Publisher ;
+schema:publisher309 a schema:publisher ;
     schema:name "Omnibus" .
 
-schema:31 a schema:Publisher ;
+schema:publisher31 a schema:publisher ;
     schema:name "Ed. Palette" .
 
-schema:310 a schema:Publisher ;
+schema:publisher310 a schema:publisher ;
     schema:name "Ed. des Grandes personnes" .
 
-schema:311 a schema:Publisher ;
+schema:publisher311 a schema:publisher ;
     schema:name "Escabelle" .
 
-schema:312 a schema:Publisher ;
+schema:publisher312 a schema:publisher ;
     schema:name "Benjamins media" .
 
-schema:313 a schema:Publisher ;
+schema:publisher313 a schema:publisher ;
     schema:name "Lazhari Labter Editions" .
 
-schema:314 a schema:Publisher ;
+schema:publisher314 a schema:publisher ;
     schema:name "Association culturelle France-Amérique" .
 
-schema:315 a schema:Publisher ;
+schema:publisher315 a schema:publisher ;
     schema:name "Éditions de la Bagnole" .
 
-schema:316 a schema:Publisher ;
+schema:publisher316 a schema:publisher ;
     schema:name "Galerie Barbier & Mathon" .
 
-schema:317 a schema:Publisher ;
+schema:publisher317 a schema:publisher ;
     schema:name "Stock" .
 
-schema:318 a schema:Publisher ;
+schema:publisher318 a schema:publisher ;
     schema:name "les Portes du Soleil" .
 
-schema:319 a schema:Publisher ;
+schema:publisher319 a schema:publisher ;
     schema:name "Fondencre" .
 
-schema:32 a schema:Publisher ;
+schema:publisher32 a schema:publisher ;
     schema:name "Actes Sud junior" .
 
-schema:320 a schema:Publisher ;
+schema:publisher320 a schema:publisher ;
     schema:name "Cadex" .
 
-schema:321 a schema:Publisher ;
+schema:publisher321 a schema:publisher ;
     schema:name "Planète rebelle" .
 
-schema:322 a schema:Publisher ;
+schema:publisher322 a schema:publisher ;
     schema:name "Rouge safran" .
 
-schema:323 a schema:Publisher ;
+schema:publisher323 a schema:publisher ;
     schema:name "Bréal" .
 
-schema:324 a schema:Publisher ;
+schema:publisher324 a schema:publisher ;
     schema:name "Ankama" .
 
-schema:325 a schema:Publisher ;
+schema:publisher325 a schema:publisher ;
     schema:name "Drugstore" .
 
-schema:326 a schema:Publisher ;
+schema:publisher326 a schema:publisher ;
     schema:name "Éditions Michel Quintin" .
 
-schema:327 a schema:Publisher ;
+schema:publisher327 a schema:publisher ;
     schema:name "Esprit libre junior" .
 
-schema:328 a schema:Publisher ;
+schema:publisher328 a schema:publisher ;
     schema:name "Ed. courtes et longues" .
 
-schema:329 a schema:Publisher ;
+schema:publisher329 a schema:publisher ;
     schema:name "Denoël Graphic" .
 
-schema:33 a schema:Publisher ;
+schema:publisher33 a schema:publisher ;
     schema:name "Thierry Magnier" .
 
-schema:330 a schema:Publisher ;
+schema:publisher330 a schema:publisher ;
     schema:name "Tallandier" .
 
-schema:331 a schema:Publisher ;
+schema:publisher331 a schema:publisher ;
     schema:name "les Ed. Fei" .
 
-schema:332 a schema:Publisher ;
+schema:publisher332 a schema:publisher ;
     schema:name "Castelmore" .
 
-schema:333 a schema:Publisher ;
+schema:publisher333 a schema:publisher ;
     schema:name "La courte échelle" .
 
-schema:334 a schema:Publisher ;
+schema:publisher334 a schema:publisher ;
     schema:name "Musée du Luxembourg de Paris" .
 
-schema:335 a schema:Publisher ;
+schema:publisher335 a schema:publisher ;
     schema:name "Au diable Vauvert" .
 
-schema:336 a schema:Publisher ;
+schema:publisher336 a schema:publisher ;
     schema:name "BD Kids" .
 
-schema:337 a schema:Publisher ;
+schema:publisher337 a schema:publisher ;
     schema:name "JBZ  & Cie" .
 
-schema:338 a schema:Publisher ;
+schema:publisher338 a schema:publisher ;
     schema:name "Karthala" .
 
-schema:339 a schema:Publisher ;
+schema:publisher339 a schema:publisher ;
     schema:name "Thames & Hudson" .
 
-schema:34 a schema:Publisher ;
+schema:publisher34 a schema:publisher ;
     schema:name "Mijade" .
 
-schema:340 a schema:Publisher ;
+schema:publisher340 a schema:publisher ;
     schema:name "Le Genévrier" .
 
-schema:341 a schema:Publisher ;
+schema:publisher341 a schema:publisher ;
     schema:name "des Bulles dans l'océan" .
 
-schema:342 a schema:Publisher ;
+schema:publisher342 a schema:publisher ;
     schema:name "Chêne" .
 
-schema:343 a schema:Publisher ;
+schema:publisher343 a schema:publisher ;
     schema:name "Grandvaux" .
 
-schema:344 a schema:Publisher ;
+schema:publisher344 a schema:publisher ;
     schema:name "Desinge & Hugo & Cie" .
 
-schema:345 a schema:Publisher ;
+schema:publisher345 a schema:publisher ;
     schema:name "D. Carpentier" .
 
-schema:346 a schema:Publisher ;
+schema:publisher346 a schema:publisher ;
     schema:name "Donner à voir" .
 
-schema:347 a schema:Publisher ;
+schema:publisher347 a schema:publisher ;
     schema:name "Terre de brume" .
 
-schema:348 a schema:Publisher ;
+schema:publisher348 a schema:publisher ;
     schema:name "Rue de l'échiquier" .
 
-schema:349 a schema:Publisher ;
+schema:publisher349 a schema:publisher ;
     schema:name "Marabout" .
 
-schema:35 a schema:Publisher ;
+schema:publisher35 a schema:publisher ;
     schema:name "Rue du Monde" .
 
-schema:350 a schema:Publisher ;
+schema:publisher350 a schema:publisher ;
     schema:name "Transboréal" .
 
-schema:351 a schema:Publisher ;
+schema:publisher351 a schema:publisher ;
     schema:name "Salvator" .
 
-schema:352 a schema:Publisher ;
+schema:publisher352 a schema:publisher ;
     schema:name "Utopique" .
 
-schema:353 a schema:Publisher ;
+schema:publisher353 a schema:publisher ;
     schema:name "Ed. de la Balle" .
 
-schema:354 a schema:Publisher ;
+schema:publisher354 a schema:publisher ;
     schema:name "Art Lys" .
 
-schema:355 a schema:Publisher ;
+schema:publisher355 a schema:publisher ;
     schema:name "FLBLB éditions" .
 
-schema:356 a schema:Publisher ;
+schema:publisher356 a schema:publisher ;
     schema:name "Milady" .
 
-schema:357 a schema:Publisher ;
+schema:publisher357 a schema:publisher ;
     schema:name "First Editions" .
 
-schema:358 a schema:Publisher ;
+schema:publisher358 a schema:publisher ;
     schema:name "Formulette production" .
 
-schema:359 a schema:Publisher ;
+schema:publisher359 a schema:publisher ;
     schema:name "Millefeuille" .
 
-schema:36 a schema:Publisher ;
+schema:publisher36 a schema:publisher ;
     schema:name "Grasset jeunesse" .
 
-schema:360 a schema:Publisher ;
+schema:publisher360 a schema:publisher ;
     schema:name "A. Carrière" .
 
-schema:361 a schema:Publisher ;
+schema:publisher361 a schema:publisher ;
     schema:name "Des ronds dans l'O" .
 
-schema:362 a schema:Publisher ;
+schema:publisher362 a schema:publisher ;
     schema:name "Graine 2" .
 
-schema:363 a schema:Publisher ;
+schema:publisher363 a schema:publisher ;
     schema:name "le Mémorial de Caen" .
 
-schema:364 a schema:Publisher ;
+schema:publisher364 a schema:publisher ;
     schema:name "Editions Nomades" .
 
-schema:365 a schema:Publisher ;
+schema:publisher365 a schema:publisher ;
     schema:name "Au merle moqueur" .
 
-schema:366 a schema:Publisher ;
+schema:publisher366 a schema:publisher ;
     schema:name "Talents hauts" .
 
-schema:367 a schema:Publisher ;
+schema:publisher367 a schema:publisher ;
     schema:name "Bragelonne" .
 
-schema:368 a schema:Publisher ;
+schema:publisher368 a schema:publisher ;
     schema:name "Galapagos" .
 
-schema:369 a schema:Publisher ;
+schema:publisher369 a schema:publisher ;
     schema:name "Taschen" .
 
-schema:37 a schema:Publisher ;
+schema:publisher37 a schema:publisher ;
     schema:name "Pastel" .
 
-schema:370 a schema:Publisher ;
+schema:publisher370 a schema:publisher ;
     schema:name "Grand West éditions" .
 
-schema:371 a schema:Publisher ;
+schema:publisher371 a schema:publisher ;
     schema:name "Ed. Langlaude" .
 
-schema:372 a schema:Publisher ;
+schema:publisher372 a schema:publisher ;
     schema:name "Editions Prisma" .
 
-schema:373 a schema:Publisher ;
+schema:publisher373 a schema:publisher ;
     schema:name "Tulipe noire" .
 
-schema:374 a schema:Publisher ;
+schema:publisher374 a schema:publisher ;
     schema:name "La Cheminante" .
 
-schema:375 a schema:Publisher ;
+schema:publisher375 a schema:publisher ;
     schema:name "Ed. Horizon oriental" .
 
-schema:376 a schema:Publisher ;
+schema:publisher376 a schema:publisher ;
     schema:name "Les Editions du Mandé" .
 
-schema:377 a schema:Publisher ;
+schema:publisher377 a schema:publisher ;
     schema:name "Lucky comics" .
 
-schema:378 a schema:Publisher ;
+schema:publisher378 a schema:publisher ;
     schema:name "Oslo éditions" .
 
-schema:379 a schema:Publisher ;
+schema:publisher379 a schema:publisher ;
     schema:name "Après la lune Jeunesse" .
 
-schema:38 a schema:Publisher ;
+schema:publisher38 a schema:publisher ;
     schema:name "Rouergue" .
 
-schema:380 a schema:Publisher ;
+schema:publisher380 a schema:publisher ;
     schema:name "Le Tripode" .
 
-schema:381 a schema:Publisher ;
+schema:publisher381 a schema:publisher ;
     schema:name "les Productions nid de coucou" .
 
-schema:382 a schema:Publisher ;
+schema:publisher382 a schema:publisher ;
     schema:name "Don Quichotte éditions" .
 
-schema:383 a schema:Publisher ;
+schema:publisher383 a schema:publisher ;
     schema:name "R. Laffont" .
 
-schema:384 a schema:Publisher ;
+schema:publisher384 a schema:publisher ;
     schema:name "Urban comics" .
 
-schema:385 a schema:Publisher ;
+schema:publisher385 a schema:publisher ;
     schema:name "L'Art à la page" .
 
-schema:386 a schema:Publisher ;
+schema:publisher386 a schema:publisher ;
     schema:name "Ed. IMHO" .
 
-schema:387 a schema:Publisher ;
+schema:publisher387 a schema:publisher ;
     schema:name "la Mercurie" .
 
-schema:388 a schema:Publisher ;
+schema:publisher388 a schema:publisher ;
     schema:name "les Editions Magnani" .
 
-schema:389 a schema:Publisher ;
+schema:publisher389 a schema:publisher ;
     schema:name "Coop Breizh" .
 
-schema:39 a schema:Publisher ;
+schema:publisher39 a schema:publisher ;
     schema:name "Sarbacane" .
 
-schema:390 a schema:Publisher ;
+schema:publisher390 a schema:publisher ;
     schema:name "Joie de lire" .
 
-schema:391 a schema:Publisher ;
+schema:publisher391 a schema:publisher ;
     schema:name "Nobi Nobi" .
 
-schema:392 a schema:Publisher ;
+schema:publisher392 a schema:publisher ;
     schema:name "L'Association" .
 
-schema:393 a schema:Publisher ;
+schema:publisher393 a schema:publisher ;
     schema:name "le Verger des Hespérides" .
 
-schema:394 a schema:Publisher ;
+schema:publisher394 a schema:publisher ;
     schema:name "Scrineo" .
 
-schema:395 a schema:Publisher ;
+schema:publisher395 a schema:publisher ;
     schema:name "Château de Versailles" .
 
-schema:396 a schema:Publisher ;
+schema:publisher396 a schema:publisher ;
     schema:name "Temps des cerises" .
 
-schema:397 a schema:Publisher ;
+schema:publisher397 a schema:publisher ;
     schema:name "Nouvel angle" .
 
-schema:398 a schema:Publisher ;
+schema:publisher398 a schema:publisher ;
     schema:name "Deux coqs d'or" .
 
-schema:399 a schema:Publisher ;
+schema:publisher399 a schema:publisher ;
     schema:name "Musée du Quai Branly-Jacques Chirac" .
 
-schema:4 a schema:Publisher ;
+schema:publisher4 a schema:publisher ;
     schema:name "Autrement" .
 
-schema:40 a schema:Publisher ;
+schema:publisher40 a schema:publisher ;
     schema:name "Glénat" .
 
-schema:400 a schema:Publisher ;
+schema:publisher400 a schema:publisher ;
     schema:name "Monde global éditions nouvelles" .
 
-schema:401 a schema:Publisher ;
+schema:publisher401 a schema:publisher ;
     schema:name "Dagan" .
 
-schema:402 a schema:Publisher ;
+schema:publisher402 a schema:publisher ;
     schema:name "Tana" .
 
-schema:403 a schema:Publisher ;
+schema:publisher403 a schema:publisher ;
     schema:name "Editions du CERCIL" .
 
-schema:404 a schema:Publisher ;
+schema:publisher404 a schema:publisher ;
     schema:name "Editions Bulles de savon" .
 
-schema:405 a schema:Publisher ;
+schema:publisher405 a schema:publisher ;
     schema:name "Cambourakis" .
 
-schema:406 a schema:Publisher ;
+schema:publisher406 a schema:publisher ;
     schema:name "Racine" .
 
-schema:407 a schema:Publisher ;
+schema:publisher407 a schema:publisher ;
     schema:name "Métailié" .
 
-schema:408 a schema:Publisher ;
+schema:publisher408 a schema:publisher ;
     schema:name "Musée Rodin" .
 
-schema:409 a schema:Publisher ;
+schema:publisher409 a schema:publisher ;
     schema:name "Fleuve noir" .
 
-schema:41 a schema:Publisher ;
+schema:publisher41 a schema:publisher ;
     schema:name "Nathan Jeunesse" .
 
-schema:410 a schema:Publisher ;
+schema:publisher410 a schema:publisher ;
     schema:name "La Martinière" .
 
-schema:411 a schema:Publisher ;
+schema:publisher411 a schema:publisher ;
     schema:name "Artège" .
 
-schema:412 a schema:Publisher ;
+schema:publisher412 a schema:publisher ;
     schema:name "La Grande ourse" .
 
-schema:413 a schema:Publisher ;
+schema:publisher413 a schema:publisher ;
     schema:name "CNED" .
 
-schema:414 a schema:Publisher ;
+schema:publisher414 a schema:publisher ;
     schema:name "Orbestier" .
 
-schema:415 a schema:Publisher ;
+schema:publisher415 a schema:publisher ;
     schema:name "Ed. De Borée" .
 
-schema:416 a schema:Publisher ;
+schema:publisher416 a schema:publisher ;
     schema:name "les Petits Platons" .
 
-schema:417 a schema:Publisher ;
+schema:publisher417 a schema:publisher ;
     schema:name "Association des amis du Père Castor" .
 
-schema:418 a schema:Publisher ;
+schema:publisher418 a schema:publisher ;
     schema:name "Banco" .
 
-schema:419 a schema:Publisher ;
+schema:publisher419 a schema:publisher ;
     schema:name "la Différence" .
 
-schema:42 a schema:Publisher ;
+schema:publisher42 a schema:publisher ;
     schema:name "Seuil" .
 
-schema:420 a schema:Publisher ;
+schema:publisher420 a schema:publisher ;
     schema:name "Éditions Goélette" .
 
-schema:421 a schema:Publisher ;
+schema:publisher421 a schema:publisher ;
     schema:name "Ed. de la Gouttière" .
 
-schema:422 a schema:Publisher ;
+schema:publisher422 a schema:publisher ;
     schema:name "Arola" .
 
-schema:423 a schema:Publisher ;
+schema:publisher423 a schema:publisher ;
     schema:name "Tertium" .
 
-schema:424 a schema:Publisher ;
+schema:publisher424 a schema:publisher ;
     schema:name "la Croisée des chemins" .
 
-schema:425 a schema:Publisher ;
+schema:publisher425 a schema:publisher ;
     schema:name "Yomad" .
 
-schema:426 a schema:Publisher ;
+schema:publisher426 a schema:publisher ;
     schema:name "Marsam" .
 
-schema:427 a schema:Publisher ;
+schema:publisher427 a schema:publisher ;
     schema:name "Ruisseaux d'Afrique" .
 
-schema:428 a schema:Publisher ;
+schema:publisher428 a schema:publisher ;
     schema:name "NDZE" .
 
-schema:429 a schema:Publisher ;
+schema:publisher429 a schema:publisher ;
     schema:name "Ed. Tropiques" .
 
-schema:43 a schema:Publisher ;
+schema:publisher43 a schema:publisher ;
     schema:name "Père Castor-Flammarion" .
 
-schema:430 a schema:Publisher ;
+schema:publisher430 a schema:publisher ;
     schema:name "Akoma Mba" .
 
-schema:431 a schema:Publisher ;
+schema:publisher431 a schema:publisher ;
     schema:name "Vilo" .
 
-schema:432 a schema:Publisher ;
+schema:publisher432 a schema:publisher ;
     schema:name "Bibliothèque lecture développement" .
 
-schema:433 a schema:Publisher ;
+schema:publisher433 a schema:publisher ;
     schema:name "Éditions Hurtubise inc." .
 
-schema:434 a schema:Publisher ;
+schema:publisher434 a schema:publisher ;
     schema:name "Faribole" .
 
-schema:435 a schema:Publisher ;
+schema:publisher435 a schema:publisher ;
     schema:name "Alice jeunesse" .
 
-schema:436 a schema:Publisher ;
+schema:publisher436 a schema:publisher ;
     schema:name "Radio-France" .
 
-schema:437 a schema:Publisher ;
+schema:publisher437 a schema:publisher ;
     schema:name "Télémaque" .
 
-schema:438 a schema:Publisher ;
+schema:publisher438 a schema:publisher ;
     schema:name "Bachari" .
 
-schema:439 a schema:Publisher ;
+schema:publisher439 a schema:publisher ;
     schema:name "Eburnie" .
 
-schema:44 a schema:Publisher ;
+schema:publisher44 a schema:publisher ;
     schema:name "Seuil Jeunesse" .
 
-schema:440 a schema:Publisher ;
+schema:publisher440 a schema:publisher ;
     schema:name "La Montagne secrète" .
 
-schema:441 a schema:Publisher ;
+schema:publisher441 a schema:publisher ;
     schema:name "Ed. de la Renarde rouge" .
 
-schema:442 a schema:Publisher ;
+schema:publisher442 a schema:publisher ;
     schema:name "Livre Sud" .
 
-schema:443 a schema:Publisher ;
+schema:publisher443 a schema:publisher ;
     schema:name "Delagrave" .
 
-schema:444 a schema:Publisher ;
+schema:publisher444 a schema:publisher ;
     schema:name "UNICEF" .
 
-schema:445 a schema:Publisher ;
+schema:publisher445 a schema:publisher ;
     schema:name "Graines de pensées" .
 
-schema:446 a schema:Publisher ;
+schema:publisher446 a schema:publisher ;
     schema:name "Usborne" .
 
-schema:447 a schema:Publisher ;
+schema:publisher447 a schema:publisher ;
     schema:name "La Pastèque" .
 
-schema:448 a schema:Publisher ;
+schema:publisher448 a schema:publisher ;
     schema:name "S. Diantantu" .
 
-schema:449 a schema:Publisher ;
+schema:publisher449 a schema:publisher ;
     schema:name "Ed. Vizavi" .
 
-schema:45 a schema:Publisher ;
+schema:publisher45 a schema:publisher ;
     schema:name "Milan jeunesse" .
 
-schema:450 a schema:Publisher ;
+schema:publisher450 a schema:publisher ;
     schema:name "Atelier de bibliophilie populaire éditions" .
 
-schema:451 a schema:Publisher ;
+schema:publisher451 a schema:publisher ;
     schema:name "Samir" .
 
-schema:452 a schema:Publisher ;
+schema:publisher452 a schema:publisher ;
     schema:name "Editions Notari" .
 
-schema:453 a schema:Publisher ;
+schema:publisher453 a schema:publisher ;
     schema:name "Marsu productions" .
 
-schema:454 a schema:Publisher ;
+schema:publisher454 a schema:publisher ;
     schema:name "Aniss éd." .
 
-schema:455 a schema:Publisher ;
+schema:publisher455 a schema:publisher ;
     schema:name "les Classiques ivoiriens" .
 
-schema:456 a schema:Publisher ;
+schema:publisher456 a schema:publisher ;
     schema:name "Soulières éditeur" .
 
-schema:457 a schema:Publisher ;
+schema:publisher457 a schema:publisher ;
     schema:name "Murmure des soirs" .
 
-schema:458 a schema:Publisher ;
+schema:publisher458 a schema:publisher ;
     schema:name "Éditions Glénat Québec" .
 
-schema:459 a schema:Publisher ;
+schema:publisher459 a schema:publisher ;
     schema:name "Editions Le Sablier" .
 
-schema:46 a schema:Publisher ;
+schema:publisher46 a schema:publisher ;
     schema:name "Arche éditeur" .
 
-schema:460 a schema:Publisher ;
+schema:publisher460 a schema:publisher ;
     schema:name "Le Sablier jeunesse" .
 
-schema:461 a schema:Publisher ;
+schema:publisher461 a schema:publisher ;
     schema:name "Beluga" .
 
-schema:462 a schema:Publisher ;
+schema:publisher462 a schema:publisher ;
     schema:name "Paquet" .
 
-schema:463 a schema:Publisher ;
+schema:publisher463 a schema:publisher ;
     schema:name "Caraïbéditions" .
 
-schema:464 a schema:Publisher ;
+schema:publisher464 a schema:publisher ;
     schema:name "Alice" .
 
-schema:465 a schema:Publisher ;
+schema:publisher465 a schema:publisher ;
     schema:name "Secrets des toiles" .
 
-schema:466 a schema:Publisher ;
+schema:publisher466 a schema:publisher ;
     schema:name "Corentin" .
 
-schema:467 a schema:Publisher ;
+schema:publisher467 a schema:publisher ;
     schema:name "Mad fabrik" .
 
-schema:468 a schema:Publisher ;
+schema:publisher468 a schema:publisher ;
     schema:name "Éditions Marchand de feuilles" .
 
-schema:469 a schema:Publisher ;
+schema:publisher469 a schema:publisher ;
     schema:name "Éditions Scholastic" .
 
-schema:47 a schema:Publisher ;
+schema:publisher47 a schema:publisher ;
     schema:name "Rocher jeunesse" .
 
-schema:470 a schema:Publisher ;
+schema:publisher470 a schema:publisher ;
     schema:name "Leméac éditeur" .
 
-schema:471 a schema:Publisher ;
+schema:publisher471 a schema:publisher ;
     schema:name "Éditions du Boréal" .
 
-schema:472 a schema:Publisher ;
+schema:publisher472 a schema:publisher ;
     schema:name "Éditions Pierre Tisseyre" .
 
-schema:473 a schema:Publisher ;
+schema:publisher473 a schema:publisher ;
     schema:name "Éditions Les intouchables" .
 
-schema:474 a schema:Publisher ;
+schema:publisher474 a schema:publisher ;
     schema:name "Éditions Québec Amérique" .
 
-schema:475 a schema:Publisher ;
+schema:publisher475 a schema:publisher ;
     schema:name "Éditions FouLire" .
 
-schema:476 a schema:Publisher ;
+schema:publisher476 a schema:publisher ;
     schema:name "Éditions L'Interligne" .
 
-schema:477 a schema:Publisher ;
+schema:publisher477 a schema:publisher ;
     schema:name "Les éditions du soleil de minuit" .
 
-schema:478 a schema:Publisher ;
+schema:publisher478 a schema:publisher ;
     schema:name "Institut international de la marionnette" .
 
-schema:479 a schema:Publisher ;
+schema:publisher479 a schema:publisher ;
     schema:name "l'Entretemps" .
 
-schema:48 a schema:Publisher ;
+schema:publisher48 a schema:publisher ;
     schema:name "Circonflexe" .
 
-schema:480 a schema:Publisher ;
+schema:publisher480 a schema:publisher ;
     schema:name "Nobrow" .
 
-schema:481 a schema:Publisher ;
+schema:publisher481 a schema:publisher ;
     schema:name "Bakame" .
 
-schema:482 a schema:Publisher ;
+schema:publisher482 a schema:publisher ;
     schema:name "Sous la lime" .
 
-schema:483 a schema:Publisher ;
+schema:publisher483 a schema:publisher ;
     schema:name "Les heures bleues" .
 
-schema:484 a schema:Publisher ;
+schema:publisher484 a schema:publisher ;
     schema:name "Frémok" .
 
-schema:485 a schema:Publisher ;
+schema:publisher485 a schema:publisher ;
     schema:name "Bang Editions" .
 
-schema:486 a schema:Publisher ;
+schema:publisher486 a schema:publisher ;
     schema:name "Nane Editions" .
 
-schema:487 a schema:Publisher ;
+schema:publisher487 a schema:publisher ;
     schema:name "Terra incognita" .
 
-schema:488 a schema:Publisher ;
+schema:publisher488 a schema:publisher ;
     schema:name "Isan Manga" .
 
-schema:489 a schema:Publisher ;
+schema:publisher489 a schema:publisher ;
     schema:name "Diabolo Editions" .
 
-schema:49 a schema:Publisher ;
+schema:publisher49 a schema:publisher ;
     schema:name "Chandeigne" .
 
-schema:490 a schema:Publisher ;
+schema:publisher490 a schema:publisher ;
     schema:name "Radio classique" .
 
-schema:491 a schema:Publisher ;
+schema:publisher491 a schema:publisher ;
     schema:name "Atrabile" .
 
-schema:492 a schema:Publisher ;
+schema:publisher492 a schema:publisher ;
     schema:name "La Maison du son" .
 
-schema:493 a schema:Publisher ;
+schema:publisher493 a schema:publisher ;
     schema:name "Graton" .
 
-schema:494 a schema:Publisher ;
+schema:publisher494 a schema:publisher ;
     schema:name "Kennes Editions" .
 
-schema:495 a schema:Publisher ;
+schema:publisher495 a schema:publisher ;
     schema:name "Les Arènes" .
 
-schema:496 a schema:Publisher ;
+schema:publisher496 a schema:publisher ;
     schema:name "Bayard Canada Livres" .
 
-schema:497 a schema:Publisher ;
+schema:publisher497 a schema:publisher ;
     schema:name "Éditions de l'Isatis" .
 
-schema:498 a schema:Publisher ;
+schema:publisher498 a schema:publisher ;
     schema:name "Lettr'ange" .
 
-schema:499 a schema:Publisher ;
+schema:publisher499 a schema:publisher ;
     schema:name "Afrique-Orient" .
 
-schema:5 a schema:Publisher ;
+schema:publisher5 a schema:publisher ;
     schema:name "Flammarion" .
 
-schema:50 a schema:Publisher ;
+schema:publisher50 a schema:publisher ;
     schema:name "Actes Sud" .
 
-schema:500 a schema:Publisher ;
+schema:publisher500 a schema:publisher ;
     schema:name "Editions les Fourmis rouges" .
 
-schema:501 a schema:Publisher ;
+schema:publisher501 a schema:publisher ;
     schema:name "Cauris livres" .
 
-schema:502 a schema:Publisher ;
+schema:publisher502 a schema:publisher ;
     schema:name "Ganndal" .
 
-schema:503 a schema:Publisher ;
+schema:publisher503 a schema:publisher ;
     schema:name "Parc de la Villette" .
 
-schema:504 a schema:Publisher ;
+schema:publisher504 a schema:publisher ;
     schema:name "Agrume" .
 
-schema:505 a schema:Publisher ;
+schema:publisher505 a schema:publisher ;
     schema:name "M. Lagarde" .
 
-schema:506 a schema:Publisher ;
+schema:publisher506 a schema:publisher ;
     schema:name "Sakka" .
 
-schema:507 a schema:Publisher ;
+schema:publisher507 a schema:publisher ;
     schema:name "Maison Georges" .
 
-schema:508 a schema:Publisher ;
+schema:publisher508 a schema:publisher ;
     schema:name "L'ampoule" .
 
-schema:509 a schema:Publisher ;
+schema:publisher509 a schema:publisher ;
     schema:name "IRFAN, le Label" .
 
-schema:51 a schema:Publisher ;
+schema:publisher51 a schema:publisher ;
     schema:name "Flies France" .
 
-schema:510 a schema:Publisher ;
+schema:publisher510 a schema:publisher ;
     schema:name "Théâtre du Pélican" .
 
-schema:511 a schema:Publisher ;
+schema:publisher511 a schema:publisher ;
     schema:name "l'Initiale" .
 
-schema:512 a schema:Publisher ;
+schema:publisher512 a schema:publisher ;
     schema:name "Canopé-CRDP de l'académie de Reims" .
 
-schema:513 a schema:Publisher ;
+schema:publisher513 a schema:publisher ;
     schema:name "Souffles" .
 
-schema:514 a schema:Publisher ;
+schema:publisher514 a schema:publisher ;
     schema:name "Dunod" .
 
-schema:515 a schema:Publisher ;
+schema:publisher515 a schema:publisher ;
     schema:name "Winioux" .
 
-schema:516 a schema:Publisher ;
+schema:publisher516 a schema:publisher ;
     schema:name "le Muscadier" .
 
-schema:517 a schema:Publisher ;
+schema:publisher517 a schema:publisher ;
     schema:name "Fetjaine" .
 
-schema:518 a schema:Publisher ;
+schema:publisher518 a schema:publisher ;
     schema:name "J'ai lu" .
 
-schema:519 a schema:Publisher ;
+schema:publisher519 a schema:publisher ;
     schema:name "Petites moustaches éditions (Les)" .
 
-schema:52 a schema:Publisher ;
+schema:publisher52 a schema:publisher ;
     schema:name "Pocket jeunesse" .
 
-schema:520 a schema:Publisher ;
+schema:publisher520 a schema:publisher ;
     schema:name "Al Manar" .
 
-schema:521 a schema:Publisher ;
+schema:publisher521 a schema:publisher ;
     schema:name "Alain Gorius" .
 
-schema:522 a schema:Publisher ;
+schema:publisher522 a schema:publisher ;
     schema:name "Rue de Sèvres" .
 
-schema:523 a schema:Publisher ;
+schema:publisher523 a schema:publisher ;
     schema:name "Play Bac" .
 
-schema:524 a schema:Publisher ;
+schema:publisher524 a schema:publisher ;
     schema:name "Daniel Maghen" .
 
-schema:525 a schema:Publisher ;
+schema:publisher525 a schema:publisher ;
     schema:name "Locus solus junior" .
 
-schema:526 a schema:Publisher ;
+schema:publisher526 a schema:publisher ;
     schema:name "Actes Sud-L'An 2" .
 
-schema:527 a schema:Publisher ;
+schema:publisher527 a schema:publisher ;
     schema:name "Hugo BD" .
 
-schema:528 a schema:Publisher ;
+schema:publisher528 a schema:publisher ;
     schema:name "Elytis éditions" .
 
-schema:529 a schema:Publisher ;
+schema:publisher529 a schema:publisher ;
     schema:name "Misma" .
 
-schema:53 a schema:Publisher ;
+schema:publisher53 a schema:publisher ;
     schema:name "l'Idée bleue" .
 
-schema:530 a schema:Publisher ;
+schema:publisher530 a schema:publisher ;
     schema:name "Editions du Livre" .
 
-schema:531 a schema:Publisher ;
+schema:publisher531 a schema:publisher ;
     schema:name "Jaguar" .
 
-schema:532 a schema:Publisher ;
+schema:publisher532 a schema:publisher ;
     schema:name "Square éditeur" .
 
-schema:533 a schema:Publisher ;
+schema:publisher533 a schema:publisher ;
     schema:name "Delpire" .
 
-schema:534 a schema:Publisher ;
+schema:publisher534 a schema:publisher ;
     schema:name "Bibliothèque nationale de France" .
 
-schema:535 a schema:Publisher ;
+schema:publisher535 a schema:publisher ;
     schema:name "Amaterra" .
 
-schema:536 a schema:Publisher ;
+schema:publisher536 a schema:publisher ;
     schema:name "le Griffon bleu" .
 
-schema:537 a schema:Publisher ;
+schema:publisher537 a schema:publisher ;
     schema:name "Musée d'Orsay" .
 
-schema:538 a schema:Publisher ;
+schema:publisher538 a schema:publisher ;
     schema:name "Palais de la découverte" .
 
-schema:539 a schema:Publisher ;
+schema:publisher539 a schema:publisher ;
     schema:name "Kilowatt" .
 
-schema:54 a schema:Publisher ;
+schema:publisher54 a schema:publisher ;
     schema:name "P'tit Glénat" .
 
-schema:540 a schema:Publisher ;
+schema:publisher540 a schema:publisher ;
     schema:name "Moka éditions" .
 
-schema:541 a schema:Publisher ;
+schema:publisher541 a schema:publisher ;
     schema:name "la Maison est en carton" .
 
-schema:542 a schema:Publisher ;
+schema:publisher542 a schema:publisher ;
     schema:name "MilleFleurs" .
 
-schema:543 a schema:Publisher ;
+schema:publisher543 a schema:publisher ;
     schema:name "Scutella" .
 
-schema:544 a schema:Publisher ;
+schema:publisher544 a schema:publisher ;
     schema:name "Orbit" .
 
-schema:545 a schema:Publisher ;
+schema:publisher545 a schema:publisher ;
     schema:name "Cépages" .
 
-schema:546 a schema:Publisher ;
+schema:publisher546 a schema:publisher ;
     schema:name "Orso.Editions" .
 
-schema:547 a schema:Publisher ;
+schema:publisher547 a schema:publisher ;
     schema:name "Cèdre Lune" .
 
-schema:548 a schema:Publisher ;
+schema:publisher548 a schema:publisher ;
     schema:name "Gaïa" .
 
-schema:549 a schema:Publisher ;
+schema:publisher549 a schema:publisher ;
     schema:name "Lumen" .
 
-schema:55 a schema:Publisher ;
+schema:publisher55 a schema:publisher ;
     schema:name "le Pommier" .
 
-schema:550 a schema:Publisher ;
+schema:publisher550 a schema:publisher ;
     schema:name "Paris-Musées" .
 
-schema:551 a schema:Publisher ;
+schema:publisher551 a schema:publisher ;
     schema:name "Lior éditions" .
 
-schema:552 a schema:Publisher ;
+schema:publisher552 a schema:publisher ;
     schema:name "Ed. de l'INRAP" .
 
-schema:553 a schema:Publisher ;
+schema:publisher553 a schema:publisher ;
     schema:name "Papiers coupés" .
 
-schema:554 a schema:Publisher ;
+schema:publisher554 a schema:publisher ;
     schema:name "Dargaud-Jeunesse" .
 
-schema:555 a schema:Publisher ;
+schema:publisher555 a schema:publisher ;
     schema:name "Eclat" .
 
-schema:556 a schema:Publisher ;
+schema:publisher556 a schema:publisher ;
     schema:name "Seghers" .
 
-schema:557 a schema:Publisher ;
+schema:publisher557 a schema:publisher ;
     schema:name "Eyrolles" .
 
-schema:558 a schema:Publisher ;
+schema:publisher558 a schema:publisher ;
     schema:name "A pas de loups" .
 
-schema:559 a schema:Publisher ;
+schema:publisher559 a schema:publisher ;
     schema:name "Elkar" .
 
-schema:56 a schema:Publisher ;
+schema:publisher56 a schema:publisher ;
     schema:name "Naïve" .
 
-schema:560 a schema:Publisher ;
+schema:publisher560 a schema:publisher ;
     schema:name "Soc et foc" .
 
-schema:561 a schema:Publisher ;
+schema:publisher561 a schema:publisher ;
     schema:name "Philomèle" .
 
-schema:562 a schema:Publisher ;
+schema:publisher562 a schema:publisher ;
     schema:name "Fondation Louis Vuitton" .
 
-schema:563 a schema:Publisher ;
+schema:publisher563 a schema:publisher ;
     schema:name "les Solitaires intempestifs" .
 
-schema:564 a schema:Publisher ;
+schema:publisher564 a schema:publisher ;
     schema:name "Piqpoq" .
 
-schema:565 a schema:Publisher ;
+schema:publisher565 a schema:publisher ;
     schema:name "Hildegarde" .
 
-schema:566 a schema:Publisher ;
+schema:publisher566 a schema:publisher ;
     schema:name "Edition Bernest" .
 
-schema:567 a schema:Publisher ;
+schema:publisher567 a schema:publisher ;
     schema:name "Dare-Dare" .
 
-schema:568 a schema:Publisher ;
+schema:publisher568 a schema:publisher ;
     schema:name "Editions Akata" .
 
-schema:569 a schema:Publisher ;
+schema:publisher569 a schema:publisher ;
     schema:name "Alberti" .
 
-schema:57 a schema:Publisher ;
+schema:publisher57 a schema:publisher ;
     schema:name "Clair de lune" .
 
-schema:570 a schema:Publisher ;
+schema:publisher570 a schema:publisher ;
     schema:name "Black Box" .
 
-schema:571 a schema:Publisher ;
+schema:publisher571 a schema:publisher ;
     schema:name "Fabert" .
 
-schema:572 a schema:Publisher ;
+schema:publisher572 a schema:publisher ;
     schema:name "Pocket" .
 
-schema:573 a schema:Publisher ;
+schema:publisher573 a schema:publisher ;
     schema:name "Jungle" .
 
-schema:574 a schema:Publisher ;
+schema:publisher574 a schema:publisher ;
     schema:name "Textuel" .
 
-schema:575 a schema:Publisher ;
+schema:publisher575 a schema:publisher ;
     schema:name "Centre de créations pour l'enfance" .
 
-schema:576 a schema:Publisher ;
+schema:publisher576 a schema:publisher ;
     schema:name "Palissade" .
 
-schema:577 a schema:Publisher ;
+schema:publisher577 a schema:publisher ;
     schema:name "Phébus" .
 
-schema:578 a schema:Publisher ;
+schema:publisher578 a schema:publisher ;
     schema:name "Warum" .
 
-schema:579 a schema:Publisher ;
+schema:publisher579 a schema:publisher ;
     schema:name "Musée du château des ducs de Wurtemberg" .
 
-schema:58 a schema:Publisher ;
+schema:publisher58 a schema:publisher ;
     schema:name "Kaléidoscope" .
 
-schema:580 a schema:Publisher ;
+schema:publisher580 a schema:publisher ;
     schema:name "France-Inter" .
 
-schema:581 a schema:Publisher ;
+schema:publisher581 a schema:publisher ;
     schema:name "EP Editions" .
 
-schema:582 a schema:Publisher ;
+schema:publisher582 a schema:publisher ;
     schema:name "Komikku" .
 
-schema:583 a schema:Publisher ;
+schema:publisher583 a schema:publisher ;
     schema:name "LittleVillage" .
 
-schema:584 a schema:Publisher ;
+schema:publisher584 a schema:publisher ;
     schema:name "Urban China" .
 
-schema:585 a schema:Publisher ;
+schema:publisher585 a schema:publisher ;
     schema:name "Editions des éléphants" .
 
-schema:586 a schema:Publisher ;
+schema:publisher586 a schema:publisher ;
     schema:name "A vol d'oiseaux éditions" .
 
-schema:587 a schema:Publisher ;
+schema:publisher587 a schema:publisher ;
     schema:name "LaCaZa musique" .
 
-schema:588 a schema:Publisher ;
+schema:publisher588 a schema:publisher ;
     schema:name "Note de partage" .
 
-schema:589 a schema:Publisher ;
+schema:publisher589 a schema:publisher ;
     schema:name "Hachette romans" .
 
-schema:59 a schema:Publisher ;
+schema:publisher59 a schema:publisher ;
     schema:name "Hachette Jeunesse" .
 
-schema:590 a schema:Publisher ;
+schema:publisher590 a schema:publisher ;
     schema:name "Nouv. éd. latines" .
 
-schema:591 a schema:Publisher ;
+schema:publisher591 a schema:publisher ;
     schema:name "Éditions Les Malins" .
 
-schema:592 a schema:Publisher ;
+schema:publisher592 a schema:publisher ;
     schema:name "Niffle" .
 
-schema:593 a schema:Publisher ;
+schema:publisher593 a schema:publisher ;
     schema:name "Flammarion-Jeunesse" .
 
-schema:594 a schema:Publisher ;
+schema:publisher594 a schema:publisher ;
     schema:name "Paari" .
 
-schema:595 a schema:Publisher ;
+schema:publisher595 a schema:publisher ;
     schema:name "Renaissance nubienne éditions" .
 
-schema:596 a schema:Publisher ;
+schema:publisher596 a schema:publisher ;
     schema:name "Exbrayat" .
 
-schema:597 a schema:Publisher ;
+schema:publisher597 a schema:publisher ;
     schema:name "Warin" .
 
-schema:598 a schema:Publisher ;
+schema:publisher598 a schema:publisher ;
     schema:name "Ofelbe" .
 
-schema:599 a schema:Publisher ;
+schema:publisher599 a schema:publisher ;
     schema:name "Comme des géants" .
 
-schema:6 a schema:Publisher ;
+schema:publisher6 a schema:publisher ;
     schema:name "Autrement Jeunesse" .
 
-schema:60 a schema:Publisher ;
+schema:publisher60 a schema:publisher ;
     schema:name "Cornélius" .
 
-schema:600 a schema:Publisher ;
+schema:publisher600 a schema:publisher ;
     schema:name "Auzou" .
 
-schema:601 a schema:Publisher ;
+schema:publisher601 a schema:publisher ;
     schema:name "Ker éditions" .
 
-schema:602 a schema:Publisher ;
+schema:publisher602 a schema:publisher ;
     schema:name "Voce Verso" .
 
-schema:603 a schema:Publisher ;
+schema:publisher603 a schema:publisher ;
     schema:name "la Ville brûle" .
 
-schema:604 a schema:Publisher ;
+schema:publisher604 a schema:publisher ;
     schema:name "Eyrolles jeunesse" .
 
-schema:605 a schema:Publisher ;
+schema:publisher605 a schema:publisher ;
     schema:name "Issekinicho" .
 
-schema:606 a schema:Publisher ;
+schema:publisher606 a schema:publisher ;
     schema:name "Editions du Pourquoi pas" .
 
-schema:607 a schema:Publisher ;
+schema:publisher607 a schema:publisher ;
     schema:name "Alifbata" .
 
-schema:608 a schema:Publisher ;
+schema:publisher608 a schema:publisher ;
     schema:name "Doucey éditions" .
 
-schema:609 a schema:Publisher ;
+schema:publisher609 a schema:publisher ;
     schema:name "le Lézard noir" .
 
-schema:61 a schema:Publisher ;
+schema:publisher61 a schema:publisher ;
     schema:name "Le Livre de poche jeunesse" .
 
-schema:610 a schema:Publisher ;
+schema:publisher610 a schema:publisher ;
     schema:name "Vraoum !" .
 
-schema:611 a schema:Publisher ;
+schema:publisher611 a schema:publisher ;
     schema:name "Harmattan Guinée" .
 
-schema:612 a schema:Publisher ;
+schema:publisher612 a schema:publisher ;
     schema:name "Icinori" .
 
-schema:613 a schema:Publisher ;
+schema:publisher613 a schema:publisher ;
     schema:name "Little Urban" .
 
-schema:614 a schema:Publisher ;
+schema:publisher614 a schema:publisher ;
     schema:name "Zebulo éditions" .
 
-schema:615 a schema:Publisher ;
+schema:publisher615 a schema:publisher ;
     schema:name "Cimade" .
 
-schema:616 a schema:Publisher ;
+schema:publisher616 a schema:publisher ;
     schema:name "Michel Lafon Poche" .
 
-schema:617 a schema:Publisher ;
+schema:publisher617 a schema:publisher ;
     schema:name "Cipango" .
 
-schema:618 a schema:Publisher ;
+schema:publisher618 a schema:publisher ;
     schema:name "Allary éditions" .
 
-schema:619 a schema:Publisher ;
+schema:publisher619 a schema:publisher ;
     schema:name "Zethel" .
 
-schema:62 a schema:Publisher ;
+schema:publisher62 a schema:publisher ;
     schema:name "Gründ" .
 
-schema:620 a schema:Publisher ;
+schema:publisher620 a schema:publisher ;
     schema:name "Steinkis éditions" .
 
-schema:621 a schema:Publisher ;
+schema:publisher621 a schema:publisher ;
     schema:name "Ed. de l'Amandier" .
 
-schema:622 a schema:Publisher ;
+schema:publisher622 a schema:publisher ;
     schema:name "Glénat Jeunesse" .
 
-schema:623 a schema:Publisher ;
+schema:publisher623 a schema:publisher ;
     schema:name "Fayard" .
 
-schema:624 a schema:Publisher ;
+schema:publisher624 a schema:publisher ;
     schema:name "Éditions La Presse" .
 
-schema:625 a schema:Publisher ;
+schema:publisher625 a schema:publisher ;
     schema:name "Privat SAS" .
 
-schema:626 a schema:Publisher ;
+schema:publisher626 a schema:publisher ;
     schema:name "Cité de l'architecture et du patrimoine" .
 
-schema:627 a schema:Publisher ;
+schema:publisher627 a schema:publisher ;
     schema:name "Editions Père Fouettard" .
 
-schema:628 a schema:Publisher ;
+schema:publisher628 a schema:publisher ;
     schema:name "Kramiek" .
 
-schema:629 a schema:Publisher ;
+schema:publisher629 a schema:publisher ;
     schema:name "Arabesques" .
 
-schema:63 a schema:Publisher ;
+schema:publisher63 a schema:publisher ;
     schema:name "Michalon Jeunesse" .
 
-schema:630 a schema:Publisher ;
+schema:publisher630 a schema:publisher ;
     schema:name "Fluide glacial" .
 
-schema:631 a schema:Publisher ;
+schema:publisher631 a schema:publisher ;
     schema:name "Éditions JFD" .
 
-schema:632 a schema:Publisher ;
+schema:publisher632 a schema:publisher ;
     schema:name "Le Quartanier" .
 
-schema:633 a schema:Publisher ;
+schema:publisher633 a schema:publisher ;
     schema:name "Éditions la Morue verte" .
 
-schema:634 a schema:Publisher ;
+schema:publisher634 a schema:publisher ;
     schema:name "Wa'wa Editions" .
 
-schema:635 a schema:Publisher ;
+schema:publisher635 a schema:publisher ;
     schema:name "L'Harmattan Sénégal" .
 
-schema:636 a schema:Publisher ;
+schema:publisher636 a schema:publisher ;
     schema:name "Marcel & Joachim" .
 
-schema:637 a schema:Publisher ;
+schema:publisher637 a schema:publisher ;
     schema:name "Médiaspaul" .
 
-schema:638 a schema:Publisher ;
+schema:publisher638 a schema:publisher ;
     schema:name "Grafiteen" .
 
-schema:639 a schema:Publisher ;
+schema:publisher639 a schema:publisher ;
     schema:name "l'Echelle de Jacob" .
 
-schema:64 a schema:Publisher ;
+schema:publisher64 a schema:publisher ;
     schema:name "Kana" .
 
-schema:640 a schema:Publisher ;
+schema:publisher640 a schema:publisher ;
     schema:name "Imav éditions" .
 
-schema:641 a schema:Publisher ;
+schema:publisher641 a schema:publisher ;
     schema:name "Ducasse Editions" .
 
-schema:642 a schema:Publisher ;
+schema:publisher642 a schema:publisher ;
     schema:name "Conférence" .
 
-schema:643 a schema:Publisher ;
+schema:publisher643 a schema:publisher ;
     schema:name "Monsieur Toussaint Louverture" .
 
-schema:644 a schema:Publisher ;
+schema:publisher644 a schema:publisher ;
     schema:name "Ed. de la Cerise" .
 
-schema:645 a schema:Publisher ;
+schema:publisher645 a schema:publisher ;
     schema:name "Editions 404" .
 
-schema:646 a schema:Publisher ;
+schema:publisher646 a schema:publisher ;
     schema:name "Chocolat ! jeunesse" .
 
-schema:647 a schema:Publisher ;
+schema:publisher647 a schema:publisher ;
     schema:name "LamaO éditions" .
 
-schema:648 a schema:Publisher ;
+schema:publisher648 a schema:publisher ;
     schema:name "Biscoto" .
 
-schema:649 a schema:Publisher ;
+schema:publisher649 a schema:publisher ;
     schema:name "A2Mimo" .
 
-schema:65 a schema:Publisher ;
+schema:publisher65 a schema:publisher ;
     schema:name "Carabas" .
 
-schema:650 a schema:Publisher ;
+schema:publisher650 a schema:publisher ;
     schema:name "Hazan" .
 
-schema:651 a schema:Publisher ;
+schema:publisher651 a schema:publisher ;
     schema:name "Eidola éditions" .
 
-schema:652 a schema:Publisher ;
+schema:publisher652 a schema:publisher ;
     schema:name "Borealia" .
 
-schema:653 a schema:Publisher ;
+schema:publisher653 a schema:publisher ;
     schema:name "Marmaille et compagnie" .
 
-schema:654 a schema:Publisher ;
+schema:publisher654 a schema:publisher ;
     schema:name "Moulinsart" .
 
-schema:655 a schema:Publisher ;
+schema:publisher655 a schema:publisher ;
     schema:name "Comme une orange" .
 
-schema:656 a schema:Publisher ;
+schema:publisher656 a schema:publisher ;
     schema:name "Au Nord les étoiles" .
 
-schema:657 a schema:Publisher ;
+schema:publisher657 a schema:publisher ;
     schema:name "Ed. Goater" .
 
-schema:658 a schema:Publisher ;
+schema:publisher658 a schema:publisher ;
     schema:name "Le Nouvel Attila" .
 
-schema:659 a schema:Publisher ;
+schema:publisher659 a schema:publisher ;
     schema:name "l'Iroli" .
 
-schema:66 a schema:Publisher ;
+schema:publisher66 a schema:publisher ;
     schema:name "Le Pré du Plain" .
 
-schema:660 a schema:Publisher ;
+schema:publisher660 a schema:publisher ;
     schema:name "Rétro BD" .
 
-schema:661 a schema:Publisher ;
+schema:publisher661 a schema:publisher ;
     schema:name "La Belle colère" .
 
-schema:662 a schema:Publisher ;
+schema:publisher662 a schema:publisher ;
     schema:name "Shellac Sud" .
 
-schema:663 a schema:Publisher ;
+schema:publisher663 a schema:publisher ;
     schema:name "Hozhoni" .
 
-schema:664 a schema:Publisher ;
+schema:publisher664 a schema:publisher ;
     schema:name "les Ed. Ago" .
 
-schema:665 a schema:Publisher ;
+schema:publisher665 a schema:publisher ;
     schema:name "Makaka éditions" .
 
-schema:666 a schema:Publisher ;
+schema:publisher666 a schema:publisher ;
     schema:name "Bliss comics" .
 
-schema:667 a schema:Publisher ;
+schema:publisher667 a schema:publisher ;
     schema:name "Editions du Long Bec" .
 
-schema:668 a schema:Publisher ;
+schema:publisher668 a schema:publisher ;
     schema:name "Acoria" .
 
-schema:669 a schema:Publisher ;
+schema:publisher669 a schema:publisher ;
     schema:name "Rusti'kid" .
 
-schema:67 a schema:Publisher ;
+schema:publisher67 a schema:publisher ;
     schema:name "La Documentation française" .
 
-schema:670 a schema:Publisher ;
+schema:publisher670 a schema:publisher ;
     schema:name "Ligue pour la protection des oiseaux" .
 
-schema:671 a schema:Publisher ;
+schema:publisher671 a schema:publisher ;
     schema:name "Ynnis éditions" .
 
-schema:672 a schema:Publisher ;
+schema:publisher672 a schema:publisher ;
     schema:name "Versant Sud" .
 
-schema:673 a schema:Publisher ;
+schema:publisher673 a schema:publisher ;
     schema:name "Piccolia" .
 
-schema:674 a schema:Publisher ;
+schema:publisher674 a schema:publisher ;
     schema:name "Poulpe fictions" .
 
-schema:675 a schema:Publisher ;
+schema:publisher675 a schema:publisher ;
     schema:name "Epilobe éditions" .
 
-schema:676 a schema:Publisher ;
+schema:publisher676 a schema:publisher ;
     schema:name "Musée de l'homme" .
 
-schema:677 a schema:Publisher ;
+schema:publisher677 a schema:publisher ;
     schema:name "Atelier des nomades" .
 
-schema:678 a schema:Publisher ;
+schema:publisher678 a schema:publisher ;
     schema:name "Ed. du Patrimoine" .
 
-schema:679 a schema:Publisher ;
+schema:publisher679 a schema:publisher ;
     schema:name "Grenouille éditions" .
 
-schema:68 a schema:Publisher ;
+schema:publisher68 a schema:publisher ;
     schema:name "ADEME" .
 
-schema:680 a schema:Publisher ;
+schema:publisher680 a schema:publisher ;
     schema:name "Museum of modern art" .
 
-schema:681 a schema:Publisher ;
+schema:publisher681 a schema:publisher ;
     schema:name "Le label dans la forêt" .
 
-schema:682 a schema:Publisher ;
+schema:publisher682 a schema:publisher ;
     schema:name "Papa Luna productions" .
 
-schema:683 a schema:Publisher ;
+schema:publisher683 a schema:publisher ;
     schema:name "Maison Eliza" .
 
-schema:684 a schema:Publisher ;
+schema:publisher684 a schema:publisher ;
     schema:name "Saltimbanque" .
 
-schema:685 a schema:Publisher ;
+schema:publisher685 a schema:publisher ;
     schema:name "Hachette Comics" .
 
-schema:686 a schema:Publisher ;
+schema:publisher686 a schema:publisher ;
     schema:name "C. Bonneton" .
 
-schema:687 a schema:Publisher ;
+schema:publisher687 a schema:publisher ;
     schema:name "Dreamland" .
 
-schema:688 a schema:Publisher ;
+schema:publisher688 a schema:publisher ;
     schema:name "France-Info" .
 
-schema:689 a schema:Publisher ;
+schema:publisher689 a schema:publisher ;
     schema:name "Youpe Youpe" .
 
-schema:69 a schema:Publisher ;
+schema:publisher69 a schema:publisher ;
     schema:name "Louvre éditions" .
 
-schema:690 a schema:Publisher ;
+schema:publisher690 a schema:publisher ;
     schema:name "Editions du Mont-Blanc" .
 
-schema:691 a schema:Publisher ;
+schema:publisher691 a schema:publisher ;
     schema:name "Ensemble" .
 
-schema:692 a schema:Publisher ;
+schema:publisher692 a schema:publisher ;
     schema:name "Le Nouveau Pont" .
 
-schema:693 a schema:Publisher ;
+schema:publisher693 a schema:publisher ;
     schema:name "Dupuis Jeunesse" .
 
-schema:694 a schema:Publisher ;
+schema:publisher694 a schema:publisher ;
     schema:name "Globe" .
 
-schema:695 a schema:Publisher ;
+schema:publisher695 a schema:publisher ;
     schema:name "Louison éditions" .
 
-schema:696 a schema:Publisher ;
+schema:publisher696 a schema:publisher ;
     schema:name "Hachette Enfants" .
 
-schema:697 a schema:Publisher ;
+schema:publisher697 a schema:publisher ;
     schema:name "Tohu-Bohu éditions" .
 
-schema:698 a schema:Publisher ;
+schema:publisher698 a schema:publisher ;
     schema:name "Albin michel jeunesse" .
 
-schema:699 a schema:Publisher ;
+schema:publisher699 a schema:publisher ;
     schema:name "Calicot" .
 
-schema:7 a schema:Publisher ;
+schema:publisher7 a schema:publisher ;
     schema:name "le Navire en pleine ville" .
 
-schema:70 a schema:Publisher ;
+schema:publisher70 a schema:publisher ;
     schema:name "Dessain et Tolra" .
 
-schema:700 a schema:Publisher ;
+schema:publisher700 a schema:publisher ;
     schema:name "Les Editions du Sucrier" .
 
-schema:701 a schema:Publisher ;
+schema:publisher701 a schema:publisher ;
     schema:name "21g" .
 
-schema:702 a schema:Publisher ;
+schema:publisher702 a schema:publisher ;
     schema:name "Magnard" .
 
-schema:703 a schema:Publisher ;
+schema:publisher703 a schema:publisher ;
     schema:name "Qilinn" .
 
-schema:704 a schema:Publisher ;
+schema:publisher704 a schema:publisher ;
     schema:name "Mosquito" .
 
-schema:705 a schema:Publisher ;
+schema:publisher705 a schema:publisher ;
     schema:name "Ototo" .
 
-schema:706 a schema:Publisher ;
+schema:publisher706 a schema:publisher ;
     schema:name "Aventuriers de l'étrange" .
 
-schema:707 a schema:Publisher ;
+schema:publisher707 a schema:publisher ;
     schema:name "Editions Marie-Claire" .
 
-schema:708 a schema:Publisher ;
+schema:publisher708 a schema:publisher ;
     schema:name "Édito" .
 
-schema:709 a schema:Publisher ;
+schema:publisher709 a schema:publisher ;
     schema:name "Ed. Héros-Limite" .
 
-schema:71 a schema:Publisher ;
+schema:publisher71 a schema:publisher ;
     schema:name "Rageot" .
 
-schema:710 a schema:Publisher ;
+schema:publisher710 a schema:publisher ;
     schema:name "Editions du Trainailleur" .
 
-schema:711 a schema:Publisher ;
+schema:publisher711 a schema:publisher ;
     schema:name "Nada éditions" .
 
-schema:712 a schema:Publisher ;
+schema:publisher712 a schema:publisher ;
     schema:name "Sandawe" .
 
-schema:713 a schema:Publisher ;
+schema:publisher713 a schema:publisher ;
     schema:name "Presses universitaires de Lyon" .
 
-schema:714 a schema:Publisher ;
+schema:publisher714 a schema:publisher ;
     schema:name "Kidikunst" .
 
-schema:715 a schema:Publisher ;
+schema:publisher715 a schema:publisher ;
     schema:name "Revue dessinée" .
 
-schema:716 a schema:Publisher ;
+schema:publisher716 a schema:publisher ;
     schema:name "La Découverte" .
 
-schema:717 a schema:Publisher ;
+schema:publisher717 a schema:publisher ;
     schema:name "L'Etagère du bas" .
 
-schema:718 a schema:Publisher ;
+schema:publisher718 a schema:publisher ;
     schema:name "Locus solus" .
 
-schema:719 a schema:Publisher ;
+schema:publisher719 a schema:publisher ;
     schema:name "Velvet" .
 
-schema:72 a schema:Publisher ;
+schema:publisher72 a schema:publisher ;
     schema:name "Convergences" .
 
-schema:720 a schema:Publisher ;
+schema:publisher720 a schema:publisher ;
     schema:name "Editions H2T" .
 
-schema:721 a schema:Publisher ;
+schema:publisher721 a schema:publisher ;
     schema:name "Lucca éditions" .
 
-schema:722 a schema:Publisher ;
+schema:publisher722 a schema:publisher ;
     schema:name "Hikari éditions" .
 
-schema:723 a schema:Publisher ;
+schema:publisher723 a schema:publisher ;
     schema:name "Diplodocus" .
 
-schema:724 a schema:Publisher ;
+schema:publisher724 a schema:publisher ;
     schema:name "Margot" .
 
-schema:725 a schema:Publisher ;
+schema:publisher725 a schema:publisher ;
     schema:name "Pika roman" .
 
-schema:726 a schema:Publisher ;
+schema:publisher726 a schema:publisher ;
     schema:name "Astrid Franchet" .
 
-schema:727 a schema:Publisher ;
+schema:publisher727 a schema:publisher ;
     schema:name "Editions du Mercredi" .
 
-schema:728 a schema:Publisher ;
+schema:publisher728 a schema:publisher ;
     schema:name "Les éditions Martin de Halleux" .
 
-schema:729 a schema:Publisher ;
+schema:publisher729 a schema:publisher ;
     schema:name "Koinè" .
 
-schema:73 a schema:Publisher ;
+schema:publisher73 a schema:publisher ;
     schema:name "TF1 Entreprises" .
 
-schema:730 a schema:Publisher ;
+schema:publisher730 a schema:publisher ;
     schema:name "LEP" .
 
-schema:731 a schema:Publisher ;
+schema:publisher731 a schema:publisher ;
     schema:name "Editions 2024" .
 
-schema:732 a schema:Publisher ;
+schema:publisher732 a schema:publisher ;
     schema:name "Poetry Wanted" .
 
-schema:733 a schema:Publisher ;
+schema:publisher733 a schema:publisher ;
     schema:name "Format" .
 
-schema:734 a schema:Publisher ;
+schema:publisher734 a schema:publisher ;
     schema:name "Naturalia publications" .
 
-schema:735 a schema:Publisher ;
+schema:publisher735 a schema:publisher ;
     schema:name "Nouv. éd. ivoiriennes" .
 
-schema:736 a schema:Publisher ;
+schema:publisher736 a schema:publisher ;
     schema:name "Editions Kinaye" .
 
-schema:737 a schema:Publisher ;
+schema:publisher737 a schema:publisher ;
     schema:name "Versilio" .
 
-schema:738 a schema:Publisher ;
+schema:publisher738 a schema:publisher ;
     schema:name "Ici Même" .
 
-schema:739 a schema:Publisher ;
+schema:publisher739 a schema:publisher ;
     schema:name "Massot éditions" .
 
-schema:74 a schema:Publisher ;
+schema:publisher74 a schema:publisher ;
     schema:name "Didier Jeunesse" .
 
-schema:740 a schema:Publisher ;
+schema:publisher740 a schema:publisher ;
     schema:name "Editions Pera" .
 
-schema:741 a schema:Publisher ;
+schema:publisher741 a schema:publisher ;
     schema:name "Tapabord" .
 
-schema:742 a schema:Publisher ;
+schema:publisher742 a schema:publisher ;
     schema:name "Dark Horse Books" .
 
-schema:743 a schema:Publisher ;
+schema:publisher743 a schema:publisher ;
     schema:name "Slalom" .
 
-schema:744 a schema:Publisher ;
+schema:publisher744 a schema:publisher ;
     schema:name "Studio des Trois Becs" .
 
-schema:745 a schema:Publisher ;
+schema:publisher745 a schema:publisher ;
     schema:name "Colibris" .
 
-schema:746 a schema:Publisher ;
+schema:publisher746 a schema:publisher ;
     schema:name "Vega-Dupuis" .
 
-schema:747 a schema:Publisher ;
+schema:publisher747 a schema:publisher ;
     schema:name "Néva éd." .
 
-schema:748 a schema:Publisher ;
+schema:publisher748 a schema:publisher ;
     schema:name "Un Dimanche après-midi" .
 
-schema:749 a schema:Publisher ;
+schema:publisher749 a schema:publisher ;
     schema:name "Aleph éditions" .
 
-schema:75 a schema:Publisher ;
+schema:publisher75 a schema:publisher ;
     schema:name "Castor poche-Flammarion" .
 
-schema:750 a schema:Publisher ;
+schema:publisher750 a schema:publisher ;
     schema:name "Lanskine" .
 
-schema:751 a schema:Publisher ;
+schema:publisher751 a schema:publisher ;
     schema:name "Joyvox" .
 
-schema:752 a schema:Publisher ;
+schema:publisher752 a schema:publisher ;
     schema:name "Ed. du sous-sol" .
 
-schema:753 a schema:Publisher ;
+schema:publisher753 a schema:publisher ;
     schema:name "Les Lettres occitanes" .
 
-schema:754 a schema:Publisher ;
+schema:publisher754 a schema:publisher ;
     schema:name "Tuttistori éditions" .
 
-schema:755 a schema:Publisher ;
+schema:publisher755 a schema:publisher ;
     schema:name "Éditions XYZ" .
 
-schema:756 a schema:Publisher ;
+schema:publisher756 a schema:publisher ;
     schema:name "Vide-Cocagne" .
 
-schema:757 a schema:Publisher ;
+schema:publisher757 a schema:publisher ;
     schema:name "Museum d'histoire naturelle" .
 
-schema:758 a schema:Publisher ;
+schema:publisher758 a schema:publisher ;
     schema:name "Insula" .
 
-schema:759 a schema:Publisher ;
+schema:publisher759 a schema:publisher ;
     schema:name "Musée cantonal des beaux-arts de Lausanne" .
 
-schema:76 a schema:Publisher ;
+schema:publisher76 a schema:publisher ;
     schema:name "Plon jeunesse" .
 
-schema:760 a schema:Publisher ;
+schema:publisher760 a schema:publisher ;
     schema:name "Calmann-Lévy" .
 
-schema:761 a schema:Publisher ;
+schema:publisher761 a schema:publisher ;
     schema:name "Les Requins marteaux" .
 
-schema:762 a schema:Publisher ;
+schema:publisher762 a schema:publisher ;
     schema:name "La Cabane bleue" .
 
-schema:763 a schema:Publisher ;
+schema:publisher763 a schema:publisher ;
     schema:name "Ypsilon.éditeur" .
 
-schema:764 a schema:Publisher ;
+schema:publisher764 a schema:publisher ;
     schema:name "Monsieur Pop Corn" .
 
-schema:765 a schema:Publisher ;
+schema:publisher765 a schema:publisher ;
     schema:name "Canopé éditions" .
 
-schema:766 a schema:Publisher ;
+schema:publisher766 a schema:publisher ;
     schema:name "Arte" .
 
-schema:767 a schema:Publisher ;
+schema:publisher767 a schema:publisher ;
     schema:name "L'Asiathèque, Maison des langues du monde" .
 
-schema:768 a schema:Publisher ;
+schema:publisher768 a schema:publisher ;
     schema:name "Patayo éditions" .
 
-schema:769 a schema:Publisher ;
+schema:publisher769 a schema:publisher ;
     schema:name "Imago" .
 
-schema:77 a schema:Publisher ;
+schema:publisher77 a schema:publisher ;
     schema:name "Albin Michel-Jeunesse" .
 
-schema:770 a schema:Publisher ;
+schema:publisher770 a schema:publisher ;
     schema:name "l'Employé du Moi" .
 
-schema:771 a schema:Publisher ;
+schema:publisher771 a schema:publisher ;
     schema:name "L'Esprit du temps" .
 
-schema:772 a schema:Publisher ;
+schema:publisher772 a schema:publisher ;
     schema:name "CotCotCot éditions" .
 
-schema:773 a schema:Publisher ;
+schema:publisher773 a schema:publisher ;
     schema:name "ActuSF" .
 
-schema:774 a schema:Publisher ;
+schema:publisher774 a schema:publisher ;
     schema:name "Lapin éditions" .
 
-schema:775 a schema:Publisher ;
+schema:publisher775 a schema:publisher ;
     schema:name "Drakoo" .
 
-schema:776 a schema:Publisher ;
+schema:publisher776 a schema:publisher ;
     schema:name "Causette" .
 
-schema:777 a schema:Publisher ;
+schema:publisher777 a schema:publisher ;
     schema:name "Editions les Escales" .
 
-schema:778 a schema:Publisher ;
+schema:publisher778 a schema:publisher ;
     schema:name "France-Culture" .
 
-schema:779 a schema:Publisher ;
+schema:publisher779 a schema:publisher ;
     schema:name "Libertalia" .
 
-schema:78 a schema:Publisher ;
+schema:publisher78 a schema:publisher ;
     schema:name "Balivernes éditions" .
 
-schema:780 a schema:Publisher ;
+schema:publisher780 a schema:publisher ;
     schema:name "La Poule qui pond" .
 
-schema:781 a schema:Publisher ;
+schema:publisher781 a schema:publisher ;
     schema:name "Urban Link" .
 
-schema:782 a schema:Publisher ;
+schema:publisher782 a schema:publisher ;
     schema:name "Editions Barbedogre" .
 
-schema:783 a schema:Publisher ;
+schema:publisher783 a schema:publisher ;
     schema:name "Éditions d'Eux" .
 
-schema:784 a schema:Publisher ;
+schema:publisher784 a schema:publisher ;
     schema:name "Editions Deux-Cent-Cinq" .
 
-schema:785 a schema:Publisher ;
+schema:publisher785 a schema:publisher ;
     schema:name "Inédite" .
 
-schema:786 a schema:Publisher ;
+schema:publisher786 a schema:publisher ;
     schema:name "Téqui" .
 
-schema:787 a schema:Publisher ;
+schema:publisher787 a schema:publisher ;
     schema:name "Babouche à oreille" .
 
-schema:788 a schema:Publisher ;
+schema:publisher788 a schema:publisher ;
     schema:name "Institut national d'histoire de l'art" .
 
-schema:789 a schema:Publisher ;
+schema:publisher789 a schema:publisher ;
     schema:name "Cosmographe" .
 
-schema:79 a schema:Publisher ;
+schema:publisher79 a schema:publisher ;
     schema:name "Atelier du poisson soluble" .
 
-schema:790 a schema:Publisher ;
+schema:publisher790 a schema:publisher ;
     schema:name "Helvetiq" .
 
-schema:791 a schema:Publisher ;
+schema:publisher791 a schema:publisher ;
     schema:name "Lonely planet" .
 
-schema:792 a schema:Publisher ;
+schema:publisher792 a schema:publisher ;
     schema:name "Solanum" .
 
-schema:793 a schema:Publisher ;
+schema:publisher793 a schema:publisher ;
     schema:name "Akinomé" .
 
-schema:794 a schema:Publisher ;
+schema:publisher794 a schema:publisher ;
     schema:name "Louvre Abu Dhabi" .
 
-schema:795 a schema:Publisher ;
+schema:publisher795 a schema:publisher ;
     schema:name "Hi Comics" .
 
-schema:796 a schema:Publisher ;
+schema:publisher796 a schema:publisher ;
     schema:name "La Coopérative" .
 
-schema:797 a schema:Publisher ;
+schema:publisher797 a schema:publisher ;
     schema:name "PassePartout" .
 
-schema:798 a schema:Publisher ;
+schema:publisher798 a schema:publisher ;
     schema:name "ACCÈS Editions" .
 
-schema:799 a schema:Publisher ;
+schema:publisher799 a schema:publisher ;
     schema:name "Ed. du Petit pavé" .
 
-schema:8 a schema:Publisher ;
+schema:publisher8 a schema:publisher ;
     schema:name "Canopé-CRDP de l'académie de Créteil" .
 
-schema:80 a schema:Publisher ;
+schema:publisher80 a schema:publisher ;
     schema:name "Casterman" .
 
-schema:800 a schema:Publisher ;
+schema:publisher800 a schema:publisher ;
     schema:name "Bourse de Commerce - Pinault Collection" .
 
-schema:801 a schema:Publisher ;
+schema:publisher801 a schema:publisher ;
     schema:name "La Fontaine éditions" .
 
-schema:802 a schema:Publisher ;
+schema:publisher802 a schema:publisher ;
     schema:name "L'Apprimerie" .
 
-schema:803 a schema:Publisher ;
+schema:publisher803 a schema:publisher ;
     schema:name "Chattochatto" .
 
-schema:804 a schema:Publisher ;
+schema:publisher804 a schema:publisher ;
     schema:name "Comix buro" .
 
-schema:805 a schema:Publisher ;
+schema:publisher805 a schema:publisher ;
     schema:name "Bibliothèque Sainte-Geneviève" .
 
-schema:806 a schema:Publisher ;
+schema:publisher806 a schema:publisher ;
     schema:name "Kbooks" .
 
-schema:807 a schema:Publisher ;
+schema:publisher807 a schema:publisher ;
     schema:name "Harmattan Mali" .
 
-schema:808 a schema:Publisher ;
+schema:publisher808 a schema:publisher ;
     schema:name "Tropique édition" .
 
-schema:809 a schema:Publisher ;
+schema:publisher809 a schema:publisher ;
     schema:name "L'Harmattan Italia" .
 
-schema:81 a schema:Publisher ;
+schema:publisher81 a schema:publisher ;
     schema:name "RMN-Grand Palais" .
 
-schema:810 a schema:Publisher ;
+schema:publisher810 a schema:publisher ;
     schema:name "Editions Caurette" .
 
-schema:811 a schema:Publisher ;
+schema:publisher811 a schema:publisher ;
     schema:name "Mécanique générale" .
 
-schema:812 a schema:Publisher ;
+schema:publisher812 a schema:publisher ;
     schema:name "Fonfon" .
 
-schema:813 a schema:Publisher ;
+schema:publisher813 a schema:publisher ;
     schema:name "La Nage de l'ourse éditions" .
 
-schema:814 a schema:Publisher ;
+schema:publisher814 a schema:publisher ;
     schema:name " Louvre-Lens" .
 
-schema:815 a schema:Publisher ;
+schema:publisher815 a schema:publisher ;
     schema:name "La Partie" .
 
-schema:816 a schema:Publisher ;
+schema:publisher816 a schema:publisher ;
     schema:name "Editions 3oeil" .
 
-schema:817 a schema:Publisher ;
+schema:publisher817 a schema:publisher ;
     schema:name "Petit poulpe" .
 
-schema:818 a schema:Publisher ;
+schema:publisher818 a schema:publisher ;
     schema:name "La Marmotière éditions" .
 
-schema:819 a schema:Publisher ;
+schema:publisher819 a schema:publisher ;
     schema:name "ONJ Records" .
 
-schema:82 a schema:Publisher ;
+schema:publisher82 a schema:publisher ;
     schema:name "Ed. du Centre Pompidou" .
 
-schema:820 a schema:Publisher ;
+schema:publisher820 a schema:publisher ;
     schema:name "Plein Vent" .
 
-schema:821 a schema:Publisher ;
+schema:publisher821 a schema:publisher ;
     schema:name "Obriart éditions" .
 
-schema:822 a schema:Publisher ;
+schema:publisher822 a schema:publisher ;
     schema:name "CFC" .
 
-schema:823 a schema:Publisher ;
+schema:publisher823 a schema:publisher ;
     schema:name "Même pas mal éditions" .
 
-schema:824 a schema:Publisher ;
+schema:publisher824 a schema:publisher ;
     schema:name "Editions In8" .
 
-schema:825 a schema:Publisher ;
+schema:publisher825 a schema:publisher ;
     schema:name "the Hoochie coochie" .
 
-schema:826 a schema:Publisher ;
+schema:publisher826 a schema:publisher ;
     schema:name "les Ardents éditeurs" .
 
-schema:827 a schema:Publisher ;
+schema:publisher827 a schema:publisher ;
     schema:name "Lattès" .
 
-schema:828 a schema:Publisher ;
+schema:publisher828 a schema:publisher ;
     schema:name "Wagram livres" .
 
-schema:829 a schema:Publisher ;
+schema:publisher829 a schema:publisher ;
     schema:name "Tishina" .
 
-schema:83 a schema:Publisher ;
+schema:publisher83 a schema:publisher ;
     schema:name "Panini manga" .
 
-schema:830 a schema:Publisher ;
+schema:publisher830 a schema:publisher ;
     schema:name "Vijana" .
 
-schema:831 a schema:Publisher ;
+schema:publisher831 a schema:publisher ;
     schema:name "Presque lune éditions" .
 
-schema:832 a schema:Publisher ;
+schema:publisher832 a schema:publisher ;
     schema:name "Bande d'ados" .
 
-schema:833 a schema:Publisher ;
+schema:publisher833 a schema:publisher ;
     schema:name "Oui dire éditions" .
 
-schema:834 a schema:Publisher ;
+schema:publisher834 a schema:publisher ;
     schema:name "Art&fiction" .
 
-schema:835 a schema:Publisher ;
+schema:publisher835 a schema:publisher ;
     schema:name "Comédie-Française" .
 
-schema:836 a schema:Publisher ;
+schema:publisher836 a schema:publisher ;
     schema:name "La Maison théâtre" .
 
-schema:837 a schema:Publisher ;
+schema:publisher837 a schema:publisher ;
     schema:name "Atelier des Noyers" .
 
-schema:838 a schema:Publisher ;
+schema:publisher838 a schema:publisher ;
     schema:name "L'Articho" .
 
-schema:839 a schema:Publisher ;
+schema:publisher839 a schema:publisher ;
     schema:name "Cours toujours" .
 
-schema:84 a schema:Publisher ;
+schema:publisher84 a schema:publisher ;
     schema:name "Marvel France" .
 
-schema:840 a schema:Publisher ;
+schema:publisher840 a schema:publisher ;
     schema:name "maelstrÖm reEvolution" .
 
-schema:841 a schema:Publisher ;
+schema:publisher841 a schema:publisher ;
     schema:name "Éditions MultiMondes" .
 
-schema:842 a schema:Publisher ;
+schema:publisher842 a schema:publisher ;
     schema:name "Circé" .
 
-schema:843 a schema:Publisher ;
+schema:publisher843 a schema:publisher ;
     schema:name "Petit Homme" .
 
-schema:844 a schema:Publisher ;
+schema:publisher844 a schema:publisher ;
     schema:name "Syros jeunesse" .
 
-schema:845 a schema:Publisher ;
+schema:publisher845 a schema:publisher ;
     schema:name "Sciences humaines éditions" .
 
-schema:846 a schema:Publisher ;
+schema:publisher846 a schema:publisher ;
     schema:name "Ginkgo" .
 
-schema:847 a schema:Publisher ;
+schema:publisher847 a schema:publisher ;
     schema:name "Livres sans frontières" .
 
-schema:848 a schema:Publisher ;
+schema:publisher848 a schema:publisher ;
     schema:name "Askip" .
 
-schema:849 a schema:Publisher ;
+schema:publisher849 a schema:publisher ;
     schema:name "Editions franco-slovènes & Cie" .
 
-schema:85 a schema:Publisher ;
+schema:publisher85 a schema:publisher ;
     schema:name "Panini comics" .
 
-schema:850 a schema:Publisher ;
+schema:publisher850 a schema:publisher ;
     schema:name "Paulsen" .
 
-schema:851 a schema:Publisher ;
+schema:publisher851 a schema:publisher ;
     schema:name "Editions Poisson rouge.Oi" .
 
-schema:852 a schema:Publisher ;
+schema:publisher852 a schema:publisher ;
     schema:name "Nuinui" .
 
-schema:853 a schema:Publisher ;
+schema:publisher853 a schema:publisher ;
     schema:name "Lac aux Fées" .
 
-schema:854 a schema:Publisher ;
+schema:publisher854 a schema:publisher ;
     schema:name "Critic" .
 
-schema:855 a schema:Publisher ;
+schema:publisher855 a schema:publisher ;
     schema:name "Antipodes" .
 
-schema:856 a schema:Publisher ;
+schema:publisher856 a schema:publisher ;
     schema:name "Panthera" .
 
-schema:857 a schema:Publisher ;
+schema:publisher857 a schema:publisher ;
     schema:name "Éditions écosociété" .
 
-schema:858 a schema:Publisher ;
+schema:publisher858 a schema:publisher ;
     schema:name "Victoria Queen Edition" .
 
-schema:859 a schema:Publisher ;
+schema:publisher859 a schema:publisher ;
     schema:name "Points" .
 
-schema:86 a schema:Publisher ;
+schema:publisher86 a schema:publisher ;
     schema:name "J.-P. Gisserot" .
 
-schema:860 a schema:Publisher ;
+schema:publisher860 a schema:publisher ;
     schema:name "Revival" .
 
-schema:861 a schema:Publisher ;
+schema:publisher861 a schema:publisher ;
     schema:name "Les éditions Cornac" .
 
-schema:862 a schema:Publisher ;
+schema:publisher862 a schema:publisher ;
     schema:name "Éditions Imagine" .
 
-schema:863 a schema:Publisher ;
+schema:publisher863 a schema:publisher ;
     schema:name "Publications du Québec" .
 
-schema:864 a schema:Publisher ;
+schema:publisher864 a schema:publisher ;
     schema:name "Presses Aventure" .
 
-schema:865 a schema:Publisher ;
+schema:publisher865 a schema:publisher ;
     schema:name "Éditions Hannenorak" .
 
-schema:866 a schema:Publisher ;
+schema:publisher866 a schema:publisher ;
     schema:name "Crapule" .
 
-schema:867 a schema:Publisher ;
+schema:publisher867 a schema:publisher ;
     schema:name "Éditions du Renouveau pédagogique (ERPI)" .
 
-schema:868 a schema:Publisher ;
+schema:publisher868 a schema:publisher ;
     schema:name "Le Robert" .
 
-schema:869 a schema:Publisher ;
+schema:publisher869 a schema:publisher ;
     schema:name "Éditions Dent-De-Lion" .
 
-schema:87 a schema:Publisher ;
+schema:publisher87 a schema:publisher ;
     schema:name "Vents d'ailleurs" .
 
-schema:870 a schema:Publisher ;
+schema:publisher870 a schema:publisher ;
     schema:name "Tom'poche" .
 
-schema:871 a schema:Publisher ;
+schema:publisher871 a schema:publisher ;
     schema:name "Éditions Z'ailées" .
 
-schema:872 a schema:Publisher ;
+schema:publisher872 a schema:publisher ;
     schema:name "Petits Génies" .
 
-schema:873 a schema:Publisher ;
+schema:publisher873 a schema:publisher ;
     schema:name "Éditions des Plaines" .
 
-schema:874 a schema:Publisher ;
+schema:publisher874 a schema:publisher ;
     schema:name "Éditions Trampoline" .
 
-schema:875 a schema:Publisher ;
+schema:publisher875 a schema:publisher ;
     schema:name "Éditions de Mortagne" .
 
-schema:876 a schema:Publisher ;
+schema:publisher876 a schema:publisher ;
     schema:name "Éditions Album" .
 
-schema:877 a schema:Publisher ;
+schema:publisher877 a schema:publisher ;
     schema:name "Éditions Broquet" .
 
-schema:878 a schema:Publisher ;
+schema:publisher878 a schema:publisher ;
     schema:name "Éditions Druide" .
 
-schema:879 a schema:Publisher ;
+schema:publisher879 a schema:publisher ;
     schema:name "Éditions du Phoenix" .
 
-schema:88 a schema:Publisher ;
+schema:publisher88 a schema:publisher ;
     schema:name "les Doigts qui rêvent" .
 
-schema:880 a schema:Publisher ;
+schema:publisher880 a schema:publisher ;
     schema:name "Éditions MD" .
 
-schema:881 a schema:Publisher ;
+schema:publisher881 a schema:publisher ;
     schema:name "Bouton d'or Acadie" .
 
-schema:882 a schema:Publisher ;
+schema:publisher882 a schema:publisher ;
     schema:name "Libre Expression" .
 
-schema:883 a schema:Publisher ;
+schema:publisher883 a schema:publisher ;
     schema:name "Kimane éditions" .
 
-schema:884 a schema:Publisher ;
+schema:publisher884 a schema:publisher ;
     schema:name "SNCF" .
 
-schema:885 a schema:Publisher ;
+schema:publisher885 a schema:publisher ;
     schema:name "National Geographic jeunesse" .
 
-schema:886 a schema:Publisher ;
+schema:publisher886 a schema:publisher ;
     schema:name "La Peuplade" .
 
-schema:887 a schema:Publisher ;
+schema:publisher887 a schema:publisher ;
     schema:name "Atelier 10" .
 
-schema:888 a schema:Publisher ;
+schema:publisher888 a schema:publisher ;
     schema:name "Alto" .
 
-schema:889 a schema:Publisher ;
+schema:publisher889 a schema:publisher ;
     schema:name "Bibliothèque québécoise" .
 
-schema:89 a schema:Publisher ;
+schema:publisher89 a schema:publisher ;
     schema:name "Hors commerce" .
 
-schema:890 a schema:Publisher ;
+schema:publisher890 a schema:publisher ;
     schema:name "Hors collection" .
 
-schema:891 a schema:Publisher ;
+schema:publisher891 a schema:publisher ;
     schema:name "Héritage jeunesse" .
 
-schema:892 a schema:Publisher ;
+schema:publisher892 a schema:publisher ;
     schema:name "le Buveur d'encre" .
 
-schema:893 a schema:Publisher ;
+schema:publisher893 a schema:publisher ;
     schema:name "Canopé-CRDP de l'académie de Besançon " .
 
-schema:894 a schema:Publisher ;
+schema:publisher894 a schema:publisher ;
     schema:name "Éditions du Passage" .
 
-schema:895 a schema:Publisher ;
+schema:publisher895 a schema:publisher ;
     schema:name "Zoom éditions" .
 
-schema:896 a schema:Publisher ;
+schema:publisher896 a schema:publisher ;
     schema:name "White star kids" .
 
-schema:897 a schema:Publisher ;
+schema:publisher897 a schema:publisher ;
     schema:name "Saint-Jean" .
 
-schema:898 a schema:Publisher ;
+schema:publisher898 a schema:publisher ;
     schema:name "Editions Anna Chanel" .
 
-schema:899 a schema:Publisher ;
+schema:publisher899 a schema:publisher ;
     schema:name "Nord-Sud" .
 
-schema:9 a schema:Publisher ;
+schema:publisher9 a schema:publisher ;
     schema:name "BNF-Centre national de la littérature pour la jeunesse" .
 
-schema:90 a schema:Publisher ;
+schema:publisher90 a schema:publisher ;
     schema:name "Calligram" .
 
-schema:900 a schema:Publisher ;
+schema:publisher900 a schema:publisher ;
     schema:name "Éditions du Trécarré" .
 
-schema:901 a schema:Publisher ;
+schema:publisher901 a schema:publisher ;
     schema:name "IRIS" .
 
-schema:902 a schema:Publisher ;
+schema:publisher902 a schema:publisher ;
     schema:name "Auzou éveil" .
 
-schema:903 a schema:Publisher ;
+schema:publisher903 a schema:publisher ;
     schema:name "Stanké" .
 
-schema:904 a schema:Publisher ;
+schema:publisher904 a schema:publisher ;
     schema:name "Red Deer Press" .
 
-schema:905 a schema:Publisher ;
+schema:publisher905 a schema:publisher ;
     schema:name "Éditions Typo" .
 
-schema:906 a schema:Publisher ;
+schema:publisher906 a schema:publisher ;
     schema:name "Dilettante" .
 
-schema:907 a schema:Publisher ;
+schema:publisher907 a schema:publisher ;
     schema:name "Éditions Prise de parole" .
 
-schema:908 a schema:Publisher ;
+schema:publisher908 a schema:publisher ;
     schema:name "Desputeaux + Aubin" .
 
-schema:909 a schema:Publisher ;
+schema:publisher909 a schema:publisher ;
     schema:name "1 2 3 Soleil" .
 
-schema:91 a schema:Publisher ;
+schema:publisher91 a schema:publisher ;
     schema:name "Ed. théâtrales" .
 
-schema:910 a schema:Publisher ;
+schema:publisher910 a schema:publisher ;
     schema:name "Éditions Fides" .
 
-schema:911 a schema:Publisher ;
+schema:publisher911 a schema:publisher ;
     schema:name "Librio" .
 
-schema:912 a schema:Publisher ;
+schema:publisher912 a schema:publisher ;
     schema:name "Musée René Magritte" .
 
-schema:913 a schema:Publisher ;
+schema:publisher913 a schema:publisher ;
     schema:name "France musique" .
 
-schema:914 a schema:Publisher ;
+schema:publisher914 a schema:publisher ;
     schema:name "Liana Levi" .
 
-schema:915 a schema:Publisher ;
+schema:publisher915 a schema:publisher ;
     schema:name "Zulma" .
 
-schema:916 a schema:Publisher ;
+schema:publisher916 a schema:publisher ;
     schema:name "Nuinui jeunesse" .
 
-schema:917 a schema:Publisher ;
+schema:publisher917 a schema:publisher ;
     schema:name "Groovie éditions" .
 
-schema:918 a schema:Publisher ;
+schema:publisher918 a schema:publisher ;
     schema:name "Le Lièvre de Mars" .
 
-schema:919 a schema:Publisher ;
+schema:publisher919 a schema:publisher ;
     schema:name "Minuit" .
 
-schema:92 a schema:Publisher ;
+schema:publisher92 a schema:publisher ;
     schema:name "Compagnie du réfectoire" .
 
-schema:920 a schema:Publisher ;
+schema:publisher920 a schema:publisher ;
     schema:name "Éditions de la Nouvelle plume" .
 
-schema:921 a schema:Publisher ;
+schema:publisher921 a schema:publisher ;
     schema:name "10-18" .
 
-schema:922 a schema:Publisher ;
+schema:publisher922 a schema:publisher ;
     schema:name "Zone convective" .
 
-schema:923 a schema:Publisher ;
+schema:publisher923 a schema:publisher ;
     schema:name "Editions Leha" .
 
-schema:924 a schema:Publisher ;
+schema:publisher924 a schema:publisher ;
     schema:name "Lux éditeur" .
 
-schema:925 a schema:Publisher ;
+schema:publisher925 a schema:publisher ;
     schema:name "Michel Brûlé" .
 
-schema:926 a schema:Publisher ;
+schema:publisher926 a schema:publisher ;
     schema:name "Scéren" .
 
-schema:927 a schema:Publisher ;
+schema:publisher927 a schema:publisher ;
     schema:name "Alias" .
 
-schema:928 a schema:Publisher ;
+schema:publisher928 a schema:publisher ;
     schema:name "Éditions Vents d'Ouest" .
 
-schema:929 a schema:Publisher ;
+schema:publisher929 a schema:publisher ;
     schema:name "Le Lotus et l'éléphant" .
 
-schema:93 a schema:Publisher ;
+schema:publisher93 a schema:publisher ;
     schema:name "Humanoïdes associés" .
 
-schema:930 a schema:Publisher ;
+schema:publisher930 a schema:publisher ;
     schema:name "Langue au chat" .
 
-schema:931 a schema:Publisher ;
+schema:publisher931 a schema:publisher ;
     schema:name "VLB éditeur" .
 
-schema:932 a schema:Publisher ;
+schema:publisher932 a schema:publisher ;
     schema:name "Les éditions du dernier havre" .
 
-schema:933 a schema:Publisher ;
+schema:publisher933 a schema:publisher ;
     schema:name "Éditions du Septentrion" .
 
-schema:934 a schema:Publisher ;
+schema:publisher934 a schema:publisher ;
     schema:name "Opéra national de Paris" .
 
-schema:935 a schema:Publisher ;
+schema:publisher935 a schema:publisher ;
     schema:name "KSTR" .
 
-schema:936 a schema:Publisher ;
+schema:publisher936 a schema:publisher ;
     schema:name "Officina Libraria" .
 
-schema:937 a schema:Publisher ;
+schema:publisher937 a schema:publisher ;
     schema:name "Moelle Graphik" .
 
-schema:938 a schema:Publisher ;
+schema:publisher938 a schema:publisher ;
     schema:name "Nova éditions" .
 
-schema:939 a schema:Publisher ;
+schema:publisher939 a schema:publisher ;
     schema:name "Éditions du Remue-Ménage" .
 
-schema:94 a schema:Publisher ;
+schema:publisher94 a schema:publisher ;
     schema:name "Tonkam" .
 
-schema:940 a schema:Publisher ;
+schema:publisher940 a schema:publisher ;
     schema:name "Beech Street Books (French)" .
 
-schema:941 a schema:Publisher ;
+schema:publisher941 a schema:publisher ;
     schema:name "Éditions du CHU Sainte-Justine" .
 
-schema:942 a schema:Publisher ;
+schema:publisher942 a schema:publisher ;
     schema:name "Orca Book Publishing" .
 
-schema:943 a schema:Publisher ;
+schema:publisher943 a schema:publisher ;
     schema:name "Éditions Somme toute" .
 
-schema:944 a schema:Publisher ;
+schema:publisher944 a schema:publisher ;
     schema:name "Tigre & Cie" .
 
-schema:945 a schema:Publisher ;
+schema:publisher945 a schema:publisher ;
     schema:name "Éditions Tête haute" .
 
-schema:946 a schema:Publisher ;
+schema:publisher946 a schema:publisher ;
     schema:name "Hygée éditions" .
 
-schema:947 a schema:Publisher ;
+schema:publisher947 a schema:publisher ;
     schema:name "Beauchemin Chenelière éducation" .
 
-schema:948 a schema:Publisher ;
+schema:publisher948 a schema:publisher ;
     schema:name "LéR - Les éditeurs réunis" .
 
-schema:949 a schema:Publisher ;
+schema:publisher949 a schema:publisher ;
     schema:name "Ellipses" .
 
-schema:95 a schema:Publisher ;
+schema:publisher95 a schema:publisher ;
     schema:name "Ibis Rouge jeunesse" .
 
-schema:950 a schema:Publisher ;
+schema:publisher950 a schema:publisher ;
     schema:name "Vilo jeunesse" .
 
-schema:951 a schema:Publisher ;
+schema:publisher951 a schema:publisher ;
     schema:name "Atelier de la belle étoile" .
 
-schema:952 a schema:Publisher ;
+schema:publisher952 a schema:publisher ;
     schema:name "Editions Le grand jardin" .
 
-schema:953 a schema:Publisher ;
+schema:publisher953 a schema:publisher ;
     schema:name "Monsieur Ed" .
 
-schema:954 a schema:Publisher ;
+schema:publisher954 a schema:publisher ;
     schema:name "Gamma Jeunesse" .
 
-schema:955 a schema:Publisher ;
+schema:publisher955 a schema:publisher ;
     schema:name "Rabsel Editions" .
 
-schema:956 a schema:Publisher ;
+schema:publisher956 a schema:publisher ;
     schema:name "Perro éditeur" .
 
-schema:957 a schema:Publisher ;
+schema:publisher957 a schema:publisher ;
     schema:name "Éditions Chauve-Souris" .
 
-schema:958 a schema:Publisher ;
+schema:publisher958 a schema:publisher ;
     schema:name "Gecko jeunesse" .
 
-schema:959 a schema:Publisher ;
+schema:publisher959 a schema:publisher ;
     schema:name "Ed. du Baobab" .
 
-schema:96 a schema:Publisher ;
+schema:publisher96 a schema:publisher ;
     schema:name "Akileos" .
 
-schema:960 a schema:Publisher ;
+schema:publisher960 a schema:publisher ;
     schema:name "La Boîte à Pandore" .
 
-schema:961 a schema:Publisher ;
+schema:publisher961 a schema:publisher ;
     schema:name "12 bis" .
 
-schema:962 a schema:Publisher ;
+schema:publisher962 a schema:publisher ;
     schema:name "Mana Books" .
 
-schema:963 a schema:Publisher ;
+schema:publisher963 a schema:publisher ;
     schema:name "Sonatine éditions" .
 
-schema:964 a schema:Publisher ;
+schema:publisher964 a schema:publisher ;
     schema:name "Denoël" .
 
-schema:965 a schema:Publisher ;
+schema:publisher965 a schema:publisher ;
     schema:name "Presses de l'Université de Montréal" .
 
-schema:966 a schema:Publisher ;
+schema:publisher966 a schema:publisher ;
     schema:name "Éditions du Noroit" .
 
-schema:967 a schema:Publisher ;
+schema:publisher967 a schema:publisher ;
     schema:name "Julliard" .
 
-schema:968 a schema:Publisher ;
+schema:publisher968 a schema:publisher ;
     schema:name "Ed. de Fallois" .
 
-schema:969 a schema:Publisher ;
+schema:publisher969 a schema:publisher ;
     schema:name "Pré-aux-Clercs" .
 
-schema:97 a schema:Publisher ;
+schema:publisher97 a schema:publisher ;
     schema:name "Hatier" .
 
-schema:970 a schema:Publisher ;
+schema:publisher970 a schema:publisher ;
     schema:name "Trois" .
 
-schema:971 a schema:Publisher ;
+schema:publisher971 a schema:publisher ;
     schema:name "Éditions du Parc en face" .
 
-schema:972 a schema:Publisher ;
+schema:publisher972 a schema:publisher ;
     schema:name "Benoît Jacques books" .
 
-schema:973 a schema:Publisher ;
+schema:publisher973 a schema:publisher ;
     schema:name "Passiflore" .
 
-schema:974 a schema:Publisher ;
+schema:publisher974 a schema:publisher ;
     schema:name "Lucane éditions" .
 
-schema:975 a schema:Publisher ;
+schema:publisher975 a schema:publisher ;
     schema:name "XO" .
 
-schema:976 a schema:Publisher ;
+schema:publisher976 a schema:publisher ;
     schema:name "Arléa" .
 
-schema:977 a schema:Publisher ;
+schema:publisher977 a schema:publisher ;
     schema:name "Éditions David" .
 
-schema:978 a schema:Publisher ;
+schema:publisher978 a schema:publisher ;
     schema:name "Sabine Wespieser éditeur" .
 
-schema:979 a schema:Publisher ;
+schema:publisher979 a schema:publisher ;
     schema:name "Buchet Chastel" .
 
-schema:98 a schema:Publisher ;
+schema:publisher98 a schema:publisher ;
     schema:name "Minedition" .
 
-schema:980 a schema:Publisher ;
+schema:publisher980 a schema:publisher ;
     schema:name "Allia" .
 
-schema:981 a schema:Publisher ;
+schema:publisher981 a schema:publisher ;
     schema:name "Éditions de l'Hexagone" .
 
-schema:982 a schema:Publisher ;
+schema:publisher982 a schema:publisher ;
     schema:name "Art global" .
 
-schema:983 a schema:Publisher ;
+schema:publisher983 a schema:publisher ;
     schema:name "Michalon" .
 
-schema:984 a schema:Publisher ;
+schema:publisher984 a schema:publisher ;
     schema:name "Éditions Pow Pow" .
 
-schema:985 a schema:Publisher ;
+schema:publisher985 a schema:publisher ;
     schema:name "L. Pire" .
 
-schema:986 a schema:Publisher ;
+schema:publisher986 a schema:publisher ;
     schema:name "6 pieds sous terre" .
 
-schema:987 a schema:Publisher ;
+schema:publisher987 a schema:publisher ;
     schema:name "Ogre" .
 
-schema:988 a schema:Publisher ;
+schema:publisher988 a schema:publisher ;
     schema:name "Ed. de l'Olivier" .
 
-schema:989 a schema:Publisher ;
+schema:publisher989 a schema:publisher ;
     schema:name "Libretto" .
 
-schema:99 a schema:Publisher ;
+schema:publisher99 a schema:publisher ;
     schema:name "Le Lombard" .
 
-schema:990 a schema:Publisher ;
+schema:publisher990 a schema:publisher ;
     schema:name "Le Cheval d'août éditeur" .
 
-schema:991 a schema:Publisher ;
+schema:publisher991 a schema:publisher ;
     schema:name "Triomphe" .
 
-schema:992 a schema:Publisher ;
+schema:publisher992 a schema:publisher ;
     schema:name "Noir sur blanc" .
 
-schema:993 a schema:Publisher ;
+schema:publisher993 a schema:publisher ;
     schema:name "le Visage vert" .
 
-schema:994 a schema:Publisher ;
+schema:publisher994 a schema:publisher ;
     schema:name "Emile & Feuille" .
 
-schema:995 a schema:Publisher ;
+schema:publisher995 a schema:publisher ;
     schema:name "RIVKA" .
 
-schema:996 a schema:Publisher ;
+schema:publisher996 a schema:publisher ;
     schema:name "Encrage" .
 
-schema:997 a schema:Publisher ;
+schema:publisher997 a schema:publisher ;
     schema:name "Presses de la Cité" .
 
-schema:998 a schema:Publisher ;
+schema:publisher998 a schema:publisher ;
     schema:name "Éditions Triptyque" .
 
-schema:999 a schema:Publisher ;
+schema:publisher999 a schema:publisher ;
     schema:name "Kamiti" .
 
