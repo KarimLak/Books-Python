@@ -18,6 +18,8 @@ def preprocess_publisher_name(raw_name):
     preprocessed_name = raw_name
     preprocessed_name = preprocessed_name.replace(" SARL", "")
     preprocessed_name = preprocessed_name.replace(" SA", "")
+    preprocessed_name = preprocessed_name.replace("Ed. ", "")
+    preprocessed_name = preprocessed_name.replace(" éd.", "")
     preprocessed_name = preprocessed_name.lower()
     preprocessed_name = preprocessed_name.replace("et cie", "")
     preprocessed_name = preprocessed_name.replace("& cie", "")
@@ -42,6 +44,9 @@ class Publisher:
         self.uri = uri  
         self.raw_name = raw_name  
         self.preprocessed_name = preprocessed_name  
+
+    def __str__(self):
+      return f"uri = {self.uri}, \n  source = {self.source},\n  raw_name = {self.raw_name},\n  preprocessed_name = {self.preprocessed_name}"
 
 def create_key(book_name, book_author:list=[], publisher="", publication_date=""):
     authors_string = ""

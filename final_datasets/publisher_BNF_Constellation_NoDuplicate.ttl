@@ -251,9 +251,6 @@ ns1:AlyssaJuniors a ns1:Publisher ;
 ns1:Alzabane_éditions a ns1:Publisher ;
     ns1:name "Alzabane éditions"^^xsd:string .
 
-ns1:Alzabaned a ns1:Publisher ;
-    ns1:name "Alzabane éd."^^xsd:string .
-
 ns1:Amalion a ns1:Publisher ;
     ns1:name "Amalion"^^xsd:string .
 
@@ -1666,9 +1663,6 @@ ns1:EDICEF a ns1:Publisher ;
 ns1:ENAGEditions a ns1:Publisher ;
     ns1:name "ENAG Editions"^^xsd:string .
 
-ns1:EPd a ns1:Publisher ;
-    ns1:name "EP éd."^^xsd:string .
-
 ns1:EPditions a ns1:Publisher ;
     ns1:name "EP éditions"^^xsd:string .
 
@@ -2403,9 +2397,6 @@ ns1:IDLivrejeunesse a ns1:Publisher ;
 
 ns1:IMAV_éditions a ns1:Publisher ;
     ns1:name "IMAV éditions"^^xsd:string .
-
-ns1:IMAVd a ns1:Publisher ;
-    ns1:name "IMAV éd."^^xsd:string .
 
 ns1:IMHO a ns1:Publisher ;
     ns1:name "IMHO"^^xsd:string .
@@ -3440,9 +3431,6 @@ ns1:MG_Hurtig a ns1:Publisher ;
 ns1:MK2 a ns1:Publisher ;
     ns1:name "MK2"^^xsd:string .
 
-ns1:MLafon a ns1:Publisher ;
-    ns1:name "M. Lafon"^^xsd:string .
-
 ns1:MLagarde a ns1:Publisher ;
     ns1:name "M. Lagarde"^^xsd:string .
 
@@ -3839,9 +3827,6 @@ ns1:Métailié a ns1:Publisher ;
 ns1:Møtus a ns1:Publisher ;
     ns1:name "Møtus"^^xsd:string .
 
-ns1:NANEd a ns1:Publisher ;
-    ns1:name "NANE éd."^^xsd:string .
-
 ns1:NAS a ns1:Publisher ;
     ns1:name "ÉÉNAS"^^xsd:string .
 
@@ -4073,9 +4058,6 @@ ns1:Officina_Libraria a ns1:Publisher ;
 
 ns1:Oh_Éditions a ns1:Publisher ;
     ns1:name "Oh! Éditions"^^xsd:string .
-
-ns1:Ohd a ns1:Publisher ;
-    ns1:name "Oh ! éd."^^xsd:string .
 
 ns1:Oie_De_Cravan a ns1:Publisher ;
     ns1:name "Oie De Cravan"^^xsd:string .
@@ -4832,9 +4814,6 @@ ns1:Scribblers a ns1:Publisher ;
 ns1:Scutellad a ns1:Publisher ;
     ns1:name "Scutella éd."^^xsd:string .
 
-ns1:Scutelladitions a ns1:Publisher ;
-    ns1:name "Scutella éditions"^^xsd:string .
-
 ns1:Second_Story_Press a ns1:Publisher ;
     ns1:name "Second Story Press"^^xsd:string .
 
@@ -4957,9 +4936,6 @@ ns1:Soleilproduction a ns1:Publisher ;
 
 ns1:Soline a ns1:Publisher ;
     ns1:name "Soline"^^xsd:string .
-
-ns1:Solined a ns1:Publisher ;
-    ns1:name "Soline éd."^^xsd:string .
 
 ns1:Somerville_House_Publishing a ns1:Publisher ;
     ns1:name "Somerville House Publishing"^^xsd:string .
@@ -5559,9 +5535,6 @@ ns1:Vilo a ns1:Publisher ;
 ns1:Vincze a ns1:Publisher ;
     ns1:name "É. Vincze"^^xsd:string .
 
-ns1:Vizavi a ns1:Publisher ;
-    ns1:name "Vizavi"^^xsd:string .
-
 ns1:Vizavid a ns1:Publisher ;
     ns1:name "Vizavi éd."^^xsd:string .
 
@@ -5958,9 +5931,6 @@ ns1:duRocher a ns1:Publisher ;
 ns1:duSeuil a ns1:Publisher ;
     ns1:name "du Seuil"^^xsd:string .
 
-ns1:duSorbier a ns1:Publisher ;
-    ns1:name "du Sorbier"^^xsd:string .
-
 ns1:duSucrier a ns1:Publisher ;
     ns1:name "du Sucrier"^^xsd:string .
 
@@ -6221,9 +6191,6 @@ ns1:lePrduPlain a ns1:Publisher ;
 
 ns1:lePrintempsLte a ns1:Publisher ;
     ns1:name "le Printemps Ltée"^^xsd:string .
-
-ns1:leSablierd a ns1:Publisher ;
-    ns1:name "le Sablier éd."^^xsd:string .
 
 ns1:leSourirequimord a ns1:Publisher ;
     ns1:name "le Sourire qui mord"^^xsd:string .
