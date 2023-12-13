@@ -72226,23 +72226,14 @@ schema:authorConstellations10066 a author: ;
 schema:authorConstellations10069 a author: ;
     schema:familyName "David Ward" .
 
-schema:authorConstellations10071 a author: ;
-    schema:familyName "Érik Harvey-Girard" .
-
 schema:authorConstellations10072 a author: ;
     schema:familyName "Gaëlle Beaujean-Baltzer" .
 
 schema:authorConstellations10075 a author: ;
     schema:familyName "Nane et Jean-Luc Vézinet" .
 
-schema:authorConstellations10076 a author: ;
-    schema:familyName "Sandra V Feder" .
-
 schema:authorConstellations10080 a author: ;
     schema:familyName "Joanne Liu" .
-
-schema:authorConstellations10085 a author: ;
-    schema:familyName "Pedro Mañas" .
 
 schema:authorConstellations10104 a author: ;
     schema:familyName "Andy Briggs" .
@@ -72259,17 +72250,11 @@ schema:authorConstellations10118 a author: ;
 schema:authorConstellations10123 a author: ;
     schema:familyName "Holly M. McGhee" .
 
-schema:authorConstellations1013 a author: ;
-    schema:familyName "Isabel Minhós Martins" .
-
 schema:authorConstellations10138 a author: ;
     schema:familyName "Barbara Beery" .
 
 schema:authorConstellations1014 a author: ;
     schema:familyName "Beatriz Martin Vidal" .
-
-schema:authorConstellations10142 a author: ;
-    schema:familyName "Jean-Éric Perrin" .
 
 schema:authorConstellations10147 a author: ;
     schema:familyName "David Biedrzycki" .
@@ -72307,17 +72292,11 @@ schema:authorConstellations10192 a author: ;
 schema:authorConstellations1020 a author: ;
     schema:familyName "Sandhya Menon" .
 
-schema:authorConstellations10200 a author: ;
-    schema:familyName "Érick Seinandre" .
-
 schema:authorConstellations10217 a author: ;
     schema:familyName "Polly Alakja" .
 
-schema:authorConstellations10220 a author: ;
+schema:authorConstellations10219 a author: ;
     schema:familyName "Céline Auger" .
-
-schema:authorConstellations10225 a author: ;
-    schema:familyName "Anna Kovecses" .
 
 schema:authorConstellations10229 a author: ;
     schema:familyName "C.K. Kelly Martin" .
@@ -72373,7 +72352,7 @@ schema:authorConstellations1035 a author: ;
 schema:authorConstellations10358 a author: ;
     schema:familyName "Laura Rankin" .
 
-schema:authorConstellations10365 a author: ;
+schema:authorConstellations10366 a author: ;
     schema:familyName "Yi Jeong-sun" .
 
 schema:authorConstellations10367 a author: ;
@@ -72451,9 +72430,6 @@ schema:authorConstellations10490 a author: ;
 schema:authorConstellations10493 a author: ;
     schema:familyName "Robert Byrd" .
 
-schema:authorConstellations105 a author: ;
-    schema:familyName "Étienne Delessert" .
-
 schema:authorConstellations1050 a author: ;
     schema:familyName "Robert Heidbreder" .
 
@@ -72486,9 +72462,6 @@ schema:authorConstellations1056 a author: ;
 
 schema:authorConstellations10569 a author: ;
     schema:familyName "Rebecca Kai Dotlich" .
-
-schema:authorConstellations10572 a author: ;
-    schema:familyName "Adele Griffin" .
 
 schema:authorConstellations10580 a author: ;
     schema:familyName "Teri Kanefield" .
@@ -72601,9 +72574,6 @@ schema:authorConstellations10816 a author: ;
 schema:authorConstellations10819 a author: ;
     schema:familyName "Joel Sartore" .
 
-schema:authorConstellations10826 a author: ;
-    schema:familyName "Agnès de Ryckel" .
-
 schema:authorConstellations10830 a author: ;
     schema:familyName "Jen Arena" .
 
@@ -72630,9 +72600,6 @@ schema:authorConstellations10868 a author: ;
 
 schema:authorConstellations10880 a author: ;
     schema:familyName "Slavia Roy & Miki Miki" .
-
-schema:authorConstellations10882 a author: ;
-    schema:familyName "Vikki VanSickle" .
 
 schema:authorConstellations1089 a author: ;
     schema:familyName "Michael Ian Black" .
@@ -72688,9 +72655,6 @@ schema:authorConstellations10973 a author: ;
 schema:authorConstellations10987 a author: ;
     schema:familyName "Gwen Nell Westerman" .
 
-schema:authorConstellations10996 a author: ;
-    schema:familyName "Guillaume le Blanc" .
-
 schema:authorConstellations10999 a author: ;
     schema:familyName "Jesse Andrews" .
 
@@ -72730,9 +72694,6 @@ schema:authorConstellations11073 a author: ;
 schema:authorConstellations11077 a author: ;
     schema:familyName "Raynault-Desgagné" .
 
-schema:authorConstellations11094 a author: ;
-    schema:familyName "Élisabeth Duval" .
-
 schema:authorConstellations11107 a author: ;
     schema:familyName "Lynne Cherry" .
 
@@ -72744,9 +72705,6 @@ schema:authorConstellations11122 a author: ;
 
 schema:authorConstellations11124 a author: ;
     schema:familyName "Dianna Aston" .
-
-schema:authorConstellations11126 a author: ;
-    schema:familyName "Stefany Devaux" .
 
 schema:authorConstellations11131 a author: ;
     schema:familyName "Na'ima B. Robert" .
@@ -72775,17 +72733,11 @@ schema:authorConstellations11175 a author: ;
 schema:authorConstellations11178 a author: ;
     schema:familyName "Travis Jonker" .
 
-schema:authorConstellations1118 a author: ;
-    schema:familyName "Constanze v. Kitzing" .
-
 schema:authorConstellations11188 a author: ;
     schema:familyName "Christopher Silas Neil" .
 
 schema:authorConstellations11190 a author: ;
     schema:familyName "Lax" .
-
-schema:authorConstellations112 a author: ;
-    schema:familyName "Émilie Soleil" .
 
 schema:authorConstellations11202 a author: ;
     schema:familyName "Janice May Udry" .
@@ -72907,9 +72859,6 @@ schema:authorConstellations11416 a author: ;
 schema:authorConstellations11418 a author: ;
     schema:familyName "Mineko Mamada" .
 
-schema:authorConstellations11421 a author: ;
-    schema:familyName "Éléonore Thuillier" .
-
 schema:authorConstellations1143 a author: ;
     schema:familyName "Thomas Hegbrook" .
 
@@ -72949,7 +72898,7 @@ schema:authorConstellations11502 a author: ;
 schema:authorConstellations11512 a author: ;
     schema:familyName "Gérard de La Taille" .
 
-schema:authorConstellations11518 a author: ;
+schema:authorConstellations11517 a author: ;
     schema:familyName "Emmanuelle Rigon" .
 
 schema:authorConstellations11519 a author: ;
@@ -72973,14 +72922,8 @@ schema:authorConstellations1159 a author: ;
 schema:authorConstellations1170 a author: ;
     schema:familyName "Isabelle Beaudin" .
 
-schema:authorConstellations1176 a author: ;
-    schema:familyName "Emmanuelle Carre" .
-
 schema:authorConstellations1182 a author: ;
     schema:familyName "Jean de Brébeuf" .
-
-schema:authorConstellations1193 a author: ;
-    schema:familyName "Leo Timmers" .
 
 schema:authorConstellations1194 a author: ;
     schema:familyName "Harriet Ziefert" .
@@ -73039,9 +72982,6 @@ schema:authorConstellations1261 a author: ;
 schema:authorConstellations1264 a author: ;
     schema:familyName "Mem Fox" .
 
-schema:authorConstellations1267 a author: ;
-    schema:familyName "hélène Gaudy" .
-
 schema:authorConstellations1270 a author: ;
     schema:familyName "Franquin" .
 
@@ -73077,9 +73017,6 @@ schema:authorConstellations1304 a author: ;
 
 schema:authorConstellations131 a author: ;
     schema:familyName "Clive A. Lawton" .
-
-schema:authorConstellations1310 a author: ;
-    schema:familyName "Dorothée de Monfreid" .
 
 schema:authorConstellations1320 a author: ;
     schema:familyName "André Vanasse" .
@@ -73126,9 +73063,6 @@ schema:authorConstellations1367 a author: ;
 schema:authorConstellations137 a author: ;
     schema:familyName "del Pup" .
 
-schema:authorConstellations1377 a author: ;
-    schema:familyName "Guy de la Bédoyère" .
-
 schema:authorConstellations1378 a author: ;
     schema:familyName "Barbara Fradkin" .
 
@@ -73165,9 +73099,6 @@ schema:authorConstellations1404 a author: ;
 schema:authorConstellations1405 a author: ;
     schema:familyName "Karen Stanton" .
 
-schema:authorConstellations141 a author: ;
-    schema:familyName "Éric Battut" .
-
 schema:authorConstellations1418 a author: ;
     schema:familyName "Laurence Anholt" .
 
@@ -73200,9 +73131,6 @@ schema:authorConstellations1435 a author: ;
 
 schema:authorConstellations1436 a author: ;
     schema:familyName "Don Gillmor" .
-
-schema:authorConstellations144 a author: ;
-    schema:familyName "Françoise Rachmuhl" .
 
 schema:authorConstellations1441 a author: ;
     schema:familyName "Brenda Z. Guiberson" .
@@ -73255,17 +73183,11 @@ schema:authorConstellations1501 a author: ;
 schema:authorConstellations1509 a author: ;
     schema:familyName "Emily Lindin" .
 
-schema:authorConstellations1512 a author: ;
-    schema:familyName "JiHyeon Lee" .
-
 schema:authorConstellations1516 a author: ;
     schema:familyName "Tim Beiser" .
 
 schema:authorConstellations1517 a author: ;
     schema:familyName "Maureen Garvie" .
-
-schema:authorConstellations152 a author: ;
-    schema:familyName "Élisabeth Combres" .
 
 schema:authorConstellations1535 a author: ;
     schema:familyName "Lisa Moser" .
@@ -73306,9 +73228,6 @@ schema:authorConstellations1558 a author: ;
 schema:authorConstellations1563 a author: ;
     schema:familyName "Jan Thornhill" .
 
-schema:authorConstellations1567 a author: ;
-    schema:familyName "Églal Errera" .
-
 schema:authorConstellations157 a author: ;
     schema:familyName "Jean de La Fontaine" .
 
@@ -73320,9 +73239,6 @@ schema:authorConstellations1576 a author: ;
 
 schema:authorConstellations1578 a author: ;
     schema:familyName "Carme Leminscates" .
-
-schema:authorConstellations158 a author: ;
-    schema:familyName "Guido van Genechten" .
 
 schema:authorConstellations1583 a author: ;
     schema:familyName "Georgia Graham" .
@@ -73339,10 +73255,10 @@ schema:authorConstellations159 a author: ;
 schema:authorConstellations1593 a author: ;
     schema:familyName "Trilby Kent" .
 
-schema:authorConstellations1601 a author: ;
+schema:authorConstellations1602 a author: ;
     schema:familyName "Piet Ledden" .
 
-schema:authorConstellations1604 a author: ;
+schema:authorConstellations1605 a author: ;
     schema:familyName "Valentine Del" .
 
 schema:authorConstellations1614 a author: ;
@@ -73356,9 +73272,6 @@ schema:authorConstellations1616 a author: ;
 
 schema:authorConstellations1617 a author: ;
     schema:familyName "Lisa Dalrymple" .
-
-schema:authorConstellations1625 a author: ;
-    schema:familyName "Peter Sís" .
 
 schema:authorConstellations1627 a author: ;
     schema:familyName "Trevor Noah" .
@@ -73474,9 +73387,6 @@ schema:authorConstellations1768 a author: ;
 schema:authorConstellations1771 a author: ;
     schema:familyName "Wanda Gág" .
 
-schema:authorConstellations1773 a author: ;
-    schema:familyName "Émilie Ramel" .
-
 schema:authorConstellations1779 a author: ;
     schema:familyName "Mike Ulmer" .
 
@@ -73504,14 +73414,8 @@ schema:authorConstellations1814 a author: ;
 schema:authorConstellations1816 a author: ;
     schema:familyName "Margaret Lysecki" .
 
-schema:authorConstellations1818 a author: ;
-    schema:familyName " Lemony Snicket" .
-
 schema:authorConstellations182 a author: ;
     schema:familyName "Chris Butterworth" .
-
-schema:authorConstellations1834 a author: ;
-    schema:familyName "Éric-Emmanuel Schmitt" .
 
 schema:authorConstellations1835 a author: ;
     schema:familyName "Roxie Munro" .
@@ -73534,17 +73438,11 @@ schema:authorConstellations1861 a author: ;
 schema:authorConstellations1864 a author: ;
     schema:familyName "Edward Hardy" .
 
-schema:authorConstellations1867 a author: ;
-    schema:familyName "Érik L'Homme" .
-
 schema:authorConstellations188 a author: ;
     schema:familyName "Robert Munsch" .
 
 schema:authorConstellations1880 a author: ;
     schema:familyName "Todd Parr" .
-
-schema:authorConstellations1881 a author: ;
-    schema:familyName "Ann de Bode" .
 
 schema:authorConstellations1891 a author: ;
     schema:familyName "Sam Page" .
@@ -73584,9 +73482,6 @@ schema:authorConstellations1935 a author: ;
 
 schema:authorConstellations1938 a author: ;
     schema:familyName "Graeme Base" .
-
-schema:authorConstellations1941 a author: ;
-    schema:familyName "Émile Gaboriau" .
 
 schema:authorConstellations1943 a author: ;
     schema:familyName "Natalie Mae" .
@@ -73666,9 +73561,6 @@ schema:authorConstellations2042 a author: ;
 schema:authorConstellations2046 a author: ;
     schema:familyName "Jack Prelutsky" .
 
-schema:authorConstellations2058 a author: ;
-    schema:familyName "Soon-mi Hong" .
-
 schema:authorConstellations2073 a author: ;
     schema:familyName "Dominique de Saint Mars" .
 
@@ -73689,9 +73581,6 @@ schema:authorConstellations2105 a author: ;
 
 schema:authorConstellations2112 a author: ;
     schema:familyName "Steve Light" .
-
-schema:authorConstellations212 a author: ;
-    schema:familyName "Petr Horácek" .
 
 schema:authorConstellations2121 a author: ;
     schema:familyName "Francesca Zappia" .
@@ -73720,9 +73609,6 @@ schema:authorConstellations2165 a author: ;
 schema:authorConstellations217 a author: ;
     schema:familyName "Esmé Shapiro" .
 
-schema:authorConstellations2173 a author: ;
-    schema:familyName "Émilie Vast" .
-
 schema:authorConstellations2176 a author: ;
     schema:familyName "Adwoa Badoe" .
 
@@ -73741,7 +73627,7 @@ schema:authorConstellations2195 a author: ;
 schema:authorConstellations2197 a author: ;
     schema:familyName "Adèle Geras" .
 
-schema:authorConstellations2200 a author: ;
+schema:authorConstellations2201 a author: ;
     schema:familyName "Kim Mi-yeon" .
 
 schema:authorConstellations2203 a author: ;
@@ -73816,9 +73702,6 @@ schema:authorConstellations231 a author: ;
 schema:authorConstellations2312 a author: ;
     schema:familyName "Josephine Nobisso" .
 
-schema:authorConstellations2314 a author: ;
-    schema:familyName "Melissa de la Cruz" .
-
 schema:authorConstellations2315 a author: ;
     schema:familyName "Sudipta Bardhan-Quallen" .
 
@@ -73859,10 +73742,10 @@ schema:authorConstellations2369 a author: ;
     schema:familyName "Sebastian Meschenmoser" .
 
 schema:authorConstellations2373 a author: ;
-    schema:familyName "Rita Schiavo" .
+    schema:familyName "Cristina Banfi" .
 
 schema:authorConstellations2374 a author: ;
-    schema:familyName "Cristina Banfi" .
+    schema:familyName "Rita Schiavo" .
 
 schema:authorConstellations2375 a author: ;
     schema:familyName "Jennifer Gasoi" .
@@ -73906,14 +73789,8 @@ schema:authorConstellations2457 a author: ;
 schema:authorConstellations2459 a author: ;
     schema:familyName "Kevin O'Malley" .
 
-schema:authorConstellations2465 a author: ;
-    schema:familyName "Åsa Lind" .
-
 schema:authorConstellations2471 a author: ;
     schema:familyName "Susan Vaught" .
-
-schema:authorConstellations2473 a author: ;
-    schema:familyName "Komako Sakaï" .
 
 schema:authorConstellations2480 a author: ;
     schema:familyName "Loris Lesynski" .
@@ -73936,9 +73813,6 @@ schema:authorConstellations2506 a author: ;
 schema:authorConstellations251 a author: ;
     schema:familyName "Billi Rosen" .
 
-schema:authorConstellations2513 a author: ;
-    schema:familyName "Dong-jae Yun" .
-
 schema:authorConstellations2526 a author: ;
     schema:familyName "Kim Yaroshevskaya" .
 
@@ -73948,9 +73822,6 @@ schema:authorConstellations2538 a author: ;
 schema:authorConstellations2539 a author: ;
     schema:familyName "Diane Fox" .
 
-schema:authorConstellations2540 a author: ;
-    schema:familyName "Francine Légaré" .
-
 schema:authorConstellations2543 a author: ;
     schema:familyName "Kirby Larson" .
 
@@ -73959,9 +73830,6 @@ schema:authorConstellations2545 a author: ;
 
 schema:authorConstellations2551 a author: ;
     schema:familyName "Dominique de Saint-Mars" .
-
-schema:authorConstellations2559 a author: ;
-    schema:familyName "Osvaldo Torres" .
 
 schema:authorConstellations256 a author: ;
     schema:familyName "Cynthia O'Brien" .
@@ -73974,9 +73842,6 @@ schema:authorConstellations2590 a author: ;
 
 schema:authorConstellations2598 a author: ;
     schema:familyName "Kerrin Jessica Scott" .
-
-schema:authorConstellations2600 a author: ;
-    schema:familyName "Paul Éluard" .
 
 schema:authorConstellations2604 a author: ;
     schema:familyName "John Stringer" .
@@ -74000,10 +73865,10 @@ schema:authorConstellations2631 a author: ;
     schema:familyName "Margery Cuyler" .
 
 schema:authorConstellations2632 a author: ;
-    schema:familyName "Jorgen Moe" .
+    schema:familyName "Christen Asbjornsen" .
 
 schema:authorConstellations2633 a author: ;
-    schema:familyName "Christen Asbjornsen" .
+    schema:familyName "Jorgen Moe" .
 
 schema:authorConstellations2636 a author: ;
     schema:familyName "Roy Lewis" .
@@ -74035,9 +73900,6 @@ schema:authorConstellations2662 a author: ;
 schema:authorConstellations2668 a author: ;
     schema:familyName "Thao Lam" .
 
-schema:authorConstellations267 a author: ;
-    schema:familyName "Peter H. Reynolds" .
-
 schema:authorConstellations2670 a author: ;
     schema:familyName "Barbara Kerley" .
 
@@ -74058,9 +73920,6 @@ schema:authorConstellations2707 a author: ;
 
 schema:authorConstellations2714 a author: ;
     schema:familyName "Serge Gauthier" .
-
-schema:authorConstellations2715 a author: ;
-    schema:familyName "Dušan Petričić" .
 
 schema:authorConstellations2718 a author: ;
     schema:familyName "Monique Corriveau" .
@@ -74101,17 +73960,11 @@ schema:authorConstellations2770 a author: ;
 schema:authorConstellations2774 a author: ;
     schema:familyName "Andrea Davis Pinkney" .
 
-schema:authorConstellations2775 a author: ;
-    schema:familyName "Gerald Rose" .
-
 schema:authorConstellations2779 a author: ;
     schema:familyName "Paul Challen" .
 
 schema:authorConstellations2780 a author: ;
     schema:familyName "Michelle Maillet" .
-
-schema:authorConstellations2784 a author: ;
-    schema:familyName "Philippe de Kemmeter" .
 
 schema:authorConstellations2791 a author: ;
     schema:familyName "Jill Esbaum" .
@@ -74152,9 +74005,6 @@ schema:authorConstellations2835 a author: ;
 schema:authorConstellations2838 a author: ;
     schema:familyName "Lester L. Laminack" .
 
-schema:authorConstellations2850 a author: ;
-    schema:familyName "Gaétan Brulotte" .
-
 schema:authorConstellations2852 a author: ;
     schema:familyName "Marine Leavitt" .
 
@@ -74188,7 +74038,7 @@ schema:authorConstellations2885 a author: ;
 schema:authorConstellations2886 a author: ;
     schema:familyName "Delphine Gravier" .
 
-schema:authorConstellations2894 a author: ;
+schema:authorConstellations2893 a author: ;
     schema:familyName "Lucille Guittienne" .
 
 schema:authorConstellations2895 a author: ;
@@ -74205,9 +74055,6 @@ schema:authorConstellations2901 a author: ;
 
 schema:authorConstellations2905 a author: ;
     schema:familyName "Philippe Andrieu" .
-
-schema:authorConstellations2910 a author: ;
-    schema:familyName "Xavier Salomó" .
 
 schema:authorConstellations2924 a author: ;
     schema:familyName "Barnabas Kindersley" .
@@ -74285,10 +74132,10 @@ schema:authorConstellations3048 a author: ;
     schema:familyName "Caroline Adderson" .
 
 schema:authorConstellations3052 a author: ;
-    schema:familyName "Sharon Jeroski" .
+    schema:familyName "Maureen Dockendorf" .
 
 schema:authorConstellations3053 a author: ;
-    schema:familyName "Maureen Dockendorf" .
+    schema:familyName "Sharon Jeroski" .
 
 schema:authorConstellations3063 a author: ;
     schema:familyName "Camara Laye" .
@@ -74371,9 +74218,6 @@ schema:authorConstellations3200 a author: ;
 schema:authorConstellations3202 a author: ;
     schema:familyName "Deborah Heiligman" .
 
-schema:authorConstellations3203 a author: ;
-    schema:familyName "Carlos Ruiz Zafón" .
-
 schema:authorConstellations3207 a author: ;
     schema:familyName "Kathleen Cherry" .
 
@@ -74400,9 +74244,6 @@ schema:authorConstellations3245 a author: ;
 
 schema:authorConstellations3260 a author: ;
     schema:familyName "Louise Flaherty" .
-
-schema:authorConstellations3261 a author: ;
-    schema:familyName "Elizabeth Turgeon" .
 
 schema:authorConstellations3262 a author: ;
     schema:familyName "Lois Brandt" .
@@ -74440,12 +74281,6 @@ schema:authorConstellations3311 a author: ;
 schema:authorConstellations3313 a author: ;
     schema:familyName "Anne Rockwell" .
 
-schema:authorConstellations3320 a author: ;
-    schema:familyName "Daniel Defoë" .
-
-schema:authorConstellations3331 a author: ;
-    schema:familyName "Sara O’Leary" .
-
 schema:authorConstellations3334 a author: ;
     schema:familyName "Kathryn O. Galbraith" .
 
@@ -74467,17 +74302,11 @@ schema:authorConstellations3344 a author: ;
 schema:authorConstellations3347 a author: ;
     schema:familyName "Meg Fleming" .
 
-schema:authorConstellations3351 a author: ;
-    schema:familyName "José Ramón Alonso" .
-
 schema:authorConstellations3376 a author: ;
     schema:familyName "Bathsheba Opini" .
 
 schema:authorConstellations338 a author: ;
     schema:familyName "Tang Zhifang" .
-
-schema:authorConstellations3381 a author: ;
-    schema:familyName "Adriana Brandão" .
 
 schema:authorConstellations3383 a author: ;
     schema:familyName "Robin Johnson" .
@@ -74503,17 +74332,8 @@ schema:authorConstellations342 a author: ;
 schema:authorConstellations3422 a author: ;
     schema:familyName "Sandra Boynton" .
 
-schema:authorConstellations3426 a author: ;
-    schema:familyName "Éric Simard" .
-
-schema:authorConstellations3428 a author: ;
-    schema:familyName "Heliane Bernard" .
-
 schema:authorConstellations3434 a author: ;
     schema:familyName "Natasha Anastasia Tarpley" .
-
-schema:authorConstellations3440 a author: ;
-    schema:familyName "Élisabeth Brami" .
 
 schema:authorConstellations3441 a author: ;
     schema:familyName "Eric Braun" .
@@ -74523,9 +74343,6 @@ schema:authorConstellations3451 a author: ;
 
 schema:authorConstellations3454 a author: ;
     schema:familyName "Kressmann Taylor" .
-
-schema:authorConstellations3464 a author: ;
-    schema:familyName "Alki Zèi" .
 
 schema:authorConstellations3467 a author: ;
     schema:familyName "Katie Smith Milway" .
@@ -74559,12 +74376,6 @@ schema:authorConstellations3508 a author: ;
 
 schema:authorConstellations3525 a author: ;
     schema:familyName "Valerie Wyatt" .
-
-schema:authorConstellations3531 a author: ;
-    schema:familyName "Élisabeth Dumont-Le Cornec" .
-
-schema:authorConstellations3533 a author: ;
-    schema:familyName "Hervé Éparvier" .
 
 schema:authorConstellations3539 a author: ;
     schema:familyName "Mike Twohy" .
@@ -74608,17 +74419,8 @@ schema:authorConstellations3596 a author: ;
 schema:authorConstellations3597 a author: ;
     schema:familyName "Roxane Orgill" .
 
-schema:authorConstellations3603 a author: ;
-    schema:familyName "Pénelope Jossen" .
-
-schema:authorConstellations3604 a author: ;
-    schema:familyName "Françoise de Luca" .
-
 schema:authorConstellations3606 a author: ;
     schema:familyName "Bernard Boucher" .
-
-schema:authorConstellations3615 a author: ;
-    schema:familyName "Éric Pessan" .
 
 schema:authorConstellations3634 a author: ;
     schema:familyName "Natalie Hyde" .
@@ -74650,9 +74452,6 @@ schema:authorConstellations3666 a author: ;
 schema:authorConstellations3667 a author: ;
     schema:familyName "Sarah Hoffman" .
 
-schema:authorConstellations367 a author: ;
-    schema:familyName "Diána Nagy" .
-
 schema:authorConstellations3670 a author: ;
     schema:familyName "Geoffrey Galand" .
 
@@ -74664,9 +74463,6 @@ schema:authorConstellations3680 a author: ;
 
 schema:authorConstellations3684 a author: ;
     schema:familyName "Patty Bowman" .
-
-schema:authorConstellations3688 a author: ;
-    schema:familyName "Étienne Klein" .
 
 schema:authorConstellations3709 a author: ;
     schema:familyName "Paula Fox" .
@@ -74694,9 +74490,6 @@ schema:authorConstellations3735 a author: ;
 
 schema:authorConstellations3738 a author: ;
     schema:familyName "Arthur Dorros" .
-
-schema:authorConstellations3739 a author: ;
-    schema:familyName "Émilie Chazerand" .
 
 schema:authorConstellations3740 a author: ;
     schema:familyName "David West" .
@@ -74727,12 +74520,6 @@ schema:authorConstellations3811 a author: ;
 
 schema:authorConstellations3822 a author: ;
     schema:familyName "Lance Woolaver" .
-
-schema:authorConstellations3824 a author: ;
-    schema:familyName "Émile Jadoul" .
-
-schema:authorConstellations3825 a author: ;
-    schema:familyName "Dr. Seuss" .
 
 schema:authorConstellations383 a author: ;
     schema:familyName "Rachel Isadora" .
@@ -74776,9 +74563,6 @@ schema:authorConstellations39 a author: ;
 schema:authorConstellations3908 a author: ;
     schema:familyName "R. M. Romero" .
 
-schema:authorConstellations391 a author: ;
-    schema:familyName "Ésope" .
-
 schema:authorConstellations3911 a author: ;
     schema:familyName "Rana DiOrio" .
 
@@ -74794,7 +74578,7 @@ schema:authorConstellations3915 a author: ;
 schema:authorConstellations3918 a author: ;
     schema:familyName "Lauren Redniss" .
 
-schema:authorConstellations3921 a author: ;
+schema:authorConstellations3920 a author: ;
     schema:familyName "Sophie Bordet" .
 
 schema:authorConstellations3924 a author: ;
@@ -74815,9 +74599,6 @@ schema:authorConstellations3954 a author: ;
 schema:authorConstellations3968 a author: ;
     schema:familyName "Kirsty (ed.) Murray" .
 
-schema:authorConstellations397 a author: ;
-    schema:familyName "Jeanne-A. Debats" .
-
 schema:authorConstellations3974 a author: ;
     schema:familyName "Sonya Spreen Bates" .
 
@@ -74836,9 +74617,6 @@ schema:authorConstellations3984 a author: ;
 schema:authorConstellations3994 a author: ;
     schema:familyName "Patricia Polacco" .
 
-schema:authorConstellations3996 a author: ;
-    schema:familyName "Jose Manuel Mateo Calderón" .
-
 schema:authorConstellations3997 a author: ;
     schema:familyName "Sylvie de Mathuisieulx" .
 
@@ -74849,10 +74627,10 @@ schema:authorConstellations400 a author: ;
     schema:familyName "Allan Baillie" .
 
 schema:authorConstellations4001 a author: ;
-    schema:familyName "Kate Shaftoe" .
+    schema:familyName "Gib Goodfellow" .
 
 schema:authorConstellations4002 a author: ;
-    schema:familyName "Gib Goodfellow" .
+    schema:familyName "Kate Shaftoe" .
 
 schema:authorConstellations4004 a author: ;
     schema:familyName "Crescent Dragonwagon" .
@@ -75025,9 +74803,6 @@ schema:authorConstellations4273 a author: ;
 schema:authorConstellations4282 a author: ;
     schema:familyName "Kim Jong-ryeol" .
 
-schema:authorConstellations4290 a author: ;
-    schema:familyName "Noëmie Forget" .
-
 schema:authorConstellations4296 a author: ;
     schema:familyName "Tera Kelley" .
 
@@ -75039,9 +74814,6 @@ schema:authorConstellations4302 a author: ;
 
 schema:authorConstellations4305 a author: ;
     schema:familyName "Amélie Nothomb" .
-
-schema:authorConstellations431 a author: ;
-    schema:familyName "Éric Sanvoisin" .
 
 schema:authorConstellations4311 a author: ;
     schema:familyName "Camilla de la Béyodère" .
@@ -75142,9 +74914,6 @@ schema:authorConstellations4436 a author: ;
 schema:authorConstellations445 a author: ;
     schema:familyName "Amanda Bishop" .
 
-schema:authorConstellations4450 a author: ;
-    schema:familyName "Ramona Bădescu" .
-
 schema:authorConstellations4453 a author: ;
     schema:familyName "Meg Wolitzer" .
 
@@ -75166,7 +74935,7 @@ schema:authorConstellations447 a author: ;
 schema:authorConstellations4475 a author: ;
     schema:familyName "Joan W. Blos" .
 
-schema:authorConstellations4482 a author: ;
+schema:authorConstellations4481 a author: ;
     schema:familyName "Anne Chabert" .
 
 schema:authorConstellations4489 a author: ;
@@ -75295,9 +75064,6 @@ schema:authorConstellations4722 a author: ;
 schema:authorConstellations4726 a author: ;
     schema:familyName "Scott Menchin" .
 
-schema:authorConstellations4734 a author: ;
-    schema:familyName "Béatrice Égémar" .
-
 schema:authorConstellations4739 a author: ;
     schema:familyName "Arin Andrews" .
 
@@ -75345,9 +75111,6 @@ schema:authorConstellations478 a author: ;
 
 schema:authorConstellations4789 a author: ;
     schema:familyName "Jill MacLean" .
-
-schema:authorConstellations479 a author: ;
-    schema:familyName "Valerie Zenatti" .
 
 schema:authorConstellations4790 a author: ;
     schema:familyName "Diane Z. Shore" .
@@ -75397,9 +75160,6 @@ schema:authorConstellations4881 a author: ;
 schema:authorConstellations4898 a author: ;
     schema:familyName "Elizabeth Baguley" .
 
-schema:authorConstellations4905 a author: ;
-    schema:familyName "Elizabeth Macleod" .
-
 schema:authorConstellations4910 a author: ;
     schema:familyName "La Bolduc" .
 
@@ -75418,7 +75178,7 @@ schema:authorConstellations492 a author: ;
 schema:authorConstellations4928 a author: ;
     schema:familyName "Gary Jeffrey" .
 
-schema:authorConstellations4930 a author: ;
+schema:authorConstellations4929 a author: ;
     schema:familyName "Hélène Bonis" .
 
 schema:authorConstellations4934 a author: ;
@@ -75439,9 +75199,6 @@ schema:authorConstellations4955 a author: ;
 schema:authorConstellations4956 a author: ;
     schema:familyName "Joanne Roberston" .
 
-schema:authorConstellations4957 a author: ;
-    schema:familyName "Jerôme Carrier" .
-
 schema:authorConstellations4963 a author: ;
     schema:familyName "Josh Sundquist" .
 
@@ -75453,9 +75210,6 @@ schema:authorConstellations4966 a author: ;
 
 schema:authorConstellations4969 a author: ;
     schema:familyName "Adam Lehrhaupt" .
-
-schema:authorConstellations497 a author: ;
-    schema:familyName "Édouard Manceau" .
 
 schema:authorConstellations4970 a author: ;
     schema:familyName "Mal Peet" .
@@ -75481,7 +75235,7 @@ schema:authorConstellations4988 a author: ;
 schema:authorConstellations500 a author: ;
     schema:familyName "Tatiana Fraser" .
 
-schema:authorConstellations5008 a author: ;
+schema:authorConstellations5007 a author: ;
     schema:familyName "M. Bergeron" .
 
 schema:authorConstellations5017 a author: ;
@@ -75601,9 +75355,6 @@ schema:authorConstellations5182 a author: ;
 schema:authorConstellations5187 a author: ;
     schema:familyName "Marielle D. Khoury" .
 
-schema:authorConstellations5188 a author: ;
-    schema:familyName "J.-H Rosny Aîné" .
-
 schema:authorConstellations5189 a author: ;
     schema:familyName "Justine de Lagausie" .
 
@@ -75688,9 +75439,6 @@ schema:authorConstellations5316 a author: ;
 schema:authorConstellations5317 a author: ;
     schema:familyName "Marilyn Eric & Sadler Comstock" .
 
-schema:authorConstellations5318 a author: ;
-    schema:familyName "Albena Ivanovitch-Lair" .
-
 schema:authorConstellations532 a author: ;
     schema:familyName "Janet Barkhouse" .
 
@@ -75699,9 +75447,6 @@ schema:authorConstellations5333 a author: ;
 
 schema:authorConstellations5336 a author: ;
     schema:familyName "Guillevic" .
-
-schema:authorConstellations5347 a author: ;
-    schema:familyName "Davide Calì" .
 
 schema:authorConstellations5349 a author: ;
     schema:familyName "Ted Hughes" .
@@ -75715,9 +75460,6 @@ schema:authorConstellations5350 a author: ;
 schema:authorConstellations5365 a author: ;
     schema:familyName "Charles Thierry d’après Perrault Dedieu" .
 
-schema:authorConstellations5367 a author: ;
-    schema:familyName "Michel del Castillo" .
-
 schema:authorConstellations5368 a author: ;
     schema:familyName "Paul Driessen" .
 
@@ -75727,14 +75469,8 @@ schema:authorConstellations537 a author: ;
 schema:authorConstellations5371 a author: ;
     schema:familyName "Laura Murray" .
 
-schema:authorConstellations5373 a author: ;
-    schema:familyName "Éric Mathivet" .
-
 schema:authorConstellations5375 a author: ;
     schema:familyName "Robert Macfarlane" .
-
-schema:authorConstellations538 a author: ;
-    schema:familyName "Michael Gerard Bauer" .
 
 schema:authorConstellations5382 a author: ;
     schema:familyName "Anne-Charlotte Voorhoeve" .
@@ -75799,9 +75535,6 @@ schema:authorConstellations5478 a author: ;
 schema:authorConstellations5482 a author: ;
     schema:familyName "Alison Limentani" .
 
-schema:authorConstellations5488 a author: ;
-    schema:familyName "Gabriel García Márquez" .
-
 schema:authorConstellations5497 a author: ;
     schema:familyName "Susan Montanari" .
 
@@ -75829,9 +75562,6 @@ schema:authorConstellations5528 a author: ;
 schema:authorConstellations5535 a author: ;
     schema:familyName "Gabriela Olmos" .
 
-schema:authorConstellations5537 a author: ;
-    schema:familyName "Fibretigre" .
-
 schema:authorConstellations5540 a author: ;
     schema:familyName "Somaiya Daud" .
 
@@ -75852,9 +75582,6 @@ schema:authorConstellations5554 a author: ;
 
 schema:authorConstellations5557 a author: ;
     schema:familyName "Catherine Bousquet" .
-
-schema:authorConstellations5558 a author: ;
-    schema:familyName "Aleksandra Mizielińska" .
 
 schema:authorConstellations5564 a author: ;
     schema:familyName "Éric Corbeyran" .
@@ -75895,14 +75622,8 @@ schema:authorConstellations5594 a author: ;
 schema:authorConstellations5599 a author: ;
     schema:familyName "David M. Schwartz" .
 
-schema:authorConstellations5606 a author: ;
-    schema:familyName "Émile Zola" .
-
 schema:authorConstellations561 a author: ;
     schema:familyName "Deborah Hopkinson" .
-
-schema:authorConstellations5611 a author: ;
-    schema:familyName "Rafael Ábalos" .
 
 schema:authorConstellations5612 a author: ;
     schema:familyName "Ariel Cohn" .
@@ -75927,9 +75648,6 @@ schema:authorConstellations5630 a author: ;
 
 schema:authorConstellations5634 a author: ;
     schema:familyName "Stan Rogers" .
-
-schema:authorConstellations5638 a author: ;
-    schema:familyName "Paola Ciarcià" .
 
 schema:authorConstellations564 a author: ;
     schema:familyName "Rocky Landon" .
@@ -76012,26 +75730,14 @@ schema:authorConstellations579 a author: ;
 schema:authorConstellations5794 a author: ;
     schema:familyName "Yannick Professeur Scientifix et Bergeron" .
 
-schema:authorConstellations5799 a author: ;
-    schema:familyName "Antonio Skármeta" .
-
-schema:authorConstellations5801 a author: ;
-    schema:familyName "Jean-Loic Le Quellec" .
-
 schema:authorConstellations5802 a author: ;
     schema:familyName "Susanna Tamaro" .
 
 schema:authorConstellations5809 a author: ;
     schema:familyName "Sonya Sones" .
 
-schema:authorConstellations5815 a author: ;
-    schema:familyName "Sebastien Meschenmoser" .
-
 schema:authorConstellations5827 a author: ;
     schema:familyName "Arlene Alda" .
-
-schema:authorConstellations5832 a author: ;
-    schema:familyName "Nicola O’Byrne" .
 
 schema:authorConstellations5836 a author: ;
     schema:familyName "Jean-Luc Dorier" .
@@ -76120,9 +75826,6 @@ schema:authorConstellations5976 a author: ;
 schema:authorConstellations598 a author: ;
     schema:familyName "Monica Gunning" .
 
-schema:authorConstellations5983 a author: ;
-    schema:familyName "Éric Adam" .
-
 schema:authorConstellations5987 a author: ;
     schema:familyName "Nic Bishop" .
 
@@ -76144,9 +75847,6 @@ schema:authorConstellations6015 a author: ;
 schema:authorConstellations6018 a author: ;
     schema:familyName "Florence Reynaud" .
 
-schema:authorConstellations602 a author: ;
-    schema:familyName "Luis Sepúlveda" .
-
 schema:authorConstellations6024 a author: ;
     schema:familyName "Whitney Stewart" .
 
@@ -76164,9 +75864,6 @@ schema:authorConstellations6040 a author: ;
 
 schema:authorConstellations6041 a author: ;
     schema:familyName "Betty Quan" .
-
-schema:authorConstellations6048 a author: ;
-    schema:familyName "Matt De la Peña" .
 
 schema:authorConstellations605 a author: ;
     schema:familyName "Frances H. Burnett" .
@@ -76209,9 +75906,6 @@ schema:authorConstellations615 a author: ;
 
 schema:authorConstellations6151 a author: ;
     schema:familyName "Joyce Grant" .
-
-schema:authorConstellations6164 a author: ;
-    schema:familyName "Régine Josephine" .
 
 schema:authorConstellations6172 a author: ;
     schema:familyName "Pamela Oldfield" .
@@ -76276,14 +75970,8 @@ schema:authorConstellations6285 a author: ;
 schema:authorConstellations6286 a author: ;
     schema:familyName "Le Défenseur des droits" .
 
-schema:authorConstellations6293 a author: ;
-    schema:familyName "Élisabeth Motsch" .
-
 schema:authorConstellations6297 a author: ;
     schema:familyName "Juana Martinez-Neal" .
-
-schema:authorConstellations6302 a author: ;
-    schema:familyName "Éric Teyssier" .
 
 schema:authorConstellations6305 a author: ;
     schema:familyName "Jill McElmurry" .
@@ -76351,9 +76039,6 @@ schema:authorConstellations6388 a author: ;
 schema:authorConstellations639 a author: ;
     schema:familyName "Sheryl Shapiro" .
 
-schema:authorConstellations6390 a author: ;
-    schema:familyName "Marta Comín" .
-
 schema:authorConstellations6396 a author: ;
     schema:familyName "Frances Itani" .
 
@@ -76362,9 +76047,6 @@ schema:authorConstellations6403 a author: ;
 
 schema:authorConstellations6407 a author: ;
     schema:familyName "Per-Henrik Gürth" .
-
-schema:authorConstellations642 a author: ;
-    schema:familyName "Camilla de la Bédoyère" .
 
 schema:authorConstellations6421 a author: ;
     schema:familyName "Suzanne Nelson" .
@@ -76392,9 +76074,6 @@ schema:authorConstellations6442 a author: ;
 
 schema:authorConstellations6447 a author: ;
     schema:familyName "Yves Heurté" .
-
-schema:authorConstellations6449 a author: ;
-    schema:familyName "Aleksandra Mizielínska" .
 
 schema:authorConstellations6452 a author: ;
     schema:familyName "Stephanie Meyers" .
@@ -76424,13 +76103,10 @@ schema:authorConstellations6511 a author: ;
     schema:familyName "Anne et  Jacques Six" .
 
 schema:authorConstellations6520 a author: ;
-    schema:familyName "Harry Hughes" .
-
-schema:authorConstellations6521 a author: ;
     schema:familyName "Anne O'Brien" .
 
-schema:authorConstellations6526 a author: ;
-    schema:familyName "Myriam de Repentigny" .
+schema:authorConstellations6521 a author: ;
+    schema:familyName "Harry Hughes" .
 
 schema:authorConstellations6528 a author: ;
     schema:familyName "Gail Giles" .
@@ -76474,9 +76150,6 @@ schema:authorConstellations6581 a author: ;
 schema:authorConstellations6599 a author: ;
     schema:familyName "Karma Wilson" .
 
-schema:authorConstellations66 a author: ;
-    schema:familyName "Hye-sook Kang" .
-
 schema:authorConstellations6602 a author: ;
     schema:familyName "Andreas Oertel" .
 
@@ -76506,9 +76179,6 @@ schema:authorConstellations664 a author: ;
 
 schema:authorConstellations6649 a author: ;
     schema:familyName "Darren Groth" .
-
-schema:authorConstellations665 a author: ;
-    schema:familyName "Paule du Bouchet" .
 
 schema:authorConstellations6651 a author: ;
     schema:familyName "Barbara Todd" .
@@ -76597,7 +76267,7 @@ schema:authorConstellations6800 a author: ;
 schema:authorConstellations6802 a author: ;
     schema:familyName "Claire Obscure" .
 
-schema:authorConstellations6807 a author: ;
+schema:authorConstellations6808 a author: ;
     schema:familyName "Heather Levigne" .
 
 schema:authorConstellations6815 a author: ;
@@ -76633,9 +76303,6 @@ schema:authorConstellations6853 a author: ;
 schema:authorConstellations6857 a author: ;
     schema:familyName "Sheri Bell-Rehwoldt" .
 
-schema:authorConstellations686 a author: ;
-    schema:familyName "Blanca Gómez" .
-
 schema:authorConstellations6860 a author: ;
     schema:familyName "Kokor" .
 
@@ -76663,9 +76330,6 @@ schema:authorConstellations6878 a author: ;
 schema:authorConstellations6886 a author: ;
     schema:familyName "I. C. Springman" .
 
-schema:authorConstellations6887 a author: ;
-    schema:familyName "Yong-Ran Kim" .
-
 schema:authorConstellations6896 a author: ;
     schema:familyName "Daniel Loxton" .
 
@@ -76690,20 +76354,17 @@ schema:authorConstellations6934 a author: ;
 schema:authorConstellations6943 a author: ;
     schema:familyName "Saima Shakil Hussain" .
 
-schema:authorConstellations695 a author: ;
-    schema:familyName "Benoit Tardif" .
-
 schema:authorConstellations6950 a author: ;
     schema:familyName "Vicki Delany" .
-
-schema:authorConstellations696 a author: ;
-    schema:familyName "Régis Le" .
 
 schema:authorConstellations6962 a author: ;
     schema:familyName "Meg Kearney" .
 
 schema:authorConstellations6965 a author: ;
     schema:familyName "Primo Levi" .
+
+schema:authorConstellations697 a author: ;
+    schema:familyName "Régis Le" .
 
 schema:authorConstellations6976 a author: ;
     schema:familyName "Janet Lord" .
@@ -76750,9 +76411,6 @@ schema:authorConstellations7027 a author: ;
 schema:authorConstellations7028 a author: ;
     schema:familyName "Ikeda Kayoko" .
 
-schema:authorConstellations703 a author: ;
-    schema:familyName "César Mallorquí" .
-
 schema:authorConstellations7039 a author: ;
     schema:familyName "Berenice Capatti" .
 
@@ -76795,7 +76453,7 @@ schema:authorConstellations7138 a author: ;
 schema:authorConstellations7140 a author: ;
     schema:familyName "Kareem Abdul-Jabbar" .
 
-schema:authorConstellations7143 a author: ;
+schema:authorConstellations7142 a author: ;
     schema:familyName "Ingrid Houdenhove" .
 
 schema:authorConstellations7147 a author: ;
@@ -76852,9 +76510,6 @@ schema:authorConstellations7207 a author: ;
 schema:authorConstellations721 a author: ;
     schema:familyName "Pat Brisson" .
 
-schema:authorConstellations7211 a author: ;
-    schema:familyName "Géraldina Colotti" .
-
 schema:authorConstellations7223 a author: ;
     schema:familyName "Donald Brien Johnson" .
 
@@ -76864,14 +76519,8 @@ schema:authorConstellations7224 a author: ;
 schema:authorConstellations7225 a author: ;
     schema:familyName "Serge Prokofiev" .
 
-schema:authorConstellations7229 a author: ;
-    schema:familyName "Benoît Frébourg" .
-
 schema:authorConstellations7235 a author: ;
     schema:familyName "Michelle Barker" .
-
-schema:authorConstellations724 a author: ;
-    schema:familyName "Éloi Rousseau" .
 
 schema:authorConstellations7241 a author: ;
     schema:familyName "Jane Barclay" .
@@ -76903,7 +76552,7 @@ schema:authorConstellations7276 a author: ;
 schema:authorConstellations7277 a author: ;
     schema:familyName "Monique et Claude Ponti" .
 
-schema:authorConstellations7289 a author: ;
+schema:authorConstellations7288 a author: ;
     schema:familyName "Marie-Josée Lallart" .
 
 schema:authorConstellations7293 a author: ;
@@ -77026,9 +76675,6 @@ schema:authorConstellations7470 a author: ;
 schema:authorConstellations7474 a author: ;
     schema:familyName "John Steinbeck" .
 
-schema:authorConstellations7475 a author: ;
-    schema:familyName "Taro Gomi" .
-
 schema:authorConstellations7486 a author: ;
     schema:familyName "Susie Lee Jin" .
 
@@ -77119,9 +76765,6 @@ schema:authorConstellations7640 a author: ;
 schema:authorConstellations7649 a author: ;
     schema:familyName "Jocelyn Bérubé" .
 
-schema:authorConstellations7650 a author: ;
-    schema:familyName "Élise Rousseau" .
-
 schema:authorConstellations7656 a author: ;
     schema:familyName "Lisa Wheeler" .
 
@@ -77149,7 +76792,7 @@ schema:authorConstellations7679 a author: ;
 schema:authorConstellations7682 a author: ;
     schema:familyName "Tonya Bolden" .
 
-schema:authorConstellations7689 a author: ;
+schema:authorConstellations7688 a author: ;
     schema:familyName "Ashley Edward-Miller" .
 
 schema:authorConstellations7693 a author: ;
@@ -77236,9 +76879,6 @@ schema:authorConstellations7832 a author: ;
 schema:authorConstellations785 a author: ;
     schema:familyName "Leah Bassoff" .
 
-schema:authorConstellations7857 a author: ;
-    schema:familyName "Virginie Beauregard D." .
-
 schema:authorConstellations7872 a author: ;
     schema:familyName "Véronique Brindreau" .
 
@@ -77277,9 +76917,6 @@ schema:authorConstellations7976 a author: ;
 
 schema:authorConstellations7989 a author: ;
     schema:familyName "John Light" .
-
-schema:authorConstellations799 a author: ;
-    schema:familyName "Henri del Pup" .
 
 schema:authorConstellations8 a author: ;
     schema:familyName "Lionel Groulx" .
@@ -77401,7 +77038,7 @@ schema:authorConstellations8188 a author: ;
 schema:authorConstellations819 a author: ;
     schema:familyName "Monica Kulling" .
 
-schema:authorConstellations8197 a author: ;
+schema:authorConstellations8196 a author: ;
     schema:familyName "Denis Cheissaux" .
 
 schema:authorConstellations8198 a author: ;
@@ -77458,7 +77095,7 @@ schema:authorConstellations8250 a author: ;
 schema:authorConstellations8258 a author: ;
     schema:familyName "Michael Garland" .
 
-schema:authorConstellations8278 a author: ;
+schema:authorConstellations8279 a author: ;
     schema:familyName "Yi Eun-jin" .
 
 schema:authorConstellations8287 a author: ;
@@ -77472,9 +77109,6 @@ schema:authorConstellations8300 a author: ;
 
 schema:authorConstellations8304 a author: ;
     schema:familyName "Véronique Boisjoly" .
-
-schema:authorConstellations8311 a author: ;
-    schema:familyName "Meritxell Martí" .
 
 schema:authorConstellations8314 a author: ;
     schema:familyName "Léon Tolstoï" .
@@ -77493,9 +77127,6 @@ schema:authorConstellations8347 a author: ;
 
 schema:authorConstellations8361 a author: ;
     schema:familyName "Bruno d’après Anonyme Heitz" .
-
-schema:authorConstellations8362 a author: ;
-    schema:familyName "Jean-Francois Chabas" .
 
 schema:authorConstellations8370 a author: ;
     schema:familyName "Nancy Raines Day" .
@@ -77551,9 +77182,6 @@ schema:authorConstellations8435 a author: ;
 schema:authorConstellations8440 a author: ;
     schema:familyName "Andrea Lynn Beck" .
 
-schema:authorConstellations846 a author: ;
-    schema:familyName "Marie-Émilie Colle" .
-
 schema:authorConstellations8465 a author: ;
     schema:familyName "Helen Cooper" .
 
@@ -77562,9 +77190,6 @@ schema:authorConstellations8468 a author: ;
 
 schema:authorConstellations8474 a author: ;
     schema:familyName "Ifeoma Onyefulu" .
-
-schema:authorConstellations8486 a author: ;
-    schema:familyName "Yoko Ogawa" .
 
 schema:authorConstellations8489 a author: ;
     schema:familyName "Robert Burleigh" .
@@ -77599,13 +77224,10 @@ schema:authorConstellations8533 a author: ;
 schema:authorConstellations855 a author: ;
     schema:familyName "Jacqueline Guest" .
 
-schema:authorConstellations8554 a author: ;
-    schema:familyName "Gnimdéwa Atakpama" .
-
 schema:authorConstellations8556 a author: ;
     schema:familyName "Jicai Feng" .
 
-schema:authorConstellations8564 a author: ;
+schema:authorConstellations8563 a author: ;
     schema:familyName "Michel Duc" .
 
 schema:authorConstellations857 a author: ;
@@ -77743,9 +77365,6 @@ schema:authorConstellations8801 a author: ;
 schema:authorConstellations8804 a author: ;
     schema:familyName "Wil Huygen" .
 
-schema:authorConstellations8806 a author: ;
-    schema:familyName "Raphaël de Filippo" .
-
 schema:authorConstellations8816 a author: ;
     schema:familyName "Jay Ingram" .
 
@@ -77776,9 +77395,6 @@ schema:authorConstellations8872 a author: ;
 schema:authorConstellations8881 a author: ;
     schema:familyName "Terry et Eric Fan" .
 
-schema:authorConstellations8886 a author: ;
-    schema:familyName "Marie-Élise Masson" .
-
 schema:authorConstellations8892 a author: ;
     schema:familyName "Philippe Dubois" .
 
@@ -77792,10 +77408,10 @@ schema:authorConstellations89 a author: ;
     schema:familyName "Philippe de La Cotardière" .
 
 schema:authorConstellations8911 a author: ;
-    schema:familyName "Hans Rao" .
+    schema:familyName "Gita Wolf" .
 
 schema:authorConstellations8912 a author: ;
-    schema:familyName "Gita Wolf" .
+    schema:familyName "Hans Rao" .
 
 schema:authorConstellations8930 a author: ;
     schema:familyName "duopress labs" .
@@ -77833,9 +77449,6 @@ schema:authorConstellations900 a author: ;
 schema:authorConstellations9000 a author: ;
     schema:familyName "Eric A. Kimmel" .
 
-schema:authorConstellations9003 a author: ;
-    schema:familyName "Florence Dupré la Tour" .
-
 schema:authorConstellations9020 a author: ;
     schema:familyName "Betty Waterton" .
 
@@ -77856,9 +77469,6 @@ schema:authorConstellations9044 a author: ;
 
 schema:authorConstellations9048 a author: ;
     schema:familyName "Elli Woodland" .
-
-schema:authorConstellations905 a author: ;
-    schema:familyName "Soledad Romero Mariño" .
 
 schema:authorConstellations9053 a author: ;
     schema:familyName "Tina Cho" .
@@ -77895,9 +77505,6 @@ schema:authorConstellations9092 a author: ;
 
 schema:authorConstellations9109 a author: ;
     schema:familyName "Rubin Pingk" .
-
-schema:authorConstellations911 a author: ;
-    schema:familyName "Émile Bravo" .
 
 schema:authorConstellations9127 a author: ;
     schema:familyName "Tish Rabe" .
@@ -77946,9 +77553,6 @@ schema:authorConstellations9211 a author: ;
 
 schema:authorConstellations9214 a author: ;
     schema:familyName "Samya Kullab" .
-
-schema:authorConstellations9216 a author: ;
-    schema:familyName "Petr Horáček" .
 
 schema:authorConstellations922 a author: ;
     schema:familyName "A. Birnbaum" .
@@ -78007,9 +77611,6 @@ schema:authorConstellations9310 a author: ;
 schema:authorConstellations9312 a author: ;
     schema:familyName "Heather Down" .
 
-schema:authorConstellations9318 a author: ;
-    schema:familyName "Yôko Imoto" .
-
 schema:authorConstellations9326 a author: ;
     schema:familyName "René Trépanier" .
 
@@ -78049,9 +77650,6 @@ schema:authorConstellations9412 a author: ;
 schema:authorConstellations9417 a author: ;
     schema:familyName "Susie Duff (editor)" .
 
-schema:authorConstellations9419 a author: ;
-    schema:familyName "Koen van Biesen" .
-
 schema:authorConstellations9429 a author: ;
     schema:familyName "Robert-Newton Peck" .
 
@@ -78075,9 +77673,6 @@ schema:authorConstellations9463 a author: ;
 
 schema:authorConstellations9479 a author: ;
     schema:familyName "Raymond Nakamura" .
-
-schema:authorConstellations9483 a author: ;
-    schema:familyName "Pierre-François. Dupont-Beurier" .
 
 schema:authorConstellations9484 a author: ;
     schema:familyName "Père Anselme Chiasson" .
@@ -78108,9 +77703,6 @@ schema:authorConstellations9520 a author: ;
 
 schema:authorConstellations9524 a author: ;
     schema:familyName "Jonathan C. McKee" .
-
-schema:authorConstellations9537 a author: ;
-    schema:familyName "Monique Felix" .
 
 schema:authorConstellations9541 a author: ;
     schema:familyName "Isabelle Larouche" .
@@ -78144,9 +77736,6 @@ schema:authorConstellations9566 a author: ;
 
 schema:authorConstellations9571 a author: ;
     schema:familyName "Stephen Krensky" .
-
-schema:authorConstellations9574 a author: ;
-    schema:familyName "Sébastien Pérez" .
 
 schema:authorConstellations9578 a author: ;
     schema:familyName "François Mauriac" .
@@ -78227,10 +77816,10 @@ schema:authorConstellations9709 a author: ;
     schema:familyName "Ross Burach" .
 
 schema:authorConstellations9710 a author: ;
-    schema:familyName "John Musick" .
+    schema:familyName "Beverly McMillan" .
 
 schema:authorConstellations9711 a author: ;
-    schema:familyName "Beverly McMillan" .
+    schema:familyName "John Musick" .
 
 schema:authorConstellations9718 a author: ;
     schema:familyName "Susan Reuben" .
@@ -78247,9 +77836,6 @@ schema:authorConstellations9725 a author: ;
 schema:authorConstellations973 a author: ;
     schema:familyName "Anastasia Higginbotham" .
 
-schema:authorConstellations9733 a author: ;
-    schema:familyName "Maria Isabel Sánchez Vegara" .
-
 schema:authorConstellations9739 a author: ;
     schema:familyName "Cora Lee" .
 
@@ -78262,7 +77848,7 @@ schema:authorConstellations9763 a author: ;
 schema:authorConstellations9773 a author: ;
     schema:familyName "Lynn Fulton" .
 
-schema:authorConstellations9780 a author: ;
+schema:authorConstellations9781 a author: ;
     schema:familyName "Yi Hee-jeong" .
 
 schema:authorConstellations9793 a author: ;
@@ -78273,12 +77859,6 @@ schema:authorConstellations9799 a author: ;
 
 schema:authorConstellations9828 a author: ;
     schema:familyName "Danny Appleby" .
-
-schema:authorConstellations9836 a author: ;
-    schema:familyName "Marita de Sterck" .
-
-schema:authorConstellations9837 a author: ;
-    schema:familyName "Pascal Lemaitre" .
 
 schema:authorConstellations9838 a author: ;
     schema:familyName "Tord Nygren" .
@@ -78298,9 +77878,6 @@ schema:authorConstellations9857 a author: ;
 schema:authorConstellations986 a author: ;
     schema:familyName "Lyman Frank Baum" .
 
-schema:authorConstellations9870 a author: ;
-    schema:familyName "Eugene Trivizas" .
-
 schema:authorConstellations9875 a author: ;
     schema:familyName "Lana Button" .
 
@@ -78318,9 +77895,6 @@ schema:authorConstellations9898 a author: ;
 
 schema:authorConstellations9902 a author: ;
     schema:familyName "Corinne De" .
-
-schema:authorConstellations9904 a author: ;
-    schema:familyName "Paco Liván" .
 
 schema:authorConstellations9905 a author: ;
     schema:familyName "Sakina et al. Boukhaima" .
@@ -78360,7 +77934,4 @@ schema:authorConstellations9977 a author: ;
 
 schema:authorConstellations9995 a author: ;
     schema:familyName "Ainslie Manson" .
-
-schema:authorConstellations9997 a author: ;
-    schema:familyName "Matt De La Peña" .
 

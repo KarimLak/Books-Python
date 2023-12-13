@@ -72205,9 +72205,6 @@ schema:authorBNF10071 a author: ;
 schema:authorBNF10085 a author: ;
     schema:familyName "Katsuhiro Ootomo" .
 
-schema:authorBNF10091 a author: ;
-    schema:familyName "Joëlle Écormier" .
-
 schema:authorBNF10095 a author: ;
     schema:familyName "Clémence Gandillot" .
 
@@ -72238,14 +72235,8 @@ schema:authorBNF10142 a author: ;
 schema:authorBNF10146 a author: ;
     schema:familyName "Christian Duda" .
 
-schema:authorBNF10153 a author: ;
-    schema:familyName "Koen de Poorter" .
-
 schema:authorBNF1017 a author: ;
     schema:familyName "Anne Luthaud" .
-
-schema:authorBNF10185 a author: ;
-    schema:familyName "Éric Boisset" .
 
 schema:authorBNF1019 a author: ;
     schema:familyName "Marie-Lise Cuq" .
@@ -72258,9 +72249,6 @@ schema:authorBNF1021 a author: ;
 
 schema:authorBNF10220 a author: ;
     schema:familyName "Artematica" .
-
-schema:authorBNF10223 a author: ;
-    schema:familyName "Motorō Mase" .
 
 schema:authorBNF10224 a author: ;
     schema:familyName "Ebine Yamaji" .
@@ -72282,9 +72270,6 @@ schema:authorBNF10324 a author: ;
 
 schema:authorBNF1034 a author: ;
     schema:familyName "David R. Green" .
-
-schema:authorBNF10351 a author: ;
-    schema:familyName "Sonia Ristić" .
 
 schema:authorBNF10366 a author: ;
     schema:familyName "Young-Hee Kim" .
@@ -72349,23 +72334,14 @@ schema:authorBNF10469 a author: ;
 schema:authorBNF1047 a author: ;
     schema:familyName "Jean-Olivier Héron" .
 
-schema:authorBNF10470 a author: ;
-    schema:familyName "Éric Chenebier" .
-
 schema:authorBNF1051 a author: ;
     schema:familyName "Peter Kindersley" .
 
 schema:authorBNF1052 a author: ;
     schema:familyName "Pierre Marchand" .
 
-schema:authorBNF10530 a author: ;
-    schema:familyName "Shōtarō Ishinomori" .
-
 schema:authorBNF1054 a author: ;
     schema:familyName "Mathilde Helly" .
-
-schema:authorBNF10548 a author: ;
-    schema:familyName "Junji Itō" .
 
 schema:authorBNF10568 a author: ;
     schema:familyName "Anton Pavlovič Čehov" .
@@ -72373,17 +72349,11 @@ schema:authorBNF10568 a author: ;
 schema:authorBNF10584 a author: ;
     schema:familyName "Charlotte Demanie" .
 
-schema:authorBNF10585 a author: ;
-    schema:familyName "Miroslav Šašek" .
-
 schema:authorBNF1061 a author: ;
     schema:familyName "Alain-Gérard Slama" .
 
 schema:authorBNF10648 a author: ;
     schema:familyName "Valérie Sagona Dias" .
-
-schema:authorBNF10669 a author: ;
-    schema:familyName "Élise Toublanc" .
 
 schema:authorBNF10688 a author: ;
     schema:familyName "Eugénie . Chant | Jean-François . Chant | Duval Annie . Chant | Quéméner Jean-Christophe . Compositeur | Ebrel Chantal. Collecteur | Hoarau André . Traducteur | Grosléziat Jean-François . Traducteur | Le Coq Francis . Traducteur | Quéméner Aurélia Grandin" .
@@ -72402,9 +72372,6 @@ schema:authorBNF1078 a author: ;
 
 schema:authorBNF1079 a author: ;
     schema:familyName "Sheila Kitzinger" .
-
-schema:authorBNF1081 a author: ;
-    schema:familyName "István Bányai" .
 
 schema:authorBNF1082 a author: ;
     schema:familyName "Isabelle Bochot" .
@@ -72484,9 +72451,6 @@ schema:authorBNF1100 a author: ;
 schema:authorBNF11009 a author: ;
     schema:familyName "Jean-Philippe . Compositeur | Bernard . Compositeur | Crespin Thomas . Illustrateur | Davois Anne H Bustarret" .
 
-schema:authorBNF11017 a author: ;
-    schema:familyName "Cerise australe" .
-
 schema:authorBNF11065 a author: ;
     schema:familyName "Gerald Lewis Caplan" .
 
@@ -72538,20 +72502,11 @@ schema:authorBNF112 a author: ;
 schema:authorBNF1120 a author: ;
     schema:familyName "Madeline Moser" .
 
-schema:authorBNF11215 a author: ;
-    schema:familyName "Édouard Riou" .
-
 schema:authorBNF1122 a author: ;
     schema:familyName "Laurence Ottenheimer" .
 
 schema:authorBNF11240 a author: ;
     schema:familyName "Michael Reynolds" .
-
-schema:authorBNF11271 a author: ;
-    schema:familyName "Éric Denécé" .
-
-schema:authorBNF11278 a author: ;
-    schema:familyName "Érik Decamp" .
 
 schema:authorBNF1128 a author: ;
     schema:familyName "Tristan Cabral" .
@@ -72649,9 +72604,6 @@ schema:authorBNF11616 a author: ;
 schema:authorBNF1164 a author: ;
     schema:familyName "Douglas Hill" .
 
-schema:authorBNF11646 a author: ;
-    schema:familyName "Eitarō Ōshima" .
-
 schema:authorBNF1167 a author: ;
     schema:familyName "Béatrice Toulon" .
 
@@ -72676,9 +72628,6 @@ schema:authorBNF11710 a author: ;
 schema:authorBNF1172 a author: ;
     schema:familyName "Hubert Deveaux" .
 
-schema:authorBNF11723 a author: ;
-    schema:familyName "Miquel Àngel Giner Bou" .
-
 schema:authorBNF1173 a author: ;
     schema:familyName "Marie Garagnoux" .
 
@@ -72700,35 +72649,17 @@ schema:authorBNF11760 a author: ;
 schema:authorBNF1177 a author: ;
     schema:familyName "Patrick Démerin" .
 
-schema:authorBNF11777 a author: ;
-    schema:familyName "Yōshichi Shimada" .
-
-schema:authorBNF11781 a author: ;
-    schema:familyName "Étienne Davodeau" .
-
 schema:authorBNF1179 a author: ;
     schema:familyName "Thomas Tidholm" .
 
 schema:authorBNF118 a author: ;
     schema:familyName "Guillermo Mordillo" .
 
-schema:authorBNF1186 a author: ;
-    schema:familyName "Yūichi Kasano" .
-
-schema:authorBNF11865 a author: ;
-    schema:familyName "Chun-liang Yeh" .
-
 schema:authorBNF11868 a author: ;
     schema:familyName "Sōmei Hoshino" .
 
-schema:authorBNF1191 a author: ;
-    schema:familyName "Élizabeth Amzallag-Augé" .
-
 schema:authorBNF11963 a author: ;
     schema:familyName "Laurence Papin" .
-
-schema:authorBNF11977 a author: ;
-    schema:familyName "Daisy Mrázková" .
 
 schema:authorBNF1199 a author: ;
     schema:familyName "Philippe Claudet" .
@@ -72759,9 +72690,6 @@ schema:authorBNF12108 a author: ;
 
 schema:authorBNF1211 a author: ;
     schema:familyName "Ken Marschall" .
-
-schema:authorBNF12115 a author: ;
-    schema:familyName "Ryōkan" .
 
 schema:authorBNF12118 a author: ;
     schema:familyName "Ûnna Petrovna Moric" .
@@ -72796,9 +72724,6 @@ schema:authorBNF12228 a author: ;
 schema:authorBNF12235 a author: ;
     schema:familyName "David Whitley" .
 
-schema:authorBNF12259 a author: ;
-    schema:familyName "Yōichi Takahashi" .
-
 schema:authorBNF1228 a author: ;
     schema:familyName "Charlotte Légaut" .
 
@@ -72826,12 +72751,6 @@ schema:authorBNF12385 a author: ;
 schema:authorBNF124 a author: ;
     schema:familyName "Toshi Yoshida" .
 
-schema:authorBNF12407 a author: ;
-    schema:familyName "Yōko Kamio" .
-
-schema:authorBNF12409 a author: ;
-    schema:familyName "Kenjirō Hata" .
-
 schema:authorBNF1246 a author: ;
     schema:familyName "Emmanuel Mercier" .
 
@@ -72849,9 +72768,6 @@ schema:authorBNF12477 a author: ;
 
 schema:authorBNF12483 a author: ;
     schema:familyName "Eric G. Kentley" .
-
-schema:authorBNF12490 a author: ;
-    schema:familyName "Éric Chevillard" .
 
 schema:authorBNF12500 a author: ;
     schema:familyName "Atsushi Ōkubo" .
@@ -72898,14 +72814,8 @@ schema:authorBNF1269 a author: ;
 schema:authorBNF1271 a author: ;
     schema:familyName "Bianca Pitzorno" .
 
-schema:authorBNF12718 a author: ;
-    schema:familyName "Minetarō Mochizuki" .
-
 schema:authorBNF12741 a author: ;
     schema:familyName "OULIPO" .
-
-schema:authorBNF12747 a author: ;
-    schema:familyName "Byeong-mo Gu" .
 
 schema:authorBNF12757 a author: ;
     schema:familyName "Antoine Saint-Exupéry" .
@@ -72915,9 +72825,6 @@ schema:authorBNF12786 a author: ;
 
 schema:authorBNF12794 a author: ;
     schema:familyName "Parisa Baro" .
-
-schema:authorBNF12830 a author: ;
-    schema:familyName "Émilie Camatte" .
 
 schema:authorBNF1284 a author: ;
     schema:familyName "Arlene Dubanevich" .
@@ -72937,14 +72844,8 @@ schema:authorBNF12894 a author: ;
 schema:authorBNF1290 a author: ;
     schema:familyName "Emily Rodda" .
 
-schema:authorBNF12901 a author: ;
-    schema:familyName "Daniel Mizieliński" .
-
 schema:authorBNF1291 a author: ;
     schema:familyName "Michael Bartalos" .
-
-schema:authorBNF12942 a author: ;
-    schema:familyName "Yukiko Katō" .
 
 schema:authorBNF12945 a author: ;
     schema:familyName "Séraphin Kajibwami" .
@@ -72964,9 +72865,6 @@ schema:authorBNF12967 a author: ;
 schema:authorBNF12980 a author: ;
     schema:familyName "Amanda Hubbard" .
 
-schema:authorBNF12983 a author: ;
-    schema:familyName "Gil-taek Lim" .
-
 schema:authorBNF13000 a author: ;
     schema:familyName "Caroline Guézille" .
 
@@ -72978,9 +72876,6 @@ schema:authorBNF13059 a author: ;
 
 schema:authorBNF1306 a author: ;
     schema:familyName "Catherine Prats-Okuyama" .
-
-schema:authorBNF13069 a author: ;
-    schema:familyName "Kundō Koyama" .
 
 schema:authorBNF1307 a author: ;
     schema:familyName "Kimihito Okuyama" .
@@ -73009,9 +72904,6 @@ schema:authorBNF13179 a author: ;
 schema:authorBNF13180 a author: ;
     schema:familyName "Godeleine de Rosamel" .
 
-schema:authorBNF13181 a author: ;
-    schema:familyName "Alžběta Skálová" .
-
 schema:authorBNF13191 a author: ;
     schema:familyName "Don Mc Gregor" .
 
@@ -73020,9 +72912,6 @@ schema:authorBNF13192 a author: ;
 
 schema:authorBNF13208 a author: ;
     schema:familyName "Noël Gueunier" .
-
-schema:authorBNF13210 a author: ;
-    schema:familyName "Se-Jung Shin" .
 
 schema:authorBNF1322 a author: ;
     schema:familyName "Daniel Royo" .
@@ -73036,26 +72925,14 @@ schema:authorBNF13232 a author: ;
 schema:authorBNF13238 a author: ;
     schema:familyName "Djilali Djelali" .
 
-schema:authorBNF13268 a author: ;
-    schema:familyName "Éléonore Cannone" .
-
 schema:authorBNF13278 a author: ;
     schema:familyName "Mélanie Broin" .
 
 schema:authorBNF1328 a author: ;
     schema:familyName "Philippe Sedletzki" .
 
-schema:authorBNF13282 a author: ;
-    schema:familyName "Ryūsuke Saitō" .
-
 schema:authorBNF13298 a author: ;
     schema:familyName "apprendre, découvrir et s'épanouir Association pour jouer" .
-
-schema:authorBNF13301 a author: ;
-    schema:familyName "Pei-chun Shih" .
-
-schema:authorBNF13321 a author: ;
-    schema:familyName "Shizuka Itō" .
 
 schema:authorBNF1333 a author: ;
     schema:familyName "Mark O'Sullivan" .
@@ -73074,9 +72951,6 @@ schema:authorBNF13402 a author: ;
 
 schema:authorBNF13405 a author: ;
     schema:familyName "Cruschiform . Auteur du texte" .
-
-schema:authorBNF13439 a author: ;
-    schema:familyName "Caragh M. O'Brien" .
 
 schema:authorBNF1344 a author: ;
     schema:familyName "Norman Junge" .
@@ -73117,12 +72991,6 @@ schema:authorBNF13552 a author: ;
 schema:authorBNF13553 a author: ;
     schema:familyName "Raúl Arnáiz" .
 
-schema:authorBNF13557 a author: ;
-    schema:familyName "N'Tji Idriss Mariko" .
-
-schema:authorBNF13594 a author: ;
-    schema:familyName "Juan Díaz Canales" .
-
 schema:authorBNF1360 a author: ;
     schema:familyName "Carol Fenner" .
 
@@ -73138,14 +73006,8 @@ schema:authorBNF1364 a author: ;
 schema:authorBNF1369 a author: ;
     schema:familyName "Leo Meter" .
 
-schema:authorBNF13704 a author: ;
-    schema:familyName "Christophe Clérici" .
-
 schema:authorBNF1373 a author: ;
     schema:familyName "Antony Mason" .
-
-schema:authorBNF13734 a author: ;
-    schema:familyName "Marie-Ève Thiry" .
 
 schema:authorBNF1374 a author: ;
     schema:familyName "Nancy L. Green" .
@@ -73192,12 +73054,6 @@ schema:authorBNF13854 a author: ;
 schema:authorBNF1386 a author: ;
     schema:familyName "CCMM-Centre Roger Ikor" .
 
-schema:authorBNF13869 a author: ;
-    schema:familyName "Naoki Saitō" .
-
-schema:authorBNF13878 a author: ;
-    schema:familyName "Yūkō Osada" .
-
 schema:authorBNF1388 a author: ;
     schema:familyName "Isabelle Leymarie" .
 
@@ -73215,9 +73071,6 @@ schema:authorBNF1390 a author: ;
 
 schema:authorBNF1392 a author: ;
     schema:familyName "Dominique Simonnot" .
-
-schema:authorBNF13928 a author: ;
-    schema:familyName "Gōshō Aoyama" .
 
 schema:authorBNF1393 a author: ;
     schema:familyName "Bertrand Ballarin" .
@@ -73255,9 +73108,6 @@ schema:authorBNF1403 a author: ;
 schema:authorBNF14031 a author: ;
     schema:familyName "Claude Aveline" .
 
-schema:authorBNF14042 a author: ;
-    schema:familyName "Vlatka Valentić" .
-
 schema:authorBNF14118 a author: ;
     schema:familyName "Linda Zuckerman" .
 
@@ -73267,17 +73117,11 @@ schema:authorBNF1413 a author: ;
 schema:authorBNF14132 a author: ;
     schema:familyName "Iris de Véricourt" .
 
-schema:authorBNF14134 a author: ;
-    schema:familyName "Eiichirō Oda" .
-
 schema:authorBNF1414 a author: ;
     schema:familyName "Mario Mariotti" .
 
 schema:authorBNF14152 a author: ;
     schema:familyName "Masaki Nonoya" .
-
-schema:authorBNF14178 a author: ;
-    schema:familyName "Nancy Peña" .
 
 schema:authorBNF14196 a author: ;
     schema:familyName "Christophe Ngalle Edimo" .
@@ -73290,9 +73134,6 @@ schema:authorBNF14205 a author: ;
 
 schema:authorBNF14221 a author: ;
     schema:familyName "Marta Bandini-Mazzanti" .
-
-schema:authorBNF14229 a author: ;
-    schema:familyName "F'murr" .
 
 schema:authorBNF1423 a author: ;
     schema:familyName "ill. de Isabelle Diguet" .
@@ -73327,14 +73168,8 @@ schema:authorBNF1435 a author: ;
 schema:authorBNF1436 a author: ;
     schema:familyName "Rumer Godden" .
 
-schema:authorBNF14378 a author: ;
-    schema:familyName "Éva Rogo-Lévénez" .
-
 schema:authorBNF144 a author: ;
     schema:familyName "Jean-Clément Martin" .
-
-schema:authorBNF1441 a author: ;
-    schema:familyName "Jiang hong Chen" .
 
 schema:authorBNF14419 a author: ;
     schema:familyName "Shinobu Ōtaka" .
@@ -73353,9 +73188,6 @@ schema:authorBNF14425 a author: ;
 
 schema:authorBNF14426 a author: ;
     schema:familyName "Vincent Liétar" .
-
-schema:authorBNF14434 a author: ;
-    schema:familyName "Atsuo Saitō" .
 
 schema:authorBNF14438 a author: ;
     schema:familyName "Anita Lajoinie" .
@@ -73381,17 +73213,8 @@ schema:authorBNF14499 a author: ;
 schema:authorBNF1450 a author: ;
     schema:familyName "Robert E. Wells" .
 
-schema:authorBNF14523 a author: ;
-    schema:familyName "José Manuel Mateo Calderón" .
-
 schema:authorBNF14532 a author: ;
     schema:familyName "Hyuna Shin" .
-
-schema:authorBNF14536 a author: ;
-    schema:familyName "Celina Dávila" .
-
-schema:authorBNF14549 a author: ;
-    schema:familyName "Éva Goutorbe" .
 
 schema:authorBNF1456 a author: ;
     schema:familyName "Marie Lafitte" .
@@ -73416,9 +73239,6 @@ schema:authorBNF14617 a author: ;
 
 schema:authorBNF1465 a author: ;
     schema:familyName "Dominique Clévenot" .
-
-schema:authorBNF14655 a author: ;
-    schema:familyName "Kō Okada" .
 
 schema:authorBNF1466 a author: ;
     schema:familyName "Dominique Besançon" .
@@ -73465,9 +73285,6 @@ schema:authorBNF14805 a author: ;
 schema:authorBNF14813 a author: ;
     schema:familyName "Masanobu Satō" .
 
-schema:authorBNF14828 a author: ;
-    schema:familyName "Kunio Katō" .
-
 schema:authorBNF1484 a author: ;
     schema:familyName "Serge Strosberg" .
 
@@ -73504,9 +73321,6 @@ schema:authorBNF14993 a author: ;
 schema:authorBNF1502 a author: ;
     schema:familyName "Duyên Anh" .
 
-schema:authorBNF15029 a author: ;
-    schema:familyName "Óscar Hijuelos" .
-
 schema:authorBNF15048 a author: ;
     schema:familyName "Biosphoto" .
 
@@ -73528,9 +73342,6 @@ schema:authorBNF15117 a author: ;
 schema:authorBNF1514 a author: ;
     schema:familyName "Paul Halter" .
 
-schema:authorBNF15160 a author: ;
-    schema:familyName "Élisabeth Tremblay" .
-
 schema:authorBNF1517 a author: ;
     schema:familyName "Josette Rivallain" .
 
@@ -73542,9 +73353,6 @@ schema:authorBNF152 a author: ;
 
 schema:authorBNF1521 a author: ;
     schema:familyName "Pierre Edoumba-Bokandzo" .
-
-schema:authorBNF15219 a author: ;
-    schema:familyName "Étienne Ndour" .
 
 schema:authorBNF15243 a author: ;
     schema:familyName "Tigrane Navassardian" .
@@ -73567,14 +73375,8 @@ schema:authorBNF15254 a author: ;
 schema:authorBNF15255 a author: ;
     schema:familyName "Mahamadou Traoré" .
 
-schema:authorBNF15276 a author: ;
-    schema:familyName "Milorad Vicanović-Maza" .
-
 schema:authorBNF1528 a author: ;
     schema:familyName "Claude Londner" .
-
-schema:authorBNF15281 a author: ;
-    schema:familyName "Rica Étienne" .
 
 schema:authorBNF1529 a author: ;
     schema:familyName "Jean-François Barbier" .
@@ -73585,9 +73387,6 @@ schema:authorBNF153 a author: ;
 schema:authorBNF15319 a author: ;
     schema:familyName "Isabelle de Catalogne" .
 
-schema:authorBNF15337 a author: ;
-    schema:familyName "Élodie Fondacci" .
-
 schema:authorBNF15349 a author: ;
     schema:familyName "Joëlle Delange" .
 
@@ -73597,26 +73396,17 @@ schema:authorBNF1535 a author: ;
 schema:authorBNF15386 a author: ;
     schema:familyName "Barbara de Negroni" .
 
-schema:authorBNF15390 a author: ;
-    schema:familyName "Bojan Kovačević" .
-
 schema:authorBNF154 a author: ;
     schema:familyName "Charlotte Pomerantz" .
 
 schema:authorBNF1540 a author: ;
     schema:familyName "Nikolaj Evgenʹevič Popov" .
 
-schema:authorBNF15406 a author: ;
-    schema:familyName "Éric Chabbert" .
-
 schema:authorBNF15412 a author: ;
     schema:familyName "Jean I. N. Kanyarwunga" .
 
 schema:authorBNF1542 a author: ;
     schema:familyName "Jean-Louis Blanc" .
-
-schema:authorBNF15427 a author: ;
-    schema:familyName "Élisa Géhin" .
 
 schema:authorBNF1543 a author: ;
     schema:familyName "Nicole Verrechia" .
@@ -73630,9 +73420,6 @@ schema:authorBNF15450 a author: ;
 schema:authorBNF1547 a author: ;
     schema:familyName "Brigitte Casagranda" .
 
-schema:authorBNF15475 a author: ;
-    schema:familyName "Énora" .
-
 schema:authorBNF1548 a author: ;
     schema:familyName "Daniel Vignat" .
 
@@ -73641,15 +73428,6 @@ schema:authorBNF1549 a author: ;
 
 schema:authorBNF15512 a author: ;
     schema:familyName "Christos Gage" .
-
-schema:authorBNF15522 a author: ;
-    schema:familyName "Raúl Argemí" .
-
-schema:authorBNF15541 a author: ;
-    schema:familyName "Éva Janikovszky" .
-
-schema:authorBNF15546 a author: ;
-    schema:familyName "Kyōichi Nanatsuki" .
 
 schema:authorBNF1555 a author: ;
     schema:familyName "Jean-Claude Loiseau" .
@@ -73675,12 +73453,6 @@ schema:authorBNF15676 a author: ;
 schema:authorBNF15683 a author: ;
     schema:familyName "Oriol Hernández" .
 
-schema:authorBNF15688 a author: ;
-    schema:familyName "Yūki Kodama" .
-
-schema:authorBNF15692 a author: ;
-    schema:familyName "Kenshirō Sakamoto" .
-
 schema:authorBNF1570 a author: ;
     schema:familyName "Pelton" .
 
@@ -73698,9 +73470,6 @@ schema:authorBNF15721 a author: ;
 
 schema:authorBNF15727 a author: ;
     schema:familyName "Deyrolle" .
-
-schema:authorBNF15736 a author: ;
-    schema:familyName "Shō Aimoto" .
 
 schema:authorBNF15758 a author: ;
     schema:familyName "Ana García Bergua" .
@@ -73729,12 +73498,6 @@ schema:authorBNF158 a author: ;
 schema:authorBNF1581 a author: ;
     schema:familyName "Philippe-Jean Catinchi" .
 
-schema:authorBNF15869 a author: ;
-    schema:familyName "Élisa Vix" .
-
-schema:authorBNF15878 a author: ;
-    schema:familyName "Susumu Shingū" .
-
 schema:authorBNF1588 a author: ;
     schema:familyName "Michelle Magorian" .
 
@@ -73743,9 +73506,6 @@ schema:authorBNF159 a author: ;
 
 schema:authorBNF15904 a author: ;
     schema:familyName "Judith Sarfati Nouvion" .
-
-schema:authorBNF15933 a author: ;
-    schema:familyName "Éric Senabre" .
 
 schema:authorBNF15981 a author: ;
     schema:familyName "Farīd al-Dīn abō Ḥāmed Moḥamed ʿAṭṭār Nīṣ̌āpōrī" .
@@ -73764,12 +73524,6 @@ schema:authorBNF1603 a author: ;
 
 schema:authorBNF16033 a author: ;
     schema:familyName "Zeïna Haïdara" .
-
-schema:authorBNF16035 a author: ;
-    schema:familyName "Élisabeth Yaoudam" .
-
-schema:authorBNF16051 a author: ;
-    schema:familyName "Yōsuke Nakamaru" .
 
 schema:authorBNF1607 a author: ;
     schema:familyName "Claire Pinson" .
@@ -73792,9 +73546,6 @@ schema:authorBNF1617 a author: ;
 schema:authorBNF16187 a author: ;
     schema:familyName "Zoë Halstead" .
 
-schema:authorBNF16190 a author: ;
-    schema:familyName "Youri de Paz" .
-
 schema:authorBNF162 a author: ;
     schema:familyName "Françoise Lebrun" .
 
@@ -73813,20 +73564,11 @@ schema:authorBNF16236 a author: ;
 schema:authorBNF1625 a author: ;
     schema:familyName "James Sage" .
 
-schema:authorBNF16253 a author: ;
-    schema:familyName "Kōtarō Isaka" .
-
-schema:authorBNF16254 a author: ;
-    schema:familyName "Megumi Ōsuga" .
-
 schema:authorBNF1626 a author: ;
     schema:familyName "Brigitte Van de Wouver" .
 
 schema:authorBNF1628 a author: ;
     schema:familyName "Nicolas Guillon" .
-
-schema:authorBNF16305 a author: ;
-    schema:familyName "Léonore Klein" .
 
 schema:authorBNF16307 a author: ;
     schema:familyName "École comorienne Charlemagne (Moroni)" .
@@ -74314,9 +74056,6 @@ schema:authorBNF16768 a author: ;
 schema:authorBNF16769 a author: ;
     schema:familyName "Evelyne Rasamy-Manantsoa" .
 
-schema:authorBNF16770 a author: ;
-    schema:familyName "Mach-Houd Kouton" .
-
 schema:authorBNF16776 a author: ;
     schema:familyName "Malika Ouazi" .
 
@@ -74470,9 +74209,6 @@ schema:authorBNF16943 a author: ;
 schema:authorBNF16945 a author: ;
     schema:familyName "Salma Badawi" .
 
-schema:authorBNF16954 a author: ;
-    schema:familyName "Emeline Lebouteiller" .
-
 schema:authorBNF16957 a author: ;
     schema:familyName "Daihachi Ðta" .
 
@@ -74493,9 +74229,6 @@ schema:authorBNF16974 a author: ;
 
 schema:authorBNF16975 a author: ;
     schema:familyName "Zinelabidine Benaïssa" .
-
-schema:authorBNF16995 a author: ;
-    schema:familyName "Jinpachi Mōri" .
 
 schema:authorBNF17009 a author: ;
     schema:familyName "Emeline P. Assogba" .
@@ -74529,9 +74262,6 @@ schema:authorBNF17040 a author: ;
 
 schema:authorBNF1706 a author: ;
     schema:familyName "Jiang Chen" .
-
-schema:authorBNF17062 a author: ;
-    schema:familyName "Éric Tasset" .
 
 schema:authorBNF17063 a author: ;
     schema:familyName "Peeter Volkonski" .
@@ -74574,12 +74304,6 @@ schema:authorBNF17086 a author: ;
 
 schema:authorBNF17087 a author: ;
     schema:familyName "Tatiana Baher" .
-
-schema:authorBNF17089 a author: ;
-    schema:familyName "Mi-gyeong Kim" .
-
-schema:authorBNF17093 a author: ;
-    schema:familyName "Hyeon-jeong An" .
 
 schema:authorBNF17098 a author: ;
     schema:familyName "Roger Hargreaves" .
@@ -74707,9 +74431,6 @@ schema:authorBNF17190 a author: ;
 schema:authorBNF17191 a author: ;
     schema:familyName "Simon Nacoulma" .
 
-schema:authorBNF17193 a author: ;
-    schema:familyName "Hervé Alladaye" .
-
 schema:authorBNF17195 a author: ;
     schema:familyName "Georgette-Florence Koyt-Deballé" .
 
@@ -74784,9 +74505,6 @@ schema:authorBNF1727 a author: ;
 
 schema:authorBNF17274 a author: ;
     schema:familyName "Fondation Zakoura Education" .
-
-schema:authorBNF17275 a author: ;
-    schema:familyName "Fondation Zakoura éducation" .
 
 schema:authorBNF17286 a author: ;
     schema:familyName "Sanāʾ Šabbānī" .
@@ -74892,9 +74610,6 @@ schema:authorBNF17421 a author: ;
 
 schema:authorBNF1743 a author: ;
     schema:familyName "William Brittain" .
-
-schema:authorBNF17441 a author: ;
-    schema:familyName "Raphaël Segura" .
 
 schema:authorBNF17443 a author: ;
     schema:familyName "Houda Hamawiyya Sleiman" .
@@ -75022,9 +74737,6 @@ schema:authorBNF17617 a author: ;
 schema:authorBNF17621 a author: ;
     schema:familyName "Nouhla Ghandour" .
 
-schema:authorBNF17624 a author: ;
-    schema:familyName "Emilie Villeneuve" .
-
 schema:authorBNF17627 a author: ;
     schema:familyName "Malika Boudalia" .
 
@@ -75051,9 +74763,6 @@ schema:authorBNF17659 a author: ;
 
 schema:authorBNF1766 a author: ;
     schema:familyName "Marta Mata" .
-
-schema:authorBNF17676 a author: ;
-    schema:familyName "Na'ima B Robert" .
 
 schema:authorBNF1768 a author: ;
     schema:familyName "Michael Aston" .
@@ -75628,9 +75337,6 @@ schema:authorBNF18465 a author: ;
 schema:authorBNF18466 a author: ;
     schema:familyName "Daniel Mermet" .
 
-schema:authorBNF18468 a author: ;
-    schema:familyName "Paul-Émile Victor" .
-
 schema:authorBNF18472 a author: ;
     schema:familyName "Tanguy Pay" .
 
@@ -75853,9 +75559,6 @@ schema:authorBNF18702 a author: ;
 schema:authorBNF18704 a author: ;
     schema:familyName "Isabelle Desarzens" .
 
-schema:authorBNF18707 a author: ;
-    schema:familyName "Jörg Muller" .
-
 schema:authorBNF18711 a author: ;
     schema:familyName "Jihad Darwish" .
 
@@ -76051,9 +75754,6 @@ schema:authorBNF18841 a author: ;
 schema:authorBNF18850 a author: ;
     schema:familyName "Mariame Gba" .
 
-schema:authorBNF18851 a author: ;
-    schema:familyName "Fatou N'Diaye Sow" .
-
 schema:authorBNF18852 a author: ;
     schema:familyName "Nema-Soua Honomou" .
 
@@ -76180,9 +75880,6 @@ schema:authorBNF1910 a author: ;
 schema:authorBNF1912 a author: ;
     schema:familyName "Thomas de Coster" .
 
-schema:authorBNF19123 a author: ;
-    schema:familyName "Élodie Imbeau" .
-
 schema:authorBNF1913 a author: ;
     schema:familyName "Lucy Daniels" .
 
@@ -76251,9 +75948,6 @@ schema:authorBNF19249 a author: ;
 
 schema:authorBNF1925 a author: ;
     schema:familyName "Aquilino Ribeiro" .
-
-schema:authorBNF19254 a author: ;
-    schema:familyName "Ximo Abadía" .
 
 schema:authorBNF1926 a author: ;
     schema:familyName "Clément Sambo" .
@@ -76342,9 +76036,6 @@ schema:authorBNF1941 a author: ;
 schema:authorBNF19411 a author: ;
     schema:familyName "Patrick de Saint-Exupéry" .
 
-schema:authorBNF19414 a author: ;
-    schema:familyName "Emma Adbåge" .
-
 schema:authorBNF19420 a author: ;
     schema:familyName "Maya Barsony" .
 
@@ -76375,17 +76066,11 @@ schema:authorBNF1945 a author: ;
 schema:authorBNF19462 a author: ;
     schema:familyName "Brico jardin" .
 
-schema:authorBNF19466 a author: ;
-    schema:familyName "Erik de Graaf" .
-
 schema:authorBNF1947 a author: ;
     schema:familyName "Kōta Taniuchi" .
 
 schema:authorBNF19492 a author: ;
     schema:familyName "Rai Abd al-Aal" .
-
-schema:authorBNF195 a author: ;
-    schema:familyName "Keizaburō Tejima" .
 
 schema:authorBNF19515 a author: ;
     schema:familyName "Nabil Salem" .
@@ -76405,15 +76090,6 @@ schema:authorBNF19525 a author: ;
 schema:authorBNF19526 a author: ;
     schema:familyName "Nayla Ajja" .
 
-schema:authorBNF19550 a author: ;
-    schema:familyName "Åsa Grennvall" .
-
-schema:authorBNF19584 a author: ;
-    schema:familyName "Éric Henninot" .
-
-schema:authorBNF19585 a author: ;
-    schema:familyName "Audrey Levitre" .
-
 schema:authorBNF19597 a author: ;
     schema:familyName "Gawron" .
 
@@ -76428,9 +76104,6 @@ schema:authorBNF1966 a author: ;
 
 schema:authorBNF19667 a author: ;
     schema:familyName "Jens Christian Grøndahl" .
-
-schema:authorBNF19678 a author: ;
-    schema:familyName "Kotono Katō" .
 
 schema:authorBNF1968 a author: ;
     schema:familyName "Geneviève Momber-Sieffert" .
@@ -76465,9 +76138,6 @@ schema:authorBNF19814 a author: ;
 schema:authorBNF19827 a author: ;
     schema:familyName "Anne-Alexandra Joyard" .
 
-schema:authorBNF19828 a author: ;
-    schema:familyName "Élodie Bouffard" .
-
 schema:authorBNF1983 a author: ;
     schema:familyName "Yves Thoraval" .
 
@@ -76483,17 +76153,11 @@ schema:authorBNF199 a author: ;
 schema:authorBNF19908 a author: ;
     schema:familyName "Prosper Blanchemain" .
 
-schema:authorBNF19924 a author: ;
-    schema:familyName "Tamás Passa" .
-
 schema:authorBNF19942 a author: ;
     schema:familyName "Haydée Caillot" .
 
 schema:authorBNF19957 a author: ;
     schema:familyName "Jacques . Chant | Marie Dorléans" .
-
-schema:authorBNF19967 a author: ;
-    schema:familyName "Miefi Moese" .
 
 schema:authorBNF1997 a author: ;
     schema:familyName "Bruce Coville" .
@@ -76510,15 +76174,6 @@ schema:authorBNF19987 a author: ;
 schema:authorBNF20 a author: ;
     schema:familyName "Bernard Stone" .
 
-schema:authorBNF20009 a author: ;
-    schema:familyName "Chiho Saitō" .
-
-schema:authorBNF20011 a author: ;
-    schema:familyName "Élisabeth Calandry" .
-
-schema:authorBNF20016 a author: ;
-    schema:familyName "Momoko Kōda" .
-
 schema:authorBNF2005 a author: ;
     schema:familyName "Michel Perrin" .
 
@@ -76527,9 +76182,6 @@ schema:authorBNF2006 a author: ;
 
 schema:authorBNF2008 a author: ;
     schema:familyName "Michel Monnereau" .
-
-schema:authorBNF20081 a author: ;
-    schema:familyName "Takayo Sōma" .
 
 schema:authorBNF20100 a author: ;
     schema:familyName "Peter Christen Asbjørnsen" .
@@ -76545,9 +76197,6 @@ schema:authorBNF20127 a author: ;
 
 schema:authorBNF20133 a author: ;
     schema:familyName "NANE éditions" .
-
-schema:authorBNF20140 a author: ;
-    schema:familyName "Fuyumi Sōryō" .
 
 schema:authorBNF2016 a author: ;
     schema:familyName "Linda Aronson" .
@@ -76570,20 +76219,11 @@ schema:authorBNF2025 a author: ;
 schema:authorBNF2027 a author: ;
     schema:familyName "Waǧdī Muʿawwaḍ" .
 
-schema:authorBNF20285 a author: ;
-    schema:familyName "Zbyněk Černík" .
-
 schema:authorBNF2030 a author: ;
     schema:familyName "Marie Ndiaye" .
 
 schema:authorBNF2031 a author: ;
     schema:familyName "Folly Aballo Komlam" .
-
-schema:authorBNF20325 a author: ;
-    schema:familyName "Rudolf Čechura" .
-
-schema:authorBNF20350 a author: ;
-    schema:familyName "Dieudonné Éric Ngantcha" .
 
 schema:authorBNF20357 a author: ;
     schema:familyName "Yū" .
@@ -76591,23 +76231,14 @@ schema:authorBNF20357 a author: ;
 schema:authorBNF2036 a author: ;
     schema:familyName "Virginie Flores" .
 
-schema:authorBNF20387 a author: ;
-    schema:familyName "Zoe Miller" .
-
 schema:authorBNF20408 a author: ;
     schema:familyName "Gérard Kientega Pingdéwindé" .
-
-schema:authorBNF20464 a author: ;
-    schema:familyName "Ryōji Minagawa" .
 
 schema:authorBNF20466 a author: ;
     schema:familyName "Carole E. Barrowman" .
 
 schema:authorBNF2047 a author: ;
     schema:familyName "Attoumani Dassani" .
-
-schema:authorBNF20470 a author: ;
-    schema:familyName "Yū Kinutani" .
 
 schema:authorBNF2048 a author: ;
     schema:familyName "Marlène Piovano" .
@@ -76624,17 +76255,11 @@ schema:authorBNF20498 a author: ;
 schema:authorBNF2050 a author: ;
     schema:familyName "Noelle Fromont" .
 
-schema:authorBNF20521 a author: ;
-    schema:familyName "Akéouli Nouhoum Baoum" .
-
 schema:authorBNF20559 a author: ;
     schema:familyName "Salah el- Mur" .
 
 schema:authorBNF2057 a author: ;
     schema:familyName "Paul Auster" .
-
-schema:authorBNF20582 a author: ;
-    schema:familyName "Hernàn Migoya" .
 
 schema:authorBNF20584 a author: ;
     schema:familyName "Xue jun Peng" .
@@ -76651,14 +76276,8 @@ schema:authorBNF20597 a author: ;
 schema:authorBNF206 a author: ;
     schema:familyName "Beverly Cleary" .
 
-schema:authorBNF20605 a author: ;
-    schema:familyName "Chūya Koyama" .
-
 schema:authorBNF20631 a author: ;
     schema:familyName "Èlʹ Lisickij" .
-
-schema:authorBNF20634 a author: ;
-    schema:familyName "Vīramāmunivar" .
 
 schema:authorBNF2065 a author: ;
     schema:familyName "Jacques Faublée" .
@@ -76669,29 +76288,17 @@ schema:authorBNF2068 a author: ;
 schema:authorBNF2069 a author: ;
     schema:familyName "Nikolaj Vasilʹevič Gogolʹ" .
 
-schema:authorBNF20698 a author: ;
-    schema:familyName "Jeong-sun Yi" .
-
 schema:authorBNF2070 a author: ;
     schema:familyName "Marion Wood" .
 
 schema:authorBNF20710 a author: ;
     schema:familyName "Barroux (1965-....)" .
 
-schema:authorBNF20748 a author: ;
-    schema:familyName "Shin'ichi Ishizuka" .
-
 schema:authorBNF2079 a author: ;
     schema:familyName "Sonia Goldie" .
 
-schema:authorBNF20806 a author: ;
-    schema:familyName "Ivana Brlić-Mažuranić" .
-
 schema:authorBNF2081 a author: ;
     schema:familyName "Anne-Marie Romero" .
-
-schema:authorBNF20824 a author: ;
-    schema:familyName "Éric Veillé" .
 
 schema:authorBNF20845 a author: ;
     schema:familyName "Mary-des-Ailes (1968-....)" .
@@ -76714,17 +76321,8 @@ schema:authorBNF2099 a author: ;
 schema:authorBNF21008 a author: ;
     schema:familyName "Sophie Glasser" .
 
-schema:authorBNF21036 a author: ;
-    schema:familyName "Émilie Dedieu" .
-
 schema:authorBNF2104 a author: ;
     schema:familyName "Farid Boudjellal" .
-
-schema:authorBNF21056 a author: ;
-    schema:familyName "Hsin-Yu Sun" .
-
-schema:authorBNF21074 a author: ;
-    schema:familyName "Violeta Lópiz" .
 
 schema:authorBNF21091 a author: ;
     schema:familyName "J. D. Hall" .
@@ -76732,14 +76330,8 @@ schema:authorBNF21091 a author: ;
 schema:authorBNF21094 a author: ;
     schema:familyName "Sol Camacho-Schenkler" .
 
-schema:authorBNF21122 a author: ;
-    schema:familyName "Iratxe López de Munaín" .
-
 schema:authorBNF21154 a author: ;
     schema:familyName "Marguerite Reynier" .
-
-schema:authorBNF21166 a author: ;
-    schema:familyName "Gianluca Folì" .
 
 schema:authorBNF21179 a author: ;
     schema:familyName "Madame Schont" .
@@ -76762,9 +76354,6 @@ schema:authorBNF2121 a author: ;
 schema:authorBNF21224 a author: ;
     schema:familyName "Palais de la découverte" .
 
-schema:authorBNF21230 a author: ;
-    schema:familyName "Miroslav Sekulić-Struja" .
-
 schema:authorBNF21237 a author: ;
     schema:familyName "illustrés par Olga Dugina" .
 
@@ -76779,9 +76368,6 @@ schema:authorBNF21254 a author: ;
 
 schema:authorBNF21255 a author: ;
     schema:familyName "P.-J. Stahl" .
-
-schema:authorBNF21256 a author: ;
-    schema:familyName "Yûzô Ôtsuka" .
 
 schema:authorBNF2127 a author: ;
     schema:familyName "Gérard Rabinovitch" .
@@ -76813,20 +76399,11 @@ schema:authorBNF2135 a author: ;
 schema:authorBNF2136 a author: ;
     schema:familyName "Axmed Cartan Xaange" .
 
-schema:authorBNF21363 a author: ;
-    schema:familyName "Inés Garland" .
-
 schema:authorBNF2138 a author: ;
     schema:familyName "Emmanuelle Robert" .
 
-schema:authorBNF21391 a author: ;
-    schema:familyName "Yūji Iwahara" .
-
 schema:authorBNF2141 a author: ;
     schema:familyName "Fabienne Pochard" .
-
-schema:authorBNF21410 a author: ;
-    schema:familyName "Thibaud Herem" .
 
 schema:authorBNF2142 a author: ;
     schema:familyName "France Télécom" .
@@ -76861,20 +76438,11 @@ schema:authorBNF2148 a author: ;
 schema:authorBNF2151 a author: ;
     schema:familyName "Derek M. Elsom" .
 
-schema:authorBNF21531 a author: ;
-    schema:familyName "Hana Roš" .
-
-schema:authorBNF21560 a author: ;
-    schema:familyName "Érik Poulet-Reney" .
-
 schema:authorBNF21581 a author: ;
     schema:familyName "L. A. Campbell" .
 
 schema:authorBNF2160 a author: ;
     schema:familyName "Alastair Smith" .
-
-schema:authorBNF21613 a author: ;
-    schema:familyName "Tarō Nogizaka" .
 
 schema:authorBNF2162 a author: ;
     schema:familyName "Jacques Bourgarel" .
@@ -76882,17 +76450,11 @@ schema:authorBNF2162 a author: ;
 schema:authorBNF21657 a author: ;
     schema:familyName "Yokoland" .
 
-schema:authorBNF21663 a author: ;
-    schema:familyName "Bartolomé Seguí" .
-
 schema:authorBNF21664 a author: ;
     schema:familyName "Felipe Hernández Cava" .
 
 schema:authorBNF2167 a author: ;
     schema:familyName "Chaïm Potok" .
-
-schema:authorBNF21674 a author: ;
-    schema:familyName "David Nel·lo" .
 
 schema:authorBNF21677 a author: ;
     schema:familyName "Caroline. Traducteur | Cecilia . Illustrateur | Déry Ana Gerhard" .
@@ -76924,14 +76486,8 @@ schema:authorBNF2180 a author: ;
 schema:authorBNF21813 a author: ;
     schema:familyName "Agathe de Frayssinet-Orhan" .
 
-schema:authorBNF21820 a author: ;
-    schema:familyName "Ol′ga Aleksandrovna Sedakova" .
-
 schema:authorBNF2185 a author: ;
     schema:familyName "Daniel Meynard" .
-
-schema:authorBNF21877 a author: ;
-    schema:familyName "František Hrubín" .
 
 schema:authorBNF2189 a author: ;
     schema:familyName "Sharon G. Flake" .
@@ -77005,9 +76561,6 @@ schema:authorBNF22217 a author: ;
 schema:authorBNF22229 a author: ;
     schema:familyName "Rémy . Voix parlée. Chant. Percussions | Sophie . Illustrateur | Boussengui Rémy Boussengui" .
 
-schema:authorBNF22233 a author: ;
-    schema:familyName "Vladimir Vasilʹevič Vagin" .
-
 schema:authorBNF22238 a author: ;
     schema:familyName "Karim al- Dahdah" .
 
@@ -77028,9 +76581,6 @@ schema:authorBNF22285 a author: ;
 
 schema:authorBNF2229 a author: ;
     schema:familyName "Michelle Daufresne" .
-
-schema:authorBNF22319 a author: ;
-    schema:familyName "Yoshitoki Ōima" .
 
 schema:authorBNF22329 a author: ;
     schema:familyName "Keto von Waberer" .
@@ -77056,12 +76606,6 @@ schema:authorBNF22408 a author: ;
 schema:authorBNF22418 a author: ;
     schema:familyName "Sara Bryant" .
 
-schema:authorBNF22434 a author: ;
-    schema:familyName "Silvie Sanža" .
-
-schema:authorBNF22443 a author: ;
-    schema:familyName "Marām al- Maṣrī" .
-
 schema:authorBNF22448 a author: ;
     schema:familyName "Caterina Valriu i Llinàs" .
 
@@ -77079,9 +76623,6 @@ schema:authorBNF22504 a author: ;
 
 schema:authorBNF2251 a author: ;
     schema:familyName "Roland Roure" .
-
-schema:authorBNF22514 a author: ;
-    schema:familyName "Édouard Signolet" .
 
 schema:authorBNF2252 a author: ;
     schema:familyName "Yann Bouvier" .
@@ -77103,9 +76644,6 @@ schema:authorBNF22539 a author: ;
 
 schema:authorBNF22540 a author: ;
     schema:familyName "Rayy ʻAbd al-ʻĀl" .
-
-schema:authorBNF22549 a author: ;
-    schema:familyName "Benjamin Desmares" .
 
 schema:authorBNF2256 a author: ;
     schema:familyName "Dorothy Hoobler" .
@@ -77161,9 +76699,6 @@ schema:authorBNF22740 a author: ;
 schema:authorBNF22771 a author: ;
     schema:familyName "Raphaël Chassigneux" .
 
-schema:authorBNF22774 a author: ;
-    schema:familyName "Pilar Martínez" .
-
 schema:authorBNF22776 a author: ;
     schema:familyName "Charlotte Aka" .
 
@@ -77187,12 +76722,6 @@ schema:authorBNF22834 a author: ;
 
 schema:authorBNF22839 a author: ;
     schema:familyName "A. B. Saddlewick" .
-
-schema:authorBNF22879 a author: ;
-    schema:familyName "María del Mar Ferrero" .
-
-schema:authorBNF22896 a author: ;
-    schema:familyName "Yūsei Matsui" .
 
 schema:authorBNF2293 a author: ;
     schema:familyName "Milena" .
@@ -77224,12 +76753,6 @@ schema:authorBNF230 a author: ;
 schema:authorBNF23012 a author: ;
     schema:familyName "Qiao lin Wang" .
 
-schema:authorBNF23045 a author: ;
-    schema:familyName "Kelly Sue DeConnick" .
-
-schema:authorBNF23055 a author: ;
-    schema:familyName "Raúl Nieto Guridi" .
-
 schema:authorBNF23066 a author: ;
     schema:familyName "Erich Ohser" .
 
@@ -77248,9 +76771,6 @@ schema:authorBNF23089 a author: ;
 schema:authorBNF2309 a author: ;
     schema:familyName "Jacques Roumain" .
 
-schema:authorBNF23094 a author: ;
-    schema:familyName "Tōko Minami" .
-
 schema:authorBNF231 a author: ;
     schema:familyName "Esther Hautzig" .
 
@@ -77265,9 +76785,6 @@ schema:authorBNF23114 a author: ;
 
 schema:authorBNF2312 a author: ;
     schema:familyName "Alejandra Figueroa" .
-
-schema:authorBNF23133 a author: ;
-    schema:familyName "Kentarō Miura" .
 
 schema:authorBNF2315 a author: ;
     schema:familyName "Nabīl Naʿʿūm" .
@@ -77332,9 +76849,6 @@ schema:authorBNF2327 a author: ;
 schema:authorBNF23281 a author: ;
     schema:familyName "Emmanuelle Peckre" .
 
-schema:authorBNF2329 a author: ;
-    schema:familyName "Bernard Épin" .
-
 schema:authorBNF23294 a author: ;
     schema:familyName "Jean Divassa Nyama" .
 
@@ -77376,9 +76890,6 @@ schema:authorBNF23405 a author: ;
 
 schema:authorBNF23412 a author: ;
     schema:familyName "Loren Bes" .
-
-schema:authorBNF23435 a author: ;
-    schema:familyName "Keitarō Kikaseya" .
 
 schema:authorBNF2347 a author: ;
     schema:familyName "Slimane Benaïssa" .
@@ -77425,12 +76936,6 @@ schema:authorBNF23558 a author: ;
 schema:authorBNF2356 a author: ;
     schema:familyName "Ayyam Sureau" .
 
-schema:authorBNF23569 a author: ;
-    schema:familyName "Karel Čapek" .
-
-schema:authorBNF23575 a author: ;
-    schema:familyName "Kristjana S Williams" .
-
 schema:authorBNF23582 a author: ;
     schema:familyName "Viviane Yagi" .
 
@@ -77448,12 +76953,6 @@ schema:authorBNF23768 a author: ;
 
 schema:authorBNF2378 a author: ;
     schema:familyName "Josse Goffin" .
-
-schema:authorBNF23787 a author: ;
-    schema:familyName "Jean-Luc Vezinet" .
-
-schema:authorBNF23788 a author: ;
-    schema:familyName "Nane Vezinet" .
 
 schema:authorBNF23839 a author: ;
     schema:familyName "Gérard . Direction d'orchestre | Percussions claviers . Ensemble instrumental | Denis . Voix parlée | Lecointe Étienne . Illustrateur | Podalydès Gérard . Transcripteur | Guiol Jean . Traducteur | Lecointe Aleksandr Sergeevič . Auteur adapté | Chuzeville Nikolaj Andreevič Rimskij-Korsakov" .
@@ -77473,14 +76972,8 @@ schema:authorBNF23900 a author: ;
 schema:authorBNF23950 a author: ;
     schema:familyName "Romana Romanišin" .
 
-schema:authorBNF23956 a author: ;
-    schema:familyName "Yūki Yogo" .
-
 schema:authorBNF2398 a author: ;
     schema:familyName "Jean Cormier" .
-
-schema:authorBNF24038 a author: ;
-    schema:familyName "Oscar Martín" .
 
 schema:authorBNF24047 a author: ;
     schema:familyName "Dramé" .
@@ -77503,9 +76996,6 @@ schema:authorBNF24129 a author: ;
 schema:authorBNF2415 a author: ;
     schema:familyName "François Braud" .
 
-schema:authorBNF24155 a author: ;
-    schema:familyName "Éva Offredo" .
-
 schema:authorBNF24178 a author: ;
     schema:familyName "Hišām ʻAlwān" .
 
@@ -77527,9 +77017,6 @@ schema:authorBNF24227 a author: ;
 schema:authorBNF24233 a author: ;
     schema:familyName "Anne-Hélène Dubray" .
 
-schema:authorBNF24239 a author: ;
-    schema:familyName "Yōko Nakamura" .
-
 schema:authorBNF2424 a author: ;
     schema:familyName "Harm de Jonge" .
 
@@ -77538,12 +77025,6 @@ schema:authorBNF2425 a author: ;
 
 schema:authorBNF24255 a author: ;
     schema:familyName "Kei Okubo" .
-
-schema:authorBNF24256 a author: ;
-    schema:familyName "Rui tamachi" .
-
-schema:authorBNF24263 a author: ;
-    schema:familyName "Élo" .
 
 schema:authorBNF243 a author: ;
     schema:familyName "Anne-Marie Delcambre" .
@@ -77572,9 +77053,6 @@ schema:authorBNF24427 a author: ;
 schema:authorBNF2445 a author: ;
     schema:familyName "Akram Belkaïd" .
 
-schema:authorBNF24470 a author: ;
-    schema:familyName "Kōhei Horikoshi" .
-
 schema:authorBNF2448 a author: ;
     schema:familyName "Françoise Du Sorbier" .
 
@@ -77596,17 +77074,11 @@ schema:authorBNF2453 a author: ;
 schema:authorBNF24539 a author: ;
     schema:familyName "Seine-Saint-Denis) Lycée Le Corbusier (Aubervilliers" .
 
-schema:authorBNF24540 a author: ;
-    schema:familyName "Étienne Lécroart" .
-
 schema:authorBNF2455 a author: ;
     schema:familyName "Muḥyī al-Dīn al- Labbād" .
 
 schema:authorBNF24562 a author: ;
     schema:familyName "Fédération française de judo et disciplines associées" .
-
-schema:authorBNF24594 a author: ;
-    schema:familyName "Yayoisō" .
 
 schema:authorBNF246 a author: ;
     schema:familyName "Ruthanne Lum McCunn" .
@@ -77623,9 +77095,6 @@ schema:authorBNF2461 a author: ;
 schema:authorBNF24613 a author: ;
     schema:familyName "Masami Yūki" .
 
-schema:authorBNF24642 a author: ;
-    schema:familyName "Jiří Kahoun" .
-
 schema:authorBNF24666 a author: ;
     schema:familyName "Ûrij Žigunov" .
 
@@ -77641,23 +77110,11 @@ schema:authorBNF24704 a author: ;
 schema:authorBNF2471 a author: ;
     schema:familyName "Alain Louis" .
 
-schema:authorBNF24722 a author: ;
-    schema:familyName "Yûsuke Ôsawa" .
-
-schema:authorBNF24777 a author: ;
-    schema:familyName "Élisabeth Jouanne" .
-
 schema:authorBNF24786 a author: ;
     schema:familyName "Garennabi Elhalou" .
 
-schema:authorBNF24797 a author: ;
-    schema:familyName "Rafael Ordóñez" .
-
 schema:authorBNF24799 a author: ;
     schema:familyName "François Darnaudet" .
-
-schema:authorBNF24801 a author: ;
-    schema:familyName "Nour Azuélos" .
 
 schema:authorBNF24822 a author: ;
     schema:familyName "Līnā Hawyān al- Ḥ̣asan" .
@@ -77698,29 +77155,17 @@ schema:authorBNF2489 a author: ;
 schema:authorBNF24893 a author: ;
     schema:familyName "Raymond Lulle" .
 
-schema:authorBNF24896 a author: ;
-    schema:familyName "Kyung-eun" .
-
 schema:authorBNF2490 a author: ;
     schema:familyName "Marianne Tomi" .
 
-schema:authorBNF24905 a author: ;
-    schema:familyName "Gengorō Tagame" .
-
 schema:authorBNF2491 a author: ;
     schema:familyName "Tomek Bogacki" .
-
-schema:authorBNF24917 a author: ;
-    schema:familyName "Éric Denniel" .
 
 schema:authorBNF2494 a author: ;
     schema:familyName "Carlo Rondini" .
 
 schema:authorBNF24962 a author: ;
     schema:familyName "Rose Marie-Noële Gressier" .
-
-schema:authorBNF24969 a author: ;
-    schema:familyName "Javier Sánchez Casado" .
 
 schema:authorBNF25 a author: ;
     schema:familyName "Idries Shah" .
@@ -77745,9 +77190,6 @@ schema:authorBNF2504 a author: ;
 
 schema:authorBNF25057 a author: ;
     schema:familyName "Jean-Jacques Mambo Bell" .
-
-schema:authorBNF2506 a author: ;
-    schema:familyName "Étienne Morel" .
 
 schema:authorBNF25061 a author: ;
     schema:familyName "'Īyād Zayʿūr" .
@@ -77791,14 +77233,8 @@ schema:authorBNF25085 a author: ;
 schema:authorBNF25086 a author: ;
     schema:familyName "Stīfin Fāril" .
 
-schema:authorBNF25088 a author: ;
-    schema:familyName "Bryndís Björgvinsdóttir" .
-
 schema:authorBNF2513 a author: ;
     schema:familyName "Ida van Berkum" .
-
-schema:authorBNF25133 a author: ;
-    schema:familyName "Eduardo Jáuregui" .
 
 schema:authorBNF2514 a author: ;
     schema:familyName "Yves Bichet" .
@@ -77817,9 +77253,6 @@ schema:authorBNF25216 a author: ;
 
 schema:authorBNF25217 a author: ;
     schema:familyName "Variety artworks" .
-
-schema:authorBNF25246 a author: ;
-    schema:familyName "Émilie Alibert" .
 
 schema:authorBNF2525 a author: ;
     schema:familyName "François Pacquement" .
@@ -77851,9 +77284,6 @@ schema:authorBNF2531 a author: ;
 schema:authorBNF25320 a author: ;
     schema:familyName "Christian de Metter" .
 
-schema:authorBNF25379 a author: ;
-    schema:familyName "Éric Maltaite" .
-
 schema:authorBNF2538 a author: ;
     schema:familyName "René Char" .
 
@@ -77878,17 +77308,8 @@ schema:authorBNF25475 a author: ;
 schema:authorBNF2548 a author: ;
     schema:familyName "Victoria Stenmark" .
 
-schema:authorBNF25492 a author: ;
-    schema:familyName "Édouard Cour" .
-
-schema:authorBNF25504 a author: ;
-    schema:familyName "Fabien Öckto Lambert" .
-
 schema:authorBNF25518 a author: ;
     schema:familyName "Sophie Durville" .
-
-schema:authorBNF25526 a author: ;
-    schema:familyName "Rudolf Lukeš" .
 
 schema:authorBNF2553 a author: ;
     schema:familyName "Christophe Abegg" .
@@ -77908,23 +77329,11 @@ schema:authorBNF25567 a author: ;
 schema:authorBNF25578 a author: ;
     schema:familyName "Vasilij Pantelejmonovič Starodumov" .
 
-schema:authorBNF25610 a author: ;
-    schema:familyName "Shūzō Oshimi" .
-
-schema:authorBNF25625 a author: ;
-    schema:familyName "Éric Wantiez" .
-
 schema:authorBNF2563 a author: ;
     schema:familyName "Grassa Toro" .
 
 schema:authorBNF25634 a author: ;
     schema:familyName "Yasmine Bouagga" .
-
-schema:authorBNF25703 a author: ;
-    schema:familyName "Iva Procházková" .
-
-schema:authorBNF25761 a author: ;
-    schema:familyName "Saʿadī" .
 
 schema:authorBNF25762 a author: ;
     schema:familyName "Le Duo" .
@@ -77934,9 +77343,6 @@ schema:authorBNF25795 a author: ;
 
 schema:authorBNF2580 a author: ;
     schema:familyName "Catherine Peugeot" .
-
-schema:authorBNF25822 a author: ;
-    schema:familyName "Ukyō Kodachi" .
 
 schema:authorBNF25823 a author: ;
     schema:familyName "Michelle Nichols" .
@@ -77961,12 +77367,6 @@ schema:authorBNF25918 a author: ;
 
 schema:authorBNF2593 a author: ;
     schema:familyName "Geneviève Raphanel" .
-
-schema:authorBNF25943 a author: ;
-    schema:familyName "Fábio Moon" .
-
-schema:authorBNF25944 a author: ;
-    schema:familyName "Gabriel Bá" .
 
 schema:authorBNF25966 a author: ;
     schema:familyName "Karina Cocq Muñoz" .
@@ -78079,9 +77479,6 @@ schema:authorBNF2629 a author: ;
 schema:authorBNF263 a author: ;
     schema:familyName "Marie-Catherine Le Jumel de Barneville baronne d' Aulnoy" .
 
-schema:authorBNF26305 a author: ;
-    schema:familyName "Hester van Toorenburg" .
-
 schema:authorBNF2631 a author: ;
     schema:familyName "Brigitte Bulard-Cordeau" .
 
@@ -78157,14 +77554,8 @@ schema:authorBNF26357 a author: ;
 schema:authorBNF26358 a author: ;
     schema:familyName "Mu'min Ḥilmī" .
 
-schema:authorBNF26389 a author: ;
-    schema:familyName "Haifaa al- Mansour" .
-
 schema:authorBNF2639 a author: ;
     schema:familyName "Centres d'entraînement aux méthodes d'éducation active" .
-
-schema:authorBNF26392 a author: ;
-    schema:familyName "Ch'aska Eugenia Anka Ninawaman" .
 
 schema:authorBNF26393 a author: ;
     schema:familyName "Ašraf al- H̱amāyisī" .
@@ -78174,9 +77565,6 @@ schema:authorBNF26398 a author: ;
 
 schema:authorBNF26439 a author: ;
     schema:familyName "Sztybor" .
-
-schema:authorBNF26459 a author: ;
-    schema:familyName "Antonio Hernández Palacios" .
 
 schema:authorBNF2646 a author: ;
     schema:familyName "Nigel Hawkes" .
@@ -78210,12 +77598,6 @@ schema:authorBNF26560 a author: ;
 
 schema:authorBNF26572 a author: ;
     schema:familyName "Ba yue Chang'an" .
-
-schema:authorBNF26588 a author: ;
-    schema:familyName "Tomomi Satō" .
-
-schema:authorBNF26596 a author: ;
-    schema:familyName "Haro Asō" .
 
 schema:authorBNF266 a author: ;
     schema:familyName "Isaac Bashevis-Singer" .
@@ -78259,9 +77641,6 @@ schema:authorBNF26766 a author: ;
 schema:authorBNF2677 a author: ;
     schema:familyName "Robin Saunders" .
 
-schema:authorBNF26780 a author: ;
-    schema:familyName "Sergio García Sánchez" .
-
 schema:authorBNF26801 a author: ;
     schema:familyName "Lee John Phillips" .
 
@@ -78280,9 +77659,6 @@ schema:authorBNF2685 a author: ;
 schema:authorBNF2686 a author: ;
     schema:familyName "Sandrine Moirenc" .
 
-schema:authorBNF26879 a author: ;
-    schema:familyName "Étienne Le Roux" .
-
 schema:authorBNF26897 a author: ;
     schema:familyName "Bobby J. George" .
 
@@ -78298,9 +77674,6 @@ schema:authorBNF26921 a author: ;
 schema:authorBNF26925 a author: ;
     schema:familyName "Théa Nougaro" .
 
-schema:authorBNF26933 a author: ;
-    schema:familyName "Rodrigo Muñoz Avia" .
-
 schema:authorBNF26937 a author: ;
     schema:familyName "Bahman Namvar-Motlag" .
 
@@ -78315,9 +77688,6 @@ schema:authorBNF26975 a author: ;
 
 schema:authorBNF2698 a author: ;
     schema:familyName "Tracy Staedter" .
-
-schema:authorBNF26981 a author: ;
-    schema:familyName "Éric Stoffel" .
 
 schema:authorBNF27 a author: ;
     schema:familyName "Kay Fender" .
@@ -78340,23 +77710,14 @@ schema:authorBNF27049 a author: ;
 schema:authorBNF27074 a author: ;
     schema:familyName "Jean-François Tixier" .
 
-schema:authorBNF27116 a author: ;
-    schema:familyName "José Pablo García" .
-
 schema:authorBNF2712 a author: ;
     schema:familyName "Likambo Kwadje" .
-
-schema:authorBNF27122 a author: ;
-    schema:familyName "Émile Cucherousset" .
 
 schema:authorBNF2713 a author: ;
     schema:familyName "Jean-Luc Raharimanana" .
 
 schema:authorBNF2718 a author: ;
     schema:familyName "Annalena McAfee" .
-
-schema:authorBNF27197 a author: ;
-    schema:familyName "Kyō Shirodaira" .
 
 schema:authorBNF272 a author: ;
     schema:familyName "Masaichirō Anno" .
@@ -78370,17 +77731,8 @@ schema:authorBNF27226 a author: ;
 schema:authorBNF27230 a author: ;
     schema:familyName "Rodolfo J. Walsh" .
 
-schema:authorBNF27243 a author: ;
-    schema:familyName "HyunJoo Park" .
-
-schema:authorBNF27258 a author: ;
-    schema:familyName "Won-hee Cho" .
-
 schema:authorBNF27267 a author: ;
     schema:familyName "Seblight" .
-
-schema:authorBNF27279 a author: ;
-    schema:familyName "Iwan Lepingle" .
 
 schema:authorBNF27284 a author: ;
     schema:familyName "Mélissa Conté" .
@@ -78427,23 +77779,11 @@ schema:authorBNF27454 a author: ;
 schema:authorBNF2748 a author: ;
     schema:familyName "Anna Pavlovna Pavlova" .
 
-schema:authorBNF27486 a author: ;
-    schema:familyName "Loulou Dédola" .
-
-schema:authorBNF27488 a author: ;
-    schema:familyName "Alice Meteignier" .
-
 schema:authorBNF275 a author: ;
     schema:familyName "Nancy Van Laan" .
 
 schema:authorBNF2750 a author: ;
     schema:familyName "Jean-Louis Viot" .
-
-schema:authorBNF27507 a author: ;
-    schema:familyName "Alexandra Hetmerová" .
-
-schema:authorBNF27508 a author: ;
-    schema:familyName "Oldřich Růžička" .
 
 schema:authorBNF2752 a author: ;
     schema:familyName "Béatrice Vincent" .
@@ -78468,9 +77808,6 @@ schema:authorBNF27555 a author: ;
 
 schema:authorBNF27557 a author: ;
     schema:familyName "Mabety Soumah" .
-
-schema:authorBNF27575 a author: ;
-    schema:familyName "Fūetsudō" .
 
 schema:authorBNF27577 a author: ;
     schema:familyName "Charles Bailleul" .
@@ -78508,9 +77845,6 @@ schema:authorBNF27645 a author: ;
 schema:authorBNF2765 a author: ;
     schema:familyName "Jean Rose" .
 
-schema:authorBNF27650 a author: ;
-    schema:familyName "Élizabeth Holleville" .
-
 schema:authorBNF2766 a author: ;
     schema:familyName "Willem Hartman" .
 
@@ -78522,9 +77856,6 @@ schema:authorBNF27688 a author: ;
 
 schema:authorBNF2769 a author: ;
     schema:familyName "Henry Laverne" .
-
-schema:authorBNF277 a author: ;
-    schema:familyName "Elizabeth Borton de Treviño" .
 
 schema:authorBNF2770 a author: ;
     schema:familyName "Paul Misraki" .
@@ -78598,26 +77929,11 @@ schema:authorBNF27859 a author: ;
 schema:authorBNF27860 a author: ;
     schema:familyName "Sanāʾ H̱uḍr" .
 
-schema:authorBNF27868 a author: ;
-    schema:familyName "Noëmie Weber" .
-
-schema:authorBNF27869 a author: ;
-    schema:familyName "Núria Tamarit" .
-
 schema:authorBNF2787 a author: ;
     schema:familyName "François-Robert Nollet" .
 
-schema:authorBNF27872 a author: ;
-    schema:familyName "Yoon-sun Park" .
-
 schema:authorBNF27876 a author: ;
     schema:familyName "Maḥmūd Darwīš" .
-
-schema:authorBNF27879 a author: ;
-    schema:familyName "Satorīno Fuchigami" .
-
-schema:authorBNF27898 a author: ;
-    schema:familyName "Keisuke Satō" .
 
 schema:authorBNF279 a author: ;
     schema:familyName "Hélène Chew" .
@@ -78628,17 +77944,11 @@ schema:authorBNF27918 a author: ;
 schema:authorBNF2792 a author: ;
     schema:familyName "Yvan Théry" .
 
-schema:authorBNF27928 a author: ;
-    schema:familyName "Lucile de Pesloüan" .
-
 schema:authorBNF27957 a author: ;
     schema:familyName "Bjørn Sortland" .
 
 schema:authorBNF27966 a author: ;
     schema:familyName "Stanisława Domagalska" .
-
-schema:authorBNF27975 a author: ;
-    schema:familyName "Sebastián Fiumara" .
 
 schema:authorBNF2798 a author: ;
     schema:familyName "Anne-Laure Witschger" .
@@ -78649,23 +77959,14 @@ schema:authorBNF2799 a author: ;
 schema:authorBNF2802 a author: ;
     schema:familyName "Laurence Lhommedet" .
 
-schema:authorBNF28044 a author: ;
-    schema:familyName "Llanos Campos Martínez" .
-
 schema:authorBNF28051 a author: ;
     schema:familyName "Claire de Gastold" .
-
-schema:authorBNF28054 a author: ;
-    schema:familyName "Florence Medina" .
 
 schema:authorBNF28106 a author: ;
     schema:familyName "A. L. Kennedy" .
 
 schema:authorBNF2811 a author: ;
     schema:familyName "Jim Harrison" .
-
-schema:authorBNF28113 a author: ;
-    schema:familyName "Stephanie Burgis" .
 
 schema:authorBNF28121 a author: ;
     schema:familyName "Lubná Ṭaha" .
@@ -78684,9 +77985,6 @@ schema:authorBNF28199 a author: ;
 
 schema:authorBNF2820 a author: ;
     schema:familyName "William Wegman" .
-
-schema:authorBNF28201 a author: ;
-    schema:familyName "Lygia Day Peñaflor" .
 
 schema:authorBNF28214 a author: ;
     schema:familyName "Haymá al- Muftī" .
@@ -78733,18 +78031,6 @@ schema:authorBNF28339 a author: ;
 schema:authorBNF2836 a author: ;
     schema:familyName "Michael Allaby" .
 
-schema:authorBNF28361 a author: ;
-    schema:familyName "Élodie Shanta" .
-
-schema:authorBNF28365 a author: ;
-    schema:familyName "Cécile Émeraud" .
-
-schema:authorBNF28367 a author: ;
-    schema:familyName "Jean-Louis Étienne" .
-
-schema:authorBNF28388 a author: ;
-    schema:familyName "Arnar Már Arngrímsson" .
-
 schema:authorBNF284 a author: ;
     schema:familyName "Scott O'Dell" .
 
@@ -78753,9 +78039,6 @@ schema:authorBNF2840 a author: ;
 
 schema:authorBNF2841 a author: ;
     schema:familyName "Cosmic Debris" .
-
-schema:authorBNF28438 a author: ;
-    schema:familyName "Keigo Shinzō" .
 
 schema:authorBNF2846 a author: ;
     schema:familyName "Christian Marie" .
@@ -78796,9 +78079,6 @@ schema:authorBNF28640 a author: ;
 schema:authorBNF28644 a author: ;
     schema:familyName "Réseau de lutte contre la traite des enfants au Togo" .
 
-schema:authorBNF28646 a author: ;
-    schema:familyName "Annick Assemian" .
-
 schema:authorBNF28647 a author: ;
     schema:familyName "Josué Guébo" .
 
@@ -78822,12 +78102,6 @@ schema:authorBNF28657 a author: ;
 
 schema:authorBNF28658 a author: ;
     schema:familyName "Bahari" .
-
-schema:authorBNF28683 a author: ;
-    schema:familyName "Anna Czerwińska-Rydel" .
-
-schema:authorBNF28696 a author: ;
-    schema:familyName "Émilie Vautrin" .
 
 schema:authorBNF28705 a author: ;
     schema:familyName "Dedeb-Deb" .
@@ -78868,14 +78142,8 @@ schema:authorBNF2883 a author: ;
 schema:authorBNF28838 a author: ;
     schema:familyName "Anne Pym" .
 
-schema:authorBNF28857 a author: ;
-    schema:familyName "Émilie Plateau" .
-
 schema:authorBNF28872 a author: ;
     schema:familyName "Mara . Chant | Mes Aïeux. Chant | Ariane . Chant | Tremblay Marie Lafrance" .
-
-schema:authorBNF28885 a author: ;
-    schema:familyName "Monika Vaicenavičienė" .
 
 schema:authorBNF28894 a author: ;
     schema:familyName "Xiao zhou Wu" .
@@ -78928,26 +78196,11 @@ schema:authorBNF2897 a author: ;
 schema:authorBNF2899 a author: ;
     schema:familyName "ʿAmr ibn Baḥr al- Ǧāḥiẓ" .
 
-schema:authorBNF28991 a author: ;
-    schema:familyName "Louise Mezel" .
-
 schema:authorBNF29029 a author: ;
     schema:familyName "Muroyama Mayumi" .
 
 schema:authorBNF2904 a author: ;
     schema:familyName "Claire Aston" .
-
-schema:authorBNF29048 a author: ;
-    schema:familyName "Jurga Vilė" .
-
-schema:authorBNF29050 a author: ;
-    schema:familyName "Évelyne Pieiller" .
-
-schema:authorBNF29065 a author: ;
-    schema:familyName "Hōko Takadono" .
-
-schema:authorBNF29068 a author: ;
-    schema:familyName "Sylvie Gérinte" .
 
 schema:authorBNF29073 a author: ;
     schema:familyName "Émilie Lenain" .
@@ -78963,9 +78216,6 @@ schema:authorBNF2911 a author: ;
 
 schema:authorBNF2915 a author: ;
     schema:familyName "Chantal Henry-Biabaud" .
-
-schema:authorBNF29170 a author: ;
-    schema:familyName "Stasys Eidrigevičius" .
 
 schema:authorBNF29172 a author: ;
     schema:familyName "Darran Stobbart" .
@@ -78991,17 +78241,11 @@ schema:authorBNF29239 a author: ;
 schema:authorBNF2925 a author: ;
     schema:familyName "Robert Fabbri" .
 
-schema:authorBNF29314 a author: ;
-    schema:familyName "Melissa Keil" .
-
 schema:authorBNF29330 a author: ;
     schema:familyName "Håkon Øvreås" .
 
 schema:authorBNF2935 a author: ;
     schema:familyName "Jean Daly" .
-
-schema:authorBNF29360 a author: ;
-    schema:familyName "Aneta Františka Holasová" .
 
 schema:authorBNF2937 a author: ;
     schema:familyName "Lisette Morival" .
@@ -79014,9 +78258,6 @@ schema:authorBNF2940 a author: ;
 
 schema:authorBNF29424 a author: ;
     schema:familyName "Minibus" .
-
-schema:authorBNF29458 a author: ;
-    schema:familyName "Ifā Kūzmā" .
 
 schema:authorBNF29461 a author: ;
     schema:familyName "rusūmāt: Aḥmad al-H̱ālidī" .
@@ -79033,9 +78274,6 @@ schema:authorBNF29466 a author: ;
 schema:authorBNF29473 a author: ;
     schema:familyName "Hibah Farrān" .
 
-schema:authorBNF29474 a author: ;
-    schema:familyName "Levent Beşkardeş" .
-
 schema:authorBNF29482 a author: ;
     schema:familyName "Hillary Bader" .
 
@@ -79050,9 +78288,6 @@ schema:authorBNF2954 a author: ;
 
 schema:authorBNF29557 a author: ;
     schema:familyName "Fumi Minato" .
-
-schema:authorBNF29582 a author: ;
-    schema:familyName "Lisen Adbåge" .
 
 schema:authorBNF29586 a author: ;
     schema:familyName "Øyvind Nydal Dahl" .
@@ -79117,20 +78352,11 @@ schema:authorBNF29665 a author: ;
 schema:authorBNF29666 a author: ;
     schema:familyName "Bānaẗ al- ʿĀbid" .
 
-schema:authorBNF29673 a author: ;
-    schema:familyName "Gustavo Roldán" .
-
-schema:authorBNF29709 a author: ;
-    schema:familyName "Sōichirō Yamamoto" .
-
 schema:authorBNF2971 a author: ;
     schema:familyName "Dilys. Direction d'orchestre | Lycée international . Chorale d'enfants. Choeur mixte | Jean-François . Compositeur | Barré Joëlle . Illustrateur | Leroux Jeanette. Auteur du texte | Boucher Claire Abbis-Chacé" .
 
 schema:authorBNF2972 a author: ;
     schema:familyName "Marie. Voix parlée | Lexis numérique. Réalisateur | Lorenzo. Voix parlée | Viennot Michel. Acteur | Pancino Nicolas. Illustrateur. Technicien graphique | Beaujard Michel. Illustrateur. Technicien graphique | Delaye Rémy. Illustrateur | Aurousseau Frédéric . Compositeur | Lucas Jean-Pascal. Compositeur | Lerner Éric Viennot" .
-
-schema:authorBNF29727 a author: ;
-    schema:familyName "Wilfried N'Sonde" .
 
 schema:authorBNF2975 a author: ;
     schema:familyName "Jean-Baptiste . Voix parlée | Monique . Voix parlée | Marchand Marie-Laure . Voix parlée | Messine Nicolas . Éditeur scientifique | Beneston Aalam. Chef de projet inbookFormatique | Marçais Alan . Auteur de l'animation | Wassef Brend. Auteur de l'animation | Smithee George. Auteur de l'animation | Deitrich Laurie. Auteur du texte | Henion Tedd. Concepteur. Auteur adapté | Bauman-Arnold Camilla Calamandrei" .
@@ -79162,17 +78388,8 @@ schema:authorBNF29815 a author: ;
 schema:authorBNF2982 a author: ;
     schema:familyName "Coktel" .
 
-schema:authorBNF29821 a author: ;
-    schema:familyName "Julieta Cánepa" .
-
 schema:authorBNF2983 a author: ;
     schema:familyName "Françoise . Voix parlée | Virginie. Voix parlée | Blanchard Lambert . Voix parlée | Tesnière Sara . Acteur | Wilson Nicolas. Technicien graphique | Forestier Christophe. Technicien graphique | Lembrouck Olivier. Technicien graphique | Devaux Jean-Pascal. Compositeur | Derouetteau Minh . Réalisateur | Vielfaure Lewis . Auteur adapté | Phan Sandrine Mariette" .
-
-schema:authorBNF29843 a author: ;
-    schema:familyName "Monika Baudišová" .
-
-schema:authorBNF29845 a author: ;
-    schema:familyName "Jana K. Kudrnová" .
 
 schema:authorBNF29859 a author: ;
     schema:familyName "Dynamo limited" .
@@ -79207,14 +78424,8 @@ schema:authorBNF2992 a author: ;
 schema:authorBNF2993 a author: ;
     schema:familyName "Patrick . Direction d'orchestre | Maîtrise de Paris. Groupe vocal | Cassandre . Illustrateur | Marco Charlotte . Illustrateur | Montoriol Aurélia . Illustrateur | Labaronne Alain Louvier" .
 
-schema:authorBNF29945 a author: ;
-    schema:familyName "María Villa" .
-
 schema:authorBNF2995 a author: ;
     schema:familyName "Dominique Fournil" .
-
-schema:authorBNF29953 a author: ;
-    schema:familyName "Javier Sáez Castán" .
 
 schema:authorBNF2996 a author: ;
     schema:familyName "Paul . Direction d'orchestre | Élodie . Illustrateur | Mindy Chantal Grosléziat" .
@@ -79234,14 +78445,8 @@ schema:authorBNF300 a author: ;
 schema:authorBNF30009 a author: ;
     schema:familyName "1jour1actu" .
 
-schema:authorBNF30016 a author: ;
-    schema:familyName "Éric Hérenguel" .
-
 schema:authorBNF30023 a author: ;
     schema:familyName "Universcience . Auteur du texte | Centre interfacultaire en sciences affectives . Auteur du texte | Institut national d'études démographiques . Auteur du texte |" .
-
-schema:authorBNF30025 a author: ;
-    schema:familyName "Nadia Leïla Aïssaoui" .
 
 schema:authorBNF30034 a author: ;
     schema:familyName "Pierre-Dominique Burgaud" .
@@ -79254,9 +78459,6 @@ schema:authorBNF30072 a author: ;
 
 schema:authorBNF301 a author: ;
     schema:familyName "Mike Corbishley" .
-
-schema:authorBNF30100 a author: ;
-    schema:familyName "Éléonore Douspis" .
 
 schema:authorBNF30101 a author: ;
     schema:familyName "Sèbè Lamine Kouyaté" .
@@ -79281,15 +78483,6 @@ schema:authorBNF30126 a author: ;
 
 schema:authorBNF30127 a author: ;
     schema:familyName "Rinād Ḥāmid" .
-
-schema:authorBNF30129 a author: ;
-    schema:familyName "David López" .
-
-schema:authorBNF30151 a author: ;
-    schema:familyName "Sheddad Kaid-Salah Ferrón" .
-
-schema:authorBNF30154 a author: ;
-    schema:familyName "Bàrbara Castro Urío" .
 
 schema:authorBNF3017 a author: ;
     schema:familyName "Audrey Couloumbis" .
@@ -79321,9 +78514,6 @@ schema:authorBNF303 a author: ;
 schema:authorBNF3031 a author: ;
     schema:familyName "Julien Adès" .
 
-schema:authorBNF30312 a author: ;
-    schema:familyName "Marc Lévy" .
-
 schema:authorBNF3032 a author: ;
     schema:familyName "Brice Morguet" .
 
@@ -79342,9 +78532,6 @@ schema:authorBNF3039 a author: ;
 schema:authorBNF30397 a author: ;
     schema:familyName "Nathalie Carron-Lanzl" .
 
-schema:authorBNF30398 a author: ;
-    schema:familyName "Rina Çela Grasset" .
-
 schema:authorBNF30419 a author: ;
     schema:familyName "Lu ying Ye" .
 
@@ -79359,9 +78546,6 @@ schema:authorBNF3049 a author: ;
 
 schema:authorBNF30494 a author: ;
     schema:familyName "Yū Horii" .
-
-schema:authorBNF30512 a author: ;
-    schema:familyName "Santiago García" .
 
 schema:authorBNF30522 a author: ;
     schema:familyName "E. S. Green" .
@@ -79414,53 +78598,29 @@ schema:authorBNF30576 a author: ;
 schema:authorBNF30581 a author: ;
     schema:familyName "Patricia Ferrara" .
 
-schema:authorBNF30619 a author: ;
-    schema:familyName "Andrei Puică" .
-
 schema:authorBNF30629 a author: ;
     schema:familyName "Małgorzata Mycielska" .
 
 schema:authorBNF3064 a author: ;
     schema:familyName "Barbara M. Joosse" .
 
-schema:authorBNF30641 a author: ;
-    schema:familyName "Raúl Ariño" .
-
 schema:authorBNF30646 a author: ;
     schema:familyName "Mariona Tolosa" .
-
-schema:authorBNF30661 a author: ;
-    schema:familyName "Vilborg Dagbjartsdóttir" .
 
 schema:authorBNF30695 a author: ;
     schema:familyName "Cigalle Hanaor" .
 
-schema:authorBNF30722 a author: ;
-    schema:familyName "Vicente Montalbá" .
-
 schema:authorBNF3073 a author: ;
     schema:familyName "Kelly Dupre" .
 
-schema:authorBNF30732 a author: ;
-    schema:familyName "'Fane" .
-
 schema:authorBNF30740 a author: ;
     schema:familyName "Aoi Makino" .
-
-schema:authorBNF30749 a author: ;
-    schema:familyName "Katerína Apostolopoúlou" .
-
-schema:authorBNF30806 a author: ;
-    schema:familyName "Étienne Oburie" .
 
 schema:authorBNF30815 a author: ;
     schema:familyName "Ken Bugul (1948-....)" .
 
 schema:authorBNF30816 a author: ;
     schema:familyName "Jéthro Origo" .
-
-schema:authorBNF30839 a author: ;
-    schema:familyName "Márcia Abreu" .
 
 schema:authorBNF30867 a author: ;
     schema:familyName "Mohammed Abbas" .
@@ -79474,20 +78634,11 @@ schema:authorBNF30878 a author: ;
 schema:authorBNF30897 a author: ;
     schema:familyName "Pavel Valerʹevič Kvartalʹnov" .
 
-schema:authorBNF30907 a author: ;
-    schema:familyName "Zosia Dzierżawska" .
-
 schema:authorBNF30929 a author: ;
     schema:familyName "Tomoko Ooshima" .
 
 schema:authorBNF3093 a author: ;
     schema:familyName "Bob Barner" .
-
-schema:authorBNF30930 a author: ;
-    schema:familyName "Yarō Abe" .
-
-schema:authorBNF30956 a author: ;
-    schema:familyName "Kara LaReau" .
 
 schema:authorBNF30958 a author: ;
     schema:familyName "Simon Sebag Montefiore" .
@@ -79497,9 +78648,6 @@ schema:authorBNF3099 a author: ;
 
 schema:authorBNF30996 a author: ;
     schema:familyName "Sandrine Monnier" .
-
-schema:authorBNF30999 a author: ;
-    schema:familyName "Štjepan Sejić" .
 
 schema:authorBNF31 a author: ;
     schema:familyName "Pierre Pluchon" .
@@ -79521,9 +78669,6 @@ schema:authorBNF3104 a author: ;
 
 schema:authorBNF31046 a author: ;
     schema:familyName "Wei jun Sun" .
-
-schema:authorBNF31047 a author: ;
-    schema:familyName "Tatsuya Endō" .
 
 schema:authorBNF3108 a author: ;
     schema:familyName "Carlos Drummond de Andrade" .
@@ -79560,9 +78705,6 @@ schema:authorBNF3115 a author: ;
 
 schema:authorBNF31155 a author: ;
     schema:familyName "Muséum national d'histoire naturelle" .
-
-schema:authorBNF31161 a author: ;
-    schema:familyName "Hyewon Kyung" .
 
 schema:authorBNF3119 a author: ;
     schema:familyName "Aiden Beaverson" .
@@ -79603,12 +78745,6 @@ schema:authorBNF31343 a author: ;
 schema:authorBNF3135 a author: ;
     schema:familyName "René Frégni" .
 
-schema:authorBNF31392 a author: ;
-    schema:familyName "Étienne Gendrin" .
-
-schema:authorBNF31406 a author: ;
-    schema:familyName "Narisa Tōgō" .
-
 schema:authorBNF3141 a author: ;
     schema:familyName "Mahi" .
 
@@ -79620,9 +78756,6 @@ schema:authorBNF31469 a author: ;
 
 schema:authorBNF31478 a author: ;
     schema:familyName "préface de Claude Habib" .
-
-schema:authorBNF31491 a author: ;
-    schema:familyName "Yūsuke Murata" .
 
 schema:authorBNF31492 a author: ;
     schema:familyName "Aleksandra Woldańska-Płocińska" .
@@ -79645,15 +78778,6 @@ schema:authorBNF31532 a author: ;
 schema:authorBNF31541 a author: ;
     schema:familyName "Cindya Izzarelli" .
 
-schema:authorBNF31560 a author: ;
-    schema:familyName "Raquel Martín" .
-
-schema:authorBNF31564 a author: ;
-    schema:familyName "Édith Chambon" .
-
-schema:authorBNF31578 a author: ;
-    schema:familyName "Tània García" .
-
 schema:authorBNF31586 a author: ;
     schema:familyName "Amy Alward" .
 
@@ -79665,9 +78789,6 @@ schema:authorBNF31594 a author: ;
 
 schema:authorBNF3160 a author: ;
     schema:familyName "Anne Vallet" .
-
-schema:authorBNF31600 a author: ;
-    schema:familyName "Àngels Navarro" .
 
 schema:authorBNF3161 a author: ;
     schema:familyName "Rémy Amann" .
@@ -79708,9 +78829,6 @@ schema:authorBNF3174 a author: ;
 schema:authorBNF3175 a author: ;
     schema:familyName "Sam Taplin" .
 
-schema:authorBNF31755 a author: ;
-    schema:familyName "Éric Boulogne" .
-
 schema:authorBNF31757 a author: ;
     schema:familyName "Amandine Vélin" .
 
@@ -79726,9 +78844,6 @@ schema:authorBNF3182 a author: ;
 schema:authorBNF31821 a author: ;
     schema:familyName "Hua Lin Xie" .
 
-schema:authorBNF31839 a author: ;
-    schema:familyName "Éric Faure" .
-
 schema:authorBNF3184 a author: ;
     schema:familyName "Wilhelm . Auteur du texte | Jacob Grimm" .
 
@@ -79738,20 +78853,11 @@ schema:authorBNF3185 a author: ;
 schema:authorBNF31852 a author: ;
     schema:familyName "Jenny J. Camille-Moïse" .
 
-schema:authorBNF31870 a author: ;
-    schema:familyName "Elīna Brasliņa" .
-
 schema:authorBNF3189 a author: ;
     schema:familyName "Jean-François Terrasse" .
 
 schema:authorBNF3190 a author: ;
     schema:familyName "Didier Maranski" .
-
-schema:authorBNF31901 a author: ;
-    schema:familyName "Ana Cristina Sánchez" .
-
-schema:authorBNF31907 a author: ;
-    schema:familyName "Amaury Bündgen" .
 
 schema:authorBNF3191 a author: ;
     schema:familyName "Luc Gomel" .
@@ -79767,9 +78873,6 @@ schema:authorBNF3193 a author: ;
 
 schema:authorBNF3194 a author: ;
     schema:familyName "Christiane Taubira-Delannon" .
-
-schema:authorBNF31945 a author: ;
-    schema:familyName "Yūsaku Shibata" .
 
 schema:authorBNF31953 a author: ;
     schema:familyName "Akira Kanō" .
@@ -79795,9 +78898,6 @@ schema:authorBNF3205 a author: ;
 schema:authorBNF32066 a author: ;
     schema:familyName "Šawqī ʿAbd al-Ḥakīm" .
 
-schema:authorBNF32078 a author: ;
-    schema:familyName "Émilie Clarke" .
-
 schema:authorBNF3208 a author: ;
     schema:familyName "Younès Abou Ayoub" .
 
@@ -79819,12 +78919,6 @@ schema:authorBNF3212 a author: ;
 schema:authorBNF32129 a author: ;
     schema:familyName "Kanna Kii" .
 
-schema:authorBNF32136 a author: ;
-    schema:familyName "Damián" .
-
-schema:authorBNF32155 a author: ;
-    schema:familyName "Élisa Sartori" .
-
 schema:authorBNF32178 a author: ;
     schema:familyName "Saehan Park" .
 
@@ -79833,12 +78927,6 @@ schema:authorBNF32213 a author: ;
 
 schema:authorBNF32232 a author: ;
     schema:familyName "Atelier Sentō" .
-
-schema:authorBNF32274 a author: ;
-    schema:familyName "Émile Le Menn" .
-
-schema:authorBNF32276 a author: ;
-    schema:familyName "Karine Djébari" .
 
 schema:authorBNF3229 a author: ;
     schema:familyName "Clotilde Pasquier-Bronde" .
@@ -79861,9 +78949,6 @@ schema:authorBNF32323 a author: ;
 schema:authorBNF32332 a author: ;
     schema:familyName "Cécile Villain" .
 
-schema:authorBNF32362 a author: ;
-    schema:familyName "Évelyne Heyer" .
-
 schema:authorBNF3238 a author: ;
     schema:familyName "Gabrielle-Suzanne de Villeneuve" .
 
@@ -79873,20 +78958,11 @@ schema:authorBNF32392 a author: ;
 schema:authorBNF3242 a author: ;
     schema:familyName "José Luandino Vieira" .
 
-schema:authorBNF32422 a author: ;
-    schema:familyName "Enrique Fernández" .
-
 schema:authorBNF3245 a author: ;
     schema:familyName "Bernard Bertrand" .
 
 schema:authorBNF3246 a author: ;
     schema:familyName "Eliane Haroux-Métayer" .
-
-schema:authorBNF32461 a author: ;
-    schema:familyName "Yūna Hirasawa" .
-
-schema:authorBNF32471 a author: ;
-    schema:familyName "Élisabeth Barféty" .
 
 schema:authorBNF3248 a author: ;
     schema:familyName "Karl Valentin" .
@@ -79909,9 +78985,6 @@ schema:authorBNF32503 a author: ;
 schema:authorBNF32506 a author: ;
     schema:familyName "Aimée de Jongh" .
 
-schema:authorBNF32508 a author: ;
-    schema:familyName "Yutaka Kōno" .
-
 schema:authorBNF32518 a author: ;
     schema:familyName "Muhammad al- Muʿṭī" .
 
@@ -79933,38 +79006,17 @@ schema:authorBNF32540 a author: ;
 schema:authorBNF32541 a author: ;
     schema:familyName "Dīnā Muḥammad Yaḥyá" .
 
-schema:authorBNF32549 a author: ;
-    schema:familyName "Nora Dåsnes" .
-
-schema:authorBNF32551 a author: ;
-    schema:familyName "Églantine Ceulemans" .
-
-schema:authorBNF32571 a author: ;
-    schema:familyName "Lily LaMotte" .
-
 schema:authorBNF32578 a author: ;
     schema:familyName "Yumeji" .
 
 schema:authorBNF32582 a author: ;
     schema:familyName "Aidairo" .
 
-schema:authorBNF32587 a author: ;
-    schema:familyName "Anatole Aufrère" .
-
-schema:authorBNF32593 a author: ;
-    schema:familyName "Édith Azam" .
-
 schema:authorBNF32604 a author: ;
     schema:familyName "Daniel . Chant | Carmen . Chant | Lavoie Marie-Ève Tremblay" .
 
-schema:authorBNF32612 a author: ;
-    schema:familyName "Milada Rezková" .
-
 schema:authorBNF32653 a author: ;
     schema:familyName "Christina Hammonds Reed" .
-
-schema:authorBNF32682 a author: ;
-    schema:familyName "Beka" .
 
 schema:authorBNF3269 a author: ;
     schema:familyName "Abdel Saïdi" .
@@ -80020,9 +79072,6 @@ schema:authorBNF32926 a author: ;
 schema:authorBNF32937 a author: ;
     schema:familyName "A. M. Morgen" .
 
-schema:authorBNF32951 a author: ;
-    schema:familyName "Roukiata Ouédraogo" .
-
 schema:authorBNF32965 a author: ;
     schema:familyName "Naoko Matsuda" .
 
@@ -80047,9 +79096,6 @@ schema:authorBNF33000 a author: ;
 schema:authorBNF33001 a author: ;
     schema:familyName "Bāsmaẗ al- Wazzān" .
 
-schema:authorBNF33006 a author: ;
-    schema:familyName "Izabela Zięba" .
-
 schema:authorBNF3301 a author: ;
     schema:familyName "Judy Tatchell" .
 
@@ -80061,9 +79107,6 @@ schema:authorBNF3304 a author: ;
 
 schema:authorBNF3306 a author: ;
     schema:familyName "La Poste . Service national des timbres-poste et de la philatélie" .
-
-schema:authorBNF33072 a author: ;
-    schema:familyName "Mingo Itō" .
 
 schema:authorBNF3309 a author: ;
     schema:familyName "Alain Gerber" .
@@ -80107,14 +79150,8 @@ schema:authorBNF3324 a author: ;
 schema:authorBNF3325 a author: ;
     schema:familyName "Virginie Jamin" .
 
-schema:authorBNF33265 a author: ;
-    schema:familyName "María Hesse" .
-
 schema:authorBNF33272 a author: ;
     schema:familyName "Olma Illustratrice" .
-
-schema:authorBNF33278 a author: ;
-    schema:familyName "Sandra Hernández" .
 
 schema:authorBNF33281 a author: ;
     schema:familyName "Ewa Woydyłło" .
@@ -80131,14 +79168,8 @@ schema:authorBNF3330 a author: ;
 schema:authorBNF33303 a author: ;
     schema:familyName "Héloïse. Réalisateur | Salomé. Réalisateur | Ferlay Marie. Réalisateur | Hammann Andrée . Auteur adapté | Deboissy Paul . Auteur adapté | Chedid Nina. Réalisateur | Verlaine Émilie. Réalisateur | Heckel Jérémy. Réalisateur | Tronche Jean . Auteur adapté | Cousin Alix. Réalisateur | Tardieu Rosalie. Réalisateur | Boiron-Albrespy Judith . Réalisateur | Benevello Claude . Auteur adapté | Herbeth Clémentine. Réalisateur | Roy Cynthia. Réalisateur | Campos Roxane . Réalisateur | Calvi Timothée de Fombelle" .
 
-schema:authorBNF33333 a author: ;
-    schema:familyName "Yū Tomofuji" .
-
 schema:authorBNF3335 a author: ;
     schema:familyName "Marion Zimmer Bradley" .
-
-schema:authorBNF33358 a author: ;
-    schema:familyName "Ángel Svoboda" .
 
 schema:authorBNF3336 a author: ;
     schema:familyName "Henri Pourrat" .
@@ -80164,20 +79195,11 @@ schema:authorBNF3339 a author: ;
 schema:authorBNF33390 a author: ;
     schema:familyName "Mohammed Umar" .
 
-schema:authorBNF33391 a author: ;
-    schema:familyName "Mohamed ag Erless" .
-
 schema:authorBNF33392 a author: ;
     schema:familyName "Sylvia Serbin" .
 
-schema:authorBNF33405 a author: ;
-    schema:familyName "Ryū Miyanaga" .
-
 schema:authorBNF33412 a author: ;
     schema:familyName "Krocui" .
-
-schema:authorBNF33420 a author: ;
-    schema:familyName "Pádraig Kenny" .
 
 schema:authorBNF33425 a author: ;
     schema:familyName "Qi feng Shen" .
@@ -80194,9 +79216,6 @@ schema:authorBNF3344 a author: ;
 schema:authorBNF3345 a author: ;
     schema:familyName "Murielle Boyer" .
 
-schema:authorBNF33477 a author: ;
-    schema:familyName "Matias Istolainen" .
-
 schema:authorBNF33487 a author: ;
     schema:familyName "Julia Sørensen" .
 
@@ -80211,9 +79230,6 @@ schema:authorBNF33563 a author: ;
 
 schema:authorBNF33583 a author: ;
     schema:familyName "Lydie A. Wallon" .
-
-schema:authorBNF33585 a author: ;
-    schema:familyName "Émilie Gleason" .
 
 schema:authorBNF33622 a author: ;
     schema:familyName "Xuân Nguyêñ" .
@@ -80236,17 +79252,8 @@ schema:authorBNF33748 a author: ;
 schema:authorBNF33758 a author: ;
     schema:familyName "Timoteo" .
 
-schema:authorBNF33762 a author: ;
-    schema:familyName "Nicolò Carozzi" .
-
-schema:authorBNF33764 a author: ;
-    schema:familyName "Renata Piątkowska" .
-
 schema:authorBNF3377 a author: ;
     schema:familyName "Jean-Jacques Busino" .
-
-schema:authorBNF33788 a author: ;
-    schema:familyName "Sōsuke Tōka" .
 
 schema:authorBNF33791 a author: ;
     schema:familyName "Mayeul Vigouroux" .
@@ -80268,9 +79275,6 @@ schema:authorBNF33845 a author: ;
 
 schema:authorBNF33851 a author: ;
     schema:familyName "Boris de Fast" .
-
-schema:authorBNF33853 a author: ;
-    schema:familyName "Aggelikī́́ Darlásī" .
 
 schema:authorBNF33860 a author: ;
     schema:familyName "Elle van Lieshout" .
@@ -80311,9 +79315,6 @@ schema:authorBNF33974 a author: ;
 schema:authorBNF33981 a author: ;
     schema:familyName "Caroline Toury" .
 
-schema:authorBNF33983 a author: ;
-    schema:familyName "Élisabeth Benoit-Morelli" .
-
 schema:authorBNF340 a author: ;
     schema:familyName "Max Velthuĳs" .
 
@@ -80344,17 +79345,8 @@ schema:authorBNF3408 a author: ;
 schema:authorBNF3410 a author: ;
     schema:familyName "Christiane Seydou" .
 
-schema:authorBNF34115 a author: ;
-    schema:familyName "Ève-Marie Lobriaut" .
-
 schema:authorBNF34122 a author: ;
     schema:familyName "Jon Skovron" .
-
-schema:authorBNF34125 a author: ;
-    schema:familyName "Émilie Le Garben" .
-
-schema:authorBNF34135 a author: ;
-    schema:familyName "Émilie Ouellette" .
 
 schema:authorBNF34136 a author: ;
     schema:familyName "Florence Pazzottu" .
@@ -80364,9 +79356,6 @@ schema:authorBNF3414 a author: ;
 
 schema:authorBNF34149 a author: ;
     schema:familyName "Katrine Lucilly" .
-
-schema:authorBNF34153 a author: ;
-    schema:familyName "Élodie Bouédec" .
 
 schema:authorBNF3418 a author: ;
     schema:familyName "Liliana Lombardo" .
@@ -80386,9 +79375,6 @@ schema:authorBNF3423 a author: ;
 schema:authorBNF34237 a author: ;
     schema:familyName "Johann Karl August Musäus" .
 
-schema:authorBNF34268 a author: ;
-    schema:familyName "Hye-Eun Kim" .
-
 schema:authorBNF34277 a author: ;
     schema:familyName "Monika Utnik-Strugała" .
 
@@ -80398,23 +79384,8 @@ schema:authorBNF3429 a author: ;
 schema:authorBNF3430 a author: ;
     schema:familyName "Laurence Laurendon" .
 
-schema:authorBNF34302 a author: ;
-    schema:familyName "Berta Páramo" .
-
 schema:authorBNF34306 a author: ;
     schema:familyName "Jean d' Amérique" .
-
-schema:authorBNF34307 a author: ;
-    schema:familyName "Loreto Corvalán" .
-
-schema:authorBNF34321 a author: ;
-    schema:familyName "Rin Saitō" .
-
-schema:authorBNF34323 a author: ;
-    schema:familyName "Sakae Saitō" .
-
-schema:authorBNF34342 a author: ;
-    schema:familyName "Gijs van der Hammen" .
 
 schema:authorBNF344 a author: ;
     schema:familyName "Nina Bawden" .
@@ -80442,9 +79413,6 @@ schema:authorBNF34525 a author: ;
 
 schema:authorBNF34528 a author: ;
     schema:familyName "Yūki Kamatani" .
-
-schema:authorBNF34529 a author: ;
-    schema:familyName "Fumitaka Katō" .
 
 schema:authorBNF34533 a author: ;
     schema:familyName "Mathieu | Jérôme | La Mine Jean-Philippe | Vermer Thivet" .
@@ -80485,17 +79453,8 @@ schema:authorBNF34637 a author: ;
 schema:authorBNF3464 a author: ;
     schema:familyName "Erika Tamar" .
 
-schema:authorBNF34674 a author: ;
-    schema:familyName "Svetlana Makarovič" .
-
 schema:authorBNF3468 a author: ;
     schema:familyName "Francesco D'Adamo" .
-
-schema:authorBNF34688 a author: ;
-    schema:familyName "Émilie Saitas" .
-
-schema:authorBNF34699 a author: ;
-    schema:familyName "Marie Štumpfová" .
 
 schema:authorBNF3470 a author: ;
     schema:familyName "Marjorie Newman" .
@@ -80512,20 +79471,11 @@ schema:authorBNF34729 a author: ;
 schema:authorBNF3473 a author: ;
     schema:familyName "Jean-Claude Baudroux" .
 
-schema:authorBNF34745 a author: ;
-    schema:familyName "Lucie Lomová" .
-
 schema:authorBNF34748 a author: ;
     schema:familyName "Ella Berthoud" .
 
 schema:authorBNF34749 a author: ;
     schema:familyName "Amīraẗ Būkadraẗ" .
-
-schema:authorBNF34751 a author: ;
-    schema:familyName "Éliot Franques" .
-
-schema:authorBNF34752 a author: ;
-    schema:familyName "Éric Darbré" .
 
 schema:authorBNF34757 a author: ;
     schema:familyName "Song Hyunjoo" .
@@ -80538,9 +79488,6 @@ schema:authorBNF34807 a author: ;
 
 schema:authorBNF34821 a author: ;
     schema:familyName "Meyer Ralph | Mitchell Eddy |" .
-
-schema:authorBNF34828 a author: ;
-    schema:familyName "Laylá Zarqāʾ" .
 
 schema:authorBNF34829 a author: ;
     schema:familyName "Ṣalāḥ Murr" .
@@ -80641,12 +79588,6 @@ schema:authorBNF35020 a author: ;
 schema:authorBNF35034 a author: ;
     schema:familyName "Shin'ya Shima" .
 
-schema:authorBNF35044 a author: ;
-    schema:familyName "Štěpánka Sekaninová" .
-
-schema:authorBNF35050 a author: ;
-    schema:familyName "Éric Fleury" .
-
 schema:authorBNF3506 a author: ;
     schema:familyName "Osip Emilʹevič Mandelʹštam" .
 
@@ -80674,9 +79615,6 @@ schema:authorBNF3516 a author: ;
 schema:authorBNF35164 a author: ;
     schema:familyName "Mariajo Ilustrajo" .
 
-schema:authorBNF35182 a author: ;
-    schema:familyName "Srečko Kosovel" .
-
 schema:authorBNF35223 a author: ;
     schema:familyName "Mirion | Christophe | Malle Pellet" .
 
@@ -80703,12 +79641,6 @@ schema:authorBNF353 a author: ;
 
 schema:authorBNF3530 a author: ;
     schema:familyName "Mari Takabayashi" .
-
-schema:authorBNF35319 a author: ;
-    schema:familyName "Nathanaël Gires" .
-
-schema:authorBNF35330 a author: ;
-    schema:familyName "Magda Garguláková" .
 
 schema:authorBNF35348 a author: ;
     schema:familyName "Yasmine | D'Zart | Djebel" .
@@ -81382,9 +80314,6 @@ schema:authorBNF4299 a author: ;
 schema:authorBNF4301 a author: ;
     schema:familyName "Yasuyuki Goto" .
 
-schema:authorBNF4302 a author: ;
-    schema:familyName "Miloš Cvach" .
-
 schema:authorBNF4308 a author: ;
     schema:familyName "Bruno. Direction de choeur | Les Enfants de l'Estuaire. Choeur mixte | Aurélie. Illustrateur | Parmentier-Bernage Bruno Parmentier-Bernage" .
 
@@ -81442,9 +80371,6 @@ schema:authorBNF435 a author: ;
 schema:authorBNF4350 a author: ;
     schema:familyName "Bernadette Lizet" .
 
-schema:authorBNF4357 a author: ;
-    schema:familyName "Éric Martin" .
-
 schema:authorBNF4365 a author: ;
     schema:familyName "Gérard Haddad" .
 
@@ -81492,9 +80418,6 @@ schema:authorBNF443 a author: ;
 
 schema:authorBNF4432 a author: ;
     schema:familyName "Patricia C. Wrede" .
-
-schema:authorBNF4441 a author: ;
-    schema:familyName "Élodie Nouhen" .
 
 schema:authorBNF4450 a author: ;
     schema:familyName "Christine Desgrez" .
@@ -81676,12 +80599,6 @@ schema:authorBNF462 a author: ;
 schema:authorBNF4622 a author: ;
     schema:familyName "Valérie de La Rochefoucauld" .
 
-schema:authorBNF4623 a author: ;
-    schema:familyName "Élisabeth Lemirre" .
-
-schema:authorBNF463 a author: ;
-    schema:familyName "Jan Pieńkowski" .
-
 schema:authorBNF4630 a author: ;
     schema:familyName "Gillian Doherty" .
 
@@ -81726,9 +80643,6 @@ schema:authorBNF4662 a author: ;
 
 schema:authorBNF4684 a author: ;
     schema:familyName "Marie-Françoise Delarozière" .
-
-schema:authorBNF4685 a author: ;
-    schema:familyName "Élisabeth Piquet" .
 
 schema:authorBNF4686 a author: ;
     schema:familyName "Jindřich Čapek" .
@@ -81885,9 +80799,6 @@ schema:authorBNF4924 a author: ;
 
 schema:authorBNF493 a author: ;
     schema:familyName "Patrick Morin" .
-
-schema:authorBNF4931 a author: ;
-    schema:familyName "Éva Vincze" .
 
 schema:authorBNF4935 a author: ;
     schema:familyName "Pablo Picasso" .
@@ -82156,9 +81067,6 @@ schema:authorBNF5268 a author: ;
 schema:authorBNF5270 a author: ;
     schema:familyName "Gilles Fontaine" .
 
-schema:authorBNF5275 a author: ;
-    schema:familyName "Shuntarō Tanikawa" .
-
 schema:authorBNF5281 a author: ;
     schema:familyName "Kofi Kankolongo" .
 
@@ -82186,9 +81094,6 @@ schema:authorBNF5304 a author: ;
 schema:authorBNF5306 a author: ;
     schema:familyName "Soraya Khalidy" .
 
-schema:authorBNF5312 a author: ;
-    schema:familyName "Jirō Taniguchi" .
-
 schema:authorBNF5316 a author: ;
     schema:familyName "Anne de La Roche-Saint-André" .
 
@@ -82203,9 +81108,6 @@ schema:authorBNF5328 a author: ;
 
 schema:authorBNF5334 a author: ;
     schema:familyName "Olivier Mathy" .
-
-schema:authorBNF5337 a author: ;
-    schema:familyName "Yūichi Kimura" .
 
 schema:authorBNF5346 a author: ;
     schema:familyName "André Magnin" .
@@ -82362,9 +81264,6 @@ schema:authorBNF5517 a author: ;
 
 schema:authorBNF5527 a author: ;
     schema:familyName "K. M. Grant" .
-
-schema:authorBNF553 a author: ;
-    schema:familyName "Wanda Gág" .
 
 schema:authorBNF5532 a author: ;
     schema:familyName "Joëlle Ginoux-Duvivier" .
@@ -82552,9 +81451,6 @@ schema:authorBNF5732 a author: ;
 schema:authorBNF5733 a author: ;
     schema:familyName "Philippe Martel" .
 
-schema:authorBNF574 a author: ;
-    schema:familyName "Édith" .
-
 schema:authorBNF5743 a author: ;
     schema:familyName "Manuela Olten" .
 
@@ -82669,9 +81565,6 @@ schema:authorBNF5878 a author: ;
 schema:authorBNF588 a author: ;
     schema:familyName "Edward Curtis" .
 
-schema:authorBNF5881 a author: ;
-    schema:familyName "Tarō Miura" .
-
 schema:authorBNF5882 a author: ;
     schema:familyName "Aoi Huber-Kono" .
 
@@ -82747,9 +81640,6 @@ schema:authorBNF5981 a author: ;
 schema:authorBNF599 a author: ;
     schema:familyName "Joan Punyet Miró" .
 
-schema:authorBNF5994 a author: ;
-    schema:familyName "Éric Gasté" .
-
 schema:authorBNF5997 a author: ;
     schema:familyName "Ed Franck" .
 
@@ -82770,12 +81660,6 @@ schema:authorBNF6028 a author: ;
 
 schema:authorBNF6029 a author: ;
     schema:familyName "Désirée La Valette" .
-
-schema:authorBNF6033 a author: ;
-    schema:familyName "Taiyō Matsumoto" .
-
-schema:authorBNF6040 a author: ;
-    schema:familyName "Kei Tōme" .
 
 schema:authorBNF6050 a author: ;
     schema:familyName "Pierre Lacroix" .
@@ -82921,9 +81805,6 @@ schema:authorBNF622 a author: ;
 schema:authorBNF6223 a author: ;
     schema:familyName "Diana Fisher" .
 
-schema:authorBNF6226 a author: ;
-    schema:familyName "Émilie Beaumont" .
-
 schema:authorBNF6233 a author: ;
     schema:familyName "Paul Chambers" .
 
@@ -83059,9 +81940,6 @@ schema:authorBNF6430 a author: ;
 schema:authorBNF6442 a author: ;
     schema:familyName "Agnès Boussugue" .
 
-schema:authorBNF6443 a author: ;
-    schema:familyName "Élise Thiébaut" .
-
 schema:authorBNF6452 a author: ;
     schema:familyName "Subcomandante Marcos" .
 
@@ -83079,9 +81957,6 @@ schema:authorBNF6470 a author: ;
 
 schema:authorBNF6473 a author: ;
     schema:familyName "Florent Germaine" .
-
-schema:authorBNF6475 a author: ;
-    schema:familyName "Rubén Pellejero" .
 
 schema:authorBNF6476 a author: ;
     schema:familyName "Maja Celija" .
@@ -83115,9 +81990,6 @@ schema:authorBNF6533 a author: ;
 
 schema:authorBNF6534 a author: ;
     schema:familyName "Marie Enderlen-Debuisson" .
-
-schema:authorBNF6541 a author: ;
-    schema:familyName "Édith Montelle" .
 
 schema:authorBNF6542 a author: ;
     schema:familyName "Charlotte Vannier" .
@@ -83275,9 +82147,6 @@ schema:authorBNF6692 a author: ;
 schema:authorBNF6693 a author: ;
     schema:familyName "Marie-Lise Sabrié" .
 
-schema:authorBNF6697 a author: ;
-    schema:familyName "Amnesty international" .
-
 schema:authorBNF6698 a author: ;
     schema:familyName "Marilú Zamora" .
 
@@ -83298,9 +82167,6 @@ schema:authorBNF6711 a author: ;
 
 schema:authorBNF6712 a author: ;
     schema:familyName "Richard Fowler" .
-
-schema:authorBNF6715 a author: ;
-    schema:familyName "Élodie Balandras" .
 
 schema:authorBNF6716 a author: ;
     schema:familyName "Studio 1-2" .
@@ -83337,9 +82203,6 @@ schema:authorBNF6770 a author: ;
 
 schema:authorBNF6772 a author: ;
     schema:familyName "Jaël Pedro" .
-
-schema:authorBNF6775 a author: ;
-    schema:familyName "Tarō Gomi" .
 
 schema:authorBNF6776 a author: ;
     schema:familyName "Zoé Galeron" .
@@ -83436,9 +82299,6 @@ schema:authorBNF6963 a author: ;
 
 schema:authorBNF6970 a author: ;
     schema:familyName "Richard Hughes" .
-
-schema:authorBNF6974 a author: ;
-    schema:familyName "Ève Pisler" .
 
 schema:authorBNF6978 a author: ;
     schema:familyName "Harald Rosenløw Eeg" .
@@ -83653,9 +82513,6 @@ schema:authorBNF7243 a author: ;
 schema:authorBNF7245 a author: ;
     schema:familyName "Robert Boudet" .
 
-schema:authorBNF7248 a author: ;
-    schema:familyName "Édith Zha" .
-
 schema:authorBNF7249 a author: ;
     schema:familyName "Luigi Capuana" .
 
@@ -83710,20 +82567,11 @@ schema:authorBNF7294 a author: ;
 schema:authorBNF7298 a author: ;
     schema:familyName "Yves Got" .
 
-schema:authorBNF7299 a author: ;
-    schema:familyName "Étienne Beck" .
-
 schema:authorBNF730 a author: ;
     schema:familyName "Ron van der Meer" .
 
 schema:authorBNF7302 a author: ;
     schema:familyName "Réunion des musées nationaux" .
-
-schema:authorBNF7307 a author: ;
-    schema:familyName "Barasuī" .
-
-schema:authorBNF7309 a author: ;
-    schema:familyName "Kotarō Mori" .
 
 schema:authorBNF731 a author: ;
     schema:familyName "Stephen Mills" .
@@ -83740,9 +82588,6 @@ schema:authorBNF7334 a author: ;
 schema:authorBNF7337 a author: ;
     schema:familyName "Institut Bakule" .
 
-schema:authorBNF7339 a author: ;
-    schema:familyName "Ivan Âkovlevič Bilibin" .
-
 schema:authorBNF7341 a author: ;
     schema:familyName "Rojan" .
 
@@ -83754,9 +82599,6 @@ schema:authorBNF7343 a author: ;
 
 schema:authorBNF7357 a author: ;
     schema:familyName "Albert Flocon" .
-
-schema:authorBNF736 a author: ;
-    schema:familyName "Květa Pacovská" .
 
 schema:authorBNF7360 a author: ;
     schema:familyName "Alex" .
@@ -83823,9 +82665,6 @@ schema:authorBNF7483 a author: ;
 
 schema:authorBNF7487 a author: ;
     schema:familyName "Olga Dugin" .
-
-schema:authorBNF7492 a author: ;
-    schema:familyName "Éric Puybaret" .
 
 schema:authorBNF7498 a author: ;
     schema:familyName "Jilly McLeod" .
@@ -83908,17 +82747,11 @@ schema:authorBNF7703 a author: ;
 schema:authorBNF771 a author: ;
     schema:familyName "Brigitte Govignon" .
 
-schema:authorBNF7728 a author: ;
-    schema:familyName "Fūtarō Yamada" .
-
 schema:authorBNF774 a author: ;
     schema:familyName "Daniel Raichvarg" .
 
 schema:authorBNF775 a author: ;
     schema:familyName "John Strikland Goodall" .
-
-schema:authorBNF7750 a author: ;
-    schema:familyName "Gorō Miyazaki" .
 
 schema:authorBNF7766 a author: ;
     schema:familyName "Frank Beddor" .
@@ -83947,14 +82780,8 @@ schema:authorBNF783 a author: ;
 schema:authorBNF7834 a author: ;
     schema:familyName "Morishige" .
 
-schema:authorBNF7836 a author: ;
-    schema:familyName "Tsukasa Hōjō" .
-
 schema:authorBNF784 a author: ;
     schema:familyName "Martine Besnier" .
-
-schema:authorBNF7848 a author: ;
-    schema:familyName "Éric Héliot" .
 
 schema:authorBNF786 a author: ;
     schema:familyName "Hugh Lewin" .
@@ -83964,9 +82791,6 @@ schema:authorBNF7861 a author: ;
 
 schema:authorBNF7865 a author: ;
     schema:familyName "Shimoku Kio" .
-
-schema:authorBNF7873 a author: ;
-    schema:familyName "Ken'ichi Sonoda" .
 
 schema:authorBNF788 a author: ;
     schema:familyName "Claire Willerval" .
@@ -83988,9 +82812,6 @@ schema:authorBNF791 a author: ;
 
 schema:authorBNF7927 a author: ;
     schema:familyName "Ken'ya Ōba" .
-
-schema:authorBNF7930 a author: ;
-    schema:familyName "Yōhei Sakai" .
 
 schema:authorBNF795 a author: ;
     schema:familyName "Raphaëlle Cé" .
@@ -84028,9 +82849,6 @@ schema:authorBNF8 a author: ;
 schema:authorBNF8005 a author: ;
     schema:familyName "Karlien De Villiers" .
 
-schema:authorBNF8021 a author: ;
-    schema:familyName "Michèle Éliat" .
-
 schema:authorBNF8024 a author: ;
     schema:familyName "Colette Andriot" .
 
@@ -84046,29 +82864,14 @@ schema:authorBNF804 a author: ;
 schema:authorBNF8046 a author: ;
     schema:familyName "Marianne Niney" .
 
-schema:authorBNF8058 a author: ;
-    schema:familyName "Keiichirō Ryū" .
-
-schema:authorBNF8059 a author: ;
-    schema:familyName "Mio Asō" .
-
 schema:authorBNF8066 a author: ;
     schema:familyName "Aleksandr Nikolaevič Afanasʹev" .
 
 schema:authorBNF807 a author: ;
     schema:familyName "Marielle Tabart" .
 
-schema:authorBNF8077 a author: ;
-    schema:familyName "Yūko Umino" .
-
-schema:authorBNF8079 a author: ;
-    schema:familyName "Kōji Inada" .
-
 schema:authorBNF808 a author: ;
     schema:familyName "Mireille Vautier" .
-
-schema:authorBNF8080 a author: ;
-    schema:familyName "Riku Sanjō" .
 
 schema:authorBNF810 a author: ;
     schema:familyName "Suehiro Tanemura" .
@@ -84084,9 +82887,6 @@ schema:authorBNF8111 a author: ;
 
 schema:authorBNF8114 a author: ;
     schema:familyName "Square Enix. Développeur" .
-
-schema:authorBNF8141 a author: ;
-    schema:familyName "Étienne Borgers" .
 
 schema:authorBNF8147 a author: ;
     schema:familyName "Misaki Saitō" .
@@ -84111,9 +82911,6 @@ schema:authorBNF819 a author: ;
 
 schema:authorBNF8194 a author: ;
     schema:familyName "Samira El Ayachi" .
-
-schema:authorBNF8195 a author: ;
-    schema:familyName "Élodie Tirel" .
 
 schema:authorBNF820 a author: ;
     schema:familyName "Samy Cohen" .
@@ -84153,9 +82950,6 @@ schema:authorBNF833 a author: ;
 
 schema:authorBNF834 a author: ;
     schema:familyName "Claude Naudin" .
-
-schema:authorBNF8343 a author: ;
-    schema:familyName "Renáta Fučíková" .
 
 schema:authorBNF8345 a author: ;
     schema:familyName "Cécile Holveck" .
@@ -84274,20 +83068,11 @@ schema:authorBNF877 a author: ;
 schema:authorBNF880 a author: ;
     schema:familyName "Serge Perez" .
 
-schema:authorBNF8800 a author: ;
-    schema:familyName "Élisabeth Mauris" .
-
 schema:authorBNF8808 a author: ;
     schema:familyName "Jacob van der Hoeden" .
 
 schema:authorBNF881 a author: ;
     schema:familyName "Catherine Fauroux" .
-
-schema:authorBNF8815 a author: ;
-    schema:familyName "Émilie Seron" .
-
-schema:authorBNF8832 a author: ;
-    schema:familyName "Éric Godeau" .
 
 schema:authorBNF885 a author: ;
     schema:familyName "Joanne Ryder" .
@@ -84315,9 +83100,6 @@ schema:authorBNF8887 a author: ;
 
 schema:authorBNF8895 a author: ;
     schema:familyName "Gosia Machon" .
-
-schema:authorBNF8906 a author: ;
-    schema:familyName "Josef Čapek" .
 
 schema:authorBNF891 a author: ;
     schema:familyName "Michèle Pinet" .
@@ -84385,9 +83167,6 @@ schema:authorBNF9084 a author: ;
 schema:authorBNF9085 a author: ;
     schema:familyName "Sandra Zémor" .
 
-schema:authorBNF9087 a author: ;
-    schema:familyName "Vinícius de Moraes" .
-
 schema:authorBNF909 a author: ;
     schema:familyName "Jean-Jacques Hublin" .
 
@@ -84403,23 +83182,14 @@ schema:authorBNF910 a author: ;
 schema:authorBNF911 a author: ;
     schema:familyName "Gérard Dumestre" .
 
-schema:authorBNF9127 a author: ;
-    schema:familyName "Saburō Ishikawa" .
-
 schema:authorBNF913 a author: ;
     schema:familyName "Gaye Hiçyılmaz" .
 
 schema:authorBNF9134 a author: ;
     schema:familyName "Isidro Ferrer Soria" .
 
-schema:authorBNF9162 a author: ;
-    schema:familyName "Kōji Ishikawa" .
-
 schema:authorBNF917 a author: ;
     schema:familyName "Cecil Foster" .
-
-schema:authorBNF9172 a author: ;
-    schema:familyName "Laura Gallego García" .
 
 schema:authorBNF9173 a author: ;
     schema:familyName "Ingrid Monchy" .
@@ -84435,12 +83205,6 @@ schema:authorBNF9211 a author: ;
 
 schema:authorBNF9214 a author: ;
     schema:familyName "Robert O. Blechman" .
-
-schema:authorBNF9219 a author: ;
-    schema:familyName "Józef Wilkoń" .
-
-schema:authorBNF9226 a author: ;
-    schema:familyName "Marcin Brykczyński" .
 
 schema:authorBNF9237 a author: ;
     schema:familyName "Françoise Valence" .
@@ -84469,14 +83233,8 @@ schema:authorBNF9286 a author: ;
 schema:authorBNF9287 a author: ;
     schema:familyName "Astrapi" .
 
-schema:authorBNF9301 a author: ;
-    schema:familyName "Kyōko Hara" .
-
 schema:authorBNF932 a author: ;
     schema:familyName "Alyette Barbier" .
-
-schema:authorBNF933 a author: ;
-    schema:familyName "Niklas Rådström" .
 
 schema:authorBNF9337 a author: ;
     schema:familyName "Hideji Oda" .
@@ -84496,9 +83254,6 @@ schema:authorBNF938 a author: ;
 schema:authorBNF9386 a author: ;
     schema:familyName "Bernard Leveneur" .
 
-schema:authorBNF9391 a author: ;
-    schema:familyName "Vincent Étienne" .
-
 schema:authorBNF940 a author: ;
     schema:familyName "Hélène Joubert" .
 
@@ -84517,12 +83272,6 @@ schema:authorBNF9451 a author: ;
 schema:authorBNF947 a author: ;
     schema:familyName "Bodo Ravololomanga" .
 
-schema:authorBNF9480 a author: ;
-    schema:familyName "Daijirō Morohoshi" .
-
-schema:authorBNF9481 a author: ;
-    schema:familyName "Masahiko Kōenji" .
-
 schema:authorBNF9502 a author: ;
     schema:familyName "Véronique Delamarre" .
 
@@ -84532,20 +83281,11 @@ schema:authorBNF953 a author: ;
 schema:authorBNF9533 a author: ;
     schema:familyName "Rosie Rushton" .
 
-schema:authorBNF9537 a author: ;
-    schema:familyName "Évelyne Pèlerin Ngo Maa" .
-
-schema:authorBNF9543 a author: ;
-    schema:familyName "Gen'ichirō Yagyū" .
-
 schema:authorBNF9551 a author: ;
     schema:familyName "Maria Augusta Rodrigues" .
 
 schema:authorBNF9552 a author: ;
     schema:familyName "Serge. Guitare | Mimi . Voix parlée. Chant | Tamas Mimi Barthélémy" .
-
-schema:authorBNF9553 a author: ;
-    schema:familyName "Élisabeth Gentet-Ravasco" .
 
 schema:authorBNF9561 a author: ;
     schema:familyName "Garry Cadenat" .
@@ -84622,9 +83362,6 @@ schema:authorBNF97 a author: ;
 schema:authorBNF971 a author: ;
     schema:familyName "Geneviève Brame" .
 
-schema:authorBNF9724 a author: ;
-    schema:familyName "Junzō Terada" .
-
 schema:authorBNF9725 a author: ;
     schema:familyName "Toniduran (1974-....)" .
 
@@ -84669,9 +83406,6 @@ schema:authorBNF9905 a author: ;
 
 schema:authorBNF9919 a author: ;
     schema:familyName "Rama Yade" .
-
-schema:authorBNF9942 a author: ;
-    schema:familyName "Éric Stalner" .
 
 schema:authorBNF9943 a author: ;
     schema:familyName "Djeli Moussa . Chant | Bielka . Chant | Souliko . Chant | Jean-Christophe . Compositeur | Condé Paul . Compositeur | Hoarau Magdeleine . Collecteur | Mindy Nathalie. Collecteur | Lerasle Chantal Grosléziat" .
@@ -84718,23 +83452,14 @@ schema:authorConstellations10066 a author: ;
 schema:authorConstellations10069 a author: ;
     schema:familyName "David Ward" .
 
-schema:authorConstellations10071 a author: ;
-    schema:familyName "Érik Harvey-Girard" .
-
 schema:authorConstellations10072 a author: ;
     schema:familyName "Gaëlle Beaujean-Baltzer" .
 
 schema:authorConstellations10075 a author: ;
     schema:familyName "Nane et Jean-Luc Vézinet" .
 
-schema:authorConstellations10076 a author: ;
-    schema:familyName "Sandra V Feder" .
-
 schema:authorConstellations10080 a author: ;
     schema:familyName "Joanne Liu" .
-
-schema:authorConstellations10085 a author: ;
-    schema:familyName "Pedro Mañas" .
 
 schema:authorConstellations10104 a author: ;
     schema:familyName "Andy Briggs" .
@@ -84751,17 +83476,11 @@ schema:authorConstellations10118 a author: ;
 schema:authorConstellations10123 a author: ;
     schema:familyName "Holly M. McGhee" .
 
-schema:authorConstellations1013 a author: ;
-    schema:familyName "Isabel Minhós Martins" .
-
 schema:authorConstellations10138 a author: ;
     schema:familyName "Barbara Beery" .
 
 schema:authorConstellations1014 a author: ;
     schema:familyName "Beatriz Martin Vidal" .
-
-schema:authorConstellations10142 a author: ;
-    schema:familyName "Jean-Éric Perrin" .
 
 schema:authorConstellations10147 a author: ;
     schema:familyName "David Biedrzycki" .
@@ -84799,17 +83518,11 @@ schema:authorConstellations10192 a author: ;
 schema:authorConstellations1020 a author: ;
     schema:familyName "Sandhya Menon" .
 
-schema:authorConstellations10200 a author: ;
-    schema:familyName "Érick Seinandre" .
-
 schema:authorConstellations10217 a author: ;
     schema:familyName "Polly Alakja" .
 
-schema:authorConstellations10220 a author: ;
+schema:authorConstellations10219 a author: ;
     schema:familyName "Céline Auger" .
-
-schema:authorConstellations10225 a author: ;
-    schema:familyName "Anna Kovecses" .
 
 schema:authorConstellations10229 a author: ;
     schema:familyName "C.K. Kelly Martin" .
@@ -84865,7 +83578,7 @@ schema:authorConstellations1035 a author: ;
 schema:authorConstellations10358 a author: ;
     schema:familyName "Laura Rankin" .
 
-schema:authorConstellations10365 a author: ;
+schema:authorConstellations10366 a author: ;
     schema:familyName "Yi Jeong-sun" .
 
 schema:authorConstellations10367 a author: ;
@@ -84943,9 +83656,6 @@ schema:authorConstellations10490 a author: ;
 schema:authorConstellations10493 a author: ;
     schema:familyName "Robert Byrd" .
 
-schema:authorConstellations105 a author: ;
-    schema:familyName "Étienne Delessert" .
-
 schema:authorConstellations1050 a author: ;
     schema:familyName "Robert Heidbreder" .
 
@@ -84978,9 +83688,6 @@ schema:authorConstellations1056 a author: ;
 
 schema:authorConstellations10569 a author: ;
     schema:familyName "Rebecca Kai Dotlich" .
-
-schema:authorConstellations10572 a author: ;
-    schema:familyName "Adele Griffin" .
 
 schema:authorConstellations10580 a author: ;
     schema:familyName "Teri Kanefield" .
@@ -85093,9 +83800,6 @@ schema:authorConstellations10816 a author: ;
 schema:authorConstellations10819 a author: ;
     schema:familyName "Joel Sartore" .
 
-schema:authorConstellations10826 a author: ;
-    schema:familyName "Agnès de Ryckel" .
-
 schema:authorConstellations10830 a author: ;
     schema:familyName "Jen Arena" .
 
@@ -85122,9 +83826,6 @@ schema:authorConstellations10868 a author: ;
 
 schema:authorConstellations10880 a author: ;
     schema:familyName "Slavia Roy & Miki Miki" .
-
-schema:authorConstellations10882 a author: ;
-    schema:familyName "Vikki VanSickle" .
 
 schema:authorConstellations1089 a author: ;
     schema:familyName "Michael Ian Black" .
@@ -85180,9 +83881,6 @@ schema:authorConstellations10973 a author: ;
 schema:authorConstellations10987 a author: ;
     schema:familyName "Gwen Nell Westerman" .
 
-schema:authorConstellations10996 a author: ;
-    schema:familyName "Guillaume le Blanc" .
-
 schema:authorConstellations10999 a author: ;
     schema:familyName "Jesse Andrews" .
 
@@ -85222,9 +83920,6 @@ schema:authorConstellations11073 a author: ;
 schema:authorConstellations11077 a author: ;
     schema:familyName "Raynault-Desgagné" .
 
-schema:authorConstellations11094 a author: ;
-    schema:familyName "Élisabeth Duval" .
-
 schema:authorConstellations11107 a author: ;
     schema:familyName "Lynne Cherry" .
 
@@ -85236,9 +83931,6 @@ schema:authorConstellations11122 a author: ;
 
 schema:authorConstellations11124 a author: ;
     schema:familyName "Dianna Aston" .
-
-schema:authorConstellations11126 a author: ;
-    schema:familyName "Stefany Devaux" .
 
 schema:authorConstellations11131 a author: ;
     schema:familyName "Na'ima B. Robert" .
@@ -85267,17 +83959,11 @@ schema:authorConstellations11175 a author: ;
 schema:authorConstellations11178 a author: ;
     schema:familyName "Travis Jonker" .
 
-schema:authorConstellations1118 a author: ;
-    schema:familyName "Constanze v. Kitzing" .
-
 schema:authorConstellations11188 a author: ;
     schema:familyName "Christopher Silas Neil" .
 
 schema:authorConstellations11190 a author: ;
     schema:familyName "Lax" .
-
-schema:authorConstellations112 a author: ;
-    schema:familyName "Émilie Soleil" .
 
 schema:authorConstellations11202 a author: ;
     schema:familyName "Janice May Udry" .
@@ -85399,9 +84085,6 @@ schema:authorConstellations11416 a author: ;
 schema:authorConstellations11418 a author: ;
     schema:familyName "Mineko Mamada" .
 
-schema:authorConstellations11421 a author: ;
-    schema:familyName "Éléonore Thuillier" .
-
 schema:authorConstellations1143 a author: ;
     schema:familyName "Thomas Hegbrook" .
 
@@ -85441,7 +84124,7 @@ schema:authorConstellations11502 a author: ;
 schema:authorConstellations11512 a author: ;
     schema:familyName "Gérard de La Taille" .
 
-schema:authorConstellations11518 a author: ;
+schema:authorConstellations11517 a author: ;
     schema:familyName "Emmanuelle Rigon" .
 
 schema:authorConstellations11519 a author: ;
@@ -85465,14 +84148,8 @@ schema:authorConstellations1159 a author: ;
 schema:authorConstellations1170 a author: ;
     schema:familyName "Isabelle Beaudin" .
 
-schema:authorConstellations1176 a author: ;
-    schema:familyName "Emmanuelle Carre" .
-
 schema:authorConstellations1182 a author: ;
     schema:familyName "Jean de Brébeuf" .
-
-schema:authorConstellations1193 a author: ;
-    schema:familyName "Leo Timmers" .
 
 schema:authorConstellations1194 a author: ;
     schema:familyName "Harriet Ziefert" .
@@ -85531,9 +84208,6 @@ schema:authorConstellations1261 a author: ;
 schema:authorConstellations1264 a author: ;
     schema:familyName "Mem Fox" .
 
-schema:authorConstellations1267 a author: ;
-    schema:familyName "hélène Gaudy" .
-
 schema:authorConstellations1270 a author: ;
     schema:familyName "Franquin" .
 
@@ -85569,9 +84243,6 @@ schema:authorConstellations1304 a author: ;
 
 schema:authorConstellations131 a author: ;
     schema:familyName "Clive A. Lawton" .
-
-schema:authorConstellations1310 a author: ;
-    schema:familyName "Dorothée de Monfreid" .
 
 schema:authorConstellations1320 a author: ;
     schema:familyName "André Vanasse" .
@@ -85618,9 +84289,6 @@ schema:authorConstellations1367 a author: ;
 schema:authorConstellations137 a author: ;
     schema:familyName "del Pup" .
 
-schema:authorConstellations1377 a author: ;
-    schema:familyName "Guy de la Bédoyère" .
-
 schema:authorConstellations1378 a author: ;
     schema:familyName "Barbara Fradkin" .
 
@@ -85657,9 +84325,6 @@ schema:authorConstellations1404 a author: ;
 schema:authorConstellations1405 a author: ;
     schema:familyName "Karen Stanton" .
 
-schema:authorConstellations141 a author: ;
-    schema:familyName "Éric Battut" .
-
 schema:authorConstellations1418 a author: ;
     schema:familyName "Laurence Anholt" .
 
@@ -85692,9 +84357,6 @@ schema:authorConstellations1435 a author: ;
 
 schema:authorConstellations1436 a author: ;
     schema:familyName "Don Gillmor" .
-
-schema:authorConstellations144 a author: ;
-    schema:familyName "Françoise Rachmuhl" .
 
 schema:authorConstellations1441 a author: ;
     schema:familyName "Brenda Z. Guiberson" .
@@ -85747,17 +84409,11 @@ schema:authorConstellations1501 a author: ;
 schema:authorConstellations1509 a author: ;
     schema:familyName "Emily Lindin" .
 
-schema:authorConstellations1512 a author: ;
-    schema:familyName "JiHyeon Lee" .
-
 schema:authorConstellations1516 a author: ;
     schema:familyName "Tim Beiser" .
 
 schema:authorConstellations1517 a author: ;
     schema:familyName "Maureen Garvie" .
-
-schema:authorConstellations152 a author: ;
-    schema:familyName "Élisabeth Combres" .
 
 schema:authorConstellations1535 a author: ;
     schema:familyName "Lisa Moser" .
@@ -85798,9 +84454,6 @@ schema:authorConstellations1558 a author: ;
 schema:authorConstellations1563 a author: ;
     schema:familyName "Jan Thornhill" .
 
-schema:authorConstellations1567 a author: ;
-    schema:familyName "Églal Errera" .
-
 schema:authorConstellations157 a author: ;
     schema:familyName "Jean de La Fontaine" .
 
@@ -85812,9 +84465,6 @@ schema:authorConstellations1576 a author: ;
 
 schema:authorConstellations1578 a author: ;
     schema:familyName "Carme Leminscates" .
-
-schema:authorConstellations158 a author: ;
-    schema:familyName "Guido van Genechten" .
 
 schema:authorConstellations1583 a author: ;
     schema:familyName "Georgia Graham" .
@@ -85831,10 +84481,10 @@ schema:authorConstellations159 a author: ;
 schema:authorConstellations1593 a author: ;
     schema:familyName "Trilby Kent" .
 
-schema:authorConstellations1601 a author: ;
+schema:authorConstellations1602 a author: ;
     schema:familyName "Piet Ledden" .
 
-schema:authorConstellations1604 a author: ;
+schema:authorConstellations1605 a author: ;
     schema:familyName "Valentine Del" .
 
 schema:authorConstellations1614 a author: ;
@@ -85848,9 +84498,6 @@ schema:authorConstellations1616 a author: ;
 
 schema:authorConstellations1617 a author: ;
     schema:familyName "Lisa Dalrymple" .
-
-schema:authorConstellations1625 a author: ;
-    schema:familyName "Peter Sís" .
 
 schema:authorConstellations1627 a author: ;
     schema:familyName "Trevor Noah" .
@@ -85966,9 +84613,6 @@ schema:authorConstellations1768 a author: ;
 schema:authorConstellations1771 a author: ;
     schema:familyName "Wanda Gág" .
 
-schema:authorConstellations1773 a author: ;
-    schema:familyName "Émilie Ramel" .
-
 schema:authorConstellations1779 a author: ;
     schema:familyName "Mike Ulmer" .
 
@@ -85996,14 +84640,8 @@ schema:authorConstellations1814 a author: ;
 schema:authorConstellations1816 a author: ;
     schema:familyName "Margaret Lysecki" .
 
-schema:authorConstellations1818 a author: ;
-    schema:familyName " Lemony Snicket" .
-
 schema:authorConstellations182 a author: ;
     schema:familyName "Chris Butterworth" .
-
-schema:authorConstellations1834 a author: ;
-    schema:familyName "Éric-Emmanuel Schmitt" .
 
 schema:authorConstellations1835 a author: ;
     schema:familyName "Roxie Munro" .
@@ -86026,17 +84664,11 @@ schema:authorConstellations1861 a author: ;
 schema:authorConstellations1864 a author: ;
     schema:familyName "Edward Hardy" .
 
-schema:authorConstellations1867 a author: ;
-    schema:familyName "Érik L'Homme" .
-
 schema:authorConstellations188 a author: ;
     schema:familyName "Robert Munsch" .
 
 schema:authorConstellations1880 a author: ;
     schema:familyName "Todd Parr" .
-
-schema:authorConstellations1881 a author: ;
-    schema:familyName "Ann de Bode" .
 
 schema:authorConstellations1891 a author: ;
     schema:familyName "Sam Page" .
@@ -86076,9 +84708,6 @@ schema:authorConstellations1935 a author: ;
 
 schema:authorConstellations1938 a author: ;
     schema:familyName "Graeme Base" .
-
-schema:authorConstellations1941 a author: ;
-    schema:familyName "Émile Gaboriau" .
 
 schema:authorConstellations1943 a author: ;
     schema:familyName "Natalie Mae" .
@@ -86158,9 +84787,6 @@ schema:authorConstellations2042 a author: ;
 schema:authorConstellations2046 a author: ;
     schema:familyName "Jack Prelutsky" .
 
-schema:authorConstellations2058 a author: ;
-    schema:familyName "Soon-mi Hong" .
-
 schema:authorConstellations2073 a author: ;
     schema:familyName "Dominique de Saint Mars" .
 
@@ -86181,9 +84807,6 @@ schema:authorConstellations2105 a author: ;
 
 schema:authorConstellations2112 a author: ;
     schema:familyName "Steve Light" .
-
-schema:authorConstellations212 a author: ;
-    schema:familyName "Petr Horácek" .
 
 schema:authorConstellations2121 a author: ;
     schema:familyName "Francesca Zappia" .
@@ -86212,9 +84835,6 @@ schema:authorConstellations2165 a author: ;
 schema:authorConstellations217 a author: ;
     schema:familyName "Esmé Shapiro" .
 
-schema:authorConstellations2173 a author: ;
-    schema:familyName "Émilie Vast" .
-
 schema:authorConstellations2176 a author: ;
     schema:familyName "Adwoa Badoe" .
 
@@ -86233,7 +84853,7 @@ schema:authorConstellations2195 a author: ;
 schema:authorConstellations2197 a author: ;
     schema:familyName "Adèle Geras" .
 
-schema:authorConstellations2200 a author: ;
+schema:authorConstellations2201 a author: ;
     schema:familyName "Kim Mi-yeon" .
 
 schema:authorConstellations2203 a author: ;
@@ -86308,9 +84928,6 @@ schema:authorConstellations231 a author: ;
 schema:authorConstellations2312 a author: ;
     schema:familyName "Josephine Nobisso" .
 
-schema:authorConstellations2314 a author: ;
-    schema:familyName "Melissa de la Cruz" .
-
 schema:authorConstellations2315 a author: ;
     schema:familyName "Sudipta Bardhan-Quallen" .
 
@@ -86351,10 +84968,10 @@ schema:authorConstellations2369 a author: ;
     schema:familyName "Sebastian Meschenmoser" .
 
 schema:authorConstellations2373 a author: ;
-    schema:familyName "Rita Schiavo" .
+    schema:familyName "Cristina Banfi" .
 
 schema:authorConstellations2374 a author: ;
-    schema:familyName "Cristina Banfi" .
+    schema:familyName "Rita Schiavo" .
 
 schema:authorConstellations2375 a author: ;
     schema:familyName "Jennifer Gasoi" .
@@ -86398,14 +85015,8 @@ schema:authorConstellations2457 a author: ;
 schema:authorConstellations2459 a author: ;
     schema:familyName "Kevin O'Malley" .
 
-schema:authorConstellations2465 a author: ;
-    schema:familyName "Åsa Lind" .
-
 schema:authorConstellations2471 a author: ;
     schema:familyName "Susan Vaught" .
-
-schema:authorConstellations2473 a author: ;
-    schema:familyName "Komako Sakaï" .
 
 schema:authorConstellations2480 a author: ;
     schema:familyName "Loris Lesynski" .
@@ -86428,9 +85039,6 @@ schema:authorConstellations2506 a author: ;
 schema:authorConstellations251 a author: ;
     schema:familyName "Billi Rosen" .
 
-schema:authorConstellations2513 a author: ;
-    schema:familyName "Dong-jae Yun" .
-
 schema:authorConstellations2526 a author: ;
     schema:familyName "Kim Yaroshevskaya" .
 
@@ -86440,9 +85048,6 @@ schema:authorConstellations2538 a author: ;
 schema:authorConstellations2539 a author: ;
     schema:familyName "Diane Fox" .
 
-schema:authorConstellations2540 a author: ;
-    schema:familyName "Francine Légaré" .
-
 schema:authorConstellations2543 a author: ;
     schema:familyName "Kirby Larson" .
 
@@ -86451,9 +85056,6 @@ schema:authorConstellations2545 a author: ;
 
 schema:authorConstellations2551 a author: ;
     schema:familyName "Dominique de Saint-Mars" .
-
-schema:authorConstellations2559 a author: ;
-    schema:familyName "Osvaldo Torres" .
 
 schema:authorConstellations256 a author: ;
     schema:familyName "Cynthia O'Brien" .
@@ -86466,9 +85068,6 @@ schema:authorConstellations2590 a author: ;
 
 schema:authorConstellations2598 a author: ;
     schema:familyName "Kerrin Jessica Scott" .
-
-schema:authorConstellations2600 a author: ;
-    schema:familyName "Paul Éluard" .
 
 schema:authorConstellations2604 a author: ;
     schema:familyName "John Stringer" .
@@ -86492,10 +85091,10 @@ schema:authorConstellations2631 a author: ;
     schema:familyName "Margery Cuyler" .
 
 schema:authorConstellations2632 a author: ;
-    schema:familyName "Jorgen Moe" .
+    schema:familyName "Christen Asbjornsen" .
 
 schema:authorConstellations2633 a author: ;
-    schema:familyName "Christen Asbjornsen" .
+    schema:familyName "Jorgen Moe" .
 
 schema:authorConstellations2636 a author: ;
     schema:familyName "Roy Lewis" .
@@ -86527,9 +85126,6 @@ schema:authorConstellations2662 a author: ;
 schema:authorConstellations2668 a author: ;
     schema:familyName "Thao Lam" .
 
-schema:authorConstellations267 a author: ;
-    schema:familyName "Peter H. Reynolds" .
-
 schema:authorConstellations2670 a author: ;
     schema:familyName "Barbara Kerley" .
 
@@ -86550,9 +85146,6 @@ schema:authorConstellations2707 a author: ;
 
 schema:authorConstellations2714 a author: ;
     schema:familyName "Serge Gauthier" .
-
-schema:authorConstellations2715 a author: ;
-    schema:familyName "Dušan Petričić" .
 
 schema:authorConstellations2718 a author: ;
     schema:familyName "Monique Corriveau" .
@@ -86593,17 +85186,11 @@ schema:authorConstellations2770 a author: ;
 schema:authorConstellations2774 a author: ;
     schema:familyName "Andrea Davis Pinkney" .
 
-schema:authorConstellations2775 a author: ;
-    schema:familyName "Gerald Rose" .
-
 schema:authorConstellations2779 a author: ;
     schema:familyName "Paul Challen" .
 
 schema:authorConstellations2780 a author: ;
     schema:familyName "Michelle Maillet" .
-
-schema:authorConstellations2784 a author: ;
-    schema:familyName "Philippe de Kemmeter" .
 
 schema:authorConstellations2791 a author: ;
     schema:familyName "Jill Esbaum" .
@@ -86644,9 +85231,6 @@ schema:authorConstellations2835 a author: ;
 schema:authorConstellations2838 a author: ;
     schema:familyName "Lester L. Laminack" .
 
-schema:authorConstellations2850 a author: ;
-    schema:familyName "Gaétan Brulotte" .
-
 schema:authorConstellations2852 a author: ;
     schema:familyName "Marine Leavitt" .
 
@@ -86680,7 +85264,7 @@ schema:authorConstellations2885 a author: ;
 schema:authorConstellations2886 a author: ;
     schema:familyName "Delphine Gravier" .
 
-schema:authorConstellations2894 a author: ;
+schema:authorConstellations2893 a author: ;
     schema:familyName "Lucille Guittienne" .
 
 schema:authorConstellations2895 a author: ;
@@ -86697,9 +85281,6 @@ schema:authorConstellations2901 a author: ;
 
 schema:authorConstellations2905 a author: ;
     schema:familyName "Philippe Andrieu" .
-
-schema:authorConstellations2910 a author: ;
-    schema:familyName "Xavier Salomó" .
 
 schema:authorConstellations2924 a author: ;
     schema:familyName "Barnabas Kindersley" .
@@ -86777,10 +85358,10 @@ schema:authorConstellations3048 a author: ;
     schema:familyName "Caroline Adderson" .
 
 schema:authorConstellations3052 a author: ;
-    schema:familyName "Sharon Jeroski" .
+    schema:familyName "Maureen Dockendorf" .
 
 schema:authorConstellations3053 a author: ;
-    schema:familyName "Maureen Dockendorf" .
+    schema:familyName "Sharon Jeroski" .
 
 schema:authorConstellations3063 a author: ;
     schema:familyName "Camara Laye" .
@@ -86863,9 +85444,6 @@ schema:authorConstellations3200 a author: ;
 schema:authorConstellations3202 a author: ;
     schema:familyName "Deborah Heiligman" .
 
-schema:authorConstellations3203 a author: ;
-    schema:familyName "Carlos Ruiz Zafón" .
-
 schema:authorConstellations3207 a author: ;
     schema:familyName "Kathleen Cherry" .
 
@@ -86892,9 +85470,6 @@ schema:authorConstellations3245 a author: ;
 
 schema:authorConstellations3260 a author: ;
     schema:familyName "Louise Flaherty" .
-
-schema:authorConstellations3261 a author: ;
-    schema:familyName "Elizabeth Turgeon" .
 
 schema:authorConstellations3262 a author: ;
     schema:familyName "Lois Brandt" .
@@ -86932,12 +85507,6 @@ schema:authorConstellations3311 a author: ;
 schema:authorConstellations3313 a author: ;
     schema:familyName "Anne Rockwell" .
 
-schema:authorConstellations3320 a author: ;
-    schema:familyName "Daniel Defoë" .
-
-schema:authorConstellations3331 a author: ;
-    schema:familyName "Sara O’Leary" .
-
 schema:authorConstellations3334 a author: ;
     schema:familyName "Kathryn O. Galbraith" .
 
@@ -86959,17 +85528,11 @@ schema:authorConstellations3344 a author: ;
 schema:authorConstellations3347 a author: ;
     schema:familyName "Meg Fleming" .
 
-schema:authorConstellations3351 a author: ;
-    schema:familyName "José Ramón Alonso" .
-
 schema:authorConstellations3376 a author: ;
     schema:familyName "Bathsheba Opini" .
 
 schema:authorConstellations338 a author: ;
     schema:familyName "Tang Zhifang" .
-
-schema:authorConstellations3381 a author: ;
-    schema:familyName "Adriana Brandão" .
 
 schema:authorConstellations3383 a author: ;
     schema:familyName "Robin Johnson" .
@@ -86995,17 +85558,8 @@ schema:authorConstellations342 a author: ;
 schema:authorConstellations3422 a author: ;
     schema:familyName "Sandra Boynton" .
 
-schema:authorConstellations3426 a author: ;
-    schema:familyName "Éric Simard" .
-
-schema:authorConstellations3428 a author: ;
-    schema:familyName "Heliane Bernard" .
-
 schema:authorConstellations3434 a author: ;
     schema:familyName "Natasha Anastasia Tarpley" .
-
-schema:authorConstellations3440 a author: ;
-    schema:familyName "Élisabeth Brami" .
 
 schema:authorConstellations3441 a author: ;
     schema:familyName "Eric Braun" .
@@ -87015,9 +85569,6 @@ schema:authorConstellations3451 a author: ;
 
 schema:authorConstellations3454 a author: ;
     schema:familyName "Kressmann Taylor" .
-
-schema:authorConstellations3464 a author: ;
-    schema:familyName "Alki Zèi" .
 
 schema:authorConstellations3467 a author: ;
     schema:familyName "Katie Smith Milway" .
@@ -87051,12 +85602,6 @@ schema:authorConstellations3508 a author: ;
 
 schema:authorConstellations3525 a author: ;
     schema:familyName "Valerie Wyatt" .
-
-schema:authorConstellations3531 a author: ;
-    schema:familyName "Élisabeth Dumont-Le Cornec" .
-
-schema:authorConstellations3533 a author: ;
-    schema:familyName "Hervé Éparvier" .
 
 schema:authorConstellations3539 a author: ;
     schema:familyName "Mike Twohy" .
@@ -87100,17 +85645,8 @@ schema:authorConstellations3596 a author: ;
 schema:authorConstellations3597 a author: ;
     schema:familyName "Roxane Orgill" .
 
-schema:authorConstellations3603 a author: ;
-    schema:familyName "Pénelope Jossen" .
-
-schema:authorConstellations3604 a author: ;
-    schema:familyName "Françoise de Luca" .
-
 schema:authorConstellations3606 a author: ;
     schema:familyName "Bernard Boucher" .
-
-schema:authorConstellations3615 a author: ;
-    schema:familyName "Éric Pessan" .
 
 schema:authorConstellations3634 a author: ;
     schema:familyName "Natalie Hyde" .
@@ -87142,9 +85678,6 @@ schema:authorConstellations3666 a author: ;
 schema:authorConstellations3667 a author: ;
     schema:familyName "Sarah Hoffman" .
 
-schema:authorConstellations367 a author: ;
-    schema:familyName "Diána Nagy" .
-
 schema:authorConstellations3670 a author: ;
     schema:familyName "Geoffrey Galand" .
 
@@ -87156,9 +85689,6 @@ schema:authorConstellations3680 a author: ;
 
 schema:authorConstellations3684 a author: ;
     schema:familyName "Patty Bowman" .
-
-schema:authorConstellations3688 a author: ;
-    schema:familyName "Étienne Klein" .
 
 schema:authorConstellations3709 a author: ;
     schema:familyName "Paula Fox" .
@@ -87186,9 +85716,6 @@ schema:authorConstellations3735 a author: ;
 
 schema:authorConstellations3738 a author: ;
     schema:familyName "Arthur Dorros" .
-
-schema:authorConstellations3739 a author: ;
-    schema:familyName "Émilie Chazerand" .
 
 schema:authorConstellations3740 a author: ;
     schema:familyName "David West" .
@@ -87219,12 +85746,6 @@ schema:authorConstellations3811 a author: ;
 
 schema:authorConstellations3822 a author: ;
     schema:familyName "Lance Woolaver" .
-
-schema:authorConstellations3824 a author: ;
-    schema:familyName "Émile Jadoul" .
-
-schema:authorConstellations3825 a author: ;
-    schema:familyName "Dr. Seuss" .
 
 schema:authorConstellations383 a author: ;
     schema:familyName "Rachel Isadora" .
@@ -87268,9 +85789,6 @@ schema:authorConstellations39 a author: ;
 schema:authorConstellations3908 a author: ;
     schema:familyName "R. M. Romero" .
 
-schema:authorConstellations391 a author: ;
-    schema:familyName "Ésope" .
-
 schema:authorConstellations3911 a author: ;
     schema:familyName "Rana DiOrio" .
 
@@ -87286,7 +85804,7 @@ schema:authorConstellations3915 a author: ;
 schema:authorConstellations3918 a author: ;
     schema:familyName "Lauren Redniss" .
 
-schema:authorConstellations3921 a author: ;
+schema:authorConstellations3920 a author: ;
     schema:familyName "Sophie Bordet" .
 
 schema:authorConstellations3924 a author: ;
@@ -87307,9 +85825,6 @@ schema:authorConstellations3954 a author: ;
 schema:authorConstellations3968 a author: ;
     schema:familyName "Kirsty (ed.) Murray" .
 
-schema:authorConstellations397 a author: ;
-    schema:familyName "Jeanne-A. Debats" .
-
 schema:authorConstellations3974 a author: ;
     schema:familyName "Sonya Spreen Bates" .
 
@@ -87328,9 +85843,6 @@ schema:authorConstellations3984 a author: ;
 schema:authorConstellations3994 a author: ;
     schema:familyName "Patricia Polacco" .
 
-schema:authorConstellations3996 a author: ;
-    schema:familyName "Jose Manuel Mateo Calderón" .
-
 schema:authorConstellations3997 a author: ;
     schema:familyName "Sylvie de Mathuisieulx" .
 
@@ -87341,10 +85853,10 @@ schema:authorConstellations400 a author: ;
     schema:familyName "Allan Baillie" .
 
 schema:authorConstellations4001 a author: ;
-    schema:familyName "Kate Shaftoe" .
+    schema:familyName "Gib Goodfellow" .
 
 schema:authorConstellations4002 a author: ;
-    schema:familyName "Gib Goodfellow" .
+    schema:familyName "Kate Shaftoe" .
 
 schema:authorConstellations4004 a author: ;
     schema:familyName "Crescent Dragonwagon" .
@@ -87517,9 +86029,6 @@ schema:authorConstellations4273 a author: ;
 schema:authorConstellations4282 a author: ;
     schema:familyName "Kim Jong-ryeol" .
 
-schema:authorConstellations4290 a author: ;
-    schema:familyName "Noëmie Forget" .
-
 schema:authorConstellations4296 a author: ;
     schema:familyName "Tera Kelley" .
 
@@ -87531,9 +86040,6 @@ schema:authorConstellations4302 a author: ;
 
 schema:authorConstellations4305 a author: ;
     schema:familyName "Amélie Nothomb" .
-
-schema:authorConstellations431 a author: ;
-    schema:familyName "Éric Sanvoisin" .
 
 schema:authorConstellations4311 a author: ;
     schema:familyName "Camilla de la Béyodère" .
@@ -87634,9 +86140,6 @@ schema:authorConstellations4436 a author: ;
 schema:authorConstellations445 a author: ;
     schema:familyName "Amanda Bishop" .
 
-schema:authorConstellations4450 a author: ;
-    schema:familyName "Ramona Bădescu" .
-
 schema:authorConstellations4453 a author: ;
     schema:familyName "Meg Wolitzer" .
 
@@ -87658,7 +86161,7 @@ schema:authorConstellations447 a author: ;
 schema:authorConstellations4475 a author: ;
     schema:familyName "Joan W. Blos" .
 
-schema:authorConstellations4482 a author: ;
+schema:authorConstellations4481 a author: ;
     schema:familyName "Anne Chabert" .
 
 schema:authorConstellations4489 a author: ;
@@ -87787,9 +86290,6 @@ schema:authorConstellations4722 a author: ;
 schema:authorConstellations4726 a author: ;
     schema:familyName "Scott Menchin" .
 
-schema:authorConstellations4734 a author: ;
-    schema:familyName "Béatrice Égémar" .
-
 schema:authorConstellations4739 a author: ;
     schema:familyName "Arin Andrews" .
 
@@ -87837,9 +86337,6 @@ schema:authorConstellations478 a author: ;
 
 schema:authorConstellations4789 a author: ;
     schema:familyName "Jill MacLean" .
-
-schema:authorConstellations479 a author: ;
-    schema:familyName "Valerie Zenatti" .
 
 schema:authorConstellations4790 a author: ;
     schema:familyName "Diane Z. Shore" .
@@ -87889,9 +86386,6 @@ schema:authorConstellations4881 a author: ;
 schema:authorConstellations4898 a author: ;
     schema:familyName "Elizabeth Baguley" .
 
-schema:authorConstellations4905 a author: ;
-    schema:familyName "Elizabeth Macleod" .
-
 schema:authorConstellations4910 a author: ;
     schema:familyName "La Bolduc" .
 
@@ -87910,7 +86404,7 @@ schema:authorConstellations492 a author: ;
 schema:authorConstellations4928 a author: ;
     schema:familyName "Gary Jeffrey" .
 
-schema:authorConstellations4930 a author: ;
+schema:authorConstellations4929 a author: ;
     schema:familyName "Hélène Bonis" .
 
 schema:authorConstellations4934 a author: ;
@@ -87931,9 +86425,6 @@ schema:authorConstellations4955 a author: ;
 schema:authorConstellations4956 a author: ;
     schema:familyName "Joanne Roberston" .
 
-schema:authorConstellations4957 a author: ;
-    schema:familyName "Jerôme Carrier" .
-
 schema:authorConstellations4963 a author: ;
     schema:familyName "Josh Sundquist" .
 
@@ -87945,9 +86436,6 @@ schema:authorConstellations4966 a author: ;
 
 schema:authorConstellations4969 a author: ;
     schema:familyName "Adam Lehrhaupt" .
-
-schema:authorConstellations497 a author: ;
-    schema:familyName "Édouard Manceau" .
 
 schema:authorConstellations4970 a author: ;
     schema:familyName "Mal Peet" .
@@ -87973,7 +86461,7 @@ schema:authorConstellations4988 a author: ;
 schema:authorConstellations500 a author: ;
     schema:familyName "Tatiana Fraser" .
 
-schema:authorConstellations5008 a author: ;
+schema:authorConstellations5007 a author: ;
     schema:familyName "M. Bergeron" .
 
 schema:authorConstellations5017 a author: ;
@@ -88093,9 +86581,6 @@ schema:authorConstellations5182 a author: ;
 schema:authorConstellations5187 a author: ;
     schema:familyName "Marielle D. Khoury" .
 
-schema:authorConstellations5188 a author: ;
-    schema:familyName "J.-H Rosny Aîné" .
-
 schema:authorConstellations5189 a author: ;
     schema:familyName "Justine de Lagausie" .
 
@@ -88180,9 +86665,6 @@ schema:authorConstellations5316 a author: ;
 schema:authorConstellations5317 a author: ;
     schema:familyName "Marilyn Eric & Sadler Comstock" .
 
-schema:authorConstellations5318 a author: ;
-    schema:familyName "Albena Ivanovitch-Lair" .
-
 schema:authorConstellations532 a author: ;
     schema:familyName "Janet Barkhouse" .
 
@@ -88191,9 +86673,6 @@ schema:authorConstellations5333 a author: ;
 
 schema:authorConstellations5336 a author: ;
     schema:familyName "Guillevic" .
-
-schema:authorConstellations5347 a author: ;
-    schema:familyName "Davide Calì" .
 
 schema:authorConstellations5349 a author: ;
     schema:familyName "Ted Hughes" .
@@ -88207,9 +86686,6 @@ schema:authorConstellations5350 a author: ;
 schema:authorConstellations5365 a author: ;
     schema:familyName "Charles Thierry d’après Perrault Dedieu" .
 
-schema:authorConstellations5367 a author: ;
-    schema:familyName "Michel del Castillo" .
-
 schema:authorConstellations5368 a author: ;
     schema:familyName "Paul Driessen" .
 
@@ -88219,14 +86695,8 @@ schema:authorConstellations537 a author: ;
 schema:authorConstellations5371 a author: ;
     schema:familyName "Laura Murray" .
 
-schema:authorConstellations5373 a author: ;
-    schema:familyName "Éric Mathivet" .
-
 schema:authorConstellations5375 a author: ;
     schema:familyName "Robert Macfarlane" .
-
-schema:authorConstellations538 a author: ;
-    schema:familyName "Michael Gerard Bauer" .
 
 schema:authorConstellations5382 a author: ;
     schema:familyName "Anne-Charlotte Voorhoeve" .
@@ -88291,9 +86761,6 @@ schema:authorConstellations5478 a author: ;
 schema:authorConstellations5482 a author: ;
     schema:familyName "Alison Limentani" .
 
-schema:authorConstellations5488 a author: ;
-    schema:familyName "Gabriel García Márquez" .
-
 schema:authorConstellations5497 a author: ;
     schema:familyName "Susan Montanari" .
 
@@ -88321,9 +86788,6 @@ schema:authorConstellations5528 a author: ;
 schema:authorConstellations5535 a author: ;
     schema:familyName "Gabriela Olmos" .
 
-schema:authorConstellations5537 a author: ;
-    schema:familyName "Fibretigre" .
-
 schema:authorConstellations5540 a author: ;
     schema:familyName "Somaiya Daud" .
 
@@ -88344,9 +86808,6 @@ schema:authorConstellations5554 a author: ;
 
 schema:authorConstellations5557 a author: ;
     schema:familyName "Catherine Bousquet" .
-
-schema:authorConstellations5558 a author: ;
-    schema:familyName "Aleksandra Mizielińska" .
 
 schema:authorConstellations5564 a author: ;
     schema:familyName "Éric Corbeyran" .
@@ -88387,14 +86848,8 @@ schema:authorConstellations5594 a author: ;
 schema:authorConstellations5599 a author: ;
     schema:familyName "David M. Schwartz" .
 
-schema:authorConstellations5606 a author: ;
-    schema:familyName "Émile Zola" .
-
 schema:authorConstellations561 a author: ;
     schema:familyName "Deborah Hopkinson" .
-
-schema:authorConstellations5611 a author: ;
-    schema:familyName "Rafael Ábalos" .
 
 schema:authorConstellations5612 a author: ;
     schema:familyName "Ariel Cohn" .
@@ -88419,9 +86874,6 @@ schema:authorConstellations5630 a author: ;
 
 schema:authorConstellations5634 a author: ;
     schema:familyName "Stan Rogers" .
-
-schema:authorConstellations5638 a author: ;
-    schema:familyName "Paola Ciarcià" .
 
 schema:authorConstellations564 a author: ;
     schema:familyName "Rocky Landon" .
@@ -88504,26 +86956,14 @@ schema:authorConstellations579 a author: ;
 schema:authorConstellations5794 a author: ;
     schema:familyName "Yannick Professeur Scientifix et Bergeron" .
 
-schema:authorConstellations5799 a author: ;
-    schema:familyName "Antonio Skármeta" .
-
-schema:authorConstellations5801 a author: ;
-    schema:familyName "Jean-Loic Le Quellec" .
-
 schema:authorConstellations5802 a author: ;
     schema:familyName "Susanna Tamaro" .
 
 schema:authorConstellations5809 a author: ;
     schema:familyName "Sonya Sones" .
 
-schema:authorConstellations5815 a author: ;
-    schema:familyName "Sebastien Meschenmoser" .
-
 schema:authorConstellations5827 a author: ;
     schema:familyName "Arlene Alda" .
-
-schema:authorConstellations5832 a author: ;
-    schema:familyName "Nicola O’Byrne" .
 
 schema:authorConstellations5836 a author: ;
     schema:familyName "Jean-Luc Dorier" .
@@ -88612,9 +87052,6 @@ schema:authorConstellations5976 a author: ;
 schema:authorConstellations598 a author: ;
     schema:familyName "Monica Gunning" .
 
-schema:authorConstellations5983 a author: ;
-    schema:familyName "Éric Adam" .
-
 schema:authorConstellations5987 a author: ;
     schema:familyName "Nic Bishop" .
 
@@ -88636,9 +87073,6 @@ schema:authorConstellations6015 a author: ;
 schema:authorConstellations6018 a author: ;
     schema:familyName "Florence Reynaud" .
 
-schema:authorConstellations602 a author: ;
-    schema:familyName "Luis Sepúlveda" .
-
 schema:authorConstellations6024 a author: ;
     schema:familyName "Whitney Stewart" .
 
@@ -88656,9 +87090,6 @@ schema:authorConstellations6040 a author: ;
 
 schema:authorConstellations6041 a author: ;
     schema:familyName "Betty Quan" .
-
-schema:authorConstellations6048 a author: ;
-    schema:familyName "Matt De la Peña" .
 
 schema:authorConstellations605 a author: ;
     schema:familyName "Frances H. Burnett" .
@@ -88701,9 +87132,6 @@ schema:authorConstellations615 a author: ;
 
 schema:authorConstellations6151 a author: ;
     schema:familyName "Joyce Grant" .
-
-schema:authorConstellations6164 a author: ;
-    schema:familyName "Régine Josephine" .
 
 schema:authorConstellations6172 a author: ;
     schema:familyName "Pamela Oldfield" .
@@ -88768,14 +87196,8 @@ schema:authorConstellations6285 a author: ;
 schema:authorConstellations6286 a author: ;
     schema:familyName "Le Défenseur des droits" .
 
-schema:authorConstellations6293 a author: ;
-    schema:familyName "Élisabeth Motsch" .
-
 schema:authorConstellations6297 a author: ;
     schema:familyName "Juana Martinez-Neal" .
-
-schema:authorConstellations6302 a author: ;
-    schema:familyName "Éric Teyssier" .
 
 schema:authorConstellations6305 a author: ;
     schema:familyName "Jill McElmurry" .
@@ -88843,9 +87265,6 @@ schema:authorConstellations6388 a author: ;
 schema:authorConstellations639 a author: ;
     schema:familyName "Sheryl Shapiro" .
 
-schema:authorConstellations6390 a author: ;
-    schema:familyName "Marta Comín" .
-
 schema:authorConstellations6396 a author: ;
     schema:familyName "Frances Itani" .
 
@@ -88854,9 +87273,6 @@ schema:authorConstellations6403 a author: ;
 
 schema:authorConstellations6407 a author: ;
     schema:familyName "Per-Henrik Gürth" .
-
-schema:authorConstellations642 a author: ;
-    schema:familyName "Camilla de la Bédoyère" .
 
 schema:authorConstellations6421 a author: ;
     schema:familyName "Suzanne Nelson" .
@@ -88884,9 +87300,6 @@ schema:authorConstellations6442 a author: ;
 
 schema:authorConstellations6447 a author: ;
     schema:familyName "Yves Heurté" .
-
-schema:authorConstellations6449 a author: ;
-    schema:familyName "Aleksandra Mizielínska" .
 
 schema:authorConstellations6452 a author: ;
     schema:familyName "Stephanie Meyers" .
@@ -88916,13 +87329,10 @@ schema:authorConstellations6511 a author: ;
     schema:familyName "Anne et  Jacques Six" .
 
 schema:authorConstellations6520 a author: ;
-    schema:familyName "Harry Hughes" .
-
-schema:authorConstellations6521 a author: ;
     schema:familyName "Anne O'Brien" .
 
-schema:authorConstellations6526 a author: ;
-    schema:familyName "Myriam de Repentigny" .
+schema:authorConstellations6521 a author: ;
+    schema:familyName "Harry Hughes" .
 
 schema:authorConstellations6528 a author: ;
     schema:familyName "Gail Giles" .
@@ -88966,9 +87376,6 @@ schema:authorConstellations6581 a author: ;
 schema:authorConstellations6599 a author: ;
     schema:familyName "Karma Wilson" .
 
-schema:authorConstellations66 a author: ;
-    schema:familyName "Hye-sook Kang" .
-
 schema:authorConstellations6602 a author: ;
     schema:familyName "Andreas Oertel" .
 
@@ -88998,9 +87405,6 @@ schema:authorConstellations664 a author: ;
 
 schema:authorConstellations6649 a author: ;
     schema:familyName "Darren Groth" .
-
-schema:authorConstellations665 a author: ;
-    schema:familyName "Paule du Bouchet" .
 
 schema:authorConstellations6651 a author: ;
     schema:familyName "Barbara Todd" .
@@ -89089,7 +87493,7 @@ schema:authorConstellations6800 a author: ;
 schema:authorConstellations6802 a author: ;
     schema:familyName "Claire Obscure" .
 
-schema:authorConstellations6807 a author: ;
+schema:authorConstellations6808 a author: ;
     schema:familyName "Heather Levigne" .
 
 schema:authorConstellations6815 a author: ;
@@ -89125,9 +87529,6 @@ schema:authorConstellations6853 a author: ;
 schema:authorConstellations6857 a author: ;
     schema:familyName "Sheri Bell-Rehwoldt" .
 
-schema:authorConstellations686 a author: ;
-    schema:familyName "Blanca Gómez" .
-
 schema:authorConstellations6860 a author: ;
     schema:familyName "Kokor" .
 
@@ -89155,9 +87556,6 @@ schema:authorConstellations6878 a author: ;
 schema:authorConstellations6886 a author: ;
     schema:familyName "I. C. Springman" .
 
-schema:authorConstellations6887 a author: ;
-    schema:familyName "Yong-Ran Kim" .
-
 schema:authorConstellations6896 a author: ;
     schema:familyName "Daniel Loxton" .
 
@@ -89182,20 +87580,17 @@ schema:authorConstellations6934 a author: ;
 schema:authorConstellations6943 a author: ;
     schema:familyName "Saima Shakil Hussain" .
 
-schema:authorConstellations695 a author: ;
-    schema:familyName "Benoit Tardif" .
-
 schema:authorConstellations6950 a author: ;
     schema:familyName "Vicki Delany" .
-
-schema:authorConstellations696 a author: ;
-    schema:familyName "Régis Le" .
 
 schema:authorConstellations6962 a author: ;
     schema:familyName "Meg Kearney" .
 
 schema:authorConstellations6965 a author: ;
     schema:familyName "Primo Levi" .
+
+schema:authorConstellations697 a author: ;
+    schema:familyName "Régis Le" .
 
 schema:authorConstellations6976 a author: ;
     schema:familyName "Janet Lord" .
@@ -89242,9 +87637,6 @@ schema:authorConstellations7027 a author: ;
 schema:authorConstellations7028 a author: ;
     schema:familyName "Ikeda Kayoko" .
 
-schema:authorConstellations703 a author: ;
-    schema:familyName "César Mallorquí" .
-
 schema:authorConstellations7039 a author: ;
     schema:familyName "Berenice Capatti" .
 
@@ -89287,7 +87679,7 @@ schema:authorConstellations7138 a author: ;
 schema:authorConstellations7140 a author: ;
     schema:familyName "Kareem Abdul-Jabbar" .
 
-schema:authorConstellations7143 a author: ;
+schema:authorConstellations7142 a author: ;
     schema:familyName "Ingrid Houdenhove" .
 
 schema:authorConstellations7147 a author: ;
@@ -89344,9 +87736,6 @@ schema:authorConstellations7207 a author: ;
 schema:authorConstellations721 a author: ;
     schema:familyName "Pat Brisson" .
 
-schema:authorConstellations7211 a author: ;
-    schema:familyName "Géraldina Colotti" .
-
 schema:authorConstellations7223 a author: ;
     schema:familyName "Donald Brien Johnson" .
 
@@ -89356,14 +87745,8 @@ schema:authorConstellations7224 a author: ;
 schema:authorConstellations7225 a author: ;
     schema:familyName "Serge Prokofiev" .
 
-schema:authorConstellations7229 a author: ;
-    schema:familyName "Benoît Frébourg" .
-
 schema:authorConstellations7235 a author: ;
     schema:familyName "Michelle Barker" .
-
-schema:authorConstellations724 a author: ;
-    schema:familyName "Éloi Rousseau" .
 
 schema:authorConstellations7241 a author: ;
     schema:familyName "Jane Barclay" .
@@ -89395,7 +87778,7 @@ schema:authorConstellations7276 a author: ;
 schema:authorConstellations7277 a author: ;
     schema:familyName "Monique et Claude Ponti" .
 
-schema:authorConstellations7289 a author: ;
+schema:authorConstellations7288 a author: ;
     schema:familyName "Marie-Josée Lallart" .
 
 schema:authorConstellations7293 a author: ;
@@ -89518,9 +87901,6 @@ schema:authorConstellations7470 a author: ;
 schema:authorConstellations7474 a author: ;
     schema:familyName "John Steinbeck" .
 
-schema:authorConstellations7475 a author: ;
-    schema:familyName "Taro Gomi" .
-
 schema:authorConstellations7486 a author: ;
     schema:familyName "Susie Lee Jin" .
 
@@ -89611,9 +87991,6 @@ schema:authorConstellations7640 a author: ;
 schema:authorConstellations7649 a author: ;
     schema:familyName "Jocelyn Bérubé" .
 
-schema:authorConstellations7650 a author: ;
-    schema:familyName "Élise Rousseau" .
-
 schema:authorConstellations7656 a author: ;
     schema:familyName "Lisa Wheeler" .
 
@@ -89641,7 +88018,7 @@ schema:authorConstellations7679 a author: ;
 schema:authorConstellations7682 a author: ;
     schema:familyName "Tonya Bolden" .
 
-schema:authorConstellations7689 a author: ;
+schema:authorConstellations7688 a author: ;
     schema:familyName "Ashley Edward-Miller" .
 
 schema:authorConstellations7693 a author: ;
@@ -89728,9 +88105,6 @@ schema:authorConstellations7832 a author: ;
 schema:authorConstellations785 a author: ;
     schema:familyName "Leah Bassoff" .
 
-schema:authorConstellations7857 a author: ;
-    schema:familyName "Virginie Beauregard D." .
-
 schema:authorConstellations7872 a author: ;
     schema:familyName "Véronique Brindreau" .
 
@@ -89769,9 +88143,6 @@ schema:authorConstellations7976 a author: ;
 
 schema:authorConstellations7989 a author: ;
     schema:familyName "John Light" .
-
-schema:authorConstellations799 a author: ;
-    schema:familyName "Henri del Pup" .
 
 schema:authorConstellations8 a author: ;
     schema:familyName "Lionel Groulx" .
@@ -89893,7 +88264,7 @@ schema:authorConstellations8188 a author: ;
 schema:authorConstellations819 a author: ;
     schema:familyName "Monica Kulling" .
 
-schema:authorConstellations8197 a author: ;
+schema:authorConstellations8196 a author: ;
     schema:familyName "Denis Cheissaux" .
 
 schema:authorConstellations8198 a author: ;
@@ -89950,7 +88321,7 @@ schema:authorConstellations8250 a author: ;
 schema:authorConstellations8258 a author: ;
     schema:familyName "Michael Garland" .
 
-schema:authorConstellations8278 a author: ;
+schema:authorConstellations8279 a author: ;
     schema:familyName "Yi Eun-jin" .
 
 schema:authorConstellations8287 a author: ;
@@ -89964,9 +88335,6 @@ schema:authorConstellations8300 a author: ;
 
 schema:authorConstellations8304 a author: ;
     schema:familyName "Véronique Boisjoly" .
-
-schema:authorConstellations8311 a author: ;
-    schema:familyName "Meritxell Martí" .
 
 schema:authorConstellations8314 a author: ;
     schema:familyName "Léon Tolstoï" .
@@ -89985,9 +88353,6 @@ schema:authorConstellations8347 a author: ;
 
 schema:authorConstellations8361 a author: ;
     schema:familyName "Bruno d’après Anonyme Heitz" .
-
-schema:authorConstellations8362 a author: ;
-    schema:familyName "Jean-Francois Chabas" .
 
 schema:authorConstellations8370 a author: ;
     schema:familyName "Nancy Raines Day" .
@@ -90043,9 +88408,6 @@ schema:authorConstellations8435 a author: ;
 schema:authorConstellations8440 a author: ;
     schema:familyName "Andrea Lynn Beck" .
 
-schema:authorConstellations846 a author: ;
-    schema:familyName "Marie-Émilie Colle" .
-
 schema:authorConstellations8465 a author: ;
     schema:familyName "Helen Cooper" .
 
@@ -90054,9 +88416,6 @@ schema:authorConstellations8468 a author: ;
 
 schema:authorConstellations8474 a author: ;
     schema:familyName "Ifeoma Onyefulu" .
-
-schema:authorConstellations8486 a author: ;
-    schema:familyName "Yoko Ogawa" .
 
 schema:authorConstellations8489 a author: ;
     schema:familyName "Robert Burleigh" .
@@ -90091,13 +88450,10 @@ schema:authorConstellations8533 a author: ;
 schema:authorConstellations855 a author: ;
     schema:familyName "Jacqueline Guest" .
 
-schema:authorConstellations8554 a author: ;
-    schema:familyName "Gnimdéwa Atakpama" .
-
 schema:authorConstellations8556 a author: ;
     schema:familyName "Jicai Feng" .
 
-schema:authorConstellations8564 a author: ;
+schema:authorConstellations8563 a author: ;
     schema:familyName "Michel Duc" .
 
 schema:authorConstellations857 a author: ;
@@ -90235,9 +88591,6 @@ schema:authorConstellations8801 a author: ;
 schema:authorConstellations8804 a author: ;
     schema:familyName "Wil Huygen" .
 
-schema:authorConstellations8806 a author: ;
-    schema:familyName "Raphaël de Filippo" .
-
 schema:authorConstellations8816 a author: ;
     schema:familyName "Jay Ingram" .
 
@@ -90268,9 +88621,6 @@ schema:authorConstellations8872 a author: ;
 schema:authorConstellations8881 a author: ;
     schema:familyName "Terry et Eric Fan" .
 
-schema:authorConstellations8886 a author: ;
-    schema:familyName "Marie-Élise Masson" .
-
 schema:authorConstellations8892 a author: ;
     schema:familyName "Philippe Dubois" .
 
@@ -90284,10 +88634,10 @@ schema:authorConstellations89 a author: ;
     schema:familyName "Philippe de La Cotardière" .
 
 schema:authorConstellations8911 a author: ;
-    schema:familyName "Hans Rao" .
+    schema:familyName "Gita Wolf" .
 
 schema:authorConstellations8912 a author: ;
-    schema:familyName "Gita Wolf" .
+    schema:familyName "Hans Rao" .
 
 schema:authorConstellations8930 a author: ;
     schema:familyName "duopress labs" .
@@ -90325,9 +88675,6 @@ schema:authorConstellations900 a author: ;
 schema:authorConstellations9000 a author: ;
     schema:familyName "Eric A. Kimmel" .
 
-schema:authorConstellations9003 a author: ;
-    schema:familyName "Florence Dupré la Tour" .
-
 schema:authorConstellations9020 a author: ;
     schema:familyName "Betty Waterton" .
 
@@ -90348,9 +88695,6 @@ schema:authorConstellations9044 a author: ;
 
 schema:authorConstellations9048 a author: ;
     schema:familyName "Elli Woodland" .
-
-schema:authorConstellations905 a author: ;
-    schema:familyName "Soledad Romero Mariño" .
 
 schema:authorConstellations9053 a author: ;
     schema:familyName "Tina Cho" .
@@ -90387,9 +88731,6 @@ schema:authorConstellations9092 a author: ;
 
 schema:authorConstellations9109 a author: ;
     schema:familyName "Rubin Pingk" .
-
-schema:authorConstellations911 a author: ;
-    schema:familyName "Émile Bravo" .
 
 schema:authorConstellations9127 a author: ;
     schema:familyName "Tish Rabe" .
@@ -90438,9 +88779,6 @@ schema:authorConstellations9211 a author: ;
 
 schema:authorConstellations9214 a author: ;
     schema:familyName "Samya Kullab" .
-
-schema:authorConstellations9216 a author: ;
-    schema:familyName "Petr Horáček" .
 
 schema:authorConstellations922 a author: ;
     schema:familyName "A. Birnbaum" .
@@ -90499,9 +88837,6 @@ schema:authorConstellations9310 a author: ;
 schema:authorConstellations9312 a author: ;
     schema:familyName "Heather Down" .
 
-schema:authorConstellations9318 a author: ;
-    schema:familyName "Yôko Imoto" .
-
 schema:authorConstellations9326 a author: ;
     schema:familyName "René Trépanier" .
 
@@ -90541,9 +88876,6 @@ schema:authorConstellations9412 a author: ;
 schema:authorConstellations9417 a author: ;
     schema:familyName "Susie Duff (editor)" .
 
-schema:authorConstellations9419 a author: ;
-    schema:familyName "Koen van Biesen" .
-
 schema:authorConstellations9429 a author: ;
     schema:familyName "Robert-Newton Peck" .
 
@@ -90567,9 +88899,6 @@ schema:authorConstellations9463 a author: ;
 
 schema:authorConstellations9479 a author: ;
     schema:familyName "Raymond Nakamura" .
-
-schema:authorConstellations9483 a author: ;
-    schema:familyName "Pierre-François. Dupont-Beurier" .
 
 schema:authorConstellations9484 a author: ;
     schema:familyName "Père Anselme Chiasson" .
@@ -90600,9 +88929,6 @@ schema:authorConstellations9520 a author: ;
 
 schema:authorConstellations9524 a author: ;
     schema:familyName "Jonathan C. McKee" .
-
-schema:authorConstellations9537 a author: ;
-    schema:familyName "Monique Felix" .
 
 schema:authorConstellations9541 a author: ;
     schema:familyName "Isabelle Larouche" .
@@ -90636,9 +88962,6 @@ schema:authorConstellations9566 a author: ;
 
 schema:authorConstellations9571 a author: ;
     schema:familyName "Stephen Krensky" .
-
-schema:authorConstellations9574 a author: ;
-    schema:familyName "Sébastien Pérez" .
 
 schema:authorConstellations9578 a author: ;
     schema:familyName "François Mauriac" .
@@ -90719,10 +89042,10 @@ schema:authorConstellations9709 a author: ;
     schema:familyName "Ross Burach" .
 
 schema:authorConstellations9710 a author: ;
-    schema:familyName "John Musick" .
+    schema:familyName "Beverly McMillan" .
 
 schema:authorConstellations9711 a author: ;
-    schema:familyName "Beverly McMillan" .
+    schema:familyName "John Musick" .
 
 schema:authorConstellations9718 a author: ;
     schema:familyName "Susan Reuben" .
@@ -90739,9 +89062,6 @@ schema:authorConstellations9725 a author: ;
 schema:authorConstellations973 a author: ;
     schema:familyName "Anastasia Higginbotham" .
 
-schema:authorConstellations9733 a author: ;
-    schema:familyName "Maria Isabel Sánchez Vegara" .
-
 schema:authorConstellations9739 a author: ;
     schema:familyName "Cora Lee" .
 
@@ -90754,7 +89074,7 @@ schema:authorConstellations9763 a author: ;
 schema:authorConstellations9773 a author: ;
     schema:familyName "Lynn Fulton" .
 
-schema:authorConstellations9780 a author: ;
+schema:authorConstellations9781 a author: ;
     schema:familyName "Yi Hee-jeong" .
 
 schema:authorConstellations9793 a author: ;
@@ -90765,12 +89085,6 @@ schema:authorConstellations9799 a author: ;
 
 schema:authorConstellations9828 a author: ;
     schema:familyName "Danny Appleby" .
-
-schema:authorConstellations9836 a author: ;
-    schema:familyName "Marita de Sterck" .
-
-schema:authorConstellations9837 a author: ;
-    schema:familyName "Pascal Lemaitre" .
 
 schema:authorConstellations9838 a author: ;
     schema:familyName "Tord Nygren" .
@@ -90790,9 +89104,6 @@ schema:authorConstellations9857 a author: ;
 schema:authorConstellations986 a author: ;
     schema:familyName "Lyman Frank Baum" .
 
-schema:authorConstellations9870 a author: ;
-    schema:familyName "Eugene Trivizas" .
-
 schema:authorConstellations9875 a author: ;
     schema:familyName "Lana Button" .
 
@@ -90810,9 +89121,6 @@ schema:authorConstellations9898 a author: ;
 
 schema:authorConstellations9902 a author: ;
     schema:familyName "Corinne De" .
-
-schema:authorConstellations9904 a author: ;
-    schema:familyName "Paco Liván" .
 
 schema:authorConstellations9905 a author: ;
     schema:familyName "Sakina et al. Boukhaima" .
@@ -90852,7 +89160,4 @@ schema:authorConstellations9977 a author: ;
 
 schema:authorConstellations9995 a author: ;
     schema:familyName "Ainslie Manson" .
-
-schema:authorConstellations9997 a author: ;
-    schema:familyName "Matt De La Peña" .
 

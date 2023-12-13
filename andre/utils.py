@@ -36,7 +36,16 @@ def preprocess_publisher_name(raw_name):
     preprocessed_name = preprocessed_name.replace("groupe", "")
     preprocessed_name = preprocessed_name.strip()
 
-    return raw_name if not preprocessed_name  else preprocessed_name
+    return raw_name if not preprocessed_name else preprocessed_name
+
+def preprocess_author_name(raw_name):
+    preprocessed_name = raw_name
+    preprocessed_name = preprocessed_name.lower()
+    preprocessed_name = strip_special_chars(preprocessed_name)
+    preprocessed_name = strip_accents(preprocessed_name)
+    preprocessed_name = preprocessed_name.strip()
+
+    return raw_name if not preprocessed_name else preprocessed_name
 
 class Publisher:
     def __init__(self, source, uri, raw_name, preprocessed_name):
