@@ -137,7 +137,7 @@ def extract_data_alignment(graph, alignment_uri):
 def extract_data_constellation(graph, book):
     book_name = str(graph.value(book, schema.name)) if graph.value(book, schema.name) else str(
         graph.value(book, schema.title))  # name vs title in database
-    book_authors = list(graph.objects(book, schema.author))
+    book_authors = list(graph.objects(book, pbs.authorString))
     book_authors_str = [str(a) for a in book_authors]
     age_range = list(graph.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
@@ -169,7 +169,7 @@ def extract_data_btlf(graph, book):
 def extract_data_bnf(graph, book):
     book_name = str(graph.value(book, schema.name)) if graph.value(book, schema.name) else ""
     language = str(graph.value(book, schema.inLanguage)) if graph.value(book, schema.inLanguage) else ""
-    book_authors = list(graph.objects(book, schema.author))
+    book_authors = list(graph.objects(book, pbs.authorString))
     book_authors_str = [str(a) for a in book_authors]
     age_range = list(graph.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
