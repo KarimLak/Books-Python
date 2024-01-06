@@ -11,6 +11,8 @@ class IntraDBStats: # stats for 1 db
         self.source = source
         self.total_book_no = 0
         self.books_without_authors = []
+        self.books_without_illustrator = []
+        self.books_without_illustrator_and_author = []
         self.books_without_age = []
         self.books_without_name = []
         self.books_without_publication_date = []
@@ -26,36 +28,41 @@ class IntraDBStats: # stats for 1 db
         self.book_name_author_publisher_date_doublons = defaultdict(lambda: [])
         self.book_name_author_ages = defaultdict(lambda: [])
 
-    def count(self, book_name, book_authors, age_range, url, publication_date, publisher, isbn, ean=None):
+    def count(self, book_data):
         self.total_book_no += 1
 
-        if not book_name:
-            self.books_without_name.append(url)
-        if not book_authors:
-            self.books_without_authors.append(url)
-        if not age_range:
-            self.books_without_age.append(url)
-        if not publication_date:
-            self.books_without_publication_date.append(url)
-        if not publisher:
-            self.books_without_publisher.append(url)
-        if not isbn or isbn == "none":
-            self.books_without_isbn.append(url)
-            if not ean or ean == "none":
-                self.books_without_isbn_and_ean.append(url)
+        if not book_data.book_name:
+            self.books_without_name.append(book_data.url)
+        if not book_data.book_authors:
+            self.books_without_authors.append(book_data.url)
+        if not book_data.illustrator:
+            self.books_without_illustrator.append(book_data.url)
+        if not book_data.book_authors and not book_data.illustrator:
+            self.books_without_illustrator_and_author.append(book_data.url)
+        if not book_data.age_range_int:
+            self.books_without_age.append(book_data.url)
+        if not book_data.publication_date:
+            self.books_without_publication_date.append(book_data.url)
+        if not book_data.publisher:
+            self.books_without_publisher.append(book_data.url)
+        if not book_data.isbn or book_data.isbn == "none":
+            self.books_without_isbn.append(book_data.url)
+            if not book_data.ean or book_data.ean == "none":
+                self.books_without_isbn_and_ean.append(book_data.url)
             else:
-                self.books_without_isbn_with_ean.append(url)
+                self.books_without_isbn_with_ean.append(book_data.url)
 
-        self.count_doublon_with_missing_values(book_name=str(book_name),
-                                               book_authors=book_authors,
-                                               age_range=age_range,
-                                               publisher=str(publisher),
-                                               publication_date=str(publication_date),
-                                               isbn=isbn,
-                                               ean=ean,
-                                               url=url)
+        self.count_doublon_with_missing_values(book_name=str(book_data.book_name),
+                                               book_authors=book_data.book_authors,
+                                               age_range=book_data.age_range_int,
+                                               publisher=str(book_data.publisher),
+                                               publication_date=str(book_data.publication_date),
+                                               isbn=book_data.isbn,
+                                               ean=book_data.ean,
+                                               url=book_data.url)
 
     def count_doublon_with_missing_values(self, book_name, book_authors, age_range, publisher, publication_date, isbn, ean, url):
+        
         name_key = utils.create_key(book_name)
         self.book_name_doublons[name_key].append(url)
 
@@ -126,6 +133,8 @@ class IntraDBStats: # stats for 1 db
                                  f"without isbn with ean: {len(self.books_without_isbn_with_ean)}",
                                  f"without name: {len(self.books_without_name)}",
                                  f"without author:{len(self.books_without_authors)}",
+                                 f"without illustrator:{len(self.books_without_illustrator)}",
+                                 f"without illustrator and author:{len(self.books_without_illustrator_and_author)}",
                                  f"without age {len(self.books_without_age)}",
                                  f"without publication date {len(self.books_without_publication_date)}",
                                  f"without publisher {len(self.books_without_publisher)}"])
@@ -135,6 +144,8 @@ class IntraDBStats: # stats for 1 db
                                    self.books_without_isbn_with_ean,
                                    self.books_without_name,
                                    self.books_without_authors,
+                                   self.books_without_illustrator,
+                                   self.books_without_illustrator_and_author,
                                    self.books_without_age,
                                    self.books_without_publication_date,
                                    self.books_without_publisher)
@@ -183,47 +194,58 @@ class IntraDBStats: # stats for 1 db
 
 # load the graph of constellation
 g = Graph()
-g.parse("../final_datasets/constellations.ttl", format="turtle")
-# g.parse("data/data as of 04 august/output_constellations_updated.ttl", format="turtle")
+g.parse("final_datasets/constellations.ttl", format="turtle")
 stats_constellation = IntraDBStats(source="Constellation")
 
-# refactor to have a reader class
 for book in g.subjects(RDF.type, utils.schema.Book):
     book_data = utils.extract_data_constellation(g, book)
-    stats_constellation.count(book_data.book_name, book_data.book_author, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn)
+    stats_constellation.count(book_data)
 
 stats_constellation.print_stats()
 stats_constellation.output_csv()
-'''
+
 
 #------------------------------------
 # BNF
 
-g = Graph() # reset graph
-g.parse("final_datasets/bnf_auteursURI.ttl", format="turtle")
-# g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
+g = Graph()
+g.parse("final_datasets/bnf.ttl", format="turtle")
 
 stats_bnf = IntraDBStats(source="BNF")
 
 for book in g.subjects(RDF.type, utils.schema.Book):
     book_data = utils.extract_data_bnf(g, book)
-    stats_bnf.count(book_data.book_name, book_data.book_authors, book_data.age_range_int, book_data.url, book_data.publication_date, book_data.publisher, book_data.isbn, book_data.ean)
+    stats_bnf.count(book_data)
 
 stats_bnf.print_stats()
 stats_bnf.output_csv()
-'''
+
+
 #------------------------------------
-#BTLF
-g = Graph() # reset graph
-g.parse("../final_datasets/btlf_books/Graphes/grapheLivres.ttl", format="turtle")
-# g.parse("data/data as of 04 august/27jul_local_output_bnf_no_duplicates.ttl", format="turtle")
+# BTLF
+g = Graph()
+g.parse("final_datasets/btlf_books/Graphes/grapheLivres_BTLF_EditeursConsolides.ttl", format="turtle")
 
 stats_btlf = IntraDBStats(source="BTLF")
 
-for book in g.subjects(RDF.type, utils.btlf_classe.Livre):  # O(M)
+for book in g.subjects(RDF.type, utils.schema.Book):  # O(M)
     book_data = utils.extract_data_btlf(g, book)
-    stats_btlf.count(book_data.book_name, book_data.book_authors, book_data.age_range_int, book_data.uri, book_data.publication_date, book_data.publisher, book_data.isbn)
+    stats_btlf.count(book_data)
 
 stats_btlf.print_stats()
 stats_btlf.output_csv()
 '''
+
+#------------------------------------
+# Babelio
+g = Graph()
+g.parse("final_datasets/babelio.ttl", format="turtle")
+
+stats_babelio = IntraDBStats(source="Babelio")
+
+for book in g.subjects(RDF.type, utils.schema.Book):  # O(M)
+    book_data = utils.extract_data_babelio(g, book)
+    stats_babelio.count(book_data)
+
+stats_babelio.print_stats()
+stats_babelio.output_csv()
