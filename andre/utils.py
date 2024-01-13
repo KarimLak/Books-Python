@@ -158,6 +158,7 @@ def extract_data_btlf(graph, book):
     book_name = str(graph.value(book, schema.name)) if graph.value(book, schema.name) else ""
     # book_author = str(graph.value(book, pbs.authorString)) if graph.value(book, pbs.authorString) else ""
     book_authors = list(graph.objects(book, pbs.authorString))
+    book_authors_str = [str(a) for a in book_authors]
     age_range = list(graph.objects(book, pbs.age))
     age_range_int = [int(age) for age in age_range]
     publication_date = str(graph.value(book, schema.datePublished))
@@ -167,7 +168,7 @@ def extract_data_btlf(graph, book):
     #     book_author = illustrator
     isbn = str(graph.value(book, schema.isbn)) if (graph.value(book, schema.isbn) and str(graph.value(book, schema.isbn)) != "none") else ""
     uri = book
-    return RdfBookData(book_name=book_name, book_authors=book_authors, age_range_int=age_range_int,
+    return RdfBookData(book_name=book_name, book_authors=book_authors_str, age_range_int=age_range_int,
                        publication_date=publication_date, publisher=publisher, isbn=isbn, uri=uri, url = uri, illustrator = illustrator)
 
 
