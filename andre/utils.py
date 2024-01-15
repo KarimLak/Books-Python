@@ -26,6 +26,9 @@ def preprocess_publisher_name(raw_name):
     preprocessed_name = preprocessed_name.replace("& cie", "")
     preprocessed_name = strip_special_chars(preprocessed_name)
     preprocessed_name = strip_accents(preprocessed_name)
+    preprocessed_name = preprocessed_name.replace("publishing", "")
+    preprocessed_name = preprocessed_name.replace("publishers", "")
+    preprocessed_name = preprocessed_name.replace("publications", "")
     preprocessed_name = preprocessed_name.replace("librairies", "")
     preprocessed_name = preprocessed_name.replace("librairie", "")
     preprocessed_name = preprocessed_name.replace("editeurs", "")
@@ -34,6 +37,7 @@ def preprocess_publisher_name(raw_name):
     preprocessed_name = preprocessed_name.replace("editions", "")
     preprocessed_name = preprocessed_name.replace("edition", "")
     preprocessed_name = preprocessed_name.replace(" ", "")
+    preprocessed_name = preprocessed_name.replace("_", "")
     preprocessed_name = preprocessed_name.replace("groupe", "")
     preprocessed_name = preprocessed_name.strip()
 
