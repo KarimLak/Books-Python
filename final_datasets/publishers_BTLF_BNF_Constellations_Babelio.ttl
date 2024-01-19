@@ -299,9 +299,6 @@ ns1:Anderson_Press a ns1:Publisher ;
 ns1:Andrews_McMeel a ns1:Publisher ;
     ns1:name "Andrews McMeel"^^xsd:string .
 
-ns1:Andrews_McMeel_Publishing a ns1:Publisher ;
-    ns1:name "Andrews McMeel Publishing"^^xsd:string .
-
 ns1:Anik_Lafrenière a ns1:Publisher ;
     ns1:name "Anik Lafrenière"^^xsd:string .
 
@@ -1509,9 +1506,6 @@ ns1:Davidsfonds a ns1:Publisher ;
 ns1:Dawn a ns1:Publisher ;
     ns1:name "Dawn"^^xsd:string .
 
-ns1:Dawn_Publications a ns1:Publisher ;
-    ns1:name "Dawn Publications"^^xsd:string .
-
 ns1:Dcb a ns1:Publisher ;
     ns1:name "Dcb"^^xsd:string .
 
@@ -2574,9 +2568,6 @@ ns1:Hodder___Stoughton a ns1:Publisher ;
 
 ns1:Holiday_House a ns1:Publisher ;
     ns1:name "Holiday House"^^xsd:string .
-
-ns1:Holiday_House_Publishing a ns1:Publisher ;
-    ns1:name "Holiday House Publishing"^^xsd:string .
 
 ns1:Holtzbrink a ns1:Publisher ;
     ns1:name "Holtzbrink"^^xsd:string .
@@ -5496,9 +5487,6 @@ ns1:Sterling_Childrens_Books a ns1:Publisher ;
     ns1:name "Sterling Children's Books"^^xsd:string,
         "Sterling Children’s Books"^^xsd:string .
 
-ns1:Sterling_Publishing a ns1:Publisher ;
-    ns1:name "Sterling Publishing"^^xsd:string .
-
 ns1:Stock a ns1:Publisher ;
     ns1:name "Stock"^^xsd:string .
 
@@ -5975,9 +5963,6 @@ ns1:UrbanChina a ns1:Publisher ;
 
 ns1:Urban_Link a ns1:Publisher ;
     ns1:name "Urban Link"^^xsd:string .
-
-ns1:Usborne a ns1:Publisher ;
-    ns1:name "Usborne"^^xsd:string .
 
 ns1:Usborne_Publishing a ns1:Publisher ;
     ns1:name "Usborne Publishing"^^xsd:string .
