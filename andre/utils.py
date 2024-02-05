@@ -13,6 +13,15 @@ btlf_classe = rdflib.namespace.Namespace("http://www.btlf.com/classe/")
 btlf_livre = rdflib.namespace.Namespace("http://www.btlf.com/livre/")
 xsd = rdflib.namespace.Namespace('http://www.w3.org/2001/XMLSchema#')
 
+def preprocess_theme_list(theme_list):
+    theme_list = [re.sub(r'\(.*?\)', '', theme) for theme in theme_list]
+    theme_list = [theme.lower() for theme in theme_list]
+    theme_list = [theme.rsplit("/")[0] for theme in theme_list]
+    theme_list = [theme.rsplit(",")[0] for theme in theme_list]
+    theme_list = [theme.rsplit(" ")[0] if theme.rsplit(" ")[0] != "the" else theme.rsplit(" ")[1] for theme in theme_list]
+    
+    return theme_list
+
 
 def preprocess_publisher_name(raw_name):
     preprocessed_name = raw_name
@@ -206,9 +215,10 @@ def extract_data_babelio(graph, book):
     publication_date = str(graph.value(book, schema.datePublished)) if graph.value(book, schema.datePublished) else ""
     publisher = str(graph.value(book, schema.publisher)) if graph.value(book, schema.publisher) else ""
     ean = str(graph.value(book, pbs.ean)) if (graph.value(book, pbs.ean) and str(graph.value(book, pbs.ean)) != "none") else ""
+    isbn = str(graph.value(book, schema.isbn)) if (graph.value(book, schema.isbn) and str(graph.value(book, schema.isbn)) != "none") else ""
     uri = book
     return RdfBookData(book_name=book_name, book_authors=book_authors_str, age_range_int=age_range_int,
-                       publication_date=publication_date, publisher=publisher, isbn=ean, ean=ean, uri=uri, url = uri, language=language, illustrator=illustrator) # only ean available
+                       publication_date=publication_date, publisher=publisher, isbn=isbn, ean=ean, uri=uri, url = uri, language=language, illustrator=illustrator) # only ean available
 
 def extract_data_lurelu(graph, book):
     book_name = str(graph.value(book, schema.name))

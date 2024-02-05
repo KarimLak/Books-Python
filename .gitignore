@@ -3,4 +3,4 @@
 .ipynb_checkpoints
 .vscode
 andre/__pycache__
-book_themes_alignment_data/word_vectors.bin
+book_themes_alignment_data/*.bin
