@@ -4,6 +4,7 @@ import re
 import logging
 from difflib import SequenceMatcher
 import os
+import numpy as np
 
 EPSILON = 0.00001
 
@@ -12,6 +13,11 @@ schema = rdflib.namespace.Namespace("http://schema.org/")
 btlf_classe = rdflib.namespace.Namespace("http://www.btlf.com/classe/")
 btlf_livre = rdflib.namespace.Namespace("http://www.btlf.com/livre/")
 xsd = rdflib.namespace.Namespace('http://www.w3.org/2001/XMLSchema#')
+
+
+def cosine_similarity(vec1, vec2):
+    return np.dot(vec1, vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2)) 
+
 
 def preprocess_theme_list(theme_list):
     theme_list = [re.sub(r'\(.*?\)', '', theme) for theme in theme_list]

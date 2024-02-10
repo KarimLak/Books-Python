@@ -4,3 +4,6 @@
 .vscode
 andre/__pycache__
 book_themes_alignment_data/*.bin
+book_themes_alignment_data/*.bz2
+book_themes_alignment_data/*.pkl
+
