@@ -83570,829 +83570,3670 @@ schema:authorBNF999 a author: ;
     schema:familyName "Burton Supree" .
 
 schema:authorBabelio0 a author: ;
-    schema:familyName "Kirihara Izumi" .
+    schema:familyName "Arleen Paré" .
 
 schema:authorBabelio1 a author: ;
-    schema:familyName "Miaki Sugaru" .
+    schema:familyName "Al Purdy" .
 
 schema:authorBabelio10 a author: ;
-    schema:familyName "Kouga Yun" .
-
-schema:authorBabelio100 a author: ;
-    schema:familyName "Jean-Pierre Nozière" .
-
-schema:authorBabelio101 a author: ;
-    schema:familyName "Stéphne Poulin" .
-
-schema:authorBabelio102 a author: ;
-    schema:familyName "Alcante" .
-
-schema:authorBabelio103 a author: ;
-    schema:familyName "Denis Rodier (dessins)" .
-
-schema:authorBabelio104 a author: ;
-    schema:familyName "Renée Dupuis" .
-
-schema:authorBabelio105 a author: ;
-    schema:familyName "Douglas Glover" .
-
-schema:authorBabelio106 a author: ;
-    schema:familyName "Laur du Fay" .
-
-schema:authorBabelio107 a author: ;
-    schema:familyName "J.-C. Mourlevat" .
-
-schema:authorBabelio108 a author: ;
-    schema:familyName "ill. par Anne-Lise Boutin" .
-
-schema:authorBabelio109 a author: ;
-    schema:familyName "Kino Toriko" .
-
-schema:authorBabelio11 a author: ;
-    schema:familyName "Norie Yamada" .
-
-schema:authorBabelio110 a author: ;
-    schema:familyName "Lucy Lost" .
-
-schema:authorBabelio111 a author: ;
-    schema:familyName "Edourad Manceau" .
-
-schema:authorBabelio112 a author: ;
-    schema:familyName "Anne-Catherine" .
-
-schema:authorBabelio113 a author: ;
-    schema:familyName "ill. par Peter Brown" .
-
-schema:authorBabelio114 a author: ;
-    schema:familyName "Michel Ouellette" .
-
-schema:authorBabelio115 a author: ;
-    schema:familyName "Léa Vervoot" .
-
-schema:authorBabelio116 a author: ;
-    schema:familyName "Bruno de la Salle" .
-
-schema:authorBabelio117 a author: ;
-    schema:familyName "Magali Laurent" .
-
-schema:authorBabelio118 a author: ;
-    schema:familyName "Hugh MacLennan" .
-
-schema:authorBabelio119 a author: ;
-    schema:familyName "Belpêchao" .
-
-schema:authorBabelio12 a author: ;
-    schema:familyName "Harold Sakuishi" .
-
-schema:authorBabelio120 a author: ;
-    schema:familyName "André Major" .
-
-schema:authorBabelio121 a author: ;
-    schema:familyName "Linda Baley" .
-
-schema:authorBabelio122 a author: ;
-    schema:familyName "P. Muñoz Ryan" .
-
-schema:authorBabelio123 a author: ;
-    schema:familyName "J.L. Le Craver" .
-
-schema:authorBabelio124 a author: ;
-    schema:familyName "Franck Andriat" .
-
-schema:authorBabelio125 a author: ;
-    schema:familyName "Anne-Mari Cadot-Colin" .
-
-schema:authorBabelio126 a author: ;
-    schema:familyName "M. Hoffman" .
-
-schema:authorBabelio127 a author: ;
-    schema:familyName "A. Grousset" .
-
-schema:authorBabelio128 a author: ;
-    schema:familyName "Dominique Payette" .
-
-schema:authorBabelio129 a author: ;
-    schema:familyName "Xavier Legrand-Ferronnière" .
-
-schema:authorBabelio13 a author: ;
-    schema:familyName "Ubi Umeda" .
-
-schema:authorBabelio130 a author: ;
-    schema:familyName "Xuan Le" .
-
-schema:authorBabelio131 a author: ;
-    schema:familyName "Françoise Loranger" .
-
-schema:authorBabelio132 a author: ;
-    schema:familyName "Christine Naumann-Villeumin" .
-
-schema:authorBabelio133 a author: ;
-    schema:familyName "Alice Munro" .
-
-schema:authorBabelio134 a author: ;
-    schema:familyName "A. L. Bondoux" .
-
-schema:authorBabelio135 a author: ;
-    schema:familyName "Erkol" .
-
-schema:authorBabelio136 a author: ;
-    schema:familyName "Farley Mowat" .
-
-schema:authorBabelio137 a author: ;
-    schema:familyName "C. Wilkinson" .
-
-schema:authorBabelio138 a author: ;
-    schema:familyName "Darrel J. McLeod" .
-
-schema:authorBabelio139 a author: ;
-    schema:familyName "Isabelle Picard" .
-
-schema:authorBabelio14 a author: ;
-    schema:familyName "Hino Matsuri" .
-
-schema:authorBabelio140 a author: ;
-    schema:familyName "David Foenkinos" .
-
-schema:authorBabelio141 a author: ;
-    schema:familyName "Julian Clary" .
-
-schema:authorBabelio142 a author: ;
-    schema:familyName "Hervé Juste" .
-
-schema:authorBabelio143 a author: ;
-    schema:familyName "Catherine Leroux" .
-
-schema:authorBabelio144 a author: ;
-    schema:familyName "Richard Beaulieu" .
-
-schema:authorBabelio145 a author: ;
-    schema:familyName "Garmann" .
-
-schema:authorBabelio146 a author: ;
-    schema:familyName "Martine Latulippe, Fil" .
-
-schema:authorBabelio147 a author: ;
-    schema:familyName "Thomas Blais-Leblanc" .
-
-schema:authorBabelio148 a author: ;
-    schema:familyName "Gérald Tougas" .
-
-schema:authorBabelio149 a author: ;
-    schema:familyName "Emma Lewis" .
-
-schema:authorBabelio15 a author: ;
-    schema:familyName "Monique Bosco" .
-
-schema:authorBabelio150 a author: ;
-    schema:familyName "Roger Caron" .
-
-schema:authorBabelio151 a author: ;
-    schema:familyName "Michaël Trahan" .
-
-schema:authorBabelio152 a author: ;
-    schema:familyName "F. Place" .
-
-schema:authorBabelio153 a author: ;
-    schema:familyName "T. de Fombelle" .
-
-schema:authorBabelio154 a author: ;
-    schema:familyName "Tad Carpentier" .
-
-schema:authorBabelio155 a author: ;
-    schema:familyName "Amandine Momenceau" .
-
-schema:authorBabelio156 a author: ;
-    schema:familyName "Claire Franck" .
-
-schema:authorBabelio157 a author: ;
-    schema:familyName "François Rioux" .
-
-schema:authorBabelio158 a author: ;
-    schema:familyName "Marian Oestreicher-Jourdain" .
-
-schema:authorBabelio159 a author: ;
-    schema:familyName "David Stahler Jr" .
-
-schema:authorBabelio16 a author: ;
-    schema:familyName "Simon Roy" .
-
-schema:authorBabelio160 a author: ;
-    schema:familyName "Vilborg Dagbarstdóttir" .
-
-schema:authorBabelio161 a author: ;
-    schema:familyName "C. Castellucci" .
-
-schema:authorBabelio162 a author: ;
-    schema:familyName "S. Varon" .
-
-schema:authorBabelio163 a author: ;
-    schema:familyName "Alain Bergeron" .
-
-schema:authorBabelio164 a author: ;
-    schema:familyName "Emily St. John Mandel" .
-
-schema:authorBabelio165 a author: ;
-    schema:familyName "S. Dowd" .
-
-schema:authorBabelio166 a author: ;
-    schema:familyName "V. Zenatti" .
-
-schema:authorBabelio167 a author: ;
-    schema:familyName "L. Christopher" .
-
-schema:authorBabelio168 a author: ;
-    schema:familyName "Guy Chaty" .
-
-schema:authorBabelio169 a author: ;
-    schema:familyName "H. Montardre" .
-
-schema:authorBabelio17 a author: ;
-    schema:familyName "Jordan Tannahill" .
-
-schema:authorBabelio170 a author: ;
-    schema:familyName "Christophe Bernard" .
-
-schema:authorBabelio171 a author: ;
-    schema:familyName "Hélène Monette" .
-
-schema:authorBabelio172 a author: ;
-    schema:familyName "Roman" .
-
-schema:authorBabelio173 a author: ;
-    schema:familyName "Thomas Gerbaux" .
-
-schema:authorBabelio174 a author: ;
-    schema:familyName "N.M. Zimmermann" .
-
-schema:authorBabelio175 a author: ;
-    schema:familyName "Qu Lan" .
-
-schema:authorBabelio176 a author: ;
-    schema:familyName "Philippe Nessman" .
-
-schema:authorBabelio177 a author: ;
-    schema:familyName "Anne Silvestre" .
-
-schema:authorBabelio178 a author: ;
-    schema:familyName "Saint Chamas" .
-
-schema:authorBabelio179 a author: ;
-    schema:familyName "Enfants du Burkina Faso" .
-
-schema:authorBabelio18 a author: ;
-    schema:familyName "Delphine Perre" .
-
-schema:authorBabelio180 a author: ;
-    schema:familyName "Sor Sisavang" .
-
-schema:authorBabelio181 a author: ;
-    schema:familyName "Irène de Pennart" .
-
-schema:authorBabelio182 a author: ;
-    schema:familyName "Père Mansour Labaky" .
-
-schema:authorBabelio183 a author: ;
-    schema:familyName "Hélène Montarde" .
-
-schema:authorBabelio184 a author: ;
-    schema:familyName "Simon Quitterie" .
-
-schema:authorBabelio185 a author: ;
-    schema:familyName "ill. par Perceval Barrier" .
-
-schema:authorBabelio186 a author: ;
-    schema:familyName "Feng Jicai" .
-
-schema:authorBabelio187 a author: ;
-    schema:familyName "Alric" .
-
-schema:authorBabelio188 a author: ;
-    schema:familyName "Rémy Salillard" .
-
-schema:authorBabelio189 a author: ;
-    schema:familyName "Brian Selznik" .
-
-schema:authorBabelio19 a author: ;
-    schema:familyName "C. Helft" .
-
-schema:authorBabelio190 a author: ;
-    schema:familyName "Chris Riddekk" .
-
-schema:authorBabelio191 a author: ;
-    schema:familyName "Elizabeth Atkinson" .
-
-schema:authorBabelio192 a author: ;
-    schema:familyName "Charles Keeping" .
-
-schema:authorBabelio193 a author: ;
-    schema:familyName "Pierre Déon" .
-
-schema:authorBabelio194 a author: ;
-    schema:familyName "D'après Andersen" .
-
-schema:authorBabelio195 a author: ;
-    schema:familyName "Sylvie Drapeau" .
-
-schema:authorBabelio196 a author: ;
-    schema:familyName "M. Carteron" .
-
-schema:authorBabelio197 a author: ;
-    schema:familyName "A. Cousseau" .
-
-schema:authorBabelio198 a author: ;
-    schema:familyName "P.-H. Turin" .
-
-schema:authorBabelio199 a author: ;
-    schema:familyName "Haydé" .
-
-schema:authorBabelio2 a author: ;
     schema:familyName "Taguchi Shuichi" .
 
-schema:authorBabelio20 a author: ;
-    schema:familyName "T.S. Easton" .
+schema:authorBabelio100 a author: ;
+    schema:familyName "Roo Borson" .
 
-schema:authorBabelio200 a author: ;
-    schema:familyName "Yvon Maufret" .
-
-schema:authorBabelio201 a author: ;
-    schema:familyName "Aurélien Galvan" .
-
-schema:authorBabelio202 a author: ;
-    schema:familyName "M. Willems" .
-
-schema:authorBabelio203 a author: ;
-    schema:familyName "E.S. Green" .
-
-schema:authorBabelio204 a author: ;
-    schema:familyName "Gabriel Nadeau-Dubois" .
-
-schema:authorBabelio205 a author: ;
-    schema:familyName "Hélène Breda" .
-
-schema:authorBabelio206 a author: ;
+schema:authorBabelio1000 a author: ;
     schema:familyName "J.J. Johnson" .
 
-schema:authorBabelio207 a author: ;
+schema:authorBabelio1001 a author: ;
+    schema:familyName "Jacqueline Roy" .
+
+schema:authorBabelio1002 a author: ;
+    schema:familyName "Mélanie Baillairgé" .
+
+schema:authorBabelio1003 a author: ;
+    schema:familyName "Paul Tom" .
+
+schema:authorBabelio1004 a author: ;
+    schema:familyName "Eduard Blanch" .
+
+schema:authorBabelio1005 a author: ;
+    schema:familyName "Emilia Lang" .
+
+schema:authorBabelio1006 a author: ;
+    schema:familyName "Anne-Marie Théroux" .
+
+schema:authorBabelio1007 a author: ;
     schema:familyName "B.Hatke" .
 
-schema:authorBabelio208 a author: ;
+schema:authorBabelio1008 a author: ;
+    schema:familyName "Patrice Cazeault" .
+
+schema:authorBabelio1009 a author: ;
+    schema:familyName "John Pass" .
+
+schema:authorBabelio101 a author: ;
+    schema:familyName "George F. Walker" .
+
+schema:authorBabelio1010 a author: ;
+    schema:familyName "Jan Zwicky" .
+
+schema:authorBabelio1011 a author: ;
     schema:familyName "Bérangère Delaporte" .
 
-schema:authorBabelio209 a author: ;
+schema:authorBabelio1012 a author: ;
+    schema:familyName "Patrice Michaud" .
+
+schema:authorBabelio1013 a author: ;
+    schema:familyName "Andrée Laberge" .
+
+schema:authorBabelio1014 a author: ;
+    schema:familyName "Mavis Gallant" .
+
+schema:authorBabelio1015 a author: ;
+    schema:familyName "John Glassco" .
+
+schema:authorBabelio1016 a author: ;
     schema:familyName "Cendra Vernaz" .
 
-schema:authorBabelio21 a author: ;
-    schema:familyName "Myriam Vincent" .
+schema:authorBabelio1017 a author: ;
+    schema:familyName "P.K. Page" .
 
-schema:authorBabelio210 a author: ;
+schema:authorBabelio1018 a author: ;
+    schema:familyName "Félix Maltais" .
+
+schema:authorBabelio1019 a author: ;
     schema:familyName "Colleen Wagner" .
 
-schema:authorBabelio211 a author: ;
-    schema:familyName "Lorrie Jean-Louis" .
-
-schema:authorBabelio212 a author: ;
-    schema:familyName "Carrère" .
-
-schema:authorBabelio213 a author: ;
-    schema:familyName "Léturgie" .
-
-schema:authorBabelio214 a author: ;
-    schema:familyName "Stéphanie Ruini" .
-
-schema:authorBabelio215 a author: ;
-    schema:familyName "Empire Interactive" .
-
-schema:authorBabelio216 a author: ;
-    schema:familyName "Chantal Saint-Jarre" .
-
-schema:authorBabelio217 a author: ;
-    schema:familyName "Silvana" .
-
-schema:authorBabelio218 a author: ;
-    schema:familyName "Louis-Pier Sicard" .
-
-schema:authorBabelio219 a author: ;
-    schema:familyName "Jolan Bertrand" .
-
-schema:authorBabelio22 a author: ;
-    schema:familyName "Dai Sijie" .
-
-schema:authorBabelio220 a author: ;
-    schema:familyName "R. Lacroix, A. Laliberté" .
-
-schema:authorBabelio221 a author: ;
-    schema:familyName "R. Morin" .
-
-schema:authorBabelio222 a author: ;
-    schema:familyName "Marie Desplechin Neuf" .
-
-schema:authorBabelio223 a author: ;
-    schema:familyName "Alex Viens" .
-
-schema:authorBabelio224 a author: ;
-    schema:familyName "Charline Forns" .
-
-schema:authorBabelio225 a author: ;
-    schema:familyName "Julie Bonnie" .
-
-schema:authorBabelio226 a author: ;
-    schema:familyName "Philippe Gautier" .
-
-schema:authorBabelio227 a author: ;
-    schema:familyName "Albatros de Fabrice Melquiot" .
-
-schema:authorBabelio228 a author: ;
-    schema:familyName "de Paul Beorn" .
-
-schema:authorBabelio229 a author: ;
-    schema:familyName "Laurent Guichard" .
-
-schema:authorBabelio23 a author: ;
-    schema:familyName "Chantal Groléziat" .
-
-schema:authorBabelio230 a author: ;
-    schema:familyName "J. Gourounas" .
-
-schema:authorBabelio231 a author: ;
-    schema:familyName "Daniel Lacotte" .
-
-schema:authorBabelio232 a author: ;
-    schema:familyName "Inès de Chanterac" .
-
-schema:authorBabelio233 a author: ;
-    schema:familyName "André Schetritt" .
-
-schema:authorBabelio234 a author: ;
-    schema:familyName "Claude Bolduc" .
-
-schema:authorBabelio235 a author: ;
-    schema:familyName "C. Dutertre" .
-
-schema:authorBabelio236 a author: ;
-    schema:familyName "V. Cuvellier" .
-
-schema:authorBabelio237 a author: ;
-    schema:familyName "Sandrine Pernush" .
-
-schema:authorBabelio238 a author: ;
-    schema:familyName "Gaëlle Aymon" .
-
-schema:authorBabelio239 a author: ;
-    schema:familyName "V. Leroy" .
-
-schema:authorBabelio24 a author: ;
-    schema:familyName "F. Mauve" .
-
-schema:authorBabelio240 a author: ;
-    schema:familyName "C.Ribeiro" .
-
-schema:authorBabelio241 a author: ;
-    schema:familyName "J. Molla" .
-
-schema:authorBabelio242 a author: ;
-    schema:familyName "Wang Fei" .
-
-schema:authorBabelio243 a author: ;
-    schema:familyName "Emmanuelle" .
-
-schema:authorBabelio244 a author: ;
-    schema:familyName "Mikaël Olliver" .
-
-schema:authorBabelio245 a author: ;
-    schema:familyName "The Fan Brothers" .
-
-schema:authorBabelio246 a author: ;
-    schema:familyName "E. Veillée" .
-
-schema:authorBabelio247 a author: ;
-    schema:familyName "P. Martin" .
-
-schema:authorBabelio248 a author: ;
-    schema:familyName "Bailly Pierre" .
-
-schema:authorBabelio249 a author: ;
-    schema:familyName "Fraipont Céline" .
-
-schema:authorBabelio25 a author: ;
-    schema:familyName "M. Leydier" .
-
-schema:authorBabelio250 a author: ;
-    schema:familyName "Morgane de Cadier" .
-
-schema:authorBabelio251 a author: ;
-    schema:familyName "T. Robberecht" .
-
-schema:authorBabelio252 a author: ;
-    schema:familyName "Mary Downing" .
-
-schema:authorBabelio253 a author: ;
-    schema:familyName "F. Hinckel" .
-
-schema:authorBabelio254 a author: ;
-    schema:familyName "Isabeé" .
-
-schema:authorBabelio255 a author: ;
-    schema:familyName "amrc Cantin" .
-
-schema:authorBabelio256 a author: ;
-    schema:familyName "Oliver Péru" .
-
-schema:authorBabelio257 a author: ;
-    schema:familyName "Patrick Mc Spare" .
-
-schema:authorBabelio258 a author: ;
-    schema:familyName "Christine Naumman-Villemin" .
-
-schema:authorBabelio259 a author: ;
-    schema:familyName "A. Marois" .
-
-schema:authorBabelio26 a author: ;
+schema:authorBabelio102 a author: ;
     schema:familyName "Joanne K. Rowling" .
 
-schema:authorBabelio260 a author: ;
-    schema:familyName "P. Doyon" .
+schema:authorBabelio1020 a author: ;
+    schema:familyName "Guilherme Karsten" .
 
-schema:authorBabelio261 a author: ;
-    schema:familyName "Jean-Baptiste Stream" .
+schema:authorBabelio1021 a author: ;
+    schema:familyName "Lorrie Jean-Louis" .
 
-schema:authorBabelio262 a author: ;
-    schema:familyName "E. Brisou-Pellen" .
+schema:authorBabelio1022 a author: ;
+    schema:familyName "Hannah Moscovitch" .
 
-schema:authorBabelio263 a author: ;
-    schema:familyName "Tania Langlais" .
+schema:authorBabelio1023 a author: ;
+    schema:familyName "Annie Carbonneau" .
 
-schema:authorBabelio264 a author: ;
-    schema:familyName "Madeleine Thien" .
+schema:authorBabelio1024 a author: ;
+    schema:familyName "Amanda Mijangos" .
 
-schema:authorBabelio265 a author: ;
-    schema:familyName "Erix Simard" .
+schema:authorBabelio1025 a author: ;
+    schema:familyName "Grimaldi" .
 
-schema:authorBabelio266 a author: ;
-    schema:familyName "P. Abrahams" .
+schema:authorBabelio1026 a author: ;
+    schema:familyName "Carrère" .
 
-schema:authorBabelio267 a author: ;
-    schema:familyName "Henriette Brandford" .
+schema:authorBabelio1027 a author: ;
+    schema:familyName "Léturgie" .
 
-schema:authorBabelio268 a author: ;
-    schema:familyName "R. Dautremer" .
+schema:authorBabelio1028 a author: ;
+    schema:familyName "Diane Schoemperlen" .
 
-schema:authorBabelio269 a author: ;
-    schema:familyName "Hamel Goulven" .
+schema:authorBabelio1029 a author: ;
+    schema:familyName "Wendy Phillips" .
 
-schema:authorBabelio27 a author: ;
+schema:authorBabelio103 a author: ;
+    schema:familyName "Renée Grégoire" .
+
+schema:authorBabelio1030 a author: ;
+    schema:familyName "Laurel" .
+
+schema:authorBabelio1031 a author: ;
+    schema:familyName "John Newlove" .
+
+schema:authorBabelio1032 a author: ;
+    schema:familyName "Stéphanie Ruini" .
+
+schema:authorBabelio1033 a author: ;
+    schema:familyName "Rosemary Sullivan" .
+
+schema:authorBabelio1034 a author: ;
+    schema:familyName "Sheila Fischman" .
+
+schema:authorBabelio1035 a author: ;
+    schema:familyName "Alejandro Magallanes" .
+
+schema:authorBabelio1036 a author: ;
+    schema:familyName "Elio Pecora" .
+
+schema:authorBabelio1037 a author: ;
+    schema:familyName "Charles Simic" .
+
+schema:authorBabelio1038 a author: ;
+    schema:familyName "Wiebke Oeser" .
+
+schema:authorBabelio1039 a author: ;
+    schema:familyName "Ralph Steadman" .
+
+schema:authorBabelio104 a author: ;
+    schema:familyName "Suzanne Jacob" .
+
+schema:authorBabelio1040 a author: ;
+    schema:familyName "Annemie Van Riel" .
+
+schema:authorBabelio1041 a author: ;
+    schema:familyName "Jan Van Coillie" .
+
+schema:authorBabelio1042 a author: ;
+    schema:familyName "Hans-Joachim Gelberg" .
+
+schema:authorBabelio1043 a author: ;
+    schema:familyName "Michiaki Mochizuki" .
+
+schema:authorBabelio1044 a author: ;
+    schema:familyName "Marianne Maury" .
+
+schema:authorBabelio1045 a author: ;
+    schema:familyName "Henry Sorensen" .
+
+schema:authorBabelio1046 a author: ;
+    schema:familyName "Rainer Baginski" .
+
+schema:authorBabelio1047 a author: ;
+    schema:familyName "Marjatta Levanto" .
+
+schema:authorBabelio1048 a author: ;
+    schema:familyName "Paola Antonelli" .
+
+schema:authorBabelio1049 a author: ;
+    schema:familyName "Drauzio Varella" .
+
+schema:authorBabelio105 a author: ;
+    schema:familyName "Christiane Teasdale" .
+
+schema:authorBabelio1050 a author: ;
+    schema:familyName "Maria Eugênia" .
+
+schema:authorBabelio1051 a author: ;
+    schema:familyName "Softmachine B.V." .
+
+schema:authorBabelio1052 a author: ;
+    schema:familyName "Emme" .
+
+schema:authorBabelio1053 a author: ;
+    schema:familyName "Lexis" .
+
+schema:authorBabelio1054 a author: ;
+    schema:familyName "Lego Media International" .
+
+schema:authorBabelio1055 a author: ;
+    schema:familyName "Montparnasse Multimédia" .
+
+schema:authorBabelio1056 a author: ;
+    schema:familyName "Sunburst Technology" .
+
+schema:authorBabelio1057 a author: ;
+    schema:familyName "Empire Interactive" .
+
+schema:authorBabelio1058 a author: ;
+    schema:familyName "Wen Dee Tan" .
+
+schema:authorBabelio1059 a author: ;
+    schema:familyName "Morgan Nyberg" .
+
+schema:authorBabelio106 a author: ;
+    schema:familyName "Jean-Paul Daoust" .
+
+schema:authorBabelio1060 a author: ;
+    schema:familyName "Jacob Scheier" .
+
+schema:authorBabelio1061 a author: ;
+    schema:familyName "Eli Baxter" .
+
+schema:authorBabelio1062 a author: ;
+    schema:familyName "Chantal Saint-Jarre" .
+
+schema:authorBabelio1063 a author: ;
+    schema:familyName "Silvana" .
+
+schema:authorBabelio1064 a author: ;
+    schema:familyName "Christine Battuz" .
+
+schema:authorBabelio1065 a author: ;
+    schema:familyName "F.R. Scott" .
+
+schema:authorBabelio1066 a author: ;
+    schema:familyName "Louis-Pier Sicard" .
+
+schema:authorBabelio1067 a author: ;
+    schema:familyName "Paule Pierre-Noyart" .
+
+schema:authorBabelio1068 a author: ;
+    schema:familyName "Edith L. Sharp" .
+
+schema:authorBabelio1069 a author: ;
+    schema:familyName "Jolan Bertrand" .
+
+schema:authorBabelio107 a author: ;
+    schema:familyName "A.-L. Bondoux" .
+
+schema:authorBabelio1070 a author: ;
+    schema:familyName "Cécile Cloutier" .
+
+schema:authorBabelio1071 a author: ;
+    schema:familyName "R. Marazanno" .
+
+schema:authorBabelio1072 a author: ;
+    schema:familyName "X. Shang" .
+
+schema:authorBabelio1073 a author: ;
+    schema:familyName "Sandra Gwyn" .
+
+schema:authorBabelio1074 a author: ;
+    schema:familyName "Pierre Rig Rodrigue" .
+
+schema:authorBabelio1075 a author: ;
+    schema:familyName "R. Lacroix, A. Laliberté" .
+
+schema:authorBabelio1076 a author: ;
+    schema:familyName "R. Morin" .
+
+schema:authorBabelio1077 a author: ;
+    schema:familyName "Anne-Marie Voisard" .
+
+schema:authorBabelio1078 a author: ;
+    schema:familyName "Pat Perna" .
+
+schema:authorBabelio1079 a author: ;
+    schema:familyName "Eiko Kadono" .
+
+schema:authorBabelio108 a author: ;
+    schema:familyName "Michelle Lemieux" .
+
+schema:authorBabelio1080 a author: ;
+    schema:familyName "Marie Desplechin Neuf" .
+
+schema:authorBabelio1081 a author: ;
+    schema:familyName "Alex Viens" .
+
+schema:authorBabelio1082 a author: ;
+    schema:familyName "R.S. Lambert" .
+
+schema:authorBabelio1083 a author: ;
+    schema:familyName "Michael Healey" .
+
+schema:authorBabelio1084 a author: ;
+    schema:familyName "René-Daniel Dubois" .
+
+schema:authorBabelio1085 a author: ;
+    schema:familyName "Dorothy Dittrich" .
+
+schema:authorBabelio1086 a author: ;
+    schema:familyName "Raziel Reid" .
+
+schema:authorBabelio1087 a author: ;
+    schema:familyName "Guy Vanderhaeghe" .
+
+schema:authorBabelio1088 a author: ;
+    schema:familyName "El nen perdut de Tàssies" .
+
+schema:authorBabelio1089 a author: ;
+    schema:familyName "Irma Bastida Herrera" .
+
+schema:authorBabelio109 a author: ;
     schema:familyName "Fabien Cloutier" .
 
-schema:authorBabelio270 a author: ;
-    schema:familyName "Laurence Schaak" .
+schema:authorBabelio1090 a author: ;
+    schema:familyName "Marta Atlès" .
 
-schema:authorBabelio271 a author: ;
-    schema:familyName "A.-M. Desplat-Duc" .
+schema:authorBabelio1091 a author: ;
+    schema:familyName "Charline Forns" .
 
-schema:authorBabelio272 a author: ;
-    schema:familyName "Mikaël Engtröm" .
+schema:authorBabelio1092 a author: ;
+    schema:familyName "Julie Bonnie" .
 
-schema:authorBabelio273 a author: ;
-    schema:familyName "Ruth Kraus" .
+schema:authorBabelio1093 a author: ;
+    schema:familyName "Nicolas F. Vargas" .
 
-schema:authorBabelio274 a author: ;
-    schema:familyName "J. Riel" .
+schema:authorBabelio1094 a author: ;
+    schema:familyName "Céline Delbecq" .
 
-schema:authorBabelio28 a author: ;
-    schema:familyName "Margot Bruyère" .
+schema:authorBabelio1095 a author: ;
+    schema:familyName "Philippe Gautier" .
 
-schema:authorBabelio29 a author: ;
-    schema:familyName "Sébastien Gagnon" .
+schema:authorBabelio1096 a author: ;
+    schema:familyName "Frédéric Sonntag" .
 
-schema:authorBabelio3 a author: ;
+schema:authorBabelio1097 a author: ;
+    schema:familyName "Albatros de Fabrice Melquiot" .
+
+schema:authorBabelio1098 a author: ;
+    schema:familyName "Jalie Barcilon" .
+
+schema:authorBabelio1099 a author: ;
+    schema:familyName "Catherine Zarcade" .
+
+schema:authorBabelio11 a author: ;
     schema:familyName "Nakatani Nio" .
 
-schema:authorBabelio30 a author: ;
-    schema:familyName "Margaret MacMillan" .
+schema:authorBabelio110 a author: ;
+    schema:familyName "Michel Savard" .
 
-schema:authorBabelio31 a author: ;
-    schema:familyName "Joshua Khan" .
+schema:authorBabelio1100 a author: ;
+    schema:familyName "de Paul Beorn" .
 
-schema:authorBabelio32 a author: ;
-    schema:familyName "Alain Gagno" .
+schema:authorBabelio1101 a author: ;
+    schema:familyName "Zidrou de Frédéric Rébéna" .
 
-schema:authorBabelio33 a author: ;
-    schema:familyName "Jean Cômes Noguès" .
+schema:authorBabelio1102 a author: ;
+    schema:familyName "Pierre Botero" .
 
-schema:authorBabelio34 a author: ;
-    schema:familyName "Anne Jonaz" .
+schema:authorBabelio1103 a author: ;
+    schema:familyName "Laurent Guichard" .
 
-schema:authorBabelio35 a author: ;
-    schema:familyName "Marc Voltenauer" .
+schema:authorBabelio1104 a author: ;
+    schema:familyName "Isabelle Fournié" .
 
-schema:authorBabelio36 a author: ;
-    schema:familyName "Matthieu Radenac" .
+schema:authorBabelio1105 a author: ;
+    schema:familyName "J. Gourounas" .
 
-schema:authorBabelio37 a author: ;
-    schema:familyName "Dana Wulfekotte" .
+schema:authorBabelio1106 a author: ;
+    schema:familyName "Sylvie Tessier" .
 
-schema:authorBabelio38 a author: ;
-    schema:familyName "Emilie Angebault" .
+schema:authorBabelio1107 a author: ;
+    schema:familyName "Jean-Louis Grosmaire" .
 
-schema:authorBabelio39 a author: ;
-    schema:familyName "Mélanie Edwards" .
+schema:authorBabelio1108 a author: ;
+    schema:familyName "Marie-Ève Lacasse" .
 
-schema:authorBabelio4 a author: ;
+schema:authorBabelio1109 a author: ;
+    schema:familyName "Pierre Laroche" .
+
+schema:authorBabelio111 a author: ;
+    schema:familyName "Philippe Arseneau-Bussière" .
+
+schema:authorBabelio1110 a author: ;
+    schema:familyName "Cathy Ko" .
+
+schema:authorBabelio1111 a author: ;
+    schema:familyName "Geneviève Genicot" .
+
+schema:authorBabelio1112 a author: ;
+    schema:familyName "Daniel Lacotte" .
+
+schema:authorBabelio1113 a author: ;
+    schema:familyName "Inès de Chanterac" .
+
+schema:authorBabelio1114 a author: ;
+    schema:familyName "Paul Vincentsini" .
+
+schema:authorBabelio1115 a author: ;
+    schema:familyName "André Schetritt" .
+
+schema:authorBabelio1116 a author: ;
+    schema:familyName "Colienne Vancraen" .
+
+schema:authorBabelio1117 a author: ;
+    schema:familyName "Régis Louchaert" .
+
+schema:authorBabelio1118 a author: ;
+    schema:familyName "Gabriel Robichaud" .
+
+schema:authorBabelio1119 a author: ;
+    schema:familyName "Pierre-Luc Bélanger" .
+
+schema:authorBabelio112 a author: ;
+    schema:familyName "Roger Fournier" .
+
+schema:authorBabelio1120 a author: ;
+    schema:familyName "Jean-Baptiste Renaud" .
+
+schema:authorBabelio1121 a author: ;
+    schema:familyName "Manon Corriveau Côté" .
+
+schema:authorBabelio1122 a author: ;
+    schema:familyName "Om’aLoïse Lavallée" .
+
+schema:authorBabelio1123 a author: ;
+    schema:familyName "Claude Bolduc" .
+
+schema:authorBabelio1124 a author: ;
+    schema:familyName "Anne Prud’homme" .
+
+schema:authorBabelio1125 a author: ;
+    schema:familyName "Mary-Christine Thouin" .
+
+schema:authorBabelio1126 a author: ;
+    schema:familyName "Céline Forcier" .
+
+schema:authorBabelio1127 a author: ;
+    schema:familyName "Claudine Bertrand-Paradis" .
+
+schema:authorBabelio1128 a author: ;
+    schema:familyName "C. Dutertre" .
+
+schema:authorBabelio1129 a author: ;
+    schema:familyName "V. Cuvellier" .
+
+schema:authorBabelio113 a author: ;
+    schema:familyName "Israel Barron" .
+
+schema:authorBabelio1130 a author: ;
+    schema:familyName "Jean-Claude Pertuze" .
+
+schema:authorBabelio1131 a author: ;
+    schema:familyName "Sandrine Pernush" .
+
+schema:authorBabelio1132 a author: ;
+    schema:familyName "Gaëlle Aymon" .
+
+schema:authorBabelio1133 a author: ;
+    schema:familyName "V. Leroy" .
+
+schema:authorBabelio1134 a author: ;
+    schema:familyName "C.Ribeiro" .
+
+schema:authorBabelio1135 a author: ;
+    schema:familyName "J. Molla" .
+
+schema:authorBabelio1136 a author: ;
+    schema:familyName "G. Leipold" .
+
+schema:authorBabelio1137 a author: ;
+    schema:familyName "Wang Fei" .
+
+schema:authorBabelio1138 a author: ;
+    schema:familyName "Emmanuelle" .
+
+schema:authorBabelio1139 a author: ;
+    schema:familyName "Kim Jae-hong" .
+
+schema:authorBabelio114 a author: ;
+    schema:familyName "Sara Danièle Michaud" .
+
+schema:authorBabelio1140 a author: ;
+    schema:familyName "Kim Jin-kyeong" .
+
+schema:authorBabelio1141 a author: ;
+    schema:familyName "Mikaël Olliver" .
+
+schema:authorBabelio1142 a author: ;
+    schema:familyName "Jean-Claude Nozière" .
+
+schema:authorBabelio1143 a author: ;
+    schema:familyName "Bom" .
+
+schema:authorBabelio1144 a author: ;
+    schema:familyName "E. Veillée" .
+
+schema:authorBabelio1145 a author: ;
+    schema:familyName "P. Martin" .
+
+schema:authorBabelio1146 a author: ;
+    schema:familyName "Bailly Pierre" .
+
+schema:authorBabelio1147 a author: ;
+    schema:familyName "Fraipont Céline" .
+
+schema:authorBabelio1148 a author: ;
+    schema:familyName "Carine Rozenfeld" .
+
+schema:authorBabelio1149 a author: ;
+    schema:familyName "Morgane de Cadier" .
+
+schema:authorBabelio115 a author: ;
+    schema:familyName "Niti Marcelle Mueth" .
+
+schema:authorBabelio1150 a author: ;
+    schema:familyName "T. Robberecht" .
+
+schema:authorBabelio1151 a author: ;
+    schema:familyName "Mary Downing" .
+
+schema:authorBabelio1152 a author: ;
+    schema:familyName "F. Hinckel" .
+
+schema:authorBabelio1153 a author: ;
+    schema:familyName "Isabeé" .
+
+schema:authorBabelio1154 a author: ;
+    schema:familyName "amrc Cantin" .
+
+schema:authorBabelio1155 a author: ;
+    schema:familyName "B. Alire Saenz" .
+
+schema:authorBabelio1156 a author: ;
+    schema:familyName "Marianne Alexandre" .
+
+schema:authorBabelio1157 a author: ;
+    schema:familyName "Moira Young trad. de Laetitia Devaux" .
+
+schema:authorBabelio1158 a author: ;
+    schema:familyName "F. Roberton" .
+
+schema:authorBabelio1159 a author: ;
+    schema:familyName "Oliver Péru" .
+
+schema:authorBabelio116 a author: ;
+    schema:familyName "Sarahmée Ouellet" .
+
+schema:authorBabelio1160 a author: ;
+    schema:familyName "Patrick Mc Spare" .
+
+schema:authorBabelio1161 a author: ;
+    schema:familyName "Christine Naumman-Villemin" .
+
+schema:authorBabelio1162 a author: ;
+    schema:familyName "A. Marois" .
+
+schema:authorBabelio1163 a author: ;
+    schema:familyName "P. Doyon" .
+
+schema:authorBabelio1164 a author: ;
+    schema:familyName "M. McKenna" .
+
+schema:authorBabelio1165 a author: ;
+    schema:familyName "Richard B. Wright" .
+
+schema:authorBabelio1166 a author: ;
+    schema:familyName "Jean-Baptiste Stream" .
+
+schema:authorBabelio1167 a author: ;
+    schema:familyName "Sophie Marcotte" .
+
+schema:authorBabelio1168 a author: ;
+    schema:familyName "E. Brisou-Pellen" .
+
+schema:authorBabelio1169 a author: ;
+    schema:familyName "Northrop Frye" .
+
+schema:authorBabelio117 a author: ;
+    schema:familyName "Miriam Toews" .
+
+schema:authorBabelio1170 a author: ;
+    schema:familyName "Tania Langlais" .
+
+schema:authorBabelio1171 a author: ;
+    schema:familyName "Sheila Heti" .
+
+schema:authorBabelio1172 a author: ;
+    schema:familyName "Michel Lavoie" .
+
+schema:authorBabelio1173 a author: ;
+    schema:familyName "J. Wauters" .
+
+schema:authorBabelio1174 a author: ;
+    schema:familyName "K.-M. Amiot" .
+
+schema:authorBabelio1175 a author: ;
+    schema:familyName "Brigitte Chabert Hacikyan" .
+
+schema:authorBabelio1176 a author: ;
+    schema:familyName "Jean-Paul Sainte-Marie" .
+
+schema:authorBabelio1177 a author: ;
+    schema:familyName "Louise Martel" .
+
+schema:authorBabelio1178 a author: ;
+    schema:familyName "Madeleine Thien" .
+
+schema:authorBabelio1179 a author: ;
+    schema:familyName "Jean-Guy Pilon" .
+
+schema:authorBabelio118 a author: ;
+    schema:familyName "Amanda Parris" .
+
+schema:authorBabelio1180 a author: ;
+    schema:familyName "John Gray" .
+
+schema:authorBabelio1181 a author: ;
+    schema:familyName "Reynald Cantin" .
+
+schema:authorBabelio1182 a author: ;
+    schema:familyName "Ofra Amit" .
+
+schema:authorBabelio1183 a author: ;
+    schema:familyName "Jen Ferguson" .
+
+schema:authorBabelio1184 a author: ;
+    schema:familyName "Erix Simard" .
+
+schema:authorBabelio1185 a author: ;
+    schema:familyName "P. Abrahams" .
+
+schema:authorBabelio1186 a author: ;
+    schema:familyName "Gilles Hénault" .
+
+schema:authorBabelio1187 a author: ;
+    schema:familyName "Tolu Oloruntoba" .
+
+schema:authorBabelio1188 a author: ;
+    schema:familyName "Henriette Brandford" .
+
+schema:authorBabelio1189 a author: ;
+    schema:familyName "R. Dautremer" .
+
+schema:authorBabelio119 a author: ;
+    schema:familyName "Evelyne Laube" .
+
+schema:authorBabelio1190 a author: ;
+    schema:familyName "Hamel Goulven" .
+
+schema:authorBabelio1191 a author: ;
+    schema:familyName "Laurence Schaak" .
+
+schema:authorBabelio1192 a author: ;
+    schema:familyName "Joan" .
+
+schema:authorBabelio1193 a author: ;
+    schema:familyName "P'tiluc" .
+
+schema:authorBabelio1194 a author: ;
+    schema:familyName "Phiippe Germain" .
+
+schema:authorBabelio1195 a author: ;
+    schema:familyName "Marcel Trudel" .
+
+schema:authorBabelio1196 a author: ;
+    schema:familyName "Maryse Pagé" .
+
+schema:authorBabelio1197 a author: ;
+    schema:familyName "Jirina Marton" .
+
+schema:authorBabelio1198 a author: ;
+    schema:familyName "Karolyn Smardz Frost" .
+
+schema:authorBabelio1199 a author: ;
+    schema:familyName "Élizabeth Lepage-Boily" .
+
+schema:authorBabelio12 a author: ;
     schema:familyName "Gondaira Hitsuji" .
 
-schema:authorBabelio40 a author: ;
-    schema:familyName "Célina Guiné" .
+schema:authorBabelio120 a author: ;
+    schema:familyName "Jean Lacombe" .
 
-schema:authorBabelio41 a author: ;
-    schema:familyName "Sève Laurent-Fajal" .
+schema:authorBabelio1200 a author: ;
+    schema:familyName "Jean-Paul Pinsonneault" .
 
-schema:authorBabelio42 a author: ;
-    schema:familyName "Véronique Olivier-Barberon" .
+schema:authorBabelio1201 a author: ;
+    schema:familyName "Gilbert Dupuis" .
 
-schema:authorBabelio43 a author: ;
-    schema:familyName "Svjetlan Junaković" .
+schema:authorBabelio1202 a author: ;
+    schema:familyName "Agnès Rosenthiel" .
 
-schema:authorBabelio44 a author: ;
-    schema:familyName "Illya Green" .
+schema:authorBabelio1203 a author: ;
+    schema:familyName "K. Yumoto" .
 
-schema:authorBabelio45 a author: ;
-    schema:familyName "Dorothy-Shoes" .
+schema:authorBabelio1204 a author: ;
+    schema:familyName "A.-M. Desplat-Duc" .
 
-schema:authorBabelio46 a author: ;
-    schema:familyName "Anna-Clara Tidholm" .
+schema:authorBabelio1205 a author: ;
+    schema:familyName "Isabel Brochu" .
 
-schema:authorBabelio47 a author: ;
-    schema:familyName "Tatiana de Rosnay" .
+schema:authorBabelio1206 a author: ;
+    schema:familyName "Danièle Desrosiers" .
 
-schema:authorBabelio48 a author: ;
-    schema:familyName "Rémi Hatzfeld" .
+schema:authorBabelio1207 a author: ;
+    schema:familyName "Maki Arai" .
 
-schema:authorBabelio49 a author: ;
-    schema:familyName "Philippe Blondel" .
+schema:authorBabelio1208 a author: ;
+    schema:familyName "Mikaël Engtröm" .
 
-schema:authorBabelio5 a author: ;
+schema:authorBabelio1209 a author: ;
+    schema:familyName "Ruth Kraus" .
+
+schema:authorBabelio121 a author: ;
+    schema:familyName "Cao Wenxuan" .
+
+schema:authorBabelio1210 a author: ;
+    schema:familyName "Michael Harris" .
+
+schema:authorBabelio1211 a author: ;
+    schema:familyName "Thomas Homer-Dixon" .
+
+schema:authorBabelio1212 a author: ;
+    schema:familyName "Ludwig Volbeda" .
+
+schema:authorBabelio1213 a author: ;
+    schema:familyName "J. Riel" .
+
+schema:authorBabelio1214 a author: ;
+    schema:familyName "Anne Compton" .
+
+schema:authorBabelio1215 a author: ;
+    schema:familyName "Anthony Adamson" .
+
+schema:authorBabelio1216 a author: ;
+    schema:familyName "Marion MacRae" .
+
+schema:authorBabelio1217 a author: ;
+    schema:familyName "Stephen Scobie" .
+
+schema:authorBabelio1218 a author: ;
+    schema:familyName "Jean Le Moyne" .
+
+schema:authorBabelio1219 a author: ;
+    schema:familyName "Norah Story" .
+
+schema:authorBabelio122 a author: ;
+    schema:familyName "Anja Klaus" .
+
+schema:authorBabelio1220 a author: ;
+    schema:familyName "Leon Rooke" .
+
+schema:authorBabelio1221 a author: ;
+    schema:familyName "Maude Smith Gagnon" .
+
+schema:authorBabelio123 a author: ;
+    schema:familyName "G. Herbert Sallans" .
+
+schema:authorBabelio124 a author: ;
+    schema:familyName "Michel van Schendel" .
+
+schema:authorBabelio125 a author: ;
+    schema:familyName "Margot Bruyère" .
+
+schema:authorBabelio126 a author: ;
+    schema:familyName "Samuel Parent" .
+
+schema:authorBabelio127 a author: ;
+    schema:familyName "Mirocomachiko" .
+
+schema:authorBabelio128 a author: ;
+    schema:familyName "Céline Deguire-Morris" .
+
+schema:authorBabelio129 a author: ;
+    schema:familyName "R. MacGregor Dawson" .
+
+schema:authorBabelio13 a author: ;
     schema:familyName "Nanao Itsuki" .
 
-schema:authorBabelio50 a author: ;
-    schema:familyName "Danielle Thiébaud" .
+schema:authorBabelio130 a author: ;
+    schema:familyName "Sébastien Gagnon" .
 
-schema:authorBabelio51 a author: ;
-    schema:familyName "Jeremy Strong" .
+schema:authorBabelio131 a author: ;
+    schema:familyName "Thomas H. Raddall" .
 
-schema:authorBabelio52 a author: ;
-    schema:familyName "Karen Laborie" .
+schema:authorBabelio132 a author: ;
+    schema:familyName "Sophie Rondeau" .
 
-schema:authorBabelio53 a author: ;
-    schema:familyName "Mireille D'Allancé" .
+schema:authorBabelio133 a author: ;
+    schema:familyName "Margaret MacMillan" .
 
-schema:authorBabelio54 a author: ;
-    schema:familyName "Jo Hoestland" .
+schema:authorBabelio134 a author: ;
+    schema:familyName "Anna Desnitskay" .
 
-schema:authorBabelio55 a author: ;
-    schema:familyName "C. Durual" .
+schema:authorBabelio135 a author: ;
+    schema:familyName "Muriel Kearney" .
 
-schema:authorBabelio56 a author: ;
-    schema:familyName "Karine Lambert" .
+schema:authorBabelio136 a author: ;
+    schema:familyName "Marc-André Pilon" .
 
-schema:authorBabelio57 a author: ;
-    schema:familyName "R.J. Ellory" .
+schema:authorBabelio137 a author: ;
+    schema:familyName "Frédéric Tremblay" .
 
-schema:authorBabelio58 a author: ;
-    schema:familyName "M. Perkins" .
+schema:authorBabelio138 a author: ;
+    schema:familyName "Hada López" .
 
-schema:authorBabelio59 a author: ;
-    schema:familyName "Yavière Devos" .
+schema:authorBabelio139 a author: ;
+    schema:familyName "Marie-Josée Soucy" .
 
-schema:authorBabelio6 a author: ;
+schema:authorBabelio14 a author: ;
     schema:familyName "Endo Tatsuya" .
 
-schema:authorBabelio60 a author: ;
-    schema:familyName "Odile Weurlesse" .
+schema:authorBabelio140 a author: ;
+    schema:familyName "Hélène Cossette" .
 
-schema:authorBabelio61 a author: ;
-    schema:familyName "Lise Noël" .
+schema:authorBabelio141 a author: ;
+    schema:familyName "Francine Caron" .
 
-schema:authorBabelio62 a author: ;
-    schema:familyName "H. Rufeldt" .
+schema:authorBabelio142 a author: ;
+    schema:familyName "Hélène Grégoire" .
 
-schema:authorBabelio63 a author: ;
-    schema:familyName "H. Vogt" .
+schema:authorBabelio143 a author: ;
+    schema:familyName "Richard Blaimert" .
 
-schema:authorBabelio64 a author: ;
-    schema:familyName "Jean-Paul Nozières" .
+schema:authorBabelio144 a author: ;
+    schema:familyName "Michel Grenier" .
 
-schema:authorBabelio65 a author: ;
-    schema:familyName "Alain Roy" .
+schema:authorBabelio145 a author: ;
+    schema:familyName "Teju Behan" .
 
-schema:authorBabelio66 a author: ;
-    schema:familyName "Valerio Evangelisti" .
+schema:authorBabelio146 a author: ;
+    schema:familyName "Joshua Khan" .
 
-schema:authorBabelio67 a author: ;
-    schema:familyName "ill. par Frédéric Pillot" .
+schema:authorBabelio147 a author: ;
+    schema:familyName "Alain Gagno" .
 
-schema:authorBabelio68 a author: ;
-    schema:familyName "Olivier Philiponneau" .
+schema:authorBabelio148 a author: ;
+    schema:familyName "Marcus de Malte" .
 
-schema:authorBabelio69 a author: ;
-    schema:familyName "Jacob Jobin" .
+schema:authorBabelio149 a author: ;
+    schema:familyName "Merlin" .
 
-schema:authorBabelio7 a author: ;
+schema:authorBabelio15 a author: ;
     schema:familyName "Kingyobachi Deme" .
 
-schema:authorBabelio70 a author: ;
-    schema:familyName "B. Smadja" .
+schema:authorBabelio150 a author: ;
+    schema:familyName "Jean Cômes Noguès" .
 
-schema:authorBabelio71 a author: ;
-    schema:familyName "Christian Lehmannn" .
+schema:authorBabelio151 a author: ;
+    schema:familyName "Anne Jonaz" .
 
-schema:authorBabelio72 a author: ;
-    schema:familyName "M. Perrin" .
+schema:authorBabelio152 a author: ;
+    schema:familyName "Marc Voltenauer" .
 
-schema:authorBabelio73 a author: ;
-    schema:familyName "Carole David" .
+schema:authorBabelio153 a author: ;
+    schema:familyName "Matthieu Radenac" .
 
-schema:authorBabelio74 a author: ;
-    schema:familyName "Alwett" .
+schema:authorBabelio154 a author: ;
+    schema:familyName "Christine Arbogast" .
 
-schema:authorBabelio75 a author: ;
-    schema:familyName "Arleston" .
+schema:authorBabelio155 a author: ;
+    schema:familyName "André Paul" .
 
-schema:authorBabelio76 a author: ;
-    schema:familyName "Zimra" .
+schema:authorBabelio156 a author: ;
+    schema:familyName "Michel Solliec" .
 
-schema:authorBabelio77 a author: ;
-    schema:familyName "Marshall McLuhan" .
+schema:authorBabelio157 a author: ;
+    schema:familyName "Marilou Robillard" .
 
-schema:authorBabelio78 a author: ;
-    schema:familyName "Roger Girard" .
+schema:authorBabelio158 a author: ;
+    schema:familyName "Dana Wulfekotte" .
 
-schema:authorBabelio79 a author: ;
-    schema:familyName "Ricardo Larrivée" .
+schema:authorBabelio159 a author: ;
+    schema:familyName "Emilie Angebault" .
 
-schema:authorBabelio8 a author: ;
+schema:authorBabelio16 a author: ;
     schema:familyName "Bingo Morihashi" .
 
-schema:authorBabelio80 a author: ;
-    schema:familyName "Karine Gottot & Maxim Cyr" .
+schema:authorBabelio160 a author: ;
+    schema:familyName "Mélanie Edwards" .
 
-schema:authorBabelio81 a author: ;
-    schema:familyName "François Paré" .
+schema:authorBabelio161 a author: ;
+    schema:familyName "Célina Guiné" .
 
-schema:authorBabelio82 a author: ;
-    schema:familyName "Robert Escarpit" .
+schema:authorBabelio162 a author: ;
+    schema:familyName "Sève Laurent-Fajal" .
 
-schema:authorBabelio83 a author: ;
-    schema:familyName "François-Marc Gagnon" .
+schema:authorBabelio163 a author: ;
+    schema:familyName "Véronique Olivier-Barberon" .
 
-schema:authorBabelio84 a author: ;
-    schema:familyName "Sam VanSteen" .
+schema:authorBabelio164 a author: ;
+    schema:familyName "Anne-Kathrin Behl" .
 
-schema:authorBabelio85 a author: ;
-    schema:familyName "illustré par Mikaël Ross" .
+schema:authorBabelio165 a author: ;
+    schema:familyName "Svjetlan Junaković" .
 
-schema:authorBabelio86 a author: ;
-    schema:familyName "Nicolas Jollivot" .
+schema:authorBabelio166 a author: ;
+    schema:familyName "Illya Green" .
 
-schema:authorBabelio87 a author: ;
-    schema:familyName "Gervais" .
+schema:authorBabelio167 a author: ;
+    schema:familyName "Dorothy-Shoes" .
 
-schema:authorBabelio88 a author: ;
-    schema:familyName "Pittau" .
+schema:authorBabelio168 a author: ;
+    schema:familyName "Isabelle Bonnet" .
 
-schema:authorBabelio89 a author: ;
-    schema:familyName "Samuel Champagne" .
+schema:authorBabelio169 a author: ;
+    schema:familyName "Anna-Clara Tidholm" .
 
-schema:authorBabelio9 a author: ;
+schema:authorBabelio17 a author: ;
+    schema:familyName "Kaiu Shirai" .
+
+schema:authorBabelio170 a author: ;
+    schema:familyName "Valérie Baranski" .
+
+schema:authorBabelio171 a author: ;
+    schema:familyName "Monike Czarnecki" .
+
+schema:authorBabelio172 a author: ;
+    schema:familyName "Tatiana de Rosnay" .
+
+schema:authorBabelio173 a author: ;
+    schema:familyName "Rémi Hatzfeld" .
+
+schema:authorBabelio174 a author: ;
+    schema:familyName "Philippe Blondel" .
+
+schema:authorBabelio175 a author: ;
+    schema:familyName "Danielle Thiébaud" .
+
+schema:authorBabelio176 a author: ;
+    schema:familyName "Ginette Hoffmann" .
+
+schema:authorBabelio177 a author: ;
+    schema:familyName "Murielle Ragoucy" .
+
+schema:authorBabelio178 a author: ;
+    schema:familyName "Jeremy Strong" .
+
+schema:authorBabelio179 a author: ;
+    schema:familyName "Karen Laborie" .
+
+schema:authorBabelio18 a author: ;
+    schema:familyName "Posuka Demizu" .
+
+schema:authorBabelio180 a author: ;
+    schema:familyName "Christa Unzer" .
+
+schema:authorBabelio181 a author: ;
+    schema:familyName "Annie Bonhomme" .
+
+schema:authorBabelio182 a author: ;
+    schema:familyName "Gilles Fresse" .
+
+schema:authorBabelio183 a author: ;
+    schema:familyName "Mireille D'Allancé" .
+
+schema:authorBabelio184 a author: ;
+    schema:familyName "Jo Hoestland" .
+
+schema:authorBabelio185 a author: ;
+    schema:familyName "Joëlle Boucher" .
+
+schema:authorBabelio186 a author: ;
+    schema:familyName "Maja Dusikova" .
+
+schema:authorBabelio187 a author: ;
+    schema:familyName "C. Durual" .
+
+schema:authorBabelio188 a author: ;
+    schema:familyName "Frédérick Wolfe" .
+
+schema:authorBabelio189 a author: ;
+    schema:familyName "Robert Finch" .
+
+schema:authorBabelio19 a author: ;
+    schema:familyName "Ryuhei Tamura" .
+
+schema:authorBabelio190 a author: ;
+    schema:familyName "Mark L. Winston" .
+
+schema:authorBabelio191 a author: ;
+    schema:familyName "Alice Munro" .
+
+schema:authorBabelio192 a author: ;
+    schema:familyName "R. Saillard" .
+
+schema:authorBabelio193 a author: ;
+    schema:familyName "É. Pintus" .
+
+schema:authorBabelio194 a author: ;
+    schema:familyName "Roy Miki" .
+
+schema:authorBabelio195 a author: ;
+    schema:familyName "Maisie Shearring" .
+
+schema:authorBabelio196 a author: ;
+    schema:familyName "Catherine Banks" .
+
+schema:authorBabelio197 a author: ;
+    schema:familyName "Matze Döbele" .
+
+schema:authorBabelio198 a author: ;
+    schema:familyName "Karine Lambert" .
+
+schema:authorBabelio199 a author: ;
+    schema:familyName "R.J. Ellory" .
+
+schema:authorBabelio2 a author: ;
+    schema:familyName "P. Bougeault" .
+
+schema:authorBabelio20 a author: ;
+    schema:familyName "Jiro Andro" .
+
+schema:authorBabelio200 a author: ;
+    schema:familyName "Joan MacLeod" .
+
+schema:authorBabelio201 a author: ;
+    schema:familyName "Danielle Fournier" .
+
+schema:authorBabelio202 a author: ;
+    schema:familyName "John F. Hayes" .
+
+schema:authorBabelio203 a author: ;
+    schema:familyName "Erin Bow" .
+
+schema:authorBabelio204 a author: ;
+    schema:familyName "Denis Monière" .
+
+schema:authorBabelio205 a author: ;
+    schema:familyName "Llanos Campos" .
+
+schema:authorBabelio206 a author: ;
+    schema:familyName "David Gilmour" .
+
+schema:authorBabelio207 a author: ;
+    schema:familyName "M. Perkins" .
+
+schema:authorBabelio208 a author: ;
+    schema:familyName "Nigel Spencer" .
+
+schema:authorBabelio209 a author: ;
+    schema:familyName "Lionel Shapiro" .
+
+schema:authorBabelio21 a author: ;
+    schema:familyName "Masaru Katori" .
+
+schema:authorBabelio210 a author: ;
+    schema:familyName "Julie Ober" .
+
+schema:authorBabelio211 a author: ;
+    schema:familyName "Pierre-Jaque Ober" .
+
+schema:authorBabelio212 a author: ;
+    schema:familyName "Bohumil Riha" .
+
+schema:authorBabelio213 a author: ;
+    schema:familyName "James Reaney" .
+
+schema:authorBabelio214 a author: ;
+    schema:familyName "K. Full" .
+
+schema:authorBabelio215 a author: ;
+    schema:familyName "Louise Maheux-Forcier" .
+
+schema:authorBabelio216 a author: ;
+    schema:familyName "Lucie Ledoux" .
+
+schema:authorBabelio217 a author: ;
+    schema:familyName "Matilde Beausoleil" .
+
+schema:authorBabelio218 a author: ;
+    schema:familyName "C. Schneider" .
+
+schema:authorBabelio219 a author: ;
+    schema:familyName "H. Pinel" .
+
+schema:authorBabelio22 a author: ;
+    schema:familyName "Jung-man Cho" .
+
+schema:authorBabelio220 a author: ;
+    schema:familyName "Marjorie Wilkins Campbell" .
+
+schema:authorBabelio221 a author: ;
+    schema:familyName "Don McKay" .
+
+schema:authorBabelio222 a author: ;
+    schema:familyName "Yavière Devos" .
+
+schema:authorBabelio223 a author: ;
+    schema:familyName "Odile Weurlesse" .
+
+schema:authorBabelio224 a author: ;
+    schema:familyName "Lise Noël" .
+
+schema:authorBabelio225 a author: ;
+    schema:familyName "Daniel Poliquin" .
+
+schema:authorBabelio226 a author: ;
+    schema:familyName "Soojung Myung" .
+
+schema:authorBabelio227 a author: ;
+    schema:familyName "Vanholme" .
+
+schema:authorBabelio228 a author: ;
+    schema:familyName "Diana Wieler" .
+
+schema:authorBabelio229 a author: ;
+    schema:familyName "Robin Muller" .
+
+schema:authorBabelio23 a author: ;
     schema:familyName "Jimpachi Miri" .
 
-schema:authorBabelio90 a author: ;
+schema:authorBabelio230 a author: ;
+    schema:familyName "Jehoszue Kamiński" .
+
+schema:authorBabelio231 a author: ;
+    schema:familyName "Jung Yumi" .
+
+schema:authorBabelio232 a author: ;
+    schema:familyName "Daria Rychkova" .
+
+schema:authorBabelio233 a author: ;
+    schema:familyName "Yulia Horst" .
+
+schema:authorBabelio234 a author: ;
+    schema:familyName "Vehlmann" .
+
+schema:authorBabelio235 a author: ;
+    schema:familyName "H. Rufeldt" .
+
+schema:authorBabelio236 a author: ;
+    schema:familyName "H. Vogt" .
+
+schema:authorBabelio237 a author: ;
+    schema:familyName "Jean-Paul Nozières" .
+
+schema:authorBabelio238 a author: ;
+    schema:familyName "Alain Roy" .
+
+schema:authorBabelio239 a author: ;
+    schema:familyName "Charles Foran" .
+
+schema:authorBabelio24 a author: ;
+    schema:familyName "Kouga Yun" .
+
+schema:authorBabelio240 a author: ;
+    schema:familyName "Hugh Hazelton" .
+
+schema:authorBabelio241 a author: ;
+    schema:familyName "Darcia Labrosse" .
+
+schema:authorBabelio242 a author: ;
+    schema:familyName "Agnès Guitard" .
+
+schema:authorBabelio243 a author: ;
+    schema:familyName "Rosalind Grey Stockhall" .
+
+schema:authorBabelio244 a author: ;
+    schema:familyName "Stella Dreis" .
+
+schema:authorBabelio245 a author: ;
+    schema:familyName "Mimi Legault" .
+
+schema:authorBabelio246 a author: ;
+    schema:familyName "Laurent Chablin" .
+
+schema:authorBabelio247 a author: ;
+    schema:familyName "F. Mense" .
+
+schema:authorBabelio248 a author: ;
+    schema:familyName "J.M. Defossez" .
+
+schema:authorBabelio249 a author: ;
+    schema:familyName "Colette Hus-David" .
+
+schema:authorBabelio25 a author: ;
+    schema:familyName "Kin-Hwan Park" .
+
+schema:authorBabelio250 a author: ;
+    schema:familyName "Richard Harrison" .
+
+schema:authorBabelio251 a author: ;
+    schema:familyName "Valerio Evangelisti" .
+
+schema:authorBabelio252 a author: ;
+    schema:familyName "Braillon" .
+
+schema:authorBabelio253 a author: ;
+    schema:familyName "Pers" .
+
+schema:authorBabelio254 a author: ;
+    schema:familyName "Margaret Laurence" .
+
+schema:authorBabelio255 a author: ;
+    schema:familyName "ill. par Frédéric Pillot" .
+
+schema:authorBabelio256 a author: ;
+    schema:familyName "Robert Majzels" .
+
+schema:authorBabelio257 a author: ;
+    schema:familyName "Olivier Philiponneau" .
+
+schema:authorBabelio258 a author: ;
+    schema:familyName "Marie-Andrée Boucher-Mativat" .
+
+schema:authorBabelio259 a author: ;
+    schema:familyName "Sarah Mazzetti" .
+
+schema:authorBabelio26 a author: ;
+    schema:familyName "Rie Takada" .
+
+schema:authorBabelio260 a author: ;
+    schema:familyName "Jay Macpherson" .
+
+schema:authorBabelio261 a author: ;
+    schema:familyName "Christine Nöstlinger (Autriche)" .
+
+schema:authorBabelio262 a author: ;
+    schema:familyName "Maurice Sendak (Etats-Unis)" .
+
+schema:authorBabelio263 a author: ;
+    schema:familyName "Yves Ouellet" .
+
+schema:authorBabelio264 a author: ;
+    schema:familyName "D.G. Jones" .
+
+schema:authorBabelio265 a author: ;
+    schema:familyName "Donald G. Creighton" .
+
+schema:authorBabelio266 a author: ;
+    schema:familyName "Igor Gouzenko" .
+
+schema:authorBabelio267 a author: ;
+    schema:familyName "Sharon Pollock" .
+
+schema:authorBabelio268 a author: ;
+    schema:familyName "Jason Sherman" .
+
+schema:authorBabelio269 a author: ;
+    schema:familyName "Alexandre Vadon" .
+
+schema:authorBabelio27 a author: ;
+    schema:familyName "Amagi Koshiba" .
+
+schema:authorBabelio270 a author: ;
+    schema:familyName "Judith Weisz Woodsworth" .
+
+schema:authorBabelio271 a author: ;
+    schema:familyName "Gwen Benaway" .
+
+schema:authorBabelio272 a author: ;
+    schema:familyName "Jacob Jobin" .
+
+schema:authorBabelio273 a author: ;
+    schema:familyName "B. Smadja" .
+
+schema:authorBabelio274 a author: ;
+    schema:familyName "Christian Lehmannn" .
+
+schema:authorBabelio275 a author: ;
+    schema:familyName "M. Perrin" .
+
+schema:authorBabelio276 a author: ;
+    schema:familyName "Earle Birney" .
+
+schema:authorBabelio277 a author: ;
+    schema:familyName "Carole David" .
+
+schema:authorBabelio278 a author: ;
+    schema:familyName "Philippe Chauveau" .
+
+schema:authorBabelio279 a author: ;
+    schema:familyName "Josef Skvorecky" .
+
+schema:authorBabelio28 a author: ;
+    schema:familyName "Norie Yamada" .
+
+schema:authorBabelio280 a author: ;
+    schema:familyName "Joe Rosenblatt" .
+
+schema:authorBabelio281 a author: ;
+    schema:familyName "John Mighton" .
+
+schema:authorBabelio282 a author: ;
+    schema:familyName "Alwett" .
+
+schema:authorBabelio283 a author: ;
+    schema:familyName "Arleston" .
+
+schema:authorBabelio284 a author: ;
+    schema:familyName "Zimra" .
+
+schema:authorBabelio285 a author: ;
+    schema:familyName "Lotte Van de Walle" .
+
+schema:authorBabelio286 a author: ;
+    schema:familyName "Judith Thompson" .
+
+schema:authorBabelio287 a author: ;
+    schema:familyName "Anik Lafrenière" .
+
+schema:authorBabelio288 a author: ;
+    schema:familyName "François Vigneau" .
+
+schema:authorBabelio289 a author: ;
+    schema:familyName "Tim Lilburn" .
+
+schema:authorBabelio29 a author: ;
+    schema:familyName "Harold Sakuishi" .
+
+schema:authorBabelio290 a author: ;
+    schema:familyName "Roger Girard" .
+
+schema:authorBabelio291 a author: ;
+    schema:familyName "Barbara Jung" .
+
+schema:authorBabelio292 a author: ;
+    schema:familyName "Charles Bruce" .
+
+schema:authorBabelio293 a author: ;
+    schema:familyName "Ursus Werly" .
+
+schema:authorBabelio294 a author: ;
+    schema:familyName "Maria Tippett" .
+
+schema:authorBabelio295 a author: ;
+    schema:familyName "Jacques Brault" .
+
+schema:authorBabelio296 a author: ;
+    schema:familyName "Rachel Manley" .
+
+schema:authorBabelio297 a author: ;
+    schema:familyName "Suzanne Julien" .
+
+schema:authorBabelio298 a author: ;
+    schema:familyName "Anne-Marie Olivier" .
+
+schema:authorBabelio299 a author: ;
+    schema:familyName "Hugh Garner" .
+
+schema:authorBabelio3 a author: ;
+    schema:familyName "Normand de Bellefeuille" .
+
+schema:authorBabelio30 a author: ;
+    schema:familyName "Ubi Umeda" .
+
+schema:authorBabelio300 a author: ;
+    schema:familyName "Nelly Desmarais" .
+
+schema:authorBabelio301 a author: ;
+    schema:familyName "Marshall McLuhan" .
+
+schema:authorBabelio302 a author: ;
+    schema:familyName "Alan Sullivan" .
+
+schema:authorBabelio303 a author: ;
+    schema:familyName "George Elliott Clarke" .
+
+schema:authorBabelio304 a author: ;
+    schema:familyName "José Maria Sanchez-Silva" .
+
+schema:authorBabelio305 a author: ;
+    schema:familyName "Léonard Dupont" .
+
+schema:authorBabelio306 a author: ;
+    schema:familyName "Alexandra Larochelle" .
+
+schema:authorBabelio307 a author: ;
+    schema:familyName "Yohann Morin" .
+
+schema:authorBabelio308 a author: ;
+    schema:familyName "Genevieve Simms" .
+
+schema:authorBabelio309 a author: ;
+    schema:familyName "Vivien Gorham" .
+
+schema:authorBabelio31 a author: ;
+    schema:familyName "Hino Matsuri" .
+
+schema:authorBabelio310 a author: ;
+    schema:familyName "Marc Trudel" .
+
+schema:authorBabelio311 a author: ;
+    schema:familyName "Sam Fisher" .
+
+schema:authorBabelio312 a author: ;
+    schema:familyName "Maria Birmingham" .
+
+schema:authorBabelio313 a author: ;
+    schema:familyName "Arianne Gagnon Roy" .
+
+schema:authorBabelio314 a author: ;
+    schema:familyName "Catherine Rondina" .
+
+schema:authorBabelio315 a author: ;
+    schema:familyName "Ingrid Lee" .
+
+schema:authorBabelio316 a author: ;
+    schema:familyName "David Acer" .
+
+schema:authorBabelio317 a author: ;
+    schema:familyName "Tina Landry" .
+
+schema:authorBabelio318 a author: ;
+    schema:familyName "Jennifer McGrath Kent" .
+
+schema:authorBabelio319 a author: ;
+    schema:familyName "Denis Boucher" .
+
+schema:authorBabelio32 a author: ;
+    schema:familyName "Pierre Perrault" .
+
+schema:authorBabelio320 a author: ;
+    schema:familyName "Melvin Gallant" .
+
+schema:authorBabelio321 a author: ;
+    schema:familyName "Lucia Cavezzali" .
+
+schema:authorBabelio322 a author: ;
+    schema:familyName "Andy Turnbull" .
+
+schema:authorBabelio323 a author: ;
+    schema:familyName "Debora Pearson" .
+
+schema:authorBabelio324 a author: ;
+    schema:familyName "Philippe Gilbert" .
+
+schema:authorBabelio325 a author: ;
+    schema:familyName "Joanne George" .
+
+schema:authorBabelio326 a author: ;
+    schema:familyName "Ian Boothby" .
+
+schema:authorBabelio327 a author: ;
+    schema:familyName "Nina Matsumoto" .
+
+schema:authorBabelio328 a author: ;
+    schema:familyName "Ricardo Larrivée" .
+
+schema:authorBabelio329 a author: ;
+    schema:familyName "Karine Lachapelle" .
+
+schema:authorBabelio33 a author: ;
+    schema:familyName "Michel Brunet" .
+
+schema:authorBabelio330 a author: ;
+    schema:familyName "Luc Michaud" .
+
+schema:authorBabelio331 a author: ;
+    schema:familyName "Marijo Meunier" .
+
+schema:authorBabelio332 a author: ;
+    schema:familyName "Tristan Demers" .
+
+schema:authorBabelio333 a author: ;
+    schema:familyName "Joann Hamilton-Barry" .
+
+schema:authorBabelio334 a author: ;
+    schema:familyName "Angela Misri" .
+
+schema:authorBabelio335 a author: ;
+    schema:familyName "Rachel Poliquin" .
+
+schema:authorBabelio336 a author: ;
+    schema:familyName "Cindy Roy" .
+
+schema:authorBabelio337 a author: ;
+    schema:familyName "Karin Gottot & Maxim Cyr" .
+
+schema:authorBabelio338 a author: ;
+    schema:familyName "Daphne Greer" .
+
+schema:authorBabelio339 a author: ;
+    schema:familyName "Jenny Kay Dupuis & Kathy Kacer" .
+
+schema:authorBabelio34 a author: ;
+    schema:familyName "Robert Dickson" .
+
+schema:authorBabelio340 a author: ;
+    schema:familyName "Kass Reich" .
+
+schema:authorBabelio341 a author: ;
+    schema:familyName "Karine Gottot & Maxim Cyr" .
+
+schema:authorBabelio342 a author: ;
+    schema:familyName "John A. Livingston" .
+
+schema:authorBabelio343 a author: ;
+    schema:familyName "François Paré" .
+
+schema:authorBabelio344 a author: ;
+    schema:familyName "Murray Kimber" .
+
+schema:authorBabelio345 a author: ;
+    schema:familyName "Meindert DeJong" .
+
+schema:authorBabelio346 a author: ;
+    schema:familyName "Jean-Jacques Simard" .
+
+schema:authorBabelio347 a author: ;
+    schema:familyName "Christian Martin" .
+
+schema:authorBabelio348 a author: ;
+    schema:familyName "Robert A.D. Ford" .
+
+schema:authorBabelio349 a author: ;
+    schema:familyName "Robert Escarpit" .
+
+schema:authorBabelio35 a author: ;
+    schema:familyName "Anne Vallières" .
+
+schema:authorBabelio350 a author: ;
+    schema:familyName "Jean-Louis Trudel" .
+
+schema:authorBabelio351 a author: ;
+    schema:familyName "Satoe Tone" .
+
+schema:authorBabelio352 a author: ;
+    schema:familyName "Louis-Edmond Hamelin" .
+
+schema:authorBabelio353 a author: ;
+    schema:familyName "Madeleine Gagnon" .
+
+schema:authorBabelio354 a author: ;
+    schema:familyName "François-Marc Gagnon" .
+
+schema:authorBabelio355 a author: ;
+    schema:familyName "Geneviève Billette" .
+
+schema:authorBabelio356 a author: ;
+    schema:familyName "Marie Frankland" .
+
+schema:authorBabelio357 a author: ;
+    schema:familyName "Maggie Siggins" .
+
+schema:authorBabelio358 a author: ;
+    schema:familyName "Ayumi Harada" .
+
+schema:authorBabelio359 a author: ;
+    schema:familyName "Monique Czarnecki" .
+
+schema:authorBabelio36 a author: ;
+    schema:familyName "Rachna Gilmore" .
+
+schema:authorBabelio360 a author: ;
+    schema:familyName "Kildare Dobbs" .
+
+schema:authorBabelio361 a author: ;
+    schema:familyName "Robert Calihoo" .
+
+schema:authorBabelio362 a author: ;
+    schema:familyName "Robert Hunter" .
+
+schema:authorBabelio363 a author: ;
+    schema:familyName "Roger DesRoches" .
+
+schema:authorBabelio364 a author: ;
+    schema:familyName "Françoise Barraud" .
+
+schema:authorBabelio365 a author: ;
+    schema:familyName "François Ricard" .
+
+schema:authorBabelio366 a author: ;
+    schema:familyName "Banco del Libro" .
+
+schema:authorBabelio367 a author: ;
+    schema:familyName "Martin Bellemare" .
+
+schema:authorBabelio368 a author: ;
+    schema:familyName "Gwendolyn MacEwen" .
+
+schema:authorBabelio369 a author: ;
+    schema:familyName "Hannah Gold" .
+
+schema:authorBabelio37 a author: ;
+    schema:familyName "Nino Ricci" .
+
+schema:authorBabelio370 a author: ;
+    schema:familyName "Dominique Clift" .
+
+schema:authorBabelio371 a author: ;
+    schema:familyName "Sheila McLeod Arnopoulos" .
+
+schema:authorBabelio372 a author: ;
+    schema:familyName "Sarah Henstra" .
+
+schema:authorBabelio373 a author: ;
+    schema:familyName "C. Albaut" .
+
+schema:authorBabelio374 a author: ;
+    schema:familyName "Felipe Arriagada-Nunez" .
+
+schema:authorBabelio375 a author: ;
+    schema:familyName "Mélina Schoenborn" .
+
+schema:authorBabelio376 a author: ;
+    schema:familyName "Morris Panych" .
+
+schema:authorBabelio377 a author: ;
+    schema:familyName "William Gilkerson" .
+
+schema:authorBabelio378 a author: ;
+    schema:familyName "Ramesh Hengadi" .
+
+schema:authorBabelio379 a author: ;
+    schema:familyName "Johanna Fritz" .
+
+schema:authorBabelio38 a author: ;
+    schema:familyName "Chiki Kikuchi" .
+
+schema:authorBabelio380 a author: ;
+    schema:familyName "Nébine Dominguez" .
+
+schema:authorBabelio381 a author: ;
+    schema:familyName "Michel Saint-Germain" .
+
+schema:authorBabelio382 a author: ;
+    schema:familyName "Gérald Fortin" .
+
+schema:authorBabelio383 a author: ;
+    schema:familyName "Wolf Erlbrugh" .
+
+schema:authorBabelio384 a author: ;
+    schema:familyName "Régine Soszewick" .
+
+schema:authorBabelio385 a author: ;
+    schema:familyName "Michel Beaulieu" .
+
+schema:authorBabelio386 a author: ;
+    schema:familyName "Jason Mott" .
+
+schema:authorBabelio387 a author: ;
+    schema:familyName "Michael Bell" .
+
+schema:authorBabelio388 a author: ;
+    schema:familyName "Philippe Delaby" .
+
+schema:authorBabelio389 a author: ;
+    schema:familyName "Pierre Desruisseaux" .
+
+schema:authorBabelio39 a author: ;
+    schema:familyName "Raymond Milési" .
+
+schema:authorBabelio390 a author: ;
+    schema:familyName "Kerry Wood" .
+
+schema:authorBabelio391 a author: ;
+    schema:familyName "Xiran Jay Zhao" .
+
+schema:authorBabelio392 a author: ;
+    schema:familyName "Linda Spalding" .
+
+schema:authorBabelio393 a author: ;
+    schema:familyName "Andrée A. Michaud" .
+
+schema:authorBabelio394 a author: ;
+    schema:familyName "Priska Poirier" .
+
+schema:authorBabelio395 a author: ;
+    schema:familyName "Gwethalyn Graham" .
+
+schema:authorBabelio396 a author: ;
+    schema:familyName "Koy Maclear" .
+
+schema:authorBabelio397 a author: ;
+    schema:familyName "Béa Deru-Bernard" .
+
+schema:authorBabelio398 a author: ;
+    schema:familyName "J.C. Mourlevat" .
+
+schema:authorBabelio399 a author: ;
+    schema:familyName "Jean-Jacques Nguyen" .
+
+schema:authorBabelio4 a author: ;
+    schema:familyName "Annie Dubreuil" .
+
+schema:authorBabelio40 a author: ;
+    schema:familyName "Monique Bosco" .
+
+schema:authorBabelio400 a author: ;
+    schema:familyName "Jean Vautrin" .
+
+schema:authorBabelio401 a author: ;
+    schema:familyName "Amélie Billon" .
+
+schema:authorBabelio402 a author: ;
+    schema:familyName "Olivier Laporte" .
+
+schema:authorBabelio403 a author: ;
+    schema:familyName "Lisa-Marie Gagnon" .
+
+schema:authorBabelio404 a author: ;
+    schema:familyName "Didier Daenickx" .
+
+schema:authorBabelio405 a author: ;
+    schema:familyName "Julie Bruck" .
+
+schema:authorBabelio406 a author: ;
+    schema:familyName "Rudy Wiebe" .
+
+schema:authorBabelio407 a author: ;
+    schema:familyName "Don Domanski" .
+
+schema:authorBabelio408 a author: ;
+    schema:familyName "John Ralston Saul" .
+
+schema:authorBabelio409 a author: ;
+    schema:familyName "Nina Wehrle" .
+
+schema:authorBabelio41 a author: ;
+    schema:familyName "Michèle Gavazzi" .
+
+schema:authorBabelio410 a author: ;
+    schema:familyName "Peter Mayle" .
+
+schema:authorBabelio411 a author: ;
+    schema:familyName "Fernand Dumont" .
+
+schema:authorBabelio412 a author: ;
+    schema:familyName "Hugh Howey" .
+
+schema:authorBabelio413 a author: ;
+    schema:familyName "T. Bowler" .
+
+schema:authorBabelio414 a author: ;
+    schema:familyName "Michael Ignatieff" .
+
+schema:authorBabelio415 a author: ;
+    schema:familyName "Duncan Weller" .
+
+schema:authorBabelio416 a author: ;
+    schema:familyName "Maya Kastelic" .
+
+schema:authorBabelio417 a author: ;
+    schema:familyName "Jasmine Mirra Turcotte" .
+
+schema:authorBabelio418 a author: ;
+    schema:familyName "Jeffery Williams" .
+
+schema:authorBabelio419 a author: ;
+    schema:familyName "Daniel MacIvor" .
+
+schema:authorBabelio42 a author: ;
+    schema:familyName "François Lévesque" .
+
+schema:authorBabelio420 a author: ;
+    schema:familyName "Gilles Cyr" .
+
+schema:authorBabelio421 a author: ;
+    schema:familyName "Georgette LeBlanc" .
+
+schema:authorBabelio422 a author: ;
+    schema:familyName "Rémi Courgeon d’après le roman de Daniel Pennac" .
+
+schema:authorBabelio423 a author: ;
+    schema:familyName "Madhur Anand" .
+
+schema:authorBabelio424 a author: ;
+    schema:familyName "Kenneth Leslie" .
+
+schema:authorBabelio425 a author: ;
+    schema:familyName "Paul Quarrington" .
+
+schema:authorBabelio426 a author: ;
+    schema:familyName "F. Marcellino" .
+
+schema:authorBabelio427 a author: ;
+    schema:familyName "Carol Shields" .
+
+schema:authorBabelio428 a author: ;
+    schema:familyName "Sandra Edinger" .
+
+schema:authorBabelio429 a author: ;
+    schema:familyName "Fleur Daugeas de loup..y" .
+
+schema:authorBabelio43 a author: ;
+    schema:familyName "Michio Mado" .
+
+schema:authorBabelio430 a author: ;
+    schema:familyName "Roxane Dambre" .
+
+schema:authorBabelio431 a author: ;
+    schema:familyName "B. Haworth-Attard" .
+
+schema:authorBabelio432 a author: ;
+    schema:familyName "Gustave Lanctot" .
+
+schema:authorBabelio433 a author: ;
+    schema:familyName "Fernand Ouellet" .
+
+schema:authorBabelio434 a author: ;
+    schema:familyName "Gatien Lapointe" .
+
+schema:authorBabelio435 a author: ;
+    schema:familyName "Ana Desnitskaya" .
+
+schema:authorBabelio436 a author: ;
+    schema:familyName "Régine Robin" .
+
+schema:authorBabelio437 a author: ;
+    schema:familyName "Anat Warshavski" .
+
+schema:authorBabelio438 a author: ;
+    schema:familyName "Mohammad Barangi Fashtami" .
+
+schema:authorBabelio439 a author: ;
+    schema:familyName "Michel Streich" .
+
+schema:authorBabelio44 a author: ;
+    schema:familyName "Pierre Nepveu" .
+
+schema:authorBabelio440 a author: ;
+    schema:familyName "María Teresa Andruetto" .
+
+schema:authorBabelio441 a author: ;
+    schema:familyName "Alexandria Marzano-Lesnevich" .
+
+schema:authorBabelio442 a author: ;
+    schema:familyName "Geneviève Bourguignon" .
+
+schema:authorBabelio443 a author: ;
+    schema:familyName "Karoline Georges" .
+
+schema:authorBabelio444 a author: ;
+    schema:familyName "Shuky" .
+
+schema:authorBabelio445 a author: ;
+    schema:familyName "René Gingras" .
+
+schema:authorBabelio446 a author: ;
+    schema:familyName "Martin Panchaud" .
+
+schema:authorBabelio447 a author: ;
+    schema:familyName "Marisol Sarrasin" .
+
+schema:authorBabelio448 a author: ;
+    schema:familyName "Vendi Vernić" .
+
+schema:authorBabelio449 a author: ;
+    schema:familyName "Serge Déry" .
+
+schema:authorBabelio45 a author: ;
+    schema:familyName "Colin McDougall" .
+
+schema:authorBabelio450 a author: ;
+    schema:familyName "Neal Shannacappo" .
+
+schema:authorBabelio451 a author: ;
+    schema:familyName "C. Funke" .
+
+schema:authorBabelio452 a author: ;
+    schema:familyName "Charlotte Melançon" .
+
+schema:authorBabelio453 a author: ;
+    schema:familyName "Pierre Berton" .
+
+schema:authorBabelio454 a author: ;
+    schema:familyName "Jean Hudon" .
+
+schema:authorBabelio455 a author: ;
+    schema:familyName "Jeffrey Simpson" .
+
+schema:authorBabelio456 a author: ;
+    schema:familyName "Bill Waiser" .
+
+schema:authorBabelio457 a author: ;
+    schema:familyName "Johanna Schaible" .
+
+schema:authorBabelio458 a author: ;
+    schema:familyName "Guillermo Verdecchia" .
+
+schema:authorBabelio459 a author: ;
+    schema:familyName "Mathieu Potvin" .
+
+schema:authorBabelio46 a author: ;
+    schema:familyName "Sadiqa de Meijer" .
+
+schema:authorBabelio460 a author: ;
+    schema:familyName "Sam VanSteen" .
+
+schema:authorBabelio461 a author: ;
+    schema:familyName "illustré par Mikaël Ross" .
+
+schema:authorBabelio462 a author: ;
+    schema:familyName "Nicolas Jollivot" .
+
+schema:authorBabelio463 a author: ;
+    schema:familyName "Alain Lewkowicz" .
+
+schema:authorBabelio464 a author: ;
+    schema:familyName "ouvrage collectif" .
+
+schema:authorBabelio465 a author: ;
+    schema:familyName "Anita Killi" .
+
+schema:authorBabelio466 a author: ;
+    schema:familyName "Boris Guilloteau" .
+
+schema:authorBabelio467 a author: ;
+    schema:familyName "Laurent Sarfati" .
+
+schema:authorBabelio468 a author: ;
+    schema:familyName "Jaromír Plachỳ" .
+
+schema:authorBabelio469 a author: ;
+    schema:familyName "Peter Stehlik" .
+
+schema:authorBabelio47 a author: ;
+    schema:familyName "Javier Zabala" .
+
+schema:authorBabelio470 a author: ;
+    schema:familyName "Gervais" .
+
+schema:authorBabelio471 a author: ;
+    schema:familyName "Pittau" .
+
+schema:authorBabelio472 a author: ;
+    schema:familyName "Samuel Champagne" .
+
+schema:authorBabelio473 a author: ;
+    schema:familyName "Mirko Rathke" .
+
+schema:authorBabelio474 a author: ;
     schema:familyName "Virginie Lou" .
 
-schema:authorBabelio91 a author: ;
+schema:authorBabelio475 a author: ;
+    schema:familyName "Laura G. Salverson" .
+
+schema:authorBabelio476 a author: ;
+    schema:familyName "Patricia Wrightson" .
+
+schema:authorBabelio477 a author: ;
+    schema:familyName "Lorna Crozier" .
+
+schema:authorBabelio478 a author: ;
+    schema:familyName "A.J.M. Smith" .
+
+schema:authorBabelio479 a author: ;
     schema:familyName "Bart Moeyart" .
 
-schema:authorBabelio92 a author: ;
+schema:authorBabelio48 a author: ;
+    schema:familyName "Simon Roy" .
+
+schema:authorBabelio480 a author: ;
+    schema:familyName "Ron Lightburn" .
+
+schema:authorBabelio481 a author: ;
     schema:familyName "Ajubel" .
 
-schema:authorBabelio93 a author: ;
+schema:authorBabelio482 a author: ;
+    schema:familyName "Saki" .
+
+schema:authorBabelio483 a author: ;
+    schema:familyName "Catherine Ferland" .
+
+schema:authorBabelio484 a author: ;
+    schema:familyName "Phil Hall" .
+
+schema:authorBabelio485 a author: ;
+    schema:familyName "Steven Heighton" .
+
+schema:authorBabelio486 a author: ;
+    schema:familyName "Claudine Farcy" .
+
+schema:authorBabelio487 a author: ;
+    schema:familyName "Bertram Brooker" .
+
+schema:authorBabelio488 a author: ;
+    schema:familyName "G. Zhao" .
+
+schema:authorBabelio489 a author: ;
+    schema:familyName "J.M. Omont" .
+
+schema:authorBabelio49 a author: ;
+    schema:familyName "Julia Marti" .
+
+schema:authorBabelio490 a author: ;
+    schema:familyName "Colleen Murphy" .
+
+schema:authorBabelio491 a author: ;
+    schema:familyName "Eli Mandel" .
+
+schema:authorBabelio492 a author: ;
+    schema:familyName "Herménégilde Chiasson" .
+
+schema:authorBabelio493 a author: ;
+    schema:familyName "Franklin D. McDowell" .
+
+schema:authorBabelio494 a author: ;
+    schema:familyName "Gilles Ruel" .
+
+schema:authorBabelio495 a author: ;
+    schema:familyName "Wayne Grady" .
+
+schema:authorBabelio496 a author: ;
     schema:familyName "Jeanne A-Debats" .
 
-schema:authorBabelio94 a author: ;
+schema:authorBabelio497 a author: ;
+    schema:familyName "Nobuhiko Haijima" .
+
+schema:authorBabelio498 a author: ;
+    schema:familyName "Kent Stetson" .
+
+schema:authorBabelio499 a author: ;
+    schema:familyName "Margaret Avison" .
+
+schema:authorBabelio5 a author: ;
+    schema:familyName "Sylvie Marcoux" .
+
+schema:authorBabelio50 a author: ;
+    schema:familyName "Linda Gaboriau" .
+
+schema:authorBabelio500 a author: ;
+    schema:familyName "Myung Ae Lee" .
+
+schema:authorBabelio501 a author: ;
+    schema:familyName "Sébastien Fréchette" .
+
+schema:authorBabelio502 a author: ;
     schema:familyName "Maya Cousineau Mollen" .
 
-schema:authorBabelio95 a author: ;
+schema:authorBabelio503 a author: ;
+    schema:familyName "Roxane Paradis" .
+
+schema:authorBabelio504 a author: ;
+    schema:familyName "Nicolas Billon" .
+
+schema:authorBabelio505 a author: ;
+    schema:familyName "Carl Berger" .
+
+schema:authorBabelio506 a author: ;
+    schema:familyName "François Caumartin" .
+
+schema:authorBabelio507 a author: ;
+    schema:familyName "Annette Hayward" .
+
+schema:authorBabelio508 a author: ;
+    schema:familyName "Claude Lafortune" .
+
+schema:authorBabelio509 a author: ;
+    schema:familyName "Marcel Labine" .
+
+schema:authorBabelio51 a author: ;
+    schema:familyName "Marie-Pier Lafontaine" .
+
+schema:authorBabelio510 a author: ;
+    schema:familyName "Daniela Olejníková" .
+
+schema:authorBabelio511 a author: ;
+    schema:familyName "Patricia Smart" .
+
+schema:authorBabelio512 a author: ;
+    schema:familyName "Marion Sonet" .
+
+schema:authorBabelio513 a author: ;
+    schema:familyName "Pep Montserrat" .
+
+schema:authorBabelio514 a author: ;
+    schema:familyName "¡Él empezó! (C’est lui qui a commencé !) de Gabriela Keselman" .
+
+schema:authorBabelio515 a author: ;
+    schema:familyName "Denise Houle" .
+
+schema:authorBabelio516 a author: ;
+    schema:familyName "Project for the Study of Alternative Education in South Africa (PRAESA)" .
+
+schema:authorBabelio517 a author: ;
     schema:familyName "Philippe Reeve" .
 
-schema:authorBabelio96 a author: ;
+schema:authorBabelio518 a author: ;
+    schema:familyName "Erin Mouré" .
+
+schema:authorBabelio519 a author: ;
+    schema:familyName "Edouard Elvis Bvouma" .
+
+schema:authorBabelio52 a author: ;
+    schema:familyName "Michel Garneau" .
+
+schema:authorBabelio520 a author: ;
+    schema:familyName "Marie José Thériault" .
+
+schema:authorBabelio521 a author: ;
+    schema:familyName "Carine Paquin" .
+
+schema:authorBabelio522 a author: ;
+    schema:familyName "Freg" .
+
+schema:authorBabelio523 a author: ;
+    schema:familyName "Cecily Nicholson" .
+
+schema:authorBabelio524 a author: ;
     schema:familyName "A. Kuipers" .
 
-schema:authorBabelio97 a author: ;
+schema:authorBabelio525 a author: ;
     schema:familyName "A. Babendererde" .
 
-schema:authorBabelio98 a author: ;
+schema:authorBabelio526 a author: ;
     schema:familyName "M.-S. Vermot" .
 
-schema:authorBabelio99 a author: ;
+schema:authorBabelio527 a author: ;
+    schema:familyName "Robert-Lionel Séguin" .
+
+schema:authorBabelio528 a author: ;
     schema:familyName "Ursula K.Le Guin" .
+
+schema:authorBabelio529 a author: ;
+    schema:familyName "Jean-Pierre Nozière" .
+
+schema:authorBabelio53 a author: ;
+    schema:familyName "Louis-Philippe Hébert" .
+
+schema:authorBabelio530 a author: ;
+    schema:familyName "Narges Mohamadi" .
+
+schema:authorBabelio531 a author: ;
+    schema:familyName "Alycia Dufour" .
+
+schema:authorBabelio532 a author: ;
+    schema:familyName "Stéphne Poulin" .
+
+schema:authorBabelio533 a author: ;
+    schema:familyName "Alcante" .
+
+schema:authorBabelio534 a author: ;
+    schema:familyName "Denis Rodier (dessins)" .
+
+schema:authorBabelio535 a author: ;
+    schema:familyName "Paul Morin" .
+
+schema:authorBabelio536 a author: ;
+    schema:familyName "Gilles Archambault" .
+
+schema:authorBabelio537 a author: ;
+    schema:familyName "Corcal" .
+
+schema:authorBabelio538 a author: ;
+    schema:familyName "Deth" .
+
+schema:authorBabelio539 a author: ;
+    schema:familyName "Emma Haché" .
+
+schema:authorBabelio54 a author: ;
+    schema:familyName "Jordan Tannahill" .
+
+schema:authorBabelio540 a author: ;
+    schema:familyName "Alain Beaulieu" .
+
+schema:authorBabelio541 a author: ;
+    schema:familyName "Hannah Brückner" .
+
+schema:authorBabelio542 a author: ;
+    schema:familyName "Renée Dupuis" .
+
+schema:authorBabelio543 a author: ;
+    schema:familyName "Armando Fonseca" .
+
+schema:authorBabelio544 a author: ;
+    schema:familyName "Douglas Glover" .
+
+schema:authorBabelio545 a author: ;
+    schema:familyName "Victor-Levy Beaulieu" .
+
+schema:authorBabelio546 a author: ;
+    schema:familyName "Laur du Fay" .
+
+schema:authorBabelio547 a author: ;
+    schema:familyName "Willi Fährmann" .
+
+schema:authorBabelio548 a author: ;
+    schema:familyName "ill. par Anne-Lise Boutin" .
+
+schema:authorBabelio549 a author: ;
+    schema:familyName "Évelyne de la Chenelière" .
+
+schema:authorBabelio55 a author: ;
+    schema:familyName "Suzanne Duranceau. Illustration dans le recueil" .
+
+schema:authorBabelio550 a author: ;
+    schema:familyName "Louise Dechêne" .
+
+schema:authorBabelio551 a author: ;
+    schema:familyName "Kino Toriko" .
+
+schema:authorBabelio552 a author: ;
+    schema:familyName "Anne Chislett" .
+
+schema:authorBabelio553 a author: ;
+    schema:familyName "Yvan Bienvenue" .
+
+schema:authorBabelio554 a author: ;
+    schema:familyName "David Donnell" .
+
+schema:authorBabelio555 a author: ;
+    schema:familyName "Lucy Lost" .
+
+schema:authorBabelio556 a author: ;
+    schema:familyName "Edourad Manceau" .
+
+schema:authorBabelio557 a author: ;
+    schema:familyName "Anne-Catherine" .
+
+schema:authorBabelio558 a author: ;
+    schema:familyName "ill. par Peter Brown" .
+
+schema:authorBabelio559 a author: ;
+    schema:familyName "Arthur S. Bourinot" .
+
+schema:authorBabelio56 a author: ;
+    schema:familyName "Lazer Lederhendler" .
+
+schema:authorBabelio560 a author: ;
+    schema:familyName "Paul Toupin" .
+
+schema:authorBabelio561 a author: ;
+    schema:familyName "Fred Wah" .
+
+schema:authorBabelio562 a author: ;
+    schema:familyName "Jack Hodgins" .
+
+schema:authorBabelio563 a author: ;
+    schema:familyName "Charles Ritchie" .
+
+schema:authorBabelio564 a author: ;
+    schema:familyName "Alice Chris Haughton" .
+
+schema:authorBabelio565 a author: ;
+    schema:familyName "Jean-Frédéric Messier" .
+
+schema:authorBabelio566 a author: ;
+    schema:familyName "Michel Ouellette" .
+
+schema:authorBabelio567 a author: ;
+    schema:familyName "Didier Holtzwarth" .
+
+schema:authorBabelio568 a author: ;
+    schema:familyName "Marylène Monette" .
+
+schema:authorBabelio569 a author: ;
+    schema:familyName "Louise Pelletier" .
+
+schema:authorBabelio57 a author: ;
+    schema:familyName "Hugh MacLennan" .
+
+schema:authorBabelio570 a author: ;
+    schema:familyName "Sylvie Assathiany" .
+
+schema:authorBabelio571 a author: ;
+    schema:familyName "Jane Brierley" .
+
+schema:authorBabelio572 a author: ;
+    schema:familyName "Donald Winkler" .
+
+schema:authorBabelio573 a author: ;
+    schema:familyName "Léa Vervoot" .
+
+schema:authorBabelio574 a author: ;
+    schema:familyName "Gary Clement" .
+
+schema:authorBabelio575 a author: ;
+    schema:familyName "Wilfred Watson" .
+
+schema:authorBabelio576 a author: ;
+    schema:familyName "Susanne Thurn" .
+
+schema:authorBabelio577 a author: ;
+    schema:familyName "Marq de Villiers" .
+
+schema:authorBabelio578 a author: ;
+    schema:familyName "Robert Hilles" .
+
+schema:authorBabelio579 a author: ;
+    schema:familyName "Judith Cowan" .
+
+schema:authorBabelio58 a author: ;
+    schema:familyName "John Ibbitson" .
+
+schema:authorBabelio580 a author: ;
+    schema:familyName "Chantal Cadieux" .
+
+schema:authorBabelio581 a author: ;
+    schema:familyName "Frank H. Underhill" .
+
+schema:authorBabelio582 a author: ;
+    schema:familyName "Dorothée Roy" .
+
+schema:authorBabelio583 a author: ;
+    schema:familyName "Anne Marriott" .
+
+schema:authorBabelio584 a author: ;
+    schema:familyName "Diago Bianci" .
+
+schema:authorBabelio585 a author: ;
+    schema:familyName "Raquel Franco" .
+
+schema:authorBabelio586 a author: ;
+    schema:familyName "Ruth Kaufman" .
+
+schema:authorBabelio587 a author: ;
+    schema:familyName "Maria Ana Peixe Dias" .
+
+schema:authorBabelio588 a author: ;
+    schema:familyName "Maurizio Quarello" .
+
+schema:authorBabelio589 a author: ;
+    schema:familyName "Bruno de la Salle" .
+
+schema:authorBabelio59 a author: ;
+    schema:familyName "Karen Connelly" .
+
+schema:authorBabelio590 a author: ;
+    schema:familyName "Jean Antonin Billard" .
+
+schema:authorBabelio591 a author: ;
+    schema:familyName "Magali Laurent" .
+
+schema:authorBabelio592 a author: ;
+    schema:familyName "N.J. Berrill" .
+
+schema:authorBabelio593 a author: ;
+    schema:familyName "Michel Bock" .
+
+schema:authorBabelio594 a author: ;
+    schema:familyName "Djanet Sears" .
+
+schema:authorBabelio595 a author: ;
+    schema:familyName "Ji-Min Kim" .
+
+schema:authorBabelio596 a author: ;
+    schema:familyName "Sylveline Bourion" .
+
+schema:authorBabelio597 a author: ;
+    schema:familyName "Annouchka Gravel Galouchko" .
+
+schema:authorBabelio598 a author: ;
+    schema:familyName "A.R.M. Lower" .
+
+schema:authorBabelio599 a author: ;
+    schema:familyName "Ringuet (pseud.)" .
+
+schema:authorBabelio6 a author: ;
+    schema:familyName "David Zieroth" .
+
+schema:authorBabelio60 a author: ;
+    schema:familyName "Delphine Perre" .
+
+schema:authorBabelio600 a author: ;
+    schema:familyName "Jane Urquhart" .
+
+schema:authorBabelio601 a author: ;
+    schema:familyName "Gabrielle Grandbois-Paquin" .
+
+schema:authorBabelio602 a author: ;
+    schema:familyName "Belpêchao" .
+
+schema:authorBabelio603 a author: ;
+    schema:familyName "Annie M.G. Schmidt" .
+
+schema:authorBabelio604 a author: ;
+    schema:familyName "Iraia Okina" .
+
+schema:authorBabelio605 a author: ;
+    schema:familyName "T. Valente" .
+
+schema:authorBabelio606 a author: ;
+    schema:familyName "Carmen Leñero" .
+
+schema:authorBabelio607 a author: ;
+    schema:familyName "Francisco Hinojosa" .
+
+schema:authorBabelio608 a author: ;
+    schema:familyName "Francisco Segovia" .
+
+schema:authorBabelio609 a author: ;
+    schema:familyName "Jean Papineau" .
+
+schema:authorBabelio61 a author: ;
+    schema:familyName "Pierre Turgeon" .
+
+schema:authorBabelio610 a author: ;
+    schema:familyName "André Major" .
+
+schema:authorBabelio611 a author: ;
+    schema:familyName "Mylène Arpin" .
+
+schema:authorBabelio612 a author: ;
+    schema:familyName "Luc Durocher" .
+
+schema:authorBabelio613 a author: ;
+    schema:familyName "Benjamin Tienti" .
+
+schema:authorBabelio614 a author: ;
+    schema:familyName "Linda Baley" .
+
+schema:authorBabelio615 a author: ;
+    schema:familyName "Marie-Joséphine Grosjean" .
+
+schema:authorBabelio616 a author: ;
+    schema:familyName "P. Muñoz Ryan" .
+
+schema:authorBabelio617 a author: ;
+    schema:familyName "J.L. Le Craver" .
+
+schema:authorBabelio618 a author: ;
+    schema:familyName "Christopher Moore" .
+
+schema:authorBabelio619 a author: ;
+    schema:familyName "Katja Henke" .
+
+schema:authorBabelio62 a author: ;
+    schema:familyName "C. Helft" .
+
+schema:authorBabelio620 a author: ;
+    schema:familyName "Eric Beddows" .
+
+schema:authorBabelio621 a author: ;
+    schema:familyName "Montse Gisbert" .
+
+schema:authorBabelio622 a author: ;
+    schema:familyName "Frank MacKinnon" .
+
+schema:authorBabelio623 a author: ;
+    schema:familyName "Bruce Robert" .
+
+schema:authorBabelio624 a author: ;
+    schema:familyName "Claire Vigneault" .
+
+schema:authorBabelio625 a author: ;
+    schema:familyName "Milton Acorn" .
+
+schema:authorBabelio626 a author: ;
+    schema:familyName "Birgit Murke" .
+
+schema:authorBabelio627 a author: ;
+    schema:familyName "Julia Balogh" .
+
+schema:authorBabelio628 a author: ;
+    schema:familyName "R. Hausfater-Douïeb" .
+
+schema:authorBabelio629 a author: ;
+    schema:familyName "Sophie Girard" .
+
+schema:authorBabelio63 a author: ;
+    schema:familyName "E.D. Blodgett" .
+
+schema:authorBabelio630 a author: ;
+    schema:familyName "Frank Scott" .
+
+schema:authorBabelio631 a author: ;
+    schema:familyName "Janis Blanks" .
+
+schema:authorBabelio632 a author: ;
+    schema:familyName "Cecil Bødker" .
+
+schema:authorBabelio633 a author: ;
+    schema:familyName "Lt.-Gen. Roméo Dallaire" .
+
+schema:authorBabelio634 a author: ;
+    schema:familyName "Franck Andriat" .
+
+schema:authorBabelio635 a author: ;
+    schema:familyName "Anne-Mari Cadot-Colin" .
+
+schema:authorBabelio636 a author: ;
+    schema:familyName "Louise Aylwin" .
+
+schema:authorBabelio637 a author: ;
+    schema:familyName "Maryse Warda" .
+
+schema:authorBabelio638 a author: ;
+    schema:familyName "Kady MacDonald Denton" .
+
+schema:authorBabelio639 a author: ;
+    schema:familyName "Jean-Michel Schembré" .
+
+schema:authorBabelio64 a author: ;
+    schema:familyName "Erme Ohrun" .
+
+schema:authorBabelio640 a author: ;
+    schema:familyName "Ramsay Cook" .
+
+schema:authorBabelio641 a author: ;
+    schema:familyName "M. Hoffman" .
+
+schema:authorBabelio642 a author: ;
+    schema:familyName "A. Grousset" .
+
+schema:authorBabelio643 a author: ;
+    schema:familyName "Morley Callaghan" .
+
+schema:authorBabelio644 a author: ;
+    schema:familyName "Ivan Steenhout" .
+
+schema:authorBabelio645 a author: ;
+    schema:familyName "Michel Freitag" .
+
+schema:authorBabelio646 a author: ;
+    schema:familyName "Marian Engel" .
+
+schema:authorBabelio647 a author: ;
+    schema:familyName "John Krizanc" .
+
+schema:authorBabelio648 a author: ;
+    schema:familyName "Peter Feldstein" .
+
+schema:authorBabelio649 a author: ;
+    schema:familyName "Dominique Payette" .
+
+schema:authorBabelio65 a author: ;
+    schema:familyName "Gloria Sawai" .
+
+schema:authorBabelio650 a author: ;
+    schema:familyName "Mark Fortier" .
+
+schema:authorBabelio651 a author: ;
+    schema:familyName "Albert Faucher" .
+
+schema:authorBabelio652 a author: ;
+    schema:familyName "Miriam Mandel" .
+
+schema:authorBabelio653 a author: ;
+    schema:familyName "André S. Vachon" .
+
+schema:authorBabelio654 a author: ;
+    schema:familyName "Heather Spears" .
+
+schema:authorBabelio655 a author: ;
+    schema:familyName "Xavier Legrand-Ferronnière" .
+
+schema:authorBabelio656 a author: ;
+    schema:familyName "Xuan Le" .
+
+schema:authorBabelio657 a author: ;
+    schema:familyName "Éloïse Marseille" .
+
+schema:authorBabelio658 a author: ;
+    schema:familyName "P. Geraghty" .
+
+schema:authorBabelio659 a author: ;
+    schema:familyName "Vincent Gagnon" .
+
+schema:authorBabelio66 a author: ;
+    schema:familyName "Eleanor Farjeon" .
+
+schema:authorBabelio660 a author: ;
+    schema:familyName "Françoise Loranger" .
+
+schema:authorBabelio661 a author: ;
+    schema:familyName "Yves Roby" .
+
+schema:authorBabelio662 a author: ;
+    schema:familyName "Sébastien David" .
+
+schema:authorBabelio663 a author: ;
+    schema:familyName "Nathalie Basset" .
+
+schema:authorBabelio664 a author: ;
+    schema:familyName "Denys Chabot" .
+
+schema:authorBabelio665 a author: ;
+    schema:familyName "Winifred Bambrick" .
+
+schema:authorBabelio666 a author: ;
+    schema:familyName "Patricia Claxton" .
+
+schema:authorBabelio667 a author: ;
+    schema:familyName "Christine Naumann-Villeumin" .
+
+schema:authorBabelio668 a author: ;
+    schema:familyName "Philip Child" .
+
+schema:authorBabelio669 a author: ;
+    schema:familyName "Los pájaros aprenden idiomas d’Inma Pla" .
+
+schema:authorBabelio67 a author: ;
+    schema:familyName "Evelyne André-Guidici" .
+
+schema:authorBabelio670 a author: ;
+    schema:familyName "Vinciane Born" .
+
+schema:authorBabelio671 a author: ;
+    schema:familyName "Howard Scott" .
+
+schema:authorBabelio672 a author: ;
+    schema:familyName "Christina McCall" .
+
+schema:authorBabelio673 a author: ;
+    schema:familyName "Stephen Clarkson" .
+
+schema:authorBabelio674 a author: ;
+    schema:familyName "David Adams Richards" .
+
+schema:authorBabelio675 a author: ;
+    schema:familyName "Ghazal Fatollahi" .
+
+schema:authorBabelio676 a author: ;
+    schema:familyName "Douglas LePan" .
+
+schema:authorBabelio677 a author: ;
+    schema:familyName "George Woodcock" .
+
+schema:authorBabelio678 a author: ;
+    schema:familyName "Pierre Filion" .
+
+schema:authorBabelio679 a author: ;
+    schema:familyName "George Bowering" .
+
+schema:authorBabelio68 a author: ;
+    schema:familyName "V. Zenatti" .
+
+schema:authorBabelio680 a author: ;
+    schema:familyName "Annick MacAskill" .
+
+schema:authorBabelio681 a author: ;
+    schema:familyName "Don Coles" .
+
+schema:authorBabelio682 a author: ;
+    schema:familyName "A. L. Bondoux" .
+
+schema:authorBabelio683 a author: ;
+    schema:familyName "Erkol" .
+
+schema:authorBabelio684 a author: ;
+    schema:familyName "Joanne Fitzgerald" .
+
+schema:authorBabelio685 a author: ;
+    schema:familyName "Louis-Dominique Lavigne" .
+
+schema:authorBabelio686 a author: ;
+    schema:familyName "Farley Mowat" .
+
+schema:authorBabelio687 a author: ;
+    schema:familyName "C. Wilkinson" .
+
+schema:authorBabelio688 a author: ;
+    schema:familyName "Virginia Hamilton" .
+
+schema:authorBabelio689 a author: ;
+    schema:familyName "Darrel J. McLeod" .
+
+schema:authorBabelio69 a author: ;
+    schema:familyName "Stéphane Jean" .
+
+schema:authorBabelio690 a author: ;
+    schema:familyName "Lin Lian-En" .
+
+schema:authorBabelio691 a author: ;
+    schema:familyName "Neil Parker" .
+
+schema:authorBabelio692 a author: ;
+    schema:familyName "David Böhm" .
+
+schema:authorBabelio693 a author: ;
+    schema:familyName "Jiři Franta" .
+
+schema:authorBabelio694 a author: ;
+    schema:familyName "Osamu Okamura" .
+
+schema:authorBabelio695 a author: ;
+    schema:familyName "Lee Gee Eun" .
+
+schema:authorBabelio696 a author: ;
+    schema:familyName "Adolfo Córdova" .
+
+schema:authorBabelio697 a author: ;
+    schema:familyName "Isabelle Picard" .
+
+schema:authorBabelio698 a author: ;
+    schema:familyName "Roland Viau" .
+
+schema:authorBabelio699 a author: ;
+    schema:familyName "Patrick Lane" .
+
+schema:authorBabelio7 a author: ;
+    schema:familyName "Ross King" .
+
+schema:authorBabelio70 a author: ;
+    schema:familyName "Hassan Moosavi" .
+
+schema:authorBabelio700 a author: ;
+    schema:familyName "David Foenkinos" .
+
+schema:authorBabelio701 a author: ;
+    schema:familyName "Ángela Cabrera Molina" .
+
+schema:authorBabelio702 a author: ;
+    schema:familyName "Nando von Arb" .
+
+schema:authorBabelio703 a author: ;
+    schema:familyName "Kristina Scharmacher-Schreiber" .
+
+schema:authorBabelio704 a author: ;
+    schema:familyName "Stéphanie Marian" .
+
+schema:authorBabelio705 a author: ;
+    schema:familyName "Anne Szumigalski" .
+
+schema:authorBabelio706 a author: ;
+    schema:familyName "Maurice Champagne-Gilbert" .
+
+schema:authorBabelio707 a author: ;
+    schema:familyName "Rong Yu" .
+
+schema:authorBabelio708 a author: ;
+    schema:familyName "Amélie Bibeau" .
+
+schema:authorBabelio709 a author: ;
+    schema:familyName "Nega Mezlekia" .
+
+schema:authorBabelio71 a author: ;
+    schema:familyName "Sandra Djwa" .
+
+schema:authorBabelio710 a author: ;
+    schema:familyName "Phyllis Webb" .
+
+schema:authorBabelio711 a author: ;
+    schema:familyName "Michelle Good" .
+
+schema:authorBabelio712 a author: ;
+    schema:familyName "Bae Yoo Jeong" .
+
+schema:authorBabelio713 a author: ;
+    schema:familyName "Phyllis Aronoff" .
+
+schema:authorBabelio714 a author: ;
+    schema:familyName "Julian Clary" .
+
+schema:authorBabelio715 a author: ;
+    schema:familyName "Jean Bélisle" .
+
+schema:authorBabelio716 a author: ;
+    schema:familyName "A. J. Prince" .
+
+schema:authorBabelio717 a author: ;
+    schema:familyName "F. Roca" .
+
+schema:authorBabelio718 a author: ;
+    schema:familyName "A.M. Klein" .
+
+schema:authorBabelio719 a author: ;
+    schema:familyName "Tamara Bach" .
+
+schema:authorBabelio72 a author: ;
+    schema:familyName "Jovette Marchessault" .
+
+schema:authorBabelio720 a author: ;
+    schema:familyName "Yaël Delandre" .
+
+schema:authorBabelio721 a author: ;
+    schema:familyName "Angela Mohr" .
+
+schema:authorBabelio722 a author: ;
+    schema:familyName "Nicole Leroux" .
+
+schema:authorBabelio723 a author: ;
+    schema:familyName "Hervé Juste" .
+
+schema:authorBabelio724 a author: ;
+    schema:familyName "Catherine Leroux" .
+
+schema:authorBabelio725 a author: ;
+    schema:familyName "Rhonda Mullins" .
+
+schema:authorBabelio726 a author: ;
+    schema:familyName "Richard Beaulieu" .
+
+schema:authorBabelio727 a author: ;
+    schema:familyName "Diane Turcotte" .
+
+schema:authorBabelio728 a author: ;
+    schema:familyName "J.M.S. Careless" .
+
+schema:authorBabelio729 a author: ;
+    schema:familyName "Nicole Brossard" .
+
+schema:authorBabelio73 a author: ;
+    schema:familyName "Evelyne Payette" .
+
+schema:authorBabelio730 a author: ;
+    schema:familyName "F. Bernard" .
+
+schema:authorBabelio731 a author: ;
+    schema:familyName "George Calef" .
+
+schema:authorBabelio732 a author: ;
+    schema:familyName "René Lapierre" .
+
+schema:authorBabelio733 a author: ;
+    schema:familyName "T.A. Goudge" .
+
+schema:authorBabelio734 a author: ;
+    schema:familyName "Garmann" .
+
+schema:authorBabelio735 a author: ;
+    schema:familyName "Étienne Beaulieu" .
+
+schema:authorBabelio736 a author: ;
+    schema:familyName "Fulvio Caccia" .
+
+schema:authorBabelio737 a author: ;
+    schema:familyName "Francis Léveillée" .
+
+schema:authorBabelio738 a author: ;
+    schema:familyName "Mélissa Verreault" .
+
+schema:authorBabelio739 a author: ;
+    schema:familyName "M. F. Dahlberg" .
+
+schema:authorBabelio74 a author: ;
+    schema:familyName "T.S. Easton" .
+
+schema:authorBabelio740 a author: ;
+    schema:familyName "Suzanne Paradis" .
+
+schema:authorBabelio741 a author: ;
+    schema:familyName "Sarah Guilloux" .
+
+schema:authorBabelio742 a author: ;
+    schema:familyName "Martine Latulippe, Fil" .
+
+schema:authorBabelio743 a author: ;
+    schema:familyName "Equipe Plantel" .
+
+schema:authorBabelio744 a author: ;
+    schema:familyName "Julie Völk" .
+
+schema:authorBabelio745 a author: ;
+    schema:familyName "Sepideh Sarihi" .
+
+schema:authorBabelio746 a author: ;
+    schema:familyName "Animo Chen" .
+
+schema:authorBabelio747 a author: ;
+    schema:familyName "The Fan Brothers" .
+
+schema:authorBabelio748 a author: ;
+    schema:familyName "Brian Moore" .
+
+schema:authorBabelio749 a author: ;
+    schema:familyName "Vivian Koenig" .
+
+schema:authorBabelio75 a author: ;
+    schema:familyName "Robyn Sarah" .
+
+schema:authorBabelio750 a author: ;
+    schema:familyName "W.L. Morton" .
+
+schema:authorBabelio751 a author: ;
+    schema:familyName "Charles Montpetit" .
+
+schema:authorBabelio752 a author: ;
+    schema:familyName "Welwyn Wilton Katz" .
+
+schema:authorBabelio753 a author: ;
+    schema:familyName "Donalda Dickie" .
+
+schema:authorBabelio754 a author: ;
+    schema:familyName "Christie Blatchford" .
+
+schema:authorBabelio755 a author: ;
+    schema:familyName "Maria Gripe" .
+
+schema:authorBabelio756 a author: ;
+    schema:familyName "Thomas Blais-Leblanc" .
+
+schema:authorBabelio757 a author: ;
+    schema:familyName "Allan Casey" .
+
+schema:authorBabelio758 a author: ;
+    schema:familyName "Gérald Tougas" .
+
+schema:authorBabelio759 a author: ;
+    schema:familyName "Lista Boudalika" .
+
+schema:authorBabelio76 a author: ;
+    schema:familyName "E.J. Pratt" .
+
+schema:authorBabelio760 a author: ;
+    schema:familyName "Mishka Lavigne" .
+
+schema:authorBabelio761 a author: ;
+    schema:familyName "Alejandra Acosta" .
+
+schema:authorBabelio762 a author: ;
+    schema:familyName "Sara Bertrand" .
+
+schema:authorBabelio763 a author: ;
+    schema:familyName "Emma Lewis" .
+
+schema:authorBabelio764 a author: ;
+    schema:familyName "Julien Blaine" .
+
+schema:authorBabelio765 a author: ;
+    schema:familyName "Roger Caron" .
+
+schema:authorBabelio766 a author: ;
+    schema:familyName "John Addington Symonds" .
+
+schema:authorBabelio767 a author: ;
+    schema:familyName "Michaël Trahan" .
+
+schema:authorBabelio768 a author: ;
+    schema:familyName "Joyce Hemlow" .
+
+schema:authorBabelio769 a author: ;
+    schema:familyName "Joel Thomas Hynes" .
+
+schema:authorBabelio77 a author: ;
+    schema:familyName "P. C. Wrede" .
+
+schema:authorBabelio770 a author: ;
+    schema:familyName "F. Place" .
+
+schema:authorBabelio771 a author: ;
+    schema:familyName "T. de Fombelle" .
+
+schema:authorBabelio772 a author: ;
+    schema:familyName "Kate Pullinger" .
+
+schema:authorBabelio773 a author: ;
+    schema:familyName "Tad Carpentier" .
+
+schema:authorBabelio774 a author: ;
+    schema:familyName "Amandine Momenceau" .
+
+schema:authorBabelio775 a author: ;
+    schema:familyName "Andrew Nikiforuk" .
+
+schema:authorBabelio776 a author: ;
+    schema:familyName "Francis Monty" .
+
+schema:authorBabelio777 a author: ;
+    schema:familyName "Norma Dunning" .
+
+schema:authorBabelio778 a author: ;
+    schema:familyName "Claire Franck" .
+
+schema:authorBabelio779 a author: ;
+    schema:familyName "Frédéric du Bus" .
+
+schema:authorBabelio78 a author: ;
+    schema:familyName "Jonathan Durand Folco" .
+
+schema:authorBabelio780 a author: ;
+    schema:familyName "Joseph Lister Rutledge" .
+
+schema:authorBabelio781 a author: ;
+    schema:familyName "Malcolm Lowry" .
+
+schema:authorBabelio782 a author: ;
+    schema:familyName "Hiro Kanagawa" .
+
+schema:authorBabelio783 a author: ;
+    schema:familyName "François Rioux" .
+
+schema:authorBabelio784 a author: ;
+    schema:familyName "Ralph Gustafson" .
+
+schema:authorBabelio785 a author: ;
+    schema:familyName "Marian Oestreicher-Jourdain" .
+
+schema:authorBabelio786 a author: ;
+    schema:familyName "Fadi Malek" .
+
+schema:authorBabelio787 a author: ;
+    schema:familyName "Fabrizio Silir" .
+
+schema:authorBabelio788 a author: ;
+    schema:familyName "Mauricio A.C. Quarello" .
+
+schema:authorBabelio789 a author: ;
+    schema:familyName "Miyuki Tanobe" .
+
+schema:authorBabelio79 a author: ;
+    schema:familyName "Sonia Marmen" .
+
+schema:authorBabelio790 a author: ;
+    schema:familyName "Joan Thomas" .
+
+schema:authorBabelio791 a author: ;
+    schema:familyName "Bingchun Huang" .
+
+schema:authorBabelio792 a author: ;
+    schema:familyName "David Stahler Jr" .
+
+schema:authorBabelio793 a author: ;
+    schema:familyName "Vilborg Dagbarstdóttir" .
+
+schema:authorBabelio794 a author: ;
+    schema:familyName "Fred A. Reed" .
+
+schema:authorBabelio795 a author: ;
+    schema:familyName "C. Castellucci" .
+
+schema:authorBabelio796 a author: ;
+    schema:familyName "S. Varon" .
+
+schema:authorBabelio797 a author: ;
+    schema:familyName "Alain Bergeron" .
+
+schema:authorBabelio798 a author: ;
+    schema:familyName "Jean Larose" .
+
+schema:authorBabelio799 a author: ;
+    schema:familyName "Paulette Jiles" .
+
+schema:authorBabelio8 a author: ;
+    schema:familyName "Kirihara Izumi" .
+
+schema:authorBabelio80 a author: ;
+    schema:familyName "Anne Collins" .
+
+schema:authorBabelio800 a author: ;
+    schema:familyName "Emily St. John Mandel" .
+
+schema:authorBabelio801 a author: ;
+    schema:familyName "Thérèse Roche" .
+
+schema:authorBabelio802 a author: ;
+    schema:familyName "S. Dowd" .
+
+schema:authorBabelio803 a author: ;
+    schema:familyName "L. Christopher" .
+
+schema:authorBabelio804 a author: ;
+    schema:familyName "Matt Cohen" .
+
+schema:authorBabelio805 a author: ;
+    schema:familyName "Guy Chaty" .
+
+schema:authorBabelio806 a author: ;
+    schema:familyName "Xenia Lassak" .
+
+schema:authorBabelio807 a author: ;
+    schema:familyName "Christiane Frenette" .
+
+schema:authorBabelio808 a author: ;
+    schema:familyName "Bruce Hutchison" .
+
+schema:authorBabelio809 a author: ;
+    schema:familyName "Irving Layton" .
+
+schema:authorBabelio81 a author: ;
+    schema:familyName "Myriam Vincent" .
+
+schema:authorBabelio810 a author: ;
+    schema:familyName "H. Montardre" .
+
+schema:authorBabelio811 a author: ;
+    schema:familyName "Dionne Brand" .
+
+schema:authorBabelio812 a author: ;
+    schema:familyName "M.G. Vassanji" .
+
+schema:authorBabelio813 a author: ;
+    schema:familyName "Aljocha Blau" .
+
+schema:authorBabelio814 a author: ;
+    schema:familyName "Kim Senklip Harvey" .
+
+schema:authorBabelio815 a author: ;
+    schema:familyName "Peter Behrens" .
+
+schema:authorBabelio816 a author: ;
+    schema:familyName "Albert W. Halsall" .
+
+schema:authorBabelio817 a author: ;
+    schema:familyName "Christophe Bernard" .
+
+schema:authorBabelio818 a author: ;
+    schema:familyName "B. Ciccolini" .
+
+schema:authorBabelio819 a author: ;
+    schema:familyName "Kevin Kerr" .
+
+schema:authorBabelio82 a author: ;
+    schema:familyName "Ian Ross" .
+
+schema:authorBabelio820 a author: ;
+    schema:familyName "Andryi Lesiv" .
+
+schema:authorBabelio821 a author: ;
+    schema:familyName "Chao Zhang" .
+
+schema:authorBabelio822 a author: ;
+    schema:familyName "Hélène Monette" .
+
+schema:authorBabelio823 a author: ;
+    schema:familyName "Un collectif d'écoliers innus" .
+
+schema:authorBabelio824 a author: ;
+    schema:familyName "Oana Avasilichioaei" .
+
+schema:authorBabelio825 a author: ;
+    schema:familyName "Amy Dyckman" .
+
+schema:authorBabelio826 a author: ;
+    schema:familyName "Zachariah Ohora" .
+
+schema:authorBabelio827 a author: ;
+    schema:familyName "Judith Lavoie" .
+
+schema:authorBabelio828 a author: ;
+    schema:familyName "Claire Chabalier" .
+
+schema:authorBabelio829 a author: ;
+    schema:familyName "Louise Chabalier" .
+
+schema:authorBabelio83 a author: ;
+    schema:familyName "Dai Sijie" .
+
+schema:authorBabelio830 a author: ;
+    schema:familyName "Réjean Robidoux" .
+
+schema:authorBabelio831 a author: ;
+    schema:familyName "Anna Kendel" .
+
+schema:authorBabelio832 a author: ;
+    schema:familyName "Marie McPhedran" .
+
+schema:authorBabelio833 a author: ;
+    schema:familyName "Elham Asadi" .
+
+schema:authorBabelio834 a author: ;
+    schema:familyName "Roman" .
+
+schema:authorBabelio835 a author: ;
+    schema:familyName "Grit Poppe" .
+
+schema:authorBabelio836 a author: ;
+    schema:familyName "Kim Hee-Kyung" .
+
+schema:authorBabelio837 a author: ;
+    schema:familyName "Lucrecia Zappi" .
+
+schema:authorBabelio838 a author: ;
+    schema:familyName "Maria Carolina Sampaio" .
+
+schema:authorBabelio839 a author: ;
+    schema:familyName "Loup Michiels" .
+
+schema:authorBabelio84 a author: ;
+    schema:familyName "Stephanie Bolster" .
+
+schema:authorBabelio840 a author: ;
+    schema:familyName "Thomas Gerbaux" .
+
+schema:authorBabelio841 a author: ;
+    schema:familyName "Dave Godfrey" .
+
+schema:authorBabelio842 a author: ;
+    schema:familyName "Monique Proulx" .
+
+schema:authorBabelio843 a author: ;
+    schema:familyName "Philippe Soldevila" .
+
+schema:authorBabelio844 a author: ;
+    schema:familyName "Christiant Léourier" .
+
+schema:authorBabelio845 a author: ;
+    schema:familyName "João Vaz de Carvalho" .
+
+schema:authorBabelio846 a author: ;
+    schema:familyName "Imène Mébarki" .
+
+schema:authorBabelio847 a author: ;
+    schema:familyName "Julina Goes" .
+
+schema:authorBabelio848 a author: ;
+    schema:familyName "Mônica Cristina Corrêa" .
+
+schema:authorBabelio849 a author: ;
+    schema:familyName "Christelle Saquet" .
+
+schema:authorBabelio85 a author: ;
+    schema:familyName "Michel Marc Bouchard" .
+
+schema:authorBabelio850 a author: ;
+    schema:familyName "N.M. Zimmermann" .
+
+schema:authorBabelio851 a author: ;
+    schema:familyName "Qu Lan" .
+
+schema:authorBabelio852 a author: ;
+    schema:familyName "Philippe Nessman" .
+
+schema:authorBabelio853 a author: ;
+    schema:familyName "Fondation du Renouveau Pédagogique" .
+
+schema:authorBabelio854 a author: ;
+    schema:familyName "Abdelkader Belarbi" .
+
+schema:authorBabelio855 a author: ;
+    schema:familyName "Nora Arceval" .
+
+schema:authorBabelio856 a author: ;
+    schema:familyName "Anne Silvestre" .
+
+schema:authorBabelio857 a author: ;
+    schema:familyName "Ion Guangã" .
+
+schema:authorBabelio858 a author: ;
+    schema:familyName "Lamia El Saad" .
+
+schema:authorBabelio859 a author: ;
+    schema:familyName "Danielle Grondein" .
+
+schema:authorBabelio86 a author: ;
+    schema:familyName "Emmanuelle Riendeau" .
+
+schema:authorBabelio860 a author: ;
+    schema:familyName "Saint Chamas" .
+
+schema:authorBabelio861 a author: ;
+    schema:familyName "Jean Rolland" .
+
+schema:authorBabelio862 a author: ;
+    schema:familyName "Jabbour Douaihy" .
+
+schema:authorBabelio863 a author: ;
+    schema:familyName "Marianne Poncelet" .
+
+schema:authorBabelio864 a author: ;
+    schema:familyName "Nadine Saunier" .
+
+schema:authorBabelio865 a author: ;
+    schema:familyName "Brigitte Level" .
+
+schema:authorBabelio866 a author: ;
+    schema:familyName "Dominique Saint Mars" .
+
+schema:authorBabelio867 a author: ;
+    schema:familyName "Mahmoud Megri" .
+
+schema:authorBabelio868 a author: ;
+    schema:familyName "Oralee Watcher" .
+
+schema:authorBabelio869 a author: ;
+    schema:familyName "Huguette Perol" .
+
+schema:authorBabelio87 a author: ;
+    schema:familyName "Juan Carlos Palomino" .
+
+schema:authorBabelio870 a author: ;
+    schema:familyName "Richard Alarie" .
+
+schema:authorBabelio871 a author: ;
+    schema:familyName "Béatrix Saule" .
+
+schema:authorBabelio872 a author: ;
+    schema:familyName "Pierre Cardin" .
+
+schema:authorBabelio873 a author: ;
+    schema:familyName "Gérard Hubert-Richou" .
+
+schema:authorBabelio874 a author: ;
+    schema:familyName "René Ouellet" .
+
+schema:authorBabelio875 a author: ;
+    schema:familyName "Jean-Louis Picoche" .
+
+schema:authorBabelio876 a author: ;
+    schema:familyName "Marie Chevallier" .
+
+schema:authorBabelio877 a author: ;
+    schema:familyName "Enfants du Burkina Faso" .
+
+schema:authorBabelio878 a author: ;
+    schema:familyName "Barry Lane" .
+
+schema:authorBabelio879 a author: ;
+    schema:familyName "Jean Touvet" .
+
+schema:authorBabelio88 a author: ;
+    schema:familyName "Michel Lautru" .
+
+schema:authorBabelio880 a author: ;
+    schema:familyName "Sor Sisavang" .
+
+schema:authorBabelio881 a author: ;
+    schema:familyName "Irène de Pennart" .
+
+schema:authorBabelio882 a author: ;
+    schema:familyName "Andrée Malifaud" .
+
+schema:authorBabelio883 a author: ;
+    schema:familyName "Yvette Toubeau" .
+
+schema:authorBabelio884 a author: ;
+    schema:familyName "Gérard Viguié" .
+
+schema:authorBabelio885 a author: ;
+    schema:familyName "Kati Rekai" .
+
+schema:authorBabelio886 a author: ;
+    schema:familyName "Geneviève Huriet" .
+
+schema:authorBabelio887 a author: ;
+    schema:familyName "Père Mansour Labaky" .
+
+schema:authorBabelio888 a author: ;
+    schema:familyName "Hélène Montarde" .
+
+schema:authorBabelio889 a author: ;
+    schema:familyName "Simon Quitterie" .
+
+schema:authorBabelio89 a author: ;
+    schema:familyName "Chantal Groléziat" .
+
+schema:authorBabelio890 a author: ;
+    schema:familyName "Charlotte Gayral" .
+
+schema:authorBabelio891 a author: ;
+    schema:familyName "Jean-Léonard de Meuron" .
+
+schema:authorBabelio892 a author: ;
+    schema:familyName "Raymond Souster" .
+
+schema:authorBabelio893 a author: ;
+    schema:familyName "ill. par Perceval Barrier" .
+
+schema:authorBabelio894 a author: ;
+    schema:familyName "P J Lynch" .
+
+schema:authorBabelio895 a author: ;
+    schema:familyName "Alan Lee" .
+
+schema:authorBabelio896 a author: ;
+    schema:familyName "Barbara Firth" .
+
+schema:authorBabelio897 a author: ;
+    schema:familyName "Gail E Haley" .
+
+schema:authorBabelio898 a author: ;
+    schema:familyName "Victor Ambrus" .
+
+schema:authorBabelio899 a author: ;
+    schema:familyName "Katya Balen" .
+
+schema:authorBabelio9 a author: ;
+    schema:familyName "Miaki Sugaru" .
+
+schema:authorBabelio90 a author: ;
+    schema:familyName "M.T. Kelly" .
+
+schema:authorBabelio900 a author: ;
+    schema:familyName "Tanya Landman" .
+
+schema:authorBabelio901 a author: ;
+    schema:familyName "Charles Keeping" .
+
+schema:authorBabelio902 a author: ;
+    schema:familyName "C W Hodges" .
+
+schema:authorBabelio903 a author: ;
+    schema:familyName "Brian Wildsmith" .
+
+schema:authorBabelio904 a author: ;
+    schema:familyName "William Stobbs" .
+
+schema:authorBabelio905 a author: ;
+    schema:familyName "V H Drummond" .
+
+schema:authorBabelio906 a author: ;
+    schema:familyName "Amina Luqman-Dawson" .
+
+schema:authorBabelio907 a author: ;
+    schema:familyName "Donna Barba Higuera" .
+
+schema:authorBabelio908 a author: ;
+    schema:familyName "Tae Keller" .
+
+schema:authorBabelio909 a author: ;
+    schema:familyName "Jerry Craft" .
+
+schema:authorBabelio91 a author: ;
+    schema:familyName "Andrzej Pilichowski-Ragno" .
+
+schema:authorBabelio910 a author: ;
+    schema:familyName "Clare Vanderpool" .
+
+schema:authorBabelio911 a author: ;
+    schema:familyName "Feng Jicai" .
+
+schema:authorBabelio912 a author: ;
+    schema:familyName "Fiona French" .
+
+schema:authorBabelio913 a author: ;
+    schema:familyName "Phillipe Béha" .
+
+schema:authorBabelio914 a author: ;
+    schema:familyName "Gabrielle Grandbois" .
+
+schema:authorBabelio915 a author: ;
+    schema:familyName "Louise Pomminville" .
+
+schema:authorBabelio916 a author: ;
+    schema:familyName "Alric" .
+
+schema:authorBabelio917 a author: ;
+    schema:familyName "Rémy Salillard" .
+
+schema:authorBabelio918 a author: ;
+    schema:familyName "Brian Selznik" .
+
+schema:authorBabelio919 a author: ;
+    schema:familyName "Chris Riddekk" .
+
+schema:authorBabelio92 a author: ;
+    schema:familyName "Pierre Ouellet" .
+
+schema:authorBabelio920 a author: ;
+    schema:familyName "De Nicols" .
+
+schema:authorBabelio921 a author: ;
+    schema:familyName "Diana Dagadita" .
+
+schema:authorBabelio922 a author: ;
+    schema:familyName "Diego Becas" .
+
+schema:authorBabelio923 a author: ;
+    schema:familyName "Olivia Twist" .
+
+schema:authorBabelio924 a author: ;
+    schema:familyName "Saddo" .
+
+schema:authorBabelio925 a author: ;
+    schema:familyName "Ana Palmero" .
+
+schema:authorBabelio926 a author: ;
+    schema:familyName "María José Ferrada" .
+
+schema:authorBabelio927 a author: ;
+    schema:familyName "Sun Jun" .
+
+schema:authorBabelio928 a author: ;
+    schema:familyName "Sakana Sakatsuki" .
+
+schema:authorBabelio929 a author: ;
+    schema:familyName "Elizabeth Partridge" .
+
+schema:authorBabelio93 a author: ;
+    schema:familyName "David Peña" .
+
+schema:authorBabelio930 a author: ;
+    schema:familyName "Lauren Tamaki" .
+
+schema:authorBabelio931 a author: ;
+    schema:familyName "Errol Le Cain" .
+
+schema:authorBabelio932 a author: ;
+    schema:familyName "Elizabeth Atkinson" .
+
+schema:authorBabelio933 a author: ;
+    schema:familyName "Michaela Goade" .
+
+schema:authorBabelio934 a author: ;
+    schema:familyName "Adrienne Kennaway" .
+
+schema:authorBabelio935 a author: ;
+    schema:familyName "Doug Salati" .
+
+schema:authorBabelio936 a author: ;
+    schema:familyName "Krystyna Turska" .
+
+schema:authorBabelio937 a author: ;
+    schema:familyName "Sébastien B. Gagnon" .
+
+schema:authorBabelio938 a author: ;
+    schema:familyName "Pierre Déon" .
+
+schema:authorBabelio939 a author: ;
+    schema:familyName "Nicolas Robel" .
+
+schema:authorBabelio94 a author: ;
+    schema:familyName "Anne Legault" .
+
+schema:authorBabelio940 a author: ;
+    schema:familyName "Philippe Quinta" .
+
+schema:authorBabelio941 a author: ;
+    schema:familyName "Linda Brousseau" .
+
+schema:authorBabelio942 a author: ;
+    schema:familyName "Véro Cazot" .
+
+schema:authorBabelio943 a author: ;
+    schema:familyName "James Wreford Watson" .
+
+schema:authorBabelio944 a author: ;
+    schema:familyName "Vern Thiessen" .
+
+schema:authorBabelio945 a author: ;
+    schema:familyName "Jacques Languirand" .
+
+schema:authorBabelio946 a author: ;
+    schema:familyName "Hélène Bellanger" .
+
+schema:authorBabelio947 a author: ;
+    schema:familyName "Marie-José Sacré" .
+
+schema:authorBabelio948 a author: ;
+    schema:familyName "Adele Wiseman" .
+
+schema:authorBabelio949 a author: ;
+    schema:familyName "André Giroux" .
+
+schema:authorBabelio95 a author: ;
+    schema:familyName "bpNichol" .
+
+schema:authorBabelio950 a author: ;
+    schema:familyName "Rachel Gilbert" .
+
+schema:authorBabelio951 a author: ;
+    schema:familyName "D'après Andersen" .
+
+schema:authorBabelio952 a author: ;
+    schema:familyName "Josephine Phelan" .
+
+schema:authorBabelio953 a author: ;
+    schema:familyName "François Archambault" .
+
+schema:authorBabelio954 a author: ;
+    schema:familyName "Robert Calder" .
+
+schema:authorBabelio955 a author: ;
+    schema:familyName "Sylvie Drapeau" .
+
+schema:authorBabelio956 a author: ;
+    schema:familyName "M. Carteron" .
+
+schema:authorBabelio957 a author: ;
+    schema:familyName "Robert Kroetsch" .
+
+schema:authorBabelio958 a author: ;
+    schema:familyName "Erin Shields" .
+
+schema:authorBabelio959 a author: ;
+    schema:familyName "A. Cousseau" .
+
+schema:authorBabelio96 a author: ;
+    schema:familyName "F. Mauve" .
+
+schema:authorBabelio960 a author: ;
+    schema:familyName "P.-H. Turin" .
+
+schema:authorBabelio961 a author: ;
+    schema:familyName "John Vaillant" .
+
+schema:authorBabelio962 a author: ;
+    schema:familyName "Joël Champetier" .
+
+schema:authorBabelio963 a author: ;
+    schema:familyName "Laurence-Delphine Henno" .
+
+schema:authorBabelio964 a author: ;
+    schema:familyName "Jadwiga Okrassa" .
+
+schema:authorBabelio965 a author: ;
+    schema:familyName "James Eayrs" .
+
+schema:authorBabelio966 a author: ;
+    schema:familyName "Michel Pleau" .
+
+schema:authorBabelio967 a author: ;
+    schema:familyName "José Feron" .
+
+schema:authorBabelio968 a author: ;
+    schema:familyName "David Yee" .
+
+schema:authorBabelio969 a author: ;
+    schema:familyName "Haydé" .
+
+schema:authorBabelio97 a author: ;
+    schema:familyName "M. Leydier" .
+
+schema:authorBabelio970 a author: ;
+    schema:familyName "Yvon Maufret" .
+
+schema:authorBabelio971 a author: ;
+    schema:familyName "Sophie Perreault-Allen" .
+
+schema:authorBabelio972 a author: ;
+    schema:familyName "Philip Stratford" .
+
+schema:authorBabelio973 a author: ;
+    schema:familyName "Marta Ignerska" .
+
+schema:authorBabelio974 a author: ;
+    schema:familyName "José Manuel Mateo" .
+
+schema:authorBabelio975 a author: ;
+    schema:familyName "Lara Assouad Khoury" .
+
+schema:authorBabelio976 a author: ;
+    schema:familyName "Nadine R. L. Tourna" .
+
+schema:authorBabelio977 a author: ;
+    schema:familyName "Alain M. Bergeron, Fil" .
+
+schema:authorBabelio978 a author: ;
+    schema:familyName "Graeme Wood" .
+
+schema:authorBabelio979 a author: ;
+    schema:familyName "Aurélien Galvan" .
+
+schema:authorBabelio98 a author: ;
+    schema:familyName "Alden Nowlan" .
+
+schema:authorBabelio980 a author: ;
+    schema:familyName "Robert Chafe" .
+
+schema:authorBabelio981 a author: ;
+    schema:familyName "Georges Leroux" .
+
+schema:authorBabelio982 a author: ;
+    schema:familyName "M. Willems" .
+
+schema:authorBabelio983 a author: ;
+    schema:familyName "E.S. Green" .
+
+schema:authorBabelio984 a author: ;
+    schema:familyName "Susanna Gandolfi" .
+
+schema:authorBabelio985 a author: ;
+    schema:familyName "Pierre Ferran" .
+
+schema:authorBabelio986 a author: ;
+    schema:familyName "Annie Legrandeur" .
+
+schema:authorBabelio987 a author: ;
+    schema:familyName "Nicole Houde" .
+
+schema:authorBabelio988 a author: ;
+    schema:familyName "Greg Hollingshead" .
+
+schema:authorBabelio989 a author: ;
+    schema:familyName "Alessandra Mc" .
+
+schema:authorBabelio99 a author: ;
+    schema:familyName "Dorothy Livesay" .
+
+schema:authorBabelio990 a author: ;
+    schema:familyName "Evija Pintāne" .
+
+schema:authorBabelio991 a author: ;
+    schema:familyName "Luīze Pastore" .
+
+schema:authorBabelio992 a author: ;
+    schema:familyName "Michelangelo Setola" .
+
+schema:authorBabelio993 a author: ;
+    schema:familyName "Clemens Maurer" .
+
+schema:authorBabelio994 a author: ;
+    schema:familyName "Gabriel Nadeau-Dubois" .
+
+schema:authorBabelio995 a author: ;
+    schema:familyName "Frédérique Bernier" .
+
+schema:authorBabelio996 a author: ;
+    schema:familyName "Hélène Breda" .
+
+schema:authorBabelio997 a author: ;
+    schema:familyName "Richard Greene" .
+
+schema:authorBabelio998 a author: ;
+    schema:familyName "Maurice Lagueux" .
+
+schema:authorBabelio999 a author: ;
+    schema:familyName "Michael Bedard" .
 
 schema:authorConstellations0 a author: ;
     schema:familyName "Julie Delporte" .

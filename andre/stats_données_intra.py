@@ -198,7 +198,7 @@ g.parse("final_datasets/constellations.ttl", format="turtle")
 stats_constellation = IntraDBStats(source="Constellation")
 
 for book in g.subjects(RDF.type, utils.schema.Book):
-    book_data = utils.extract_data_constellation(g, book)
+    book_data = utils.extract_data_constellations(g, book)
     stats_constellation.count(book_data)
 
 stats_constellation.print_stats()

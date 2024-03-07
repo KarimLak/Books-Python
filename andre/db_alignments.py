@@ -24,7 +24,7 @@ g.parse("../final_datasets/constellations.ttl", format="turtle")
 
 # constellation loop
 for book in g.subjects(RDF.type, utils.schema.Book):
-    book_data_raw = utils.extract_data_constellation(g, book)
+    book_data_raw = utils.extract_data_constellations(g, book)
     book_data_preprocessed: utils.RdfBookData = \
         utils.remove_special_chars(
             utils.remove_accents(

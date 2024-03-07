@@ -40,7 +40,7 @@ g.parse("data/light stats/output_constellations_light_extended.ttl", format="tur
 # constellation loop
 
 for book in g.subjects(RDF.type, ns1.Book):
-    book_data_raw = utils.extract_data_constellation(g, book)
+    book_data_raw = utils.extract_data_constellations(g, book)
     book_data_preprocessed: utils.RdfBookData = \
         utils.remove_special_chars(
             utils.remove_accents(
