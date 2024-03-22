@@ -159,9 +159,10 @@ def extract_data_alignment(graph, alignment_uri):
 def extract_data_constellations(graph, book):
     book_name = str(graph.value(book, schema.name)) if graph.value(book, schema.name) else str(
         graph.value(book, schema.title))  # name vs title in database
-    book_authors = list(graph.objects(book, schema.author))
+    book_author_string = list(graph.objects(book, pbs.authorString))
+    book_authors = list(graph.objects(book, pbs.authorString))
+    book_authors = [str(a) for a in book_authors]
     illustrator = str(graph.value(book, schema.illustrator)) if graph.value(book, schema.illustrator) else ""
-    book_authors_str = [str(a) for a in book_authors]
     age_range = list(graph.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
     url = str(graph.value(book, pbs.constellationLink))
@@ -170,15 +171,15 @@ def extract_data_constellations(graph, book):
     isbn_list = list(graph.objects(book, schema.isbn))
     isbn_list = [str(isbn) for isbn in isbn_list]
     uri = book
-    return RdfBookData(book_name=book_name, book_authors=book_authors_str, age_range_int=age_range_int, url=url,
+    return RdfBookData(book_name=book_name, book_authors=book_author_string, age_range_int=age_range_int, url=url,
                        publication_date=publication_date, publisher=publisher, isbn=isbn_list, uri=uri, illustrator=illustrator)
 
 # no url for btlf data
 def extract_data_btlf(graph, book):
     book_name = str(graph.value(book, schema.name)) if graph.value(book, schema.name) else ""
-    # book_author = str(graph.value(book, pbs.authorString)) if graph.value(book, pbs.authorString) else ""
+    book_author_string = list(graph.objects(book, pbs.authorString))
     book_authors = list(graph.objects(book, schema.author))
-    book_authors_str = [str(a) for a in book_authors]
+    book_authors = [str(a) for a in book_authors]
     age_range = list(graph.objects(book, pbs.age))
     age_range_int = [int(age) for age in age_range]
     publication_date = str(graph.value(book, schema.datePublished))
@@ -189,15 +190,16 @@ def extract_data_btlf(graph, book):
     isbn_list = list(graph.objects(book, schema.isbn))
     isbn_list = [str(isbn) for isbn in isbn_list]
     uri = book
-    return RdfBookData(book_name=book_name, book_authors=book_authors_str, age_range_int=age_range_int,
+    return RdfBookData(book_name=book_name, book_authors=book_author_string, age_range_int=age_range_int,
                        publication_date=publication_date, publisher=publisher, isbn=isbn_list, uri=uri, url = uri, illustrator = illustrator)
 
 
 def extract_data_bnf(graph, book):
     book_name = str(graph.value(book, schema.name)) if graph.value(book, schema.name) else ""
     language = str(graph.value(book, schema.inLanguage)) if graph.value(book, schema.inLanguage) else ""
+    book_author_string = list(graph.objects(book, pbs.authorString))
     book_authors = list(graph.objects(book, schema.author))
-    book_authors_str = [str(a) for a in book_authors]
+    book_authors = [str(a) for a in book_authors]
     illustrator = str(graph.value(book, schema.illustrator)) if graph.value(book, schema.illustrator) else ""
     age_range = list(graph.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
@@ -210,15 +212,16 @@ def extract_data_bnf(graph, book):
     ean_list = list(graph.objects(book, pbs.ean))
     ean_list = [str(ean) for ean in ean_list]
     uri = book
-    return RdfBookData(book_name=book_name, book_authors=book_authors_str, age_range_int=age_range_int, url=url,
+    return RdfBookData(book_name=book_name, book_authors=book_author_string, age_range_int=age_range_int, url=url,
                        publication_date=publication_date, publisher=publisher, isbn=isbn_list, uri=uri, ean=ean_list, language=language, illustrator=illustrator)
 
 
 def extract_data_babelio(graph, book):
     book_name = str(graph.value(book, schema.name)) if graph.value(book, schema.name) else ""
     language = str(graph.value(book, schema.inLanguage)) if graph.value(book, schema.inLanguage) else ""
+    book_author_string = list(graph.objects(book, pbs.authorString))
     book_authors = list(graph.objects(book, schema.author))
-    book_authors_str = [str(a) for a in book_authors]
+    book_authors = [str(a) for a in book_authors]
     illustrator = str(graph.value(book, schema.illustrator)) if graph.value(book, schema.illustrator) else ""
     age_range = list(graph.objects(book, pbs.ageRange))
     age_range_int = [int(age) for age in age_range]
@@ -229,7 +232,7 @@ def extract_data_babelio(graph, book):
     isbn_list = list(graph.objects(book, schema.isbn))
     isbn_list = [str(isbn) for isbn in isbn_list]
     uri = book
-    return RdfBookData(book_name=book_name, book_authors=book_authors_str, age_range_int=age_range_int,
+    return RdfBookData(book_name=book_name, book_authors=book_author_string, age_range_int=age_range_int,
                        publication_date=publication_date, publisher=publisher, isbn=isbn_list, ean=ean_list, uri=uri, url = uri, language=language, illustrator=illustrator) # only ean available
 
 def extract_data_lurelu(graph, book):
