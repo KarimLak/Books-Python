@@ -5,6 +5,7 @@ import logging
 from difflib import SequenceMatcher
 import os
 import numpy as np
+import Levenshtein
 
 EPSILON = 0.00001
 
@@ -17,6 +18,17 @@ xsd = rdflib.namespace.Namespace('http://www.w3.org/2001/XMLSchema#')
 
 def cosine_similarity(vec1, vec2):
     return np.dot(vec1, vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2)) 
+
+def align_with_levenshtein(author_source, author_btlf, levenshtein_distance=0):
+    author_source_preprocessed = preprocess_author_name(author_source)
+    author_btlf_preprocessed = preprocess_author_name(author_btlf)
+    distance = Levenshtein.distance(author_source_preprocessed, author_btlf_preprocessed)
+    if (len(author_source_preprocessed) > distance + 1 # to avoid false positives with short names and big distances
+        and len(author_btlf_preprocessed) > distance + 1
+        and distance <= levenshtein_distance):
+        print(f"Levenshtein Author alignment: {author_source} -> {author_btlf} | distance = {distance}")
+        return True
+    return False
 
 
 def preprocess_theme_list(theme_list):
