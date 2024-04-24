@@ -30,6 +30,15 @@ def align_with_levenshtein(author_source, author_btlf, levenshtein_distance=0):
         return True
     return False
 
+def preprocess_theme(theme):
+    theme = re.sub(r'\(.*?\)', '', theme)
+    theme = theme.lower()
+    theme = theme.rsplit("/")[0]
+    theme = theme.rsplit(",")[0]
+    theme = theme.rsplit(" ")[0] if theme.rsplit(" ")[0] != "the" else theme.rsplit(" ")[1]
+    
+    return theme
+
 
 def preprocess_theme_list(theme_list):
     theme_list = [re.sub(r'\(.*?\)', '', theme) for theme in theme_list]
