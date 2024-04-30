@@ -6,6 +6,7 @@ from difflib import SequenceMatcher
 import os
 import numpy as np
 import Levenshtein
+import tiktoken
 
 EPSILON = 0.00001
 
@@ -15,6 +16,21 @@ btlf_classe = rdflib.namespace.Namespace("http://www.btlf.com/classe/")
 btlf_livre = rdflib.namespace.Namespace("http://www.btlf.com/livre/")
 xsd = rdflib.namespace.Namespace('http://www.w3.org/2001/XMLSchema#')
 
+def get_thema_node_depth(thema_code):
+    code_temp = str(thema_code)
+    if "-" in code_temp:
+        code_temp = re.sub(r'-.*-', 'Z', code_temp)  # replace "-*-" pattern with "Z" because this pattern represent a depth of 1 regardless of the number of letters
+        code_length = len(code_temp) - 1
+    else:
+        code_length = len(code_temp) - 1 # root has depth 0
+
+    return code_length # code length represent the depths of the node in the thesaurus
+
+def num_tokens_from_string(string: str, encoding_name: str) -> int:
+    """Returns the number of tokens in a text string."""
+    encoding = tiktoken.get_encoding(encoding_name)
+    num_tokens = len(encoding.encode(string))
+    return num_tokens
 
 def cosine_similarity(vec1, vec2):
     return np.dot(vec1, vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2)) 
