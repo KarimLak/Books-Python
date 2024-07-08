@@ -1,0 +1,24 @@
+PREFIX pbs: <http://www.example.org/pbs#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX schema: <http://schema.org/>
+
+CONSTRUCT {?book1 owl:sameAs ?book2} where { 
+        {  
+        ?book1 pbs:infoSource pbs:BTLF ;
+			   schema:isbn ?isbn .  
+        ?book2 pbs:infoSource pbs:Constellations ;
+               schema:isbn ?isbn .      
+       } UNION
+       { 
+        ?book1 pbs:infoSource pbs:BTLF ;
+			   schema:isbn ?isbn .  
+        ?book2 pbs:infoSource pbs:BNF ;
+               schema:isbn ?isbn .       
+       } UNION
+       { 
+        ?book1 pbs:infoSource pbs:BTLF ;
+			   schema:isbn ?isbn .  
+        ?book2 pbs:infoSource pbs:Babelio ;
+               schema:isbn ?isbn .       
+       }
+}
